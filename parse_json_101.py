@@ -6,7 +6,9 @@ chat_id = "813012401"
 
 
 channel_id = 79  # cyber space
-channel = "Cyber Space"
+# channel_id = 74  # eurodance 90x
+# channel_id = 151  # Rave
+# channel = "Cyber Space"
 
 
 for i in range(10000):
@@ -25,7 +27,7 @@ for i in range(10000):
         print(cover)
         print(mp3)
 
-        data = json.load(open("db101.json", "r", encoding='utf-8'))
+        data = json.load(open("db101_cyber_space.json", "r", encoding='utf-8'))
         all_tracks = []
         for track in data["tracks"]:
             all_tracks.append(list(track.keys())[0])
@@ -38,7 +40,7 @@ for i in range(10000):
             }
 
             data["tracks"].append(json_data)
-            with open("db101.json", "w", encoding='utf-8') as file:
+            with open("db101_cyber_space.json", "w", encoding='utf-8') as file:
                 json.dump(data, file, indent=2, ensure_ascii=False)
 
             uni_telegram_bot.send_message(chat_id, len(all_tracks))
