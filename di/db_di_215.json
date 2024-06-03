@@ -1,0 +1,629 @@
+[
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Oliver Heldens & Armin Van Buuren B2B Ferry Corsten",
+    "display_artist": "Oliver Heldens & Armin Van Buuren B2B Ferry Corsten",
+    "title": "UMF Radio 763 (23 December 2023)",
+    "display_title": "UMF Radio 763 (23 December 2023)",
+    "track": "Oliver Heldens & Armin Van Buuren B2B Ferry Corsten - UMF Radio 763 (23 December 2023)",
+    "length": 7004,
+    "duration": 7004,
+    "started": 1709799310,
+    "type": "track",
+    "track_id": 3085930,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Aly & Fila",
+    "display_artist": "Aly & Fila",
+    "title": "UMF Radio 715 (28 January 2023)",
+    "display_title": "UMF Radio 715 (28 January 2023)",
+    "track": "Aly & Fila - UMF Radio 715 (28 January 2023)",
+    "length": 6963,
+    "duration": 6963,
+    "started": 1709806314,
+    "type": "track",
+    "track_id": 3064414,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Pero Fullhouse",
+    "display_artist": "Pero Fullhouse",
+    "title": "UMF Radio 760 (02 December 2023)",
+    "display_title": "UMF Radio 760 (02 December 2023)",
+    "track": "Pero Fullhouse - UMF Radio 760 (02 December 2023)",
+    "length": 6977,
+    "duration": 6977,
+    "started": 1709813277,
+    "type": "track",
+    "track_id": 3084296,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Dubfire B2B Kolsh & Luke Hunter",
+    "display_artist": "Dubfire B2B Kolsh & Luke Hunter",
+    "title": "UMF Radio 738 (01 July 2023)",
+    "display_title": "UMF Radio 738 (01 July 2023)",
+    "track": "Dubfire B2B Kolsh & Luke Hunter - UMF Radio 738 (01 July 2023)",
+    "length": 7031,
+    "duration": 7031,
+    "started": 1709820254,
+    "type": "track",
+    "track_id": 3075184,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Anfisa Letyago & Alex Zinn",
+    "display_artist": "Anfisa Letyago & Alex Zinn",
+    "title": "UMF Radio 721 (04 March 2023)",
+    "display_title": "UMF Radio 721 (04 March 2023)",
+    "track": "Anfisa Letyago & Alex Zinn - UMF Radio 721 (04 March 2023)",
+    "length": 6987,
+    "duration": 6987,
+    "started": 1709827285,
+    "type": "track",
+    "track_id": 3066882,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Sam Paganini",
+    "display_artist": "Sam Paganini",
+    "title": "UMF Radio 745 (19 August 2023)",
+    "display_title": "UMF Radio 745 (19 August 2023)",
+    "track": "Sam Paganini - UMF Radio 745 (19 August 2023)",
+    "length": 6933,
+    "duration": 6933,
+    "started": 1709834272,
+    "type": "track",
+    "track_id": 3078127,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Steve Aoki & Dada Life",
+    "display_artist": "Steve Aoki & Dada Life",
+    "title": "UMF Radio 747 (02 September 2023)",
+    "display_title": "UMF Radio 747 (02 September 2023)",
+    "track": "Steve Aoki & Dada Life - UMF Radio 747 (02 September 2023)",
+    "length": 7000,
+    "duration": 7000,
+    "started": 1709841205,
+    "type": "track",
+    "track_id": 3078697,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Afrojack & Black V Neck",
+    "display_artist": "Afrojack & Black V Neck",
+    "title": "UMF Radio 727 (15 April 2023)",
+    "display_title": "UMF Radio 727 (15 April 2023)",
+    "track": "Afrojack & Black V Neck - UMF Radio 727 (15 April 2023)",
+    "length": 7026,
+    "duration": 7026,
+    "started": 1709848206,
+    "type": "track",
+    "track_id": 3070289,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "matHame",
+    "display_artist": "matHame",
+    "title": "UMF Radio 744 (12 August 2023)",
+    "display_title": "UMF Radio 744 (12 August 2023)",
+    "track": "matHame - UMF Radio 744 (12 August 2023)",
+    "length": 7008,
+    "duration": 7008,
+    "started": 1709862235,
+    "type": "track",
+    "track_id": 3077891,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Massano",
+    "display_artist": "Massano",
+    "title": "UMF Radio 749 (16 September 2023)",
+    "display_title": "UMF Radio 749 (16 September 2023)",
+    "track": "Massano - UMF Radio 749 (16 September 2023)",
+    "length": 7205,
+    "duration": 7205,
+    "started": 1709869244,
+    "type": "track",
+    "track_id": 3079754,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Axwell & Marcus Santoro",
+    "display_artist": "Axwell & Marcus Santoro",
+    "title": "UMF Radio 750 (23 September 2023)",
+    "display_title": "UMF Radio 750 (23 September 2023)",
+    "track": "Axwell & Marcus Santoro - UMF Radio 750 (23 September 2023)",
+    "length": 7000,
+    "duration": 7000,
+    "started": 1709883454,
+    "type": "track",
+    "track_id": 3080074,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Armin van Buuren",
+    "display_artist": "Armin van Buuren",
+    "title": "UMF Radio 725 (01 April 2023)",
+    "display_title": "UMF Radio 725 (01 April 2023)",
+    "track": "Armin van Buuren - UMF Radio 725 (01 April 2023)",
+    "length": 7220,
+    "duration": 7220,
+    "started": 1709897479,
+    "type": "track",
+    "track_id": 3069157,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Armin Van Buuren B2B Reinier Zonneveld & Vini Vici",
+    "display_artist": "Armin Van Buuren B2B Reinier Zonneveld & Vini Vici",
+    "title": "UMF Radio 700 (08 October 2022)",
+    "display_title": "UMF Radio 700 (08 October 2022)",
+    "track": "Armin Van Buuren B2B Reinier Zonneveld & Vini Vici - UMF Radio 700 (08 October 2022)",
+    "length": 7001,
+    "duration": 7001,
+    "started": 1709904699,
+    "type": "track",
+    "track_id": 3056631,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Kayzo & Ghastly",
+    "display_artist": "Kayzo & Ghastly",
+    "title": "UMF Radio 753 (14 October 2023)",
+    "display_title": "UMF Radio 753 (14 October 2023)",
+    "track": "Kayzo & Ghastly - UMF Radio 753 (14 October 2023)",
+    "length": 7194,
+    "duration": 7194,
+    "started": 1709925952,
+    "type": "track",
+    "track_id": 3081417,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Carl Cox",
+    "display_artist": "Carl Cox",
+    "title": "UMF Radio 699 (01 October 2022)",
+    "display_title": "UMF Radio 699 (01 October 2022)",
+    "track": "Carl Cox - UMF Radio 699 (01 October 2022)",
+    "length": 6986,
+    "duration": 6986,
+    "started": 1709933145,
+    "type": "track",
+    "track_id": 3056396,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Carl Cox",
+    "display_artist": "Carl Cox",
+    "title": "UMF Radio 717 (04 February 2023)",
+    "display_title": "UMF Radio 717 (04 February 2023)",
+    "track": "Carl Cox - UMF Radio 717 (04 February 2023)",
+    "length": 7137,
+    "duration": 7137,
+    "started": 1709940131,
+    "type": "track",
+    "track_id": 3065269,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Tale Of Us & Woo York",
+    "display_artist": "Tale Of Us & Woo York",
+    "title": "UMF Radio 694 (27 August 2022)",
+    "display_title": "UMF Radio 694 (27 August 2022)",
+    "track": "Tale Of Us & Woo York - UMF Radio 694 (27 August 2022)",
+    "length": 7082,
+    "duration": 7082,
+    "started": 1709968309,
+    "type": "track",
+    "track_id": 3054591,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Gareth Emery & Andrew Rayel",
+    "display_artist": "Gareth Emery & Andrew Rayel",
+    "title": "UMF Radio 686 (02 July 2022)",
+    "display_title": "UMF Radio 686 (02 July 2022)",
+    "track": "Gareth Emery & Andrew Rayel - UMF Radio 686 (02 July 2022)",
+    "length": 6971,
+    "duration": 6971,
+    "started": 1709975390,
+    "type": "track",
+    "track_id": 3051051,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Gheist & Brina Knauss",
+    "display_artist": "Gheist & Brina Knauss",
+    "title": "UMF Radio 768 (27 January 2024)",
+    "display_title": "UMF Radio 768 (27 January 2024)",
+    "track": "Gheist & Brina Knauss - UMF Radio 768 (27 January 2024)",
+    "length": 6925,
+    "duration": 6925,
+    "started": 1709989293,
+    "type": "track",
+    "track_id": 3087604,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Black Tiger Sex Machine & ISOxo",
+    "display_artist": "Black Tiger Sex Machine & ISOxo",
+    "title": "UMF Radio 774 (09 March 2024) ",
+    "display_title": "UMF Radio 774 (09 March 2024) ",
+    "track": "Black Tiger Sex Machine & ISOxo - UMF Radio 774 (09 March 2024) ",
+    "length": 6986,
+    "duration": 6986,
+    "started": 1710010970,
+    "type": "track",
+    "track_id": 3090210,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Maxim Lany",
+    "display_artist": "Maxim Lany",
+    "title": "UMF Radio 767 (20 January 2024)",
+    "display_title": "UMF Radio 767 (20 January 2024)",
+    "track": "Maxim Lany - UMF Radio 767 (20 January 2024)",
+    "length": 7268,
+    "duration": 7268,
+    "started": 1710017784,
+    "type": "track",
+    "track_id": 3087603,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Franky Wah & Tara Brooks",
+    "display_artist": "Franky Wah & Tara Brooks",
+    "title": "UMF Radio 761 (09 December 2023)",
+    "display_title": "UMF Radio 761 (09 December 2023)",
+    "track": "Franky Wah & Tara Brooks - UMF Radio 761 (09 December 2023)",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1710031907,
+    "type": "track",
+    "track_id": 3085026,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Brennen Grey & Cosmicat",
+    "display_artist": "Brennen Grey & Cosmicat",
+    "title": "UMF Radio 733 (27 May 2023)",
+    "display_title": "UMF Radio 733 (27 May 2023)",
+    "track": "Brennen Grey & Cosmicat - UMF Radio 733 (27 May 2023)",
+    "length": 7105,
+    "duration": 7105,
+    "started": 1710039106,
+    "type": "track",
+    "track_id": 3073066,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Joris Voorn & Franky Wah",
+    "display_artist": "Joris Voorn & Franky Wah",
+    "title": "UMF Radio 764 (30 December 2023)",
+    "display_title": "UMF Radio 764 (30 December 2023)",
+    "track": "Joris Voorn & Franky Wah - UMF Radio 764 (30 December 2023)",
+    "length": 7099,
+    "duration": 7099,
+    "started": 1710081146,
+    "type": "track",
+    "track_id": 3085931,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Gareth Emery & Blastoyz",
+    "display_artist": "Gareth Emery & Blastoyz",
+    "title": "UMF Radio 734 (03 June 2023)",
+    "display_title": "UMF Radio 734 (03 June 2023)",
+    "track": "Gareth Emery & Blastoyz - UMF Radio 734 (03 June 2023)",
+    "length": 6924,
+    "duration": 6924,
+    "started": 1710088245,
+    "type": "track",
+    "track_id": 3073523,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Juliet Fox & Baez",
+    "display_artist": "Juliet Fox & Baez",
+    "title": "UMF Radio 743 (05 August 2023)",
+    "display_title": "UMF Radio 743 (05 August 2023)",
+    "track": "Juliet Fox & Baez - UMF Radio 743 (05 August 2023)",
+    "length": 7027,
+    "duration": 7027,
+    "started": 1710130061,
+    "type": "track",
+    "track_id": 3077443,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "W&W & Maddix",
+    "display_artist": "W&W & Maddix",
+    "title": "UMF Radio 762 (16 December 2023)",
+    "display_title": "UMF Radio 762 (16 December 2023)",
+    "track": "W&W & Maddix - UMF Radio 762 (16 December 2023)",
+    "length": 7243,
+    "duration": 7243,
+    "started": 1710249642,
+    "type": "track",
+    "track_id": 3085317,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Hi-Lo",
+    "display_artist": "Hi-Lo",
+    "title": "UMF Radio 746 (26 August 2023)",
+    "display_title": "UMF Radio 746 (26 August 2023)",
+    "track": "Hi-Lo - UMF Radio 746 (26 August 2023)",
+    "length": 7156,
+    "duration": 7156,
+    "started": 1710270864,
+    "type": "track",
+    "track_id": 3078468,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Nora En Pure, Volaris & Paradoks",
+    "display_artist": "Nora En Pure, Volaris & Paradoks",
+    "title": "UMF Radio 772 (24 February 2024) - Nora En Pure, Volaris & Paradoks",
+    "display_title": "UMF Radio 772 (24 February 2024) - Nora En Pure, Volaris & Paradoks",
+    "track": "Nora En Pure, Volaris & Paradoks - UMF Radio 772 (24 February 2024) - Nora En Pure, Volaris & Paradoks",
+    "length": 7293,
+    "duration": 7293,
+    "started": 1710592613,
+    "type": "track",
+    "track_id": 3089551,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Dom Dolla B2B Vintage Culture & Los De La Vega",
+    "display_artist": "Dom Dolla B2B Vintage Culture & Los De La Vega",
+    "title": "UMF Radio 769 (03 February 2024)",
+    "display_title": "UMF Radio 769 (03 February 2024)",
+    "track": "Dom Dolla B2B Vintage Culture & Los De La Vega - UMF Radio 769 (03 February 2024)",
+    "length": 7245,
+    "duration": 7245,
+    "started": 1710599906,
+    "type": "track",
+    "track_id": 3087969,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/b/0/6/6/8/6b06684eeb54344e4094757d705ac1c0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/0/6/6/8/6b06684eeb54344e4094757d705ac1c0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Armin Van Buuren & Gareth Emery",
+    "display_artist": "Armin Van Buuren & Gareth Emery",
+    "title": "UMF Radio 775 (16 March 2024)",
+    "display_title": "UMF Radio 775 (16 March 2024)",
+    "track": "Armin Van Buuren & Gareth Emery - UMF Radio 775 (16 March 2024)",
+    "length": 7097,
+    "duration": 7097,
+    "started": 1710612000,
+    "type": "track",
+    "track_id": 3090854,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Fideles & Luke Hunter",
+    "display_artist": "Fideles & Luke Hunter",
+    "title": "UMF Radio 773 (02 March 2024) - Fideles & Luke Hunter",
+    "display_title": "UMF Radio 773 (02 March 2024) - Fideles & Luke Hunter",
+    "track": "Fideles & Luke Hunter - UMF Radio 773 (02 March 2024) - Fideles & Luke Hunter",
+    "length": 7240,
+    "duration": 7240,
+    "started": 1710784740,
+    "type": "track",
+    "track_id": 3089552,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 215,
+    "artist": "Hardwell & Maddix",
+    "display_artist": "Hardwell & Maddix",
+    "title": "UMF Radio 779 (13 April 2024)",
+    "display_title": "UMF Radio 779 (13 April 2024)",
+    "track": "Hardwell & Maddix - UMF Radio 779 (13 April 2024)",
+    "length": 7241,
+    "duration": 7241,
+    "started": 1713031200,
+    "type": "track",
+    "track_id": 3093024,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/2/7/e/9/b927e9f12354671dc4749d8c7ddd9ab0.png{?size,height,width,quality,pad}"
+    }
+  }
+]

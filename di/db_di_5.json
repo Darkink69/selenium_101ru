@@ -1,0 +1,5092 @@
+[
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "RJ Van Xetten",
+    "display_artist": "RJ Van Xetten",
+    "title": "Audiophile Sessions 043 (02 February 2024) guest Brian Flinn",
+    "display_title": "Audiophile Sessions 043 (02 February 2024) guest Brian Flinn",
+    "track": "RJ Van Xetten - Audiophile Sessions 043 (02 February 2024) guest Brian Flinn",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1709798328,
+    "type": "track",
+    "track_id": 3087932,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/f/2/5/f/8/3f25f8d2f13b64f7b130c6daa179c6cf.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/2/5/f/8/3f25f8d2f13b64f7b130c6daa179c6cf.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic & Mycorave",
+    "display_artist": "Nostic & Mycorave",
+    "title": "Binaural Beats (DJ187 Remix)",
+    "display_title": "Binaural Beats (DJ187 Remix)",
+    "track": "Nostic & Mycorave - Binaural Beats (DJ187 Remix)",
+    "length": 480,
+    "duration": 480,
+    "started": 1709805527,
+    "type": "track",
+    "track_id": 3088671,
+    "release": "Binaural Beats",
+    "art_url": "//cdn-images.audioaddict.com/c/8/d/6/4/0/c8d640bd686626ab779043300fdd8e75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/d/6/4/0/c8d640bd686626ab779043300fdd8e75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "The Sixth Sense",
+    "display_artist": "The Sixth Sense",
+    "title": "Needle Drop (Hakka & Pete Kingwell Remix)",
+    "display_title": "Needle Drop (Hakka & Pete Kingwell Remix)",
+    "track": "The Sixth Sense - Needle Drop (Hakka & Pete Kingwell Remix)",
+    "length": 395,
+    "duration": 395,
+    "started": 1709806008,
+    "type": "track",
+    "track_id": 2964622,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/4/6/0/b/a4460bcaf66dea8324be5e46371c0f32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/4/6/0/b/a4460bcaf66dea8324be5e46371c0f32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Noizy Boy",
+    "display_artist": "Noizy Boy",
+    "title": "Evolution (Original Mix)",
+    "display_title": "Evolution (Original Mix)",
+    "track": "Noizy Boy - Evolution (Original Mix)",
+    "length": 395,
+    "duration": 395,
+    "started": 1709806403,
+    "type": "track",
+    "track_id": 3008772,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/9/c/8/b/9a9c8bb2ab3716314d73199fb0116ddd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/9/c/8/b/9a9c8bb2ab3716314d73199fb0116ddd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Lost Knowledge",
+    "display_artist": "Lost Knowledge",
+    "title": "Final Transmission (Extended Mix)",
+    "display_title": "Final Transmission (Extended Mix)",
+    "track": "Lost Knowledge - Final Transmission (Extended Mix)",
+    "length": 454,
+    "duration": 454,
+    "started": 1709806799,
+    "type": "track",
+    "track_id": 3048430,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/b/2/4/9/6cb2493b12ce1f7f69e79557bfd80d00.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/b/2/4/9/6cb2493b12ce1f7f69e79557bfd80d00.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Paul Priestley,Quake",
+    "display_artist": "Paul Priestley,Quake",
+    "title": "Totem (F.G. Noise Remix)",
+    "display_title": "Totem (F.G. Noise Remix)",
+    "track": "Paul Priestley,Quake - Totem (F.G. Noise Remix)",
+    "length": 405,
+    "duration": 405,
+    "started": 1709807252,
+    "type": "track",
+    "track_id": 2994116,
+    "release": "Totem",
+    "art_url": "//cdn-images.audioaddict.com/6/3/7/8/4/9/637849a4eaf74ba6596d83eb869cd688.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/3/7/8/4/9/637849a4eaf74ba6596d83eb869cd688.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Syafiq Hakim",
+    "display_artist": "Syafiq Hakim",
+    "title": "Catastrophic (Original Mix)",
+    "display_title": "Catastrophic (Original Mix)",
+    "track": "Syafiq Hakim - Catastrophic (Original Mix)",
+    "length": 390,
+    "duration": 390,
+    "started": 1709807656,
+    "type": "track",
+    "track_id": 3023924,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/2/d/e/2/f12de24c091a59a6190cc9ec807fb27a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/2/d/e/2/f12de24c091a59a6190cc9ec807fb27a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Talla 2XLC",
+    "display_artist": "Talla 2XLC",
+    "title": "Back To Basics (Extended Mix)",
+    "display_title": "Back To Basics (Extended Mix)",
+    "track": "Talla 2XLC - Back To Basics (Extended Mix)",
+    "length": 396,
+    "duration": 396,
+    "started": 1709808047,
+    "type": "track",
+    "track_id": 3023926,
+    "release": "Back To Basics [TCP008]",
+    "art_url": "//cdn-images.audioaddict.com/d/a/7/b/c/4/da7bc4cbf9b7266ee5d2e95117e8f951.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/7/b/c/4/da7bc4cbf9b7266ee5d2e95117e8f951.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "NG Rezonance & Costa Pantazis",
+    "display_artist": "NG Rezonance & Costa Pantazis",
+    "title": "The Kaya Identity (S.H.O.K.K. & Nick The Kid Remix)",
+    "display_title": "The Kaya Identity (S.H.O.K.K. & Nick The Kid Remix)",
+    "track": "NG Rezonance & Costa Pantazis - The Kaya Identity (S.H.O.K.K. & Nick The Kid Remix)",
+    "length": 413,
+    "duration": 413,
+    "started": 1709808443,
+    "type": "track",
+    "track_id": 2142213,
+    "release": "The Kaya Identity (S.H.O.K.K. & Nick The Kid Remix)",
+    "art_url": "//cdn-images.audioaddict.com/a/8/0/7/0/6/a80706408db0a8403a382e56dcfa0065.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/0/7/0/6/a80706408db0a8403a382e56dcfa0065.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Victoria.52",
+    "display_artist": "Victoria.52",
+    "title": "Hackney Yard (Original Mix)",
+    "display_title": "Hackney Yard (Original Mix)",
+    "track": "Victoria.52 - Hackney Yard (Original Mix)",
+    "length": 391,
+    "duration": 391,
+    "started": 1709808854,
+    "type": "track",
+    "track_id": 3065255,
+    "release": "Times Have Changed",
+    "art_url": "//cdn-images.audioaddict.com/6/e/a/9/8/8/6ea98818ae092fbc77a715410ffd5fd7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/a/9/8/8/6ea98818ae092fbc77a715410ffd5fd7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rick Guyez",
+    "display_artist": "Rick Guyez",
+    "title": "Consciousness (XLS Remix)",
+    "display_title": "Consciousness (XLS Remix)",
+    "track": "Rick Guyez - Consciousness (XLS Remix)",
+    "length": 496,
+    "duration": 496,
+    "started": 1709809245,
+    "type": "track",
+    "track_id": 3020441,
+    "release": "Consciousness [HRR072]",
+    "art_url": "//cdn-images.audioaddict.com/e/1/d/4/2/3/e1d423bb157339fd9980adcfae7cf794.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/d/4/2/3/e1d423bb157339fd9980adcfae7cf794.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Phil Reynolds",
+    "display_artist": "Phil Reynolds",
+    "title": "Born To Run (Brad Thatcher Remix)",
+    "display_title": "Born To Run (Brad Thatcher Remix)",
+    "track": "Phil Reynolds - Born To Run (Brad Thatcher Remix)",
+    "length": 428,
+    "duration": 428,
+    "started": 1709809741,
+    "type": "track",
+    "track_id": 3088674,
+    "release": "Chapter Two EP Three",
+    "art_url": "//cdn-images.audioaddict.com/7/d/4/1/b/d/7d41bdfa0df4eda14adb58812154994f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/4/1/b/d/7d41bdfa0df4eda14adb58812154994f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Lynxx",
+    "display_artist": "Lynxx",
+    "title": "Liberated from Sociopath (Ed Lynam Remix)",
+    "display_title": "Liberated from Sociopath (Ed Lynam Remix)",
+    "track": "Lynxx - Liberated from Sociopath (Ed Lynam Remix)",
+    "length": 388,
+    "duration": 388,
+    "started": 1709810169,
+    "type": "track",
+    "track_id": 3017253,
+    "release": "HRR070",
+    "art_url": "//cdn-images.audioaddict.com/1/2/f/8/d/2/12f8d20c4f7bd224f2a4a24175e62e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/f/8/d/2/12f8d20c4f7bd224f2a4a24175e62e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Snowface",
+    "display_artist": "Snowface",
+    "title": "Night Must Fall (Extended Mix)",
+    "display_title": "Night Must Fall (Extended Mix)",
+    "track": "Snowface - Night Must Fall (Extended Mix)",
+    "length": 396,
+    "duration": 396,
+    "started": 1709810557,
+    "type": "track",
+    "track_id": 3058867,
+    "release": "Night Must Fall",
+    "art_url": "//cdn-images.audioaddict.com/c/0/b/0/9/d/c0b09d2f8a3b37ad75bb8d6dec1ac407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/b/0/9/d/c0b09d2f8a3b37ad75bb8d6dec1ac407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Jordan",
+    "display_artist": "DJ Jordan",
+    "title": "Got It (Original Mix)",
+    "display_title": "Got It (Original Mix)",
+    "track": "DJ Jordan - Got It (Original Mix)",
+    "length": 453,
+    "duration": 453,
+    "started": 1709810953,
+    "type": "track",
+    "track_id": 3058850,
+    "release": "Got It / Deep Space",
+    "art_url": "//cdn-images.audioaddict.com/4/8/2/c/0/8/482c0878aeed38a8f87c8666db4a3a5b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/8/2/c/0/8/482c0878aeed38a8f87c8666db4a3a5b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Jordan",
+    "display_artist": "DJ Jordan",
+    "title": "Elements Of Joy (Original Mix)",
+    "display_title": "Elements Of Joy (Original Mix)",
+    "track": "DJ Jordan - Elements Of Joy (Original Mix)",
+    "length": 328,
+    "duration": 328,
+    "started": 1709811406,
+    "type": "track",
+    "track_id": 3058849,
+    "release": "Elements Of Joy",
+    "art_url": "//cdn-images.audioaddict.com/f/1/4/e/5/6/f14e569d1cec9633d858d46e7aefaf9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/4/e/5/6/f14e569d1cec9633d858d46e7aefaf9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dizmaster, Mindflux",
+    "display_artist": "Dizmaster, Mindflux",
+    "title": "Gods of War (Valhalla Mix)",
+    "display_title": "Gods of War (Valhalla Mix)",
+    "track": "Dizmaster, Mindflux - Gods of War (Valhalla Mix)",
+    "length": 434,
+    "duration": 434,
+    "started": 1709811733,
+    "type": "track",
+    "track_id": 3058857,
+    "release": "Gods of War",
+    "art_url": "//cdn-images.audioaddict.com/6/0/f/6/7/a/60f67aa959cce78af112e2284cb4f120.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/f/6/7/a/60f67aa959cce78af112e2284cb4f120.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Pro-Tech",
+    "display_artist": "Pro-Tech",
+    "title": "Cosmic Vision (Black XS Remix)",
+    "display_title": "Cosmic Vision (Black XS Remix)",
+    "track": "Pro-Tech - Cosmic Vision (Black XS Remix)",
+    "length": 418,
+    "duration": 418,
+    "started": 1709812167,
+    "type": "track",
+    "track_id": 2982955,
+    "release": "Cosmic Vision",
+    "art_url": "//cdn-images.audioaddict.com/3/8/3/d/a/7/383da75315ae1834bc65feb5c177f397.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/3/d/a/7/383da75315ae1834bc65feb5c177f397.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Johan N. Lecander",
+    "display_artist": "Johan N. Lecander",
+    "title": "Assorted Hard Trance Volume 21 (2024)",
+    "display_title": "Assorted Hard Trance Volume 21 (2024)",
+    "track": "Johan N. Lecander - Assorted Hard Trance Volume 21 (2024)",
+    "length": 4547,
+    "duration": 4547,
+    "started": 1709812584,
+    "type": "track",
+    "track_id": 3089062,
+    "release": "Assorted Hard Trance Volume 21 (2024)",
+    "art_url": "//cdn-images.audioaddict.com/4/3/4/a/7/9/434a794f410d3fb180ad5e46bb7ec38f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/4/a/7/9/434a794f410d3fb180ad5e46bb7ec38f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nik Wel",
+    "display_artist": "Nik Wel",
+    "title": "Orbiter (Original Mix)",
+    "display_title": "Orbiter (Original Mix)",
+    "track": "Nik Wel - Orbiter (Original Mix)",
+    "length": 372,
+    "duration": 372,
+    "started": 1709817131,
+    "type": "track",
+    "track_id": 3029118,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/8/4/c/2/d/e84c2d4a8e83b991aad302f919af4eeb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/4/c/2/d/e84c2d4a8e83b991aad302f919af4eeb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Cedric Lass",
+    "display_artist": "Cedric Lass",
+    "title": "The Hidden Side of the Moon (Original Mix)",
+    "display_title": "The Hidden Side of the Moon (Original Mix)",
+    "track": "Cedric Lass - The Hidden Side of the Moon (Original Mix)",
+    "length": 496,
+    "duration": 496,
+    "started": 1709817503,
+    "type": "track",
+    "track_id": 3004336,
+    "release": "The Hidden Side of the Moon",
+    "art_url": "//cdn-images.audioaddict.com/6/4/d/5/c/a/64d5cae45a30fa56485f332d3c782bf9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/d/5/c/a/64d5cae45a30fa56485f332d3c782bf9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "Hyper Reality Radio Episode 220 (01 February 2024)",
+    "display_title": "Hyper Reality Radio Episode 220 (01 February 2024)",
+    "track": "XLS - Hyper Reality Radio Episode 220 (01 February 2024)",
+    "length": 7193,
+    "duration": 7193,
+    "started": 1709817970,
+    "type": "track",
+    "track_id": 3087888,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/1/0/e/1/5/110e15a282a132f209b27ee2b28111de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/1/0/e/1/5/110e15a282a132f209b27ee2b28111de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Christina Ashlee",
+    "display_artist": "Christina Ashlee",
+    "title": "Electronic Agenda 120 (01 February 2024)",
+    "display_title": "Electronic Agenda 120 (01 February 2024)",
+    "track": "Christina Ashlee - Electronic Agenda 120 (01 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709825169,
+    "type": "track",
+    "track_id": 3087890,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/e/5/5/d/8/3e55d8ce183ae257166d21a33b5146bd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/e/5/5/d/8/3e55d8ce183ae257166d21a33b5146bd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Marc Jerome",
+    "display_artist": "Marc Jerome",
+    "title": "Addicted to You (Robin Hirte Remix Instrumental)",
+    "display_title": "Addicted to You (Robin Hirte Remix Instrumental)",
+    "track": "Marc Jerome - Addicted to You (Robin Hirte Remix Instrumental)",
+    "length": 443,
+    "duration": 443,
+    "started": 1709828770,
+    "type": "track",
+    "track_id": 3080865,
+    "release": "Addicted to You (Robin Hirte Remix)",
+    "art_url": "//cdn-images.audioaddict.com/8/5/a/5/a/4/85a5a4687ccde8f1392830ceebcea76b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/5/a/5/a/4/85a5a4687ccde8f1392830ceebcea76b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Sergo Bordo",
+    "display_artist": "Sergo Bordo",
+    "title": "T'ever (Concrete Panther Extended Remix)",
+    "display_title": "T'ever (Concrete Panther Extended Remix)",
+    "track": "Sergo Bordo - T'ever (Concrete Panther Extended Remix)",
+    "length": 488,
+    "duration": 488,
+    "started": 1709829214,
+    "type": "track",
+    "track_id": 3066857,
+    "release": "The Sound of 2023 Sampler 3",
+    "art_url": "//cdn-images.audioaddict.com/7/e/e/6/5/0/7ee65073f68f45caa496b16ddac42550.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/e/6/5/0/7ee65073f68f45caa496b16ddac42550.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Alex M.O.R.P.H., John Meva",
+    "display_artist": "Alex M.O.R.P.H., John Meva",
+    "title": "Cassiopeia (Original Mix)",
+    "display_title": "Cassiopeia (Original Mix)",
+    "track": "Alex M.O.R.P.H., John Meva - Cassiopeia (Original Mix)",
+    "length": 466,
+    "duration": 466,
+    "started": 1709829701,
+    "type": "track",
+    "track_id": 3088666,
+    "release": "Cassiopeia",
+    "art_url": "//cdn-images.audioaddict.com/c/b/4/b/6/0/cb4b60f0434afe7a3393bcc9b39e76b7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/4/b/6/0/cb4b60f0434afe7a3393bcc9b39e76b7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rick Guyez",
+    "display_artist": "Rick Guyez",
+    "title": "Consciousness (Original Mix)",
+    "display_title": "Consciousness (Original Mix)",
+    "track": "Rick Guyez - Consciousness (Original Mix)",
+    "length": 503,
+    "duration": 503,
+    "started": 1709830154,
+    "type": "track",
+    "track_id": 3020440,
+    "release": "Consciousness [HRR072]",
+    "art_url": "//cdn-images.audioaddict.com/e/1/d/4/2/3/e1d423bb157339fd9980adcfae7cf794.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/d/4/2/3/e1d423bb157339fd9980adcfae7cf794.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Phil Reynolds",
+    "display_artist": "Phil Reynolds",
+    "title": "Contact Zero (Eamonn Fevah & Lost Knowledge Remix)",
+    "display_title": "Contact Zero (Eamonn Fevah & Lost Knowledge Remix)",
+    "track": "Phil Reynolds - Contact Zero (Eamonn Fevah & Lost Knowledge Remix)",
+    "length": 470,
+    "duration": 470,
+    "started": 1709830656,
+    "type": "track",
+    "track_id": 3088676,
+    "release": "Chapter Two EP Three",
+    "art_url": "//cdn-images.audioaddict.com/7/d/4/1/b/d/7d41bdfa0df4eda14adb58812154994f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/4/1/b/d/7d41bdfa0df4eda14adb58812154994f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Chris Connolly",
+    "display_artist": "Chris Connolly",
+    "title": "Velociraptor (Wavetraxx Remix)",
+    "display_title": "Velociraptor (Wavetraxx Remix)",
+    "track": "Chris Connolly - Velociraptor (Wavetraxx Remix)",
+    "length": 378,
+    "duration": 378,
+    "started": 1709831126,
+    "type": "track",
+    "track_id": 2970236,
+    "release": "I Got U",
+    "art_url": "//cdn-images.audioaddict.com/3/8/6/5/1/d/38651d6da1713a5cd868012ee0603dfe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/6/5/1/d/38651d6da1713a5cd868012ee0603dfe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Pro-Tech",
+    "display_artist": "Pro-Tech",
+    "title": "Cosmic Vision (DJ Wag Remix)",
+    "display_title": "Cosmic Vision (DJ Wag Remix)",
+    "track": "Pro-Tech - Cosmic Vision (DJ Wag Remix)",
+    "length": 429,
+    "duration": 429,
+    "started": 1709831502,
+    "type": "track",
+    "track_id": 2982956,
+    "release": "Cosmic Vision",
+    "art_url": "//cdn-images.audioaddict.com/3/8/3/d/a/7/383da75315ae1834bc65feb5c177f397.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/3/d/a/7/383da75315ae1834bc65feb5c177f397.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Lee Greenaway",
+    "display_artist": "Lee Greenaway",
+    "title": "Destruction (Dave Spinout & TrickyDJ Remix)",
+    "display_title": "Destruction (Dave Spinout & TrickyDJ Remix)",
+    "track": "Lee Greenaway - Destruction (Dave Spinout & TrickyDJ Remix)",
+    "length": 454,
+    "duration": 454,
+    "started": 1709831930,
+    "type": "track",
+    "track_id": 3008769,
+    "release": "Ungetüm",
+    "art_url": "//cdn-images.audioaddict.com/0/9/8/3/7/f/09837f01da65ff4db2c72835dc92be0f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/9/8/3/7/f/09837f01da65ff4db2c72835dc92be0f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Geck-O",
+    "display_artist": "Geck-O",
+    "title": "Bonjour (DJ Thera Hardertrance Remix)",
+    "display_title": "Bonjour (DJ Thera Hardertrance Remix)",
+    "track": "Geck-O - Bonjour (DJ Thera Hardertrance Remix)",
+    "length": 325,
+    "duration": 325,
+    "started": 1709832385,
+    "type": "track",
+    "track_id": 3017250,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/4/4/a/0/4/844a043ddd1cd99de0c32a22f5fb2db9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/4/a/0/4/844a043ddd1cd99de0c32a22f5fb2db9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ187",
+    "display_artist": "DJ187",
+    "title": "Tannhauser Gate (Original Mix)",
+    "display_title": "Tannhauser Gate (Original Mix)",
+    "track": "DJ187 - Tannhauser Gate (Original Mix)",
+    "length": 498,
+    "duration": 498,
+    "started": 1709832710,
+    "type": "track",
+    "track_id": 3065239,
+    "release": "Reality of the Machine",
+    "art_url": "//cdn-images.audioaddict.com/7/0/b/6/d/7/70b6d7fd346094915e3ce57f6c8534ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/b/6/d/7/70b6d7fd346094915e3ce57f6c8534ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dark Sector",
+    "display_artist": "Dark Sector",
+    "title": "Symphony of Rage Part 3 (Original Mix)",
+    "display_title": "Symphony of Rage Part 3 (Original Mix)",
+    "track": "Dark Sector - Symphony of Rage Part 3 (Original Mix)",
+    "length": 385,
+    "duration": 385,
+    "started": 1709833208,
+    "type": "track",
+    "track_id": 3058853,
+    "release": "The Final EP",
+    "art_url": "//cdn-images.audioaddict.com/8/2/6/b/1/c/826b1c7a8087e12ab60d422d6e7ff92b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/6/b/1/c/826b1c7a8087e12ab60d422d6e7ff92b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Evil Guest (Original Mix)",
+    "display_title": "Evil Guest (Original Mix)",
+    "track": "Nostic - Evil Guest (Original Mix)",
+    "length": 352,
+    "duration": 352,
+    "started": 1709834022,
+    "type": "track",
+    "track_id": 3080868,
+    "release": "The Tablets of Thoth",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dizmaster",
+    "display_artist": "Dizmaster",
+    "title": "Acid Blade (Original Mix)",
+    "display_title": "Acid Blade (Original Mix)",
+    "track": "Dizmaster - Acid Blade (Original Mix)",
+    "length": 393,
+    "duration": 393,
+    "started": 1709834374,
+    "type": "track",
+    "track_id": 3017248,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/3/a/b/5bb3abcca9fe8248edbb5cbcb3d4e532.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/3/a/b/5bb3abcca9fe8248edbb5cbcb3d4e532.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Popol Vuh (Original Mix)",
+    "display_title": "Popol Vuh (Original Mix)",
+    "track": "Nostic - Popol Vuh (Original Mix)",
+    "length": 364,
+    "duration": 364,
+    "started": 1709834763,
+    "type": "track",
+    "track_id": 2970243,
+    "release": "Velociraptor",
+    "art_url": "//cdn-images.audioaddict.com/3/9/d/1/9/2/39d19295f64dbcc908e6468c1634c615.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/d/1/9/2/39d19295f64dbcc908e6468c1634c615.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Enemy-9",
+    "display_artist": "Enemy-9",
+    "title": "Revelations (Original Mix)",
+    "display_title": "Revelations (Original Mix)",
+    "track": "Enemy-9 - Revelations (Original Mix)",
+    "length": 344,
+    "duration": 344,
+    "started": 1709835128,
+    "type": "track",
+    "track_id": 3058858,
+    "release": "Dig Deeper 5 EP",
+    "art_url": "//cdn-images.audioaddict.com/5/9/0/7/b/2/5907b233d7b1f324d14a19291e78530d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/0/7/b/2/5907b233d7b1f324d14a19291e78530d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rick Guyez",
+    "display_artist": "Rick Guyez",
+    "title": "More & More (Original Mix)",
+    "display_title": "More & More (Original Mix)",
+    "track": "Rick Guyez - More & More (Original Mix)",
+    "length": 431,
+    "duration": 431,
+    "started": 1709835471,
+    "type": "track",
+    "track_id": 3065250,
+    "release": "More & More",
+    "art_url": "//cdn-images.audioaddict.com/7/c/4/d/1/0/7c4d1081e24ffa3c11be995a13635f9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/4/d/1/0/7c4d1081e24ffa3c11be995a13635f9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Zerotonine (DE)",
+    "display_artist": "Zerotonine (DE)",
+    "title": "Planet Nine (Original Mix)",
+    "display_title": "Planet Nine (Original Mix)",
+    "track": "Zerotonine (DE) - Planet Nine (Original Mix)",
+    "length": 394,
+    "duration": 394,
+    "started": 1709835900,
+    "type": "track",
+    "track_id": 2998154,
+    "release": "Planet Nine",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/5/3/4/3b3534e8dbdafadde1f4671ce9ff309e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/5/3/4/3b3534e8dbdafadde1f4671ce9ff309e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nick The Kid, Montoni",
+    "display_artist": "Nick The Kid, Montoni",
+    "title": "Transatlantic (J Rogers Remix)",
+    "display_title": "Transatlantic (J Rogers Remix)",
+    "track": "Nick The Kid, Montoni - Transatlantic (J Rogers Remix)",
+    "length": 383,
+    "duration": 383,
+    "started": 1709836293,
+    "type": "track",
+    "track_id": 3072539,
+    "release": "Transatlantic",
+    "art_url": "//cdn-images.audioaddict.com/b/7/8/3/f/2/b783f2d4ce270dcd098c9f6544b5e288.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/8/3/f/2/b783f2d4ce270dcd098c9f6544b5e288.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Emmy Skyer",
+    "display_artist": "Emmy Skyer",
+    "title": "Why So Serious (Original Mix)",
+    "display_title": "Why So Serious (Original Mix)",
+    "track": "Emmy Skyer - Why So Serious (Original Mix)",
+    "length": 360,
+    "duration": 360,
+    "started": 1709837073,
+    "type": "track",
+    "track_id": 3088670,
+    "release": "Harpsyrite",
+    "art_url": "//cdn-images.audioaddict.com/e/0/c/1/8/9/e0c189ab6e31d1a53c41733b93b9faae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/c/1/8/9/e0c189ab6e31d1a53c41733b93b9faae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Social Mistake, Vladislav Maximov",
+    "display_artist": "Social Mistake, Vladislav Maximov",
+    "title": "In My Soul (Dave Cold x DocDistortion Remix)",
+    "display_title": "In My Soul (Dave Cold x DocDistortion Remix)",
+    "track": "Social Mistake, Vladislav Maximov - In My Soul (Dave Cold x DocDistortion Remix)",
+    "length": 370,
+    "duration": 370,
+    "started": 1709837797,
+    "type": "track",
+    "track_id": 3072544,
+    "release": "The Sound of 2023 Mix 3: Tokyo",
+    "art_url": "//cdn-images.audioaddict.com/c/5/d/f/b/a/c5dfbad11b1d96f652f34b3762432a7a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/d/f/b/a/c5dfbad11b1d96f652f34b3762432a7a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "Hyper Reality Radio Episode 222 (07 March 2024)",
+    "display_title": "Hyper Reality Radio Episode 222 (07 March 2024)",
+    "track": "XLS - Hyper Reality Radio Episode 222 (07 March 2024)",
+    "length": 7193,
+    "duration": 7193,
+    "started": 1709838000,
+    "type": "track",
+    "track_id": 3090109,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/1/3/c/4/f/813c4ff074c4d3c1b26e33d31a12e1af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/3/c/4/f/813c4ff074c4d3c1b26e33d31a12e1af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Christina Ashlee",
+    "display_artist": "Christina Ashlee",
+    "title": "Electronic Agenda 121 (07 March 2024)",
+    "display_title": "Electronic Agenda 121 (07 March 2024)",
+    "track": "Christina Ashlee - Electronic Agenda 121 (07 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709845200,
+    "type": "track",
+    "track_id": 3090113,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/e/5/5/d/8/3e55d8ce183ae257166d21a33b5146bd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/e/5/5/d/8/3e55d8ce183ae257166d21a33b5146bd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Mark EG & Lee Greenaway",
+    "display_artist": "Mark EG & Lee Greenaway",
+    "title": "Don't Any of You Sl@gs Move (SHOCK:FORCE Remix)",
+    "display_title": "Don't Any of You Sl@gs Move (SHOCK:FORCE Remix)",
+    "track": "Mark EG & Lee Greenaway - Don't Any of You Sl@gs Move (SHOCK:FORCE Remix)",
+    "length": 466,
+    "duration": 466,
+    "started": 1709848965,
+    "type": "track",
+    "track_id": 3023918,
+    "release": "HRR074",
+    "art_url": "//cdn-images.audioaddict.com/2/7/0/5/b/4/2705b4a1a1e65b71152d96e668b079de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/0/5/b/4/2705b4a1a1e65b71152d96e668b079de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Craig Johnston",
+    "display_artist": "Craig Johnston",
+    "title": "Getting High (Original Mix)",
+    "display_title": "Getting High (Original Mix)",
+    "track": "Craig Johnston - Getting High (Original Mix)",
+    "length": 404,
+    "duration": 404,
+    "started": 1709849431,
+    "type": "track",
+    "track_id": 2970237,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/f/6/e/9/1/8f6e915243dc9d903f90d0e06101d27c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/6/e/9/1/8f6e915243dc9d903f90d0e06101d27c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Paul Bassmant",
+    "display_artist": "Paul Bassmant",
+    "title": "Dark Hover (Greidor Allmaster Extazclub Remix)",
+    "display_title": "Dark Hover (Greidor Allmaster Extazclub Remix)",
+    "track": "Paul Bassmant - Dark Hover (Greidor Allmaster Extazclub Remix)",
+    "length": 444,
+    "duration": 444,
+    "started": 1709849836,
+    "type": "track",
+    "track_id": 3080876,
+    "release": "Dark Hover",
+    "art_url": "//cdn-images.audioaddict.com/e/9/4/1/c/e/e941ce394263f7c33200fac5eeeca36a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/4/1/c/e/e941ce394263f7c33200fac5eeeca36a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Mark Ross",
+    "display_artist": "Mark Ross",
+    "title": "The Future (Original Mix)",
+    "display_title": "The Future (Original Mix)",
+    "track": "Mark Ross - The Future (Original Mix)",
+    "length": 390,
+    "duration": 390,
+    "started": 1709850676,
+    "type": "track",
+    "track_id": 3065246,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/7/e/e/b/f/f7eebfd101445c4ab083b8ea6858ecf8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/e/e/b/f/f7eebfd101445c4ab083b8ea6858ecf8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "MaxRevenge & Leyso",
+    "display_artist": "MaxRevenge & Leyso",
+    "title": "11th Midnight (Dark Sector Remix)",
+    "display_title": "11th Midnight (Dark Sector Remix)",
+    "track": "MaxRevenge & Leyso - 11th Midnight (Dark Sector Remix)",
+    "length": 426,
+    "duration": 426,
+    "started": 1709851065,
+    "type": "track",
+    "track_id": 2994112,
+    "release": "11th Midnight",
+    "art_url": "//cdn-images.audioaddict.com/4/b/4/4/0/4/4b44041cf567cf0e715a4f1c799e3bef.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/4/4/0/4/4b44041cf567cf0e715a4f1c799e3bef.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dizmaster",
+    "display_artist": "Dizmaster",
+    "title": "Fear (Extended Mix)",
+    "display_title": "Fear (Extended Mix)",
+    "track": "Dizmaster - Fear (Extended Mix)",
+    "length": 423,
+    "duration": 423,
+    "started": 1709851492,
+    "type": "track",
+    "track_id": 3048425,
+    "release": "Fear",
+    "art_url": "//cdn-images.audioaddict.com/3/8/8/4/d/e/3884deb7bc744e52ee0dc8f0586d23df.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/8/4/d/e/3884deb7bc744e52ee0dc8f0586d23df.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "The Projector",
+    "display_artist": "The Projector",
+    "title": "Calling For Acid (FJ Project Mix)",
+    "display_title": "Calling For Acid (FJ Project Mix)",
+    "track": "The Projector - Calling For Acid (FJ Project Mix)",
+    "length": 293,
+    "duration": 293,
+    "started": 1709851915,
+    "type": "track",
+    "track_id": 3049614,
+    "release": "Calling for Acid",
+    "art_url": "//cdn-images.audioaddict.com/5/2/3/6/1/a/52361ad9861a032505de274788e69d3b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/3/6/1/a/52361ad9861a032505de274788e69d3b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Darren Hall",
+    "display_artist": "Darren Hall",
+    "title": "Teddy Bear Pie",
+    "display_title": "Teddy Bear Pie",
+    "track": "Darren Hall - Teddy Bear Pie",
+    "length": 340,
+    "duration": 340,
+    "started": 1709852206,
+    "type": "track",
+    "track_id": 3034578,
+    "release": "Teddy Bear Pie [HQ043]",
+    "art_url": "//cdn-images.audioaddict.com/e/9/2/a/f/f/e92aff549a2ab6ed7d6e4876e44335a5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/2/a/f/f/e92aff549a2ab6ed7d6e4876e44335a5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Vision X & Impulse Wave",
+    "display_artist": "Vision X & Impulse Wave",
+    "title": "Loud (Original Mix)",
+    "display_title": "Loud (Original Mix)",
+    "track": "Vision X & Impulse Wave - Loud (Original Mix)",
+    "length": 371,
+    "duration": 371,
+    "started": 1709852542,
+    "type": "track",
+    "track_id": 3020442,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/f/e/8/e/5/5fe8e5eb0be3a8228b1e29d572d33898.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/e/8/e/5/5fe8e5eb0be3a8228b1e29d572d33898.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Shugz",
+    "display_artist": "Shugz",
+    "title": "Blood Rush (Original Mix)",
+    "display_title": "Blood Rush (Original Mix)",
+    "track": "Shugz - Blood Rush (Original Mix)",
+    "length": 371,
+    "duration": 371,
+    "started": 1709852912,
+    "type": "track",
+    "track_id": 3058866,
+    "release": "Blood Rush",
+    "art_url": "//cdn-images.audioaddict.com/8/4/8/8/5/3/848853c55e95658614d1f4cd53693a89.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/8/8/5/3/848853c55e95658614d1f4cd53693a89.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Patrick McNulty",
+    "display_artist": "Patrick McNulty",
+    "title": "The Navigator",
+    "display_title": "The Navigator",
+    "track": "Patrick McNulty - The Navigator",
+    "length": 445,
+    "duration": 445,
+    "started": 1709853284,
+    "type": "track",
+    "track_id": 3017258,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/9/0/3/9/e/59039e17c601e963627d04ede6abf1f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/0/3/9/e/59039e17c601e963627d04ede6abf1f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Hennes & Cold",
+    "display_artist": "Hennes & Cold",
+    "title": "Sound Of Rock (D10 Remix)",
+    "display_title": "Sound Of Rock (D10 Remix)",
+    "track": "Hennes & Cold - Sound Of Rock (D10 Remix)",
+    "length": 446,
+    "duration": 446,
+    "started": 1709853730,
+    "type": "track",
+    "track_id": 3008768,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/3/c/d/d/3/d3cdd3f7b46ce4c14621cb27b6ca948e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/c/d/d/3/d3cdd3f7b46ce4c14621cb27b6ca948e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Equator",
+    "display_artist": "Equator",
+    "title": "Silence (Nick The Kid Remix)",
+    "display_title": "Silence (Nick The Kid Remix)",
+    "track": "Equator - Silence (Nick The Kid Remix)",
+    "length": 424,
+    "duration": 424,
+    "started": 1709854177,
+    "type": "track",
+    "track_id": 2994109,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/9/b/9/f/8/c9b9f8eb48760969941733d76dd996a5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/b/9/f/8/c9b9f8eb48760969941733d76dd996a5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Lynxx",
+    "display_artist": "Lynxx",
+    "title": "Liberated from Sociopath (Original Mix)",
+    "display_title": "Liberated from Sociopath (Original Mix)",
+    "track": "Lynxx - Liberated from Sociopath (Original Mix)",
+    "length": 568,
+    "duration": 568,
+    "started": 1709854600,
+    "type": "track",
+    "track_id": 3017254,
+    "release": "HRR070",
+    "art_url": "//cdn-images.audioaddict.com/1/2/f/8/d/2/12f8d20c4f7bd224f2a4a24175e62e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/f/8/d/2/12f8d20c4f7bd224f2a4a24175e62e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 853 (23 February 2024)",
+    "display_title": "Hard & Dance 853 (23 February 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 853 (23 February 2024)",
+    "length": 4131,
+    "duration": 4131,
+    "started": 1709855168,
+    "type": "track",
+    "track_id": 3089240,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Craysega",
+    "display_artist": "Craysega",
+    "title": "Endless Space (Johan Ekman Remix)",
+    "display_title": "Endless Space (Johan Ekman Remix)",
+    "track": "Craysega - Endless Space (Johan Ekman Remix)",
+    "length": 587,
+    "duration": 587,
+    "started": 1709859297,
+    "type": "track",
+    "track_id": 3072542,
+    "release": "Endless Space",
+    "art_url": "//cdn-images.audioaddict.com/9/5/b/d/d/2/95bdd281eb0203c98412ee24bc11f1e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/b/d/d/2/95bdd281eb0203c98412ee24bc11f1e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dance Fly FX",
+    "display_artist": "Dance Fly FX",
+    "title": "It's Just Getting Started (Original Mix)",
+    "display_title": "It's Just Getting Started (Original Mix)",
+    "track": "Dance Fly FX - It's Just Getting Started (Original Mix)",
+    "length": 356,
+    "duration": 356,
+    "started": 1709859883,
+    "type": "track",
+    "track_id": 3033352,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/6/8/e/f/9/268ef949452f470fda8c68f5d40f08f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/8/e/f/9/268ef949452f470fda8c68f5d40f08f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Jackob Roenald, Lightning vs. Waveband",
+    "display_artist": "Jackob Roenald, Lightning vs. Waveband",
+    "title": "Mysteries Around Us (Tech Mix)",
+    "display_title": "Mysteries Around Us (Tech Mix)",
+    "track": "Jackob Roenald, Lightning vs. Waveband - Mysteries Around Us (Tech Mix)",
+    "length": 382,
+    "duration": 382,
+    "started": 1709860238,
+    "type": "track",
+    "track_id": 3072537,
+    "release": "Mysteries Around Us",
+    "art_url": "//cdn-images.audioaddict.com/e/e/7/d/2/1/ee7d212e2b9794ae7125ae89e00918e2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/7/d/2/1/ee7d212e2b9794ae7125ae89e00918e2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dan Thompson",
+    "display_artist": "Dan Thompson",
+    "title": "Split Dimension (Adrenaline Dept Remix)",
+    "display_title": "Split Dimension (Adrenaline Dept Remix)",
+    "track": "Dan Thompson - Split Dimension (Adrenaline Dept Remix)",
+    "length": 431,
+    "duration": 431,
+    "started": 1709860618,
+    "type": "track",
+    "track_id": 2988468,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/3/d/c/a/6/e3dca6aebc4e84c4df3b5e22c073d4c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/d/c/a/6/e3dca6aebc4e84c4df3b5e22c073d4c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Lab4",
+    "display_artist": "Lab4",
+    "title": "Mind Kontrol (Acid Storm Mix)",
+    "display_title": "Mind Kontrol (Acid Storm Mix)",
+    "track": "Lab4 - Mind Kontrol (Acid Storm Mix)",
+    "length": 393,
+    "duration": 393,
+    "started": 1709861049,
+    "type": "track",
+    "track_id": 3029114,
+    "release": "CTRL ALT DESTROY EP [HTE029]",
+    "art_url": "//cdn-images.audioaddict.com/6/2/c/4/e/8/62c4e8111c53892a62e2f8b515603186.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/c/4/e/8/62c4e8111c53892a62e2f8b515603186.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Laura May",
+    "display_artist": "Laura May",
+    "title": "Syncopated (Extended Mix)",
+    "display_title": "Syncopated (Extended Mix)",
+    "track": "Laura May - Syncopated (Extended Mix)",
+    "length": 382,
+    "duration": 382,
+    "started": 1709861438,
+    "type": "track",
+    "track_id": 3048429,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/2/4/d/9/9b24d9c3c220f5f903ad68701d557f86.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/2/4/d/9/9b24d9c3c220f5f903ad68701d557f86.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Rescue Me (Mindflux Remix)",
+    "display_title": "Rescue Me (Mindflux Remix)",
+    "track": "Nostic - Rescue Me (Mindflux Remix)",
+    "length": 481,
+    "duration": 481,
+    "started": 1709861819,
+    "type": "track",
+    "track_id": 3017256,
+    "release": "HRR071",
+    "art_url": "//cdn-images.audioaddict.com/a/8/e/d/5/f/a8ed5f003eb4433a1979436c4e1754f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/e/d/5/f/a8ed5f003eb4433a1979436c4e1754f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dean Zone & The Sixth Sense",
+    "display_artist": "Dean Zone & The Sixth Sense",
+    "title": "My Greatest Creation (XLS Remix)",
+    "display_title": "My Greatest Creation (XLS Remix)",
+    "track": "Dean Zone & The Sixth Sense - My Greatest Creation (XLS Remix)",
+    "length": 525,
+    "duration": 525,
+    "started": 1709862301,
+    "type": "track",
+    "track_id": 3008766,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/9/c/8/b/9a9c8bb2ab3716314d73199fb0116ddd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/9/c/8/b/9a9c8bb2ab3716314d73199fb0116ddd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Derb",
+    "display_artist": "Derb",
+    "title": "Attack (Mindflux Remix)",
+    "display_title": "Attack (Mindflux Remix)",
+    "track": "Derb - Attack (Mindflux Remix)",
+    "length": 390,
+    "duration": 390,
+    "started": 1709863169,
+    "type": "track",
+    "track_id": 3023911,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/8/9/2/b/20892b96839aaaff85227ada7c834bb3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/8/9/2/b/20892b96839aaaff85227ada7c834bb3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Laura May",
+    "display_artist": "Laura May",
+    "title": "Quartech (Hard Mix)",
+    "display_title": "Quartech (Hard Mix)",
+    "track": "Laura May - Quartech (Hard Mix)",
+    "length": 410,
+    "duration": 410,
+    "started": 1709863557,
+    "type": "track",
+    "track_id": 3023915,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/7/3/4/4/6/f734460453b57af4eeb877d27c08fe9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/3/4/4/6/f734460453b57af4eeb877d27c08fe9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Tribute to Human Error (Original Mix)",
+    "display_title": "Tribute to Human Error (Original Mix)",
+    "track": "Nostic - Tribute to Human Error (Original Mix)",
+    "length": 488,
+    "duration": 488,
+    "started": 1709863965,
+    "type": "track",
+    "track_id": 3023920,
+    "release": "ARR020",
+    "art_url": "//cdn-images.audioaddict.com/e/f/0/2/4/0/ef024025e817e3fe5ab61f95ab1606cf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/0/2/4/0/ef024025e817e3fe5ab61f95ab1606cf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Alex Burn",
+    "display_artist": "Alex Burn",
+    "title": "Hypervoid (Original Mix)",
+    "display_title": "Hypervoid (Original Mix)",
+    "track": "Alex Burn - Hypervoid (Original Mix)",
+    "length": 438,
+    "duration": 438,
+    "started": 1709864454,
+    "type": "track",
+    "track_id": 2985135,
+    "release": "Hypervoid",
+    "art_url": "//cdn-images.audioaddict.com/f/1/8/e/2/b/f18e2b417ca80541c624b90517744985.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/8/e/2/b/f18e2b417ca80541c624b90517744985.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Jody 6",
+    "display_artist": "Jody 6",
+    "title": "I'll Show You The Dark Side (Original Mix)",
+    "display_title": "I'll Show You The Dark Side (Original Mix)",
+    "track": "Jody 6 - I'll Show You The Dark Side (Original Mix)",
+    "length": 410,
+    "duration": 410,
+    "started": 1709865775,
+    "type": "track",
+    "track_id": 3065242,
+    "release": "In The Darkness",
+    "art_url": "//cdn-images.audioaddict.com/b/6/1/2/1/9/b612198d94f360053932d0d514c8b459.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/1/2/1/9/b612198d94f360053932d0d514c8b459.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Renegade System",
+    "display_artist": "Renegade System",
+    "title": "Set Free (Original Mix)",
+    "display_title": "Set Free (Original Mix)",
+    "track": "Renegade System - Set Free (Original Mix)",
+    "length": 442,
+    "duration": 442,
+    "started": 1709866185,
+    "type": "track",
+    "track_id": 3080878,
+    "release": "Set Free",
+    "art_url": "//cdn-images.audioaddict.com/0/d/2/3/f/2/0d23f2ea24ff720f3dfe6ae2db408240.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/2/3/f/2/0d23f2ea24ff720f3dfe6ae2db408240.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Daniel Doering",
+    "display_artist": "Daniel Doering",
+    "title": "Gripen (Original Mix)",
+    "display_title": "Gripen (Original Mix)",
+    "track": "Daniel Doering - Gripen (Original Mix)",
+    "length": 432,
+    "duration": 432,
+    "started": 1709866627,
+    "type": "track",
+    "track_id": 2893147,
+    "release": "The Gaze From Above",
+    "art_url": "//cdn-images.audioaddict.com/a/4/0/8/d/7/a408d789e3d610eca9409d1509e028bb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/0/8/d/7/a408d789e3d610eca9409d1509e028bb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Litchfield Project",
+    "display_artist": "Litchfield Project",
+    "title": "Synchrony (F.G. Noise Remix)",
+    "display_title": "Synchrony (F.G. Noise Remix)",
+    "track": "Litchfield Project - Synchrony (F.G. Noise Remix)",
+    "length": 406,
+    "duration": 406,
+    "started": 1709867058,
+    "type": "track",
+    "track_id": 3004340,
+    "release": "Synchrony",
+    "art_url": "//cdn-images.audioaddict.com/5/4/c/1/e/b/54c1ebc1f10359d009bcb7270ec40da0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/c/1/e/b/54c1ebc1f10359d009bcb7270ec40da0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rick Guyez",
+    "display_artist": "Rick Guyez",
+    "title": "Rick Guyez (Extended Mix)",
+    "display_title": "Rick Guyez (Extended Mix)",
+    "track": "Rick Guyez - Rick Guyez (Extended Mix)",
+    "length": 443,
+    "duration": 443,
+    "started": 1709867465,
+    "type": "track",
+    "track_id": 2982959,
+    "release": "Concorde",
+    "art_url": "//cdn-images.audioaddict.com/f/b/4/2/d/c/fb42dcae3dd62ff8a19d17e72ebf09bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/b/4/2/d/c/fb42dcae3dd62ff8a19d17e72ebf09bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rainer K",
+    "display_artist": "Rainer K",
+    "title": "Fade (Alternative Mix)",
+    "display_title": "Fade (Alternative Mix)",
+    "track": "Rainer K - Fade (Alternative Mix)",
+    "length": 379,
+    "duration": 379,
+    "started": 1709867908,
+    "type": "track",
+    "track_id": 3088678,
+    "release": "Fade",
+    "art_url": "//cdn-images.audioaddict.com/7/2/3/c/9/a/723c9aade1f74946f14ecab89d5c102d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/2/3/c/9/a/723c9aade1f74946f14ecab89d5c102d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Peryl",
+    "display_artist": "Peryl",
+    "title": "Nichts Außer Dich",
+    "display_title": "Nichts Außer Dich",
+    "track": "Peryl - Nichts Außer Dich",
+    "length": 475,
+    "duration": 475,
+    "started": 1709868286,
+    "type": "track",
+    "track_id": 3017405,
+    "release": "SPT003",
+    "art_url": "//cdn-images.audioaddict.com/b/b/4/1/8/5/bb418525a342ffe82b85bf2b557df45c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/4/1/8/5/bb418525a342ffe82b85bf2b557df45c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Jackob Roenald, Lightning vs. Waveband",
+    "display_artist": "Jackob Roenald, Lightning vs. Waveband",
+    "title": "Mysteries Around Us (Original Mix)",
+    "display_title": "Mysteries Around Us (Original Mix)",
+    "track": "Jackob Roenald, Lightning vs. Waveband - Mysteries Around Us (Original Mix)",
+    "length": 382,
+    "duration": 382,
+    "started": 1709868758,
+    "type": "track",
+    "track_id": 3072536,
+    "release": "Mysteries Around Us",
+    "art_url": "//cdn-images.audioaddict.com/e/e/7/d/2/1/ee7d212e2b9794ae7125ae89e00918e2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/7/d/2/1/ee7d212e2b9794ae7125ae89e00918e2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dean Zone",
+    "display_artist": "Dean Zone",
+    "title": "Apocalypse (Extended Mix)",
+    "display_title": "Apocalypse (Extended Mix)",
+    "track": "Dean Zone - Apocalypse (Extended Mix)",
+    "length": 431,
+    "duration": 431,
+    "started": 1709869138,
+    "type": "track",
+    "track_id": 3088668,
+    "release": "Apocalypse",
+    "art_url": "//cdn-images.audioaddict.com/e/8/4/0/1/7/e84017d0f273a3c13a2fdb0ea69ef97a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/4/0/1/7/e84017d0f273a3c13a2fdb0ea69ef97a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Shredded (Original Mix)",
+    "display_title": "Shredded (Original Mix)",
+    "track": "Nostic - Shredded (Original Mix)",
+    "length": 469,
+    "duration": 469,
+    "started": 1709869569,
+    "type": "track",
+    "track_id": 3080872,
+    "release": "The Tablets of Thoth",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "The Creators (Original Mix)",
+    "display_title": "The Creators (Original Mix)",
+    "track": "XLS - The Creators (Original Mix)",
+    "length": 487,
+    "duration": 487,
+    "started": 1709870037,
+    "type": "track",
+    "track_id": 2960273,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/2/9/9/1/c/a2991c758cf20886b893c5c6cf499632.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/9/9/1/c/a2991c758cf20886b893c5c6cf499632.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Renegade System",
+    "display_artist": "Renegade System",
+    "title": "Portals (Original Mix)",
+    "display_title": "Portals (Original Mix)",
+    "track": "Renegade System - Portals (Original Mix)",
+    "length": 414,
+    "duration": 414,
+    "started": 1709870526,
+    "type": "track",
+    "track_id": 3004344,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/5/3/3/9/8/253398a00f9e1a73ce72e1a176a8ef7c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/3/3/9/8/253398a00f9e1a73ce72e1a176a8ef7c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "Let Go (Original Mix)",
+    "display_title": "Let Go (Original Mix)",
+    "track": "XLS - Let Go (Original Mix)",
+    "length": 431,
+    "duration": 431,
+    "started": 1709871368,
+    "type": "track",
+    "track_id": 3080882,
+    "release": "Evolution EP",
+    "art_url": "//cdn-images.audioaddict.com/1/c/8/a/5/0/1c8a50b08a54361309a6e950a95b1cc1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/8/a/5/0/1c8a50b08a54361309a6e950a95b1cc1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Jordan",
+    "display_artist": "DJ Jordan",
+    "title": "Take Me Higher (Dominik Saltevski Remix)",
+    "display_title": "Take Me Higher (Dominik Saltevski Remix)",
+    "track": "DJ Jordan - Take Me Higher (Dominik Saltevski Remix)",
+    "length": 430,
+    "duration": 430,
+    "started": 1709871798,
+    "type": "track",
+    "track_id": 3049609,
+    "release": "Take Me Higher EP",
+    "art_url": "//cdn-images.audioaddict.com/4/1/4/2/b/a/4142ba705c81c0c2006a74ede897283e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/4/2/b/a/4142ba705c81c0c2006a74ede897283e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Baby Doc, Lab4",
+    "display_artist": "Baby Doc, Lab4",
+    "title": "Generator (R.E.L.O.A.D. Remix)",
+    "display_title": "Generator (R.E.L.O.A.D. Remix)",
+    "track": "Baby Doc, Lab4 - Generator (R.E.L.O.A.D. Remix)",
+    "length": 390,
+    "duration": 390,
+    "started": 1709872228,
+    "type": "track",
+    "track_id": 3043941,
+    "release": "HQ Remixed [HQ045]",
+    "art_url": "//cdn-images.audioaddict.com/f/7/1/c/e/2/f71ce206ce378e54b289de5d2c06057c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/1/c/e/2/f71ce206ce378e54b289de5d2c06057c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Emiliano Pavon",
+    "display_artist": "Emiliano Pavon",
+    "title": "Sickness (Black XS Remix)",
+    "display_title": "Sickness (Black XS Remix)",
+    "track": "Emiliano Pavon - Sickness (Black XS Remix)",
+    "length": 410,
+    "duration": 410,
+    "started": 1709872619,
+    "type": "track",
+    "track_id": 2936230,
+    "release": "Sickness",
+    "art_url": "//cdn-images.audioaddict.com/1/f/7/0/e/6/1f70e6c6668e45c2fc911b7d81076c11.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/7/0/e/6/1f70e6c6668e45c2fc911b7d81076c11.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Craysega",
+    "display_artist": "Craysega",
+    "title": "Endless Space (Original Mix)",
+    "display_title": "Endless Space (Original Mix)",
+    "track": "Craysega - Endless Space (Original Mix)",
+    "length": 490,
+    "duration": 490,
+    "started": 1709873028,
+    "type": "track",
+    "track_id": 3072543,
+    "release": "Endless Space",
+    "art_url": "//cdn-images.audioaddict.com/9/5/b/d/d/2/95bdd281eb0203c98412ee24bc11f1e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/b/d/d/2/95bdd281eb0203c98412ee24bc11f1e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic & Mycorave",
+    "display_artist": "Nostic & Mycorave",
+    "title": "Binaural Beats (Quinny Remix)",
+    "display_title": "Binaural Beats (Quinny Remix)",
+    "track": "Nostic & Mycorave - Binaural Beats (Quinny Remix)",
+    "length": 363,
+    "duration": 363,
+    "started": 1709873960,
+    "type": "track",
+    "track_id": 3088673,
+    "release": "Binaural Beats",
+    "art_url": "//cdn-images.audioaddict.com/c/8/d/6/4/0/c8d640bd686626ab779043300fdd8e75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/d/6/4/0/c8d640bd686626ab779043300fdd8e75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Wavetraxx",
+    "display_artist": "Wavetraxx",
+    "title": "Gates Of Eternity (Adrenaline Dept Remix)",
+    "display_title": "Gates Of Eternity (Adrenaline Dept Remix)",
+    "track": "Wavetraxx - Gates Of Eternity (Adrenaline Dept Remix)",
+    "length": 403,
+    "duration": 403,
+    "started": 1709874909,
+    "type": "track",
+    "track_id": 2949427,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/b/0/2/a/98b02a278e9b5e882f3be686f3756659.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/b/0/2/a/98b02a278e9b5e882f3be686f3756659.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Dean",
+    "display_artist": "DJ Dean",
+    "title": "Balla Nation (Rainer K Remix)",
+    "display_title": "Balla Nation (Rainer K Remix)",
+    "track": "DJ Dean - Balla Nation (Rainer K Remix)",
+    "length": 389,
+    "duration": 389,
+    "started": 1709875312,
+    "type": "track",
+    "track_id": 3023909,
+    "release": "Balla Nation 2021 (The Remixes - Part 1 - Blue Edition) [DB004]",
+    "art_url": "//cdn-images.audioaddict.com/c/c/f/1/f/1/ccf1f16a7d3e60b49a7cb63decc5b689.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/f/1/f/1/ccf1f16a7d3e60b49a7cb63decc5b689.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Neon",
+    "display_artist": "DJ Neon",
+    "title": "The Force Of Melody (Rainer K Meets Glojin Remix)",
+    "display_title": "The Force Of Melody (Rainer K Meets Glojin Remix)",
+    "track": "DJ Neon - The Force Of Melody (Rainer K Meets Glojin Remix)",
+    "length": 362,
+    "duration": 362,
+    "started": 1709876127,
+    "type": "track",
+    "track_id": 2966748,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/1/f/b/d/4/21fbd473a1e57cb0343f66ab905c4a22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/f/b/d/4/21fbd473a1e57cb0343f66ab905c4a22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Adam Reece",
+    "display_artist": "Adam Reece",
+    "title": "Picture This (Original Mix)",
+    "display_title": "Picture This (Original Mix)",
+    "track": "Adam Reece - Picture This (Original Mix)",
+    "length": 355,
+    "duration": 355,
+    "started": 1709876489,
+    "type": "track",
+    "track_id": 3017246,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/3/a/b/5bb3abcca9fe8248edbb5cbcb3d4e532.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/3/a/b/5bb3abcca9fe8248edbb5cbcb3d4e532.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Miyuki",
+    "display_artist": "Miyuki",
+    "title": "Fever Dream (Original Mix)",
+    "display_title": "Fever Dream (Original Mix)",
+    "track": "Miyuki - Fever Dream (Original Mix)",
+    "length": 318,
+    "duration": 318,
+    "started": 1709876843,
+    "type": "track",
+    "track_id": 3080866,
+    "release": "Fever Dream",
+    "art_url": "//cdn-images.audioaddict.com/9/7/a/a/f/2/97aaf2c75fa132688f4e18325fd83082.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/a/a/f/2/97aaf2c75fa132688f4e18325fd83082.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Aura (Original Mix)",
+    "display_title": "Aura (Original Mix)",
+    "track": "Nostic - Aura (Original Mix)",
+    "length": 397,
+    "duration": 397,
+    "started": 1709877160,
+    "type": "track",
+    "track_id": 2988475,
+    "release": "Aura",
+    "art_url": "//cdn-images.audioaddict.com/4/8/9/3/4/3/4893438ee34190b752a878af73192339.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/8/9/3/4/3/4893438ee34190b752a878af73192339.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "The Metamorphis (Original Mix)",
+    "display_title": "The Metamorphis (Original Mix)",
+    "track": "Nostic - The Metamorphis (Original Mix)",
+    "length": 516,
+    "duration": 516,
+    "started": 1709877917,
+    "type": "track",
+    "track_id": 3080873,
+    "release": "The Tablets of Thoth",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nik Wel",
+    "display_artist": "Nik Wel",
+    "title": "Lagrange Point (Original Mix)",
+    "display_title": "Lagrange Point (Original Mix)",
+    "track": "Nik Wel - Lagrange Point (Original Mix)",
+    "length": 438,
+    "duration": 438,
+    "started": 1709878431,
+    "type": "track",
+    "track_id": 3029117,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/8/4/c/2/d/e84c2d4a8e83b991aad302f919af4eeb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/4/c/2/d/e84c2d4a8e83b991aad302f919af4eeb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "C.O.L.D.",
+    "display_artist": "C.O.L.D.",
+    "title": "Be Afraid of the Night",
+    "display_title": "Be Afraid of the Night",
+    "track": "C.O.L.D. - Be Afraid of the Night",
+    "length": 401,
+    "duration": 401,
+    "started": 1709878869,
+    "type": "track",
+    "track_id": 3029108,
+    "release": "Back to the Days EP [HRR075]",
+    "art_url": "//cdn-images.audioaddict.com/7/5/e/a/0/b/75ea0bd19d91a0f8aaadb5312ee4c4c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/e/a/0/b/75ea0bd19d91a0f8aaadb5312ee4c4c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Leo van Goch & The Sixth Sense",
+    "display_artist": "Leo van Goch & The Sixth Sense",
+    "title": "Sunken Red (Original Mix)",
+    "display_title": "Sunken Red (Original Mix)",
+    "track": "Leo van Goch & The Sixth Sense - Sunken Red (Original Mix)",
+    "length": 466,
+    "duration": 466,
+    "started": 1709879270,
+    "type": "track",
+    "track_id": 3029115,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/f/6/4/e/2/ef64e2f539c3506c0eb5d092cdd4884d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/6/4/e/2/ef64e2f539c3506c0eb5d092cdd4884d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "Evolution (Original Mix)",
+    "display_title": "Evolution (Original Mix)",
+    "track": "XLS - Evolution (Original Mix)",
+    "length": 450,
+    "duration": 450,
+    "started": 1709879730,
+    "type": "track",
+    "track_id": 3080880,
+    "release": "Evolution EP",
+    "art_url": "//cdn-images.audioaddict.com/1/c/8/a/5/0/1c8a50b08a54361309a6e950a95b1cc1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/8/a/5/0/1c8a50b08a54361309a6e950a95b1cc1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "TrickyDJ",
+    "display_artist": "TrickyDJ",
+    "title": "Destiny (Original Mix)",
+    "display_title": "Destiny (Original Mix)",
+    "track": "TrickyDJ - Destiny (Original Mix)",
+    "length": 462,
+    "duration": 462,
+    "started": 1709880179,
+    "type": "track",
+    "track_id": 3065253,
+    "release": "Destiny",
+    "art_url": "//cdn-images.audioaddict.com/4/9/d/7/e/2/49d7e252285f1144e86bda764f37d579.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/d/7/e/2/49d7e252285f1144e86bda764f37d579.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Yoshi & Razner",
+    "display_artist": "Yoshi & Razner",
+    "title": "Genesis (Original Mix)",
+    "display_title": "Genesis (Original Mix)",
+    "track": "Yoshi & Razner - Genesis (Original Mix)",
+    "length": 415,
+    "duration": 415,
+    "started": 1709880641,
+    "type": "track",
+    "track_id": 3088682,
+    "release": "Genesis",
+    "art_url": "//cdn-images.audioaddict.com/8/8/6/6/4/f/88664f471ddebe2a17a58657e734d878.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/6/6/4/f/88664f471ddebe2a17a58657e734d878.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dizmaster",
+    "display_artist": "Dizmaster",
+    "title": "The Punchline",
+    "display_title": "The Punchline",
+    "track": "Dizmaster - The Punchline",
+    "length": 444,
+    "duration": 444,
+    "started": 1709881058,
+    "type": "track",
+    "track_id": 3034579,
+    "release": "The Punchline [HQ044]",
+    "art_url": "//cdn-images.audioaddict.com/8/1/c/2/a/9/81c2a9ec7559d2605c8021db6d804532.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/c/2/a/9/81c2a9ec7559d2605c8021db6d804532.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Hoffman, Emmanuel Miro",
+    "display_artist": "Hoffman, Emmanuel Miro",
+    "title": "Replikant (Original Mix)",
+    "display_title": "Replikant (Original Mix)",
+    "track": "Hoffman, Emmanuel Miro - Replikant (Original Mix)",
+    "length": 327,
+    "duration": 327,
+    "started": 1709881501,
+    "type": "track",
+    "track_id": 3058860,
+    "release": "Tektones #10 (Selected by T78)",
+    "art_url": "//cdn-images.audioaddict.com/9/e/0/4/0/5/9e04054ca1c62bac9aa4d23480174f40.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/0/4/0/5/9e04054ca1c62bac9aa4d23480174f40.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "C.O.L.D.",
+    "display_artist": "C.O.L.D.",
+    "title": "Back to the Days",
+    "display_title": "Back to the Days",
+    "track": "C.O.L.D. - Back to the Days",
+    "length": 472,
+    "duration": 472,
+    "started": 1709881829,
+    "type": "track",
+    "track_id": 3029107,
+    "release": "Back to the Days EP [HRR075]",
+    "art_url": "//cdn-images.audioaddict.com/7/5/e/a/0/b/75ea0bd19d91a0f8aaadb5312ee4c4c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/e/a/0/b/75ea0bd19d91a0f8aaadb5312ee4c4c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Jordan",
+    "display_artist": "DJ Jordan",
+    "title": "Take Me Higher (Original Mix)",
+    "display_title": "Take Me Higher (Original Mix)",
+    "track": "DJ Jordan - Take Me Higher (Original Mix)",
+    "length": 397,
+    "duration": 397,
+    "started": 1709882301,
+    "type": "track",
+    "track_id": 3049611,
+    "release": "Take Me Higher EP",
+    "art_url": "//cdn-images.audioaddict.com/4/1/4/2/b/a/4142ba705c81c0c2006a74ede897283e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/4/2/b/a/4142ba705c81c0c2006a74ede897283e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dark Sector",
+    "display_artist": "Dark Sector",
+    "title": "The Sound of Space (Original Mix)",
+    "display_title": "The Sound of Space (Original Mix)",
+    "track": "Dark Sector - The Sound of Space (Original Mix)",
+    "length": 467,
+    "duration": 467,
+    "started": 1709882697,
+    "type": "track",
+    "track_id": 3058854,
+    "release": "The Final EP",
+    "art_url": "//cdn-images.audioaddict.com/8/2/6/b/1/c/826b1c7a8087e12ab60d422d6e7ff92b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/6/b/1/c/826b1c7a8087e12ab60d422d6e7ff92b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Happyalex pres. Trancedance",
+    "display_artist": "Happyalex pres. Trancedance",
+    "title": "Hard & Dance 850 (02 February 2024)",
+    "display_title": "Hard & Dance 850 (02 February 2024)",
+    "track": "Happyalex pres. Trancedance - Hard & Dance 850 (02 February 2024)",
+    "length": 3796,
+    "duration": 3796,
+    "started": 1709883163,
+    "type": "track",
+    "track_id": 3087940,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Victoria.52",
+    "display_artist": "Victoria.52",
+    "title": "Arkaden (Original Mix)",
+    "display_title": "Arkaden (Original Mix)",
+    "track": "Victoria.52 - Arkaden (Original Mix)",
+    "length": 354,
+    "duration": 354,
+    "started": 1709886957,
+    "type": "track",
+    "track_id": 3065254,
+    "release": "Times Have Changed",
+    "art_url": "//cdn-images.audioaddict.com/6/e/a/9/8/8/6ea98818ae092fbc77a715410ffd5fd7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/a/9/8/8/6ea98818ae092fbc77a715410ffd5fd7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Victoria.52",
+    "display_artist": "Victoria.52",
+    "title": "Shipment (Original Mix)",
+    "display_title": "Shipment (Original Mix)",
+    "track": "Victoria.52 - Shipment (Original Mix)",
+    "length": 328,
+    "duration": 328,
+    "started": 1709887312,
+    "type": "track",
+    "track_id": 3065256,
+    "release": "Times Have Changed",
+    "art_url": "//cdn-images.audioaddict.com/6/e/a/9/8/8/6ea98818ae092fbc77a715410ffd5fd7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/a/9/8/8/6ea98818ae092fbc77a715410ffd5fd7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Montoni",
+    "display_artist": "Montoni",
+    "title": "Human Error (Original Mix)",
+    "display_title": "Human Error (Original Mix)",
+    "track": "Montoni - Human Error (Original Mix)",
+    "length": 381,
+    "duration": 381,
+    "started": 1709887640,
+    "type": "track",
+    "track_id": 2994113,
+    "release": "Human Error",
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/7/a/d/2c87adc13c60b1232178d62d0eadec86.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/7/a/d/2c87adc13c60b1232178d62d0eadec86.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "RVO_UK",
+    "display_artist": "RVO_UK",
+    "title": "Enigma (Original Mix)",
+    "display_title": "Enigma (Original Mix)",
+    "track": "RVO_UK - Enigma (Original Mix)",
+    "length": 392,
+    "duration": 392,
+    "started": 1709888376,
+    "type": "track",
+    "track_id": 3080877,
+    "release": "Enigma",
+    "art_url": "//cdn-images.audioaddict.com/a/a/1/9/8/f/aa198fdd8f3ab37dae773cca89b64aac.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/1/9/8/f/aa198fdd8f3ab37dae773cca89b64aac.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Pete Delete,Phazer",
+    "display_artist": "Pete Delete,Phazer",
+    "title": "Save The Millennials (Dante Remix)",
+    "display_title": "Save The Millennials (Dante Remix)",
+    "track": "Pete Delete,Phazer - Save The Millennials (Dante Remix)",
+    "length": 381,
+    "duration": 381,
+    "started": 1709888768,
+    "type": "track",
+    "track_id": 2994117,
+    "release": "Save The Millennials",
+    "art_url": "//cdn-images.audioaddict.com/c/c/5/4/9/8/cc5498a23ca0ad23c2d50135889b33e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/5/4/9/8/cc5498a23ca0ad23c2d50135889b33e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Sachi Toyama",
+    "display_artist": "Sachi Toyama",
+    "title": "No Comment 2019 (Wavetraxx Remix)",
+    "display_title": "No Comment 2019 (Wavetraxx Remix)",
+    "track": "Sachi Toyama - No Comment 2019 (Wavetraxx Remix)",
+    "length": 320,
+    "duration": 320,
+    "started": 1709889491,
+    "type": "track",
+    "track_id": 2988486,
+    "release": "No Comment 2019",
+    "art_url": "//cdn-images.audioaddict.com/8/7/0/c/d/e/870cde6c21abb45979d41dd58bff753d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/0/c/d/e/870cde6c21abb45979d41dd58bff753d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Mycorave",
+    "display_artist": "Mycorave",
+    "title": "Infection (Original Mix)",
+    "display_title": "Infection (Original Mix)",
+    "track": "Mycorave - Infection (Original Mix)",
+    "length": 444,
+    "duration": 444,
+    "started": 1709889811,
+    "type": "track",
+    "track_id": 3065247,
+    "release": "The Virus EP",
+    "art_url": "//cdn-images.audioaddict.com/0/5/1/2/9/b/05129b2e972f552bd1ce123809fa5ebc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/1/2/9/b/05129b2e972f552bd1ce123809fa5ebc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "The Tablets of Thoth (Original Mix)",
+    "display_title": "The Tablets of Thoth (Original Mix)",
+    "track": "Nostic - The Tablets of Thoth (Original Mix)",
+    "length": 409,
+    "duration": 409,
+    "started": 1709890254,
+    "type": "track",
+    "track_id": 3080875,
+    "release": "The Tablets of Thoth",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ187",
+    "display_artist": "DJ187",
+    "title": "Music Cyberspace (original mix)",
+    "display_title": "Music Cyberspace (original mix)",
+    "track": "DJ187 - Music Cyberspace (original mix)",
+    "length": 500,
+    "duration": 500,
+    "started": 1709890662,
+    "type": "track",
+    "track_id": 3080862,
+    "release": "Music Cyberspace",
+    "art_url": "//cdn-images.audioaddict.com/2/f/0/0/f/7/2f00f7ad0da53477335a1b3809d8ec61.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/0/0/f/7/2f00f7ad0da53477335a1b3809d8ec61.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ T.H.",
+    "display_artist": "DJ T.H.",
+    "title": "The Age Of Festivals (Extended Mix)",
+    "display_title": "The Age Of Festivals (Extended Mix)",
+    "track": "DJ T.H. - The Age Of Festivals (Extended Mix)",
+    "length": 400,
+    "duration": 400,
+    "started": 1709898688,
+    "type": "track",
+    "track_id": 3080860,
+    "release": "Ultimate Club Tunes 2023",
+    "art_url": "//cdn-images.audioaddict.com/3/b/b/b/1/2/3bbb12d2498821820564f296e74eaed9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/b/b/1/2/3bbb12d2498821820564f296e74eaed9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "The Monitorz",
+    "display_artist": "The Monitorz",
+    "title": "Rise Again (Tune Junkiez Remix)",
+    "display_title": "Rise Again (Tune Junkiez Remix)",
+    "track": "The Monitorz - Rise Again (Tune Junkiez Remix)",
+    "length": 450,
+    "duration": 450,
+    "started": 1709899088,
+    "type": "track",
+    "track_id": 3065251,
+    "release": "Rise Again (Tune Junkiez Remix)",
+    "art_url": "//cdn-images.audioaddict.com/1/d/9/8/9/3/1d989383b3a4c0fa893dc7135d2b9afe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/9/8/9/3/1d989383b3a4c0fa893dc7135d2b9afe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dark By Design, JimZima",
+    "display_artist": "Dark By Design, JimZima",
+    "title": "Let Me Be Your LSD (Original Mix)",
+    "display_title": "Let Me Be Your LSD (Original Mix)",
+    "track": "Dark By Design, JimZima - Let Me Be Your LSD (Original Mix)",
+    "length": 364,
+    "duration": 364,
+    "started": 1709900432,
+    "type": "track",
+    "track_id": 3065241,
+    "release": "Let Me Be Your LSD",
+    "art_url": "//cdn-images.audioaddict.com/0/b/0/c/f/2/0b0cf28616a4a70743448a1a69e5ee8c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/0/c/f/2/0b0cf28616a4a70743448a1a69e5ee8c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Thera",
+    "display_artist": "DJ Thera",
+    "title": "Wasteland (Dj Thera 2022 Pro Remix)",
+    "display_title": "Wasteland (Dj Thera 2022 Pro Remix)",
+    "track": "DJ Thera - Wasteland (Dj Thera 2022 Pro Remix)",
+    "length": 326,
+    "duration": 326,
+    "started": 1709901552,
+    "type": "track",
+    "track_id": 3058851,
+    "release": "Remixed 2022 - Pro Mixes",
+    "art_url": "//cdn-images.audioaddict.com/5/5/b/f/a/3/55bfa393a596631b2c88cfbf71ea9234.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/b/f/a/3/55bfa393a596631b2c88cfbf71ea9234.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nick The Kid, Montoni",
+    "display_artist": "Nick The Kid, Montoni",
+    "title": "Transatlantic (Original Mix)",
+    "display_title": "Transatlantic (Original Mix)",
+    "track": "Nick The Kid, Montoni - Transatlantic (Original Mix)",
+    "length": 341,
+    "duration": 341,
+    "started": 1709901876,
+    "type": "track",
+    "track_id": 3072540,
+    "release": "Transatlantic",
+    "art_url": "//cdn-images.audioaddict.com/b/7/8/3/f/2/b783f2d4ce270dcd098c9f6544b5e288.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/8/3/f/2/b783f2d4ce270dcd098c9f6544b5e288.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Mark Ross",
+    "display_artist": "Mark Ross",
+    "title": "Open Your Mind",
+    "display_title": "Open Your Mind",
+    "track": "Mark Ross - Open Your Mind",
+    "length": 481,
+    "duration": 481,
+    "started": 1709902218,
+    "type": "track",
+    "track_id": 3034582,
+    "release": "Open Your Mind EP [HRR077]",
+    "art_url": "//cdn-images.audioaddict.com/5/5/3/b/1/e/553b1e3f4431a56418c59108e289b8d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/3/b/1/e/553b1e3f4431a56418c59108e289b8d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Blashear",
+    "display_artist": "Blashear",
+    "title": "Discotech (Extended Mix)",
+    "display_title": "Discotech (Extended Mix)",
+    "track": "Blashear - Discotech (Extended Mix)",
+    "length": 379,
+    "duration": 379,
+    "started": 1709902699,
+    "type": "track",
+    "track_id": 3029106,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/4/3/e/9/8/943e987be85f18eb35dc99db1592ed10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/3/e/9/8/943e987be85f18eb35dc99db1592ed10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Alan Sharkey",
+    "display_artist": "Alan Sharkey",
+    "title": "Beast Mode (Original Mix)",
+    "display_title": "Beast Mode (Original Mix)",
+    "track": "Alan Sharkey - Beast Mode (Original Mix)",
+    "length": 326,
+    "duration": 326,
+    "started": 1709903078,
+    "type": "track",
+    "track_id": 2994102,
+    "release": "Beast Mode",
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/7/a/d/2c87adc13c60b1232178d62d0eadec86.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/7/a/d/2c87adc13c60b1232178d62d0eadec86.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "The Noble Six",
+    "display_artist": "The Noble Six",
+    "title": "Astral Projection (Extended Mix)",
+    "display_title": "Astral Projection (Extended Mix)",
+    "track": "The Noble Six - Astral Projection (Extended Mix)",
+    "length": 523,
+    "duration": 523,
+    "started": 1709903405,
+    "type": "track",
+    "track_id": 3072545,
+    "release": "Astral Projection",
+    "art_url": "//cdn-images.audioaddict.com/3/f/b/b/a/4/3fbba458ace73e3c0377688daf6587d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/b/b/a/4/3fbba458ace73e3c0377688daf6587d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Jay Turio",
+    "display_artist": "Jay Turio",
+    "title": "Stormbringer (Extended Mix)",
+    "display_title": "Stormbringer (Extended Mix)",
+    "track": "Jay Turio - Stormbringer (Extended Mix)",
+    "length": 387,
+    "duration": 387,
+    "started": 1709903929,
+    "type": "track",
+    "track_id": 3023914,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/b/a/c/0/c/ebac0c1b3cb9a1f3dc54dfe7af4e75d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/b/a/c/0/c/ebac0c1b3cb9a1f3dc54dfe7af4e75d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Push, Joyhauser",
+    "display_artist": "Push, Joyhauser",
+    "title": "Choir Of Spirits (Original Mix)",
+    "display_title": "Choir Of Spirits (Original Mix)",
+    "track": "Push, Joyhauser - Choir Of Spirits (Original Mix)",
+    "length": 405,
+    "duration": 405,
+    "started": 1709904315,
+    "type": "track",
+    "track_id": 3049613,
+    "release": "Choir Of Spirits",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/0/9/f/53d09f2a9cf1e9b59a12f12712f3f330.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/0/9/f/53d09f2a9cf1e9b59a12f12712f3f330.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Enemy 9",
+    "display_artist": "Enemy 9",
+    "title": "The One (Leo van Goch & The Sixth Sense Remix)",
+    "display_title": "The One (Leo van Goch & The Sixth Sense Remix)",
+    "track": "Enemy 9 - The One (Leo van Goch & The Sixth Sense Remix)",
+    "length": 380,
+    "duration": 380,
+    "started": 1709904719,
+    "type": "track",
+    "track_id": 3048427,
+    "release": "The One",
+    "art_url": "//cdn-images.audioaddict.com/7/4/3/6/9/c/74369ce4c0ad798b0f1de395bc76f8d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/3/6/9/c/74369ce4c0ad798b0f1de395bc76f8d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Stabij pres. Acid Train",
+    "display_artist": "Stabij pres. Acid Train",
+    "title": "Acid Train (Third Class)",
+    "display_title": "Acid Train (Third Class)",
+    "track": "Stabij pres. Acid Train - Acid Train (Third Class)",
+    "length": 374,
+    "duration": 374,
+    "started": 1709905100,
+    "type": "track",
+    "track_id": 3043953,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/4/2/6/4/6/442646ba682de962f7bc82a532c22fe8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/2/6/4/6/442646ba682de962f7bc82a532c22fe8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "ADM",
+    "display_artist": "ADM",
+    "title": "Psycho (Original Mix)",
+    "display_title": "Psycho (Original Mix)",
+    "track": "ADM - Psycho (Original Mix)",
+    "length": 422,
+    "duration": 422,
+    "started": 1709905474,
+    "type": "track",
+    "track_id": 3017245,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/9/0/f/6/7d90f67a679059ff369557bd77e7fe65.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/9/0/f/6/7d90f67a679059ff369557bd77e7fe65.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Luminance (Original Mix)",
+    "display_title": "Luminance (Original Mix)",
+    "track": "Nostic - Luminance (Original Mix)",
+    "length": 430,
+    "duration": 430,
+    "started": 1709905895,
+    "type": "track",
+    "track_id": 3080870,
+    "release": "The Tablets of Thoth",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Ben Corner",
+    "display_artist": "Ben Corner",
+    "title": "The Hard Trance Show 017 (23 February 2024)",
+    "display_title": "The Hard Trance Show 017 (23 February 2024)",
+    "track": "Ben Corner - The Hard Trance Show 017 (23 February 2024)",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1709906745,
+    "type": "track",
+    "track_id": 3089179,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/0/d/d/4/6/d0dd460f23c2180b6909438ba91edfd5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/d/d/4/6/d0dd460f23c2180b6909438ba91edfd5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "The Orbits of Gaia (Original Mix)",
+    "display_title": "The Orbits of Gaia (Original Mix)",
+    "track": "Nostic - The Orbits of Gaia (Original Mix)",
+    "length": 471,
+    "duration": 471,
+    "started": 1709914375,
+    "type": "track",
+    "track_id": 3080874,
+    "release": "The Tablets of Thoth",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Syafiq Hakim",
+    "display_artist": "Syafiq Hakim",
+    "title": "Hooligan (Original Mix)",
+    "display_title": "Hooligan (Original Mix)",
+    "track": "Syafiq Hakim - Hooligan (Original Mix)",
+    "length": 423,
+    "duration": 423,
+    "started": 1709914845,
+    "type": "track",
+    "track_id": 3023925,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/2/d/e/2/f12de24c091a59a6190cc9ec807fb27a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/2/d/e/2/f12de24c091a59a6190cc9ec807fb27a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Baris",
+    "display_artist": "Baris",
+    "title": "Acid Piano (Original Mix)",
+    "display_title": "Acid Piano (Original Mix)",
+    "track": "Baris - Acid Piano (Original Mix)",
+    "length": 311,
+    "duration": 311,
+    "started": 1709915268,
+    "type": "track",
+    "track_id": 3058846,
+    "release": "Passenger EP",
+    "art_url": "//cdn-images.audioaddict.com/2/f/7/c/2/8/2f7c2839bb52cf74ae6700cadbace35c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/7/c/2/8/2f7c2839bb52cf74ae6700cadbace35c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Warlock",
+    "display_artist": "Warlock",
+    "title": "The Sound (Phil Reynolds Remix)",
+    "display_title": "The Sound (Phil Reynolds Remix)",
+    "track": "Warlock - The Sound (Phil Reynolds Remix)",
+    "length": 443,
+    "duration": 443,
+    "started": 1709916049,
+    "type": "track",
+    "track_id": 3017262,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/3/3/3/2/5/93332579ff38cdbc6c2206148b0f724d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/3/3/2/5/93332579ff38cdbc6c2206148b0f724d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "HXIST",
+    "display_artist": "HXIST",
+    "title": "Gift For Us (Original mix)",
+    "display_title": "Gift For Us (Original mix)",
+    "track": "HXIST - Gift For Us (Original mix)",
+    "length": 471,
+    "duration": 471,
+    "started": 1709916491,
+    "type": "track",
+    "track_id": 3058859,
+    "release": "Between Gods and Them",
+    "art_url": "//cdn-images.audioaddict.com/4/c/b/f/0/d/4cbf0d050a45e5db635e2e506be17457.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/b/f/0/d/4cbf0d050a45e5db635e2e506be17457.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Stabij pres. Acid Train",
+    "display_artist": "Stabij pres. Acid Train",
+    "title": "Geisterzug (First Class)",
+    "display_title": "Geisterzug (First Class)",
+    "track": "Stabij pres. Acid Train - Geisterzug (First Class)",
+    "length": 404,
+    "duration": 404,
+    "started": 1709917387,
+    "type": "track",
+    "track_id": 3080879,
+    "release": "Geisterzug EP",
+    "art_url": "//cdn-images.audioaddict.com/4/9/5/6/4/f/49564f017e1b64cf8dc85340a3669b9d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/5/6/4/f/49564f017e1b64cf8dc85340a3669b9d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Mark Richardson",
+    "display_artist": "Mark Richardson",
+    "title": "Charge (Original Mix)",
+    "display_title": "Charge (Original Mix)",
+    "track": "Mark Richardson - Charge (Original Mix)",
+    "length": 501,
+    "duration": 501,
+    "started": 1709918186,
+    "type": "track",
+    "track_id": 3029116,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/f/6/4/e/2/ef64e2f539c3506c0eb5d092cdd4884d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/6/4/e/2/ef64e2f539c3506c0eb5d092cdd4884d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Jody 6",
+    "display_artist": "Jody 6",
+    "title": "In The Darkness (Original Mix)",
+    "display_title": "In The Darkness (Original Mix)",
+    "track": "Jody 6 - In The Darkness (Original Mix)",
+    "length": 389,
+    "duration": 389,
+    "started": 1709918684,
+    "type": "track",
+    "track_id": 3065243,
+    "release": "In The Darkness",
+    "art_url": "//cdn-images.audioaddict.com/b/6/1/2/1/9/b612198d94f360053932d0d514c8b459.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/1/2/1/9/b612198d94f360053932d0d514c8b459.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Mark Ross",
+    "display_artist": "Mark Ross",
+    "title": "The Future (Nostic Remix)",
+    "display_title": "The Future (Nostic Remix)",
+    "track": "Mark Ross - The Future (Nostic Remix)",
+    "length": 344,
+    "duration": 344,
+    "started": 1709919073,
+    "type": "track",
+    "track_id": 3065245,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/7/e/e/b/f/f7eebfd101445c4ab083b8ea6858ecf8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/e/e/b/f/f7eebfd101445c4ab083b8ea6858ecf8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dizmaster",
+    "display_artist": "Dizmaster",
+    "title": "The Shadow (Extended Mix)",
+    "display_title": "The Shadow (Extended Mix)",
+    "track": "Dizmaster - The Shadow (Extended Mix)",
+    "length": 398,
+    "duration": 398,
+    "started": 1709919414,
+    "type": "track",
+    "track_id": 3020435,
+    "release": "The Shadow [HTE106]",
+    "art_url": "//cdn-images.audioaddict.com/2/4/8/0/d/8/2480d84fb23b9e0277a718c1b55bf371.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/8/0/d/8/2480d84fb23b9e0277a718c1b55bf371.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "C.O.L.D.",
+    "display_artist": "C.O.L.D.",
+    "title": "Valhalla (Extented Mix)",
+    "display_title": "Valhalla (Extented Mix)",
+    "track": "C.O.L.D. - Valhalla (Extented Mix)",
+    "length": 413,
+    "duration": 413,
+    "started": 1709920244,
+    "type": "track",
+    "track_id": 3043942,
+    "release": "Valhalla (Extented Mix) [DRUCK046]",
+    "art_url": "//cdn-images.audioaddict.com/0/0/e/d/4/b/00ed4b5ad236398bd6dd90365be6604a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/e/d/4/b/00ed4b5ad236398bd6dd90365be6604a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rick Guyez",
+    "display_artist": "Rick Guyez",
+    "title": "One Way or Another (Extended Mix)",
+    "display_title": "One Way or Another (Extended Mix)",
+    "track": "Rick Guyez - One Way or Another (Extended Mix)",
+    "length": 493,
+    "duration": 493,
+    "started": 1709921023,
+    "type": "track",
+    "track_id": 2994121,
+    "release": "One Way or Another",
+    "art_url": "//cdn-images.audioaddict.com/3/1/a/1/a/0/31a1a06d69ec143d3629b91402460369.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/a/1/a/0/31a1a06d69ec143d3629b91402460369.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Hakka",
+    "display_artist": "Hakka",
+    "title": "Reprobate",
+    "display_title": "Reprobate",
+    "track": "Hakka - Reprobate",
+    "length": 398,
+    "duration": 398,
+    "started": 1709921516,
+    "type": "track",
+    "track_id": 3034580,
+    "release": "Reprobate [SPD003]",
+    "art_url": "//cdn-images.audioaddict.com/b/c/3/0/3/e/bc303ed5e7d342c1cbe733a04bcdfd8f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/3/0/3/e/bc303ed5e7d342c1cbe733a04bcdfd8f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Slick",
+    "display_artist": "Slick",
+    "title": "Wake Up (Extended Mix)",
+    "display_title": "Wake Up (Extended Mix)",
+    "track": "Slick - Wake Up (Extended Mix)",
+    "length": 384,
+    "duration": 384,
+    "started": 1709921909,
+    "type": "track",
+    "track_id": 3004345,
+    "release": "Wake Up",
+    "art_url": "//cdn-images.audioaddict.com/d/0/b/c/3/9/d0bc39d8a6bb5374de4b69eb6421319b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/b/c/3/9/d0bc39d8a6bb5374de4b69eb6421319b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Talla 2xlc, RRAW!",
+    "display_artist": "Talla 2xlc, RRAW!",
+    "title": "Change (Extended Mix)",
+    "display_title": "Change (Extended Mix)",
+    "track": "Talla 2xlc, RRAW! - Change (Extended Mix)",
+    "length": 362,
+    "duration": 362,
+    "started": 1709922293,
+    "type": "track",
+    "track_id": 3087181,
+    "release": "Change",
+    "art_url": "//cdn-images.audioaddict.com/e/8/0/d/d/7/e80dd778201c4870baeeb1d5c867b710.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/0/d/d/7/e80dd778201c4870baeeb1d5c867b710.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Stabij pres. Acid Train",
+    "display_artist": "Stabij pres. Acid Train",
+    "title": "Acid Train (Second Class)",
+    "display_title": "Acid Train (Second Class)",
+    "track": "Stabij pres. Acid Train - Acid Train (Second Class)",
+    "length": 450,
+    "duration": 450,
+    "started": 1709922655,
+    "type": "track",
+    "track_id": 3043952,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/4/2/6/4/6/442646ba682de962f7bc82a532c22fe8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/2/6/4/6/442646ba682de962f7bc82a532c22fe8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Beat Time (Original Mix)",
+    "display_title": "Beat Time (Original Mix)",
+    "track": "Nostic - Beat Time (Original Mix)",
+    "length": 411,
+    "duration": 411,
+    "started": 1709923513,
+    "type": "track",
+    "track_id": 3080867,
+    "release": "The Tablets of Thoth",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic & Mycorave",
+    "display_artist": "Nostic & Mycorave",
+    "title": "Binaural Beats (Original Mix)",
+    "display_title": "Binaural Beats (Original Mix)",
+    "track": "Nostic & Mycorave - Binaural Beats (Original Mix)",
+    "length": 365,
+    "duration": 365,
+    "started": 1709923923,
+    "type": "track",
+    "track_id": 3088672,
+    "release": "Binaural Beats",
+    "art_url": "//cdn-images.audioaddict.com/c/8/d/6/4/0/c8d640bd686626ab779043300fdd8e75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/d/6/4/0/c8d640bd686626ab779043300fdd8e75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Phil Reynolds",
+    "display_artist": "Phil Reynolds",
+    "title": "Born To Run (Original Mix)",
+    "display_title": "Born To Run (Original Mix)",
+    "track": "Phil Reynolds - Born To Run (Original Mix)",
+    "length": 503,
+    "duration": 503,
+    "started": 1709924289,
+    "type": "track",
+    "track_id": 3088675,
+    "release": "Chapter Two EP Three",
+    "art_url": "//cdn-images.audioaddict.com/7/d/4/1/b/d/7d41bdfa0df4eda14adb58812154994f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/4/1/b/d/7d41bdfa0df4eda14adb58812154994f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Ludo",
+    "display_artist": "Ludo",
+    "title": "The Beast (Nostic Remix)",
+    "display_title": "The Beast (Nostic Remix)",
+    "track": "Ludo - The Beast (Nostic Remix)",
+    "length": 355,
+    "duration": 355,
+    "started": 1709924791,
+    "type": "track",
+    "track_id": 3080863,
+    "release": "The Beast",
+    "art_url": "//cdn-images.audioaddict.com/2/8/5/a/8/6/285a86b3d5bda64de97cddde0ca83d99.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/5/a/8/6/285a86b3d5bda64de97cddde0ca83d99.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "C.O.L.D.",
+    "display_artist": "C.O.L.D.",
+    "title": "Rough & Sweet 077 (08 March 2024)",
+    "display_title": "Rough & Sweet 077 (08 March 2024)",
+    "track": "C.O.L.D. - Rough & Sweet 077 (08 March 2024)",
+    "length": 3596,
+    "duration": 3596,
+    "started": 1709928000,
+    "type": "track",
+    "track_id": 3090175,
+    "release": "C.O.L.D. rough and sweet EP 077 March 2024",
+    "art_url": "//cdn-images.audioaddict.com/2/1/c/5/2/c/21c52c9f5872d5662374e62a16f40e36.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/c/5/2/c/21c52c9f5872d5662374e62a16f40e36.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 855 (08 March 2024)",
+    "display_title": "Hard & Dance 855 (08 March 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 855 (08 March 2024)",
+    "length": 4177,
+    "duration": 4177,
+    "started": 1709935200,
+    "type": "track",
+    "track_id": 3090202,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Gee",
+    "display_artist": "Gee",
+    "title": "Flash Forward (Original mix)",
+    "display_title": "Flash Forward (Original mix)",
+    "track": "Gee - Flash Forward (Original mix)",
+    "length": 408,
+    "duration": 408,
+    "started": 1709940693,
+    "type": "track",
+    "track_id": 3017251,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/3/a/b/5bb3abcca9fe8248edbb5cbcb3d4e532.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/3/a/b/5bb3abcca9fe8248edbb5cbcb3d4e532.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Jovan Vehn",
+    "display_artist": "Jovan Vehn",
+    "title": "Karma (Max Foley Vocal Remix)",
+    "display_title": "Karma (Max Foley Vocal Remix)",
+    "track": "Jovan Vehn - Karma (Max Foley Vocal Remix)",
+    "length": 428,
+    "duration": 428,
+    "started": 1709941101,
+    "type": "track",
+    "track_id": 3043949,
+    "release": "Karma EP [BOT020]",
+    "art_url": "//cdn-images.audioaddict.com/9/1/e/1/e/1/91e1e1f44385c87d5d2789ee24ae5bf8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/e/1/e/1/91e1e1f44385c87d5d2789ee24ae5bf8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Stabij",
+    "display_artist": "Stabij",
+    "title": "Umgedreht (XLS Remix)",
+    "display_title": "Umgedreht (XLS Remix)",
+    "track": "Stabij - Umgedreht (XLS Remix)",
+    "length": 465,
+    "duration": 465,
+    "started": 1709941529,
+    "type": "track",
+    "track_id": 2998152,
+    "release": "Umgedreht",
+    "art_url": "//cdn-images.audioaddict.com/1/9/4/8/0/0/1948006652d8398d25cd55044480341b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/4/8/0/0/1948006652d8398d25cd55044480341b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Connected",
+    "display_artist": "Connected",
+    "title": "Diamond Rain (Original Mix)",
+    "display_title": "Diamond Rain (Original Mix)",
+    "track": "Connected - Diamond Rain (Original Mix)",
+    "length": 575,
+    "duration": 575,
+    "started": 1709941994,
+    "type": "track",
+    "track_id": 2893146,
+    "release": "Diamond Rain",
+    "art_url": "//cdn-images.audioaddict.com/3/0/c/0/2/d/30c02d01022202f633f444f2b526b09c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/c/0/2/d/30c02d01022202f633f444f2b526b09c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Kriess Guyte",
+    "display_artist": "Kriess Guyte",
+    "title": "Cinematic (Original Mix)",
+    "display_title": "Cinematic (Original Mix)",
+    "track": "Kriess Guyte - Cinematic (Original Mix)",
+    "length": 423,
+    "duration": 423,
+    "started": 1709942567,
+    "type": "track",
+    "track_id": 3029112,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/c/5/d/5/0/1c5d50fa99b192304f043e8c87598cc3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/5/d/5/0/1c5d50fa99b192304f043e8c87598cc3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Tranceflight",
+    "display_artist": "Tranceflight",
+    "title": "Synthesia (Full Peaktime Mix)",
+    "display_title": "Synthesia (Full Peaktime Mix)",
+    "track": "Tranceflight - Synthesia (Full Peaktime Mix)",
+    "length": 397,
+    "duration": 397,
+    "started": 1709942990,
+    "type": "track",
+    "track_id": 3058869,
+    "release": "Synthesia",
+    "art_url": "//cdn-images.audioaddict.com/0/1/1/5/6/1/011561e9e1f2fa63758527a4a0754da7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/1/5/6/1/011561e9e1f2fa63758527a4a0754da7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "C.O.L.D.",
+    "display_artist": "C.O.L.D.",
+    "title": "Acid Storm (Original Mix)",
+    "display_title": "Acid Storm (Original Mix)",
+    "track": "C.O.L.D. - Acid Storm (Original Mix)",
+    "length": 424,
+    "duration": 424,
+    "started": 1709943811,
+    "type": "track",
+    "track_id": 3058847,
+    "release": "Klangwelten EP",
+    "art_url": "//cdn-images.audioaddict.com/a/0/c/5/4/3/a0c5439bfb5e0f737ce6932419a7f86d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/c/5/4/3/a0c5439bfb5e0f737ce6932419a7f86d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Stereotype",
+    "display_artist": "Stereotype",
+    "title": "Droppin",
+    "display_title": "Droppin",
+    "track": "Stereotype - Droppin",
+    "length": 325,
+    "duration": 325,
+    "started": 1709944632,
+    "type": "track",
+    "track_id": 3031508,
+    "release": "Droppin [DMRDIG030]",
+    "art_url": "//cdn-images.audioaddict.com/d/d/c/4/c/1/ddc4c163deadfd8c1ce6842a2e3fdc12.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/c/4/c/1/ddc4c163deadfd8c1ce6842a2e3fdc12.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Eyerate",
+    "display_artist": "Eyerate",
+    "title": "Youth Eternal (Trance Mix)",
+    "display_title": "Youth Eternal (Trance Mix)",
+    "track": "Eyerate - Youth Eternal (Trance Mix)",
+    "length": 422,
+    "duration": 422,
+    "started": 1709944955,
+    "type": "track",
+    "track_id": 3043946,
+    "release": "Twenty Angels [1PILLS025]",
+    "art_url": "//cdn-images.audioaddict.com/9/f/a/d/c/5/9fadc5c5de10378513fc271ae63c7be3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/a/d/c/5/9fadc5c5de10378513fc271ae63c7be3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Snowface",
+    "display_artist": "Snowface",
+    "title": "Sand of Lies (Extended Mix)",
+    "display_title": "Sand of Lies (Extended Mix)",
+    "track": "Snowface - Sand of Lies (Extended Mix)",
+    "length": 404,
+    "duration": 404,
+    "started": 1709945377,
+    "type": "track",
+    "track_id": 2997824,
+    "release": "Sand of Lies",
+    "art_url": "//cdn-images.audioaddict.com/6/6/e/9/a/6/66e9a6c4bf0f6b1c3c72cc97dc9a7d8a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/e/9/a/6/66e9a6c4bf0f6b1c3c72cc97dc9a7d8a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Phil Reynolds",
+    "display_artist": "Phil Reynolds",
+    "title": "Lose Control (En-Trance Remix)",
+    "display_title": "Lose Control (En-Trance Remix)",
+    "track": "Phil Reynolds - Lose Control (En-Trance Remix)",
+    "length": 447,
+    "duration": 447,
+    "started": 1709945781,
+    "type": "track",
+    "track_id": 3088677,
+    "release": "Chapter Two EP Three",
+    "art_url": "//cdn-images.audioaddict.com/7/d/4/1/b/d/7d41bdfa0df4eda14adb58812154994f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/4/1/b/d/7d41bdfa0df4eda14adb58812154994f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "C.O.L.D. pres. Iron & Steel",
+    "display_artist": "C.O.L.D. pres. Iron & Steel",
+    "title": "Human Beings (Original Mix)",
+    "display_title": "Human Beings (Original Mix)",
+    "track": "C.O.L.D. pres. Iron & Steel - Human Beings (Original Mix)",
+    "length": 406,
+    "duration": 406,
+    "started": 1709946227,
+    "type": "track",
+    "track_id": 2945575,
+    "release": "Human Beings",
+    "art_url": "//cdn-images.audioaddict.com/e/c/e/5/d/0/ece5d0c506330e335bc0140b5f136613.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/e/5/d/0/ece5d0c506330e335bc0140b5f136613.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dark Sector",
+    "display_artist": "Dark Sector",
+    "title": "Harder (Original Mix)",
+    "display_title": "Harder (Original Mix)",
+    "track": "Dark Sector - Harder (Original Mix)",
+    "length": 395,
+    "duration": 395,
+    "started": 1709946634,
+    "type": "track",
+    "track_id": 2949423,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/5/5/0/8/e/b5508e105cb3db14e41466e3156d41c5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/5/0/8/e/b5508e105cb3db14e41466e3156d41c5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Daniel Doering",
+    "display_artist": "Daniel Doering",
+    "title": "Concorde (Original Mix)",
+    "display_title": "Concorde (Original Mix)",
+    "track": "Daniel Doering - Concorde (Original Mix)",
+    "length": 449,
+    "duration": 449,
+    "started": 1709947028,
+    "type": "track",
+    "track_id": 2982947,
+    "release": "Concorde",
+    "art_url": "//cdn-images.audioaddict.com/0/a/f/c/f/9/0afcf98bf7990bf67fab3d98ed2c2d4c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/f/c/f/9/0afcf98bf7990bf67fab3d98ed2c2d4c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Jordan",
+    "display_artist": "DJ Jordan",
+    "title": "Take Me Higher (Noseda Remix)",
+    "display_title": "Take Me Higher (Noseda Remix)",
+    "track": "DJ Jordan - Take Me Higher (Noseda Remix)",
+    "length": 371,
+    "duration": 371,
+    "started": 1709947920,
+    "type": "track",
+    "track_id": 3049610,
+    "release": "Take Me Higher EP",
+    "art_url": "//cdn-images.audioaddict.com/4/1/4/2/b/a/4142ba705c81c0c2006a74ede897283e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/4/2/b/a/4142ba705c81c0c2006a74ede897283e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Tioan",
+    "display_artist": "Tioan",
+    "title": "After Electronic Music There Will Be Nothing (Alex Delta Remix)",
+    "display_title": "After Electronic Music There Will Be Nothing (Alex Delta Remix)",
+    "track": "Tioan - After Electronic Music There Will Be Nothing (Alex Delta Remix)",
+    "length": 372,
+    "duration": 372,
+    "started": 1709949156,
+    "type": "track",
+    "track_id": 3004346,
+    "release": "After Electronic Music There Will Be Nothing",
+    "art_url": "//cdn-images.audioaddict.com/2/a/0/c/3/d/2a0c3d2ecb376190cc4f6098fb98e978.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/0/c/3/d/2a0c3d2ecb376190cc4f6098fb98e978.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rainer K",
+    "display_artist": "Rainer K",
+    "title": "Static (Original Mix)",
+    "display_title": "Static (Original Mix)",
+    "track": "Rainer K - Static (Original Mix)",
+    "length": 433,
+    "duration": 433,
+    "started": 1709949525,
+    "type": "track",
+    "track_id": 2879019,
+    "release": "Oldschool EP",
+    "art_url": "//cdn-images.audioaddict.com/e/5/d/8/7/2/e5d8724932245b4b44b6ed42e68a74c3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/d/8/7/2/e5d8724932245b4b44b6ed42e68a74c3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Lab4",
+    "display_artist": "Lab4",
+    "title": "Lab4 Db-x (Powder Burn Remix)",
+    "display_title": "Lab4 Db-x (Powder Burn Remix)",
+    "track": "Lab4 - Lab4 Db-x (Powder Burn Remix)",
+    "length": 360,
+    "duration": 360,
+    "started": 1709949958,
+    "type": "track",
+    "track_id": 3029113,
+    "release": "Lab4 Db-x (Bass Mix) [AWD479912]",
+    "art_url": "//cdn-images.audioaddict.com/f/a/4/f/a/2/fa4fa20bc685296219c007b5a2e3a923.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/a/4/f/a/2/fa4fa20bc685296219c007b5a2e3a923.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "SHAX",
+    "display_artist": "SHAX",
+    "title": "Equinox (Original Mix)",
+    "display_title": "Equinox (Original Mix)",
+    "track": "SHAX - Equinox (Original Mix)",
+    "length": 373,
+    "duration": 373,
+    "started": 1709950315,
+    "type": "track",
+    "track_id": 2931141,
+    "release": "Equinox",
+    "art_url": "//cdn-images.audioaddict.com/9/1/b/4/4/a/91b44abe7ce9d910dbfcc0a70a846c02.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/b/4/4/a/91b44abe7ce9d910dbfcc0a70a846c02.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Trancesisters",
+    "display_artist": "Trancesisters",
+    "title": "Trance At Techno Parties (DJ Reiz Apollo 17 Mix)",
+    "display_title": "Trance At Techno Parties (DJ Reiz Apollo 17 Mix)",
+    "track": "Trancesisters - Trance At Techno Parties (DJ Reiz Apollo 17 Mix)",
+    "length": 404,
+    "duration": 404,
+    "started": 1709951964,
+    "type": "track",
+    "track_id": 3023927,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/f/8/b/9/c/6f8b9c8751ac6555824f6b6185d0cd6d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/8/b/9/c/6f8b9c8751ac6555824f6b6185d0cd6d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Mindflux",
+    "display_artist": "Mindflux",
+    "title": "I Want You (Original Mix)",
+    "display_title": "I Want You (Original Mix)",
+    "track": "Mindflux - I Want You (Original Mix)",
+    "length": 469,
+    "duration": 469,
+    "started": 1709952369,
+    "type": "track",
+    "track_id": 3023919,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/d/c/0/b/a/fdc0ba2bb6d07ccf7bdef4dd11836d60.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/c/0/b/a/fdc0ba2bb6d07ccf7bdef4dd11836d60.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "TrickyDJ",
+    "display_artist": "TrickyDJ",
+    "title": "Destiny (Nostic Remix)",
+    "display_title": "Destiny (Nostic Remix)",
+    "track": "TrickyDJ - Destiny (Nostic Remix)",
+    "length": 439,
+    "duration": 439,
+    "started": 1709952829,
+    "type": "track",
+    "track_id": 3065252,
+    "release": "Destiny",
+    "art_url": "//cdn-images.audioaddict.com/4/9/d/7/e/2/49d7e252285f1144e86bda764f37d579.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/d/7/e/2/49d7e252285f1144e86bda764f37d579.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Deddak",
+    "display_artist": "Deddak",
+    "title": "Cadenza (Original Mix)",
+    "display_title": "Cadenza (Original Mix)",
+    "track": "Deddak - Cadenza (Original Mix)",
+    "length": 364,
+    "duration": 364,
+    "started": 1709957289,
+    "type": "track",
+    "track_id": 3088669,
+    "release": "2night EP",
+    "art_url": "//cdn-images.audioaddict.com/b/9/d/b/6/3/b9db63ed67326162132da85538c0040b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/d/b/6/3/b9db63ed67326162132da85538c0040b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Black XS",
+    "display_artist": "Black XS",
+    "title": "Fuck Society (Original Mix)",
+    "display_title": "Fuck Society (Original Mix)",
+    "track": "Black XS - Fuck Society (Original Mix)",
+    "length": 425,
+    "duration": 425,
+    "started": 1709957649,
+    "type": "track",
+    "track_id": 3017247,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/7/5/1/c/5/a751c5dfddd2579e33c5fa4f5769a476.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/7/5/1/c/5/a751c5dfddd2579e33c5fa4f5769a476.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rick Guyez",
+    "display_artist": "Rick Guyez",
+    "title": "Some Kind Of Spell (Original Mix)",
+    "display_title": "Some Kind Of Spell (Original Mix)",
+    "track": "Rick Guyez - Some Kind Of Spell (Original Mix)",
+    "length": 437,
+    "duration": 437,
+    "started": 1709958076,
+    "type": "track",
+    "track_id": 3029119,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/f/6/4/e/2/ef64e2f539c3506c0eb5d092cdd4884d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/6/4/e/2/ef64e2f539c3506c0eb5d092cdd4884d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "AlexMo",
+    "display_artist": "AlexMo",
+    "title": "Demolition (Extended Mix)",
+    "display_title": "Demolition (Extended Mix)",
+    "track": "AlexMo - Demolition (Extended Mix)",
+    "length": 418,
+    "duration": 418,
+    "started": 1709958512,
+    "type": "track",
+    "track_id": 3058845,
+    "release": "Demolition",
+    "art_url": "//cdn-images.audioaddict.com/0/d/9/d/c/c/0d9dcc9500bb775f0e4e77bc057499d9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/9/d/c/c/0d9dcc9500bb775f0e4e77bc057499d9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "1luu",
+    "display_artist": "1luu",
+    "title": "FLUOR",
+    "display_title": "FLUOR",
+    "track": "1luu - FLUOR",
+    "length": 481,
+    "duration": 481,
+    "started": 1709959319,
+    "type": "track",
+    "track_id": 3017459,
+    "release": "SILICIUM",
+    "art_url": "//cdn-images.audioaddict.com/9/4/2/5/a/2/9425a2b3521077e48050289c4438c212.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/2/5/a/2/9425a2b3521077e48050289c4438c212.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Mindflux,XLS",
+    "display_artist": "Mindflux,XLS",
+    "title": "Wrong God (Original Mix)",
+    "display_title": "Wrong God (Original Mix)",
+    "track": "Mindflux,XLS - Wrong God (Original Mix)",
+    "length": 418,
+    "duration": 418,
+    "started": 1709960208,
+    "type": "track",
+    "track_id": 2998148,
+    "release": "Wrong God",
+    "art_url": "//cdn-images.audioaddict.com/d/0/0/8/b/0/d008b040e59dc79149dec2857ab88cef.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/0/8/b/0/d008b040e59dc79149dec2857ab88cef.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dark Sector",
+    "display_artist": "Dark Sector",
+    "title": "Das Spiel des Teufels (Original Mix)",
+    "display_title": "Das Spiel des Teufels (Original Mix)",
+    "track": "Dark Sector - Das Spiel des Teufels (Original Mix)",
+    "length": 437,
+    "duration": 437,
+    "started": 1709960625,
+    "type": "track",
+    "track_id": 3058852,
+    "release": "The Final EP",
+    "art_url": "//cdn-images.audioaddict.com/8/2/6/b/1/c/826b1c7a8087e12ab60d422d6e7ff92b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/6/b/1/c/826b1c7a8087e12ab60d422d6e7ff92b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Totalmaster & Mr Greidor",
+    "display_artist": "Totalmaster & Mr Greidor",
+    "title": "Tranceexaltation (Original Mix)",
+    "display_title": "Tranceexaltation (Original Mix)",
+    "track": "Totalmaster & Mr Greidor - Tranceexaltation (Original Mix)",
+    "length": 486,
+    "duration": 486,
+    "started": 1709962349,
+    "type": "track",
+    "track_id": 3017260,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/7/2/0/9/3/17209375f648e044c44c6b2a9a5e15be.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/2/0/9/3/17209375f648e044c44c6b2a9a5e15be.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Daniel Doering",
+    "display_artist": "Daniel Doering",
+    "title": "Ititit (Original Mix)",
+    "display_title": "Ititit (Original Mix)",
+    "track": "Daniel Doering - Ititit (Original Mix)",
+    "length": 450,
+    "duration": 450,
+    "started": 1709963153,
+    "type": "track",
+    "track_id": 2982948,
+    "release": "Himlen",
+    "art_url": "//cdn-images.audioaddict.com/0/a/f/c/f/9/0afcf98bf7990bf67fab3d98ed2c2d4c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/f/c/f/9/0afcf98bf7990bf67fab3d98ed2c2d4c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "MayMarr",
+    "display_artist": "MayMarr",
+    "title": "Energise (Extended Mix)",
+    "display_title": "Energise (Extended Mix)",
+    "track": "MayMarr - Energise (Extended Mix)",
+    "length": 345,
+    "duration": 345,
+    "started": 1709963601,
+    "type": "track",
+    "track_id": 3058863,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/8/a/8/2/f/58a82feaae3979980cff2c159a7d7df2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/a/8/2/f/58a82feaae3979980cff2c159a7d7df2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 851 (09 February 2024)",
+    "display_title": "Hard & Dance 851 (09 February 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 851 (09 February 2024)",
+    "length": 4122,
+    "duration": 4122,
+    "started": 1709963944,
+    "type": "track",
+    "track_id": 3088497,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Lee Greenaway",
+    "display_artist": "Lee Greenaway",
+    "title": "Destruction (Original Mix)",
+    "display_title": "Destruction (Original Mix)",
+    "track": "Lee Greenaway - Destruction (Original Mix)",
+    "length": 434,
+    "duration": 434,
+    "started": 1709968064,
+    "type": "track",
+    "track_id": 3008770,
+    "release": "Destruction",
+    "art_url": "//cdn-images.audioaddict.com/0/9/8/3/7/f/09837f01da65ff4db2c72835dc92be0f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/9/8/3/7/f/09837f01da65ff4db2c72835dc92be0f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dean Zone & The Sixth Sense",
+    "display_artist": "Dean Zone & The Sixth Sense",
+    "title": "My Greatest Creation (Original Mix)",
+    "display_title": "My Greatest Creation (Original Mix)",
+    "track": "Dean Zone & The Sixth Sense - My Greatest Creation (Original Mix)",
+    "length": 490,
+    "duration": 490,
+    "started": 1709968499,
+    "type": "track",
+    "track_id": 3008765,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/9/c/8/b/9a9c8bb2ab3716314d73199fb0116ddd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/9/c/8/b/9a9c8bb2ab3716314d73199fb0116ddd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Segler",
+    "display_artist": "Segler",
+    "title": "Kesäyöt (Original Mix)",
+    "display_title": "Kesäyöt (Original Mix)",
+    "track": "Segler - Kesäyöt (Original Mix)",
+    "length": 385,
+    "duration": 385,
+    "started": 1709968987,
+    "type": "track",
+    "track_id": 3088680,
+    "release": "Kesäyöt",
+    "art_url": "//cdn-images.audioaddict.com/7/e/1/f/5/d/7e1f5d6cfc38d2f65d7d86105fa7aec1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/1/f/5/d/7e1f5d6cfc38d2f65d7d86105fa7aec1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Saga of Aether (Original Mix)",
+    "display_title": "Saga of Aether (Original Mix)",
+    "track": "Nostic - Saga of Aether (Original Mix)",
+    "length": 547,
+    "duration": 547,
+    "started": 1709969371,
+    "type": "track",
+    "track_id": 3080871,
+    "release": "The Tablets of Thoth",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/f/a/8/b41fa83fa3473f31c2b1b6f25388d675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rainer K",
+    "display_artist": "Rainer K",
+    "title": "Fade (Original Mix)",
+    "display_title": "Fade (Original Mix)",
+    "track": "Rainer K - Fade (Original Mix)",
+    "length": 379,
+    "duration": 379,
+    "started": 1709977993,
+    "type": "track",
+    "track_id": 3088679,
+    "release": "Fade",
+    "art_url": "//cdn-images.audioaddict.com/7/2/3/c/9/a/723c9aade1f74946f14ecab89d5c102d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/2/3/c/9/a/723c9aade1f74946f14ecab89d5c102d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Allan McLuhan",
+    "display_artist": "Allan McLuhan",
+    "title": "Acid Matter (Original Mix)",
+    "display_title": "Acid Matter (Original Mix)",
+    "track": "Allan McLuhan - Acid Matter (Original Mix)",
+    "length": 377,
+    "duration": 377,
+    "started": 1709978371,
+    "type": "track",
+    "track_id": 3088667,
+    "release": "Harpsyrite",
+    "art_url": "//cdn-images.audioaddict.com/e/0/c/1/8/9/e0c189ab6e31d1a53c41733b93b9faae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/c/1/8/9/e0c189ab6e31d1a53c41733b93b9faae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Amazingblaze",
+    "display_artist": "Amazingblaze",
+    "title": "Stargaze (Original Mix)",
+    "display_title": "Stargaze (Original Mix)",
+    "track": "Amazingblaze - Stargaze (Original Mix)",
+    "length": 336,
+    "duration": 336,
+    "started": 1709978747,
+    "type": "track",
+    "track_id": 3017465,
+    "release": "Amazingblaze - Speed Tracks Vol.2 (ISMDIG004)",
+    "art_url": "//cdn-images.audioaddict.com/f/c/b/a/1/5/fcba158c523c004d4972c5bc5e472acf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/c/b/a/1/5/fcba158c523c004d4972c5bc5e472acf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Inception (Original Mix)",
+    "display_title": "Inception (Original Mix)",
+    "track": "Nostic - Inception (Original Mix)",
+    "length": 519,
+    "duration": 519,
+    "started": 1709979083,
+    "type": "track",
+    "track_id": 2988478,
+    "release": "Inception",
+    "art_url": "//cdn-images.audioaddict.com/4/8/9/3/4/3/4893438ee34190b752a878af73192339.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/8/9/3/4/3/4893438ee34190b752a878af73192339.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "AlexMo",
+    "display_artist": "AlexMo",
+    "title": "SuperNova (Extended Mix)",
+    "display_title": "SuperNova (Extended Mix)",
+    "track": "AlexMo - SuperNova (Extended Mix)",
+    "length": 437,
+    "duration": 437,
+    "started": 1709979602,
+    "type": "track",
+    "track_id": 3020433,
+    "release": "Supernova [HTE119]",
+    "art_url": "//cdn-images.audioaddict.com/0/c/1/1/f/a/0c11fa53a05f21d97affbfb77576afd4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/1/1/f/a/0c11fa53a05f21d97affbfb77576afd4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Rescue Me (Original Mix)",
+    "display_title": "Rescue Me (Original Mix)",
+    "track": "Nostic - Rescue Me (Original Mix)",
+    "length": 494,
+    "duration": 494,
+    "started": 1709980040,
+    "type": "track",
+    "track_id": 3017257,
+    "release": "HRR071",
+    "art_url": "//cdn-images.audioaddict.com/a/8/e/d/5/f/a8ed5f003eb4433a1979436c4e1754f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/e/d/5/f/a8ed5f003eb4433a1979436c4e1754f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 852 (16 February 2024)",
+    "display_title": "Hard & Dance 852 (16 February 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 852 (16 February 2024)",
+    "length": 4119,
+    "duration": 4119,
+    "started": 1709981465,
+    "type": "track",
+    "track_id": 3088815,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Talla 2xlc, RRAW!",
+    "display_artist": "Talla 2xlc, RRAW!",
+    "title": "Black Hole (Original Mix)",
+    "display_title": "Black Hole (Original Mix)",
+    "track": "Talla 2xlc, RRAW! - Black Hole (Original Mix)",
+    "length": 324,
+    "duration": 324,
+    "started": 1709985947,
+    "type": "track",
+    "track_id": 3088681,
+    "release": "Convergence Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/2/7/5/b/7/c/275b7c7b4d1739291360948ce299134d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/5/b/7/c/275b7c7b4d1739291360948ce299134d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "Hyper Reality Radio Episode 221 (15 February 2024)",
+    "display_title": "Hyper Reality Radio Episode 221 (15 February 2024)",
+    "track": "XLS - Hyper Reality Radio Episode 221 (15 February 2024)",
+    "length": 7193,
+    "duration": 7193,
+    "started": 1709986271,
+    "type": "track",
+    "track_id": 3088743,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/1/2/c/b/9/012cb992691688595d3e71feb196710e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/2/c/b/9/012cb992691688595d3e71feb196710e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Vangar",
+    "display_artist": "Vangar",
+    "title": "Sensory Sessions 089 (02 February 2024)",
+    "display_title": "Sensory Sessions 089 (02 February 2024)",
+    "track": "Vangar - Sensory Sessions 089 (02 February 2024)",
+    "length": 3515,
+    "duration": 3515,
+    "started": 1709993471,
+    "type": "track",
+    "track_id": 3087938,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/1/3/4/8/6/3134865c626d5c921460ef2479fde8d1.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/3/4/8/6/3134865c626d5c921460ef2479fde8d1.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Ephex",
+    "display_artist": "DJ Ephex",
+    "title": "Hard Trancelation 145 (16 February 2024)",
+    "display_title": "Hard Trancelation 145 (16 February 2024)",
+    "track": "DJ Ephex - Hard Trancelation 145 (16 February 2024)",
+    "length": 3576,
+    "duration": 3576,
+    "started": 1709996987,
+    "type": "track",
+    "track_id": 3088814,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/1/b/8/6/9/a1b86963534431746bc4aa3ff33b9f6f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/b/8/6/9/a1b86963534431746bc4aa3ff33b9f6f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dave Spinout",
+    "display_artist": "Dave Spinout",
+    "title": "Highfish Radio Show 147 (23 February 2024)",
+    "display_title": "Highfish Radio Show 147 (23 February 2024)",
+    "track": "Dave Spinout - Highfish Radio Show 147 (23 February 2024)",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1710001331,
+    "type": "track",
+    "track_id": 3089218,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/d/2/3/3/6/4d233684ba8bd5dae2230a4b697018d0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/2/3/3/6/4d233684ba8bd5dae2230a4b697018d0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Anima",
+    "display_artist": "Anima",
+    "title": "State Of Emergency Part II (Dizmaster Remix)",
+    "display_title": "State Of Emergency Part II (Dizmaster Remix)",
+    "track": "Anima - State Of Emergency Part II (Dizmaster Remix)",
+    "length": 391,
+    "duration": 391,
+    "started": 1710008531,
+    "type": "track",
+    "track_id": 2899629,
+    "release": "State Of Emergency Part II",
+    "art_url": "//cdn-images.audioaddict.com/d/f/c/8/e/6/dfc8e662c09945825944de8088eb7c39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/c/8/e/6/dfc8e662c09945825944de8088eb7c39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Leon B",
+    "display_artist": "Leon B",
+    "title": "This Is My Realm (S.H.O.K.K. Remix)",
+    "display_title": "This Is My Realm (S.H.O.K.K. Remix)",
+    "track": "Leon B - This Is My Realm (S.H.O.K.K. Remix)",
+    "length": 438,
+    "duration": 438,
+    "started": 1710010227,
+    "type": "track",
+    "track_id": 2994110,
+    "release": "This Is My Realm",
+    "art_url": "//cdn-images.audioaddict.com/b/d/d/8/6/c/bdd86cd4e588c93074237c122d9c84a5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/d/8/6/c/bdd86cd4e588c93074237c122d9c84a5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Renegade System",
+    "display_artist": "Renegade System",
+    "title": "Ocelot (Original Mix)",
+    "display_title": "Ocelot (Original Mix)",
+    "track": "Renegade System - Ocelot (Original Mix)",
+    "length": 350,
+    "duration": 350,
+    "started": 1710010663,
+    "type": "track",
+    "track_id": 3048432,
+    "release": "Ocelot",
+    "art_url": "//cdn-images.audioaddict.com/1/1/b/5/8/1/11b581d48bd6fbaaf32efaad87eae818.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/1/b/5/8/1/11b581d48bd6fbaaf32efaad87eae818.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Dean",
+    "display_artist": "DJ Dean",
+    "title": "Balla Nation (Vectron Remix)",
+    "display_title": "Balla Nation (Vectron Remix)",
+    "track": "DJ Dean - Balla Nation (Vectron Remix)",
+    "length": 394,
+    "duration": 394,
+    "started": 1710012680,
+    "type": "track",
+    "track_id": 3023910,
+    "release": "Balla Nation 2021 (The Remixes - Part 2 - Red Edition) [DB005]",
+    "art_url": "//cdn-images.audioaddict.com/b/8/2/d/f/1/b82df160f6cbec5f6dcb064ef4a1d247.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/2/d/f/1/b82df160f6cbec5f6dcb064ef4a1d247.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Belu Colombo",
+    "display_artist": "Belu Colombo",
+    "title": "Luna (Original Mix)",
+    "display_title": "Luna (Original Mix)",
+    "track": "Belu Colombo - Luna (Original Mix)",
+    "length": 279,
+    "duration": 279,
+    "started": 1710013071,
+    "type": "track",
+    "track_id": 3072534,
+    "release": "Warcry EP",
+    "art_url": "//cdn-images.audioaddict.com/f/0/8/c/6/7/f08c67ec30a5cd54151aff186ec613e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/8/c/6/7/f08c67ec30a5cd54151aff186ec613e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Enemy 9",
+    "display_artist": "Enemy 9",
+    "title": "The One (Original Mix)",
+    "display_title": "The One (Original Mix)",
+    "track": "Enemy 9 - The One (Original Mix)",
+    "length": 437,
+    "duration": 437,
+    "started": 1710013349,
+    "type": "track",
+    "track_id": 3048428,
+    "release": "The One",
+    "art_url": "//cdn-images.audioaddict.com/7/4/3/6/9/c/74369ce4c0ad798b0f1de395bc76f8d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/3/6/9/c/74369ce4c0ad798b0f1de395bc76f8d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Exploring Space (Dave Spinout & TrickyDJ Remix)",
+    "display_title": "Exploring Space (Dave Spinout & TrickyDJ Remix)",
+    "track": "Nostic - Exploring Space (Dave Spinout & TrickyDJ Remix)",
+    "length": 416,
+    "duration": 416,
+    "started": 1710015462,
+    "type": "track",
+    "track_id": 2994114,
+    "release": "Exploring Space",
+    "art_url": "//cdn-images.audioaddict.com/7/4/7/6/4/d/74764d00f2e7b3ebf2d01f2a17cacdb9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/7/6/4/d/74764d00f2e7b3ebf2d01f2a17cacdb9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Derb",
+    "display_artist": "Derb",
+    "title": "DFC (C.O.L.D. Remix)",
+    "display_title": "DFC (C.O.L.D. Remix)",
+    "track": "Derb - DFC (C.O.L.D. Remix)",
+    "length": 473,
+    "duration": 473,
+    "started": 1710015877,
+    "type": "track",
+    "track_id": 3023912,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/8/9/2/b/20892b96839aaaff85227ada7c834bb3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/8/9/2/b/20892b96839aaaff85227ada7c834bb3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Loki",
+    "display_artist": "Loki",
+    "title": "Cosmic (Original Mix)",
+    "display_title": "Cosmic (Original Mix)",
+    "track": "Loki - Cosmic (Original Mix)",
+    "length": 311,
+    "duration": 311,
+    "started": 1710016350,
+    "type": "track",
+    "track_id": 3004341,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/9/c/8/b/9a9c8bb2ab3716314d73199fb0116ddd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/9/c/8/b/9a9c8bb2ab3716314d73199fb0116ddd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Laura May",
+    "display_artist": "Laura May",
+    "title": "Luv U (Original Mix)",
+    "display_title": "Luv U (Original Mix)",
+    "track": "Laura May - Luv U (Original Mix)",
+    "length": 387,
+    "duration": 387,
+    "started": 1710016659,
+    "type": "track",
+    "track_id": 3065244,
+    "release": "Luv U",
+    "art_url": "//cdn-images.audioaddict.com/d/c/2/0/7/c/dc207c4ded939f849cfd655e093e07af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/2/0/7/c/dc207c4ded939f849cfd655e093e07af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "J Rogers",
+    "display_artist": "J Rogers",
+    "title": "Genocide (Rick Guyez Remix)",
+    "display_title": "Genocide (Rick Guyez Remix)",
+    "track": "J Rogers - Genocide (Rick Guyez Remix)",
+    "length": 415,
+    "duration": 415,
+    "started": 1710017838,
+    "type": "track",
+    "track_id": 3058861,
+    "release": "Genocide",
+    "art_url": "//cdn-images.audioaddict.com/e/e/f/8/e/3/eef8e3bf345db51e0ed866f0cc2800e2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/f/8/e/3/eef8e3bf345db51e0ed866f0cc2800e2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Forza Duo",
+    "display_artist": "Forza Duo",
+    "title": "The Jackal",
+    "display_title": "The Jackal",
+    "track": "Forza Duo - The Jackal",
+    "length": 387,
+    "duration": 387,
+    "started": 1710018251,
+    "type": "track",
+    "track_id": 2982951,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/7/2/b/0/e/272b0e5e5b39db3fe03755b47809817a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/2/b/0/e/272b0e5e5b39db3fe03755b47809817a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rem-x",
+    "display_artist": "Rem-x",
+    "title": "Dawn of the Dark (Original Mix)",
+    "display_title": "Dawn of the Dark (Original Mix)",
+    "track": "Rem-x - Dawn of the Dark (Original Mix)",
+    "length": 411,
+    "duration": 411,
+    "started": 1710018637,
+    "type": "track",
+    "track_id": 3008774,
+    "release": "Dawn of the Dark",
+    "art_url": "//cdn-images.audioaddict.com/5/f/b/1/e/4/5fb1e458f9d40711cb25cb076551c1cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/b/1/e/4/5fb1e458f9d40711cb25cb076551c1cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dee Conaghan",
+    "display_artist": "Dee Conaghan",
+    "title": "Amsterdam (Original Mix)",
+    "display_title": "Amsterdam (Original Mix)",
+    "track": "Dee Conaghan - Amsterdam (Original Mix)",
+    "length": 379,
+    "duration": 379,
+    "started": 1710020670,
+    "type": "track",
+    "track_id": 3072535,
+    "release": "Amsterdam",
+    "art_url": "//cdn-images.audioaddict.com/9/c/9/f/2/c/9c9f2c35092c9410c4dc66b2590b666b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/9/f/2/c/9c9f2c35092c9410c4dc66b2590b666b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nicksy",
+    "display_artist": "Nicksy",
+    "title": "Ungetüm (Original Mix)",
+    "display_title": "Ungetüm (Original Mix)",
+    "track": "Nicksy - Ungetüm (Original Mix)",
+    "length": 466,
+    "duration": 466,
+    "started": 1710021050,
+    "type": "track",
+    "track_id": 3008771,
+    "release": "Destruction",
+    "art_url": "//cdn-images.audioaddict.com/4/6/6/1/1/a/46611ad0020c6a47e00337a18187eb0b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/6/6/1/1/a/46611ad0020c6a47e00337a18187eb0b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Luca Eck",
+    "display_artist": "Luca Eck",
+    "title": "Chaos Reigns (Original Mix)",
+    "display_title": "Chaos Reigns (Original Mix)",
+    "track": "Luca Eck - Chaos Reigns (Original Mix)",
+    "length": 301,
+    "duration": 301,
+    "started": 1710021516,
+    "type": "track",
+    "track_id": 3088984,
+    "release": "Chaos Reigns",
+    "art_url": "//cdn-images.audioaddict.com/f/7/3/1/4/c/f7314c15093cc1d08393dcd371483d35.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/3/1/4/c/f7314c15093cc1d08393dcd371483d35.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rem-x",
+    "display_artist": "Rem-x",
+    "title": "Wanderlust (Original Mix)",
+    "display_title": "Wanderlust (Original Mix)",
+    "track": "Rem-x - Wanderlust (Original Mix)",
+    "length": 385,
+    "duration": 385,
+    "started": 1710021817,
+    "type": "track",
+    "track_id": 3008775,
+    "release": "Wanderlust",
+    "art_url": "//cdn-images.audioaddict.com/5/f/b/1/e/4/5fb1e458f9d40711cb25cb076551c1cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/b/1/e/4/5fb1e458f9d40711cb25cb076551c1cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "1luu",
+    "display_artist": "1luu",
+    "title": "Niccolum (Original Mix)",
+    "display_title": "Niccolum (Original Mix)",
+    "track": "1luu - Niccolum (Original Mix)",
+    "length": 343,
+    "duration": 343,
+    "started": 1710022201,
+    "type": "track",
+    "track_id": 3048418,
+    "release": "Hydrargyrum",
+    "art_url": "//cdn-images.audioaddict.com/8/2/c/7/f/3/82c7f37e5139d53c63b521a40bf96dd9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/c/7/f/3/82c7f37e5139d53c63b521a40bf96dd9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "C.O.L.D.",
+    "display_artist": "C.O.L.D.",
+    "title": "Rough & Sweet 076 (09 February 2024)",
+    "display_title": "Rough & Sweet 076 (09 February 2024)",
+    "track": "C.O.L.D. - Rough & Sweet 076 (09 February 2024)",
+    "length": 3596,
+    "duration": 3596,
+    "started": 1710023350,
+    "type": "track",
+    "track_id": 3088496,
+    "release": "C.O.L.D. rough and sweet EP 076 February 2024",
+    "art_url": "//cdn-images.audioaddict.com/2/1/c/5/2/c/21c52c9f5872d5662374e62a16f40e36.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/c/5/2/c/21c52c9f5872d5662374e62a16f40e36.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Carlos de Matos, CDM Projekt",
+    "display_artist": "Carlos de Matos, CDM Projekt",
+    "title": "Renaissance (Original Mix)",
+    "display_title": "Renaissance (Original Mix)",
+    "track": "Carlos de Matos, CDM Projekt - Renaissance (Original Mix)",
+    "length": 447,
+    "duration": 447,
+    "started": 1710026950,
+    "type": "track",
+    "track_id": 3058848,
+    "release": "Dig Deeper 5 EP",
+    "art_url": "//cdn-images.audioaddict.com/5/9/0/7/b/2/5907b233d7b1f324d14a19291e78530d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/0/7/b/2/5907b233d7b1f324d14a19291e78530d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "We are in Danger (Original Mix)",
+    "display_title": "We are in Danger (Original Mix)",
+    "track": "Nostic - We are in Danger (Original Mix)",
+    "length": 467,
+    "duration": 467,
+    "started": 1710027392,
+    "type": "track",
+    "track_id": 3004343,
+    "release": "We are in Danger",
+    "art_url": "//cdn-images.audioaddict.com/9/5/8/a/b/f/958abf9d7f8744f50408382aa571099b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/8/a/b/f/958abf9d7f8744f50408382aa571099b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Rainer K",
+    "display_artist": "Rainer K",
+    "title": "Demolition (Original Mix)",
+    "display_title": "Demolition (Original Mix)",
+    "track": "Rainer K - Demolition (Original Mix)",
+    "length": 367,
+    "duration": 367,
+    "started": 1710027857,
+    "type": "track",
+    "track_id": 3058865,
+    "release": "Back on Rails / Demolition",
+    "art_url": "//cdn-images.audioaddict.com/c/e/a/7/d/8/cea7d8ae5fa3926050515bb42e33d09d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/a/7/d/8/cea7d8ae5fa3926050515bb42e33d09d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Paipy, DJ Spaceman",
+    "display_artist": "Paipy, DJ Spaceman",
+    "title": "Aurora Borealis (Steve Allen Remix)",
+    "display_title": "Aurora Borealis (Steve Allen Remix)",
+    "track": "Paipy, DJ Spaceman - Aurora Borealis (Steve Allen Remix)",
+    "length": 350,
+    "duration": 350,
+    "started": 1710028535,
+    "type": "track",
+    "track_id": 3065249,
+    "release": "Aurora Borealis (Steve Allen Remix)",
+    "art_url": "//cdn-images.audioaddict.com/5/4/f/c/4/1/54fc41708ae9b90cf89ecc6b0857c8ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/f/c/4/1/54fc41708ae9b90cf89ecc6b0857c8ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Alan Sharkey",
+    "display_artist": "Alan Sharkey",
+    "title": "The Hidden Path (Extended Mix)",
+    "display_title": "The Hidden Path (Extended Mix)",
+    "track": "Alan Sharkey - The Hidden Path (Extended Mix)",
+    "length": 405,
+    "duration": 405,
+    "started": 1710029249,
+    "type": "track",
+    "track_id": 3020432,
+    "release": "The Shaden Path [HTE121]",
+    "art_url": "//cdn-images.audioaddict.com/3/6/7/7/6/d/36776d97ddea25135606d32acb96e0d9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/7/7/6/d/36776d97ddea25135606d32acb96e0d9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Ephex",
+    "display_artist": "DJ Ephex",
+    "title": "Hard Trancelation 146 (15 March 2024)  UKHT Classics",
+    "display_title": "Hard Trancelation 146 (15 March 2024)  UKHT Classics",
+    "track": "DJ Ephex - Hard Trancelation 146 (15 March 2024)  UKHT Classics",
+    "length": 4054,
+    "duration": 4054,
+    "started": 1710536400,
+    "type": "track",
+    "track_id": 3090829,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/1/b/8/6/9/a1b86963534431746bc4aa3ff33b9f6f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/b/8/6/9/a1b86963534431746bc4aa3ff33b9f6f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 856 (15 March 2024)",
+    "display_title": "Hard & Dance 856 (15 March 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 856 (15 March 2024)",
+    "length": 4189,
+    "duration": 4189,
+    "started": 1710540000,
+    "type": "track",
+    "track_id": 3090830,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Vortex, Sygma",
+    "display_artist": "DJ Vortex, Sygma",
+    "title": "Perdition (Extended Rave Mix)",
+    "display_title": "Perdition (Extended Rave Mix)",
+    "track": "DJ Vortex, Sygma - Perdition (Extended Rave Mix)",
+    "length": 382,
+    "duration": 382,
+    "started": 1710931989,
+    "type": "track",
+    "track_id": 3091271,
+    "release": "Perdition",
+    "art_url": "//cdn-images.audioaddict.com/e/c/1/7/b/4/ec17b4a394e4c629890fbba560a962c4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/1/7/b/4/ec17b4a394e4c629890fbba560a962c4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Soul of a Survivor (TrickyDJ Remix)",
+    "display_title": "Soul of a Survivor (TrickyDJ Remix)",
+    "track": "Nostic - Soul of a Survivor (TrickyDJ Remix)",
+    "length": 477,
+    "duration": 477,
+    "started": 1710932371,
+    "type": "track",
+    "track_id": 3091280,
+    "release": "Soul of a Survivor",
+    "art_url": "//cdn-images.audioaddict.com/c/b/1/d/7/f/cb1d7f7a798003d27cc3fcbd44c89e4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/1/d/7/f/cb1d7f7a798003d27cc3fcbd44c89e4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Space Cabaret",
+    "display_artist": "Space Cabaret",
+    "title": "Backroom (Original Mix)",
+    "display_title": "Backroom (Original Mix)",
+    "track": "Space Cabaret - Backroom (Original Mix)",
+    "length": 303,
+    "duration": 303,
+    "started": 1710932848,
+    "type": "track",
+    "track_id": 3091283,
+    "release": "Backroom",
+    "art_url": "//cdn-images.audioaddict.com/c/e/6/7/9/a/ce679a71c449b927b8cceb99d3598578.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/6/7/9/a/ce679a71c449b927b8cceb99d3598578.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Pattie Love & Novlik",
+    "display_artist": "Pattie Love & Novlik",
+    "title": "Divine",
+    "display_title": "Divine",
+    "track": "Pattie Love & Novlik - Divine",
+    "length": 394,
+    "duration": 394,
+    "started": 1710933151,
+    "type": "track",
+    "track_id": 3091281,
+    "release": null,
+    "art_url": null,
+    "images": {}
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Ballarak",
+    "display_artist": "Ballarak",
+    "title": "Rondò (Original Mix)",
+    "display_title": "Rondò (Original Mix)",
+    "track": "Ballarak - Rondò (Original Mix)",
+    "length": 415,
+    "duration": 415,
+    "started": 1710933545,
+    "type": "track",
+    "track_id": 3091266,
+    "release": "Karibe / Rondò / Pyrotechnics",
+    "art_url": "//cdn-images.audioaddict.com/3/d/8/6/7/d/3d867d191780ac8b008cf904c276bdaf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/8/6/7/d/3d867d191780ac8b008cf904c276bdaf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Ruslan Radriges, Julia Violin",
+    "display_artist": "Ruslan Radriges, Julia Violin",
+    "title": "Phoenix (Extended Mix)",
+    "display_title": "Phoenix (Extended Mix)",
+    "track": "Ruslan Radriges, Julia Violin - Phoenix (Extended Mix)",
+    "length": 311,
+    "duration": 311,
+    "started": 1710933960,
+    "type": "track",
+    "track_id": 3091282,
+    "release": "Phoenix",
+    "art_url": "//cdn-images.audioaddict.com/d/d/3/7/8/6/dd37866e8e583b9af9eb83af98407b05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/3/7/8/6/dd37866e8e583b9af9eb83af98407b05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Jardin",
+    "display_artist": "Jardin",
+    "title": "Nebula (Extended Mix)",
+    "display_title": "Nebula (Extended Mix)",
+    "track": "Jardin - Nebula (Extended Mix)",
+    "length": 355,
+    "duration": 355,
+    "started": 1710934271,
+    "type": "track",
+    "track_id": 3091276,
+    "release": "Nebula",
+    "art_url": "//cdn-images.audioaddict.com/1/7/1/9/d/f/1719dffc60b30df5c59759e35c47317a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/1/9/d/f/1719dffc60b30df5c59759e35c47317a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Christian Cambas",
+    "display_artist": "Christian Cambas",
+    "title": "Remember The Future (Ballarak Rmx)",
+    "display_title": "Remember The Future (Ballarak Rmx)",
+    "track": "Christian Cambas - Remember The Future (Ballarak Rmx)",
+    "length": 348,
+    "duration": 348,
+    "started": 1710935055,
+    "type": "track",
+    "track_id": 3091267,
+    "release": "Remember The Future / Soap Opera",
+    "art_url": "//cdn-images.audioaddict.com/9/a/4/5/f/e/9a45fe09ac66df23dd273edada9c4b84.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/4/5/f/e/9a45fe09ac66df23dd273edada9c4b84.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Frankyeffe",
+    "display_artist": "Frankyeffe",
+    "title": "Save Me (RiVid Remix)",
+    "display_title": "Save Me (RiVid Remix)",
+    "track": "Frankyeffe - Save Me (RiVid Remix)",
+    "length": 291,
+    "duration": 291,
+    "started": 1710935404,
+    "type": "track",
+    "track_id": 3091274,
+    "release": "Save Me (Remixes)",
+    "art_url": "//cdn-images.audioaddict.com/3/5/f/1/8/6/35f186c82874d64cf2ccfc07905a843e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/f/1/8/6/35f186c82874d64cf2ccfc07905a843e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Talla 2xlc, RRAW!",
+    "display_artist": "Talla 2xlc, RRAW!",
+    "title": "Just Breathe (Extended Mix)",
+    "display_title": "Just Breathe (Extended Mix)",
+    "track": "Talla 2xlc, RRAW! - Just Breathe (Extended Mix)",
+    "length": 337,
+    "duration": 337,
+    "started": 1710935695,
+    "type": "track",
+    "track_id": 3091284,
+    "release": "Just Breathe",
+    "art_url": "//cdn-images.audioaddict.com/5/4/2/2/4/7/5422478d332685f3fae91c6a08861a57.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/2/2/4/7/5422478d332685f3fae91c6a08861a57.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Jordan",
+    "display_artist": "DJ Jordan",
+    "title": "Hard Trance Experience (Roger Lavelle Remix)",
+    "display_title": "Hard Trance Experience (Roger Lavelle Remix)",
+    "track": "DJ Jordan - Hard Trance Experience (Roger Lavelle Remix)",
+    "length": 344,
+    "duration": 344,
+    "started": 1710936031,
+    "type": "track",
+    "track_id": 3091270,
+    "release": "Hard Trance Experience",
+    "art_url": "//cdn-images.audioaddict.com/3/a/0/d/2/d/3a0d2da44f1187c589f86c771028d0da.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/0/d/2/d/3a0d2da44f1187c589f86c771028d0da.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Indecent Noise",
+    "display_artist": "Indecent Noise",
+    "title": "Voodoo Child (Original Mix)",
+    "display_title": "Voodoo Child (Original Mix)",
+    "track": "Indecent Noise - Voodoo Child (Original Mix)",
+    "length": 377,
+    "duration": 377,
+    "started": 1710936812,
+    "type": "track",
+    "track_id": 3091275,
+    "release": "Voodoo Child",
+    "art_url": "//cdn-images.audioaddict.com/a/6/e/c/0/6/a6ec0672e415fc37d309ff6e6a2db3eb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/e/c/0/6/a6ec0672e415fc37d309ff6e6a2db3eb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Jordan",
+    "display_artist": "DJ Jordan",
+    "title": "Hard Trance Experience (Original Mix)",
+    "display_title": "Hard Trance Experience (Original Mix)",
+    "track": "DJ Jordan - Hard Trance Experience (Original Mix)",
+    "length": 373,
+    "duration": 373,
+    "started": 1710937188,
+    "type": "track",
+    "track_id": 3091269,
+    "release": "Hard Trance Experience",
+    "art_url": "//cdn-images.audioaddict.com/3/a/0/d/2/d/3a0d2da44f1187c589f86c771028d0da.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/0/d/2/d/3a0d2da44f1187c589f86c771028d0da.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Ninu Brt, Abel Zuri",
+    "display_artist": "Ninu Brt, Abel Zuri",
+    "title": "Astral Coordinates (Original Mix)",
+    "display_title": "Astral Coordinates (Original Mix)",
+    "track": "Ninu Brt, Abel Zuri - Astral Coordinates (Original Mix)",
+    "length": 310,
+    "duration": 310,
+    "started": 1710938780,
+    "type": "track",
+    "track_id": 3091277,
+    "release": "Tauro E.p.",
+    "art_url": "//cdn-images.audioaddict.com/2/8/0/c/6/a/280c6a6ba5154b32be6ffbb1775a2045.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/0/c/6/a/280c6a6ba5154b32be6ffbb1775a2045.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Datcher",
+    "display_artist": "Datcher",
+    "title": "Only You (Mcseedy Remix)",
+    "display_title": "Only You (Mcseedy Remix)",
+    "track": "Datcher - Only You (Mcseedy Remix)",
+    "length": 488,
+    "duration": 488,
+    "started": 1710939087,
+    "type": "track",
+    "track_id": 3091273,
+    "release": "Asanita",
+    "art_url": "//cdn-images.audioaddict.com/5/b/3/e/e/3/5b3ee3cf5733322e7041e68d709be7da.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/3/e/e/3/5b3ee3cf5733322e7041e68d709be7da.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Datcher",
+    "display_artist": "Datcher",
+    "title": "Disrespecting Kindness (Original Mix)",
+    "display_title": "Disrespecting Kindness (Original Mix)",
+    "track": "Datcher - Disrespecting Kindness (Original Mix)",
+    "length": 378,
+    "duration": 378,
+    "started": 1710939971,
+    "type": "track",
+    "track_id": 3091272,
+    "release": "Asanita",
+    "art_url": "//cdn-images.audioaddict.com/5/b/3/e/e/3/5b3ee3cf5733322e7041e68d709be7da.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/3/e/e/3/5b3ee3cf5733322e7041e68d709be7da.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Soul of a Survivor (Hard Mix)",
+    "display_title": "Soul of a Survivor (Hard Mix)",
+    "track": "Nostic - Soul of a Survivor (Hard Mix)",
+    "length": 391,
+    "duration": 391,
+    "started": 1710942529,
+    "type": "track",
+    "track_id": 3091278,
+    "release": "Soul of a Survivor",
+    "art_url": "//cdn-images.audioaddict.com/c/b/1/d/7/f/cb1d7f7a798003d27cc3fcbd44c89e4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/1/d/7/f/cb1d7f7a798003d27cc3fcbd44c89e4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Christian Cambas",
+    "display_artist": "Christian Cambas",
+    "title": "Remember The Future (Original Mix)",
+    "display_title": "Remember The Future (Original Mix)",
+    "track": "Christian Cambas - Remember The Future (Original Mix)",
+    "length": 373,
+    "duration": 373,
+    "started": 1710944810,
+    "type": "track",
+    "track_id": 3091268,
+    "release": "Remember The Future / Soap Opera",
+    "art_url": "//cdn-images.audioaddict.com/9/a/4/5/f/e/9a45fe09ac66df23dd273edada9c4b84.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/4/5/f/e/9a45fe09ac66df23dd273edada9c4b84.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Nostic",
+    "display_artist": "Nostic",
+    "title": "Soul of a Survivor (Rainer K Remix)",
+    "display_title": "Soul of a Survivor (Rainer K Remix)",
+    "track": "Nostic - Soul of a Survivor (Rainer K Remix)",
+    "length": 450,
+    "duration": 450,
+    "started": 1710963407,
+    "type": "track",
+    "track_id": 3091279,
+    "release": "Soul of a Survivor",
+    "art_url": "//cdn-images.audioaddict.com/c/b/1/d/7/f/cb1d7f7a798003d27cc3fcbd44c89e4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/1/d/7/f/cb1d7f7a798003d27cc3fcbd44c89e4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "Hyper Reality Radio Episode 223 (21 March 2024)",
+    "display_title": "Hyper Reality Radio Episode 223 (21 March 2024)",
+    "track": "XLS - Hyper Reality Radio Episode 223 (21 March 2024)",
+    "length": 7193,
+    "duration": 7193,
+    "started": 1711047600,
+    "type": "track",
+    "track_id": 3091368,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/5/1/a/e/3/e51ae32626430bc2e4ac48f87e853328.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/1/a/e/3/e51ae32626430bc2e4ac48f87e853328.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Ben Corner",
+    "display_artist": "Ben Corner",
+    "title": "The Hard Trance Show 018 (22 March 2024)",
+    "display_title": "The Hard Trance Show 018 (22 March 2024)",
+    "track": "Ben Corner - The Hard Trance Show 018 (22 March 2024)",
+    "length": 7085,
+    "duration": 7085,
+    "started": 1711130400,
+    "type": "track",
+    "track_id": 3091522,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/0/d/d/4/6/d0dd460f23c2180b6909438ba91edfd5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/d/d/4/6/d0dd460f23c2180b6909438ba91edfd5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Dave Spinout",
+    "display_artist": "Dave Spinout",
+    "title": "Highfish Radio Show 148 (22 March 2024)",
+    "display_title": "Highfish Radio Show 148 (22 March 2024)",
+    "track": "Dave Spinout - Highfish Radio Show 148 (22 March 2024)",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1711137600,
+    "type": "track",
+    "track_id": 3091540,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/d/2/3/3/6/4d233684ba8bd5dae2230a4b697018d0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/2/3/3/6/4d233684ba8bd5dae2230a4b697018d0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 857 (22 March 2024)",
+    "display_title": "Hard & Dance 857 (22 March 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 857 (22 March 2024)",
+    "length": 4194,
+    "duration": 4194,
+    "started": 1711144800,
+    "type": "track",
+    "track_id": 3091542,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 858 (29 March 2024)",
+    "display_title": "Hard & Dance 858 (29 March 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 858 (29 March 2024)",
+    "length": 7434,
+    "duration": 7434,
+    "started": 1711749600,
+    "type": "track",
+    "track_id": 3091890,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "Hyper Reality Radio Episode 224 (04 April 2024)",
+    "display_title": "Hyper Reality Radio Episode 224 (04 April 2024)",
+    "track": "XLS - Hyper Reality Radio Episode 224 (04 April 2024)",
+    "length": 7193,
+    "duration": 7193,
+    "started": 1712253600,
+    "type": "track",
+    "track_id": 3092255,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/f/5/3/c/c/4f53cc98e8ff787be47781ad7deb929b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/5/3/c/c/4f53cc98e8ff787be47781ad7deb929b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Christina Ashlee",
+    "display_artist": "Christina Ashlee",
+    "title": "Electronic Agenda 122 (04 April 2024)",
+    "display_title": "Electronic Agenda 122 (04 April 2024)",
+    "track": "Christina Ashlee - Electronic Agenda 122 (04 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1712260800,
+    "type": "track",
+    "track_id": 3092268,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/e/5/5/d/8/3e55d8ce183ae257166d21a33b5146bd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/e/5/5/d/8/3e55d8ce183ae257166d21a33b5146bd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "RJ Van Xetten",
+    "display_artist": "RJ Van Xetten",
+    "title": "Audiophile Sessions 044 (05 April 2024) guest Trinitro",
+    "display_title": "Audiophile Sessions 044 (05 April 2024) guest Trinitro",
+    "track": "RJ Van Xetten - Audiophile Sessions 044 (05 April 2024) guest Trinitro",
+    "length": 7013,
+    "duration": 7013,
+    "started": 1712336400,
+    "type": "track",
+    "track_id": 3092385,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/d/0/5/a/4/ed05a4ea2b3db4fc69de47561e97da65.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/d/0/5/a/4/ed05a4ea2b3db4fc69de47561e97da65.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Ganesh",
+    "display_artist": "Ganesh",
+    "title": "Infectious Radio 079 (01 March 2024)",
+    "display_title": "Infectious Radio 079 (01 March 2024)",
+    "track": "Ganesh - Infectious Radio 079 (01 March 2024)",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1712343600,
+    "type": "track",
+    "track_id": 3089536,
+    "release": "78",
+    "art_url": "//cdn-images.audioaddict.com/f/a/b/5/d/5/fab5d5543a04d3be7873bdacde1349ac.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/a/b/5/d/5/fab5d5543a04d3be7873bdacde1349ac.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Laura May",
+    "display_artist": "Laura May",
+    "title": "Sensory Sessions 091 (05 April 2024)",
+    "display_title": "Sensory Sessions 091 (05 April 2024)",
+    "track": "Laura May - Sensory Sessions 091 (05 April 2024)",
+    "length": 3643,
+    "duration": 3643,
+    "started": 1712347200,
+    "type": "track",
+    "track_id": 3092390,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/e/9/b/1/4/5e9b141d27f5e38e39770e39956b9943.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/9/b/1/4/5e9b141d27f5e38e39770e39956b9943.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 859 (05 April 2024)",
+    "display_title": "Hard & Dance 859 (05 April 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 859 (05 April 2024)",
+    "length": 4088,
+    "duration": 4088,
+    "started": 1712350800,
+    "type": "track",
+    "track_id": 3092392,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "C.O.L.D.",
+    "display_artist": "C.O.L.D.",
+    "title": "Rough & Sweet 078 (12 April 2024)",
+    "display_title": "Rough & Sweet 078 (12 April 2024)",
+    "track": "C.O.L.D. - Rough & Sweet 078 (12 April 2024)",
+    "length": 3598,
+    "duration": 3598,
+    "started": 1712948400,
+    "type": "track",
+    "track_id": 3092990,
+    "release": "C.O.L.D. rough and sweet EP 078 April 2024",
+    "art_url": "//cdn-images.audioaddict.com/2/1/c/5/2/c/21c52c9f5872d5662374e62a16f40e36.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/c/5/2/c/21c52c9f5872d5662374e62a16f40e36.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 860 (12 April 2024)",
+    "display_title": "Hard & Dance 860 (12 April 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 860 (12 April 2024)",
+    "length": 4185,
+    "duration": 4185,
+    "started": 1712955600,
+    "type": "track",
+    "track_id": 3092992,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 854 (01 March 2024)",
+    "display_title": "Hard & Dance 854 (01 March 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 854 (01 March 2024)",
+    "length": 4146,
+    "duration": 4146,
+    "started": 1713328996,
+    "type": "track",
+    "track_id": 3089540,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "HZY",
+    "display_artist": "HZY",
+    "title": "Sensory Sessions 090 (01 March 2024)",
+    "display_title": "Sensory Sessions 090 (01 March 2024)",
+    "track": "HZY - Sensory Sessions 090 (01 March 2024)",
+    "length": 3967,
+    "duration": 3967,
+    "started": 1713350173,
+    "type": "track",
+    "track_id": 3089539,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/a/4/6/0/6/5a4606f6d6ff5e18b69534bd992dd1d0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/a/4/6/0/6/5a4606f6d6ff5e18b69534bd992dd1d0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "XLS",
+    "display_artist": "XLS",
+    "title": "Hyper Reality Radio Episode 225 (18 April 2024)",
+    "display_title": "Hyper Reality Radio Episode 225 (18 April 2024)",
+    "track": "XLS - Hyper Reality Radio Episode 225 (18 April 2024)",
+    "length": 7193,
+    "duration": 7193,
+    "started": 1713463200,
+    "type": "track",
+    "track_id": 3093181,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/a/1/e/4/4/4a1e44a32c4d988ec1438fb899e4e266.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/a/1/e/4/4/4a1e44a32c4d988ec1438fb899e4e266.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "DJ Ephex",
+    "display_artist": "DJ Ephex",
+    "title": "Hard Trancelation 147 (19 April 2024)",
+    "display_title": "Hard Trancelation 147 (19 April 2024)",
+    "track": "DJ Ephex - Hard Trancelation 147 (19 April 2024)",
+    "length": 3544,
+    "duration": 3544,
+    "started": 1713556800,
+    "type": "track",
+    "track_id": 3093296,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/1/b/8/6/9/a1b86963534431746bc4aa3ff33b9f6f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/b/8/6/9/a1b86963534431746bc4aa3ff33b9f6f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 5,
+    "artist": "Greidor Allmaster",
+    "display_artist": "Greidor Allmaster",
+    "title": "Hard & Dance 861 (19 April 2024)",
+    "display_title": "Hard & Dance 861 (19 April 2024)",
+    "track": "Greidor Allmaster - Hard & Dance 861 (19 April 2024)",
+    "length": 4095,
+    "duration": 4095,
+    "started": 1713560400,
+    "type": "track",
+    "track_id": 3093279,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/0/9/5/3b6095c259ac1dfa93501a1dc4d458cc.png{?size,height,width,quality,pad}"
+    }
+  }
+]

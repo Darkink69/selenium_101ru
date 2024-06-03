@@ -1,0 +1,4560 @@
+[
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Colonial One",
+    "display_artist": "Colonial One",
+    "title": "Supernova Sessions 046 (22 February 2024)",
+    "display_title": "Supernova Sessions 046 (22 February 2024)",
+    "track": "Colonial One - Supernova Sessions 046 (22 February 2024)",
+    "length": 3526,
+    "duration": 3526,
+    "started": 1709801142,
+    "type": "track",
+    "track_id": 3089052,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Marcus Nilla",
+    "display_artist": "Marcus Nilla",
+    "title": "Resonate Together 168 (03 February 2024) Part 1",
+    "display_title": "Resonate Together 168 (03 February 2024) Part 1",
+    "track": "Marcus Nilla - Resonate Together 168 (03 February 2024) Part 1",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709804668,
+    "type": "track",
+    "track_id": 3087946,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Justin Dahl",
+    "display_artist": "Justin Dahl",
+    "title": "Insights #243 (28 February 2024) Part 1",
+    "display_title": "Insights #243 (28 February 2024) Part 1",
+    "track": "Justin Dahl - Insights #243 (28 February 2024) Part 1",
+    "length": 3490,
+    "duration": 3490,
+    "started": 1709808269,
+    "type": "track",
+    "track_id": 3089198,
+    "release": "Insights ",
+    "art_url": "//cdn-images.audioaddict.com/0/9/3/f/5/0/093f50133007586ed408c31f74b9c3dd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/9/3/f/5/0/093f50133007586ed408c31f74b9c3dd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 478 (24 February 2024)",
+    "display_title": "circle. 478 (24 February 2024)",
+    "track": "Pete Bidwell - circle. 478 (24 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709811756,
+    "type": "track",
+    "track_id": 3089263,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/4/1/5/0/6/3415066bf83effe0d191d4e4279456b8.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/4/1/5/0/6/3415066bf83effe0d191d4e4279456b8.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 050 (10 February 2024) guest Deeparture ",
+    "display_title": "Sekora Radio 050 (10 February 2024) guest Deeparture ",
+    "track": "UOAK - Sekora Radio 050 (10 February 2024) guest Deeparture ",
+    "length": 3616,
+    "duration": 3616,
+    "started": 1709815355,
+    "type": "track",
+    "track_id": 3088558,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/7/0/0/d/9/7700d94f439d1362627d54a4835574e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/0/0/d/9/7700d94f439d1362627d54a4835574e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Slap It Records",
+    "display_artist": "Slap It Records",
+    "title": "Slap It Sessions 034 (22 February 2024)",
+    "display_title": "Slap It Sessions 034 (22 February 2024)",
+    "track": "Slap It Records - Slap It Sessions 034 (22 February 2024)",
+    "length": 3553,
+    "duration": 3553,
+    "started": 1709818971,
+    "type": "track",
+    "track_id": 3089056,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/6/2/8/9/f/a6289fbaea2cd6d95f4c969d3e0c49c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/2/8/9/f/a6289fbaea2cd6d95f4c969d3e0c49c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Secret DJ",
+    "display_artist": "Secret DJ",
+    "title": "Chronicles Curate Chapter 81 (22 February 2024)",
+    "display_title": "Chronicles Curate Chapter 81 (22 February 2024)",
+    "track": "Secret DJ - Chronicles Curate Chapter 81 (22 February 2024)",
+    "length": 7115,
+    "duration": 7115,
+    "started": 1709822524,
+    "type": "track",
+    "track_id": 3089121,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/4/b/e/a/d/14bead661688ba8beb0c709a229c878c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/b/e/a/d/14bead661688ba8beb0c709a229c878c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Colonial One",
+    "display_artist": "Colonial One",
+    "title": "Supernova Sessions 047 (29 February 2024)",
+    "display_title": "Supernova Sessions 047 (29 February 2024)",
+    "track": "Colonial One - Supernova Sessions 047 (29 February 2024)",
+    "length": 3554,
+    "duration": 3554,
+    "started": 1709827200,
+    "type": "track",
+    "track_id": 3089411,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Blugazer",
+    "display_artist": "Blugazer",
+    "title": "Illusionary Images 147 (01 February 2024)",
+    "display_title": "Illusionary Images 147 (01 February 2024)",
+    "track": "Blugazer - Illusionary Images 147 (01 February 2024)",
+    "length": 7169,
+    "duration": 7169,
+    "started": 1709830800,
+    "type": "track",
+    "track_id": 3087880,
+    "release": "Illusionary Images",
+    "art_url": "//cdn-images.audioaddict.com/c/3/e/c/e/8/c3ece8cdba03a21bd9c9fca0747ca7d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/e/c/e/8/c3ece8cdba03a21bd9c9fca0747ca7d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ten Walls",
+    "display_artist": "Ten Walls",
+    "title": "Runemark 001 (07 March 2024)",
+    "display_title": "Runemark 001 (07 March 2024)",
+    "track": "Ten Walls - Runemark 001 (07 March 2024)",
+    "length": 3599,
+    "duration": 3599,
+    "started": 1709838000,
+    "type": "track",
+    "track_id": 3089852,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/0/2/3/8/9/c023894cfcdf2af102b28e1cf1dee9db.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/2/3/8/9/c023894cfcdf2af102b28e1cf1dee9db.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Andy R",
+    "display_artist": "Andy R",
+    "title": "Resonate Together 171 (24 February 2024) Part 1",
+    "display_title": "Resonate Together 171 (24 February 2024) Part 1",
+    "track": "Andy R - Resonate Together 171 (24 February 2024) Part 1",
+    "length": 3646,
+    "duration": 3646,
+    "started": 1709843965,
+    "type": "track",
+    "track_id": 3089181,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 028 (06 February 2024)",
+    "display_title": "Made Of Sun 028 (06 February 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 028 (06 February 2024)",
+    "length": 7201,
+    "duration": 7201,
+    "started": 1709847611,
+    "type": "track",
+    "track_id": 3088030,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Giangi Cappai",
+    "display_artist": "Giangi Cappai",
+    "title": "LTU Podcast Week 59 (2024)",
+    "display_title": "LTU Podcast Week 59 (2024)",
+    "track": "Giangi Cappai - LTU Podcast Week 59 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709854812,
+    "type": "track",
+    "track_id": 3089117,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/7/8/4/3/4/b/78434b0600d5e22482d211850d33de7c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/4/3/4/b/78434b0600d5e22482d211850d33de7c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Maceo Plex",
+    "display_artist": "Maceo Plex",
+    "title": "Ellum Radio 044 (22 February 2024)",
+    "display_title": "Ellum Radio 044 (22 February 2024)",
+    "track": "Maceo Plex - Ellum Radio 044 (22 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709858413,
+    "type": "track",
+    "track_id": 3089105,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/e/a/2/a/a/eea2aa860afb124db81ff995f29ef431.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/a/2/a/a/eea2aa860afb124db81ff995f29ef431.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 353 (13 February 2024)",
+    "display_title": "Radio Wonderland 353 (13 February 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 353 (13 February 2024)",
+    "length": 3620,
+    "duration": 3620,
+    "started": 1709862013,
+    "type": "track",
+    "track_id": 3088648,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Barto",
+    "display_artist": "Barto",
+    "title": "LTU Podcast Week 58 (2024)",
+    "display_title": "LTU Podcast Week 58 (2024)",
+    "track": "Barto - LTU Podcast Week 58 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709865633,
+    "type": "track",
+    "track_id": 3088733,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/7/6/9/9/1/e/76991e00e9510ada39a28976b046cd06.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/9/9/1/e/76991e00e9510ada39a28976b046cd06.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 476 (10 February 2024)",
+    "display_title": "circle. 476 (10 February 2024)",
+    "track": "Pete Bidwell - circle. 476 (10 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709869233,
+    "type": "track",
+    "track_id": 3088504,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/7/7/a/e/9/377ae96037b997ae5478d981ebe459eb.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/7/a/e/9/377ae96037b997ae5478d981ebe459eb.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Kris O'Neil",
+    "display_artist": "Kris O'Neil",
+    "title": "Somewhat Classy, Somewhat Trashy 261 (14 February 2024)",
+    "display_title": "Somewhat Classy, Somewhat Trashy 261 (14 February 2024)",
+    "track": "Kris O'Neil - Somewhat Classy, Somewhat Trashy 261 (14 February 2024)",
+    "length": 3670,
+    "duration": 3670,
+    "started": 1709872832,
+    "type": "track",
+    "track_id": 3088257,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/e/8/a/4/4/6e8a4420595f0b689498d920f248077a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/8/a/4/4/6e8a4420595f0b689498d920f248077a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Tioan",
+    "display_artist": "Tioan",
+    "title": "Lab:oratory 064 (23 February 2024)",
+    "display_title": "Lab:oratory 064 (23 February 2024)",
+    "track": "Tioan - Lab:oratory 064 (23 February 2024)",
+    "length": 3401,
+    "duration": 3401,
+    "started": 1709876502,
+    "type": "track",
+    "track_id": 3089057,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/2/6/2/8/6c262856947fe6e0f269bac9fb6e396f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/2/6/2/8/6c262856947fe6e0f269bac9fb6e396f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Innrsky",
+    "display_artist": "Innrsky",
+    "title": "Innrsky Radio Episode 042 (08 February 2024)",
+    "display_title": "Innrsky Radio Episode 042 (08 February 2024)",
+    "track": "Innrsky - Innrsky Radio Episode 042 (08 February 2024)",
+    "length": 4498,
+    "duration": 4498,
+    "started": 1709879900,
+    "type": "track",
+    "track_id": 3088462,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/d/8/5/1/2/bd85127bbe7dd77c28ec9b3356502dd7.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/8/5/1/2/bd85127bbe7dd77c28ec9b3356502dd7.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 030 (20 February 2024)",
+    "display_title": "Made Of Sun 030 (20 February 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 030 (20 February 2024)",
+    "length": 7177,
+    "duration": 7177,
+    "started": 1709884398,
+    "type": "track",
+    "track_id": 3088917,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Physical Phase",
+    "display_artist": "Physical Phase",
+    "title": "Progressive Vibes 126 (05 February 2024)",
+    "display_title": "Progressive Vibes 126 (05 February 2024)",
+    "track": "Physical Phase - Progressive Vibes 126 (05 February 2024)",
+    "length": 7295,
+    "duration": 7295,
+    "started": 1709891571,
+    "type": "track",
+    "track_id": 3087987,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/f/b/9/9/cefb99bacc58ff0577bc094d3a80d103.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/f/b/9/9/cefb99bacc58ff0577bc094d3a80d103.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 094 (20 February 2024)",
+    "display_title": "Evolved 094 (20 February 2024)",
+    "track": "Evolving Suns Audio - Evolved 094 (20 February 2024)",
+    "length": 7182,
+    "duration": 7182,
+    "started": 1709902467,
+    "type": "track",
+    "track_id": 3088884,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 640 (08 March 2024)",
+    "display_title": "Addictive Sounds Podcast 640 (08 March 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 640 (08 March 2024)",
+    "length": 10799,
+    "duration": 10799,
+    "started": 1709906400,
+    "type": "track",
+    "track_id": 3090178,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/5/c/2/7/2/c5c272b3ae6e030573c43c7a67225c0c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/c/2/7/2/c5c272b3ae6e030573c43c7a67225c0c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Armedio & Cosmaks",
+    "display_artist": "Armedio & Cosmaks",
+    "title": "Prizm Radio 042 (08 March 2024)",
+    "display_title": "Prizm Radio 042 (08 March 2024)",
+    "track": "Armedio & Cosmaks - Prizm Radio 042 (08 March 2024)",
+    "length": 6604,
+    "duration": 6604,
+    "started": 1709917200,
+    "type": "track",
+    "track_id": 3089542,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/7/c/d/4/6c7cd49caee3f0c94fdb72a7b121dd2b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/7/c/d/4/6c7cd49caee3f0c94fdb72a7b121dd2b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Four Candles",
+    "display_artist": "Four Candles",
+    "title": "Keep Thinking 076 (08 March 2024)",
+    "display_title": "Keep Thinking 076 (08 March 2024)",
+    "track": "Four Candles - Keep Thinking 076 (08 March 2024)",
+    "length": 3598,
+    "duration": 3598,
+    "started": 1709924400,
+    "type": "track",
+    "track_id": 3090098,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/6/7/7/3/9/b67739d40a54616d367289ae0bb85bcd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/7/7/3/9/b67739d40a54616d367289ae0bb85bcd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Undercod",
+    "display_artist": "Undercod",
+    "title": "LTU Podcast Week 57 (2024)",
+    "display_title": "LTU Podcast Week 57 (2024)",
+    "track": "Undercod - LTU Podcast Week 57 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709930648,
+    "type": "track",
+    "track_id": 3088428,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/c/4/1/7/b/f/c417bf6efb67973d1c56ee443ace517c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/1/7/b/f/c417bf6efb67973d1c56ee443ace517c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alexx Zander",
+    "display_artist": "Alexx Zander",
+    "title": "Rail Road Sessions 097 (09 February 2024)",
+    "display_title": "Rail Road Sessions 097 (09 February 2024)",
+    "track": "Alexx Zander - Rail Road Sessions 097 (09 February 2024)",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1709931600,
+    "type": "track",
+    "track_id": 3088475,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/a/8/9/7/9aa8978bfbad3dc24234d86cf2c1a70c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/a/8/9/7/9aa8978bfbad3dc24234d86cf2c1a70c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Latex Zebra",
+    "display_artist": "Latex Zebra",
+    "title": "Resonate Together 168 (03 February 2024) Part 2",
+    "display_title": "Resonate Together 168 (03 February 2024) Part 2",
+    "track": "Latex Zebra - Resonate Together 168 (03 February 2024) Part 2",
+    "length": 3605,
+    "duration": 3605,
+    "started": 1709941449,
+    "type": "track",
+    "track_id": 3087945,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 052 (24 February 2024)",
+    "display_title": "Sekora Radio 052 (24 February 2024)",
+    "track": "UOAK - Sekora Radio 052 (24 February 2024)",
+    "length": 3598,
+    "duration": 3598,
+    "started": 1709945054,
+    "type": "track",
+    "track_id": 3089262,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/6/2/9/1/5/d629152bc6ff8f2f1408d496475fb5d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/2/9/1/5/d629152bc6ff8f2f1408d496475fb5d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 352 (06 February 2024)",
+    "display_title": "Radio Wonderland 352 (06 February 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 352 (06 February 2024)",
+    "length": 3616,
+    "duration": 3616,
+    "started": 1709948652,
+    "type": "track",
+    "track_id": 3088049,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Paul Pearson",
+    "display_artist": "Paul Pearson",
+    "title": "Reflections 007 (February 2024)",
+    "display_title": "Reflections 007 (February 2024)",
+    "track": "Paul Pearson - Reflections 007 (February 2024)",
+    "length": 3530,
+    "duration": 3530,
+    "started": 1709952268,
+    "type": "track",
+    "track_id": 3088793,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/6/f/f/4/4/76ff447b5c81c716049dbbf39658a256.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/f/f/4/4/76ff447b5c81c716049dbbf39658a256.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alinep",
+    "display_artist": "Alinep",
+    "title": "Deepsomnia (13 February 2024)",
+    "display_title": "Deepsomnia (13 February 2024)",
+    "track": "Alinep - Deepsomnia (13 February 2024)",
+    "length": 7378,
+    "duration": 7378,
+    "started": 1709955793,
+    "type": "track",
+    "track_id": 3088617,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/3/7/7/c/6/5377c6371288e73f8f3a53c87c41d157.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/7/7/c/6/5377c6371288e73f8f3a53c87c41d157.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Armedio & Cosmaks",
+    "display_artist": "Armedio & Cosmaks",
+    "title": "Prizm Radio 041 (09 February 2024)",
+    "display_title": "Prizm Radio 041 (09 February 2024)",
+    "track": "Armedio & Cosmaks - Prizm Radio 041 (09 February 2024)",
+    "length": 5909,
+    "duration": 5909,
+    "started": 1709963168,
+    "type": "track",
+    "track_id": 3088480,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/7/c/d/4/6c7cd49caee3f0c94fdb72a7b121dd2b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/7/c/d/4/6c7cd49caee3f0c94fdb72a7b121dd2b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "House Club Set",
+    "display_artist": "House Club Set",
+    "title": "Jango Music Radio Show 075 (06 February 2024)",
+    "display_title": "Jango Music Radio Show 075 (06 February 2024)",
+    "track": "House Club Set - Jango Music Radio Show 075 (06 February 2024)",
+    "length": 3648,
+    "duration": 3648,
+    "started": 1709976193,
+    "type": "track",
+    "track_id": 3088054,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 201 (10 February 2024)",
+    "display_title": "Exploration 201 (10 February 2024)",
+    "track": "Gitman - Exploration 201 (10 February 2024)",
+    "length": 3464,
+    "duration": 3464,
+    "started": 1709979841,
+    "type": "track",
+    "track_id": 3088479,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/b/8/0/a/c/db80ac33d05d008fa25f3f5a74d2b32d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/b/8/0/a/c/db80ac33d05d008fa25f3f5a74d2b32d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Enertia-Sound",
+    "display_artist": "Enertia-Sound",
+    "title": "Resonate Together 170 (17 February 2024) Part 2",
+    "display_title": "Resonate Together 170 (17 February 2024) Part 2",
+    "track": "Enertia-Sound - Resonate Together 170 (17 February 2024) Part 2",
+    "length": 3440,
+    "duration": 3440,
+    "started": 1709986906,
+    "type": "track",
+    "track_id": 3088833,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Dino Lenny",
+    "display_artist": "Dino Lenny",
+    "title": "CORE 037 (06 February 2024) Tulum Special",
+    "display_title": "CORE 037 (06 February 2024) Tulum Special",
+    "track": "Dino Lenny - CORE 037 (06 February 2024) Tulum Special",
+    "length": 3572,
+    "duration": 3572,
+    "started": 1709993867,
+    "type": "track",
+    "track_id": 3088043,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/8/6/f/a/c/c86fac12a8e7bb741e4d0177f103e37a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/6/f/a/c/c86fac12a8e7bb741e4d0177f103e37a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 475 (03 February 2024)",
+    "display_title": "circle. 475 (03 February 2024)",
+    "track": "Pete Bidwell - circle. 475 (03 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1709997430,
+    "type": "track",
+    "track_id": 3087961,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/6/c/0/a/e/46c0ae1868ce98252a61e1216b390b8b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/6/c/0/a/e/46c0ae1868ce98252a61e1216b390b8b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 054 (09 March 2024) guest Jope",
+    "display_title": "Sekora Radio 054 (09 March 2024) guest Jope",
+    "track": "UOAK - Sekora Radio 054 (09 March 2024) guest Jope",
+    "length": 3654,
+    "duration": 3654,
+    "started": 1710000000,
+    "type": "track",
+    "track_id": 3090231,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/2/6/4/4/9/a26449939c73578d08687c1050c86af2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/6/4/4/9/a26449939c73578d08687c1050c86af2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 480 (09 March 2024)",
+    "display_title": "circle. 480 (09 March 2024)",
+    "track": "Pete Bidwell - circle. 480 (09 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710003600,
+    "type": "track",
+    "track_id": 3090189,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/1/b/7/2/3/71b723e122678cd059f09ccd946aba8e.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/b/7/2/3/71b723e122678cd059f09ccd946aba8e.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 480 Guest Mix (09 March 2024)",
+    "display_title": "circle. 480 Guest Mix (09 March 2024)",
+    "track": "Pete Bidwell - circle. 480 Guest Mix (09 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710007200,
+    "type": "track",
+    "track_id": 3090190,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/d/7/a/3/3bd7a3190edc47b10f207c841028230a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/d/7/a/3/3bd7a3190edc47b10f207c841028230a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 205 (09 March 2024)",
+    "display_title": "Exploration 205 (09 March 2024)",
+    "track": "Gitman - Exploration 205 (09 March 2024)",
+    "length": 3558,
+    "duration": 3558,
+    "started": 1710010800,
+    "type": "track",
+    "track_id": 3090182,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/0/a/0/5/f/70a05f487c056022bba17f3b994281fe.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/a/0/5/f/70a05f487c056022bba17f3b994281fe.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Matt Black",
+    "display_artist": "Matt Black",
+    "title": "Resonate Together 173 (09 March 2024) Part 1",
+    "display_title": "Resonate Together 173 (09 March 2024) Part 1",
+    "track": "Matt Black - Resonate Together 173 (09 March 2024) Part 1",
+    "length": 3637,
+    "duration": 3637,
+    "started": 1710014400,
+    "type": "track",
+    "track_id": 3090226,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Stewart Macdonald",
+    "display_artist": "Stewart Macdonald",
+    "title": "Resonate Together 173 (09 March 2024) Part 2",
+    "display_title": "Resonate Together 173 (09 March 2024) Part 2",
+    "track": "Stewart Macdonald - Resonate Together 173 (09 March 2024) Part 2",
+    "length": 3579,
+    "duration": 3579,
+    "started": 1710018060,
+    "type": "track",
+    "track_id": 3090229,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Mark Selby",
+    "display_artist": "Mark Selby",
+    "title": "Resonate Together 173 (09 March 2024) Part 3",
+    "display_title": "Resonate Together 173 (09 March 2024) Part 3",
+    "track": "Mark Selby - Resonate Together 173 (09 March 2024) Part 3",
+    "length": 3611,
+    "duration": 3611,
+    "started": 1710021600,
+    "type": "track",
+    "track_id": 3090225,
+    "release": "Resonate Together 09.03.2024",
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Matt Black",
+    "display_artist": "Matt Black",
+    "title": "Resonate Together 169 (10 February 2024) Part 2",
+    "display_title": "Resonate Together 169 (10 February 2024) Part 2",
+    "track": "Matt Black - Resonate Together 169 (10 February 2024) Part 2",
+    "length": 3596,
+    "duration": 3596,
+    "started": 1710026177,
+    "type": "track",
+    "track_id": 3088502,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 354 (20 February 2024)",
+    "display_title": "Radio Wonderland 354 (20 February 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 354 (20 February 2024)",
+    "length": 3569,
+    "duration": 3569,
+    "started": 1710033374,
+    "type": "track",
+    "track_id": 3088930,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 202 (17 February 2024)",
+    "display_title": "Exploration 202 (17 February 2024)",
+    "track": "Gitman - Exploration 202 (17 February 2024)",
+    "length": 3450,
+    "duration": 3450,
+    "started": 1710036943,
+    "type": "track",
+    "track_id": 3088791,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/e/c/6/3/2/dec632268ff1d8dc939bb9caaa2b21ed.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/c/6/3/2/dec632268ff1d8dc939bb9caaa2b21ed.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Miki Mad",
+    "display_artist": "Miki Mad",
+    "title": "Resonate Together 171 (24 February 2024) Part 2",
+    "display_title": "Resonate Together 171 (24 February 2024) Part 2",
+    "track": "Miki Mad - Resonate Together 171 (24 February 2024) Part 2",
+    "length": 3658,
+    "duration": 3658,
+    "started": 1710040393,
+    "type": "track",
+    "track_id": 3089185,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Andy Skinner",
+    "display_artist": "Andy Skinner",
+    "title": "Resonate Together 169 (10 February 2024) Part 1",
+    "display_title": "Resonate Together 169 (10 February 2024) Part 1",
+    "track": "Andy Skinner - Resonate Together 169 (10 February 2024) Part 1",
+    "length": 3609,
+    "duration": 3609,
+    "started": 1710044051,
+    "type": "track",
+    "track_id": 3088499,
+    "release": "Resonate Together -10 -FEB-2024 -Andy Skinner(SCO.)",
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "ED-CASE",
+    "display_artist": "ED-CASE",
+    "title": "Resonate Together 170 (17 February 2024) Part 1",
+    "display_title": "Resonate Together 170 (17 February 2024) Part 1",
+    "track": "ED-CASE - Resonate Together 170 (17 February 2024) Part 1",
+    "length": 3604,
+    "duration": 3604,
+    "started": 1710051260,
+    "type": "track",
+    "track_id": 3088832,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/2/c/1/d/0/82c1d0907128d916f67d25047f811627.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/c/1/d/0/82c1d0907128d916f67d25047f811627.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Four Candles",
+    "display_artist": "Four Candles",
+    "title": "Keep Thinking 075 (09 February 2024) ",
+    "display_title": "Keep Thinking 075 (09 February 2024) ",
+    "track": "Four Candles - Keep Thinking 075 (09 February 2024) ",
+    "length": 3598,
+    "duration": 3598,
+    "started": 1710058350,
+    "type": "track",
+    "track_id": 3088467,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/6/7/7/3/9/b67739d40a54616d367289ae0bb85bcd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/7/7/3/9/b67739d40a54616d367289ae0bb85bcd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Cristo.gxc",
+    "display_artist": "Cristo.gxc",
+    "title": "Chronicles Commends 128 (07 February 2024)",
+    "display_title": "Chronicles Commends 128 (07 February 2024)",
+    "track": "Cristo.gxc - Chronicles Commends 128 (07 February 2024)",
+    "length": 3559,
+    "duration": 3559,
+    "started": 1710061946,
+    "type": "track",
+    "track_id": 3088419,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/1/5/7/9/5/21579548cd3afe9adb8c63b574fb7a22.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/5/7/9/5/21579548cd3afe9adb8c63b574fb7a22.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 095 (27 February 2024)",
+    "display_title": "Evolved 095 (27 February 2024)",
+    "track": "Evolving Suns Audio - Evolved 095 (27 February 2024)",
+    "length": 7181,
+    "duration": 7181,
+    "started": 1710065502,
+    "type": "track",
+    "track_id": 3089356,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Roger Silver",
+    "display_artist": "Roger Silver",
+    "title": "Sound Of The New York Underground 048 (February 2024)",
+    "display_title": "Sound Of The New York Underground 048 (February 2024)",
+    "track": "Roger Silver - Sound Of The New York Underground 048 (February 2024)",
+    "length": 3614,
+    "duration": 3614,
+    "started": 1710083656,
+    "type": "track",
+    "track_id": 3088556,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/7/9/1/6/5/2791659eebde9df7ec3d53c58ce13122.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/9/1/6/5/2791659eebde9df7ec3d53c58ce13122.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ikigai",
+    "display_artist": "Ikigai",
+    "title": "Chronicles Commends 129 (14 February 2024)",
+    "display_title": "Chronicles Commends 129 (14 February 2024)",
+    "track": "Ikigai - Chronicles Commends 129 (14 February 2024)",
+    "length": 3648,
+    "duration": 3648,
+    "started": 1710087271,
+    "type": "track",
+    "track_id": 3088723,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/4/a/d/1/9/64ad19eb4273f952480edfa2e6d53b42.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/a/d/1/9/64ad19eb4273f952480edfa2e6d53b42.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Frank Urbaniak",
+    "display_artist": "Frank Urbaniak",
+    "title": "Tech Sounds 144 (16 February 2024)",
+    "display_title": "Tech Sounds 144 (16 February 2024)",
+    "track": "Frank Urbaniak - Tech Sounds 144 (16 February 2024)",
+    "length": 3754,
+    "duration": 3754,
+    "started": 1710090894,
+    "type": "track",
+    "track_id": 3088789,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/2/b/6/f/6/02b6f6a719e06aa83e90b590aaa5c84c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/2/b/6/f/6/02b6f6a719e06aa83e90b590aaa5c84c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Roger Silver",
+    "display_artist": "Roger Silver",
+    "title": "Sound Of The New York Underground 049 (March 2024)",
+    "display_title": "Sound Of The New York Underground 049 (March 2024)",
+    "track": "Roger Silver - Sound Of The New York Underground 049 (March 2024)",
+    "length": 3614,
+    "duration": 3614,
+    "started": 1710100800,
+    "type": "track",
+    "track_id": 3090228,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/a/b/7/0/4/dab70485a6561237edbe843a9bde6b1c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/b/7/0/4/dab70485a6561237edbe843a9bde6b1c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Mark Selby",
+    "display_artist": "Mark Selby",
+    "title": "Resonate Together 169 (10 February 2024) Part 3",
+    "display_title": "Resonate Together 169 (10 February 2024) Part 3",
+    "track": "Mark Selby - Resonate Together 169 (10 February 2024) Part 3",
+    "length": 3593,
+    "duration": 3593,
+    "started": 1710109044,
+    "type": "track",
+    "track_id": 3088501,
+    "release": "Dark Progressive Trance",
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gabriel Slick",
+    "display_artist": "Gabriel Slick",
+    "title": "Crossworlder Podcast 115 (February 2024) guest Gatto",
+    "display_title": "Crossworlder Podcast 115 (February 2024) guest Gatto",
+    "track": "Gabriel Slick - Crossworlder Podcast 115 (February 2024) guest Gatto",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1710140011,
+    "type": "track",
+    "track_id": 3087908,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/2/7/5/0/a/32750a4ddaee58bead4aa1cff0ead104.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/7/5/0/a/32750a4ddaee58bead4aa1cff0ead104.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 051 (17 February 2024)",
+    "display_title": "Sekora Radio 051 (17 February 2024)",
+    "track": "UOAK - Sekora Radio 051 (17 February 2024)",
+    "length": 3538,
+    "duration": 3538,
+    "started": 1710154329,
+    "type": "track",
+    "track_id": 3088836,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/e/e/1/9/e/eee19e32bd40ee09b53ae23dae5ef8b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/e/1/9/e/eee19e32bd40ee09b53ae23dae5ef8b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "House Club Set",
+    "display_artist": "House Club Set",
+    "title": "Jango Music Radio Show 078 (27 February 2024)",
+    "display_title": "Jango Music Radio Show 078 (27 February 2024)",
+    "track": "House Club Set - Jango Music Radio Show 078 (27 February 2024)",
+    "length": 3729,
+    "duration": 3729,
+    "started": 1710161423,
+    "type": "track",
+    "track_id": 3089353,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "James de Torres",
+    "display_artist": "James de Torres",
+    "title": "Lunar Sessions 111 (20 February 2024)",
+    "display_title": "Lunar Sessions 111 (20 February 2024)",
+    "track": "James de Torres - Lunar Sessions 111 (20 February 2024)",
+    "length": 7270,
+    "duration": 7270,
+    "started": 1710165102,
+    "type": "track",
+    "track_id": 3088922,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/f/1/1/8/1/af11810fb357fe0bfce9afe1d06393d2.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/1/1/8/1/af11810fb357fe0bfce9afe1d06393d2.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 641 (11 March 2024)",
+    "display_title": "Addictive Sounds Podcast 641 (11 March 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 641 (11 March 2024)",
+    "length": 10798,
+    "duration": 10798,
+    "started": 1710165600,
+    "type": "track",
+    "track_id": 3090246,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/d/9/c/a/91d9ca807d3ea54f5c3b5aa16797d263.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/d/9/c/a/91d9ca807d3ea54f5c3b5aa16797d263.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Lorenzo Luciani",
+    "display_artist": "Lorenzo Luciani",
+    "title": "LTU Podcast Week 61 (2024)",
+    "display_title": "LTU Podcast Week 61 (2024)",
+    "track": "Lorenzo Luciani - LTU Podcast Week 61 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710180000,
+    "type": "track",
+    "track_id": 3090099,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/2/a/7/b/9/6/2a7b969b45e31235f23496d7b95ec7d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/7/b/9/6/2a7b969b45e31235f23496d7b95ec7d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Stewart Macdonald",
+    "display_artist": "Stewart Macdonald",
+    "title": "Resonate Together 168 (03 February 2024) Part 3",
+    "display_title": "Resonate Together 168 (03 February 2024) Part 3",
+    "track": "Stewart Macdonald - Resonate Together 168 (03 February 2024) Part 3",
+    "length": 3602,
+    "duration": 3602,
+    "started": 1710190298,
+    "type": "track",
+    "track_id": 3087947,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 031 (27 February 2024)",
+    "display_title": "Made Of Sun 031 (27 February 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 031 (27 February 2024)",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1710197439,
+    "type": "track",
+    "track_id": 3089296,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 355 (27 February 2024)",
+    "display_title": "Radio Wonderland 355 (27 February 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 355 (27 February 2024)",
+    "length": 3547,
+    "duration": 3547,
+    "started": 1710204638,
+    "type": "track",
+    "track_id": 3089341,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Enlusion",
+    "display_artist": "Enlusion",
+    "title": "Forescape Radio 048 (19 February 2024)",
+    "display_title": "Forescape Radio 048 (19 February 2024)",
+    "track": "Enlusion - Forescape Radio 048 (19 February 2024)",
+    "length": 3461,
+    "duration": 3461,
+    "started": 1710211739,
+    "type": "track",
+    "track_id": 3088887,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Taylor Franklyn",
+    "display_artist": "Taylor Franklyn",
+    "title": "Deeplife Presents 118 (07 February 2024) guest Pat D",
+    "display_title": "Deeplife Presents 118 (07 February 2024) guest Pat D",
+    "track": "Taylor Franklyn - Deeplife Presents 118 (07 February 2024) guest Pat D",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710218791,
+    "type": "track",
+    "track_id": 3088259,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/1/9/0/5/f11905e43e868f4e9e7dffe9918d1457.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/1/9/0/5/f11905e43e868f4e9e7dffe9918d1457.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 092 (06 February 2024)",
+    "display_title": "Evolved 092 (06 February 2024)",
+    "track": "Evolving Suns Audio - Evolved 092 (06 February 2024)",
+    "length": 7179,
+    "duration": 7179,
+    "started": 1710225988,
+    "type": "track",
+    "track_id": 3087983,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 093 (13 February 2024)",
+    "display_title": "Evolved 093 (13 February 2024)",
+    "track": "Evolving Suns Audio - Evolved 093 (13 February 2024)",
+    "length": 7214,
+    "duration": 7214,
+    "started": 1710236731,
+    "type": "track",
+    "track_id": 3088622,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 033 (12 Mars 2024)",
+    "display_title": "Made Of Sun 033 (12 Mars 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 033 (12 Mars 2024)",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1710252000,
+    "type": "track",
+    "track_id": 3090268,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 357 (12 March 2024)",
+    "display_title": "Radio Wonderland 357 (12 March 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 357 (12 March 2024)",
+    "length": 3574,
+    "duration": 3574,
+    "started": 1710259200,
+    "type": "track",
+    "track_id": 3090332,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alinep",
+    "display_artist": "Alinep",
+    "title": "Deepsomnia (12 March 2024)",
+    "display_title": "Deepsomnia (12 March 2024)",
+    "track": "Alinep - Deepsomnia (12 March 2024)",
+    "length": 7308,
+    "duration": 7308,
+    "started": 1710262801,
+    "type": "track",
+    "track_id": 3090242,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/5/d/9/c/6/45d9c6bc3d7853b5a29231c3eb28d944.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/d/9/c/6/45d9c6bc3d7853b5a29231c3eb28d944.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "House Club Set",
+    "display_artist": "House Club Set",
+    "title": "Jango Music Radio Show 080 (12 March 2024)",
+    "display_title": "Jango Music Radio Show 080 (12 March 2024)",
+    "track": "House Club Set - Jango Music Radio Show 080 (12 March 2024)",
+    "length": 3643,
+    "duration": 3643,
+    "started": 1710277200,
+    "type": "track",
+    "track_id": 3090333,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 096 (05 March 2024)",
+    "display_title": "Evolved 096 (05 March 2024)",
+    "track": "Evolving Suns Audio - Evolved 096 (05 March 2024)",
+    "length": 7214,
+    "duration": 7214,
+    "started": 1710280800,
+    "type": "track",
+    "track_id": 3089763,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 477 (17 February 2024)",
+    "display_title": "circle. 477 (17 February 2024)",
+    "track": "Pete Bidwell - circle. 477 (17 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710294476,
+    "type": "track",
+    "track_id": 3088837,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/0/6/2/9/b9062961faed03c0d91717ee8b582d7a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/0/6/2/9/b9062961faed03c0d91717ee8b582d7a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Anna Lee",
+    "display_artist": "Anna Lee",
+    "title": "ClubStyles 201 (28 February 2024)",
+    "display_title": "ClubStyles 201 (28 February 2024)",
+    "track": "Anna Lee - ClubStyles 201 (28 February 2024)",
+    "length": 7308,
+    "duration": 7308,
+    "started": 1710298075,
+    "type": "track",
+    "track_id": 3089053,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/6/3/2/e/e/5632ee5c07e2edd40e8012f51da227d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/3/2/e/e/5632ee5c07e2edd40e8012f51da227d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "LuNa & Beatribe",
+    "display_artist": "LuNa & Beatribe",
+    "title": "Elysion 010 (21 February 2024)",
+    "display_title": "Elysion 010 (21 February 2024)",
+    "track": "LuNa & Beatribe - Elysion 010 (21 February 2024)",
+    "length": 7288,
+    "duration": 7288,
+    "started": 1710312444,
+    "type": "track",
+    "track_id": 3088830,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/7/7/b/b/2/977bb2889dccc8c1d1cacb145871d5de.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/7/b/b/2/977bb2889dccc8c1d1cacb145871d5de.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "T.F.F. & Tomak",
+    "display_artist": "T.F.F. & Tomak",
+    "title": "Antima Music Podcast 018 (14 February 2024) Dj Alchemist Guestmix",
+    "display_title": "Antima Music Podcast 018 (14 February 2024) Dj Alchemist Guestmix",
+    "track": "T.F.F. & Tomak - Antima Music Podcast 018 (14 February 2024) Dj Alchemist Guestmix",
+    "length": 7225,
+    "duration": 7225,
+    "started": 1710319733,
+    "type": "track",
+    "track_id": 3088618,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/7/0/4/a/9b704ad2c4ffd8893053ea44f133959d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/7/0/4/a/9b704ad2c4ffd8893053ea44f133959d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 200 (03 February 2024) Part 2",
+    "display_title": "Exploration 200 (03 February 2024) Part 2",
+    "track": "Gitman - Exploration 200 (03 February 2024) Part 2",
+    "length": 3452,
+    "duration": 3452,
+    "started": 1710355626,
+    "type": "track",
+    "track_id": 3087911,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/8/f/4/3/8/b8f438539449897f6be8f4cb1c4aed5f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/f/4/3/8/b8f438539449897f6be8f4cb1c4aed5f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "T.F.F. & Tomak",
+    "display_artist": "T.F.F. & Tomak",
+    "title": "Antima Music Podcast 019 (13 March 2024) Ithur Guestmix",
+    "display_title": "Antima Music Podcast 019 (13 March 2024) Ithur Guestmix",
+    "track": "T.F.F. & Tomak - Antima Music Podcast 019 (13 March 2024) Ithur Guestmix",
+    "length": 7182,
+    "duration": 7182,
+    "started": 1710356400,
+    "type": "track",
+    "track_id": 3090179,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/7/0/4/a/9b704ad2c4ffd8893053ea44f133959d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/7/0/4/a/9b704ad2c4ffd8893053ea44f133959d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Stu McNally",
+    "display_artist": "Stu McNally",
+    "title": "The Monthly Selection 014 (28 February 2024)",
+    "display_title": "The Monthly Selection 014 (28 February 2024)",
+    "track": "Stu McNally - The Monthly Selection 014 (28 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710377000,
+    "type": "track",
+    "track_id": 3089370,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/2/5/e/c/f/225ecfd365b1c993ddc47fe82dde86bf.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/5/e/c/f/225ecfd365b1c993ddc47fe82dde86bf.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 203 (24 February 2024)",
+    "display_title": "Exploration 203 (24 February 2024)",
+    "track": "Gitman - Exploration 203 (24 February 2024)",
+    "length": 3457,
+    "duration": 3457,
+    "started": 1710387861,
+    "type": "track",
+    "track_id": 3089187,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/7/5/8/9/2/37589277513b1a239841d9bb8dd27a4b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/5/8/9/2/37589277513b1a239841d9bb8dd27a4b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 475 Guest Mix (03 February 2024)",
+    "display_title": "circle. 475 Guest Mix (03 February 2024)",
+    "track": "Pete Bidwell - circle. 475 Guest Mix (03 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710422327,
+    "type": "track",
+    "track_id": 3087962,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/9/9/1/5/e/99915e8cea2fd9f36df802ba57dd393b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/9/1/5/e/99915e8cea2fd9f36df802ba57dd393b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Enlusion",
+    "display_artist": "Enlusion",
+    "title": "Forescape Radio 047 (05 February 2024)",
+    "display_title": "Forescape Radio 047 (05 February 2024)",
+    "track": "Enlusion - Forescape Radio 047 (05 February 2024)",
+    "length": 3491,
+    "duration": 3491,
+    "started": 1710425927,
+    "type": "track",
+    "track_id": 3088029,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 476 Guest Mix (10 February 2024)",
+    "display_title": "circle. 476 Guest Mix (10 February 2024)",
+    "track": "Pete Bidwell - circle. 476 Guest Mix (10 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710429418,
+    "type": "track",
+    "track_id": 3088505,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/2/2/3/6/6/222366c9275a9ac8b560c903039a43d1.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/2/3/6/6/222366c9275a9ac8b560c903039a43d1.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ajit Sarathi",
+    "display_artist": "Ajit Sarathi",
+    "title": "Resonate Together 170 (17 February 2024) Part 3",
+    "display_title": "Resonate Together 170 (17 February 2024) Part 3",
+    "track": "Ajit Sarathi - Resonate Together 170 (17 February 2024) Part 3",
+    "length": 3597,
+    "duration": 3597,
+    "started": 1710505258,
+    "type": "track",
+    "track_id": 3088828,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 642 (15 March 2024)",
+    "display_title": "Addictive Sounds Podcast 642 (15 March 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 642 (15 March 2024)",
+    "length": 10799,
+    "duration": 10799,
+    "started": 1710511200,
+    "type": "track",
+    "track_id": 3090817,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/d/1/8/5/e/2d185edbe21caba09174064b7458436c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/1/8/5/e/2d185edbe21caba09174064b7458436c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Paul Pearson",
+    "display_artist": "Paul Pearson",
+    "title": "Reflections 008 (March 2024)",
+    "display_title": "Reflections 008 (March 2024)",
+    "track": "Paul Pearson - Reflections 008 (March 2024)",
+    "length": 3482,
+    "duration": 3482,
+    "started": 1710522000,
+    "type": "track",
+    "track_id": 3090809,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/6/f/f/4/4/76ff447b5c81c716049dbbf39658a256.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/f/f/4/4/76ff447b5c81c716049dbbf39658a256.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Frank Urbaniak",
+    "display_artist": "Frank Urbaniak",
+    "title": "Tech Sounds 145 (15 March 2024)",
+    "display_title": "Tech Sounds 145 (15 March 2024)",
+    "track": "Frank Urbaniak - Tech Sounds 145 (15 March 2024)",
+    "length": 3754,
+    "duration": 3754,
+    "started": 1710529200,
+    "type": "track",
+    "track_id": 3090806,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/a/5/9/9/e/7a599eb0582faa831a697357b2ee1439.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/5/9/9/e/7a599eb0582faa831a697357b2ee1439.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 029 (13 February 2024)",
+    "display_title": "Made Of Sun 029 (13 February 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 029 (13 February 2024)",
+    "length": 7199,
+    "duration": 7199,
+    "started": 1710533965,
+    "type": "track",
+    "track_id": 3088634,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 055 (16 March 2024)",
+    "display_title": "Sekora Radio 055 (16 March 2024)",
+    "track": "UOAK - Sekora Radio 055 (16 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710604800,
+    "type": "track",
+    "track_id": 3090851,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/e/a/6/0/c/6ea60ccf65717f34bc8094e4f2facfcb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/a/6/0/c/6ea60ccf65717f34bc8094e4f2facfcb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 481 (16 March 2024)",
+    "display_title": "circle. 481 (16 March 2024)",
+    "track": "Pete Bidwell - circle. 481 (16 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710608400,
+    "type": "track",
+    "track_id": 3090852,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/c/e/b/a/0/1ceba086ef270b5010bc3879ebb11377.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/e/b/a/0/1ceba086ef270b5010bc3879ebb11377.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 481 Guest Mix (16 March 2024)",
+    "display_title": "circle. 481 Guest Mix (16 March 2024)",
+    "track": "Pete Bidwell - circle. 481 Guest Mix (16 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710612000,
+    "type": "track",
+    "track_id": 3090853,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/7/a/9/9/7/27a997d5ae200da2144f01ed718cffa2.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/a/9/9/7/27a997d5ae200da2144f01ed718cffa2.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 206 (16 March 2024)",
+    "display_title": "Exploration 206 (16 March 2024)",
+    "track": "Gitman - Exploration 206 (16 March 2024)",
+    "length": 3041,
+    "duration": 3041,
+    "started": 1710615600,
+    "type": "track",
+    "track_id": 3090846,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/2/0/9/1/e920911b8e0478a1515db1604b03667d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/2/0/9/1/e920911b8e0478a1515db1604b03667d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Latex Zebra",
+    "display_artist": "Latex Zebra",
+    "title": "Resonate Together 174 (16 March 2024) Part 1",
+    "display_title": "Resonate Together 174 (16 March 2024) Part 1",
+    "track": "Latex Zebra - Resonate Together 174 (16 March 2024) Part 1",
+    "length": 3585,
+    "duration": 3585,
+    "started": 1710619200,
+    "type": "track",
+    "track_id": 3090845,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Enertia-Sound",
+    "display_artist": "Enertia-Sound",
+    "title": "Resonate Together 174 (16 March 2024) Part 2",
+    "display_title": "Resonate Together 174 (16 March 2024) Part 2",
+    "track": "Enertia-Sound - Resonate Together 174 (16 March 2024) Part 2",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710622800,
+    "type": "track",
+    "track_id": 3090843,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ed Case",
+    "display_artist": "Ed Case",
+    "title": "Resonate Together 174 (16 March 2024) Part 3",
+    "display_title": "Resonate Together 174 (16 March 2024) Part 3",
+    "track": "Ed Case - Resonate Together 174 (16 March 2024) Part 3",
+    "length": 3561,
+    "duration": 3561,
+    "started": 1710626400,
+    "type": "track",
+    "track_id": 3090842,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Hugo McCann",
+    "display_artist": "Hugo McCann",
+    "title": "Resonate Together 171 (24 February 2024) Part 3",
+    "display_title": "Resonate Together 171 (24 February 2024) Part 3",
+    "track": "Hugo McCann - Resonate Together 171 (24 February 2024) Part 3",
+    "length": 3588,
+    "duration": 3588,
+    "started": 1710670735,
+    "type": "track",
+    "track_id": 3089183,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 049 (03 February 2024)",
+    "display_title": "Sekora Radio 049 (03 February 2024)",
+    "track": "UOAK - Sekora Radio 049 (03 February 2024)",
+    "length": 3642,
+    "duration": 3642,
+    "started": 1710674323,
+    "type": "track",
+    "track_id": 3087949,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/e/b/f/1/98ebf10ab102415d43e0593ac2510a4e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/e/b/f/1/98ebf10ab102415d43e0593ac2510a4e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "John Grammatis",
+    "display_artist": "John Grammatis",
+    "title": "Insights #243 (28 February 2024) Part 2",
+    "display_title": "Insights #243 (28 February 2024) Part 2",
+    "track": "John Grammatis - Insights #243 (28 February 2024) Part 2",
+    "length": 3589,
+    "duration": 3589,
+    "started": 1710681518,
+    "type": "track",
+    "track_id": 3089197,
+    "release": "Insights Radio Show",
+    "art_url": "//cdn-images.audioaddict.com/9/a/b/6/b/3/9ab6b30fb98311c9165ddbc0274af9bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/b/6/b/3/9ab6b30fb98311c9165ddbc0274af9bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "House Club Set",
+    "display_artist": "House Club Set",
+    "title": "Jango Music Radio Show 077 (20 February 2024)",
+    "display_title": "Jango Music Radio Show 077 (20 February 2024)",
+    "track": "House Club Set - Jango Music Radio Show 077 (20 February 2024)",
+    "length": 3618,
+    "duration": 3618,
+    "started": 1710746182,
+    "type": "track",
+    "track_id": 3088935,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 643 (18 March 2024)",
+    "display_title": "Addictive Sounds Podcast 643 (18 March 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 643 (18 March 2024)",
+    "length": 10798,
+    "duration": 10798,
+    "started": 1710770400,
+    "type": "track",
+    "track_id": 3091063,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/7/3/e/4/8673e43fca9d7376be9f4b159021318c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/7/3/e/4/8673e43fca9d7376be9f4b159021318c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Enlusion",
+    "display_artist": "Enlusion",
+    "title": "Forescape Radio 050 (18 March 2024)",
+    "display_title": "Forescape Radio 050 (18 March 2024)",
+    "track": "Enlusion - Forescape Radio 050 (18 March 2024)",
+    "length": 3455,
+    "duration": 3455,
+    "started": 1710781200,
+    "type": "track",
+    "track_id": 3091086,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Camila Fialho",
+    "display_artist": "Camila Fialho",
+    "title": "LTU Podcast Week 62 (2024)",
+    "display_title": "LTU Podcast Week 62 (2024)",
+    "track": "Camila Fialho - LTU Podcast Week 62 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710784800,
+    "type": "track",
+    "track_id": 3090774,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/7/1/7/f/f/b/717ffb574368d9c3c21444d30451288a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/7/f/f/b/717ffb574368d9c3c21444d30451288a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 477 Guest Mix (17 February 2024)",
+    "display_title": "circle. 477 Guest Mix (17 February 2024)",
+    "track": "Pete Bidwell - circle. 477 Guest Mix (17 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710803871,
+    "type": "track",
+    "track_id": 3088838,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/5/d/7/3/6/e5d7363f4336ff480fede48674209ea8.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/d/7/3/6/e5d7363f4336ff480fede48674209ea8.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 034 (19 March 2024)",
+    "display_title": "Made Of Sun 034 (19 March 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 034 (19 March 2024)",
+    "length": 7197,
+    "duration": 7197,
+    "started": 1710856800,
+    "type": "track",
+    "track_id": 3091089,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 358 (19 March 2024)",
+    "display_title": "Radio Wonderland 358 (19 March 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 358 (19 March 2024)",
+    "length": 3462,
+    "duration": 3462,
+    "started": 1710864000,
+    "type": "track",
+    "track_id": 3091102,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 478 Guest Mix (24 February 2024)",
+    "display_title": "circle. 478 Guest Mix (24 February 2024)",
+    "track": "Pete Bidwell - circle. 478 Guest Mix (24 February 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1710874148,
+    "type": "track",
+    "track_id": 3089264,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/9/4/9/7/c/79497cc1e8306718059dcd255216105b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/4/9/7/c/79497cc1e8306718059dcd255216105b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "James de Torres",
+    "display_artist": "James de Torres",
+    "title": "Lunar Sessions 112 (19 March 2024)",
+    "display_title": "Lunar Sessions 112 (19 March 2024)",
+    "track": "James de Torres - Lunar Sessions 112 (19 March 2024)",
+    "length": 7236,
+    "duration": 7236,
+    "started": 1710874800,
+    "type": "track",
+    "track_id": 3091081,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/f/1/1/8/1/af11810fb357fe0bfce9afe1d06393d2.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/1/1/8/1/af11810fb357fe0bfce9afe1d06393d2.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 097 (19 March 2024)",
+    "display_title": "Evolved 097 (19 March 2024)",
+    "track": "Evolving Suns Audio - Evolved 097 (19 March 2024)",
+    "length": 7153,
+    "duration": 7153,
+    "started": 1710885600,
+    "type": "track",
+    "track_id": 3091083,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "LuNa & null.",
+    "display_artist": "LuNa & null.",
+    "title": "Elysion 011 (20 March 2024)",
+    "display_title": "Elysion 011 (20 March 2024)",
+    "track": "LuNa & null. - Elysion 011 (20 March 2024)",
+    "length": 7149,
+    "duration": 7149,
+    "started": 1710939600,
+    "type": "track",
+    "track_id": 3090805,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/9/5/2/e/f/b952efbec744b9fbd33329a58265f002.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/5/2/e/f/b952efbec744b9fbd33329a58265f002.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Colonial One",
+    "display_artist": "Colonial One",
+    "title": "Supernova Sessions 048 (21 March 2024)",
+    "display_title": "Supernova Sessions 048 (21 March 2024)",
+    "track": "Colonial One - Supernova Sessions 048 (21 March 2024)",
+    "length": 3530,
+    "duration": 3530,
+    "started": 1711036800,
+    "type": "track",
+    "track_id": 3090841,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Bombossa Borthers",
+    "display_artist": "Bombossa Borthers",
+    "title": "Runemark 002 (21 March 2024)",
+    "display_title": "Runemark 002 (21 March 2024)",
+    "track": "Bombossa Borthers - Runemark 002 (21 March 2024)",
+    "length": 3669,
+    "duration": 3669,
+    "started": 1711047600,
+    "type": "track",
+    "track_id": 3091310,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/6/5/6/7/5/3656758b64f54a74305743ad293cdbe6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/5/6/7/5/3656758b64f54a74305743ad293cdbe6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 644 (22 March 2024)",
+    "display_title": "Addictive Sounds Podcast 644 (22 March 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 644 (22 March 2024)",
+    "length": 10798,
+    "duration": 10798,
+    "started": 1711116000,
+    "type": "track",
+    "track_id": 3091482,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/a/4/6/5/5/5a4655a591243615ed9897bea280d35a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/a/4/6/5/5/5a4655a591243615ed9897bea280d35a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Tioan",
+    "display_artist": "Tioan",
+    "title": "Lab:oratory 065 (22 March 2024)",
+    "display_title": "Lab:oratory 065 (22 March 2024)",
+    "track": "Tioan - Lab:oratory 065 (22 March 2024)",
+    "length": 3353,
+    "duration": 3353,
+    "started": 1711126800,
+    "type": "track",
+    "track_id": 3090850,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/2/6/2/8/6c262856947fe6e0f269bac9fb6e396f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/2/6/2/8/6c262856947fe6e0f269bac9fb6e396f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 056 (23 March 2024)",
+    "display_title": "Sekora Radio 056 (23 March 2024)",
+    "track": "UOAK - Sekora Radio 056 (23 March 2024)",
+    "length": 3561,
+    "duration": 3561,
+    "started": 1711209600,
+    "type": "track",
+    "track_id": 3091563,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/1/6/6/0/2/216602279f66eccc948cd8a14431f524.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/6/6/0/2/216602279f66eccc948cd8a14431f524.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 482 (23 March 2024)",
+    "display_title": "circle. 482 (23 March 2024)",
+    "track": "Pete Bidwell - circle. 482 (23 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711213200,
+    "type": "track",
+    "track_id": 3091493,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/6/2/b/4/b/b62b4bbc55511e7a28e17d20f59bb425.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/2/b/4/b/b62b4bbc55511e7a28e17d20f59bb425.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 482 Guest Mix (23 March 2024)",
+    "display_title": "circle. 482 Guest Mix (23 March 2024)",
+    "track": "Pete Bidwell - circle. 482 Guest Mix (23 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711216800,
+    "type": "track",
+    "track_id": 3091494,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/0/6/6/1/3/c06613b948bdf934e4f9b25fafb14368.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/6/6/1/3/c06613b948bdf934e4f9b25fafb14368.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 207 (23 March 2024)",
+    "display_title": "Exploration 207 (23 March 2024)",
+    "track": "Gitman - Exploration 207 (23 March 2024)",
+    "length": 3497,
+    "duration": 3497,
+    "started": 1711220400,
+    "type": "track",
+    "track_id": 3091486,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/e/4/8/c/f/6e48cfe043326a5cb37960082511a02f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/4/8/c/f/6e48cfe043326a5cb37960082511a02f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Murklin",
+    "display_artist": "Murklin",
+    "title": "Resonate Together 175 (23 March 2024) Part 1",
+    "display_title": "Resonate Together 175 (23 March 2024) Part 1",
+    "track": "Murklin - Resonate Together 175 (23 March 2024) Part 1",
+    "length": 3604,
+    "duration": 3604,
+    "started": 1711224000,
+    "type": "track",
+    "track_id": 3091559,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ajit Sarathi",
+    "display_artist": "Ajit Sarathi",
+    "title": "Resonate Together 175 (23 March 2024) Part 2",
+    "display_title": "Resonate Together 175 (23 March 2024) Part 2",
+    "track": "Ajit Sarathi - Resonate Together 175 (23 March 2024) Part 2",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711227600,
+    "type": "track",
+    "track_id": 3091554,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Hugo McCann",
+    "display_artist": "Hugo McCann",
+    "title": "Resonate Together 175 (23 March 2024) Part 3",
+    "display_title": "Resonate Together 175 (23 March 2024) Part 3",
+    "track": "Hugo McCann - Resonate Together 175 (23 March 2024) Part 3",
+    "length": 3705,
+    "duration": 3705,
+    "started": 1711231200,
+    "type": "track",
+    "track_id": 3091557,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Valera",
+    "display_artist": "Valera",
+    "title": "TRIANON 062 (24 March 2024)",
+    "display_title": "TRIANON 062 (24 March 2024)",
+    "track": "Valera - TRIANON 062 (24 March 2024)",
+    "length": 3369,
+    "duration": 3369,
+    "started": 1711299600,
+    "type": "track",
+    "track_id": 3091597,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/2/a/4/f/2/f2a4f2c670ce279f7eb99f8ab4bae348.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/2/a/4/f/2/f2a4f2c670ce279f7eb99f8ab4bae348.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 645 (25 March 2024)",
+    "display_title": "Addictive Sounds Podcast 645 (25 March 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 645 (25 March 2024)",
+    "length": 10787,
+    "duration": 10787,
+    "started": 1711375200,
+    "type": "track",
+    "track_id": 3091605,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/a/c/0/a/d/8ac0adbb27dab6c6605ccc1a055a5723.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/c/0/a/d/8ac0adbb27dab6c6605ccc1a055a5723.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Melissa Dust",
+    "display_artist": "Melissa Dust",
+    "title": "LTU Podcast Week 63 (2024)",
+    "display_title": "LTU Podcast Week 63 (2024)",
+    "track": "Melissa Dust - LTU Podcast Week 63 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711389600,
+    "type": "track",
+    "track_id": 3091459,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/d/c/3/8/c/8/dc38c83a4da53b0ec579aa4ccd8318bb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/3/8/c/8/dc38c83a4da53b0ec579aa4ccd8318bb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 035 (26 March 2024)",
+    "display_title": "Made Of Sun 035 (26 March 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 035 (26 March 2024)",
+    "length": 7198,
+    "duration": 7198,
+    "started": 1711461600,
+    "type": "track",
+    "track_id": 3091663,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 359 (26 March 2024)",
+    "display_title": "Radio Wonderland 359 (26 March 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 359 (26 March 2024)",
+    "length": 3533,
+    "duration": 3533,
+    "started": 1711468800,
+    "type": "track",
+    "track_id": 3091675,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "House Club Set",
+    "display_artist": "House Club Set",
+    "title": "Jango Music Radio Show 082 (26 March 2024)",
+    "display_title": "Jango Music Radio Show 082 (26 March 2024)",
+    "track": "House Club Set - Jango Music Radio Show 082 (26 March 2024)",
+    "length": 3575,
+    "duration": 3575,
+    "started": 1711486800,
+    "type": "track",
+    "track_id": 3091680,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 098 (26 March 2024)",
+    "display_title": "Evolved 098 (26 March 2024)",
+    "track": "Evolving Suns Audio - Evolved 098 (26 March 2024)",
+    "length": 7157,
+    "duration": 7157,
+    "started": 1711490397,
+    "type": "track",
+    "track_id": 3091628,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Anna Lee",
+    "display_artist": "Anna Lee",
+    "title": "ClubStyles 202 (27 March 2024)",
+    "display_title": "ClubStyles 202 (27 March 2024)",
+    "track": "Anna Lee - ClubStyles 202 (27 March 2024)",
+    "length": 7177,
+    "duration": 7177,
+    "started": 1711558800,
+    "type": "track",
+    "track_id": 3091760,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/2/0/9/7/8/3209782cfb714e047e41503930c0b66e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/0/9/7/8/3209782cfb714e047e41503930c0b66e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Justin Dahl",
+    "display_artist": "Justin Dahl",
+    "title": "Insights #244 (27 March 2024) Part 1",
+    "display_title": "Insights #244 (27 March 2024) Part 1",
+    "track": "Justin Dahl - Insights #244 (27 March 2024) Part 1",
+    "length": 3626,
+    "duration": 3626,
+    "started": 1711569600,
+    "type": "track",
+    "track_id": 3091672,
+    "release": "Insights",
+    "art_url": "//cdn-images.audioaddict.com/2/d/6/3/5/1/2d63519005be1aaa9d8169eba460091b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/6/3/5/1/2d63519005be1aaa9d8169eba460091b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "KNOXZ9",
+    "display_artist": "KNOXZ9",
+    "title": "Insights #244 (27 March 2024) Part 2",
+    "display_title": "Insights #244 (27 March 2024) Part 2",
+    "track": "KNOXZ9 - Insights #244 (27 March 2024) Part 2",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711573200,
+    "type": "track",
+    "track_id": 3091673,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/5/7/9/1/b/45791bb4d378ab96f8389e71097ac415.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/7/9/1/b/45791bb4d378ab96f8389e71097ac415.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "VØA",
+    "display_artist": "VØA",
+    "title": "Chronicles Commends 131 (27 March 2024)",
+    "display_title": "Chronicles Commends 131 (27 March 2024)",
+    "track": "VØA - Chronicles Commends 131 (27 March 2024)",
+    "length": 3889,
+    "duration": 3889,
+    "started": 1711576800,
+    "type": "track",
+    "track_id": 3091754,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/9/3/d/5/5/393d5574fbb0b2fb5ef0f7c65db597db.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/3/d/5/5/393d5574fbb0b2fb5ef0f7c65db597db.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Colonial One",
+    "display_artist": "Colonial One",
+    "title": "Supernova Sessions 049 (28 March 2024)",
+    "display_title": "Supernova Sessions 049 (28 March 2024)",
+    "track": "Colonial One - Supernova Sessions 049 (28 March 2024)",
+    "length": 3530,
+    "duration": 3530,
+    "started": 1711641600,
+    "type": "track",
+    "track_id": 3091292,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "kaFka",
+    "display_artist": "kaFka",
+    "title": "Isodope 012 (28 March 2024)",
+    "display_title": "Isodope 012 (28 March 2024)",
+    "track": "kaFka - Isodope 012 (28 March 2024)",
+    "length": 3622,
+    "duration": 3622,
+    "started": 1711645200,
+    "type": "track",
+    "track_id": 3091085,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/c/9/b/a/8/bc9ba83d57221e7e16cb3461a8c7e7aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/9/b/a/8/bc9ba83d57221e7e16cb3461a8c7e7aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Slap It Records",
+    "display_artist": "Slap It Records",
+    "title": "Slap It Sessions 035 (28 March 2024)",
+    "display_title": "Slap It Sessions 035 (28 March 2024)",
+    "track": "Slap It Records - Slap It Sessions 035 (28 March 2024)",
+    "length": 3553,
+    "duration": 3553,
+    "started": 1711652400,
+    "type": "track",
+    "track_id": 3091087,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/6/2/8/9/f/a6289fbaea2cd6d95f4c969d3e0c49c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/2/8/9/f/a6289fbaea2cd6d95f4c969d3e0c49c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Maceo Plex",
+    "display_artist": "Maceo Plex",
+    "title": "Ellum Radio 045 (28 March 2024)",
+    "display_title": "Ellum Radio 045 (28 March 2024)",
+    "track": "Maceo Plex - Ellum Radio 045 (28 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711656000,
+    "type": "track",
+    "track_id": 3091827,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/5/d/3/6/865d363d3f6344e0946c3c8b1dea4d56.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/5/d/3/6/865d363d3f6344e0946c3c8b1dea4d56.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "South Bloom",
+    "display_artist": "South Bloom",
+    "title": "Chronicles Curate Chapter 79 (11 January 2024)",
+    "display_title": "Chronicles Curate Chapter 79 (11 January 2024)",
+    "track": "South Bloom - Chronicles Curate Chapter 79 (11 January 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711659599,
+    "type": "track",
+    "track_id": 3086432,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/4/5/5/4/b/34554bdbda3b7971197622bb6143b312.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/4/5/5/4/b/34554bdbda3b7971197622bb6143b312.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 646 (29 March 2024)",
+    "display_title": "Addictive Sounds Podcast 646 (29 March 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 646 (29 March 2024)",
+    "length": 10791,
+    "duration": 10791,
+    "started": 1711720800,
+    "type": "track",
+    "track_id": 3091867,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/7/0/f/4/9670f40e2ded42d60323a48e41d643a7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/7/0/f/4/9670f40e2ded42d60323a48e41d643a7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 057 (30 March 2024)",
+    "display_title": "Sekora Radio 057 (30 March 2024)",
+    "track": "UOAK - Sekora Radio 057 (30 March 2024)",
+    "length": 3561,
+    "duration": 3561,
+    "started": 1711814400,
+    "type": "track",
+    "track_id": 3091910,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/1/6/6/0/2/216602279f66eccc948cd8a14431f524.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/6/6/0/2/216602279f66eccc948cd8a14431f524.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 483 (30 March 2024)",
+    "display_title": "circle. 483 (30 March 2024)",
+    "track": "Pete Bidwell - circle. 483 (30 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711818000,
+    "type": "track",
+    "track_id": 3091886,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/7/d/6/4/b/d7d64b46bb66663521a0f9b4b95b289b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/d/6/4/b/d7d64b46bb66663521a0f9b4b95b289b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 483 Guest Mix (30 March 2024)",
+    "display_title": "circle. 483 Guest Mix (30 March 2024)",
+    "track": "Pete Bidwell - circle. 483 Guest Mix (30 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711821600,
+    "type": "track",
+    "track_id": 3091887,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/1/2/3/b4112348368a3496c729d672efe41bec.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/1/2/3/b4112348368a3496c729d672efe41bec.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 208 (30 March 2024)",
+    "display_title": "Exploration 208 (30 March 2024)",
+    "track": "Gitman - Exploration 208 (30 March 2024)",
+    "length": 3453,
+    "duration": 3453,
+    "started": 1711825200,
+    "type": "track",
+    "track_id": 3091878,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/0/9/3/4/a/10934a59e7d571d9f83cc0afde84f814.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/9/3/4/a/10934a59e7d571d9f83cc0afde84f814.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Jerry Chiu",
+    "display_artist": "Jerry Chiu",
+    "title": "Resonate Together 176 (30 March 2024) Part 1",
+    "display_title": "Resonate Together 176 (30 March 2024) Part 1",
+    "track": "Jerry Chiu - Resonate Together 176 (30 March 2024) Part 1",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711828800,
+    "type": "track",
+    "track_id": 3091907,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Andy R",
+    "display_artist": "Andy R",
+    "title": "Resonate Together 176 (30 March 2024) Part 2",
+    "display_title": "Resonate Together 176 (30 March 2024) Part 2",
+    "track": "Andy R - Resonate Together 176 (30 March 2024) Part 2",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711832400,
+    "type": "track",
+    "track_id": 3091904,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Andy Skinner",
+    "display_artist": "Andy Skinner",
+    "title": "Resonate Together 176 (30 March 2024) Part 3",
+    "display_title": "Resonate Together 176 (30 March 2024) Part 3",
+    "track": "Andy Skinner - Resonate Together 176 (30 March 2024) Part 3",
+    "length": 3588,
+    "duration": 3588,
+    "started": 1711836000,
+    "type": "track",
+    "track_id": 3091905,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 647 (01 April 2024)",
+    "display_title": "Addictive Sounds Podcast 647 (01 April 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 647 (01 April 2024)",
+    "length": 10798,
+    "duration": 10798,
+    "started": 1711976400,
+    "type": "track",
+    "track_id": 3091989,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/4/5/5/4/1/9455414499badbc5cbe9195bbb313b6c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/5/5/4/1/9455414499badbc5cbe9195bbb313b6c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "XA3MAT Mike",
+    "display_artist": "XA3MAT Mike",
+    "title": "LTU Podcast Week 64 (2024)",
+    "display_title": "LTU Podcast Week 64 (2024)",
+    "track": "XA3MAT Mike - LTU Podcast Week 64 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1711990800,
+    "type": "track",
+    "track_id": 3091763,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/4/f/2/1/9/14f219ec922cbd25a04f6531ef8c506c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/f/2/1/9/14f219ec922cbd25a04f6531ef8c506c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Physical Phase",
+    "display_artist": "Physical Phase",
+    "title": "Progressive Vibes 128 (01 April 2024)",
+    "display_title": "Progressive Vibes 128 (01 April 2024)",
+    "track": "Physical Phase - Progressive Vibes 128 (01 April 2024)",
+    "length": 7215,
+    "duration": 7215,
+    "started": 1711994400,
+    "type": "track",
+    "track_id": 3092030,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/f/b/9/9/cefb99bacc58ff0577bc094d3a80d103.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/f/b/9/9/cefb99bacc58ff0577bc094d3a80d103.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 036 (02 April 2024)",
+    "display_title": "Made Of Sun 036 (02 April 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 036 (02 April 2024)",
+    "length": 7181,
+    "duration": 7181,
+    "started": 1712062800,
+    "type": "track",
+    "track_id": 3092041,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 360 (02 April 2024)",
+    "display_title": "Radio Wonderland 360 (02 April 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 360 (02 April 2024)",
+    "length": 3644,
+    "duration": 3644,
+    "started": 1712070000,
+    "type": "track",
+    "track_id": 3092056,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Taylor Franklyn",
+    "display_artist": "Taylor Franklyn",
+    "title": "Deeplife Presents 120 (03 April 2024) guest MicFreak",
+    "display_title": "Deeplife Presents 120 (03 April 2024) guest MicFreak",
+    "track": "Taylor Franklyn - Deeplife Presents 120 (03 April 2024) guest MicFreak",
+    "length": 3614,
+    "duration": 3614,
+    "started": 1712167200,
+    "type": "track",
+    "track_id": 3092057,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/1/9/0/5/f11905e43e868f4e9e7dffe9918d1457.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/1/9/0/5/f11905e43e868f4e9e7dffe9918d1457.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Blugazer",
+    "display_artist": "Blugazer",
+    "title": "Illusionary Images 148 (04 April 2024)",
+    "display_title": "Illusionary Images 148 (04 April 2024)",
+    "track": "Blugazer - Illusionary Images 148 (04 April 2024)",
+    "length": 6991,
+    "duration": 6991,
+    "started": 1712246401,
+    "type": "track",
+    "track_id": 3092261,
+    "release": "Illusionary Images",
+    "art_url": "//cdn-images.audioaddict.com/a/b/c/b/7/6/abcb76aab5fa1967482a5af246b805de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/c/b/7/6/abcb76aab5fa1967482a5af246b805de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ten Walls",
+    "display_artist": "Ten Walls",
+    "title": "Runemark 003 (04 April 2024)",
+    "display_title": "Runemark 003 (04 April 2024)",
+    "track": "Ten Walls - Runemark 003 (04 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1712253600,
+    "type": "track",
+    "track_id": 3092289,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/b/a/d/5/a/fbad5ad802411b1c1b39fc8ff6b2be21.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/b/a/d/5/a/fbad5ad802411b1c1b39fc8ff6b2be21.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 648 (05 April 2024)",
+    "display_title": "Addictive Sounds Podcast 648 (05 April 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 648 (05 April 2024)",
+    "length": 10798,
+    "duration": 10798,
+    "started": 1712322000,
+    "type": "track",
+    "track_id": 3092374,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/6/c/4/f/0/e6c4f08d1857efa3d9f4ba8e3ef85b88.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/c/4/f/0/e6c4f08d1857efa3d9f4ba8e3ef85b88.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Andy Wild",
+    "display_artist": "Andy Wild",
+    "title": "Sensitive Music 014 (01 March 2024)",
+    "display_title": "Sensitive Music 014 (01 March 2024)",
+    "track": "Andy Wild - Sensitive Music 014 (01 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1712340000,
+    "type": "track",
+    "track_id": 3089511,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/1/8/6/0/7/c1860765de379d40bc6876b707266a2b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/1/8/6/0/7/c1860765de379d40bc6876b707266a2b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gabriel Slick",
+    "display_artist": "Gabriel Slick",
+    "title": "Crossworlder Podcast 117 (April 2024) guest Briel Hollm",
+    "display_title": "Crossworlder Podcast 117 (April 2024) guest Briel Hollm",
+    "track": "Gabriel Slick - Crossworlder Podcast 117 (April 2024) guest Briel Hollm",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1712347200,
+    "type": "track",
+    "track_id": 3092395,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/d/e/9/f/a/0de9fa951d559b5f91f4f81631869c13.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/e/9/f/a/0de9fa951d559b5f91f4f81631869c13.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 058 (06 April 2024)",
+    "display_title": "Sekora Radio 058 (06 April 2024)",
+    "track": "UOAK - Sekora Radio 058 (06 April 2024)",
+    "length": 3481,
+    "duration": 3481,
+    "started": 1712415600,
+    "type": "track",
+    "track_id": 3092457,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/d/9/0/a/1/bd90a115683b44ed0b82de1c7d814a5a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/9/0/a/1/bd90a115683b44ed0b82de1c7d814a5a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 484 (06 April 2024)",
+    "display_title": "circle. 484 (06 April 2024)",
+    "track": "Pete Bidwell - circle. 484 (06 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1712419200,
+    "type": "track",
+    "track_id": 3092406,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/8/f/a/0/f18fa0632df0c7008d53596100b9c347.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/8/f/a/0/f18fa0632df0c7008d53596100b9c347.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 484 Guest Mix (06 April 2024)",
+    "display_title": "circle. 484 Guest Mix (06 April 2024)",
+    "track": "Pete Bidwell - circle. 484 Guest Mix (06 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1712422800,
+    "type": "track",
+    "track_id": 3092407,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/3/d/3/9e43d3aadf2c4fb1541d290449e79b03.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/3/d/3/9e43d3aadf2c4fb1541d290449e79b03.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 209 (06 April 2024)",
+    "display_title": "Exploration 209 (06 April 2024)",
+    "track": "Gitman - Exploration 209 (06 April 2024)",
+    "length": 3545,
+    "duration": 3545,
+    "started": 1712426401,
+    "type": "track",
+    "track_id": 3092397,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/c/7/c/e/1/ac7ce145dc44270bbc582d1c7239d875.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/7/c/e/1/ac7ce145dc44270bbc582d1c7239d875.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Marcus Nilla",
+    "display_artist": "Marcus Nilla",
+    "title": "Resonate Together 177 (06 April 2024) Part 1",
+    "display_title": "Resonate Together 177 (06 April 2024) Part 1",
+    "track": "Marcus Nilla - Resonate Together 177 (06 April 2024) Part 1",
+    "length": 3612,
+    "duration": 3612,
+    "started": 1712429996,
+    "type": "track",
+    "track_id": 3092453,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Miki Mad",
+    "display_artist": "Miki Mad",
+    "title": "Resonate Together 177 (06 April 2024) Part 2",
+    "display_title": "Resonate Together 177 (06 April 2024) Part 2",
+    "track": "Miki Mad - Resonate Together 177 (06 April 2024) Part 2",
+    "length": 3578,
+    "duration": 3578,
+    "started": 1712433600,
+    "type": "track",
+    "track_id": 3092454,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ed Case",
+    "display_artist": "Ed Case",
+    "title": "Resonate Together 177 (06 April 2024) Part 3",
+    "display_title": "Resonate Together 177 (06 April 2024) Part 3",
+    "track": "Ed Case - Resonate Together 177 (06 April 2024) Part 3",
+    "length": 3561,
+    "duration": 3561,
+    "started": 1712437197,
+    "type": "track",
+    "track_id": 3092452,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 649 (08 April 2024)",
+    "display_title": "Addictive Sounds Podcast 649 (08 April 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 649 (08 April 2024)",
+    "length": 10798,
+    "duration": 10798,
+    "started": 1712581200,
+    "type": "track",
+    "track_id": 3092545,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/3/7/4/7/7/c37477158076ab6cf6b01cbad4494837.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/7/4/7/7/c37477158076ab6cf6b01cbad4494837.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "We Are Neurotic",
+    "display_artist": "We Are Neurotic",
+    "title": "LTU Podcast Week 65 (2024)",
+    "display_title": "LTU Podcast Week 65 (2024)",
+    "track": "We Are Neurotic - LTU Podcast Week 65 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1712595600,
+    "type": "track",
+    "track_id": 3092120,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/0/4/2/5/5/e/04255e627290fce91f11f3749e21001c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/2/5/5/e/04255e627290fce91f11f3749e21001c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 037 (09 April 2024)",
+    "display_title": "Made Of Sun 037 (09 April 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 037 (09 April 2024)",
+    "length": 7198,
+    "duration": 7198,
+    "started": 1712667600,
+    "type": "track",
+    "track_id": 3092784,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 361 (09 April 2024)",
+    "display_title": "Radio Wonderland 361 (09 April 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 361 (09 April 2024)",
+    "length": 3634,
+    "duration": 3634,
+    "started": 1712674800,
+    "type": "track",
+    "track_id": 3092765,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alinep",
+    "display_artist": "Alinep",
+    "title": "Deepsomnia (09 April 2024)",
+    "display_title": "Deepsomnia (09 April 2024)",
+    "track": "Alinep - Deepsomnia (09 April 2024)",
+    "length": 7440,
+    "duration": 7440,
+    "started": 1712678400,
+    "type": "track",
+    "track_id": 3092547,
+    "release": null,
+    "art_url": null,
+    "images": {}
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "House Club Set",
+    "display_artist": "House Club Set",
+    "title": "Jango Music Radio Show 084 (09 April 2024)",
+    "display_title": "Jango Music Radio Show 084 (09 April 2024)",
+    "track": "House Club Set - Jango Music Radio Show 084 (09 April 2024)",
+    "length": 3611,
+    "duration": 3611,
+    "started": 1712692800,
+    "type": "track",
+    "track_id": 3092787,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 100 (09 April 2024)",
+    "display_title": "Evolved 100 (09 April 2024)",
+    "track": "Evolving Suns Audio - Evolved 100 (09 April 2024)",
+    "length": 7196,
+    "duration": 7196,
+    "started": 1712696400,
+    "type": "track",
+    "track_id": 3092563,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Kris O'Neil",
+    "display_artist": "Kris O'Neil",
+    "title": "Somewhat Classy, Somewhat Trashy 263 (10 April 2024)",
+    "display_title": "Somewhat Classy, Somewhat Trashy 263 (10 April 2024)",
+    "track": "Kris O'Neil - Somewhat Classy, Somewhat Trashy 263 (10 April 2024)",
+    "length": 3548,
+    "duration": 3548,
+    "started": 1712761200,
+    "type": "track",
+    "track_id": 3092923,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/e/8/a/4/4/6e8a4420595f0b689498d920f248077a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/8/a/4/4/6e8a4420595f0b689498d920f248077a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "T.F.F. & Tomak",
+    "display_artist": "T.F.F. & Tomak",
+    "title": "Antima Music Podcast 020 (10 April 2024) Lexenn Guestmix",
+    "display_title": "Antima Music Podcast 020 (10 April 2024) Lexenn Guestmix",
+    "track": "T.F.F. & Tomak - Antima Music Podcast 020 (10 April 2024) Lexenn Guestmix",
+    "length": 7220,
+    "duration": 7220,
+    "started": 1712772000,
+    "type": "track",
+    "track_id": 3092549,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/7/0/4/a/9b704ad2c4ffd8893053ea44f133959d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/7/0/4/a/9b704ad2c4ffd8893053ea44f133959d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Matteo Calise",
+    "display_artist": "Matteo Calise",
+    "title": "Chronicles Commends 132 (10 April 2024)",
+    "display_title": "Chronicles Commends 132 (10 April 2024)",
+    "track": "Matteo Calise - Chronicles Commends 132 (10 April 2024)",
+    "length": 3596,
+    "duration": 3596,
+    "started": 1712782800,
+    "type": "track",
+    "track_id": 3092924,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/6/f/1/a/a/16f1aa1c49184f4fc28c59407688aaab.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/f/1/a/a/16f1aa1c49184f4fc28c59407688aaab.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Slap It Records",
+    "display_artist": "Slap It Records",
+    "title": "Slap It Sessions 036 (11 April 2024)",
+    "display_title": "Slap It Sessions 036 (11 April 2024)",
+    "track": "Slap It Records - Slap It Sessions 036 (11 April 2024)",
+    "length": 3646,
+    "duration": 3646,
+    "started": 1712858400,
+    "type": "track",
+    "track_id": 3092933,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/6/2/8/9/f/a6289fbaea2cd6d95f4c969d3e0c49c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/2/8/9/f/a6289fbaea2cd6d95f4c969d3e0c49c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Innrsky",
+    "display_artist": "Innrsky",
+    "title": "Innrsky Radio Episode 043 (14 March 2024)",
+    "display_title": "Innrsky Radio Episode 043 (14 March 2024)",
+    "track": "Innrsky - Innrsky Radio Episode 043 (14 March 2024)",
+    "length": 3602,
+    "duration": 3602,
+    "started": 1712862000,
+    "type": "track",
+    "track_id": 3090772,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/d/8/5/1/2/bd85127bbe7dd77c28ec9b3356502dd7.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/8/5/1/2/bd85127bbe7dd77c28ec9b3356502dd7.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Emotional Tourist",
+    "display_artist": "Emotional Tourist",
+    "title": "Chronicles Curate Chapter 82 (11 April 2024)",
+    "display_title": "Chronicles Curate Chapter 82 (11 April 2024)",
+    "track": "Emotional Tourist - Chronicles Curate Chapter 82 (11 April 2024)",
+    "length": 3503,
+    "duration": 3503,
+    "started": 1712865600,
+    "type": "track",
+    "track_id": 3092962,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/8/b/a/e/c/c8baec0fc23c0d1d5c5c62c319bd5774.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/b/a/e/c/c8baec0fc23c0d1d5c5c62c319bd5774.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 650 (12 April 2024)",
+    "display_title": "Addictive Sounds Podcast 650 (12 April 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 650 (12 April 2024)",
+    "length": 10798,
+    "duration": 10798,
+    "started": 1712926800,
+    "type": "track",
+    "track_id": 3092968,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/d/6/9/5/b/0d695bf1c9ec5e01c5b3e92b95a1593f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/6/9/5/b/0d695bf1c9ec5e01c5b3e92b95a1593f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Armedio & Cosmaks",
+    "display_artist": "Armedio & Cosmaks",
+    "title": "Prizm Radio 043 (12 April 2024) with Pittarius Code",
+    "display_title": "Prizm Radio 043 (12 April 2024) with Pittarius Code",
+    "track": "Armedio & Cosmaks - Prizm Radio 043 (12 April 2024) with Pittarius Code",
+    "length": 7034,
+    "duration": 7034,
+    "started": 1712937600,
+    "type": "track",
+    "track_id": 3092559,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/7/c/d/4/6c7cd49caee3f0c94fdb72a7b121dd2b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/7/c/d/4/6c7cd49caee3f0c94fdb72a7b121dd2b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Four Candles",
+    "display_artist": "Four Candles",
+    "title": "Keep Thinking 077 (12 April 2024)",
+    "display_title": "Keep Thinking 077 (12 April 2024)",
+    "track": "Four Candles - Keep Thinking 077 (12 April 2024)",
+    "length": 3413,
+    "duration": 3413,
+    "started": 1712944801,
+    "type": "track",
+    "track_id": 3092931,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/6/7/7/3/9/b67739d40a54616d367289ae0bb85bcd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/7/7/3/9/b67739d40a54616d367289ae0bb85bcd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alexx Zander",
+    "display_artist": "Alexx Zander",
+    "title": "Rail Road Sessions 096 (12 January 2024)",
+    "display_title": "Rail Road Sessions 096 (12 January 2024)",
+    "track": "Alexx Zander - Rail Road Sessions 096 (12 January 2024)",
+    "length": 7201,
+    "duration": 7201,
+    "started": 1712952000,
+    "type": "track",
+    "track_id": 3086503,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/a/8/9/7/9aa8978bfbad3dc24234d86cf2c1a70c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/a/8/9/7/9aa8978bfbad3dc24234d86cf2c1a70c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 059 (13 April 2024) guest Matt Leger",
+    "display_title": "Sekora Radio 059 (13 April 2024) guest Matt Leger",
+    "track": "UOAK - Sekora Radio 059 (13 April 2024) guest Matt Leger",
+    "length": 3624,
+    "duration": 3624,
+    "started": 1713020400,
+    "type": "track",
+    "track_id": 3093016,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/f/d/3/d68fd3ccf8714992c53461ba2da7a8d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/f/d/3/d68fd3ccf8714992c53461ba2da7a8d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 485 (13 April 2024)",
+    "display_title": "circle. 485 (13 April 2024)",
+    "track": "Pete Bidwell - circle. 485 (13 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713024000,
+    "type": "track",
+    "track_id": 3093017,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/2/5/7/f/98257f75e4d0ca0b0546a9ddb73d765f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/2/5/7/f/98257f75e4d0ca0b0546a9ddb73d765f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 485 Guest Mix (13 April 2024)",
+    "display_title": "circle. 485 Guest Mix (13 April 2024)",
+    "track": "Pete Bidwell - circle. 485 Guest Mix (13 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713027601,
+    "type": "track",
+    "track_id": 3093018,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/b/7/0/b/e/4b70be662dab6c202cfa24b016139459.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/7/0/b/e/4b70be662dab6c202cfa24b016139459.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 210 (13 April 2024)",
+    "display_title": "Exploration 210 (13 April 2024)",
+    "track": "Gitman - Exploration 210 (13 April 2024)",
+    "length": 3519,
+    "duration": 3519,
+    "started": 1713031200,
+    "type": "track",
+    "track_id": 3093011,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/3/5/f/6/9/b35f69bf1275d7d4dfd734be530475bb.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/5/f/6/9/b35f69bf1275d7d4dfd734be530475bb.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Mark Selby",
+    "display_artist": "Mark Selby",
+    "title": "Resonate Together 178 (13 April 2024) Part 1",
+    "display_title": "Resonate Together 178 (13 April 2024) Part 1",
+    "track": "Mark Selby - Resonate Together 178 (13 April 2024) Part 1",
+    "length": 3601,
+    "duration": 3601,
+    "started": 1713034796,
+    "type": "track",
+    "track_id": 3093009,
+    "release": "Unknown Album",
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Matt Black",
+    "display_artist": "Matt Black",
+    "title": "Resonate Together 178 (13 April 2024) Part 2",
+    "display_title": "Resonate Together 178 (13 April 2024) Part 2",
+    "track": "Matt Black - Resonate Together 178 (13 April 2024) Part 2",
+    "length": 3607,
+    "duration": 3607,
+    "started": 1713038400,
+    "type": "track",
+    "track_id": 3093010,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ajit Sarathi",
+    "display_artist": "Ajit Sarathi",
+    "title": "Resonate Together 178 (13 April 2024) Part 3",
+    "display_title": "Resonate Together 178 (13 April 2024) Part 3",
+    "track": "Ajit Sarathi - Resonate Together 178 (13 April 2024) Part 3",
+    "length": 3551,
+    "duration": 3551,
+    "started": 1713042000,
+    "type": "track",
+    "track_id": 3093004,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Roger Silver",
+    "display_artist": "Roger Silver",
+    "title": "Sound Of The New York Underground 050 (April 2024)  ",
+    "display_title": "Sound Of The New York Underground 050 (April 2024)  ",
+    "track": "Roger Silver - Sound Of The New York Underground 050 (April 2024)  ",
+    "length": 3631,
+    "duration": 3631,
+    "started": 1713121200,
+    "type": "track",
+    "track_id": 3093013,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/3/0/b/6/2030b6c476f9b9f207d36f2d0ca9d724.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/3/0/b/6/2030b6c476f9b9f207d36f2d0ca9d724.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 651 (15 April 2024)",
+    "display_title": "Addictive Sounds Podcast 651 (15 April 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 651 (15 April 2024)",
+    "length": 10795,
+    "duration": 10795,
+    "started": 1713186000,
+    "type": "track",
+    "track_id": 3093034,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/9/2/b/0/a/592b0a408a3a82aa3baaaaba52dd53a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/2/b/0/a/592b0a408a3a82aa3baaaaba52dd53a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Enlusion",
+    "display_artist": "Enlusion",
+    "title": "Forescape Radio 052 (15 April 2024)",
+    "display_title": "Forescape Radio 052 (15 April 2024)",
+    "track": "Enlusion - Forescape Radio 052 (15 April 2024)",
+    "length": 3575,
+    "duration": 3575,
+    "started": 1713196800,
+    "type": "track",
+    "track_id": 3093055,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Class'88",
+    "display_artist": "Class'88",
+    "title": "LTU Podcast Week 66 (2024)",
+    "display_title": "LTU Podcast Week 66 (2024)",
+    "track": "Class'88 - LTU Podcast Week 66 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713200400,
+    "type": "track",
+    "track_id": 3092916,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/a/a/5/2/1/e/aa521e60f3d6674d990dd918016461fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/5/2/1/e/aa521e60f3d6674d990dd918016461fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 038 (16 April 2024)",
+    "display_title": "Made Of Sun 038 (16 April 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 038 (16 April 2024)",
+    "length": 7203,
+    "duration": 7203,
+    "started": 1713272400,
+    "type": "track",
+    "track_id": 3093101,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 362 (16 April 2024)",
+    "display_title": "Radio Wonderland 362 (16 April 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 362 (16 April 2024)",
+    "length": 3598,
+    "duration": 3598,
+    "started": 1713279601,
+    "type": "track",
+    "track_id": 3093090,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "James de Torres",
+    "display_artist": "James de Torres",
+    "title": "Lunar Sessions 113 (16 April 2024)",
+    "display_title": "Lunar Sessions 113 (16 April 2024)",
+    "track": "James de Torres - Lunar Sessions 113 (16 April 2024)",
+    "length": 7135,
+    "duration": 7135,
+    "started": 1713290400,
+    "type": "track",
+    "track_id": 3093083,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/f/1/1/8/1/af11810fb357fe0bfce9afe1d06393d2.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/1/1/8/1/af11810fb357fe0bfce9afe1d06393d2.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 053 (02 March 2024)",
+    "display_title": "Sekora Radio 053 (02 March 2024)",
+    "track": "UOAK - Sekora Radio 053 (02 March 2024)",
+    "length": 3625,
+    "duration": 3625,
+    "started": 1713340506,
+    "type": "track",
+    "track_id": 3089562,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/5/5/a/5/1/855a5115b9dd26596959cf741b09bace.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/5/5/a/5/1/855a5115b9dd26596959cf741b09bace.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Andy R",
+    "display_artist": "Andy R",
+    "title": "Resonate Together 172 (02 March 2024) Part 3",
+    "display_title": "Resonate Together 172 (02 March 2024) Part 3",
+    "track": "Andy R - Resonate Together 172 (02 March 2024) Part 3",
+    "length": 3646,
+    "duration": 3646,
+    "started": 1713354851,
+    "type": "track",
+    "track_id": 3089531,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "LuNa & Shimada",
+    "display_artist": "LuNa & Shimada",
+    "title": "Elysion 012 (17 April 2024)",
+    "display_title": "Elysion 012 (17 April 2024)",
+    "track": "LuNa & Shimada - Elysion 012 (17 April 2024)",
+    "length": 7105,
+    "duration": 7105,
+    "started": 1713355200,
+    "type": "track",
+    "track_id": 3093051,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/9/3/a/f/6/993af6677887cb067e70fba362314139.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/3/a/f/6/993af6677887cb067e70fba362314139.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Ruud van den Muijzenberg",
+    "display_artist": "Ruud van den Muijzenberg",
+    "title": "LTU Podcast Week 60 (2024)",
+    "display_title": "LTU Podcast Week 60 (2024)",
+    "track": "Ruud van den Muijzenberg - LTU Podcast Week 60 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713387284,
+    "type": "track",
+    "track_id": 3089619,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/3/9/2/2/a/d/3922adc2e3fa8d99956e88b90c0bee81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/2/2/a/d/3922adc2e3fa8d99956e88b90c0bee81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Hanah",
+    "display_artist": "Hanah",
+    "title": "Chronicles Commends 133 (17 April 2024)",
+    "display_title": "Chronicles Commends 133 (17 April 2024)",
+    "track": "Hanah - Chronicles Commends 133 (17 April 2024)",
+    "length": 4125,
+    "duration": 4125,
+    "started": 1713387600,
+    "type": "track",
+    "track_id": 3093161,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/f/b/a/b/96fbab31f1fbfbd529fc09b877ff5624.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/f/b/a/b/96fbab31f1fbfbd529fc09b877ff5624.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "House Club Set",
+    "display_artist": "House Club Set",
+    "title": "Jango Music Radio Show 079 (05 March 2024)",
+    "display_title": "Jango Music Radio Show 079 (05 March 2024)",
+    "track": "House Club Set - Jango Music Radio Show 079 (05 March 2024)",
+    "length": 3860,
+    "duration": 3860,
+    "started": 1713402191,
+    "type": "track",
+    "track_id": 3089771,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 204 (02 February 2024)",
+    "display_title": "Exploration 204 (02 February 2024)",
+    "track": "Gitman - Exploration 204 (02 February 2024)",
+    "length": 3451,
+    "duration": 3451,
+    "started": 1713406051,
+    "type": "track",
+    "track_id": 3089520,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/b/7/8/8/d/0b788df1092700b007dcba6b55fe1e66.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/7/8/8/d/0b788df1092700b007dcba6b55fe1e66.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Taylor Franklyn",
+    "display_artist": "Taylor Franklyn",
+    "title": "Deeplife Presents 119 (06 March 2024) guest Jason DeRoche",
+    "display_title": "Deeplife Presents 119 (06 March 2024) guest Jason DeRoche",
+    "track": "Taylor Franklyn - Deeplife Presents 119 (06 March 2024) guest Jason DeRoche",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713430951,
+    "type": "track",
+    "track_id": 3089770,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/1/9/0/5/f11905e43e868f4e9e7dffe9918d1457.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/1/9/0/5/f11905e43e868f4e9e7dffe9918d1457.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Jon Merritt",
+    "display_artist": "Jon Merritt",
+    "title": "Resonate Together 172 (02 March 2024) Part 2",
+    "display_title": "Resonate Together 172 (02 March 2024) Part 2",
+    "track": "Jon Merritt - Resonate Together 172 (02 March 2024) Part 2",
+    "length": 3607,
+    "duration": 3607,
+    "started": 1713434548,
+    "type": "track",
+    "track_id": 3089532,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Marcus Nilla",
+    "display_artist": "Marcus Nilla",
+    "title": "Resonate Together 172 (02 March 2024) Part 1",
+    "display_title": "Resonate Together 172 (02 March 2024) Part 1",
+    "track": "Marcus Nilla - Resonate Together 172 (02 March 2024) Part 1",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713445302,
+    "type": "track",
+    "track_id": 3089533,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Colonial One",
+    "display_artist": "Colonial One",
+    "title": "Supernova Sessions 050 (18 April 2024)",
+    "display_title": "Supernova Sessions 050 (18 April 2024)",
+    "track": "Colonial One - Supernova Sessions 050 (18 April 2024)",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1713452400,
+    "type": "track",
+    "track_id": 3093085,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/b/7/8/d/a4b78dbc6af622b36403b4f8edab073b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 033 (12 March 2024)",
+    "display_title": "Made Of Sun 033 (12 March 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 033 (12 March 2024)",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1713456112,
+    "type": "track",
+    "track_id": 3090268,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Masella",
+    "display_artist": "Masella",
+    "title": "Runemark 004 (18 April 2024)",
+    "display_title": "Runemark 004 (18 April 2024)",
+    "track": "Masella - Runemark 004 (18 April 2024)",
+    "length": 3674,
+    "duration": 3674,
+    "started": 1713463200,
+    "type": "track",
+    "track_id": 3093152,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/7/9/c/2/4/079c241b9d4a867f89e381368926528b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/9/c/2/4/079c241b9d4a867f89e381368926528b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 479 (02 March 2024)",
+    "display_title": "circle. 479 (02 March 2024)",
+    "track": "Pete Bidwell - circle. 479 (02 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713498989,
+    "type": "track",
+    "track_id": 3089563,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/1/3/a/f/9613afcded49e1c826d0ae05012be40d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/1/3/a/f/9613afcded49e1c826d0ae05012be40d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gabriel Slick",
+    "display_artist": "Gabriel Slick",
+    "title": "Crossworlder Podcast 116 (March 2024) guest Pascal Billotet",
+    "display_title": "Crossworlder Podcast 116 (March 2024) guest Pascal Billotet",
+    "track": "Gabriel Slick - Crossworlder Podcast 116 (March 2024) guest Pascal Billotet",
+    "length": 7200,
+    "duration": 7200,
+    "started": 1713516936,
+    "type": "track",
+    "track_id": 3089515,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/5/9/8/1/5/359815e9c04e9b0c6781a5bd9f53bc07.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/9/8/1/5/359815e9c04e9b0c6781a5bd9f53bc07.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Dino Lenny",
+    "display_artist": "Dino Lenny",
+    "title": "CORE 038 (05 March 2024) with LP Giobbi Final  ",
+    "display_title": "CORE 038 (05 March 2024) with LP Giobbi Final  ",
+    "track": "Dino Lenny - CORE 038 (05 March 2024) with LP Giobbi Final  ",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713524136,
+    "type": "track",
+    "track_id": 3089761,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/8/6/f/a/c/c86fac12a8e7bb741e4d0177f103e37a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/6/f/a/c/c86fac12a8e7bb741e4d0177f103e37a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 652 (19 April 2024)",
+    "display_title": "Addictive Sounds Podcast 652 (19 April 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 652 (19 April 2024)",
+    "length": 10791,
+    "duration": 10791,
+    "started": 1713531600,
+    "type": "track",
+    "track_id": 3093256,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/a/7/3/c/d/aa73cd37786f1bbb87431e79b3f89ece.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/7/3/c/d/aa73cd37786f1bbb87431e79b3f89ece.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Paul Pearson",
+    "display_artist": "Paul Pearson",
+    "title": "Reflections 009 (April 2024)",
+    "display_title": "Reflections 009 (April 2024)",
+    "track": "Paul Pearson - Reflections 009 (April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713542400,
+    "type": "track",
+    "track_id": 3093260,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/6/f/f/4/4/76ff447b5c81c716049dbbf39658a256.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/f/f/4/4/76ff447b5c81c716049dbbf39658a256.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Frank Urbaniak",
+    "display_artist": "Frank Urbaniak",
+    "title": "Tech Sounds 146 (19 April 2024)",
+    "display_title": "Tech Sounds 146 (19 April 2024)",
+    "track": "Frank Urbaniak - Tech Sounds 146 (19 April 2024)",
+    "length": 3742,
+    "duration": 3742,
+    "started": 1713549600,
+    "type": "track",
+    "track_id": 3093257,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/2/6/4/2/c/e2642c81e73c4b64f7ba50c9560a40dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/6/4/2/c/e2642c81e73c4b64f7ba50c9560a40dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 356 (05 March 2024)",
+    "display_title": "Radio Wonderland 356 (05 March 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 356 (05 March 2024)",
+    "length": 3576,
+    "duration": 3576,
+    "started": 1713594764,
+    "type": "track",
+    "track_id": 3089767,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Sajwar Sohail",
+    "display_artist": "Sajwar Sohail",
+    "title": "Chronicles Commends 130 (28 February 2024)",
+    "display_title": "Chronicles Commends 130 (28 February 2024)",
+    "track": "Sajwar Sohail - Chronicles Commends 130 (28 February 2024)",
+    "length": 3477,
+    "duration": 3477,
+    "started": 1713598340,
+    "type": "track",
+    "track_id": 3089512,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/f/c/0/1/1/bfc011b0e0ce7d6b81a1a376343dfd39.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/f/c/0/1/1/bfc011b0e0ce7d6b81a1a376343dfd39.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "UOAK",
+    "display_artist": "UOAK",
+    "title": "Sekora Radio 060 (20 April 2024)",
+    "display_title": "Sekora Radio 060 (20 April 2024)",
+    "track": "UOAK - Sekora Radio 060 (20 April 2024)",
+    "length": 3441,
+    "duration": 3441,
+    "started": 1713625200,
+    "type": "track",
+    "track_id": 3093329,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/5/8/7/7/8/358778102efe069d7a0490072c89683a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/8/7/7/8/358778102efe069d7a0490072c89683a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 486 (20 April 2024)",
+    "display_title": "circle. 486 (20 April 2024)",
+    "track": "Pete Bidwell - circle. 486 (20 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713628801,
+    "type": "track",
+    "track_id": 3093266,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/6/9/7/3/3/0697333c6351fb91973de52cdd075cd5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/9/7/3/3/0697333c6351fb91973de52cdd075cd5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 486 Guest Mix (20 April 2024)",
+    "display_title": "circle. 486 Guest Mix (20 April 2024)",
+    "track": "Pete Bidwell - circle. 486 Guest Mix (20 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713632400,
+    "type": "track",
+    "track_id": 3093267,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/3/4/1/e/4/6341e46d43a6cbf3037fbe97ec08a9eb.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/3/4/1/e/4/6341e46d43a6cbf3037fbe97ec08a9eb.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Gitman",
+    "display_artist": "Gitman",
+    "title": "Exploration 211 (20 April 2024)",
+    "display_title": "Exploration 211 (20 April 2024)",
+    "track": "Gitman - Exploration 211 (20 April 2024)",
+    "length": 3421,
+    "duration": 3421,
+    "started": 1713636000,
+    "type": "track",
+    "track_id": 3093258,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/5/0/d/3/5/950d352fdf86dd4bb65a4b3e0b3026ca.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/0/d/3/5/950d352fdf86dd4bb65a4b3e0b3026ca.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Jon Merritt",
+    "display_artist": "Jon Merritt",
+    "title": "Resonate Together 179 (20 April 2024) Part 1",
+    "display_title": "Resonate Together 179 (20 April 2024) Part 1",
+    "track": "Jon Merritt - Resonate Together 179 (20 April 2024) Part 1",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1713639600,
+    "type": "track",
+    "track_id": 3093325,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Enertia-Sound",
+    "display_artist": "Enertia-Sound",
+    "title": "Resonate Together 179 (20 April 2024) Part 2",
+    "display_title": "Resonate Together 179 (20 April 2024) Part 2",
+    "track": "Enertia-Sound - Resonate Together 179 (20 April 2024) Part 2",
+    "length": 3599,
+    "duration": 3599,
+    "started": 1713643200,
+    "type": "track",
+    "track_id": 3093323,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "ED-CASE",
+    "display_artist": "ED-CASE",
+    "title": "Resonate Together 179 (20 April 2024) Part 3",
+    "display_title": "Resonate Together 179 (20 April 2024) Part 3",
+    "track": "ED-CASE - Resonate Together 179 (20 April 2024) Part 3",
+    "length": 3595,
+    "duration": 3595,
+    "started": 1713646800,
+    "type": "track",
+    "track_id": 3093322,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/0/f/1/f/7d0f1fae363a9c9403cb426c89ddf462.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Physical Phase",
+    "display_artist": "Physical Phase",
+    "title": "Progressive Vibes 127 (04 March 2024)",
+    "display_title": "Progressive Vibes 127 (04 March 2024)",
+    "track": "Physical Phase - Progressive Vibes 127 (04 March 2024)",
+    "length": 7169,
+    "duration": 7169,
+    "started": 1713651612,
+    "type": "track",
+    "track_id": 3089620,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/f/b/9/9/cefb99bacc58ff0577bc094d3a80d103.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/f/b/9/9/cefb99bacc58ff0577bc094d3a80d103.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Enlusion",
+    "display_artist": "Enlusion",
+    "title": "Forescape Radio 049 (04 March 2024)",
+    "display_title": "Forescape Radio 049 (04 March 2024)",
+    "track": "Enlusion - Forescape Radio 049 (04 March 2024)",
+    "length": 3613,
+    "duration": 3613,
+    "started": 1713673418,
+    "type": "track",
+    "track_id": 3089618,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/a/8/a/9/c4a8a93b9a49ae2189fd2a61b39ec30a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Pete Bidwell",
+    "display_artist": "Pete Bidwell",
+    "title": "circle. 479 Guest Mix (02 March 2024)",
+    "display_title": "circle. 479 Guest Mix (02 March 2024)",
+    "track": "Pete Bidwell - circle. 479 Guest Mix (02 March 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713705677,
+    "type": "track",
+    "track_id": 3089564,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/1/c/d/8/d/c1cd8dab361c4f5be9cb1ca4d4529ea2.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/1/c/d/8/d/c1cd8dab361c4f5be9cb1ca4d4529ea2.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 032 (05 March 2024)",
+    "display_title": "Made Of Sun 032 (05 March 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 032 (05 March 2024)",
+    "length": 7199,
+    "duration": 7199,
+    "started": 1713719957,
+    "type": "track",
+    "track_id": 3089622,
+    "release": "MADE Of SUN - RadioShow",
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Addictive Sounds",
+    "display_artist": "Addictive Sounds",
+    "title": "Addictive Sounds Podcast 653 (22 April 2024)",
+    "display_title": "Addictive Sounds Podcast 653 (22 April 2024)",
+    "track": "Addictive Sounds - Addictive Sounds Podcast 653 (22 April 2024)",
+    "length": 10799,
+    "duration": 10799,
+    "started": 1713790800,
+    "type": "track",
+    "track_id": 3093367,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/d/9/e/6/ced9e641cf1ba39fc080f531204e0abf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/d/9/e/6/ced9e641cf1ba39fc080f531204e0abf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Dor Dekel",
+    "display_artist": "Dor Dekel",
+    "title": "LTU Podcast Week 67 (2024)",
+    "display_title": "LTU Podcast Week 67 (2024)",
+    "track": "Dor Dekel - LTU Podcast Week 67 (2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713805200,
+    "type": "track",
+    "track_id": 3093326,
+    "release": "Like That Underground",
+    "art_url": "//cdn-images.audioaddict.com/7/2/0/9/8/6/720986b87f7a4da26fcc189e5a0e10ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/2/0/9/8/6/720986b87f7a4da26fcc189e5a0e10ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Deborah Vecchi",
+    "display_artist": "Deborah Vecchi",
+    "title": "Made Of Sun 039 (23 April 2024)",
+    "display_title": "Made Of Sun 039 (23 April 2024)",
+    "track": "Deborah Vecchi - Made Of Sun 039 (23 April 2024)",
+    "length": 7199,
+    "duration": 7199,
+    "started": 1713877200,
+    "type": "track",
+    "track_id": 3093480,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/b/4/8/7/5bb487aa12d606861b6e43043559f3cd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Alison Wonderland",
+    "display_artist": "Alison Wonderland",
+    "title": "Radio Wonderland 363 (23 April 2024)",
+    "display_title": "Radio Wonderland 363 (23 April 2024)",
+    "track": "Alison Wonderland - Radio Wonderland 363 (23 April 2024)",
+    "length": 3585,
+    "duration": 3585,
+    "started": 1713884400,
+    "type": "track",
+    "track_id": 3093459,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/2/8/7/1/b228714b9eba87fa97fed8da3c3864e4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "House Club Set",
+    "display_artist": "House Club Set",
+    "title": "Jango Music Radio Show 085 (23 April 2024)",
+    "display_title": "Jango Music Radio Show 085 (23 April 2024)",
+    "track": "House Club Set - Jango Music Radio Show 085 (23 April 2024)",
+    "length": 3642,
+    "duration": 3642,
+    "started": 1713902400,
+    "type": "track",
+    "track_id": 3093465,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/4/2/2/d/20422d94d8049013011d1696b1e8ff0a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Evolving Suns Audio",
+    "display_artist": "Evolving Suns Audio",
+    "title": "Evolved 100 (23 April 2024) Part 3",
+    "display_title": "Evolved 100 (23 April 2024) Part 3",
+    "track": "Evolving Suns Audio - Evolved 100 (23 April 2024) Part 3",
+    "length": 7190,
+    "duration": 7190,
+    "started": 1713906000,
+    "type": "track",
+    "track_id": 3093461,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/e/e/7/4/96ee74ac382df2cbc15e51973cc0cfce.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Anna Lee",
+    "display_artist": "Anna Lee",
+    "title": "ClubStyles 203 (24 April 2024)",
+    "display_title": "ClubStyles 203 (24 April 2024)",
+    "track": "Anna Lee - ClubStyles 203 (24 April 2024)",
+    "length": 7216,
+    "duration": 7216,
+    "started": 1713974400,
+    "type": "track",
+    "track_id": 3093598,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/8/5/e/9/5/b85e95244b9a75b8d8bd5e185d501b6b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/5/e/9/5/b85e95244b9a75b8d8bd5e185d501b6b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Stu McNally",
+    "display_artist": "Stu McNally",
+    "title": "The Monthly Selection 016 (24 April 2024)",
+    "display_title": "The Monthly Selection 016 (24 April 2024)",
+    "track": "Stu McNally - The Monthly Selection 016 (24 April 2024)",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1713981600,
+    "type": "track",
+    "track_id": 3093602,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/2/5/e/c/f/225ecfd365b1c993ddc47fe82dde86bf.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/5/e/c/f/225ecfd365b1c993ddc47fe82dde86bf.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 1,
+    "channel_id": 10,
+    "artist": "Bill Basil",
+    "display_artist": "Bill Basil",
+    "title": "Insights #245 (24 April 2024) Part 2",
+    "display_title": "Insights #245 (24 April 2024) Part 2",
+    "track": "Bill Basil - Insights #245 (24 April 2024) Part 2",
+    "length": 3988,
+    "duration": 3988,
+    "started": 1713985200,
+    "type": "track",
+    "track_id": 3093616,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/3/1/0/b/7/b310b727cbfcd0a663d4273ae1264d05.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/1/0/b/7/b310b727cbfcd0a663d4273ae1264d05.png{?size,height,width,quality,pad}"
+    }
+  }
+]
