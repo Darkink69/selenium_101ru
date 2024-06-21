@@ -1,0 +1,1029 @@
+{
+  "channel_id": 1,
+  "channel": "80x",
+  "tracks": [
+    {
+      "Сергей Минаев - Зритель": {
+        "title": "Сергей Минаев - Зритель",
+        "titleTrack": "Зритель",
+        "titleExecutor": "Сергей Минаев",
+        "titleExecutorFull": "Сергей Минаев",
+        "uidTrack": 556956,
+        "mdbUidTrack": 556956,
+        "mdbUidExecutor": 35019,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg",
+          "coverHTTP": "https://cdn1.101.ru/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg",
+          "cover50": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg?w=50&h=50&pos=center&t=1519222904",
+          "cover100": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg?w=100&h=100&pos=center&t=1519222904",
+          "cover150": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg?w=150&h=150&pos=center&t=1519222904",
+          "cover200": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg?w=200&h=200&pos=center&t=1519222904",
+          "cover250": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg?w=250&h=250&pos=center&t=1519222904",
+          "cover300": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg?w=300&h=300&pos=center&t=1519222904",
+          "cover350": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg?w=350&h=350&pos=center&t=1519222904",
+          "cover400": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201802/08/e360f30bdeb68f1de5c99ce12ffde838.jpeg?w=400&h=400&pos=center&t=1519222904",
+          "uid": 67121
+        },
+        "album": {
+          "uid": 34494,
+          "albumTitle": "Концерт Для Дискотек (1 - 2)",
+          "year": "1987"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201802%2F08&hash=d9a4e8ff6d8eb24293f4832818315c32&start=87",
+        "audiofile": "https://cdn1.101.ru/vardata/modules/musicdb/files/201802/08/d9a4e8ff6d8eb24293f4832818315c32.mp3",
+        "duration": 290,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 0,
+        "isNewTrack": false,
+        "executorsWorked": [],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1519222904,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Video Kids - Shang-A-Lang-Bang-Bang": {
+        "title": "Video Kids - Shang-A-Lang-Bang-Bang",
+        "titleTrack": "Shang-A-Lang-Bang-Bang",
+        "titleExecutor": "Video Kids",
+        "titleExecutorFull": "Video Kids",
+        "uidTrack": 17238,
+        "mdbUidTrack": 17238,
+        "mdbUidExecutor": 31010,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg",
+          "coverHTTP": "https://cdn1.101.ru/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg",
+          "cover50": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg?w=50&h=50&pos=center&t=1400148325",
+          "cover100": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg?w=100&h=100&pos=center&t=1400148325",
+          "cover150": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg?w=150&h=150&pos=center&t=1400148325",
+          "cover200": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg?w=200&h=200&pos=center&t=1400148325",
+          "cover250": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg?w=250&h=250&pos=center&t=1400148325",
+          "cover300": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg?w=300&h=300&pos=center&t=1400148325",
+          "cover350": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg?w=350&h=350&pos=center&t=1400148325",
+          "cover400": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/578b5e19bed2f7e494567959b4ebb985.jpeg?w=400&h=400&pos=center&t=1400148325",
+          "uid": 5883
+        },
+        "album": {
+          "uid": 3376,
+          "albumTitle": "On Satellite",
+          "year": "1984"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201405&hash=470a0babb414536ae7e068d2f847e895&start=49",
+        "audiofile": "https://cdn1.101.ru/vardata/modules/musicdb/files/201405/470a0babb414536ae7e068d2f847e895.mp3",
+        "duration": 162,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 1,
+        "isNewTrack": false,
+        "executorsWorked": [],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1400148410,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Bad Boys Blue - Love Me Or Leave Me": {
+        "title": "Bad Boys Blue - Love Me Or Leave Me",
+        "titleTrack": "Love Me Or Leave Me",
+        "titleExecutor": "Bad Boys Blue",
+        "titleExecutorFull": "Bad Boys Blue",
+        "uidTrack": 193364,
+        "mdbUidTrack": 193364,
+        "mdbUidExecutor": 8,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg",
+          "coverHTTP": "https://cdn2.101.ru/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg",
+          "cover50": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg?w=50&h=50&pos=center&t=1390462895",
+          "cover100": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg?w=100&h=100&pos=center&t=1390462895",
+          "cover150": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg?w=150&h=150&pos=center&t=1390462895",
+          "cover200": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg?w=200&h=200&pos=center&t=1390462895",
+          "cover250": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg?w=250&h=250&pos=center&t=1390462895",
+          "cover300": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg?w=300&h=300&pos=center&t=1390462895",
+          "cover350": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg?w=350&h=350&pos=center&t=1390462895",
+          "cover400": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201401/c9c1a210e7fddec92114e51e0427c90f.jpeg?w=400&h=400&pos=center&t=1390462895",
+          "uid": 3991
+        },
+        "album": {
+          "uid": 2133,
+          "albumTitle": "The Fifth",
+          "year": "1989"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201803%2F13&hash=8c1febaa25c80a0209472dfb07a07ebe&start=68",
+        "audiofile": "https://cdn2.101.ru/vardata/modules/musicdb/files/201803/13/8c1febaa25c80a0209472dfb07a07ebe.mp3",
+        "duration": 225,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 1,
+        "isNewTrack": false,
+        "executorsWorked": [
+          {
+            "id": 8006,
+            "uidExecutor": 59495,
+            "titleExecutor": "David Brandes",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          },
+          {
+            "id": 8007,
+            "uidExecutor": 59508,
+            "titleExecutor": "Jane Tempest",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          },
+          {
+            "id": 8008,
+            "uidExecutor": 59496,
+            "titleExecutor": "John O'Flynn",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 8009,
+            "uidExecutor": 59214,
+            "titleExecutor": "John McInerney",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 8010,
+            "uidExecutor": 59495,
+            "titleExecutor": "David Brandes",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 8173,
+            "uidExecutor": 59454,
+            "titleExecutor": "Karin van Haaren",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 8174,
+            "uidExecutor": 59455,
+            "titleExecutor": "Tony Hendrik",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          }
+        ],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1522240527,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Planet P Project - Ruby": {
+        "title": "Planet P Project - Ruby",
+        "titleTrack": "Ruby",
+        "titleExecutor": "Planet P Project",
+        "titleExecutorFull": "Planet P Project",
+        "uidTrack": 571576,
+        "mdbUidTrack": 571576,
+        "mdbUidExecutor": 42081,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg",
+          "coverHTTP": "https://cdn0.101.ru/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg",
+          "cover50": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg?w=50&h=50&pos=center&t=1522241033",
+          "cover100": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg?w=100&h=100&pos=center&t=1522241033",
+          "cover150": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg?w=150&h=150&pos=center&t=1522241033",
+          "cover200": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg?w=200&h=200&pos=center&t=1522241033",
+          "cover250": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg?w=250&h=250&pos=center&t=1522241033",
+          "cover300": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg?w=300&h=300&pos=center&t=1522241033",
+          "cover350": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg?w=350&h=350&pos=center&t=1522241033",
+          "cover400": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201803/13/43e4742ca6ccf31688e6350fb78b9e98.jpeg?w=400&h=400&pos=center&t=1522241033",
+          "uid": 73825
+        },
+        "album": {
+          "uid": 41189,
+          "albumTitle": "Planet P",
+          "year": "1983"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201803%2F13&hash=f1de551af82649addde4ef60e54339f1&start=70",
+        "audiofile": "https://cdn2.101.ru/vardata/modules/musicdb/files/201803/13/f1de551af82649addde4ef60e54339f1.mp3",
+        "duration": 232,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 1,
+        "isNewTrack": false,
+        "executorsWorked": [
+          {
+            "id": 607785,
+            "uidExecutor": 68221,
+            "titleExecutor": "Tony Carey",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          }
+        ],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1522241033,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "The Pointer Sisters - I'm So Excited": {
+        "title": "The Pointer Sisters - I'm So Excited",
+        "titleTrack": "I'm So Excited",
+        "titleExecutor": "The Pointer Sisters",
+        "titleExecutorFull": "The Pointer Sisters",
+        "uidTrack": 395047,
+        "mdbUidTrack": 395047,
+        "mdbUidExecutor": 24185,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg",
+          "coverHTTP": "https://cdn2.101.ru/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg",
+          "cover50": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg?w=50&h=50&pos=center&t=1471169827",
+          "cover100": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg?w=100&h=100&pos=center&t=1471169827",
+          "cover150": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg?w=150&h=150&pos=center&t=1471169827",
+          "cover200": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg?w=200&h=200&pos=center&t=1471169827",
+          "cover250": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg?w=250&h=250&pos=center&t=1471169827",
+          "cover300": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg?w=300&h=300&pos=center&t=1471169827",
+          "cover350": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg?w=350&h=350&pos=center&t=1471169827",
+          "cover400": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201608/84455ac0bbf8c664cd0635422621c233.jpg?w=400&h=400&pos=center&t=1471169827",
+          "uid": 41898
+        },
+        "album": {
+          "uid": 12019,
+          "albumTitle": "So Excited!",
+          "year": "1982"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201608&hash=315691d6e807460d59d1d777422b339c&start=68",
+        "audiofile": "https://cdn2.101.ru/vardata/modules/musicdb/files/201608/315691d6e807460d59d1d777422b339c.mp3",
+        "duration": 224,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 1,
+        "isNewTrack": false,
+        "executorsWorked": [
+          {
+            "id": 474355,
+            "uidExecutor": 63090,
+            "titleExecutor": "Trevor Lawrence Jr.",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          },
+          {
+            "id": 474360,
+            "uidExecutor": 68109,
+            "titleExecutor": "Anita Pointer",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          }
+        ],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1471169843,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Наутилус - Жизнь - Вокзал": {
+        "title": "Наутилус - Жизнь - Вокзал",
+        "titleTrack": "Жизнь - Вокзал",
+        "titleExecutor": "Наутилус",
+        "titleExecutorFull": "Наутилус",
+        "uidTrack": 571940,
+        "mdbUidTrack": 571940,
+        "mdbUidExecutor": 54047,
+        "mdbExecutorModer": "0",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg",
+          "coverHTTP": "https://cdn2.101.ru/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg",
+          "cover50": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg?w=50&h=50&pos=center&t=1522243060",
+          "cover100": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg?w=100&h=100&pos=center&t=1522243060",
+          "cover150": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg?w=150&h=150&pos=center&t=1522243060",
+          "cover200": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg?w=200&h=200&pos=center&t=1522243060",
+          "cover250": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg?w=250&h=250&pos=center&t=1522243060",
+          "cover300": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg?w=300&h=300&pos=center&t=1522243060",
+          "cover350": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg?w=350&h=350&pos=center&t=1522243060",
+          "cover400": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201803/13/6464babd38090ba7f7fee270b9cca3fe.jpeg?w=400&h=400&pos=center&t=1522243060",
+          "uid": 74217
+        },
+        "album": {
+          "uid": 41587,
+          "albumTitle": "Russ",
+          "year": "1985"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201803%2F13&hash=884cfe61f3bb5675f7b13bbbef6bd319&start=69",
+        "audiofile": "https://cdn2.101.ru/vardata/modules/musicdb/files/201803/13/884cfe61f3bb5675f7b13bbbef6bd319.mp3",
+        "duration": 227,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 1,
+        "isNewTrack": false,
+        "executorsWorked": [],
+        "moderTrack": 1,
+        "moderExecutor": 0,
+        "timeUploadTrack": 1522243060,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Toto Cutugno - Donna Donna Mia": {
+        "title": "Toto Cutugno - Donna Donna Mia",
+        "titleTrack": "Donna Donna Mia",
+        "titleExecutor": "Toto Cutugno",
+        "titleExecutorFull": "Toto Cutugno",
+        "uidTrack": 22294,
+        "mdbUidTrack": 22294,
+        "mdbUidExecutor": 7916,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg",
+          "coverHTTP": "https://cdn0.101.ru/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg",
+          "cover50": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg?w=50&h=50&pos=center&t=1401802338",
+          "cover100": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg?w=100&h=100&pos=center&t=1401802338",
+          "cover150": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg?w=150&h=150&pos=center&t=1401802338",
+          "cover200": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg?w=200&h=200&pos=center&t=1401802338",
+          "cover250": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg?w=250&h=250&pos=center&t=1401802338",
+          "cover300": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg?w=300&h=300&pos=center&t=1401802338",
+          "cover350": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg?w=350&h=350&pos=center&t=1401802338",
+          "cover400": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201406/7bebcadf4f053ae8799c765237364ad1.jpg?w=400&h=400&pos=center&t=1401802338",
+          "uid": 6383
+        },
+        "album": {
+          "uid": 3698,
+          "albumTitle": "Voglio L`anima",
+          "year": "1979"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201406&hash=c34478bec7d291625fff52de90aca34d&start=53",
+        "audiofile": "https://cdn1.101.ru/vardata/modules/musicdb/files/201406/c34478bec7d291625fff52de90aca34d.mp3",
+        "duration": 175,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 0,
+        "isNewTrack": false,
+        "executorsWorked": [
+          {
+            "id": 411183,
+            "uidExecutor": 7916,
+            "titleExecutor": "Toto Cutugno",
+            "typeTitle": "Композитор",
+            "moder": "1",
+            "uidType": 4,
+            "photo": [
+              {
+                "coverOriginal": "/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg",
+                "coverHTTP": "https://cdn2.101.ru/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg",
+                "cover50": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg?w=50&h=50&pos=center&t=1401801171",
+                "cover100": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg?w=100&h=100&pos=center&t=1401801171",
+                "cover150": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg?w=150&h=150&pos=center&t=1401801171",
+                "cover200": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg?w=200&h=200&pos=center&t=1401801171",
+                "cover250": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg?w=250&h=250&pos=center&t=1401801171",
+                "cover300": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg?w=300&h=300&pos=center&t=1401801171",
+                "cover350": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg?w=350&h=350&pos=center&t=1401801171",
+                "cover400": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/201406/e260284f11d221181895ed4b0e782aad.jpg?w=400&h=400&pos=center&t=1401801171",
+                "mainPhoto": 1,
+                "uid": 6375
+              }
+            ]
+          },
+          {
+            "id": 411187,
+            "uidExecutor": 173321,
+            "titleExecutor": "L. Peregrini-M. Bongiorno",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          }
+        ],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1401802373,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Baccara - Yummy Yummy Yummy": {
+        "title": "Baccara - Yummy Yummy Yummy",
+        "titleTrack": "Yummy Yummy Yummy",
+        "titleExecutor": "Baccara",
+        "titleExecutorFull": "Baccara",
+        "uidTrack": 341117,
+        "mdbUidTrack": 341117,
+        "mdbUidExecutor": 3253,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg",
+          "coverHTTP": "https://cdn1.101.ru/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg",
+          "cover50": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg?w=50&h=50&pos=center&t=1401112689",
+          "cover100": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg?w=100&h=100&pos=center&t=1401112689",
+          "cover150": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg?w=150&h=150&pos=center&t=1401112689",
+          "cover200": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg?w=200&h=200&pos=center&t=1401112689",
+          "cover250": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg?w=250&h=250&pos=center&t=1401112689",
+          "cover300": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg?w=300&h=300&pos=center&t=1401112689",
+          "cover350": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg?w=350&h=350&pos=center&t=1401112689",
+          "cover400": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201405/c23d6150356df07e7077578727913441.jpg?w=400&h=400&pos=center&t=1401112689",
+          "mainPhoto": 1,
+          "uid": 6184
+        },
+        "album": false,
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201509&hash=6631b4f411e6e8dc5602da2994b4f59e&start=63",
+        "audiofile": "https://cdn1.101.ru/vardata/modules/musicdb/files/201509/6631b4f411e6e8dc5602da2994b4f59e.mp3",
+        "duration": 209,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 1,
+        "isNewTrack": false,
+        "executorsWorked": [
+          {
+            "id": 180918,
+            "uidExecutor": 59468,
+            "titleExecutor": "Arthur Resnick",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 180919,
+            "uidExecutor": 112612,
+            "titleExecutor": "Joey Levine",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 180982,
+            "uidExecutor": 93029,
+            "titleExecutor": "Jürgen Schröder",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 180983,
+            "uidExecutor": 112610,
+            "titleExecutor": "Peter Zentner",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 181153,
+            "uidExecutor": 112625,
+            "titleExecutor": "Enrique Dizeo",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 181154,
+            "uidExecutor": 88444,
+            "titleExecutor": "Ángel Cabral",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 769465,
+            "uidExecutor": 201783,
+            "titleExecutor": "Joe Levine",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          },
+          {
+            "id": 769466,
+            "uidExecutor": 59468,
+            "titleExecutor": "Arthur Resnick",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          }
+        ],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1441794223,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Мираж - Солнечное Лето": {
+        "title": "Мираж - Солнечное Лето",
+        "titleTrack": "Солнечное Лето",
+        "titleExecutor": "Мираж",
+        "titleExecutorFull": "Мираж",
+        "uidTrack": 179621,
+        "mdbUidTrack": 179621,
+        "mdbUidExecutor": 10204,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg",
+          "coverHTTP": "https://cdn0.101.ru/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg",
+          "cover50": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg?w=50&h=50&pos=center&t=1397569691",
+          "cover100": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg?w=100&h=100&pos=center&t=1397569691",
+          "cover150": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg?w=150&h=150&pos=center&t=1397569691",
+          "cover200": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg?w=200&h=200&pos=center&t=1397569691",
+          "cover250": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg?w=250&h=250&pos=center&t=1397569691",
+          "cover300": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg?w=300&h=300&pos=center&t=1397569691",
+          "cover350": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg?w=350&h=350&pos=center&t=1397569691",
+          "cover400": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/9b3376f60e5d40856d12289bd1fe37ca.jpg?w=400&h=400&pos=center&t=1397569691",
+          "uid": 5160
+        },
+        "album": {
+          "uid": 2883,
+          "albumTitle": "Звёзды Нас Ждут",
+          "year": "1987"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201404&hash=df0f6613b6eb5d3656b801fe1f75cfa3&start=81",
+        "audiofile": "https://cdn0.101.ru/vardata/modules/musicdb/files/201404/df0f6613b6eb5d3656b801fe1f75cfa3.mp3",
+        "duration": 269,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 1,
+        "isNewTrack": false,
+        "executorsWorked": [],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1397569764,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "The Buggles - Video Killed The Radio Star": {
+        "title": "The Buggles - Video Killed The Radio Star",
+        "titleTrack": "Video Killed The Radio Star",
+        "titleExecutor": "The Buggles",
+        "titleExecutorFull": "The Buggles",
+        "uidTrack": 800590,
+        "mdbUidTrack": 800590,
+        "mdbUidExecutor": 43003,
+        "mdbExecutorModer": "0",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg",
+          "coverHTTP": "https://cdn2.101.ru/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg",
+          "cover50": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg?w=50&h=50&pos=center&t=1637657823",
+          "cover100": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg?w=100&h=100&pos=center&t=1637657823",
+          "cover150": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg?w=150&h=150&pos=center&t=1637657823",
+          "cover200": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg?w=200&h=200&pos=center&t=1637657823",
+          "cover250": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg?w=250&h=250&pos=center&t=1637657823",
+          "cover300": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg?w=300&h=300&pos=center&t=1637657823",
+          "cover350": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg?w=350&h=350&pos=center&t=1637657823",
+          "cover400": "https://cdn2.101.ru/proxy/vardata/modules/musicdb/files/202111/47/1e7bce1628dc521067a148f989fb2af7.jpeg?w=400&h=400&pos=center&t=1637657823",
+          "uid": 174864
+        },
+        "album": {
+          "uid": 142466,
+          "albumTitle": "Music For Seventies",
+          "year": "2007"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=202111%2F47&hash=12f5c2431f1db03feabd329f5ffaa8fe&start=60",
+        "audiofile": "https://cdn0.101.ru/vardata/modules/musicdb/files/202111/47/12f5c2431f1db03feabd329f5ffaa8fe.mp3",
+        "duration": 199,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 1,
+        "isNewTrack": false,
+        "executorsWorked": [],
+        "moderTrack": 1,
+        "moderExecutor": 0,
+        "timeUploadTrack": 1637657823,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Suzi Quatro - If You Can't Give Me Love": {
+        "title": "Suzi Quatro - If You Can't Give Me Love",
+        "titleTrack": "If You Can't Give Me Love",
+        "titleExecutor": "Suzi Quatro",
+        "titleExecutorFull": "Suzi Quatro",
+        "uidTrack": 361225,
+        "mdbUidTrack": 361225,
+        "mdbUidExecutor": 22633,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg",
+          "coverHTTP": "https://cdn0.101.ru/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg",
+          "cover50": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg?w=50&h=50&pos=center&t=1467456734",
+          "cover100": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg?w=100&h=100&pos=center&t=1467456734",
+          "cover150": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg?w=150&h=150&pos=center&t=1467456734",
+          "cover200": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg?w=200&h=200&pos=center&t=1467456734",
+          "cover250": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg?w=250&h=250&pos=center&t=1467456734",
+          "cover300": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg?w=300&h=300&pos=center&t=1467456734",
+          "cover350": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg?w=350&h=350&pos=center&t=1467456734",
+          "cover400": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201607/d3406adf75a310f70580eb4a5cbcef10.jpg?w=400&h=400&pos=center&t=1467456734",
+          "uid": 32544
+        },
+        "album": {
+          "uid": 9210,
+          "albumTitle": "If You Knew Suzi",
+          "year": ""
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201607&hash=d52357b9f794e3ccde67b6f263d957e3&start=70",
+        "audiofile": "https://cdn0.101.ru/vardata/modules/musicdb/files/201607/d52357b9f794e3ccde67b6f263d957e3.mp3",
+        "duration": 231,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 0,
+        "isNewTrack": false,
+        "executorsWorked": [],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1467456758,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Pupo - La Mia Liberta": {
+        "title": "Pupo - La Mia Liberta",
+        "titleTrack": "La Mia Liberta",
+        "titleExecutor": "Pupo",
+        "titleExecutorFull": "Pupo",
+        "uidTrack": 285770,
+        "mdbUidTrack": 285770,
+        "mdbUidExecutor": 12491,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg",
+          "coverHTTP": "https://cdn0.101.ru/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg",
+          "cover50": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg?w=50&h=50&pos=center&t=1398717646",
+          "cover100": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg?w=100&h=100&pos=center&t=1398717646",
+          "cover150": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg?w=150&h=150&pos=center&t=1398717646",
+          "cover200": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg?w=200&h=200&pos=center&t=1398717646",
+          "cover250": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg?w=250&h=250&pos=center&t=1398717646",
+          "cover300": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg?w=300&h=300&pos=center&t=1398717646",
+          "cover350": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg?w=350&h=350&pos=center&t=1398717646",
+          "cover400": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/b704d6f1940c26bceccc3e78255a38ba.jpeg?w=400&h=400&pos=center&t=1398717646",
+          "uid": 5437
+        },
+        "album": {
+          "uid": 3077,
+          "albumTitle": "Change Generation",
+          "year": "1985"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201404&hash=88c580beec4ad90be739c711b1f032ef&start=52",
+        "audiofile": "https://cdn2.101.ru/vardata/modules/musicdb/files/201404/88c580beec4ad90be739c711b1f032ef.mp3",
+        "duration": 172,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 0,
+        "isNewTrack": false,
+        "executorsWorked": [
+          {
+            "id": 497486,
+            "uidExecutor": 12491,
+            "titleExecutor": "Pupo",
+            "typeTitle": "Композитор",
+            "moder": "1",
+            "uidType": 4,
+            "photo": [
+              {
+                "coverOriginal": "/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg",
+                "coverHTTP": "https://cdn0.101.ru/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg",
+                "cover50": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg?w=50&h=50&pos=center&t=1398715709",
+                "cover100": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg?w=100&h=100&pos=center&t=1398715709",
+                "cover150": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg?w=150&h=150&pos=center&t=1398715709",
+                "cover200": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg?w=200&h=200&pos=center&t=1398715709",
+                "cover250": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg?w=250&h=250&pos=center&t=1398715709",
+                "cover300": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg?w=300&h=300&pos=center&t=1398715709",
+                "cover350": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg?w=350&h=350&pos=center&t=1398715709",
+                "cover400": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201404/957daec4521cdfcba3b5d6b482af98f8.jpg?w=400&h=400&pos=center&t=1398715709",
+                "mainPhoto": 1,
+                "uid": 5430
+              }
+            ]
+          },
+          {
+            "id": 497487,
+            "uidExecutor": 180174,
+            "titleExecutor": "Elisabetta Ghiandai",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          },
+          {
+            "id": 497488,
+            "uidExecutor": 167081,
+            "titleExecutor": "Giuseppe Tinti",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          }
+        ],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1398717733,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    },
+    {
+      "Whitney Houston - I Wanna Dance With Somebody (who loves me)": {
+        "title": "Whitney Houston - I Wanna Dance With Somebody (who loves me)",
+        "titleTrack": "I Wanna Dance With Somebody (who loves me)",
+        "titleExecutor": "Whitney Houston",
+        "titleExecutorFull": "Whitney Houston",
+        "uidTrack": 194485,
+        "mdbUidTrack": 194485,
+        "mdbUidExecutor": 6111,
+        "mdbExecutorModer": "1",
+        "mdbTrackModer": 1,
+        "containExecutors": false,
+        "cover": {
+          "coverOriginal": "/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png",
+          "coverHTTP": "https://cdn1.101.ru/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png",
+          "cover50": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png?w=50&h=50&pos=center&t=1416479804",
+          "cover100": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png?w=100&h=100&pos=center&t=1416479804",
+          "cover150": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png?w=150&h=150&pos=center&t=1416479804",
+          "cover200": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png?w=200&h=200&pos=center&t=1416479804",
+          "cover250": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png?w=250&h=250&pos=center&t=1416479804",
+          "cover300": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png?w=300&h=300&pos=center&t=1416479804",
+          "cover350": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png?w=350&h=350&pos=center&t=1416479804",
+          "cover400": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201411/4706bfb5bfdbb99639a1d8083562fb7f.png?w=400&h=400&pos=center&t=1416479804",
+          "mainPhoto": 1,
+          "uid": 11343
+        },
+        "album": {
+          "uid": 53512,
+          "albumTitle": "Greatest Hits",
+          "year": "1981"
+        },
+        "iTunes": false,
+        "sample": "https://101.ru:8143?date=201805%2F21&hash=e308e3bfa4c246968bc507bd4095cb39&start=86",
+        "audiofile": "https://cdn1.101.ru/vardata/modules/musicdb/files/201805/21/e308e3bfa4c246968bc507bd4095cb39.mp3",
+        "duration": 284,
+        "statusReady": 8,
+        "module": "mdb",
+        "isgroup": 0,
+        "isNewTrack": false,
+        "executorsWorked": [
+          {
+            "id": 297409,
+            "uidExecutor": 75154,
+            "titleExecutor": "George Merrill",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 297410,
+            "uidExecutor": 75155,
+            "titleExecutor": "Shannon Rubicam",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 297889,
+            "uidExecutor": 68632,
+            "titleExecutor": "Carsten Schack",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 297890,
+            "uidExecutor": 85698,
+            "titleExecutor": "Kenneth Karlin",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 297891,
+            "uidExecutor": 86695,
+            "titleExecutor": "Tamara Savage",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 298558,
+            "uidExecutor": 63378,
+            "titleExecutor": "Fred Jerkins III",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 298559,
+            "uidExecutor": 63306,
+            "titleExecutor": "Lashawn Daniels",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 298560,
+            "uidExecutor": 61697,
+            "titleExecutor": "Rodney Jerkins",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 298561,
+            "uidExecutor": 74192,
+            "titleExecutor": "Toni Estes",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 299179,
+            "uidExecutor": 59585,
+            "titleExecutor": "Diane Warren",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 299222,
+            "uidExecutor": 133634,
+            "titleExecutor": "Rev. Kenneth Paden",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 299364,
+            "uidExecutor": 6267,
+            "titleExecutor": "R. Kelly",
+            "typeTitle": "Автор слов",
+            "moder": "1",
+            "uidType": 1,
+            "photo": [
+              {
+                "coverOriginal": "/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg",
+                "coverHTTP": "https://cdn0.101.ru/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg",
+                "cover50": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg?w=50&h=50&pos=center&t=1466505685",
+                "cover100": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg?w=100&h=100&pos=center&t=1466505685",
+                "cover150": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg?w=150&h=150&pos=center&t=1466505685",
+                "cover200": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg?w=200&h=200&pos=center&t=1466505685",
+                "cover250": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg?w=250&h=250&pos=center&t=1466505685",
+                "cover300": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg?w=300&h=300&pos=center&t=1466505685",
+                "cover350": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg?w=350&h=350&pos=center&t=1466505685",
+                "cover400": "https://cdn0.101.ru/proxy/vardata/modules/musicdb/files/201606/05906c2878029e23b8496c153e6d7b9c.jpg?w=400&h=400&pos=center&t=1466505685",
+                "mainPhoto": 1,
+                "uid": 27952
+              }
+            ]
+          },
+          {
+            "id": 299731,
+            "uidExecutor": 80745,
+            "titleExecutor": "Demetrius Shipp",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 299732,
+            "uidExecutor": 1237,
+            "titleExecutor": "RAKIM",
+            "typeTitle": "Автор слов",
+            "moder": "0",
+            "uidType": 1,
+            "photo": false
+          },
+          {
+            "id": 299733,
+            "uidExecutor": 53416,
+            "titleExecutor": "Teddy Riley",
+            "typeTitle": "Автор слов",
+            "moder": "1",
+            "uidType": 1,
+            "photo": [
+              {
+                "coverOriginal": "/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg",
+                "coverHTTP": "https://cdn1.101.ru/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg",
+                "cover50": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg?w=50&h=50&pos=center&t=1470333711",
+                "cover100": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg?w=100&h=100&pos=center&t=1470333711",
+                "cover150": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg?w=150&h=150&pos=center&t=1470333711",
+                "cover200": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg?w=200&h=200&pos=center&t=1470333711",
+                "cover250": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg?w=250&h=250&pos=center&t=1470333711",
+                "cover300": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg?w=300&h=300&pos=center&t=1470333711",
+                "cover350": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg?w=350&h=350&pos=center&t=1470333711",
+                "cover400": "https://cdn1.101.ru/proxy/vardata/modules/musicdb/files/201608/ce875a7a3e586e2124d20e59542350d9.jpeg?w=400&h=400&pos=center&t=1470333711",
+                "mainPhoto": 1,
+                "uid": 38433
+              }
+            ]
+          },
+          {
+            "id": 470389,
+            "uidExecutor": 75154,
+            "titleExecutor": "George Merrill",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          },
+          {
+            "id": 470394,
+            "uidExecutor": 75155,
+            "titleExecutor": "Shannon Rubicam",
+            "typeTitle": "Композитор",
+            "moder": "0",
+            "uidType": 4,
+            "photo": false
+          }
+        ],
+        "moderTrack": 1,
+        "moderExecutor": "1",
+        "timeUploadTrack": 1527174503,
+        "hasVideo": false,
+        "advertising": 0
+      }
+    }
+  ]
+}
