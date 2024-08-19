@@ -1,0 +1,4809 @@
+[
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Julieta Venegas A Dueto Con Anita Tijoux",
+    "display_artist": "Julieta Venegas A Dueto Con Anita Tijoux",
+    "title": "Eres Para Mí",
+    "display_title": "Eres Para Mí",
+    "track": "Julieta Venegas A Dueto Con Anita Tijoux - Eres Para Mí",
+    "length": 192,
+    "duration": 192,
+    "started": 1717382150,
+    "type": "track",
+    "track_id": 771894,
+    "release": "Limon Y Sal",
+    "art_url": "//cdn-images.audioaddict.com/2/5/3/e/0/c/253e0c172cf2fc4d1be25e3401354bb5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/3/e/0/c/253e0c172cf2fc4d1be25e3401354bb5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alvaro Soler Ft Morat",
+    "display_artist": "Alvaro Soler Ft Morat",
+    "title": "Yo Contigo Tu Conmigo (The Gong Gong Song  Gru 3 Mi Villano Favorito)",
+    "display_title": "Yo Contigo Tu Conmigo (The Gong Gong Song  Gru 3 Mi Villano Favorito)",
+    "track": "Alvaro Soler Ft Morat - Yo Contigo Tu Conmigo (The Gong Gong Song  Gru 3 Mi Villano Favorito)",
+    "length": 179,
+    "duration": 179,
+    "started": 1717382510,
+    "type": "track",
+    "track_id": 2938651,
+    "release": "Mar De Colores (Version Extendida)",
+    "art_url": "//cdn-images.audioaddict.com/4/4/4/e/e/7/444ee784e9be56a5ab87198b08d9274c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/4/e/e/7/444ee784e9be56a5ab87198b08d9274c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ana Torroja",
+    "display_artist": "Ana Torroja",
+    "title": "Ya No Te Quiero",
+    "display_title": "Ya No Te Quiero",
+    "track": "Ana Torroja - Ya No Te Quiero",
+    "length": 280,
+    "duration": 280,
+    "started": 1717382887,
+    "type": "track",
+    "track_id": 467420,
+    "release": "Pasajes De Un Sueno",
+    "art_url": "//cdn-images.audioaddict.com/b/9/a/7/c/f/b9a7cf9dea49983555810378c29cfc0c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/a/7/c/f/b9a7cf9dea49983555810378c29cfc0c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fanny Lu feat. Gente De Zona",
+    "display_artist": "Fanny Lu feat. Gente De Zona",
+    "title": "Lo Que Dios Quiera",
+    "display_title": "Lo Que Dios Quiera",
+    "track": "Fanny Lu feat. Gente De Zona - Lo Que Dios Quiera",
+    "length": 223,
+    "duration": 223,
+    "started": 1717383351,
+    "type": "track",
+    "track_id": 1237915,
+    "release": "Pop Latin March 2016",
+    "art_url": "//cdn-images.audioaddict.com/1/c/7/a/6/a/1c7a6a2d17aa54e63867c86cfe37fed8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/7/a/6/a/1c7a6a2d17aa54e63867c86cfe37fed8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Pablo Alboran",
+    "display_artist": "Pablo Alboran",
+    "title": "Prometo (Edit)",
+    "display_title": "Prometo (Edit)",
+    "track": "Pablo Alboran - Prometo (Edit)",
+    "length": 233,
+    "duration": 233,
+    "started": 1717383564,
+    "type": "track",
+    "track_id": 2879194,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/3/6/6/c/6/7366c6b88b48aae21c2fd446a43f4342.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/6/6/c/6/7366c6b88b48aae21c2fd446a43f4342.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Moenia",
+    "display_artist": "Moenia",
+    "title": "En Algun Lugar",
+    "display_title": "En Algun Lugar",
+    "track": "Moenia - En Algun Lugar",
+    "length": 240,
+    "duration": 240,
+    "started": 1717384055,
+    "type": "track",
+    "track_id": 454643,
+    "release": "Stereo Hits",
+    "art_url": "//cdn-images.audioaddict.com/b/6/c/f/c/8/b6cfc8f891ea3862e8e1d5c7604b7184.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/c/f/c/8/b6cfc8f891ea3862e8e1d5c7604b7184.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Santana feat. Los Fabulosos Cadillacs",
+    "display_artist": "Santana feat. Los Fabulosos Cadillacs",
+    "title": "Mal Bicho",
+    "display_title": "Mal Bicho",
+    "track": "Santana feat. Los Fabulosos Cadillacs - Mal Bicho",
+    "length": 215,
+    "duration": 215,
+    "started": 1717384494,
+    "type": "track",
+    "track_id": 781057,
+    "release": "Corazon",
+    "art_url": "//cdn-images.audioaddict.com/a/1/7/0/8/e/a1708e201213d77006b9539d6674e5f2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/7/0/8/e/a1708e201213d77006b9539d6674e5f2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "La Quinta Estacion",
+    "display_artist": "La Quinta Estacion",
+    "title": "Recuerdame",
+    "display_title": "Recuerdame",
+    "track": "La Quinta Estacion - Recuerdame",
+    "length": 205,
+    "duration": 205,
+    "started": 1717384886,
+    "type": "track",
+    "track_id": 890424,
+    "release": "Top Latino V.5",
+    "art_url": "//cdn-images.audioaddict.com/5/2/1/1/8/5/5211859c5e693306e45a8669c9732162.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/1/1/8/5/5211859c5e693306e45a8669c9732162.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Laura Pausini",
+    "display_artist": "Laura Pausini",
+    "title": "Fantastico (Haz Lo Que Eres)",
+    "display_title": "Fantastico (Haz Lo Que Eres)",
+    "track": "Laura Pausini - Fantastico (Haz Lo Que Eres)",
+    "length": 214,
+    "duration": 214,
+    "started": 1717385300,
+    "type": "track",
+    "track_id": 2879187,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/e/2/6/c/5/5e26c5eedd1e105eae7bb5b246042592.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/2/6/c/5/5e26c5eedd1e105eae7bb5b246042592.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Me Enamore",
+    "display_title": "Me Enamore",
+    "track": "Shakira - Me Enamore",
+    "length": 225,
+    "duration": 225,
+    "started": 1717385512,
+    "type": "track",
+    "track_id": 1972457,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/a/e/e/1/d/1aee1d610be677b771ba5377413d0050.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/e/e/1/d/1aee1d610be677b771ba5377413d0050.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jesse Y Joy",
+    "display_artist": "Jesse Y Joy",
+    "title": "Que Pena Me Da",
+    "display_title": "Que Pena Me Da",
+    "track": "Jesse Y Joy - Que Pena Me Da",
+    "length": 198,
+    "duration": 198,
+    "started": 1717385967,
+    "type": "track",
+    "track_id": 1237917,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/a/2/e/3/f/da2e3f7cae6b01f8e73fff9be02ad4c2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/2/e/3/f/da2e3f7cae6b01f8e73fff9be02ad4c2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Santana feat. Juanes",
+    "display_artist": "Santana feat. Juanes",
+    "title": "La Flaca",
+    "display_title": "La Flaca",
+    "track": "Santana feat. Juanes - La Flaca",
+    "length": 248,
+    "duration": 248,
+    "started": 1717386434,
+    "type": "track",
+    "track_id": 883094,
+    "release": "Corazon",
+    "art_url": "//cdn-images.audioaddict.com/a/1/7/0/8/e/a1708e201213d77006b9539d6674e5f2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/7/0/8/e/a1708e201213d77006b9539d6674e5f2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ella Baila Sola",
+    "display_artist": "Ella Baila Sola",
+    "title": "Cuando Los Sapos Bailen Flamenco",
+    "display_title": "Cuando Los Sapos Bailen Flamenco",
+    "track": "Ella Baila Sola - Cuando Los Sapos Bailen Flamenco",
+    "length": 195,
+    "duration": 195,
+    "started": 1717386682,
+    "type": "track",
+    "track_id": 766825,
+    "release": "Radio Hits 5",
+    "art_url": "//cdn-images.audioaddict.com/6/0/d/4/1/0/60d410b1e1343352b25d600e76948054.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/d/4/1/0/60d410b1e1343352b25d600e76948054.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "David Bisbal",
+    "display_artist": "David Bisbal",
+    "title": "Llorare Las Penas",
+    "display_title": "Llorare Las Penas",
+    "track": "David Bisbal - Llorare Las Penas",
+    "length": 248,
+    "duration": 248,
+    "started": 1717387102,
+    "type": "track",
+    "track_id": 453749,
+    "release": "2004 Ano De Exitos Pop",
+    "art_url": "//cdn-images.audioaddict.com/9/2/1/4/b/d/9214bd96275ec0a40e61f3035c8883ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/1/4/b/d/9214bd96275ec0a40e61f3035c8883ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Luis Fonsi Ft Juan Luis Guerra",
+    "display_artist": "Luis Fonsi Ft Juan Luis Guerra",
+    "title": "Llegaste Tu",
+    "display_title": "Llegaste Tu",
+    "track": "Luis Fonsi Ft Juan Luis Guerra - Llegaste Tu",
+    "length": 221,
+    "duration": 221,
+    "started": 1717387558,
+    "type": "track",
+    "track_id": 2033791,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/b/c/4/a/7/dbc4a779ea3b16848b7c428541f9d659.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/b/c/4/a/7/dbc4a779ea3b16848b7c428541f9d659.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Reik",
+    "display_artist": "Reik",
+    "title": "Duele",
+    "display_title": "Duele",
+    "track": "Reik - Duele",
+    "length": 168,
+    "duration": 168,
+    "started": 1717387962,
+    "type": "track",
+    "track_id": 2932790,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/9/d/0/5/0/d/9d050d619ed62e18f1ecfd9d19ac01d4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/d/0/5/0/d/9d050d619ed62e18f1ecfd9d19ac01d4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fanny Lu",
+    "display_artist": "Fanny Lu",
+    "title": "No Te Pido Flores",
+    "display_title": "No Te Pido Flores",
+    "track": "Fanny Lu - No Te Pido Flores",
+    "length": 250,
+    "duration": 250,
+    "started": 1717388347,
+    "type": "track",
+    "track_id": 453951,
+    "release": "6 Super Hits",
+    "art_url": "//cdn-images.audioaddict.com/1/3/0/9/9/9/13099916e832fbb9d477ccd82d452741.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/0/9/9/9/13099916e832fbb9d477ccd82d452741.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Draco Rosa Ft Juan Luis Guerra",
+    "display_artist": "Draco Rosa Ft Juan Luis Guerra",
+    "title": "Esto Es Vida",
+    "display_title": "Esto Es Vida",
+    "track": "Draco Rosa Ft Juan Luis Guerra - Esto Es Vida",
+    "length": 273,
+    "duration": 273,
+    "started": 1717388804,
+    "type": "track",
+    "track_id": 468546,
+    "release": "Vida",
+    "art_url": "//cdn-images.audioaddict.com/c/b/9/0/9/0/cb90908830a5a217160fd9f6a338ec13.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/9/0/9/0/cb90908830a5a217160fd9f6a338ec13.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Natalia Jimenez Y Jesus Navarro",
+    "display_artist": "Natalia Jimenez Y Jesus Navarro",
+    "title": "Nunca Es Tarde",
+    "display_title": "Nunca Es Tarde",
+    "track": "Natalia Jimenez Y Jesus Navarro - Nunca Es Tarde",
+    "length": 222,
+    "duration": 222,
+    "started": 1717389075,
+    "type": "track",
+    "track_id": 2932786,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/1/e/1/4/0/e1e140bedeaa470fb72ede172e954dd7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/e/1/4/0/e1e140bedeaa470fb72ede172e954dd7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Andres Cabas",
+    "display_artist": "Andres Cabas",
+    "title": "Mi Bombon",
+    "display_title": "Mi Bombon",
+    "track": "Andres Cabas - Mi Bombon",
+    "length": 193,
+    "duration": 193,
+    "started": 1717389483,
+    "type": "track",
+    "track_id": 409040,
+    "release": "Cabas",
+    "art_url": "//cdn-images.audioaddict.com/6/5/3/b/5/c/653b5c5abe68f2e1d3ad35f18667b29f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/5/3/b/5/c/653b5c5abe68f2e1d3ad35f18667b29f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias",
+    "display_artist": "Enrique Iglesias",
+    "title": "Driving You Home",
+    "display_title": "Driving You Home",
+    "track": "Enrique Iglesias - Driving You Home",
+    "length": 186,
+    "duration": 186,
+    "started": 1717389959,
+    "type": "track",
+    "track_id": 965415,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/f/f/6/2/a/2ff62abb9e8b43a6ff43b86413dfb471.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/f/6/2/a/2ff62abb9e8b43a6ff43b86413dfb471.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ha Ash Y Prince Royce",
+    "display_artist": "Ha Ash Y Prince Royce",
+    "title": "100 Años",
+    "display_title": "100 Años",
+    "track": "Ha Ash Y Prince Royce - 100 Años",
+    "length": 186,
+    "duration": 186,
+    "started": 1717390345,
+    "type": "track",
+    "track_id": 2274183,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/7/6/1/0/b/87610b20d6515c46e93a3b2fac025555.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/6/1/0/b/87610b20d6515c46e93a3b2fac025555.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "David Bisbal Y Sebastian Yatra",
+    "display_artist": "David Bisbal Y Sebastian Yatra",
+    "title": "A Partir De Hoy",
+    "display_title": "A Partir De Hoy",
+    "track": "David Bisbal Y Sebastian Yatra - A Partir De Hoy",
+    "length": 196,
+    "duration": 196,
+    "started": 1717390722,
+    "type": "track",
+    "track_id": 2879178,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/d/3/8/b/e/fd38be496d641b25bb14b0833679afdc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/3/8/b/e/fd38be496d641b25bb14b0833679afdc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Sanz",
+    "display_artist": "Alejandro Sanz",
+    "title": "Corazon Partio",
+    "display_title": "Corazon Partio",
+    "track": "Alejandro Sanz - Corazon Partio",
+    "length": 342,
+    "duration": 342,
+    "started": 1717390918,
+    "type": "track",
+    "track_id": 694310,
+    "release": "Coleccion Definitiva",
+    "art_url": "//cdn-images.audioaddict.com/c/1/0/b/4/3/c10b43d0fbff709fbff06decca12ffee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/1/0/b/4/3/c10b43d0fbff709fbff06decca12ffee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Emmanuel Ft Nacho",
+    "display_artist": "Emmanuel Ft Nacho",
+    "title": "No He Podido Verte (Mtv Unplugged)",
+    "display_title": "No He Podido Verte (Mtv Unplugged)",
+    "track": "Emmanuel Ft Nacho - No He Podido Verte (Mtv Unplugged)",
+    "length": 286,
+    "duration": 286,
+    "started": 1717391492,
+    "type": "track",
+    "track_id": 2274178,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/3/8/b/e/0/f38be0ba5db9c4aab91fb02e7e5529ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/8/b/e/0/f38be0ba5db9c4aab91fb02e7e5529ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Baute",
+    "display_artist": "Carlos Baute",
+    "title": "Colgando En Tus Manos",
+    "display_title": "Colgando En Tus Manos",
+    "track": "Carlos Baute - Colgando En Tus Manos",
+    "length": 233,
+    "duration": 233,
+    "started": 1717391776,
+    "type": "track",
+    "track_id": 453606,
+    "release": "De Mi Puno Y Letra (Deluxe Edition)",
+    "art_url": "//cdn-images.audioaddict.com/8/4/6/b/2/c/846b2c87934c89b88334deb6b0899223.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/6/b/2/c/846b2c87934c89b88334deb6b0899223.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Santana",
+    "display_artist": "Santana",
+    "title": "Oye Como Va",
+    "display_title": "Oye Como Va",
+    "track": "Santana - Oye Como Va",
+    "length": 257,
+    "duration": 257,
+    "started": 1717392184,
+    "type": "track",
+    "track_id": 1268216,
+    "release": "Abraxas (1970 Remastered 2016)",
+    "art_url": "//cdn-images.audioaddict.com/5/a/4/0/5/4/5a40540f592273c6be376554ce0b539a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/a/4/0/5/4/5a40540f592273c6be376554ce0b539a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Soda Stereo",
+    "display_artist": "Soda Stereo",
+    "title": "De Musica Ligera",
+    "display_title": "De Musica Ligera",
+    "track": "Soda Stereo - De Musica Ligera",
+    "length": 216,
+    "duration": 216,
+    "started": 1717392600,
+    "type": "track",
+    "track_id": 467058,
+    "release": "20 Grandes Exitos [disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/5/0/b/3/9/e/50b39e991bff951d56dab8dcd5f893d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/b/3/9/e/50b39e991bff951d56dab8dcd5f893d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Bacilos",
+    "display_artist": "Bacilos",
+    "title": "Caraluna",
+    "display_title": "Caraluna",
+    "track": "Bacilos - Caraluna",
+    "length": 271,
+    "duration": 271,
+    "started": 1717393086,
+    "type": "track",
+    "track_id": 883061,
+    "release": "Las Clasicas Rock Pop En Espanol",
+    "art_url": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Sanz feat. Alicia Keys",
+    "display_artist": "Alejandro Sanz feat. Alicia Keys",
+    "title": "Looking For Paradise (Feat. Alicia Keys)",
+    "display_title": "Looking For Paradise (Feat. Alicia Keys)",
+    "track": "Alejandro Sanz feat. Alicia Keys - Looking For Paradise (Feat. Alicia Keys)",
+    "length": 273,
+    "duration": 273,
+    "started": 1717393351,
+    "type": "track",
+    "track_id": 450265,
+    "release": "Coleccion Definitiva",
+    "art_url": "//cdn-images.audioaddict.com/5/5/f/6/b/a/55f6bae66b227bd0220683dff5125f0a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/f/6/b/a/55f6bae66b227bd0220683dff5125f0a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Duncan Dhu",
+    "display_artist": "Duncan Dhu",
+    "title": "En Algun Lugar",
+    "display_title": "En Algun Lugar",
+    "track": "Duncan Dhu - En Algun Lugar",
+    "length": 240,
+    "duration": 240,
+    "started": 1717394453,
+    "type": "track",
+    "track_id": 883065,
+    "release": "Las Clasicas Rock Pop En Espanol",
+    "art_url": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jennifer Lopez Y Marc Anthony",
+    "display_artist": "Jennifer Lopez Y Marc Anthony",
+    "title": "Olvidame Y Pega La Vuelta (Radio)",
+    "display_title": "Olvidame Y Pega La Vuelta (Radio)",
+    "track": "Jennifer Lopez Y Marc Anthony - Olvidame Y Pega La Vuelta (Radio)",
+    "length": 209,
+    "duration": 209,
+    "started": 1717394865,
+    "type": "track",
+    "track_id": 1275747,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/a/c/8/6/7/2ac867e6361ca65a3e75bafa12bb4add.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/c/8/6/7/2ac867e6361ca65a3e75bafa12bb4add.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Bacilos",
+    "display_artist": "Bacilos",
+    "title": "Lo Mismo Que Yo",
+    "display_title": "Lo Mismo Que Yo",
+    "track": "Bacilos - Lo Mismo Que Yo",
+    "length": 207,
+    "duration": 207,
+    "started": 1717395312,
+    "type": "track",
+    "track_id": 453487,
+    "release": "Grandes Exitos",
+    "art_url": "//cdn-images.audioaddict.com/a/b/5/9/d/1/ab59d142f5bf3db710aaf2d4f5f0ebda.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/5/9/d/1/ab59d142f5bf3db710aaf2d4f5f0ebda.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Luciano Pereyra Ft Descemer Bueno",
+    "display_artist": "Luciano Pereyra Ft Descemer Bueno",
+    "title": "No Te Puedo Olvidar",
+    "display_title": "No Te Puedo Olvidar",
+    "track": "Luciano Pereyra Ft Descemer Bueno - No Te Puedo Olvidar",
+    "length": 204,
+    "duration": 204,
+    "started": 1717395726,
+    "type": "track",
+    "track_id": 1033631,
+    "release": "Tu Mano",
+    "art_url": "//cdn-images.audioaddict.com/9/8/6/a/5/6/986a566aa3f5d162997544655718fafd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/6/a/5/6/986a566aa3f5d162997544655718fafd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Nicky Jam & Enrique Iglesias",
+    "display_artist": "Nicky Jam & Enrique Iglesias",
+    "title": "El Perdon (DJ Buddha Remix)",
+    "display_title": "El Perdon (DJ Buddha Remix)",
+    "track": "Nicky Jam & Enrique Iglesias - El Perdon (DJ Buddha Remix)",
+    "length": 172,
+    "duration": 172,
+    "started": 1717396139,
+    "type": "track",
+    "track_id": 1015598,
+    "release": "Pop Latin August 2015",
+    "art_url": "//cdn-images.audioaddict.com/c/9/e/3/2/c/c9e32c373fae31757cb36412778a8bdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/e/3/2/c/c9e32c373fae31757cb36412778a8bdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Laura Pausini",
+    "display_artist": "Laura Pausini",
+    "title": "Se Fue",
+    "display_title": "Se Fue",
+    "track": "Laura Pausini - Se Fue",
+    "length": 255,
+    "duration": 255,
+    "started": 1717396508,
+    "type": "track",
+    "track_id": 470673,
+    "release": "Lo Mejor De Laura Pausini - Volvere Junto A Ti",
+    "art_url": "//cdn-images.audioaddict.com/d/3/a/7/7/3/d3a773b0335b2c0b18d406ca14e59b71.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/a/7/7/3/d3a773b0335b2c0b18d406ca14e59b71.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Rio Roma Feat. Fonseca",
+    "display_artist": "Rio Roma Feat. Fonseca",
+    "title": "Caminar De Tu Mano",
+    "display_title": "Caminar De Tu Mano",
+    "track": "Rio Roma Feat. Fonseca - Caminar De Tu Mano",
+    "length": 201,
+    "duration": 201,
+    "started": 1717397188,
+    "type": "track",
+    "track_id": 1972455,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/5/4/2/3/a/65423a89719eed88a3389adb18988e03.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/5/4/2/3/a/65423a89719eed88a3389adb18988e03.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira Y Maluma",
+    "display_artist": "Shakira Y Maluma",
+    "title": "Clandestino",
+    "display_title": "Clandestino",
+    "track": "Shakira Y Maluma - Clandestino",
+    "length": 231,
+    "duration": 231,
+    "started": 1717397637,
+    "type": "track",
+    "track_id": 2897804,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/d/6/d/f/a/8d6dfa98c797da1135db3c626127309d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/6/d/f/a/8d6dfa98c797da1135db3c626127309d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres",
+    "display_artist": "Diego Torres",
+    "title": "Suenos (Feat. Julieta Venegas)",
+    "display_title": "Suenos (Feat. Julieta Venegas)",
+    "track": "Diego Torres - Suenos (Feat. Julieta Venegas)",
+    "length": 275,
+    "duration": 275,
+    "started": 1717397868,
+    "type": "track",
+    "track_id": 465443,
+    "release": "Mtv Unplugged",
+    "art_url": "//cdn-images.audioaddict.com/1/e/0/2/1/b/1e021b911f2650db9c00b3dbcb7c1a2a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/0/2/1/b/1e021b911f2650db9c00b3dbcb7c1a2a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jesse Y Joy",
+    "display_artist": "Jesse Y Joy",
+    "title": "No Soy Una De Esas",
+    "display_title": "No Soy Una De Esas",
+    "track": "Jesse Y Joy - No Soy Una De Esas",
+    "length": 223,
+    "duration": 223,
+    "started": 1717398350,
+    "type": "track",
+    "track_id": 1256613,
+    "release": "Caracter Latino Classic 2016",
+    "art_url": "//cdn-images.audioaddict.com/8/d/3/6/f/8/8d36f87a7b090a92c4f2f550ba2c4c6d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/3/6/f/8/8d36f87a7b090a92c4f2f550ba2c4c6d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Yordano Y Carlos Vives",
+    "display_artist": "Yordano Y Carlos Vives",
+    "title": "Manantial De Corazon",
+    "display_title": "Manantial De Corazon",
+    "track": "Yordano Y Carlos Vives - Manantial De Corazon",
+    "length": 253,
+    "duration": 253,
+    "started": 1717398789,
+    "type": "track",
+    "track_id": 1262857,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/a/a/6/b/f/7aa6bf93b8db817006c8dc776e23aa42.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/a/6/b/f/7aa6bf93b8db817006c8dc776e23aa42.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ricky Martin",
+    "display_artist": "Ricky Martin",
+    "title": "She Bangs (English Version)",
+    "display_title": "She Bangs (English Version)",
+    "track": "Ricky Martin - She Bangs (English Version)",
+    "length": 282,
+    "duration": 282,
+    "started": 1717399041,
+    "type": "track",
+    "track_id": 454896,
+    "release": "The Greatest 17 Hits",
+    "art_url": "//cdn-images.audioaddict.com/8/a/5/c/2/7/8a5c270df1d513737d75e4f73623e387.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/5/c/2/7/8a5c270df1d513737d75e4f73623e387.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Marta Sanchez Ft Carlos Baute",
+    "display_artist": "Marta Sanchez Ft Carlos Baute",
+    "title": "Colgando En Tus Manos",
+    "display_title": "Colgando En Tus Manos",
+    "track": "Marta Sanchez Ft Carlos Baute - Colgando En Tus Manos",
+    "length": 233,
+    "duration": 233,
+    "started": 1717399600,
+    "type": "track",
+    "track_id": 955871,
+    "release": "21 Dias",
+    "art_url": "//cdn-images.audioaddict.com/7/3/a/5/6/4/73a5644e31fd9f528d3b7037b2862fa2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/a/5/6/4/73a5644e31fd9f528d3b7037b2862fa2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Fernandez Y Sebastian Yatra",
+    "display_artist": "Alejandro Fernandez Y Sebastian Yatra",
+    "title": "Contigo Siempre",
+    "display_title": "Contigo Siempre",
+    "track": "Alejandro Fernandez Y Sebastian Yatra - Contigo Siempre",
+    "length": 201,
+    "duration": 201,
+    "started": 1717399829,
+    "type": "track",
+    "track_id": 2905754,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/1/6/8/2/8/7168288be2a3b1d8ea3e17e27e856287.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/6/8/2/8/7168288be2a3b1d8ea3e17e27e856287.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Try Everything",
+    "display_title": "Try Everything",
+    "track": "Shakira - Try Everything",
+    "length": 197,
+    "duration": 197,
+    "started": 1717400258,
+    "type": "track",
+    "track_id": 1237924,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/4/c/5/4/9/6/4c54968fd7da8351953537371387099e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/5/4/9/6/4c54968fd7da8351953537371387099e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Estoy Aqui",
+    "display_title": "Estoy Aqui",
+    "track": "Shakira - Estoy Aqui",
+    "length": 235,
+    "duration": 235,
+    "started": 1717400690,
+    "type": "track",
+    "track_id": 454937,
+    "release": "Dónde están los ladrones?",
+    "art_url": "//cdn-images.audioaddict.com/e/7/9/c/d/9/e79cd9d9e2c85afee415877df67c2237.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/7/9/c/d/9/e79cd9d9e2c85afee415877df67c2237.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives Ft Marc Anthony",
+    "display_artist": "Carlos Vives Ft Marc Anthony",
+    "title": "Cuando Nos Volvamos A Encontrar (Radio)",
+    "display_title": "Cuando Nos Volvamos A Encontrar (Radio)",
+    "track": "Carlos Vives Ft Marc Anthony - Cuando Nos Volvamos A Encontrar (Radio)",
+    "length": 276,
+    "duration": 276,
+    "started": 1717400921,
+    "type": "track",
+    "track_id": 1264832,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/d/8/d/9/d/0d8d9d78b1baec50edeb4dbdd515027f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/8/d/9/d/0d8d9d78b1baec50edeb4dbdd515027f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Reik",
+    "display_artist": "Reik",
+    "title": "Que Gano Olvidandote (Radio)",
+    "display_title": "Que Gano Olvidandote (Radio)",
+    "track": "Reik - Que Gano Olvidandote (Radio)",
+    "length": 200,
+    "duration": 200,
+    "started": 1717401413,
+    "type": "track",
+    "track_id": 1271679,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/c/2/e/8/5/4/c2e854b797e119b9121214729663f932.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/e/8/5/4/c2e854b797e119b9121214729663f932.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres",
+    "display_artist": "Diego Torres",
+    "title": "Usted (Feat. Vicentico)",
+    "display_title": "Usted (Feat. Vicentico)",
+    "track": "Diego Torres - Usted (Feat. Vicentico)",
+    "length": 287,
+    "duration": 287,
+    "started": 1717401827,
+    "type": "track",
+    "track_id": 465448,
+    "release": "Mtv Unplugged",
+    "art_url": "//cdn-images.audioaddict.com/1/e/0/2/1/b/1e021b911f2650db9c00b3dbcb7c1a2a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/0/2/1/b/1e021b911f2650db9c00b3dbcb7c1a2a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Bacilos",
+    "display_artist": "Bacilos",
+    "title": "Adicto A Ti (Radio)",
+    "display_title": "Adicto A Ti (Radio)",
+    "track": "Bacilos - Adicto A Ti (Radio)",
+    "length": 219,
+    "duration": 219,
+    "started": 1717402555,
+    "type": "track",
+    "track_id": 2897787,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/4/5/6/2/b/e4562bd3738d569f09a43be17eb6bdf8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/5/6/2/b/e4562bd3738d569f09a43be17eb6bdf8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ricky Martin feat. Joss Stone",
+    "display_artist": "Ricky Martin feat. Joss Stone",
+    "title": "The Best Thing About Me Is You",
+    "display_title": "The Best Thing About Me Is You",
+    "track": "Ricky Martin feat. Joss Stone - The Best Thing About Me Is You",
+    "length": 216,
+    "duration": 216,
+    "started": 1717402988,
+    "type": "track",
+    "track_id": 454909,
+    "release": "The Greatest 17 Hits",
+    "art_url": "//cdn-images.audioaddict.com/8/a/5/c/2/7/8a5c270df1d513737d75e4f73623e387.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/5/c/2/7/8a5c270df1d513737d75e4f73623e387.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juan Gabriel",
+    "display_artist": "Juan Gabriel",
+    "title": "Have You Ever Seen The Rain (Gracias Al Sol)",
+    "display_title": "Have You Ever Seen The Rain (Gracias Al Sol)",
+    "track": "Juan Gabriel - Have You Ever Seen The Rain (Gracias Al Sol)",
+    "length": 174,
+    "duration": 174,
+    "started": 1717403829,
+    "type": "track",
+    "track_id": 1248007,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/6/9/3/b/8/6693b8590f4dc374bfbbfd49b3946818.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/9/3/b/8/6693b8590f4dc374bfbbfd49b3946818.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fonseca",
+    "display_artist": "Fonseca",
+    "title": "Por Pura Curiosidad (Radio)",
+    "display_title": "Por Pura Curiosidad (Radio)",
+    "track": "Fonseca - Por Pura Curiosidad (Radio)",
+    "length": 212,
+    "duration": 212,
+    "started": 1717404203,
+    "type": "track",
+    "track_id": 2274180,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/4/a/b/a/1/24aba11d5b5a85ff6164cd92af9acf10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/a/b/a/1/24aba11d5b5a85ff6164cd92af9acf10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jarabe De Palo",
+    "display_artist": "Jarabe De Palo",
+    "title": "La Flaca",
+    "display_title": "La Flaca",
+    "track": "Jarabe De Palo - La Flaca",
+    "length": 262,
+    "duration": 262,
+    "started": 1717404622,
+    "type": "track",
+    "track_id": 406103,
+    "release": "Jarabe De Palo: Grandes Exitos",
+    "art_url": "//cdn-images.audioaddict.com/3/9/3/e/b/6/393eb6afb5e906fc1ed3fbac05ff84ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/3/e/b/6/393eb6afb5e906fc1ed3fbac05ff84ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Daniela Romo",
+    "display_artist": "Daniela Romo",
+    "title": "Yo No Te Pido La Luna",
+    "display_title": "Yo No Te Pido La Luna",
+    "track": "Daniela Romo - Yo No Te Pido La Luna",
+    "length": 265,
+    "duration": 265,
+    "started": 1717404882,
+    "type": "track",
+    "track_id": 468195,
+    "release": "Para Sonar",
+    "art_url": "//cdn-images.audioaddict.com/6/4/e/8/3/a/64e83a5483cfae83c2b0e9b33fbc0ae7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/e/8/3/a/64e83a5483cfae83c2b0e9b33fbc0ae7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jesse Y Joy",
+    "display_artist": "Jesse Y Joy",
+    "title": "Dueles (Radio)",
+    "display_title": "Dueles (Radio)",
+    "track": "Jesse Y Joy - Dueles (Radio)",
+    "length": 247,
+    "duration": 247,
+    "started": 1717405321,
+    "type": "track",
+    "track_id": 1248006,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/3/6/5/2/8/e/36528e7041b481a44d2d1db206e82ddc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/5/2/8/e/36528e7041b481a44d2d1db206e82ddc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Sebastian Yatra Y Isabela Moner",
+    "display_artist": "Sebastian Yatra Y Isabela Moner",
+    "title": "My Only One (No Hay Nadie Mas)",
+    "display_title": "My Only One (No Hay Nadie Mas)",
+    "track": "Sebastian Yatra Y Isabela Moner - My Only One (No Hay Nadie Mas)",
+    "length": 198,
+    "duration": 198,
+    "started": 1717405735,
+    "type": "track",
+    "track_id": 2897803,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/9/2/f/e/5/d/92fe5ddf1e9bd5681f8c2cdcd935c1f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/f/e/5/d/92fe5ddf1e9bd5681f8c2cdcd935c1f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fonseca Ft Ana Torroja",
+    "display_artist": "Fonseca Ft Ana Torroja",
+    "title": "Paso A Paso",
+    "display_title": "Paso A Paso",
+    "track": "Fonseca Ft Ana Torroja - Paso A Paso",
+    "length": 248,
+    "duration": 248,
+    "started": 1717406137,
+    "type": "track",
+    "track_id": 2914772,
+    "release": "Agustin",
+    "art_url": "//cdn-images.audioaddict.com/c/b/b/7/4/d/cbb74d20ccb3327f2def66c85ee9988c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/b/7/4/d/cbb74d20ccb3327f2def66c85ee9988c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Bacilos",
+    "display_artist": "Bacilos",
+    "title": "Tabaco Y Chanel",
+    "display_title": "Tabaco Y Chanel",
+    "track": "Bacilos - Tabaco Y Chanel",
+    "length": 317,
+    "duration": 317,
+    "started": 1717406383,
+    "type": "track",
+    "track_id": 542246,
+    "release": "Las Clasicas Rock Pop En Espanol",
+    "art_url": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juan Magán, El Cata & Pitbull",
+    "display_artist": "Juan Magán, El Cata & Pitbull",
+    "title": "Bailando Por El Mundo",
+    "display_title": "Bailando Por El Mundo",
+    "track": "Juan Magán, El Cata & Pitbull - Bailando Por El Mundo",
+    "length": 197,
+    "duration": 197,
+    "started": 1717406693,
+    "type": "track",
+    "track_id": 489349,
+    "release": "The King Of Dance Web",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/c/c/60eccce665c02a559cc37ed2152faf43.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/c/c/60eccce665c02a559cc37ed2152faf43.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "Me Enamora",
+    "display_title": "Me Enamora",
+    "track": "Juanes - Me Enamora",
+    "length": 195,
+    "duration": 195,
+    "started": 1717407876,
+    "type": "track",
+    "track_id": 972258,
+    "release": "Super 1's",
+    "art_url": "//cdn-images.audioaddict.com/f/8/d/2/9/d/f8d29d74c3e18268108b3490222da109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/d/2/9/d/f8d29d74c3e18268108b3490222da109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Mana",
+    "display_artist": "Mana",
+    "title": "Como Te Deseo (Remasterizado)",
+    "display_title": "Como Te Deseo (Remasterizado)",
+    "track": "Mana - Como Te Deseo (Remasterizado)",
+    "length": 272,
+    "duration": 272,
+    "started": 1717408258,
+    "type": "track",
+    "track_id": 466567,
+    "release": "Exiliados En La Bahia: Lo Mejor De Mana",
+    "art_url": "//cdn-images.audioaddict.com/e/0/1/d/3/a/e01d3a7e50b6625cde1f43f19c5f0fa7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/1/d/3/a/e01d3a7e50b6625cde1f43f19c5f0fa7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres Ft Ruben Blades",
+    "display_artist": "Diego Torres Ft Ruben Blades",
+    "title": "Hoy Es Domingo",
+    "display_title": "Hoy Es Domingo",
+    "track": "Diego Torres Ft Ruben Blades - Hoy Es Domingo",
+    "length": 274,
+    "duration": 274,
+    "started": 1717408528,
+    "type": "track",
+    "track_id": 1033712,
+    "release": "Buena Vida",
+    "art_url": "//cdn-images.audioaddict.com/3/a/b/4/a/7/3ab4a7f3a9fa54b949d3067a9a0cd694.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/b/4/a/7/3ab4a7f3a9fa54b949d3067a9a0cd694.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Sanz Ft Marc Anthony",
+    "display_artist": "Alejandro Sanz Ft Marc Anthony",
+    "title": "Deja Que Te Bese (Radio)",
+    "display_title": "Deja Que Te Bese (Radio)",
+    "track": "Alejandro Sanz Ft Marc Anthony - Deja Que Te Bese (Radio)",
+    "length": 248,
+    "duration": 248,
+    "started": 1717408971,
+    "type": "track",
+    "track_id": 1256602,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/b/b/5/0/c/6/bb50c6aa71efd6816d6067812e130e33.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/5/0/c/6/bb50c6aa71efd6816d6067812e130e33.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives Y Shakira",
+    "display_artist": "Carlos Vives Y Shakira",
+    "title": "La Bicicleta",
+    "display_title": "La Bicicleta",
+    "track": "Carlos Vives Y Shakira - La Bicicleta",
+    "length": 227,
+    "duration": 227,
+    "started": 1717409457,
+    "type": "track",
+    "track_id": 1248001,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/6/8/1/4/c/76814c423cbe7999c4b6ac5b1299abb7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/8/1/4/c/76814c423cbe7999c4b6ac5b1299abb7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fonseca",
+    "display_artist": "Fonseca",
+    "title": "Conexion",
+    "display_title": "Conexion",
+    "track": "Fonseca - Conexion",
+    "length": 230,
+    "duration": 230,
+    "started": 1717409919,
+    "type": "track",
+    "track_id": 1033643,
+    "release": "Conexion",
+    "art_url": "//cdn-images.audioaddict.com/b/e/8/c/4/6/be8c4645646f2a8fa2566a1321cfdf21.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/8/c/4/6/be8c4645646f2a8fa2566a1321cfdf21.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Julieta Venegas",
+    "display_artist": "Julieta Venegas",
+    "title": "Lento",
+    "display_title": "Lento",
+    "track": "Julieta Venegas - Lento",
+    "length": 242,
+    "duration": 242,
+    "started": 1717410633,
+    "type": "track",
+    "track_id": 780882,
+    "release": "Realmente Lo Mejor",
+    "art_url": "//cdn-images.audioaddict.com/3/e/2/5/1/f/3e251f32ab741adb36d5e492bc4bc0ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/e/2/5/1/f/3e251f32ab741adb36d5e492bc4bc0ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Mikel Erentxun",
+    "display_artist": "Mikel Erentxun",
+    "title": "A Un Minuto De Ti",
+    "display_title": "A Un Minuto De Ti",
+    "track": "Mikel Erentxun - A Un Minuto De Ti",
+    "length": 236,
+    "duration": 236,
+    "started": 1717411075,
+    "type": "track",
+    "track_id": 741769,
+    "release": "Naufragios",
+    "art_url": "//cdn-images.audioaddict.com/b/9/a/f/d/f/b9afdf002d724c68a265b12226e2dfa8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/a/f/d/f/b9afdf002d724c68a265b12226e2dfa8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Kany Garcia",
+    "display_artist": "Kany Garcia",
+    "title": "Que Me Quieras",
+    "display_title": "Que Me Quieras",
+    "track": "Kany Garcia - Que Me Quieras",
+    "length": 183,
+    "duration": 183,
+    "started": 1717411310,
+    "type": "track",
+    "track_id": 763635,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/4/c/7/9/4/f4c7941a5056e669d78e1d53e9d6600d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/4/c/7/9/4/f4c7941a5056e669d78e1d53e9d6600d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Mana Ft Shakira",
+    "display_artist": "Mana Ft Shakira",
+    "title": "Mi Verdad",
+    "display_title": "Mi Verdad",
+    "track": "Mana Ft Shakira - Mi Verdad",
+    "length": 271,
+    "duration": 271,
+    "started": 1717411729,
+    "type": "track",
+    "track_id": 965232,
+    "release": "Cama Incendiada",
+    "art_url": "//cdn-images.audioaddict.com/4/e/0/7/7/e/4e077e510bd5954ca477a100d3d8e351.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/0/7/7/e/4e077e510bd5954ca477a100d3d8e351.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Eros Ramazotti",
+    "display_artist": "Eros Ramazotti",
+    "title": "Sera",
+    "display_title": "Sera",
+    "track": "Eros Ramazotti - Sera",
+    "length": 334,
+    "duration": 334,
+    "started": 1717412255,
+    "type": "track",
+    "track_id": 453834,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/9/d/b/3/cf9db37507a40738e924908651662cf7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/9/d/b/3/cf9db37507a40738e924908651662cf7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Gente De Zona Y Marc Anthony",
+    "display_artist": "Gente De Zona Y Marc Anthony",
+    "title": "La Gozadera (Radio)",
+    "display_title": "La Gozadera (Radio)",
+    "track": "Gente De Zona Y Marc Anthony - La Gozadera (Radio)",
+    "length": 205,
+    "duration": 205,
+    "started": 1717412589,
+    "type": "track",
+    "track_id": 969286,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/0/5/d/8/1/805d81a2adfcc3d95602ea49f50e6fe7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/5/d/8/1/805d81a2adfcc3d95602ea49f50e6fe7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Kany Garcia",
+    "display_artist": "Kany Garcia",
+    "title": "Cuando Se Va El Amor",
+    "display_title": "Cuando Se Va El Amor",
+    "track": "Kany Garcia - Cuando Se Va El Amor",
+    "length": 249,
+    "duration": 249,
+    "started": 1717412791,
+    "type": "track",
+    "track_id": 695166,
+    "release": "Kany Garcia",
+    "art_url": "//cdn-images.audioaddict.com/f/4/c/7/9/4/f4c7941a5056e669d78e1d53e9d6600d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/4/c/7/9/4/f4c7941a5056e669d78e1d53e9d6600d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ricky Martin Feat. Maluma",
+    "display_artist": "Ricky Martin Feat. Maluma",
+    "title": "Vente Pa' Ca (Eliot El Mago Doz Urban Remix)",
+    "display_title": "Vente Pa' Ca (Eliot El Mago Doz Urban Remix)",
+    "track": "Ricky Martin Feat. Maluma - Vente Pa' Ca (Eliot El Mago Doz Urban Remix)",
+    "length": 197,
+    "duration": 197,
+    "started": 1717413291,
+    "type": "track",
+    "track_id": 1972453,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/0/0/8/b/3/a008b397cbf7c1c30fddd6bc507fa5e0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/0/8/b/3/a008b397cbf7c1c30fddd6bc507fa5e0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Amistades Peligrosas",
+    "display_artist": "Amistades Peligrosas",
+    "title": "Me Quedare Solo",
+    "display_title": "Me Quedare Solo",
+    "track": "Amistades Peligrosas - Me Quedare Solo",
+    "length": 261,
+    "duration": 261,
+    "started": 1717413705,
+    "type": "track",
+    "track_id": 467374,
+    "release": "Grandes Exitos Cd2",
+    "art_url": "//cdn-images.audioaddict.com/b/8/b/7/b/5/b8b7b5dab7595bf7e2989bdd53e8e1eb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/b/7/b/5/b8b7b5dab7595bf7e2989bdd53e8e1eb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Julieta Venegas",
+    "display_artist": "Julieta Venegas",
+    "title": "Ese Camino",
+    "display_title": "Ese Camino",
+    "track": "Julieta Venegas - Ese Camino",
+    "length": 191,
+    "duration": 191,
+    "started": 1717414722,
+    "type": "track",
+    "track_id": 1941753,
+    "release": "CD Single",
+    "art_url": "//cdn-images.audioaddict.com/6/2/0/6/5/0/6206504260c22334c3b9d30e27ac203b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/0/6/5/0/6206504260c22334c3b9d30e27ac203b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Te Dejo Madrid -21st",
+    "display_title": "Te Dejo Madrid -21st",
+    "track": "Shakira - Te Dejo Madrid -21st",
+    "length": 187,
+    "duration": 187,
+    "started": 1717415253,
+    "type": "track",
+    "track_id": 454980,
+    "release": "Laundry Service",
+    "art_url": "//cdn-images.audioaddict.com/2/f/a/b/3/4/2fab34825bd64899c0edf23815f53181.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/a/b/3/4/2fab34825bd64899c0edf23815f53181.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Eros Ramazotti",
+    "display_artist": "Eros Ramazotti",
+    "title": "La Cosa Mas Bella",
+    "display_title": "La Cosa Mas Bella",
+    "track": "Eros Ramazotti - La Cosa Mas Bella",
+    "length": 265,
+    "duration": 265,
+    "started": 1717415439,
+    "type": "track",
+    "track_id": 453831,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/9/d/b/3/cf9db37507a40738e924908651662cf7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/9/d/b/3/cf9db37507a40738e924908651662cf7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jon Secada",
+    "display_artist": "Jon Secada",
+    "title": "Just Another Day (English Edit)",
+    "display_title": "Just Another Day (English Edit)",
+    "track": "Jon Secada - Just Another Day (English Edit)",
+    "length": 261,
+    "duration": 261,
+    "started": 1717416386,
+    "type": "track",
+    "track_id": 454194,
+    "release": "Just Another Day Cds",
+    "art_url": "//cdn-images.audioaddict.com/0/3/9/6/a/9/0396a95c49e0b52c857ed55415b4460b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/9/6/a/9/0396a95c49e0b52c857ed55415b4460b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Sin Bandera",
+    "display_artist": "Sin Bandera",
+    "title": "Sera",
+    "display_title": "Sera",
+    "track": "Sin Bandera - Sera",
+    "length": 214,
+    "duration": 214,
+    "started": 1717416643,
+    "type": "track",
+    "track_id": 890430,
+    "release": "Top Latino V3",
+    "art_url": "//cdn-images.audioaddict.com/7/6/5/9/6/c/76596ca671f1d2345b2088ea9bb3d415.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/5/9/6/c/76596ca671f1d2345b2088ea9bb3d415.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jennifer Lopez Feat. Gente De Zona",
+    "display_artist": "Jennifer Lopez Feat. Gente De Zona",
+    "title": "Ni Tu Ni Yo",
+    "display_title": "Ni Tu Ni Yo",
+    "track": "Jennifer Lopez Feat. Gente De Zona - Ni Tu Ni Yo",
+    "length": 214,
+    "duration": 214,
+    "started": 1717417122,
+    "type": "track",
+    "track_id": 2033784,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/a/1/b/a/5ba1ba107bb76902be45f82a42a98412.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/a/1/b/a/5ba1ba107bb76902be45f82a42a98412.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Paulina Rubio Ft Morat",
+    "display_artist": "Paulina Rubio Ft Morat",
+    "title": "Mi Nuevo Vicio",
+    "display_title": "Mi Nuevo Vicio",
+    "track": "Paulina Rubio Ft Morat - Mi Nuevo Vicio",
+    "length": 241,
+    "duration": 241,
+    "started": 1717417336,
+    "type": "track",
+    "track_id": 956699,
+    "release": "Deseo",
+    "art_url": "//cdn-images.audioaddict.com/e/b/8/9/8/4/eb89845c3a66a8ece9c29fa15cefc4ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/b/8/9/8/4/eb89845c3a66a8ece9c29fa15cefc4ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Luis Fonsi",
+    "display_artist": "Luis Fonsi",
+    "title": "Esta Noche Es Para Amar",
+    "display_title": "Esta Noche Es Para Amar",
+    "track": "Luis Fonsi - Esta Noche Es Para Amar",
+    "length": 243,
+    "duration": 243,
+    "started": 1717417851,
+    "type": "track",
+    "track_id": 1237920,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/d/7/5/9/e/7d759e58bd26baed5fd550a7d2eb509c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/7/5/9/e/7d759e58bd26baed5fd550a7d2eb509c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Sebastian Yatra",
+    "display_artist": "Sebastian Yatra",
+    "title": "Si Quieres Puedes",
+    "display_title": "Si Quieres Puedes",
+    "track": "Sebastian Yatra - Si Quieres Puedes",
+    "length": 191,
+    "duration": 191,
+    "started": 1717418288,
+    "type": "track",
+    "track_id": 2889353,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/1/e/1/8091e1bce10e4b84d48caad2399d9e26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/9/1/e/1/8091e1bce10e4b84d48caad2399d9e26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias Feat. Cnco",
+    "display_artist": "Enrique Iglesias Feat. Cnco",
+    "title": "Subeme La Radio (Remix)",
+    "display_title": "Subeme La Radio (Remix)",
+    "track": "Enrique Iglesias Feat. Cnco - Subeme La Radio (Remix)",
+    "length": 204,
+    "duration": 204,
+    "started": 1717418652,
+    "type": "track",
+    "track_id": 2033774,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/1/b/1/f/d/01b1fd0b8d2774efb7c6351590f98aba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/b/1/f/d/01b1fd0b8d2774efb7c6351590f98aba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Leoni Torres Ft Descember Bueno",
+    "display_artist": "Leoni Torres Ft Descember Bueno",
+    "title": "Amor Bonito (Remastered)",
+    "display_title": "Amor Bonito (Remastered)",
+    "track": "Leoni Torres Ft Descember Bueno - Amor Bonito (Remastered)",
+    "length": 229,
+    "duration": 229,
+    "started": 1717418856,
+    "type": "track",
+    "track_id": 2889348,
+    "release": "The Real Cuban Music",
+    "art_url": "//cdn-images.audioaddict.com/e/e/a/0/a/2/eea0a23440f2a82aaf641fe2818c675c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/a/0/a/2/eea0a23440f2a82aaf641fe2818c675c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Selena Ft Selena Gomez",
+    "display_artist": "Selena Ft Selena Gomez",
+    "title": "Bidi Bidi Bom Bom",
+    "display_title": "Bidi Bidi Bom Bom",
+    "track": "Selena Ft Selena Gomez - Bidi Bidi Bom Bom",
+    "length": 256,
+    "duration": 256,
+    "started": 1717419285,
+    "type": "track",
+    "track_id": 472243,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/c/3/5/d/b/6c35dba0d7cbf55fe5ed2f59bd8ae91e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/3/5/d/b/6c35dba0d7cbf55fe5ed2f59bd8ae91e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Los Enanitos Verdes",
+    "display_artist": "Los Enanitos Verdes",
+    "title": "Lamento Boliviano",
+    "display_title": "Lamento Boliviano",
+    "track": "Los Enanitos Verdes - Lamento Boliviano",
+    "length": 224,
+    "duration": 224,
+    "started": 1717419773,
+    "type": "track",
+    "track_id": 466288,
+    "release": "Antologia",
+    "art_url": "//cdn-images.audioaddict.com/4/0/e/c/a/4/40eca4e510b8ab616f3f03753fea7d68.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/e/c/a/4/40eca4e510b8ab616f3f03753fea7d68.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Aleks Syntek Ft Teo Cardalda",
+    "display_artist": "Aleks Syntek Ft Teo Cardalda",
+    "title": "Es Por Ti",
+    "display_title": "Es Por Ti",
+    "track": "Aleks Syntek Ft Teo Cardalda - Es Por Ti",
+    "length": 237,
+    "duration": 237,
+    "started": 1717419994,
+    "type": "track",
+    "track_id": 2033758,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/9/2/1/3/9/592139f84229d9fc626d713851cc037d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/2/1/3/9/592139f84229d9fc626d713851cc037d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jesse & Joy Feat. Juan Luis Guerra",
+    "display_artist": "Jesse & Joy Feat. Juan Luis Guerra",
+    "title": "Un Besito Mas",
+    "display_title": "Un Besito Mas",
+    "track": "Jesse & Joy Feat. Juan Luis Guerra - Un Besito Mas",
+    "length": 189,
+    "duration": 189,
+    "started": 1717420543,
+    "type": "track",
+    "track_id": 2033785,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/1/f/c/9/b/d1fc9b39d2cd0a4baebbeb7a354e4818.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/f/c/9/b/d1fc9b39d2cd0a4baebbeb7a354e4818.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira feat. Pitbull",
+    "display_artist": "Shakira feat. Pitbull",
+    "title": "Rabiosa",
+    "display_title": "Rabiosa",
+    "track": "Shakira feat. Pitbull - Rabiosa",
+    "length": 170,
+    "duration": 170,
+    "started": 1717420964,
+    "type": "track",
+    "track_id": 695400,
+    "release": "Sale El Sol",
+    "art_url": "//cdn-images.audioaddict.com/f/1/d/2/5/b/f1d25b6c838093fa37b3bb20bb460de2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/d/2/5/b/f1d25b6c838093fa37b3bb20bb460de2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres",
+    "display_artist": "Diego Torres",
+    "title": "Tratar De Estar Mejor",
+    "display_title": "Tratar De Estar Mejor",
+    "track": "Diego Torres - Tratar De Estar Mejor",
+    "length": 268,
+    "duration": 268,
+    "started": 1717421133,
+    "type": "track",
+    "track_id": 465446,
+    "release": "Mtv Unplugged",
+    "art_url": "//cdn-images.audioaddict.com/1/e/0/2/1/b/1e021b911f2650db9c00b3dbcb7c1a2a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/0/2/1/b/1e021b911f2650db9c00b3dbcb7c1a2a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Belanova",
+    "display_artist": "Belanova",
+    "title": "Eres Mio",
+    "display_title": "Eres Mio",
+    "track": "Belanova - Eres Mio",
+    "length": 224,
+    "duration": 224,
+    "started": 1717421571,
+    "type": "track",
+    "track_id": 2897788,
+    "release": "Viaje Al Centro Del Corazon",
+    "art_url": "//cdn-images.audioaddict.com/e/3/d/f/a/8/e3dfa826778b44207bdb4df13a80c160.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/d/f/a/8/e3dfa826778b44207bdb4df13a80c160.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Andres Cepeda Y Sebastian Yatra",
+    "display_artist": "Andres Cepeda Y Sebastian Yatra",
+    "title": "Magia",
+    "display_title": "Magia",
+    "track": "Andres Cepeda Y Sebastian Yatra - Magia",
+    "length": 193,
+    "duration": 193,
+    "started": 1717422021,
+    "type": "track",
+    "track_id": 2905757,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/7/8/2/2/9/678229e596a2836c42b313385cc7d8ed.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/8/2/2/9/678229e596a2836c42b313385cc7d8ed.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Beatriz Luengo Ft Orishas",
+    "display_artist": "Beatriz Luengo Ft Orishas",
+    "title": "Sabor Sabor",
+    "display_title": "Sabor Sabor",
+    "track": "Beatriz Luengo Ft Orishas - Sabor Sabor",
+    "length": 217,
+    "duration": 217,
+    "started": 1717422432,
+    "type": "track",
+    "track_id": 2889343,
+    "release": "Cuerpo Y Alma",
+    "art_url": "//cdn-images.audioaddict.com/9/2/4/0/7/e/92407e744a37dce72b8bc8ecbf5cbdef.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/4/0/7/e/92407e744a37dce72b8bc8ecbf5cbdef.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Coti",
+    "display_artist": "Coti",
+    "title": "Nada Fue Un Error",
+    "display_title": "Nada Fue Un Error",
+    "track": "Coti - Nada Fue Un Error",
+    "length": 233,
+    "duration": 233,
+    "started": 1717422835,
+    "type": "track",
+    "track_id": 453709,
+    "release": "2007 Anos De Exitos Pop",
+    "art_url": "//cdn-images.audioaddict.com/7/e/3/9/e/3/7e39e3a73c827221bd38a04ef008b1e4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/3/9/e/3/7e39e3a73c827221bd38a04ef008b1e4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Christina Aguilera",
+    "display_artist": "Christina Aguilera",
+    "title": "Pero Me Acuerdo De Ti",
+    "display_title": "Pero Me Acuerdo De Ti",
+    "track": "Christina Aguilera - Pero Me Acuerdo De Ti",
+    "length": 267,
+    "duration": 267,
+    "started": 1717423515,
+    "type": "track",
+    "track_id": 453689,
+    "release": "Mi Reflejo",
+    "art_url": "//cdn-images.audioaddict.com/1/9/7/a/3/a/197a3a6a3c51b5fed803bfde0d9267d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/7/a/3/a/197a3a6a3c51b5fed803bfde0d9267d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives Ft Thalia",
+    "display_artist": "Carlos Vives Ft Thalia",
+    "title": "Todo Me Gusta",
+    "display_title": "Todo Me Gusta",
+    "track": "Carlos Vives Ft Thalia - Todo Me Gusta",
+    "length": 230,
+    "duration": 230,
+    "started": 1717423948,
+    "type": "track",
+    "track_id": 2274177,
+    "release": "Vives",
+    "art_url": "//cdn-images.audioaddict.com/1/9/7/d/e/8/197de889bdc5340c3760f4be526df90c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/7/d/e/8/197de889bdc5340c3760f4be526df90c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres",
+    "display_artist": "Diego Torres",
+    "title": "Esa Mujer",
+    "display_title": "Esa Mujer",
+    "track": "Diego Torres - Esa Mujer",
+    "length": 194,
+    "duration": 194,
+    "started": 1717424397,
+    "type": "track",
+    "track_id": 2932780,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/8/c/c/d/c/e8ccdc01d2e25ea03b26113c8d59aafa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/c/c/d/c/e8ccdc01d2e25ea03b26113c8d59aafa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jesse & Joy feat. Alejandro Sanz",
+    "display_artist": "Jesse & Joy feat. Alejandro Sanz",
+    "title": "No Soy Una De Esas",
+    "display_title": "No Soy Una De Esas",
+    "track": "Jesse & Joy feat. Alejandro Sanz - No Soy Una De Esas",
+    "length": 224,
+    "duration": 224,
+    "started": 1717424743,
+    "type": "track",
+    "track_id": 1237916,
+    "release": "Pop Latin January 2016",
+    "art_url": "//cdn-images.audioaddict.com/9/2/3/e/2/9/923e295b5fa9bf1d3c435fe2a171fa8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/3/e/2/9/923e295b5fa9bf1d3c435fe2a171fa8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Mana",
+    "display_artist": "Mana",
+    "title": "Oye Mi Amor",
+    "display_title": "Oye Mi Amor",
+    "track": "Mana - Oye Mi Amor",
+    "length": 268,
+    "duration": 268,
+    "started": 1717425206,
+    "type": "track",
+    "track_id": 883079,
+    "release": "Las Clasicas Rock Pop En Espanol",
+    "art_url": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias Ft Gente De Zona, Descemer Bueno, Sean Paul",
+    "display_artist": "Enrique Iglesias Ft Gente De Zona, Descemer Bueno, Sean Paul",
+    "title": "Bailando (Spanglish Version)",
+    "display_title": "Bailando (Spanglish Version)",
+    "track": "Enrique Iglesias Ft Gente De Zona, Descemer Bueno, Sean Paul - Bailando (Spanglish Version)",
+    "length": 243,
+    "duration": 243,
+    "started": 1717425469,
+    "type": "track",
+    "track_id": 783851,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/f/c/4/a/3/dfc4a38226ddcd831a686dc92b995279.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/c/4/a/3/dfc4a38226ddcd831a686dc92b995279.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Miguel Bose",
+    "display_artist": "Miguel Bose",
+    "title": "Morena Mia",
+    "display_title": "Morena Mia",
+    "track": "Miguel Bose - Morena Mia",
+    "length": 240,
+    "duration": 240,
+    "started": 1717425959,
+    "type": "track",
+    "track_id": 454531,
+    "release": "No Title",
+    "art_url": "//cdn-images.audioaddict.com/7/4/e/3/3/1/74e3310d7eef5f6115a3ee3fa061b552.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/e/3/3/1/74e3310d7eef5f6115a3ee3fa061b552.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "La Oreja De Van Gogh",
+    "display_artist": "La Oreja De Van Gogh",
+    "title": "Rosas",
+    "display_title": "Rosas",
+    "track": "La Oreja De Van Gogh - Rosas",
+    "length": 235,
+    "duration": 235,
+    "started": 1717426402,
+    "type": "track",
+    "track_id": 470586,
+    "release": "En Directo",
+    "art_url": "//cdn-images.audioaddict.com/2/9/4/f/d/2/294fd2ae305a38c5effd32d6389816ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/4/f/d/2/294fd2ae305a38c5effd32d6389816ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives Feat. Chocquibtown",
+    "display_artist": "Carlos Vives Feat. Chocquibtown",
+    "title": "El Mar De Sus Ojos",
+    "display_title": "El Mar De Sus Ojos",
+    "track": "Carlos Vives Feat. Chocquibtown - El Mar De Sus Ojos",
+    "length": 232,
+    "duration": 232,
+    "started": 1717426637,
+    "type": "track",
+    "track_id": 956764,
+    "release": "Lo Mejor De Lo Mejor - 2014",
+    "art_url": "//cdn-images.audioaddict.com/4/0/f/3/2/9/40f32956aec9d9ef0060416696a8f4d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/f/3/2/9/40f32956aec9d9ef0060416696a8f4d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira Feat. Nicky Jam",
+    "display_artist": "Shakira Feat. Nicky Jam",
+    "title": "Perro Fiel",
+    "display_title": "Perro Fiel",
+    "track": "Shakira Feat. Nicky Jam - Perro Fiel",
+    "length": 193,
+    "duration": 193,
+    "started": 1717427101,
+    "type": "track",
+    "track_id": 2033805,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/c/4/4/9/3/5c449323d069da6b23a352dde9d90039.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/4/4/9/3/5c449323d069da6b23a352dde9d90039.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "J Balvin",
+    "display_artist": "J Balvin",
+    "title": "Sigo Extranandote",
+    "display_title": "Sigo Extranandote",
+    "track": "J Balvin - Sigo Extranandote",
+    "length": 198,
+    "duration": 198,
+    "started": 1717427561,
+    "type": "track",
+    "track_id": 1972422,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/1/d/8/9/7/c1d897dd514d29c0cc0a13749ffa5657.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/1/d/8/9/7/c1d897dd514d29c0cc0a13749ffa5657.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres",
+    "display_artist": "Diego Torres",
+    "title": "Silencios De Familia",
+    "display_title": "Silencios De Familia",
+    "track": "Diego Torres - Silencios De Familia",
+    "length": 203,
+    "duration": 203,
+    "started": 1717427942,
+    "type": "track",
+    "track_id": 1248004,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/8/9/4/1/f/a8941fd7ff89a8ff0efa4a0803fa62ac.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/9/4/1/f/a8941fd7ff89a8ff0efa4a0803fa62ac.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Rosario",
+    "display_artist": "Rosario",
+    "title": "Como Quieres Que Te Quiera",
+    "display_title": "Como Quieres Que Te Quiera",
+    "track": "Rosario - Como Quieres Que Te Quiera",
+    "length": 267,
+    "duration": 267,
+    "started": 1717428145,
+    "type": "track",
+    "track_id": 451253,
+    "release": "Muchas Flores",
+    "art_url": "//cdn-images.audioaddict.com/8/3/b/e/e/1/83bee13d36fb9eaeafc4964ca241373b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/b/e/e/1/83bee13d36fb9eaeafc4964ca241373b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Te Aviso, Te Anuncio",
+    "display_title": "Te Aviso, Te Anuncio",
+    "track": "Shakira - Te Aviso, Te Anuncio",
+    "length": 224,
+    "duration": 224,
+    "started": 1717428654,
+    "type": "track",
+    "track_id": 454979,
+    "release": "Laundry Service",
+    "art_url": "//cdn-images.audioaddict.com/2/f/a/b/3/4/2fab34825bd64899c0edf23815f53181.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/a/b/3/4/2fab34825bd64899c0edf23815f53181.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias feat. Wisin",
+    "display_artist": "Enrique Iglesias feat. Wisin",
+    "title": "Duele El Corazon",
+    "display_title": "Duele El Corazon",
+    "track": "Enrique Iglesias feat. Wisin - Duele El Corazon",
+    "length": 205,
+    "duration": 205,
+    "started": 1717429078,
+    "type": "track",
+    "track_id": 1252036,
+    "release": "Pop Latin July 2016",
+    "art_url": "//cdn-images.audioaddict.com/b/8/8/b/0/3/b88b03f07040e88dddf913ed760a2b30.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/8/b/0/3/b88b03f07040e88dddf913ed760a2b30.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Santana feat. Gloria Estefan",
+    "display_artist": "Santana feat. Gloria Estefan",
+    "title": "Besos De Lejos",
+    "display_title": "Besos De Lejos",
+    "track": "Santana feat. Gloria Estefan - Besos De Lejos",
+    "length": 253,
+    "duration": 253,
+    "started": 1717429487,
+    "type": "track",
+    "track_id": 780940,
+    "release": "Corazon",
+    "art_url": "//cdn-images.audioaddict.com/a/1/7/0/8/e/a1708e201213d77006b9539d6674e5f2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/7/0/8/e/a1708e201213d77006b9539d6674e5f2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ricky Martin Ft Christina Aguilera",
+    "display_artist": "Ricky Martin Ft Christina Aguilera",
+    "title": "Nobody Wants To Be Lonely",
+    "display_title": "Nobody Wants To Be Lonely",
+    "track": "Ricky Martin Ft Christina Aguilera - Nobody Wants To Be Lonely",
+    "length": 251,
+    "duration": 251,
+    "started": 1717429740,
+    "type": "track",
+    "track_id": 454908,
+    "release": "The Greatest 17 Hits",
+    "art_url": "//cdn-images.audioaddict.com/8/a/5/c/2/7/8a5c270df1d513737d75e4f73623e387.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/5/c/2/7/8a5c270df1d513737d75e4f73623e387.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Martina La Peligrosa",
+    "display_artist": "Martina La Peligrosa",
+    "title": "Bailame",
+    "display_title": "Bailame",
+    "track": "Martina La Peligrosa - Bailame",
+    "length": 189,
+    "duration": 189,
+    "started": 1717430196,
+    "type": "track",
+    "track_id": 2921070,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/f/7/7/6/b/8f776b9c717ccae51ee51d6229f1882b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/7/7/6/b/8f776b9c717ccae51ee51d6229f1882b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "Fuego (Radio)",
+    "display_title": "Fuego (Radio)",
+    "track": "Juanes - Fuego (Radio)",
+    "length": 174,
+    "duration": 174,
+    "started": 1717430594,
+    "type": "track",
+    "track_id": 1271669,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/c/d/8/6/6/9/cd8669b4fa3dabe5573287b2801da749.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/d/8/6/6/9/cd8669b4fa3dabe5573287b2801da749.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Rio Roma Ft Fonseca",
+    "display_artist": "Rio Roma Ft Fonseca",
+    "title": "Caminar De Tu Mano (Club Remix)",
+    "display_title": "Caminar De Tu Mano (Club Remix)",
+    "track": "Rio Roma Ft Fonseca - Caminar De Tu Mano (Club Remix)",
+    "length": 224,
+    "duration": 224,
+    "started": 1717430965,
+    "type": "track",
+    "track_id": 1262850,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/5/f/f/0/c/25ff0c108da2abd7264f77d42fb7a516.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/f/f/0/c/25ff0c108da2abd7264f77d42fb7a516.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Chayanne",
+    "display_artist": "Chayanne",
+    "title": "Quiero Bailar Contigo",
+    "display_title": "Quiero Bailar Contigo",
+    "track": "Chayanne - Quiero Bailar Contigo",
+    "length": 220,
+    "duration": 220,
+    "started": 1717431496,
+    "type": "track",
+    "track_id": 898617,
+    "release": "En Todo Estare (Deluxe Edition)",
+    "art_url": "//cdn-images.audioaddict.com/4/a/8/8/1/5/4a8815b11e62cdbb4e0417966a868d44.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/a/8/8/1/5/4a8815b11e62cdbb4e0417966a868d44.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias Feat. Gente De Zona",
+    "display_artist": "Enrique Iglesias Feat. Gente De Zona",
+    "title": "Duele El Corazon (Remix)",
+    "display_title": "Duele El Corazon (Remix)",
+    "track": "Enrique Iglesias Feat. Gente De Zona - Duele El Corazon (Remix)",
+    "length": 203,
+    "duration": 203,
+    "started": 1717431716,
+    "type": "track",
+    "track_id": 1262843,
+    "release": "Pop Latin August 2016",
+    "art_url": "//cdn-images.audioaddict.com/8/f/d/c/5/b/8fdc5ba55e8d7a4a348e592383c6d210.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/d/c/5/b/8fdc5ba55e8d7a4a348e592383c6d210.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias",
+    "display_artist": "Enrique Iglesias",
+    "title": "Cuando Me Enamoro (Mambo Kingz Remix) [feat. Juan Luis Guerra]",
+    "display_title": "Cuando Me Enamoro (Mambo Kingz Remix) [feat. Juan Luis Guerra]",
+    "track": "Enrique Iglesias - Cuando Me Enamoro (Mambo Kingz Remix) [feat. Juan Luis Guerra]",
+    "length": 213,
+    "duration": 213,
+    "started": 1717432121,
+    "type": "track",
+    "track_id": 973120,
+    "release": "Super 1's Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/3/9/3/9/0/d/39390dedf95d77e578b04e13b28e4869.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/3/9/0/d/39390dedf95d77e578b04e13b28e4869.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Morat Ft Juanes",
+    "display_artist": "Morat Ft Juanes",
+    "title": "Besos En Guerra",
+    "display_title": "Besos En Guerra",
+    "track": "Morat Ft Juanes - Besos En Guerra",
+    "length": 231,
+    "duration": 231,
+    "started": 1717432538,
+    "type": "track",
+    "track_id": 2911238,
+    "release": "Balas Perdidas",
+    "art_url": "//cdn-images.audioaddict.com/c/9/8/3/1/f/c9831f4aa99fa7e8bbcf9e1dae7bfb59.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/8/3/1/f/c9831f4aa99fa7e8bbcf9e1dae7bfb59.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jarabe De Palo",
+    "display_artist": "Jarabe De Palo",
+    "title": "Depende",
+    "display_title": "Depende",
+    "track": "Jarabe De Palo - Depende",
+    "length": 264,
+    "duration": 264,
+    "started": 1717432989,
+    "type": "track",
+    "track_id": 454118,
+    "release": "Jarabe De Palo: Grandes Exitos",
+    "art_url": "//cdn-images.audioaddict.com/9/7/8/f/1/e/978f1ed9d4e74b50946eb68a9d125d6d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/8/f/1/e/978f1ed9d4e74b50946eb68a9d125d6d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres Ft Chocquibtown",
+    "display_artist": "Diego Torres Ft Chocquibtown",
+    "title": "Por Ellas",
+    "display_title": "Por Ellas",
+    "track": "Diego Torres Ft Chocquibtown - Por Ellas",
+    "length": 216,
+    "duration": 216,
+    "started": 1717433439,
+    "type": "track",
+    "track_id": 1033702,
+    "release": "Buena Vida",
+    "art_url": "//cdn-images.audioaddict.com/3/a/b/4/a/7/3ab4a7f3a9fa54b949d3067a9a0cd694.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/b/4/a/7/3ab4a7f3a9fa54b949d3067a9a0cd694.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Belanova",
+    "display_artist": "Belanova",
+    "title": "Polaroid",
+    "display_title": "Polaroid",
+    "track": "Belanova - Polaroid",
+    "length": 196,
+    "duration": 196,
+    "started": 1717433654,
+    "type": "track",
+    "track_id": 2897789,
+    "release": "Viaje Al Centro Del Corazon",
+    "art_url": "//cdn-images.audioaddict.com/e/3/d/f/a/8/e3dfa826778b44207bdb4df13a80c160.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/d/f/a/8/e3dfa826778b44207bdb4df13a80c160.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Raquel Del Rosario Ft Complices",
+    "display_artist": "Raquel Del Rosario Ft Complices",
+    "title": "Es Por Ti",
+    "display_title": "Es Por Ti",
+    "track": "Raquel Del Rosario Ft Complices - Es Por Ti",
+    "length": 260,
+    "duration": 260,
+    "started": 1717434094,
+    "type": "track",
+    "track_id": 850889,
+    "release": "Rarezas Y Colaboraciones +",
+    "art_url": "//cdn-images.audioaddict.com/4/7/0/6/4/b/47064bcad7a77af6d714aa732d046628.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/0/6/4/b/47064bcad7a77af6d714aa732d046628.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fonseca Ft Melendi",
+    "display_artist": "Fonseca Ft Melendi",
+    "title": "Simples Corazones",
+    "display_title": "Simples Corazones",
+    "track": "Fonseca Ft Melendi - Simples Corazones",
+    "length": 241,
+    "duration": 241,
+    "started": 1717434829,
+    "type": "track",
+    "track_id": 2897793,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/0/1/e/c/4/d01ec416666bdb10cedf96ac7e16ca3e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/1/e/c/4/d01ec416666bdb10cedf96ac7e16ca3e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Sin Bandera",
+    "display_artist": "Sin Bandera",
+    "title": "Entra En Mi Vida",
+    "display_title": "Entra En Mi Vida",
+    "track": "Sin Bandera - Entra En Mi Vida",
+    "length": 250,
+    "duration": 250,
+    "started": 1717435257,
+    "type": "track",
+    "track_id": 925657,
+    "release": "Canciones De Novelas",
+    "art_url": "//cdn-images.audioaddict.com/e/a/e/d/2/1/eaed21081b8b57937e6180efe2e9755d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/e/d/2/1/eaed21081b8b57937e6180efe2e9755d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira Feat. Alejandro Sanz",
+    "display_artist": "Shakira Feat. Alejandro Sanz",
+    "title": "La Tortura",
+    "display_title": "La Tortura",
+    "track": "Shakira Feat. Alejandro Sanz - La Tortura",
+    "length": 213,
+    "duration": 213,
+    "started": 1717435706,
+    "type": "track",
+    "track_id": 454991,
+    "release": "La Tortura Promo Cds",
+    "art_url": "//cdn-images.audioaddict.com/4/6/c/5/5/b/46c55bded75a650d1e4f3f90aaf71c0b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/6/c/5/5/b/46c55bded75a650d1e4f3f90aaf71c0b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Pies Descalzos Suenos Blancos",
+    "display_title": "Pies Descalzos Suenos Blancos",
+    "track": "Shakira - Pies Descalzos Suenos Blancos",
+    "length": 208,
+    "duration": 208,
+    "started": 1717435917,
+    "type": "track",
+    "track_id": 454963,
+    "release": "Latino Hits Part 5",
+    "art_url": "//cdn-images.audioaddict.com/a/0/9/6/b/5/a096b5f2ab22e5d1af5c209a936bb101.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/9/6/b/5/a096b5f2ab22e5d1af5c209a936bb101.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias feat. Juan Luis Guerra",
+    "display_artist": "Enrique Iglesias feat. Juan Luis Guerra",
+    "title": "Cuando Me Enamoro",
+    "display_title": "Cuando Me Enamoro",
+    "track": "Enrique Iglesias feat. Juan Luis Guerra - Cuando Me Enamoro",
+    "length": 200,
+    "duration": 200,
+    "started": 1717436315,
+    "type": "track",
+    "track_id": 441665,
+    "release": "Euphoria",
+    "art_url": "//cdn-images.audioaddict.com/2/f/f/6/2/a/2ff62abb9e8b43a6ff43b86413dfb471.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/f/6/2/a/2ff62abb9e8b43a6ff43b86413dfb471.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ricky Martin Feat. Maluma",
+    "display_artist": "Ricky Martin Feat. Maluma",
+    "title": "Vente Pa' Ca",
+    "display_title": "Vente Pa' Ca",
+    "track": "Ricky Martin Feat. Maluma - Vente Pa' Ca",
+    "length": 256,
+    "duration": 256,
+    "started": 1717436696,
+    "type": "track",
+    "track_id": 1275757,
+    "release": "Pop Latin November 2016",
+    "art_url": "//cdn-images.audioaddict.com/f/e/2/3/5/6/fe23568aa7760951876bef33da24a06c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/e/2/3/5/6/fe23568aa7760951876bef33da24a06c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Luis Fonsi Y Demi Lovato",
+    "display_artist": "Luis Fonsi Y Demi Lovato",
+    "title": "Echame La Culpa",
+    "display_title": "Echame La Culpa",
+    "track": "Luis Fonsi Y Demi Lovato - Echame La Culpa",
+    "length": 173,
+    "duration": 173,
+    "started": 1717437160,
+    "type": "track",
+    "track_id": 2852206,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/a/c/b/0/4/7acb04f96e42e21fcb3608b6ba455d5d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/c/b/0/4/7acb04f96e42e21fcb3608b6ba455d5d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Chino Y Nacho",
+    "display_artist": "Chino Y Nacho",
+    "title": "Me Mata Me Mata",
+    "display_title": "Me Mata Me Mata",
+    "track": "Chino Y Nacho - Me Mata Me Mata",
+    "length": 222,
+    "duration": 222,
+    "started": 1717437601,
+    "type": "track",
+    "track_id": 753531,
+    "release": "Epoca De Reyes I",
+    "art_url": "//cdn-images.audioaddict.com/d/6/6/7/d/9/d667d97664bcc8dfbc90e9dd003c42ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/6/7/d/9/d667d97664bcc8dfbc90e9dd003c42ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "El Sueno De Morfeo Ft Alex Ubago",
+    "display_artist": "El Sueno De Morfeo Ft Alex Ubago",
+    "title": "Ojos De Cielo",
+    "display_title": "Ojos De Cielo",
+    "track": "El Sueno De Morfeo Ft Alex Ubago - Ojos De Cielo",
+    "length": 258,
+    "duration": 258,
+    "started": 1717437819,
+    "type": "track",
+    "track_id": 453782,
+    "release": "Todos Tenemos Un Sueno",
+    "art_url": "//cdn-images.audioaddict.com/1/8/d/d/c/2/18ddc256a551e00ad5df797760a3750f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/d/d/c/2/18ddc256a551e00ad5df797760a3750f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Eros Ramazzotti",
+    "display_artist": "Eros Ramazzotti",
+    "title": "Hay Vida",
+    "display_title": "Hay Vida",
+    "track": "Eros Ramazzotti - Hay Vida",
+    "length": 191,
+    "duration": 191,
+    "started": 1717438308,
+    "type": "track",
+    "track_id": 2914769,
+    "release": "Hay Vida",
+    "art_url": "//cdn-images.audioaddict.com/2/6/0/7/7/7/2607778b07a10fb3faf9129351571da4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/0/7/7/7/2607778b07a10fb3faf9129351571da4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes Y Alvaro Soler",
+    "display_artist": "Juanes Y Alvaro Soler",
+    "title": "Arte",
+    "display_title": "Arte",
+    "track": "Juanes Y Alvaro Soler - Arte",
+    "length": 210,
+    "duration": 210,
+    "started": 1717438759,
+    "type": "track",
+    "track_id": 2932784,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/b/2/9/6/2/6/b296266302719d587b4cdb17fc864f70.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/9/6/2/6/b296266302719d587b4cdb17fc864f70.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Sebastian Yatra",
+    "display_artist": "Sebastian Yatra",
+    "title": "Mantra",
+    "display_title": "Mantra",
+    "track": "Sebastian Yatra - Mantra",
+    "length": 208,
+    "duration": 208,
+    "started": 1717439133,
+    "type": "track",
+    "track_id": 2897802,
+    "release": "Mantra",
+    "art_url": "//cdn-images.audioaddict.com/0/2/e/2/6/f/02e26fc145faef88d9db4652b2c83d75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/2/e/2/6/f/02e26fc145faef88d9db4652b2c83d75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Laura Pausini & Kylie Minogue",
+    "display_artist": "Laura Pausini & Kylie Minogue",
+    "title": "Limpio (Spanglish Version)",
+    "display_title": "Limpio (Spanglish Version)",
+    "track": "Laura Pausini & Kylie Minogue - Limpio (Spanglish Version)",
+    "length": 209,
+    "duration": 209,
+    "started": 1717439805,
+    "type": "track",
+    "track_id": 741765,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/1/2/e/0/e/812e0e7b3035d03da79be77cae395ae9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/2/e/0/e/812e0e7b3035d03da79be77cae395ae9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives",
+    "display_artist": "Carlos Vives",
+    "title": "Volvi A Nacer (Pop Version)",
+    "display_title": "Volvi A Nacer (Pop Version)",
+    "track": "Carlos Vives - Volvi A Nacer (Pop Version)",
+    "length": 225,
+    "duration": 225,
+    "started": 1717440222,
+    "type": "track",
+    "track_id": 453628,
+    "release": "Corazon Profundo (Version Deluxe)",
+    "art_url": "//cdn-images.audioaddict.com/f/f/3/2/2/0/ff3220ebc01cee87f4a92692689f9ab3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/3/2/2/0/ff3220ebc01cee87f4a92692689f9ab3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes Ft Alessia Cara",
+    "display_artist": "Juanes Ft Alessia Cara",
+    "title": "Querer Mejor",
+    "display_title": "Querer Mejor",
+    "track": "Juanes Ft Alessia Cara - Querer Mejor",
+    "length": 171,
+    "duration": 171,
+    "started": 1717440733,
+    "type": "track",
+    "track_id": 2938655,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/c/0/9/5/3/6c0953b6c68bbc3ebb4540f4d2695ea5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/0/9/5/3/6c0953b6c68bbc3ebb4540f4d2695ea5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fonseca Ft Juanes",
+    "display_artist": "Fonseca Ft Juanes",
+    "title": "Y Tu",
+    "display_title": "Y Tu",
+    "track": "Fonseca Ft Juanes - Y Tu",
+    "length": 240,
+    "duration": 240,
+    "started": 1717440903,
+    "type": "track",
+    "track_id": 1034346,
+    "release": "Conexion",
+    "art_url": "//cdn-images.audioaddict.com/b/e/8/c/4/6/be8c4645646f2a8fa2566a1321cfdf21.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/8/c/4/6/be8c4645646f2a8fa2566a1321cfdf21.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Sanz",
+    "display_artist": "Alejandro Sanz",
+    "title": "Looking For Paradise (Urban Version)",
+    "display_title": "Looking For Paradise (Urban Version)",
+    "track": "Alejandro Sanz - Looking For Paradise (Urban Version)",
+    "length": 242,
+    "duration": 242,
+    "started": 1717441793,
+    "type": "track",
+    "track_id": 488767,
+    "release": "[promo Only] 2010-01 [pop Latin]",
+    "art_url": "//cdn-images.audioaddict.com/5/4/3/4/6/5/543465063ac4501a5ae639e238ccfe97.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/3/4/6/5/543465063ac4501a5ae639e238ccfe97.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "La 5a Estacion",
+    "display_artist": "La 5a Estacion",
+    "title": "Me Muero",
+    "display_title": "Me Muero",
+    "track": "La 5a Estacion - Me Muero",
+    "length": 189,
+    "duration": 189,
+    "started": 1717442634,
+    "type": "track",
+    "track_id": 890423,
+    "release": "Top Latino V3",
+    "art_url": "//cdn-images.audioaddict.com/7/6/5/9/6/c/76596ca671f1d2345b2088ea9bb3d415.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/5/9/6/c/76596ca671f1d2345b2088ea9bb3d415.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Morat",
+    "display_artist": "Morat",
+    "title": "Que Ganas",
+    "display_title": "Que Ganas",
+    "track": "Morat - Que Ganas",
+    "length": 212,
+    "duration": 212,
+    "started": 1717443031,
+    "type": "track",
+    "track_id": 2938662,
+    "release": "Balas Perdidas",
+    "art_url": "//cdn-images.audioaddict.com/4/1/d/6/1/d/41d61d8ea4a4c6f7d2c915468e5f2e2c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/d/6/1/d/41d61d8ea4a4c6f7d2c915468e5f2e2c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Fernandez Ft Morat",
+    "display_artist": "Alejandro Fernandez Ft Morat",
+    "title": "Se Que Te Duele",
+    "display_title": "Se Que Te Duele",
+    "track": "Alejandro Fernandez Ft Morat - Se Que Te Duele",
+    "length": 228,
+    "duration": 228,
+    "started": 1717443465,
+    "type": "track",
+    "track_id": 1972390,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/1/a/c/a/2/21aca2fea51d12a9426a349facf0a0ed.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/a/c/a/2/21aca2fea51d12a9426a349facf0a0ed.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Beatriz Luengo Ft Jesus Navarro (Reik)",
+    "display_artist": "Beatriz Luengo Ft Jesus Navarro (Reik)",
+    "title": "Mas Que Suerte",
+    "display_title": "Mas Que Suerte",
+    "track": "Beatriz Luengo Ft Jesus Navarro (Reik) - Mas Que Suerte",
+    "length": 205,
+    "duration": 205,
+    "started": 1717443691,
+    "type": "track",
+    "track_id": 1972401,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/9/d/5/2/e/79d52ee78fb3285691acdf87833a933b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/d/5/2/e/79d52ee78fb3285691acdf87833a933b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Gitana (Album Version)",
+    "display_title": "Gitana (Album Version)",
+    "track": "Shakira - Gitana (Album Version)",
+    "length": 205,
+    "duration": 205,
+    "started": 1717444112,
+    "type": "track",
+    "track_id": 887403,
+    "release": "Top Latino V.5",
+    "art_url": "//cdn-images.audioaddict.com/5/2/1/1/8/5/5211859c5e693306e45a8669c9732162.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/1/1/8/5/5211859c5e693306e45a8669c9732162.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jon Secada",
+    "display_artist": "Jon Secada",
+    "title": "Just Another Day (Spanish Edit)",
+    "display_title": "Just Another Day (Spanish Edit)",
+    "track": "Jon Secada - Just Another Day (Spanish Edit)",
+    "length": 258,
+    "duration": 258,
+    "started": 1717444581,
+    "type": "track",
+    "track_id": 454195,
+    "release": "Just Another Day Cds",
+    "art_url": "//cdn-images.audioaddict.com/3/1/a/3/c/e/31a3ceb2526436a957b3a6e692a278b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/a/3/c/e/31a3ceb2526436a957b3a6e692a278b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Vanesa Martin Ft Manuel Medrano",
+    "display_artist": "Vanesa Martin Ft Manuel Medrano",
+    "title": "Complicidad",
+    "display_title": "Complicidad",
+    "track": "Vanesa Martin Ft Manuel Medrano - Complicidad",
+    "length": 235,
+    "duration": 235,
+    "started": 1717445272,
+    "type": "track",
+    "track_id": 1275760,
+    "release": "Munay",
+    "art_url": "//cdn-images.audioaddict.com/5/9/2/6/6/8/592668b10b8a27b5b9a763ceb395427b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/2/6/6/8/592668b10b8a27b5b9a763ceb395427b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Roberto Carlos",
+    "display_artist": "Roberto Carlos",
+    "title": "Amigo",
+    "display_title": "Amigo",
+    "track": "Roberto Carlos - Amigo",
+    "length": 211,
+    "duration": 211,
+    "started": 1717445713,
+    "type": "track",
+    "track_id": 472138,
+    "release": "Roberto Carlos",
+    "art_url": "//cdn-images.audioaddict.com/9/b/b/0/f/8/9bb0f8e0f713c1c8b5feb58cda17cdbd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/b/0/f/8/9bb0f8e0f713c1c8b5feb58cda17cdbd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Andres Cepeda",
+    "display_artist": "Andres Cepeda",
+    "title": "Dia Tras Dia (Radio)",
+    "display_title": "Dia Tras Dia (Radio)",
+    "track": "Andres Cepeda - Dia Tras Dia (Radio)",
+    "length": 264,
+    "duration": 264,
+    "started": 1717446108,
+    "type": "track",
+    "track_id": 450332,
+    "release": "Promo Only Tropical Latin May",
+    "art_url": "//cdn-images.audioaddict.com/6/9/3/1/e/4/6931e4eab4d9ffa06622eff6cc182205.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/3/1/e/4/6931e4eab4d9ffa06622eff6cc182205.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "David Bisbal",
+    "display_artist": "David Bisbal",
+    "title": "Buleria",
+    "display_title": "Buleria",
+    "track": "David Bisbal - Buleria",
+    "length": 262,
+    "duration": 262,
+    "started": 1717446573,
+    "type": "track",
+    "track_id": 453739,
+    "release": "2005 Ano De Exitos Pop",
+    "art_url": "//cdn-images.audioaddict.com/7/b/3/a/8/4/7b3a8434560db144917891a93733f82b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/b/3/a/8/4/7b3a8434560db144917891a93733f82b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias Feat. Sean Paul",
+    "display_artist": "Enrique Iglesias Feat. Sean Paul",
+    "title": "Subeme La Radio (Remix)",
+    "display_title": "Subeme La Radio (Remix)",
+    "track": "Enrique Iglesias Feat. Sean Paul - Subeme La Radio (Remix)",
+    "length": 215,
+    "duration": 215,
+    "started": 1717446825,
+    "type": "track",
+    "track_id": 2033776,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/1/b/1/f/d/01b1fd0b8d2774efb7c6351590f98aba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/b/1/f/d/01b1fd0b8d2774efb7c6351590f98aba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Santana",
+    "display_artist": "Carlos Santana",
+    "title": "Maria, Maria (With Product G&b, Wyclef Jean)",
+    "display_title": "Maria, Maria (With Product G&b, Wyclef Jean)",
+    "track": "Carlos Santana - Maria, Maria (With Product G&b, Wyclef Jean)",
+    "length": 262,
+    "duration": 262,
+    "started": 1717447239,
+    "type": "track",
+    "track_id": 758632,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/1/a/4/1/1/31a41102511b867b805c79f04ea5e823.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/a/4/1/1/31a41102511b867b805c79f04ea5e823.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Soda Stereo",
+    "display_artist": "Soda Stereo",
+    "title": "Cuando Pase El Temblor",
+    "display_title": "Cuando Pase El Temblor",
+    "track": "Soda Stereo - Cuando Pase El Temblor",
+    "length": 294,
+    "duration": 294,
+    "started": 1717447752,
+    "type": "track",
+    "track_id": 467057,
+    "release": "El ultimo Concierto, Parte B [live]",
+    "art_url": "//cdn-images.audioaddict.com/9/4/e/a/4/8/94ea48fcf1ec33e90ccbcdbf0785a856.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/e/a/4/8/94ea48fcf1ec33e90ccbcdbf0785a856.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "David Bisbal Ft Tini Stoessel",
+    "display_artist": "David Bisbal Ft Tini Stoessel",
+    "title": "Todo Es Posible",
+    "display_title": "Todo Es Posible",
+    "track": "David Bisbal Ft Tini Stoessel - Todo Es Posible",
+    "length": 215,
+    "duration": 215,
+    "started": 1717448466,
+    "type": "track",
+    "track_id": 2033771,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/7/8/b/a/4/678ba462ae9013c1466b202860f381e7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/8/b/a/4/678ba462ae9013c1466b202860f381e7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Franco De Vita",
+    "display_artist": "Franco De Vita",
+    "title": "Si Tu No Estas",
+    "display_title": "Si Tu No Estas",
+    "track": "Franco De Vita - Si Tu No Estas",
+    "length": 264,
+    "duration": 264,
+    "started": 1717449172,
+    "type": "track",
+    "track_id": 937263,
+    "release": "Lo Mejor De Lo Mejor - 2013",
+    "art_url": "//cdn-images.audioaddict.com/e/8/5/b/3/4/e85b3422c0fdf87a296af8c9be313867.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/5/b/3/4/e85b3422c0fdf87a296af8c9be313867.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira Ft Maluma",
+    "display_artist": "Shakira Ft Maluma",
+    "title": "Chantaje (Radio)",
+    "display_title": "Chantaje (Radio)",
+    "track": "Shakira Ft Maluma - Chantaje (Radio)",
+    "length": 196,
+    "duration": 196,
+    "started": 1717449641,
+    "type": "track",
+    "track_id": 1275758,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/7/c/7/5/6/57c75698127132f9ddc9d43d11050b00.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/c/7/5/6/57c75698127132f9ddc9d43d11050b00.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "Fijate Bien",
+    "display_title": "Fijate Bien",
+    "track": "Juanes - Fijate Bien",
+    "length": 292,
+    "duration": 292,
+    "started": 1717449831,
+    "type": "track",
+    "track_id": 454218,
+    "release": "This Is Sound Of Juanes",
+    "art_url": "//cdn-images.audioaddict.com/5/0/5/6/f/6/5056f6ea4e38209f8185d73a3c9433a6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/5/6/f/6/5056f6ea4e38209f8185d73a3c9433a6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "La La La (Spanish Version)",
+    "display_title": "La La La (Spanish Version)",
+    "track": "Shakira - La La La (Spanish Version)",
+    "length": 187,
+    "duration": 187,
+    "started": 1717450320,
+    "type": "track",
+    "track_id": 1941759,
+    "release": "Shakira.",
+    "art_url": "//cdn-images.audioaddict.com/5/4/2/e/7/f/542e7f70474b70cd2bdfc2713041666e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/2/e/7/f/542e7f70474b70cd2bdfc2713041666e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Eros Ramazotti",
+    "display_artist": "Eros Ramazotti",
+    "title": "Otra Como Tu",
+    "display_title": "Otra Como Tu",
+    "track": "Eros Ramazotti - Otra Como Tu",
+    "length": 281,
+    "duration": 281,
+    "started": 1717451193,
+    "type": "track",
+    "track_id": 453832,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/9/d/b/3/cf9db37507a40738e924908651662cf7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/9/d/b/3/cf9db37507a40738e924908651662cf7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Andres Cepeda",
+    "display_artist": "Andres Cepeda",
+    "title": "Voy A Extranarte",
+    "display_title": "Voy A Extranarte",
+    "track": "Andres Cepeda - Voy A Extranarte",
+    "length": 163,
+    "duration": 163,
+    "started": 1717451472,
+    "type": "track",
+    "track_id": 450349,
+    "release": "Para Amarte Mejor",
+    "art_url": "//cdn-images.audioaddict.com/2/2/5/0/6/a/22506ac331fad938dd23167ea21833a7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/5/0/6/a/22506ac331fad938dd23167ea21833a7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Los Pericos",
+    "display_artist": "Los Pericos",
+    "title": "Mucha Experiencia",
+    "display_title": "Mucha Experiencia",
+    "track": "Los Pericos - Mucha Experiencia",
+    "length": 223,
+    "duration": 223,
+    "started": 1717451907,
+    "type": "track",
+    "track_id": 794158,
+    "release": "Pampas Reggae",
+    "art_url": "//cdn-images.audioaddict.com/3/d/3/4/2/6/3d3426bc74c8244791137679082227be.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/3/4/2/6/3d3426bc74c8244791137679082227be.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Sanz",
+    "display_artist": "Alejandro Sanz",
+    "title": "Te Lo Agradezco, Pero No",
+    "display_title": "Te Lo Agradezco, Pero No",
+    "track": "Alejandro Sanz - Te Lo Agradezco, Pero No",
+    "length": 275,
+    "duration": 275,
+    "started": 1717452321,
+    "type": "track",
+    "track_id": 450277,
+    "release": "Coleccion Definitiva",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/7/f/f0037f4f61941fe021f36c21b1f204e0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/7/f/f0037f4f61941fe021f36c21b1f204e0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juan Luis Guerra Ft Juanes",
+    "display_artist": "Juan Luis Guerra Ft Juanes",
+    "title": "La Calle",
+    "display_title": "La Calle",
+    "track": "Juan Luis Guerra Ft Juanes - La Calle",
+    "length": 217,
+    "duration": 217,
+    "started": 1717452594,
+    "type": "track",
+    "track_id": 723449,
+    "release": "Duetos",
+    "art_url": "//cdn-images.audioaddict.com/9/5/e/2/4/7/95e247cbe48cc58b94d852237be2ed05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/e/2/4/7/95e247cbe48cc58b94d852237be2ed05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Paty Cantu Ft Alejandro Sanz",
+    "display_artist": "Paty Cantu Ft Alejandro Sanz",
+    "title": "Cuenta Pendiente",
+    "display_title": "Cuenta Pendiente",
+    "track": "Paty Cantu Ft Alejandro Sanz - Cuenta Pendiente",
+    "length": 192,
+    "duration": 192,
+    "started": 1717452993,
+    "type": "track",
+    "track_id": 2905765,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/a/e/f/5/f/faef5f5b4591ad2f5d91e5b255f0ebec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/a/e/f/5/f/faef5f5b4591ad2f5d91e5b255f0ebec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alvaro Soler y Morat",
+    "display_artist": "Alvaro Soler y Morat",
+    "title": "Yo Contigo Tu Conmigo",
+    "display_title": "Yo Contigo Tu Conmigo",
+    "track": "Alvaro Soler y Morat - Yo Contigo Tu Conmigo",
+    "length": 179,
+    "duration": 179,
+    "started": 1717454649,
+    "type": "track",
+    "track_id": 2905756,
+    "release": "Mar De Colores",
+    "art_url": "//cdn-images.audioaddict.com/6/f/7/f/6/5/6f7f65a047e99f8871409729053cf0f4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/7/f/6/5/6f7f65a047e99f8871409729053cf0f4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Chayanne",
+    "display_artist": "Chayanne",
+    "title": "No Se Por Que (Album Version)",
+    "display_title": "No Se Por Que (Album Version)",
+    "track": "Chayanne - No Se Por Que (Album Version)",
+    "length": 259,
+    "duration": 259,
+    "started": 1717455299,
+    "type": "track",
+    "track_id": 890415,
+    "release": "Top Latino V3",
+    "art_url": "//cdn-images.audioaddict.com/7/6/5/9/6/c/76596ca671f1d2345b2088ea9bb3d415.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/5/9/6/c/76596ca671f1d2345b2088ea9bb3d415.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fonseca",
+    "display_artist": "Fonseca",
+    "title": "Eres Mi Sueno",
+    "display_title": "Eres Mi Sueno",
+    "track": "Fonseca - Eres Mi Sueno",
+    "length": 210,
+    "duration": 210,
+    "started": 1717455748,
+    "type": "track",
+    "track_id": 441734,
+    "release": "Top Latino, Vol. 7",
+    "art_url": "//cdn-images.audioaddict.com/e/c/d/8/5/8/ecd858a03fe0c4f682526f92c3c0084e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/d/8/5/8/ecd858a03fe0c4f682526f92c3c0084e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Kaoma",
+    "display_artist": "Kaoma",
+    "title": "Lambada (Original Version 1989)",
+    "display_title": "Lambada (Original Version 1989)",
+    "track": "Kaoma - Lambada (Original Version 1989)",
+    "length": 207,
+    "duration": 207,
+    "started": 1717456610,
+    "type": "track",
+    "track_id": 2271298,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/f/9/8/c/7/bf98c7875fbd6eb296c9f4d8b5bda3b7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/f/9/8/c/7/bf98c7875fbd6eb296c9f4d8b5bda3b7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Luis Enrique",
+    "display_artist": "Luis Enrique",
+    "title": "Yo No Se Manana (Pop Version)",
+    "display_title": "Yo No Se Manana (Pop Version)",
+    "track": "Luis Enrique - Yo No Se Manana (Pop Version)",
+    "length": 233,
+    "duration": 233,
+    "started": 1717457272,
+    "type": "track",
+    "track_id": 454346,
+    "release": "Yo No Se Manana",
+    "art_url": "//cdn-images.audioaddict.com/5/e/1/a/e/6/5e1ae69ca050503b8bf0091413929b35.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/1/a/e/6/5e1ae69ca050503b8bf0091413929b35.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Luis Fonsi Ft Daddy Yankee",
+    "display_artist": "Luis Fonsi Ft Daddy Yankee",
+    "title": "Despacito (Radio Pop Version)",
+    "display_title": "Despacito (Radio Pop Version)",
+    "track": "Luis Fonsi Ft Daddy Yankee - Despacito (Radio Pop Version)",
+    "length": 227,
+    "duration": 227,
+    "started": 1717458372,
+    "type": "track",
+    "track_id": 1972437,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/a/1/b/0/2/4a1b02fb7580377103913f1e9e69aa43.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/a/1/b/0/2/4a1b02fb7580377103913f1e9e69aa43.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Aleks Syntek Ft Ana Torroja",
+    "display_artist": "Aleks Syntek Ft Ana Torroja",
+    "title": "Duele El Amor (2008 Digital Remaster)",
+    "display_title": "Duele El Amor (2008 Digital Remaster)",
+    "track": "Aleks Syntek Ft Ana Torroja - Duele El Amor (2008 Digital Remaster)",
+    "length": 274,
+    "duration": 274,
+    "started": 1717458767,
+    "type": "track",
+    "track_id": 453360,
+    "release": "1989-2009",
+    "art_url": "//cdn-images.audioaddict.com/e/c/7/7/6/b/ec776b20f5b8210b1860bed1f49d334f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/7/7/6/b/ec776b20f5b8210b1860bed1f49d334f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres Y Carlos Vives",
+    "display_artist": "Diego Torres Y Carlos Vives",
+    "title": "Un Poquito",
+    "display_title": "Un Poquito",
+    "track": "Diego Torres Y Carlos Vives - Un Poquito",
+    "length": 186,
+    "duration": 186,
+    "started": 1717459265,
+    "type": "track",
+    "track_id": 2897791,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/5/c/a/6/4/25ca64bc9938372d76accf0b7666a89e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/c/a/6/4/25ca64bc9938372d76accf0b7666a89e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Soda Stereo",
+    "display_artist": "Soda Stereo",
+    "title": "Persiana Americana",
+    "display_title": "Persiana Americana",
+    "track": "Soda Stereo - Persiana Americana",
+    "length": 280,
+    "duration": 280,
+    "started": 1717460286,
+    "type": "track",
+    "track_id": 467079,
+    "release": "El ultimo Concierto, Parte B [live]",
+    "art_url": "//cdn-images.audioaddict.com/9/4/e/a/4/8/94ea48fcf1ec33e90ccbcdbf0785a856.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/e/a/4/8/94ea48fcf1ec33e90ccbcdbf0785a856.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Georgina",
+    "display_artist": "Georgina",
+    "title": "Bienvenido A Mi Habitacion",
+    "display_title": "Bienvenido A Mi Habitacion",
+    "track": "Georgina - Bienvenido A Mi Habitacion",
+    "length": 191,
+    "duration": 191,
+    "started": 1717462324,
+    "type": "track",
+    "track_id": 2932782,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/4/f/7/6/8/84f768f95cafa47267aaeefcd5c0e258.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/f/7/6/8/84f768f95cafa47267aaeefcd5c0e258.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "El Ratico (Remix)",
+    "display_title": "El Ratico (Remix)",
+    "track": "Juanes - El Ratico (Remix)",
+    "length": 159,
+    "duration": 159,
+    "started": 1717462725,
+    "type": "track",
+    "track_id": 2033787,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/0/3/6/7/7/10367754833b9b07ce4b5983ddafcb3b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/3/6/7/7/10367754833b9b07ce4b5983ddafcb3b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fonseca",
+    "display_artist": "Fonseca",
+    "title": "Solo Contigo",
+    "display_title": "Solo Contigo",
+    "track": "Fonseca - Solo Contigo",
+    "length": 214,
+    "duration": 214,
+    "started": 1717470623,
+    "type": "track",
+    "track_id": 2914771,
+    "release": "Agustin",
+    "art_url": "//cdn-images.audioaddict.com/c/b/b/7/4/d/cbb74d20ccb3327f2def66c85ee9988c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/b/7/4/d/cbb74d20ccb3327f2def66c85ee9988c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Daniel Lema Ft Mariana",
+    "display_artist": "Daniel Lema Ft Mariana",
+    "title": "Despacito",
+    "display_title": "Despacito",
+    "track": "Daniel Lema Ft Mariana - Despacito",
+    "length": 187,
+    "duration": 187,
+    "started": 1717472624,
+    "type": "track",
+    "track_id": 1271661,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/6/c/0/0/b/a6c00b36989a475843673df4c5257a08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/c/0/0/b/a6c00b36989a475843673df4c5257a08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Underneath You Clothes -21st",
+    "display_title": "Underneath You Clothes -21st",
+    "track": "Shakira - Underneath You Clothes -21st",
+    "length": 225,
+    "duration": 225,
+    "started": 1717474477,
+    "type": "track",
+    "track_id": 454984,
+    "release": "Laundry Service",
+    "art_url": "//cdn-images.audioaddict.com/0/b/c/7/1/e/0bc71eb21c05111728d12f739e1d0e17.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/c/7/1/e/0bc71eb21c05111728d12f739e1d0e17.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ricardo Montaner",
+    "display_artist": "Ricardo Montaner",
+    "title": "Hombre Normal",
+    "display_title": "Hombre Normal",
+    "track": "Ricardo Montaner - Hombre Normal",
+    "length": 211,
+    "duration": 211,
+    "started": 1717475663,
+    "type": "track",
+    "track_id": 1972452,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/9/7/8/3/5/597835afc2149136f98b034826ed9b6b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/7/8/3/5/597835afc2149136f98b034826ed9b6b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives",
+    "display_artist": "Carlos Vives",
+    "title": "Vivir Contigo",
+    "display_title": "Vivir Contigo",
+    "track": "Carlos Vives - Vivir Contigo",
+    "length": 222,
+    "duration": 222,
+    "started": 1717476213,
+    "type": "track",
+    "track_id": 2274175,
+    "release": "Vives",
+    "art_url": "//cdn-images.audioaddict.com/1/9/7/d/e/8/197de889bdc5340c3760f4be526df90c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/7/d/e/8/197de889bdc5340c3760f4be526df90c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Piso 21 Feat. Maluma",
+    "display_artist": "Piso 21 Feat. Maluma",
+    "title": "Me Llamas (Acoustic Pop Version)",
+    "display_title": "Me Llamas (Acoustic Pop Version)",
+    "track": "Piso 21 Feat. Maluma - Me Llamas (Acoustic Pop Version)",
+    "length": 176,
+    "duration": 176,
+    "started": 1717477250,
+    "type": "track",
+    "track_id": 1972446,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/e/e/0/7/4/aee074688a81732cbf10d605e877f728.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/e/0/7/4/aee074688a81732cbf10d605e877f728.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Michel",
+    "display_artist": "Michel",
+    "title": "Ai Se Eu Te Pego",
+    "display_title": "Ai Se Eu Te Pego",
+    "track": "Michel - Ai Se Eu Te Pego",
+    "length": 171,
+    "duration": 171,
+    "started": 1717477765,
+    "type": "track",
+    "track_id": 454459,
+    "release": "Amiga Da Minha Irma",
+    "art_url": "//cdn-images.audioaddict.com/a/4/7/9/3/5/a479356571d799988cf864cc72e87c19.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/7/9/3/5/a479356571d799988cf864cc72e87c19.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Sebastian Yatra",
+    "display_artist": "Sebastian Yatra",
+    "title": "Devuelveme El Corazon",
+    "display_title": "Devuelveme El Corazon",
+    "track": "Sebastian Yatra - Devuelveme El Corazon",
+    "length": 244,
+    "duration": 244,
+    "started": 1717477936,
+    "type": "track",
+    "track_id": 2033806,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/c/f/7/d/c4cf7d1a69d74fbaadd7c8b212b3c524.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/c/f/7/d/c4cf7d1a69d74fbaadd7c8b212b3c524.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "Angel",
+    "display_title": "Angel",
+    "track": "Juanes - Angel",
+    "length": 236,
+    "duration": 236,
+    "started": 1717480724,
+    "type": "track",
+    "track_id": 1972429,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/f/6/6/2/d/df662d5bc19a976161244e3a63d0ee73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/6/6/2/d/df662d5bc19a976161244e3a63d0ee73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Laura Pausini Ft Gente De Zona",
+    "display_artist": "Laura Pausini Ft Gente De Zona",
+    "title": "Nadie Ha Dicho",
+    "display_title": "Nadie Ha Dicho",
+    "track": "Laura Pausini Ft Gente De Zona - Nadie Ha Dicho",
+    "length": 218,
+    "duration": 218,
+    "started": 1717483565,
+    "type": "track",
+    "track_id": 2879188,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/e/2/6/c/5/5e26c5eedd1e105eae7bb5b246042592.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/2/6/c/5/5e26c5eedd1e105eae7bb5b246042592.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Sanz",
+    "display_artist": "Alejandro Sanz",
+    "title": "Cuando Nadie Me Ve",
+    "display_title": "Cuando Nadie Me Ve",
+    "track": "Alejandro Sanz - Cuando Nadie Me Ve",
+    "length": 308,
+    "duration": 308,
+    "started": 1717483971,
+    "type": "track",
+    "track_id": 450257,
+    "release": "Coleccion Definitiva",
+    "art_url": "//cdn-images.audioaddict.com/0/8/b/f/2/3/08bf239e0c6aa07a7622083d5f5f71c3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/b/f/2/3/08bf239e0c6aa07a7622083d5f5f71c3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "La Oreja De Van Gogh",
+    "display_artist": "La Oreja De Van Gogh",
+    "title": "Cuidate",
+    "display_title": "Cuidate",
+    "track": "La Oreja De Van Gogh - Cuidate",
+    "length": 187,
+    "duration": 187,
+    "started": 1717488189,
+    "type": "track",
+    "track_id": 470567,
+    "release": "En Directo",
+    "art_url": "//cdn-images.audioaddict.com/2/9/4/f/d/2/294fd2ae305a38c5effd32d6389816ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/4/f/d/2/294fd2ae305a38c5effd32d6389816ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diego Torres",
+    "display_artist": "Diego Torres",
+    "title": "Color Esperanza",
+    "display_title": "Color Esperanza",
+    "track": "Diego Torres - Color Esperanza",
+    "length": 316,
+    "duration": 316,
+    "started": 1717489782,
+    "type": "track",
+    "track_id": 695025,
+    "release": "Lo Mejor De Mtv Unplugged",
+    "art_url": "//cdn-images.audioaddict.com/e/6/f/b/d/b/e6fbdba79cd025de4429b2c81f68fcb5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/f/b/d/b/e6fbdba79cd025de4429b2c81f68fcb5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Waka Waka (Esto Es Africa) [k-Mix]",
+    "display_title": "Waka Waka (Esto Es Africa) [k-Mix]",
+    "track": "Shakira - Waka Waka (Esto Es Africa) [k-Mix]",
+    "length": 184,
+    "duration": 184,
+    "started": 1717491280,
+    "type": "track",
+    "track_id": 454985,
+    "release": "Sale El Sol",
+    "art_url": "//cdn-images.audioaddict.com/f/1/d/2/5/b/f1d25b6c838093fa37b3bb20bb460de2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/d/2/5/b/f1d25b6c838093fa37b3bb20bb460de2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "La Quinta Estacion",
+    "display_artist": "La Quinta Estacion",
+    "title": "Que Te Queria",
+    "display_title": "Que Te Queria",
+    "track": "La Quinta Estacion - Que Te Queria",
+    "length": 228,
+    "duration": 228,
+    "started": 1717491732,
+    "type": "track",
+    "track_id": 897547,
+    "release": "Top Latino 4",
+    "art_url": "//cdn-images.audioaddict.com/3/d/6/6/9/4/3d66944698eeae8d63959236381d4f2a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/6/6/9/4/3d66944698eeae8d63959236381d4f2a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Baute Y Marta Sanchez",
+    "display_artist": "Carlos Baute Y Marta Sanchez",
+    "title": "Te Sigo Pensando",
+    "display_title": "Te Sigo Pensando",
+    "track": "Carlos Baute Y Marta Sanchez - Te Sigo Pensando",
+    "length": 220,
+    "duration": 220,
+    "started": 1717493245,
+    "type": "track",
+    "track_id": 2921065,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/6/c/1/7/d/86c17dc235838653489c8a4583184a1c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/c/1/7/d/86c17dc235838653489c8a4583184a1c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Miguel Mateos",
+    "display_artist": "Miguel Mateos",
+    "title": "Cuando Seas Grande",
+    "display_title": "Cuando Seas Grande",
+    "track": "Miguel Mateos - Cuando Seas Grande",
+    "length": 266,
+    "duration": 266,
+    "started": 1717498032,
+    "type": "track",
+    "track_id": 466792,
+    "release": "Grandes Exitos",
+    "art_url": "//cdn-images.audioaddict.com/6/7/6/d/d/7/676dd73543b80b9e6cfbcf7172640eb2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/6/d/d/7/676dd73543b80b9e6cfbcf7172640eb2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Luis Fonsi Ft Steff London",
+    "display_artist": "Luis Fonsi Ft Steff London",
+    "title": "Calypso",
+    "display_title": "Calypso",
+    "track": "Luis Fonsi Ft Steff London - Calypso",
+    "length": 199,
+    "duration": 199,
+    "started": 1717498752,
+    "type": "track",
+    "track_id": 2897797,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/b/3/d/a/5/1b3da512255a4597ede3d8cc1c747418.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/3/d/a/5/1b3da512255a4597ede3d8cc1c747418.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Lamari De Chambao",
+    "display_artist": "Lamari De Chambao",
+    "title": "Corazon Partio",
+    "display_title": "Corazon Partio",
+    "track": "Lamari De Chambao - Corazon Partio",
+    "length": 310,
+    "duration": 310,
+    "started": 1717500260,
+    "type": "track",
+    "track_id": 726593,
+    "release": "Y Si Fueran Ellas",
+    "art_url": "//cdn-images.audioaddict.com/2/3/3/7/a/6/2337a6ed9de93e5e392eddcb567df745.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/3/7/a/6/2337a6ed9de93e5e392eddcb567df745.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Gipsy Kings",
+    "display_artist": "Gipsy Kings",
+    "title": "Volare",
+    "display_title": "Volare",
+    "track": "Gipsy Kings - Volare",
+    "length": 210,
+    "duration": 210,
+    "started": 1717500733,
+    "type": "track",
+    "track_id": 688900,
+    "release": "Rare & Unplugged",
+    "art_url": "//cdn-images.audioaddict.com/e/8/b/5/4/d/e8b54d6fb3a51da20a1530a13186143f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/b/5/4/d/e8b54d6fb3a51da20a1530a13186143f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ricky Martin",
+    "display_artist": "Ricky Martin",
+    "title": "Living La Vida Loca",
+    "display_title": "Living La Vida Loca",
+    "track": "Ricky Martin - Living La Vida Loca",
+    "length": 245,
+    "duration": 245,
+    "started": 1717501145,
+    "type": "track",
+    "track_id": 454877,
+    "release": "The Greatest 17 Hits",
+    "art_url": "//cdn-images.audioaddict.com/8/a/5/c/2/7/8a5c270df1d513737d75e4f73623e387.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/5/c/2/7/8a5c270df1d513737d75e4f73623e387.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Chayanne",
+    "display_artist": "Chayanne",
+    "title": "Humanos A Marte",
+    "display_title": "Humanos A Marte",
+    "track": "Chayanne - Humanos A Marte",
+    "length": 224,
+    "duration": 224,
+    "started": 1717501582,
+    "type": "track",
+    "track_id": 955756,
+    "release": "Lo Mejor De Lo Mejor - 2014",
+    "art_url": "//cdn-images.audioaddict.com/4/0/f/3/2/9/40f32956aec9d9ef0060416696a8f4d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/f/3/2/9/40f32956aec9d9ef0060416696a8f4d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Nelly Furtado",
+    "display_artist": "Nelly Furtado",
+    "title": "Manos Al Aire [album Version]",
+    "display_title": "Manos Al Aire [album Version]",
+    "track": "Nelly Furtado - Manos Al Aire [album Version]",
+    "length": 210,
+    "duration": 210,
+    "started": 1717502441,
+    "type": "track",
+    "track_id": 454755,
+    "release": "Mi Plan",
+    "art_url": "//cdn-images.audioaddict.com/4/1/d/7/c/c/41d7cc528cdeb378b390712347aeb2b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/d/7/c/c/41d7cc528cdeb378b390712347aeb2b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Son By Four",
+    "display_artist": "Son By Four",
+    "title": "Purest Of Pain (A Puro Dolor) (Spanglish)",
+    "display_title": "Purest Of Pain (A Puro Dolor) (Spanglish)",
+    "track": "Son By Four - Purest Of Pain (A Puro Dolor) (Spanglish)",
+    "length": 209,
+    "duration": 209,
+    "started": 1717503989,
+    "type": "track",
+    "track_id": 480211,
+    "release": "Son By Four",
+    "art_url": "//cdn-images.audioaddict.com/b/b/f/b/6/1/bbfb619895583fffc02668c5991b5e7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/f/b/6/1/bbfb619895583fffc02668c5991b5e7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Si Te Vas",
+    "display_title": "Si Te Vas",
+    "track": "Shakira - Si Te Vas",
+    "length": 212,
+    "duration": 212,
+    "started": 1717504198,
+    "type": "track",
+    "track_id": 454975,
+    "release": "Latino Hits Part 5",
+    "art_url": "//cdn-images.audioaddict.com/a/d/d/0/7/a/add07a69162b5bc759b30d5e079be303.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/d/0/7/a/add07a69162b5bc759b30d5e079be303.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "La Camisa Negra",
+    "display_title": "La Camisa Negra",
+    "track": "Juanes - La Camisa Negra",
+    "length": 216,
+    "duration": 216,
+    "started": 1717505093,
+    "type": "track",
+    "track_id": 454223,
+    "release": "Mi sangre",
+    "art_url": "//cdn-images.audioaddict.com/5/0/5/6/f/6/5056f6ea4e38209f8185d73a3c9433a6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/5/6/f/6/5056f6ea4e38209f8185d73a3c9433a6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Julieta Venegas",
+    "display_artist": "Julieta Venegas",
+    "title": "Me Voy",
+    "display_title": "Me Voy",
+    "track": "Julieta Venegas - Me Voy",
+    "length": 188,
+    "duration": 188,
+    "started": 1717506690,
+    "type": "track",
+    "track_id": 781254,
+    "release": "Realmente Lo Mejor",
+    "art_url": "//cdn-images.audioaddict.com/3/e/2/5/1/f/3e251f32ab741adb36d5e492bc4bc0ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/e/2/5/1/f/3e251f32ab741adb36d5e492bc4bc0ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Draco Rosa Feat. Ricky Martin",
+    "display_artist": "Draco Rosa Feat. Ricky Martin",
+    "title": "Mas Y Mas",
+    "display_title": "Mas Y Mas",
+    "track": "Draco Rosa Feat. Ricky Martin - Mas Y Mas",
+    "length": 203,
+    "duration": 203,
+    "started": 1717507895,
+    "type": "track",
+    "track_id": 939234,
+    "release": "Lo Mejor De Lo Mejor - 2013",
+    "art_url": "//cdn-images.audioaddict.com/e/8/5/b/3/4/e85b3422c0fdf87a296af8c9be313867.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/5/b/3/4/e85b3422c0fdf87a296af8c9be313867.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Mana",
+    "display_artist": "Mana",
+    "title": "Vivir Sin Aire (Remasterizado)",
+    "display_title": "Vivir Sin Aire (Remasterizado)",
+    "track": "Mana - Vivir Sin Aire (Remasterizado)",
+    "length": 293,
+    "duration": 293,
+    "started": 1717508095,
+    "type": "track",
+    "track_id": 466636,
+    "release": "Exiliados En La Bahia: Lo Mejor De Mana",
+    "art_url": "//cdn-images.audioaddict.com/e/0/1/d/3/a/e01d3a7e50b6625cde1f43f19c5f0fa7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/1/d/3/a/e01d3a7e50b6625cde1f43f19c5f0fa7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes Ft Kali Uchis",
+    "display_artist": "Juanes Ft Kali Uchis",
+    "title": "El Ratico",
+    "display_title": "El Ratico",
+    "track": "Juanes Ft Kali Uchis - El Ratico",
+    "length": 166,
+    "duration": 166,
+    "started": 1717510133,
+    "type": "track",
+    "track_id": 1972433,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/a/5/8/d/6/7a58d68266f10ae11711b7a0bf8f3a52.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/5/8/d/6/7a58d68266f10ae11711b7a0bf8f3a52.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "David Bisbal",
+    "display_artist": "David Bisbal",
+    "title": "Silencio (Album Version)",
+    "display_title": "Silencio (Album Version)",
+    "track": "David Bisbal - Silencio (Album Version)",
+    "length": 218,
+    "duration": 218,
+    "started": 1717512399,
+    "type": "track",
+    "track_id": 939233,
+    "release": "2008 Ano De Exitos Pop",
+    "art_url": "//cdn-images.audioaddict.com/6/3/9/4/1/a/63941ae0ed2864262d09e968222116df.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/3/9/4/1/a/63941ae0ed2864262d09e968222116df.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Sin Bandera",
+    "display_artist": "Sin Bandera",
+    "title": "Que Me Alcance La Vida",
+    "display_title": "Que Me Alcance La Vida",
+    "track": "Sin Bandera - Que Me Alcance La Vida",
+    "length": 226,
+    "duration": 226,
+    "started": 1717513688,
+    "type": "track",
+    "track_id": 1941761,
+    "release": "Top Latino Clasicos",
+    "art_url": "//cdn-images.audioaddict.com/a/6/6/1/0/c/a6610cc0aa036d33d561bcc2c36a6ae2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/6/1/0/c/a6610cc0aa036d33d561bcc2c36a6ae2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "La Oreja De Van Gogh",
+    "display_artist": "La Oreja De Van Gogh",
+    "title": "Geografia",
+    "display_title": "Geografia",
+    "track": "La Oreja De Van Gogh - Geografia",
+    "length": 186,
+    "duration": 186,
+    "started": 1717514086,
+    "type": "track",
+    "track_id": 470574,
+    "release": "En Directo",
+    "art_url": "//cdn-images.audioaddict.com/2/9/4/f/d/2/294fd2ae305a38c5effd32d6389816ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/4/f/d/2/294fd2ae305a38c5effd32d6389816ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias Ft Juan Luis Guerra",
+    "display_artist": "Enrique Iglesias Ft Juan Luis Guerra",
+    "title": "Cuando Me Enamoro (Urban Version)",
+    "display_title": "Cuando Me Enamoro (Urban Version)",
+    "track": "Enrique Iglesias Ft Juan Luis Guerra - Cuando Me Enamoro (Urban Version)",
+    "length": 215,
+    "duration": 215,
+    "started": 1717514444,
+    "type": "track",
+    "track_id": 1015746,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/7/0/9/6/8/d709681493db09035d9d72ba60ae16a5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/0/9/6/8/d709681493db09035d9d72ba60ae16a5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Los Lobos",
+    "display_artist": "Los Lobos",
+    "title": "La Bamba",
+    "display_title": "La Bamba",
+    "track": "Los Lobos - La Bamba",
+    "length": 180,
+    "duration": 180,
+    "started": 1717516223,
+    "type": "track",
+    "track_id": 883078,
+    "release": "Las Clasicas Rock Pop En Espanol",
+    "art_url": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Melendi Y Carlos Vives",
+    "display_artist": "Melendi Y Carlos Vives",
+    "title": "El Arrepentido (Radio)",
+    "display_title": "El Arrepentido (Radio)",
+    "track": "Melendi Y Carlos Vives - El Arrepentido (Radio)",
+    "length": 218,
+    "duration": 218,
+    "started": 1717516927,
+    "type": "track",
+    "track_id": 2889350,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/a/4/1/b/8/da41b8691850dae0813fa5273201d156.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/4/1/b/8/da41b8691850dae0813fa5273201d156.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Fanny Lu",
+    "display_artist": "Fanny Lu",
+    "title": "Amor Sincero Album Version",
+    "display_title": "Amor Sincero Album Version",
+    "track": "Fanny Lu - Amor Sincero Album Version",
+    "length": 234,
+    "duration": 234,
+    "started": 1717517351,
+    "type": "track",
+    "track_id": 453936,
+    "release": "Dos",
+    "art_url": "//cdn-images.audioaddict.com/7/f/a/a/d/1/7faad151df8913c805c6f3b696468241.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/a/a/d/1/7faad151df8913c805c6f3b696468241.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Sebastian Yatra",
+    "display_artist": "Sebastian Yatra",
+    "title": "Cristina",
+    "display_title": "Cristina",
+    "track": "Sebastian Yatra - Cristina",
+    "length": 202,
+    "duration": 202,
+    "started": 1717519273,
+    "type": "track",
+    "track_id": 2932794,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/a/a/1/7/4/2aa1740662a9bceaadf997ecd4c2d2cd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/a/1/7/4/2aa1740662a9bceaadf997ecd4c2d2cd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Julieta Venegas",
+    "display_artist": "Julieta Venegas",
+    "title": "Limon Y Sal",
+    "display_title": "Limon Y Sal",
+    "track": "Julieta Venegas - Limon Y Sal",
+    "length": 202,
+    "duration": 202,
+    "started": 1717519688,
+    "type": "track",
+    "track_id": 470308,
+    "release": "Cdc-Cosmo Latino Cd1",
+    "art_url": "//cdn-images.audioaddict.com/7/8/9/f/0/4/789f04314cd5ea058012504b7294cc3c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/9/f/0/4/789f04314cd5ea058012504b7294cc3c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Il Volo Ft Gente De Zona",
+    "display_artist": "Il Volo Ft Gente De Zona",
+    "title": "Noche Sin Dia",
+    "display_title": "Noche Sin Dia",
+    "track": "Il Volo Ft Gente De Zona - Noche Sin Dia",
+    "length": 168,
+    "duration": 168,
+    "started": 1717521708,
+    "type": "track",
+    "track_id": 2921068,
+    "release": "Amame",
+    "art_url": "//cdn-images.audioaddict.com/b/7/4/0/7/5/b74075714954091a107689fccc1c5cb3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/4/0/7/5/b74075714954091a107689fccc1c5cb3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "Es Tarde (Radio)",
+    "display_title": "Es Tarde (Radio)",
+    "track": "Juanes - Es Tarde (Radio)",
+    "length": 211,
+    "duration": 211,
+    "started": 1717522734,
+    "type": "track",
+    "track_id": 2274184,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/e/e/7/2/8/7ee728d394ad9a42138e2bb5b5be6df3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/e/7/2/8/7ee728d394ad9a42138e2bb5b5be6df3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Mana",
+    "display_artist": "Mana",
+    "title": "Corazon Espinado",
+    "display_title": "Corazon Espinado",
+    "track": "Mana - Corazon Espinado",
+    "length": 277,
+    "duration": 277,
+    "started": 1717531461,
+    "type": "track",
+    "track_id": 466571,
+    "release": "Exiliados En La Bahia: Lo Mejor De Mana",
+    "art_url": "//cdn-images.audioaddict.com/e/0/1/d/3/a/e01d3a7e50b6625cde1f43f19c5f0fa7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/1/d/3/a/e01d3a7e50b6625cde1f43f19c5f0fa7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Don Omar feat. Lucenzo",
+    "display_artist": "Don Omar feat. Lucenzo",
+    "title": "Danza Kuduro",
+    "display_title": "Danza Kuduro",
+    "track": "Don Omar feat. Lucenzo - Danza Kuduro",
+    "length": 206,
+    "duration": 206,
+    "started": 1717534597,
+    "type": "track",
+    "track_id": 453759,
+    "release": "Meet the Orphans",
+    "art_url": "//cdn-images.audioaddict.com/d/e/d/b/c/1/dedbc112db7ea18d64849676aad2e114.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/d/b/c/1/dedbc112db7ea18d64849676aad2e114.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "Hermosa Ingrata",
+    "display_title": "Hermosa Ingrata",
+    "track": "Juanes - Hermosa Ingrata",
+    "length": 179,
+    "duration": 179,
+    "started": 1717534976,
+    "type": "track",
+    "track_id": 1972431,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/3/3/5/e/0/0335e0508914f9248c44e87349d043d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/3/5/e/0/0335e0508914f9248c44e87349d043d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes Ft Fonseca",
+    "display_artist": "Juanes Ft Fonseca",
+    "title": "Alguna Vez",
+    "display_title": "Alguna Vez",
+    "track": "Juanes Ft Fonseca - Alguna Vez",
+    "length": 179,
+    "duration": 179,
+    "started": 1717535346,
+    "type": "track",
+    "track_id": 1972432,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/c/0/4/e/9/7c04e92a8cb66022efc1c62551a11db1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/0/4/e/9/7c04e92a8cb66022efc1c62551a11db1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Chayanne",
+    "display_artist": "Chayanne",
+    "title": "Salome (Club Mix Radio Edit)",
+    "display_title": "Salome (Club Mix Radio Edit)",
+    "track": "Chayanne - Salome (Club Mix Radio Edit)",
+    "length": 262,
+    "duration": 262,
+    "started": 1717536777,
+    "type": "track",
+    "track_id": 1237913,
+    "release": "Chayanne",
+    "art_url": "//cdn-images.audioaddict.com/1/2/1/6/a/e/1216ae8c7cc958e3682809b33f183c53.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/1/6/a/e/1216ae8c7cc958e3682809b33f183c53.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Mana Ft Nicky Jam",
+    "display_artist": "Mana Ft Nicky Jam",
+    "title": "De Pies A Cabeza (Radio)",
+    "display_title": "De Pies A Cabeza (Radio)",
+    "track": "Mana Ft Nicky Jam - De Pies A Cabeza (Radio)",
+    "length": 267,
+    "duration": 267,
+    "started": 1717537970,
+    "type": "track",
+    "track_id": 1262848,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/b/f/9/4/4/d/bf944dd29daf7094a0fe16d1dd2e326e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/f/9/4/4/d/bf944dd29daf7094a0fe16d1dd2e326e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Andres Calamaro",
+    "display_artist": "Andres Calamaro",
+    "title": "Flaca",
+    "display_title": "Flaca",
+    "track": "Andres Calamaro - Flaca",
+    "length": 281,
+    "duration": 281,
+    "started": 1717540530,
+    "type": "track",
+    "track_id": 883060,
+    "release": "Las Clasicas Rock Pop En Espanol",
+    "art_url": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Miguel Bosé feat. Juan Luis Guerra",
+    "display_artist": "Miguel Bosé feat. Juan Luis Guerra",
+    "title": "Creo En Ti",
+    "display_title": "Creo En Ti",
+    "track": "Miguel Bosé feat. Juan Luis Guerra - Creo En Ti",
+    "length": 188,
+    "duration": 188,
+    "started": 1717541893,
+    "type": "track",
+    "track_id": 723669,
+    "release": "Duetos",
+    "art_url": "//cdn-images.audioaddict.com/9/5/e/2/4/7/95e247cbe48cc58b94d852237be2ed05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/e/2/4/7/95e247cbe48cc58b94d852237be2ed05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Christina Aguilera",
+    "display_artist": "Christina Aguilera",
+    "title": "Genio Atrapado",
+    "display_title": "Genio Atrapado",
+    "track": "Christina Aguilera - Genio Atrapado",
+    "length": 219,
+    "duration": 219,
+    "started": 1717543717,
+    "type": "track",
+    "track_id": 453685,
+    "release": "Mi Reflejo",
+    "art_url": "//cdn-images.audioaddict.com/1/9/7/a/3/a/197a3a6a3c51b5fed803bfde0d9267d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/7/a/3/a/197a3a6a3c51b5fed803bfde0d9267d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Camila",
+    "display_artist": "Camila",
+    "title": "Mientes (Version Album)",
+    "display_title": "Mientes (Version Album)",
+    "track": "Camila - Mientes (Version Album)",
+    "length": 204,
+    "duration": 204,
+    "started": 1717548739,
+    "type": "track",
+    "track_id": 856483,
+    "release": "Top Latino V.6",
+    "art_url": "//cdn-images.audioaddict.com/3/9/2/c/b/7/392cb7ce9097686bf5087d74b76733a3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/2/c/b/7/392cb7ce9097686bf5087d74b76733a3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Los Abuelos De La Nada",
+    "display_artist": "Los Abuelos De La Nada",
+    "title": "Mil Horas",
+    "display_title": "Mil Horas",
+    "track": "Los Abuelos De La Nada - Mil Horas",
+    "length": 169,
+    "duration": 169,
+    "started": 1717550197,
+    "type": "track",
+    "track_id": 466216,
+    "release": "Fuera De Control",
+    "art_url": "//cdn-images.audioaddict.com/a/0/8/a/b/b/a08abba7675f1d3cfc0a4c95b869b243.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/8/a/b/b/a08abba7675f1d3cfc0a4c95b869b243.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "Juntos (Together)",
+    "display_title": "Juntos (Together)",
+    "track": "Juanes - Juntos (Together)",
+    "length": 202,
+    "duration": 202,
+    "started": 1717555016,
+    "type": "track",
+    "track_id": 956091,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/9/c/f/9/c/e/9cf9cecac6b06724bdd62ae6aab74057.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/f/9/c/e/9cf9cecac6b06724bdd62ae6aab74057.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Alejandro Fernandez",
+    "display_artist": "Alejandro Fernandez",
+    "title": "Quiero Que Vuelvas (Radio)",
+    "display_title": "Quiero Que Vuelvas (Radio)",
+    "track": "Alejandro Fernandez - Quiero Que Vuelvas (Radio)",
+    "length": 154,
+    "duration": 154,
+    "started": 1717559641,
+    "type": "track",
+    "track_id": 1972389,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/1/f/9/b/ce1f9b4b60f6e1f347fb49f34718a093.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/1/f/9/b/ce1f9b4b60f6e1f347fb49f34718a093.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Eros Ramazotti",
+    "display_artist": "Eros Ramazotti",
+    "title": "Por Ti Me Casare",
+    "display_title": "Por Ti Me Casare",
+    "track": "Eros Ramazotti - Por Ti Me Casare",
+    "length": 243,
+    "duration": 243,
+    "started": 1717566704,
+    "type": "track",
+    "track_id": 453833,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/9/d/b/3/cf9db37507a40738e924908651662cf7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/9/d/b/3/cf9db37507a40738e924908651662cf7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Diana Fuentes & Gente De Zona",
+    "display_artist": "Diana Fuentes & Gente De Zona",
+    "title": "La Vida Me Cambio",
+    "display_title": "La Vida Me Cambio",
+    "track": "Diana Fuentes & Gente De Zona - La Vida Me Cambio",
+    "length": 206,
+    "duration": 206,
+    "started": 1717570563,
+    "type": "track",
+    "track_id": 2033772,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/2/2/5/7/0/922570090243905159eb474b2545e6ec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/2/5/7/0/922570090243905159eb474b2545e6ec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ricardo Montaner Ft Farruko",
+    "display_artist": "Ricardo Montaner Ft Farruko",
+    "title": "Vasito De Agua",
+    "display_title": "Vasito De Agua",
+    "track": "Ricardo Montaner Ft Farruko - Vasito De Agua",
+    "length": 196,
+    "duration": 196,
+    "started": 1717570769,
+    "type": "track",
+    "track_id": 2938664,
+    "release": "Montaner",
+    "art_url": "//cdn-images.audioaddict.com/a/2/0/4/7/4/a204742d1fc819cd5f5cc742838dddbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/0/4/7/4/a204742d1fc819cd5f5cc742838dddbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives Y Shakira",
+    "display_artist": "Carlos Vives Y Shakira",
+    "title": "La Bicicleta (Pop Version)",
+    "display_title": "La Bicicleta (Pop Version)",
+    "track": "Carlos Vives Y Shakira - La Bicicleta (Pop Version)",
+    "length": 235,
+    "duration": 235,
+    "started": 1717575979,
+    "type": "track",
+    "track_id": 1268200,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/b/0/0/7/3/a/b0073ab2c4514c6fcfe38b71c7787391.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/0/7/3/a/b0073ab2c4514c6fcfe38b71c7787391.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Bacilos",
+    "display_artist": "Bacilos",
+    "title": "Mi Primer Millon",
+    "display_title": "Mi Primer Millon",
+    "track": "Bacilos - Mi Primer Millon",
+    "length": 245,
+    "duration": 245,
+    "started": 1717579540,
+    "type": "track",
+    "track_id": 453490,
+    "release": "2004 Ano De Exitos Pop",
+    "art_url": "//cdn-images.audioaddict.com/9/2/1/4/b/d/9214bd96275ec0a40e61f3035c8883ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/1/4/b/d/9214bd96275ec0a40e61f3035c8883ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Whenever, Wherever",
+    "display_title": "Whenever, Wherever",
+    "track": "Shakira - Whenever, Wherever",
+    "length": 198,
+    "duration": 198,
+    "started": 1717587261,
+    "type": "track",
+    "track_id": 958986,
+    "release": "Laundry Service",
+    "art_url": "//cdn-images.audioaddict.com/8/7/c/e/1/3/87ce138fce7dae22918003fde6db4017.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/c/e/1/3/87ce138fce7dae22918003fde6db4017.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jennifer Lopez",
+    "display_artist": "Jennifer Lopez",
+    "title": "Waiting For Tonight",
+    "display_title": "Waiting For Tonight",
+    "track": "Jennifer Lopez - Waiting For Tonight",
+    "length": 250,
+    "duration": 250,
+    "started": 1717587458,
+    "type": "track",
+    "track_id": 1175958,
+    "release": "On The 6",
+    "art_url": "//cdn-images.audioaddict.com/2/b/1/1/0/b/2b110b0e686294be368189938181a567.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/1/1/0/b/2b110b0e686294be368189938181a567.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Ed Sheeran Feat. Zion & Lennox",
+    "display_artist": "Ed Sheeran Feat. Zion & Lennox",
+    "title": "Shape Of You (Latin Remix)",
+    "display_title": "Shape Of You (Latin Remix)",
+    "track": "Ed Sheeran Feat. Zion & Lennox - Shape Of You (Latin Remix)",
+    "length": 234,
+    "duration": 234,
+    "started": 1717592125,
+    "type": "track",
+    "track_id": 1972409,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/2/4/4/4/ce244443ad3ba6aef771cb0b2c6c4f62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/2/4/4/4/ce244443ad3ba6aef771cb0b2c6c4f62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Manu Chao",
+    "display_artist": "Manu Chao",
+    "title": "Me Gustas Tu",
+    "display_title": "Me Gustas Tu",
+    "track": "Manu Chao - Me Gustas Tu",
+    "length": 239,
+    "duration": 239,
+    "started": 1717596069,
+    "type": "track",
+    "track_id": 466737,
+    "release": "Proxima Estacion: Esperanza",
+    "art_url": "//cdn-images.audioaddict.com/a/b/1/9/9/5/ab199581b9f8d7089dcac191b12ba48f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/1/9/9/5/ab199581b9f8d7089dcac191b12ba48f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Bacilos",
+    "display_artist": "Bacilos",
+    "title": "Pasos De Gigante",
+    "display_title": "Pasos De Gigante",
+    "track": "Bacilos - Pasos De Gigante",
+    "length": 235,
+    "duration": 235,
+    "started": 1717601090,
+    "type": "track",
+    "track_id": 453491,
+    "release": "Album",
+    "art_url": "//cdn-images.audioaddict.com/7/e/5/d/8/7/7e5d877a925458a8efde982b867f32dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/5/d/8/7/7e5d877a925458a8efde982b867f32dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira Ft Wyclef Jean",
+    "display_artist": "Shakira Ft Wyclef Jean",
+    "title": "Hips Dont Lie",
+    "display_title": "Hips Dont Lie",
+    "track": "Shakira Ft Wyclef Jean - Hips Dont Lie",
+    "length": 222,
+    "duration": 222,
+    "started": 1717601934,
+    "type": "track",
+    "track_id": 454998,
+    "release": "Greatest Hits",
+    "art_url": "//cdn-images.audioaddict.com/9/5/2/9/4/7/952947efc3c23d408b0d0aeb0066b2b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/2/9/4/7/952947efc3c23d408b0d0aeb0066b2b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Complices",
+    "display_artist": "Complices",
+    "title": "Es Por Ti",
+    "display_title": "Es Por Ti",
+    "track": "Complices - Es Por Ti",
+    "length": 271,
+    "duration": 271,
+    "started": 1717604654,
+    "type": "track",
+    "track_id": 453698,
+    "release": "30 Anos De Musica En Tve. 1980-2010",
+    "art_url": "//cdn-images.audioaddict.com/b/7/1/8/4/9/b718498c9b0b167e674cd33187b70cac.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/1/8/4/9/b718498c9b0b167e674cd33187b70cac.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Santiago Cruz Ft Andres Cepeda",
+    "display_artist": "Santiago Cruz Ft Andres Cepeda",
+    "title": "Baja La Guardia",
+    "display_title": "Baja La Guardia",
+    "track": "Santiago Cruz Ft Andres Cepeda - Baja La Guardia",
+    "length": 218,
+    "duration": 218,
+    "started": 1717615002,
+    "type": "track",
+    "track_id": 2938665,
+    "release": "Elementales",
+    "art_url": "//cdn-images.audioaddict.com/c/e/3/b/f/9/ce3bf9d403d629f8ce04706670a99838.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/3/b/f/9/ce3bf9d403d629f8ce04706670a99838.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Santana",
+    "display_artist": "Santana",
+    "title": "Corazon Espinado (Ft. Mana)",
+    "display_title": "Corazon Espinado (Ft. Mana)",
+    "track": "Santana - Corazon Espinado (Ft. Mana)",
+    "length": 276,
+    "duration": 276,
+    "started": 1717620778,
+    "type": "track",
+    "track_id": 454919,
+    "release": "Supernatural (Legacy Edition)",
+    "art_url": "//cdn-images.audioaddict.com/8/2/8/f/6/f/828f6f2859abf0aca41acfd0240b6226.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/8/f/6/f/828f6f2859abf0aca41acfd0240b6226.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives & Sebastian Yatra",
+    "display_artist": "Carlos Vives & Sebastian Yatra",
+    "title": "Robarte Un Beso (Urban Version)",
+    "display_title": "Robarte Un Beso (Urban Version)",
+    "track": "Carlos Vives & Sebastian Yatra - Robarte Un Beso (Urban Version)",
+    "length": 188,
+    "duration": 188,
+    "started": 1717647154,
+    "type": "track",
+    "track_id": 2033766,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/7/0/6/e/c/a706ec5e40b5ff1b9ba20766bf99947f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/7/0/6/e/c/a706ec5e40b5ff1b9ba20766bf99947f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Mana",
+    "display_artist": "Mana",
+    "title": "Rayando El Sol",
+    "display_title": "Rayando El Sol",
+    "track": "Mana - Rayando El Sol",
+    "length": 255,
+    "duration": 255,
+    "started": 1717647549,
+    "type": "track",
+    "track_id": 767506,
+    "release": "Las Clasicas Rock Pop En Espanol",
+    "art_url": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/2/c/9/d/0a2c9d2338ff5c9cfe0a662862ca285a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Enrique Iglesias",
+    "display_artist": "Enrique Iglesias",
+    "title": "Dimelo (Ralphi Rosario & Craig Cjs Remix)",
+    "display_title": "Dimelo (Ralphi Rosario & Craig Cjs Remix)",
+    "track": "Enrique Iglesias - Dimelo (Ralphi Rosario & Craig Cjs Remix)",
+    "length": 227,
+    "duration": 227,
+    "started": 1717657184,
+    "type": "track",
+    "track_id": 972764,
+    "release": "Super 1's",
+    "art_url": "//cdn-images.audioaddict.com/f/8/d/2/9/d/f8d29d74c3e18268108b3490222da109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/d/2/9/d/f8d29d74c3e18268108b3490222da109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Juanes",
+    "display_artist": "Juanes",
+    "title": "A Dios Le Pido (Unplugged)",
+    "display_title": "A Dios Le Pido (Unplugged)",
+    "track": "Juanes - A Dios Le Pido (Unplugged)",
+    "length": 221,
+    "duration": 221,
+    "started": 1717686427,
+    "type": "track",
+    "track_id": 454216,
+    "release": "Tr3s Presents Juanes: Mtv Unplugged",
+    "art_url": "//cdn-images.audioaddict.com/a/5/2/7/a/3/a527a384d5eec4f826f288c624915f2e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/2/7/a/3/a527a384d5eec4f826f288c624915f2e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Jesse Y Joy",
+    "display_artist": "Jesse Y Joy",
+    "title": "Mi Tesoro (Radio)",
+    "display_title": "Mi Tesoro (Radio)",
+    "track": "Jesse Y Joy - Mi Tesoro (Radio)",
+    "length": 206,
+    "duration": 206,
+    "started": 1717718895,
+    "type": "track",
+    "track_id": 767237,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/a/7/d/8/e/ea7d8e17b6eb34d760b4e2cead22ddcd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/7/d/8/e/ea7d8e17b6eb34d760b4e2cead22ddcd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Eros Ramazzotti",
+    "display_artist": "Eros Ramazzotti",
+    "title": "En Mi Corazon Viviras",
+    "display_title": "En Mi Corazon Viviras",
+    "track": "Eros Ramazzotti - En Mi Corazon Viviras",
+    "length": 236,
+    "duration": 236,
+    "started": 1717734994,
+    "type": "track",
+    "track_id": 1248005,
+    "release": "We Love Disney",
+    "art_url": "//cdn-images.audioaddict.com/7/d/7/5/9/e/7d759e58bd26baed5fd550a7d2eb509c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/7/5/9/e/7d759e58bd26baed5fd550a7d2eb509c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Shakira",
+    "display_artist": "Shakira",
+    "title": "Addicted To You",
+    "display_title": "Addicted To You",
+    "track": "Shakira - Addicted To You",
+    "length": 148,
+    "duration": 148,
+    "started": 1717776100,
+    "type": "track",
+    "track_id": 454924,
+    "release": "Sale El Sol",
+    "art_url": "//cdn-images.audioaddict.com/f/1/d/2/5/b/f1d25b6c838093fa37b3bb20bb460de2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/d/2/5/b/f1d25b6c838093fa37b3bb20bb460de2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Lou Bega",
+    "display_artist": "Lou Bega",
+    "title": "Mambo No. 5 (A Little Bit Of...) (Re-Recorded Version)",
+    "display_title": "Mambo No. 5 (A Little Bit Of...) (Re-Recorded Version)",
+    "track": "Lou Bega - Mambo No. 5 (A Little Bit Of...) (Re-Recorded Version)",
+    "length": 220,
+    "duration": 220,
+    "started": 1717778060,
+    "type": "track",
+    "track_id": 843150,
+    "release": "Mambo No. 5 (A Little Bit Of...) (Re-Recorded Version)",
+    "art_url": "//cdn-images.audioaddict.com/7/1/6/4/b/3/7164b344c07f1750fa60a86b1a3914e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/6/4/b/3/7164b344c07f1750fa60a86b1a3914e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 417,
+    "artist": "Carlos Vives Ft. J. Alvarez",
+    "display_artist": "Carlos Vives Ft. J. Alvarez",
+    "title": "Volvi A Nacer",
+    "display_title": "Volvi A Nacer",
+    "track": "Carlos Vives Ft. J. Alvarez - Volvi A Nacer",
+    "length": 200,
+    "duration": 200,
+    "started": 1717841203,
+    "type": "track",
+    "track_id": 453632,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/5/6/6/d/8/f566d8b3bcf2d94343f58af880fd11b5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/5/6/6/d/8/f566d8b3bcf2d94343f58af880fd11b5.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

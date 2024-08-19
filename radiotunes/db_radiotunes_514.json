@@ -1,0 +1,5474 @@
+[
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Christopher Cross",
+    "display_artist": "Christopher Cross",
+    "title": "Sailing",
+    "display_title": "Sailing",
+    "track": "Christopher Cross - Sailing",
+    "length": 257,
+    "duration": 257,
+    "started": 1717382051,
+    "type": "track",
+    "track_id": 1018549,
+    "release": "Christopher Cross",
+    "art_url": "//cdn-images.audioaddict.com/3/5/8/0/3/8/35803844b3400245d8cbdfbe82c90d4b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/8/0/3/8/35803844b3400245d8cbdfbe82c90d4b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Adams",
+    "display_artist": "Bryan Adams",
+    "title": "Everything I Do, I Do It For You",
+    "display_title": "Everything I Do, I Do It For You",
+    "track": "Bryan Adams - Everything I Do, I Do It For You",
+    "length": 396,
+    "duration": 396,
+    "started": 1717382304,
+    "type": "track",
+    "track_id": 1175614,
+    "release": "Waking Up The Neighbours",
+    "art_url": "//cdn-images.audioaddict.com/f/f/8/f/4/4/ff8f44183a4f6e59bc67975b75567cf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/8/f/4/4/ff8f44183a4f6e59bc67975b75567cf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Take That",
+    "display_artist": "Take That",
+    "title": "Back For Good",
+    "display_title": "Back For Good",
+    "track": "Take That - Back For Good",
+    "length": 242,
+    "duration": 242,
+    "started": 1717382916,
+    "type": "track",
+    "track_id": 753251,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/b/c/b/f/c/4bcbfcdd0d7394118cff73d24e24363f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/c/b/f/c/4bcbfcdd0d7394118cff73d24e24363f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Moby",
+    "display_artist": "Moby",
+    "title": "Porcelain",
+    "display_title": "Porcelain",
+    "track": "Moby - Porcelain",
+    "length": 250,
+    "duration": 250,
+    "started": 1717383348,
+    "type": "track",
+    "track_id": 1055954,
+    "release": "Play",
+    "art_url": "//cdn-images.audioaddict.com/e/b/c/f/8/9/ebcf89fcc5a213ac604259f87fbbec7e.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/b/c/f/8/9/ebcf89fcc5a213ac604259f87fbbec7e.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Matchbox Twenty",
+    "display_artist": "Matchbox Twenty",
+    "title": "If You're Gone",
+    "display_title": "If You're Gone",
+    "track": "Matchbox Twenty - If You're Gone",
+    "length": 277,
+    "duration": 277,
+    "started": 1717383587,
+    "type": "track",
+    "track_id": 958823,
+    "release": "Mad Season",
+    "art_url": "//cdn-images.audioaddict.com/8/a/d/5/6/9/8ad569a82dbbcd18845861f742934119.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/d/5/6/9/8ad569a82dbbcd18845861f742934119.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Cyndi Lauper",
+    "display_artist": "Cyndi Lauper",
+    "title": "Time After Time",
+    "display_title": "Time After Time",
+    "track": "Cyndi Lauper - Time After Time",
+    "length": 239,
+    "duration": 239,
+    "started": 1717384109,
+    "type": "track",
+    "track_id": 1025193,
+    "release": "She's So Unusual",
+    "art_url": "//cdn-images.audioaddict.com/4/9/3/9/7/7/4939777597413c54e495604b418267e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/3/9/7/7/4939777597413c54e495604b418267e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bruce Springsteen",
+    "display_artist": "Bruce Springsteen",
+    "title": "I'm On Fire",
+    "display_title": "I'm On Fire",
+    "track": "Bruce Springsteen - I'm On Fire",
+    "length": 204,
+    "duration": 204,
+    "started": 1717384537,
+    "type": "track",
+    "track_id": 1025158,
+    "release": "Born In The U.S.A.",
+    "art_url": "//cdn-images.audioaddict.com/e/2/1/e/a/5/e21ea590ea010389fe088146fcf57cc0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/1/e/a/5/e21ea590ea010389fe088146fcf57cc0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Simply Red",
+    "display_artist": "Simply Red",
+    "title": "Holding Back the Years",
+    "display_title": "Holding Back the Years",
+    "track": "Simply Red - Holding Back the Years",
+    "length": 269,
+    "duration": 269,
+    "started": 1717384904,
+    "type": "track",
+    "track_id": 16127,
+    "release": "Ghosts of Girlfriends Past",
+    "art_url": "//cdn-images.audioaddict.com/6/d/3/a/7/8/6d3a787f160bc3f1382752d3f39d52dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/d/3/a/7/8/6d3a787f160bc3f1382752d3f39d52dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Peter Frampton",
+    "display_artist": "Peter Frampton",
+    "title": "Baby, I Love Your Way",
+    "display_title": "Baby, I Love Your Way",
+    "track": "Peter Frampton - Baby, I Love Your Way",
+    "length": 288,
+    "duration": 288,
+    "started": 1717385173,
+    "type": "track",
+    "track_id": 1018663,
+    "release": "Frampton",
+    "art_url": "//cdn-images.audioaddict.com/8/0/a/7/4/a/80a74a2cebf8226d8c028aef09ec63e1.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/a/7/4/a/80a74a2cebf8226d8c028aef09ec63e1.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Alan Parsons Project",
+    "display_artist": "The Alan Parsons Project",
+    "title": "Eye In The Sky",
+    "display_title": "Eye In The Sky",
+    "track": "The Alan Parsons Project - Eye In The Sky",
+    "length": 273,
+    "duration": 273,
+    "started": 1717385460,
+    "type": "track",
+    "track_id": 1034744,
+    "release": "Eye in the Sky",
+    "art_url": "//cdn-images.audioaddict.com/d/4/2/d/7/6/d42d76918e43ea688ee3df8600b3bade.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/2/d/7/6/d42d76918e43ea688ee3df8600b3bade.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Simple Minds",
+    "display_artist": "Simple Minds",
+    "title": "Alive And Kicking",
+    "display_title": "Alive And Kicking",
+    "track": "Simple Minds - Alive And Kicking",
+    "length": 329,
+    "duration": 329,
+    "started": 1717385944,
+    "type": "track",
+    "track_id": 958167,
+    "release": "Once Upon A Time",
+    "art_url": "//cdn-images.audioaddict.com/a/1/d/1/e/e/a1d1ee0874e5c2b6efc40ab9bc7c568a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/d/1/e/e/a1d1ee0874e5c2b6efc40ab9bc7c568a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Kim Wilde",
+    "display_artist": "Kim Wilde",
+    "title": "You Keep Me Hangin' On",
+    "display_title": "You Keep Me Hangin' On",
+    "track": "Kim Wilde - You Keep Me Hangin' On",
+    "length": 255,
+    "duration": 255,
+    "started": 1717386482,
+    "type": "track",
+    "track_id": 14530,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/b/8/7/1/0/bb87100c9144288a39226b3606c5be38.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/8/7/1/0/bb87100c9144288a39226b3606c5be38.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Boston",
+    "display_artist": "Boston",
+    "title": "Amanda",
+    "display_title": "Amanda",
+    "track": "Boston - Amanda",
+    "length": 260,
+    "duration": 260,
+    "started": 1717386736,
+    "type": "track",
+    "track_id": 1018527,
+    "release": "Third Stage",
+    "art_url": "//cdn-images.audioaddict.com/c/c/9/3/d/c/cc93dce261e8e079b941459a1fd662d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/9/3/d/c/cc93dce261e8e079b941459a1fd662d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Air Supply",
+    "display_artist": "Air Supply",
+    "title": "Making Love Out of Nothing at All",
+    "display_title": "Making Love Out of Nothing at All",
+    "track": "Air Supply - Making Love Out of Nothing at All",
+    "length": 301,
+    "duration": 301,
+    "started": 1717387231,
+    "type": "track",
+    "track_id": 1018500,
+    "release": "Ultimate Air Supply",
+    "art_url": "//cdn-images.audioaddict.com/2/7/e/0/e/4/27e0e485edff417e46713422d4687628.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/e/0/e/4/27e0e485edff417e46713422d4687628.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "Easy Lover feat. Philip Bailey",
+    "display_title": "Easy Lover feat. Philip Bailey",
+    "track": "Phil Collins - Easy Lover feat. Philip Bailey",
+    "length": 313,
+    "duration": 313,
+    "started": 1717387529,
+    "type": "track",
+    "track_id": 1018667,
+    "release": "Hits",
+    "art_url": "//cdn-images.audioaddict.com/9/a/b/9/e/3/9ab9e3a9dd4153c6a879ba380524e5a1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/b/9/e/3/9ab9e3a9dd4153c6a879ba380524e5a1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Dan Hartman",
+    "display_artist": "Dan Hartman",
+    "title": "I Can Dream About You",
+    "display_title": "I Can Dream About You",
+    "track": "Dan Hartman - I Can Dream About You",
+    "length": 256,
+    "duration": 256,
+    "started": 1717387831,
+    "type": "track",
+    "track_id": 1034751,
+    "release": "Streets of Fire",
+    "art_url": "//cdn-images.audioaddict.com/7/0/1/e/5/1/701e51591abf201b5f97db27f8e705a5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/1/e/5/1/701e51591abf201b5f97db27f8e705a5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "I Wish It Would Rain Down",
+    "display_title": "I Wish It Would Rain Down",
+    "track": "Phil Collins - I Wish It Would Rain Down",
+    "length": 339,
+    "duration": 339,
+    "started": 1717388283,
+    "type": "track",
+    "track_id": 1018668,
+    "release": "...But Seriously",
+    "art_url": "//cdn-images.audioaddict.com/5/2/e/5/9/d/52e59d185df48f698bf359b3d541ba2d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/e/5/9/d/52e59d185df48f698bf359b3d541ba2d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Bangles",
+    "display_artist": "The Bangles",
+    "title": "Manic Monday",
+    "display_title": "Manic Monday",
+    "track": "The Bangles - Manic Monday",
+    "length": 186,
+    "duration": 186,
+    "started": 1717388866,
+    "type": "track",
+    "track_id": 17044,
+    "release": "Different Light",
+    "art_url": "//cdn-images.audioaddict.com/3/a/d/e/e/0/3adee0065d4753fec2dc3415c94e59f6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/d/e/e/0/3adee0065d4753fec2dc3415c94e59f6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "Don't Lose My Number",
+    "display_title": "Don't Lose My Number",
+    "track": "Phil Collins - Don't Lose My Number",
+    "length": 288,
+    "duration": 288,
+    "started": 1717389049,
+    "type": "track",
+    "track_id": 13627,
+    "release": "No Jacket Required",
+    "art_url": "//cdn-images.audioaddict.com/9/7/6/6/c/9/9766c9ca15d0f20cc5cfd556bf6c0ef0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/6/6/c/9/9766c9ca15d0f20cc5cfd556bf6c0ef0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Seals & Crofts",
+    "display_artist": "Seals & Crofts",
+    "title": "Summer Breeze",
+    "display_title": "Summer Breeze",
+    "track": "Seals & Crofts - Summer Breeze",
+    "length": 205,
+    "duration": 205,
+    "started": 1717389565,
+    "type": "track",
+    "track_id": 68910,
+    "release": "Even More Dazed and Confused",
+    "art_url": "//cdn-images.audioaddict.com/6/b/4/a/9/e/6b4a9ec7040ffb3458de9c0bf348a572.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/4/a/9/e/6b4a9ec7040ffb3458de9c0bf348a572.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Cheap Trick",
+    "display_artist": "Cheap Trick",
+    "title": "The Flame",
+    "display_title": "The Flame",
+    "track": "Cheap Trick - The Flame",
+    "length": 293,
+    "duration": 293,
+    "started": 1717390227,
+    "type": "track",
+    "track_id": 752920,
+    "release": "Rolling Stone Presents the 80s",
+    "art_url": "//cdn-images.audioaddict.com/6/9/9/9/0/a/69990a5b93d75a6f048f58c7fe83cd6a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/9/9/0/a/69990a5b93d75a6f048f58c7fe83cd6a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bon Jovi",
+    "display_artist": "Bon Jovi",
+    "title": "Always",
+    "display_title": "Always",
+    "track": "Bon Jovi - Always",
+    "length": 259,
+    "duration": 259,
+    "started": 1717390737,
+    "type": "track",
+    "track_id": 883242,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/1/0/1/7/a91017d99fbd95b42b4ff4b052361719.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/1/0/1/7/a91017d99fbd95b42b4ff4b052361719.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Nicolette Larson",
+    "display_artist": "Nicolette Larson",
+    "title": "Lotta Love",
+    "display_title": "Lotta Love",
+    "track": "Nicolette Larson - Lotta Love",
+    "length": 186,
+    "duration": 186,
+    "started": 1717391088,
+    "type": "track",
+    "track_id": 2834223,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/a/d/f/a/b/5adfabff1046abeaa65f33a80918c084.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/a/d/f/a/b/5adfabff1046abeaa65f33a80918c084.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Hall & Oates",
+    "display_artist": "Hall & Oates",
+    "title": "Private Eyes",
+    "display_title": "Private Eyes",
+    "track": "Hall & Oates - Private Eyes",
+    "length": 208,
+    "duration": 208,
+    "started": 1717391528,
+    "type": "track",
+    "track_id": 2096,
+    "release": "Private Eyes",
+    "art_url": "//cdn-images.audioaddict.com/4/4/9/6/d/1/4496d144f5b4fc7e4c9b6405dc21c780.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/9/6/d/1/4496d144f5b4fc7e4c9b6405dc21c780.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Hall & Oates",
+    "display_artist": "Hall & Oates",
+    "title": "I Can't Go For That",
+    "display_title": "I Can't Go For That",
+    "track": "Hall & Oates - I Can't Go For That",
+    "length": 225,
+    "duration": 225,
+    "started": 1717391735,
+    "type": "track",
+    "track_id": 49657,
+    "release": "After the Snow",
+    "art_url": "//cdn-images.audioaddict.com/4/4/9/6/d/1/4496d144f5b4fc7e4c9b6405dc21c780.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/9/6/d/1/4496d144f5b4fc7e4c9b6405dc21c780.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Natalie Imbruglia",
+    "display_artist": "Natalie Imbruglia",
+    "title": "Torn",
+    "display_title": "Torn",
+    "track": "Natalie Imbruglia - Torn",
+    "length": 240,
+    "duration": 240,
+    "started": 1717392166,
+    "type": "track",
+    "track_id": 606874,
+    "release": "Left of the Middle",
+    "art_url": "//cdn-images.audioaddict.com/2/e/1/9/b/7/2e19b7e3c7bf5f4a39f63c125989ef7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/1/9/b/7/2e19b7e3c7bf5f4a39f63c125989ef7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Harry Styles",
+    "display_artist": "Harry Styles",
+    "title": "Adore You",
+    "display_title": "Adore You",
+    "track": "Harry Styles - Adore You",
+    "length": 207,
+    "duration": 207,
+    "started": 1717392693,
+    "type": "track",
+    "track_id": 2970871,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/a/d/e/4/0/aade40ec42242b960fe9c4e2ba067643.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/d/e/4/0/aade40ec42242b960fe9c4e2ba067643.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Steve Winwood",
+    "display_artist": "Steve Winwood",
+    "title": "Higher Love",
+    "display_title": "Higher Love",
+    "track": "Steve Winwood - Higher Love",
+    "length": 349,
+    "duration": 349,
+    "started": 1717392899,
+    "type": "track",
+    "track_id": 679484,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/c/c/c/b7fccc15de4e3aff6ba211cd29a534ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/c/c/c/b7fccc15de4e3aff6ba211cd29a534ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Norah Jones",
+    "display_artist": "Norah Jones",
+    "title": "Don't Know Why",
+    "display_title": "Don't Know Why",
+    "track": "Norah Jones - Don't Know Why",
+    "length": 187,
+    "duration": 187,
+    "started": 1717393448,
+    "type": "track",
+    "track_id": 958887,
+    "release": "Come Away With Me",
+    "art_url": "//cdn-images.audioaddict.com/6/1/9/b/5/d/619b5de9fadbdc461e79e057d29acd36.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/1/9/b/5/d/619b5de9fadbdc461e79e057d29acd36.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Eric Clapton",
+    "display_artist": "Eric Clapton",
+    "title": "Tears in Heaven",
+    "display_title": "Tears in Heaven",
+    "track": "Eric Clapton - Tears in Heaven",
+    "length": 273,
+    "duration": 273,
+    "started": 1717393633,
+    "type": "track",
+    "track_id": 682799,
+    "release": "Rush",
+    "art_url": "//cdn-images.audioaddict.com/8/b/0/f/0/8/8b0f08805316c0b32eb003b75924a035.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/b/0/f/0/8/8b0f08805316c0b32eb003b75924a035.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Jack Wagner",
+    "display_artist": "Jack Wagner",
+    "title": "All I Need",
+    "display_title": "All I Need",
+    "track": "Jack Wagner - All I Need",
+    "length": 222,
+    "duration": 222,
+    "started": 1717394153,
+    "type": "track",
+    "track_id": 753036,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/3/e/1/c/0/83e1c02d17c29acd150035ac494ff3e4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/e/1/c/0/83e1c02d17c29acd150035ac494ff3e4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Goo Goo Dolls",
+    "display_artist": "Goo Goo Dolls",
+    "title": "Iris",
+    "display_title": "Iris",
+    "track": "Goo Goo Dolls - Iris",
+    "length": 289,
+    "duration": 289,
+    "started": 1717394361,
+    "type": "track",
+    "track_id": 599600,
+    "release": "Let's Talk About Love",
+    "art_url": "//cdn-images.audioaddict.com/0/1/5/8/2/6/01582666381be95c5d9d2e933db884eb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/5/8/2/6/01582666381be95c5d9d2e933db884eb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "R.E.M.",
+    "display_artist": "R.E.M.",
+    "title": "Shiny Happy People",
+    "display_title": "Shiny Happy People",
+    "track": "R.E.M. - Shiny Happy People",
+    "length": 227,
+    "duration": 227,
+    "started": 1717395247,
+    "type": "track",
+    "track_id": 1034145,
+    "release": "Best Of R.E.M.",
+    "art_url": "//cdn-images.audioaddict.com/b/4/3/b/6/7/b43b67fc6a2ccf698cc73306fca42f1d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/3/b/6/7/b43b67fc6a2ccf698cc73306fca42f1d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Police",
+    "display_artist": "The Police",
+    "title": "Every Breath You Take",
+    "display_title": "Every Breath You Take",
+    "track": "The Police - Every Breath You Take",
+    "length": 246,
+    "duration": 246,
+    "started": 1717395793,
+    "type": "track",
+    "track_id": 591098,
+    "release": "The Dream of the Blue Turtles",
+    "art_url": "//cdn-images.audioaddict.com/9/0/5/8/7/0/905870aad5525170131088d468244090.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/5/8/7/0/905870aad5525170131088d468244090.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Cars",
+    "display_artist": "The Cars",
+    "title": "Drive",
+    "display_title": "Drive",
+    "track": "The Cars - Drive",
+    "length": 239,
+    "duration": 239,
+    "started": 1717396038,
+    "type": "track",
+    "track_id": 1018724,
+    "release": "Here to There",
+    "art_url": "//cdn-images.audioaddict.com/b/c/7/d/3/5/bc7d3559a720100580c581bd6e73b084.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/7/d/3/5/bc7d3559a720100580c581bd6e73b084.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Stephanie Mills",
+    "display_artist": "Stephanie Mills",
+    "title": "Never Knew Love Like This Before",
+    "display_title": "Never Knew Love Like This Before",
+    "track": "Stephanie Mills - Never Knew Love Like This Before",
+    "length": 325,
+    "duration": 325,
+    "started": 1717396272,
+    "type": "track",
+    "track_id": 753241,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/f/e/7/9/2/3fe792e200e64216ea46724b66a38f81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/e/7/9/2/3fe792e200e64216ea46724b66a38f81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Journey",
+    "display_artist": "Journey",
+    "title": "Don’t Stop Believin’",
+    "display_title": "Don’t Stop Believin’",
+    "track": "Journey - Don’t Stop Believin’",
+    "length": 250,
+    "duration": 250,
+    "started": 1717397310,
+    "type": "track",
+    "track_id": 587639,
+    "release": "Escape",
+    "art_url": "//cdn-images.audioaddict.com/e/2/e/7/b/9/e2e7b931b4bd31f022da8ebe133e7c55.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/e/7/b/9/e2e7b931b4bd31f022da8ebe133e7c55.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Adams",
+    "display_artist": "Bryan Adams",
+    "title": "Heaven",
+    "display_title": "Heaven",
+    "track": "Bryan Adams - Heaven",
+    "length": 243,
+    "duration": 243,
+    "started": 1717397559,
+    "type": "track",
+    "track_id": 689204,
+    "release": "Heaven on Earth",
+    "art_url": "//cdn-images.audioaddict.com/6/f/6/4/d/d/6f64dd6168e8fde07ae4a449cc70b243.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/6/4/d/d/6f64dd6168e8fde07ae4a449cc70b243.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Styx",
+    "display_artist": "Styx",
+    "title": "Babe",
+    "display_title": "Babe",
+    "track": "Styx - Babe",
+    "length": 242,
+    "duration": 242,
+    "started": 1717398042,
+    "type": "track",
+    "track_id": 682421,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/e/1/2/6/20e126a39a7b662b2beeec10ccf93b5c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/e/1/2/6/20e126a39a7b662b2beeec10ccf93b5c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Adams",
+    "display_artist": "Bryan Adams",
+    "title": "Let's Make a Night to Remember",
+    "display_title": "Let's Make a Night to Remember",
+    "track": "Bryan Adams - Let's Make a Night to Remember",
+    "length": 381,
+    "duration": 381,
+    "started": 1717398282,
+    "type": "track",
+    "track_id": 752904,
+    "release": "18 Til I Die",
+    "art_url": "//cdn-images.audioaddict.com/3/f/f/0/a/6/3ff0a613b01ee26b9349fac5123919ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/f/0/a/6/3ff0a613b01ee26b9349fac5123919ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Chicago",
+    "display_artist": "Chicago",
+    "title": "If You Leave Me Now",
+    "display_title": "If You Leave Me Now",
+    "track": "Chicago - If You Leave Me Now",
+    "length": 235,
+    "duration": 235,
+    "started": 1717398660,
+    "type": "track",
+    "track_id": 1018543,
+    "release": "Chicago X",
+    "art_url": "//cdn-images.audioaddict.com/8/c/5/e/0/5/8c5e05c25a5e7fef460acb595875939d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/5/e/0/5/8c5e05c25a5e7fef460acb595875939d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Ambrosia",
+    "display_artist": "Ambrosia",
+    "title": "How Much I Feel",
+    "display_title": "How Much I Feel",
+    "track": "Ambrosia - How Much I Feel",
+    "length": 283,
+    "duration": 283,
+    "started": 1717399147,
+    "type": "track",
+    "track_id": 1018510,
+    "release": "Life Beyond L.A.",
+    "art_url": "//cdn-images.audioaddict.com/c/6/c/0/1/5/c6c015daa821bac197947596fc657da5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/c/0/1/5/c6c015daa821bac197947596fc657da5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Heart",
+    "display_artist": "Heart",
+    "title": "Never",
+    "display_title": "Never",
+    "track": "Heart - Never",
+    "length": 246,
+    "duration": 246,
+    "started": 1717399623,
+    "type": "track",
+    "track_id": 13724,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/e/1/5/2/8/7e1528660098b28f06ccb880ca067841.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/1/5/2/8/7e1528660098b28f06ccb880ca067841.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Roxette",
+    "display_artist": "Roxette",
+    "title": "The Look",
+    "display_title": "The Look",
+    "track": "Roxette - The Look",
+    "length": 237,
+    "duration": 237,
+    "started": 1717399867,
+    "type": "track",
+    "track_id": 14458,
+    "release": "Look Sharp!",
+    "art_url": "//cdn-images.audioaddict.com/0/0/9/b/9/e/009b9e8df428476d3e0cfe9ffbd5e4c3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/9/b/9/e/009b9e8df428476d3e0cfe9ffbd5e4c3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Toto",
+    "display_artist": "Toto",
+    "title": "Africa",
+    "display_title": "Africa",
+    "track": "Toto - Africa",
+    "length": 298,
+    "duration": 298,
+    "started": 1717401124,
+    "type": "track",
+    "track_id": 9191,
+    "release": "Eddie Stobart Trucking Songs",
+    "art_url": "//cdn-images.audioaddict.com/8/0/8/8/1/3/80881305038b56fe41a90f90daf61baf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/8/8/1/3/80881305038b56fe41a90f90daf61baf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Pat Benatar",
+    "display_artist": "Pat Benatar",
+    "title": "We Belong",
+    "display_title": "We Belong",
+    "track": "Pat Benatar - We Belong",
+    "length": 222,
+    "duration": 222,
+    "started": 1717401421,
+    "type": "track",
+    "track_id": 17242,
+    "release": "Tropico",
+    "art_url": "//cdn-images.audioaddict.com/d/c/9/2/a/7/dc92a7f1dc47bcf50828e17cc9e5afa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/9/2/a/7/dc92a7f1dc47bcf50828e17cc9e5afa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Scorpions",
+    "display_artist": "Scorpions",
+    "title": "Wind Of Change",
+    "display_title": "Wind Of Change",
+    "track": "Scorpions - Wind Of Change",
+    "length": 319,
+    "duration": 319,
+    "started": 1717401641,
+    "type": "track",
+    "track_id": 753220,
+    "release": "With a Little Help From My Friends",
+    "art_url": "//cdn-images.audioaddict.com/6/2/0/c/a/f/620caf2fb237f3eb69daaf7b8207f194.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/0/c/a/f/620caf2fb237f3eb69daaf7b8207f194.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Duran Duran",
+    "display_artist": "Duran Duran",
+    "title": "Save A Prayer",
+    "display_title": "Save A Prayer",
+    "track": "Duran Duran - Save A Prayer",
+    "length": 231,
+    "duration": 231,
+    "started": 1717402558,
+    "type": "track",
+    "track_id": 957959,
+    "release": "Rio",
+    "art_url": "//cdn-images.audioaddict.com/7/2/3/8/8/7/7238875913bb0a068466d94e06835f32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/2/3/8/8/7/7238875913bb0a068466d94e06835f32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Cranberries",
+    "display_artist": "The Cranberries",
+    "title": "Linger",
+    "display_title": "Linger",
+    "track": "The Cranberries - Linger",
+    "length": 285,
+    "duration": 285,
+    "started": 1717403044,
+    "type": "track",
+    "track_id": 1018726,
+    "release": "Everybody Else Is Doing It, So Why Can't We?",
+    "art_url": "//cdn-images.audioaddict.com/9/c/c/6/3/9/9cc6394ea831fdf043d73db1761fbda1.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/c/6/3/9/9cc6394ea831fdf043d73db1761fbda1.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "John Waite",
+    "display_artist": "John Waite",
+    "title": "Missing You",
+    "display_title": "Missing You",
+    "track": "John Waite - Missing You",
+    "length": 241,
+    "duration": 241,
+    "started": 1717403318,
+    "type": "track",
+    "track_id": 7020,
+    "release": "Back to the Future",
+    "art_url": "//cdn-images.audioaddict.com/c/1/f/9/f/8/c1f9f87e2153fb82adbd6bce8bf93179.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/1/f/9/f/8/c1f9f87e2153fb82adbd6bce8bf93179.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Richard Marx",
+    "display_artist": "Richard Marx",
+    "title": "Angelia",
+    "display_title": "Angelia",
+    "track": "Richard Marx - Angelia",
+    "length": 317,
+    "duration": 317,
+    "started": 1717403787,
+    "type": "track",
+    "track_id": 753182,
+    "release": "Repeat Offender",
+    "art_url": "//cdn-images.audioaddict.com/6/7/f/0/e/1/67f0e1c7a2a8a784e797c3c0dfd8c0ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/f/0/e/1/67f0e1c7a2a8a784e797c3c0dfd8c0ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Richard Marx",
+    "display_artist": "Richard Marx",
+    "title": "Hazard",
+    "display_title": "Hazard",
+    "track": "Richard Marx - Hazard",
+    "length": 292,
+    "duration": 292,
+    "started": 1717404100,
+    "type": "track",
+    "track_id": 1034762,
+    "release": "Rush Street",
+    "art_url": "//cdn-images.audioaddict.com/1/4/3/5/8/c/14358cc271fd677775eba7ee4a715835.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/3/5/8/c/14358cc271fd677775eba7ee4a715835.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Jon Secada",
+    "display_artist": "Jon Secada",
+    "title": "Just Another Day",
+    "display_title": "Just Another Day",
+    "track": "Jon Secada - Just Another Day",
+    "length": 336,
+    "duration": 336,
+    "started": 1717404610,
+    "type": "track",
+    "track_id": 753063,
+    "release": "Jon Secada",
+    "art_url": "//cdn-images.audioaddict.com/4/1/8/f/9/2/418f92f9e2ac1b6e39c8e566a0f3df88.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/8/f/9/2/418f92f9e2ac1b6e39c8e566a0f3df88.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Tracy Chapman",
+    "display_artist": "Tracy Chapman",
+    "title": "Fast Car",
+    "display_title": "Fast Car",
+    "track": "Tracy Chapman - Fast Car",
+    "length": 296,
+    "duration": 296,
+    "started": 1717404935,
+    "type": "track",
+    "track_id": 37004,
+    "release": "Tracy Chapman",
+    "art_url": "//cdn-images.audioaddict.com/c/9/5/e/4/c/c95e4ca3cebd0209cf2554a0cbc6d1a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/5/e/4/c/c95e4ca3cebd0209cf2554a0cbc6d1a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Collective Soul",
+    "display_artist": "Collective Soul",
+    "title": "The World I Know",
+    "display_title": "The World I Know",
+    "track": "Collective Soul - The World I Know",
+    "length": 262,
+    "duration": 262,
+    "started": 1717405232,
+    "type": "track",
+    "track_id": 1018559,
+    "release": "Collective Soul",
+    "art_url": "//cdn-images.audioaddict.com/5/7/9/3/0/7/57930733104287f1c0081664481c891e.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/9/3/0/7/57930733104287f1c0081664481c891e.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bruce Hornsby",
+    "display_artist": "Bruce Hornsby",
+    "title": "The Way It Is",
+    "display_title": "The Way It Is",
+    "track": "Bruce Hornsby - The Way It Is",
+    "length": 297,
+    "duration": 297,
+    "started": 1717405487,
+    "type": "track",
+    "track_id": 38365,
+    "release": "The Party Mix - Power Ballads",
+    "art_url": "//cdn-images.audioaddict.com/e/0/e/9/1/f/e0e91ff77793728f296569e6d0c31d24.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/e/9/1/f/e0e91ff77793728f296569e6d0c31d24.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Coldplay",
+    "display_artist": "Coldplay",
+    "title": "Clocks",
+    "display_title": "Clocks",
+    "track": "Coldplay - Clocks",
+    "length": 309,
+    "duration": 309,
+    "started": 1717406086,
+    "type": "track",
+    "track_id": 1018552,
+    "release": "A Rush of Blood to the Head",
+    "art_url": "//cdn-images.audioaddict.com/d/8/d/c/7/1/d8dc71f952653f31caaa96621de5c34d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/8/d/c/7/1/d8dc71f952653f31caaa96621de5c34d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Tasmin Archer",
+    "display_artist": "Tasmin Archer",
+    "title": "Sleeping Satellite",
+    "display_title": "Sleeping Satellite",
+    "track": "Tasmin Archer - Sleeping Satellite",
+    "length": 278,
+    "duration": 278,
+    "started": 1717406392,
+    "type": "track",
+    "track_id": 753254,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/d/1/e/8/b/cd1e8beaf52edb6becc3175c72c64cd9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/d/1/e/8/b/cd1e8beaf52edb6becc3175c72c64cd9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "OMD",
+    "display_artist": "OMD",
+    "title": "If You Leave",
+    "display_title": "If You Leave",
+    "track": "OMD - If You Leave",
+    "length": 268,
+    "duration": 268,
+    "started": 1717406669,
+    "type": "track",
+    "track_id": 20596,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/a/3/5/7/5/ca3575dd2171d22f5afbdb8b7b8999b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/a/3/5/7/5/ca3575dd2171d22f5afbdb8b7b8999b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Verve",
+    "display_artist": "The Verve",
+    "title": "Bittersweet Symphony",
+    "display_title": "Bittersweet Symphony",
+    "track": "The Verve - Bittersweet Symphony",
+    "length": 361,
+    "duration": 361,
+    "started": 1717406936,
+    "type": "track",
+    "track_id": 1023419,
+    "release": "This Is Music - The Singles 92-98",
+    "art_url": "//cdn-images.audioaddict.com/d/b/5/2/b/7/db52b715a05be140af760705b2230e84.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/b/5/2/b/7/db52b715a05be140af760705b2230e84.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "OneRepublic",
+    "display_artist": "OneRepublic",
+    "title": "Apologize feat. Timbaland",
+    "display_title": "Apologize feat. Timbaland",
+    "track": "OneRepublic - Apologize feat. Timbaland",
+    "length": 185,
+    "duration": 185,
+    "started": 1717407516,
+    "type": "track",
+    "track_id": 958890,
+    "release": "Shock Value",
+    "art_url": "//cdn-images.audioaddict.com/7/9/7/8/2/9/79782992dfada3d579b1d5bb353ee8ef.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/7/8/2/9/79782992dfada3d579b1d5bb353ee8ef.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Ace",
+    "display_artist": "Ace",
+    "title": "How Long",
+    "display_title": "How Long",
+    "track": "Ace - How Long",
+    "length": 202,
+    "duration": 202,
+    "started": 1717407918,
+    "type": "track",
+    "track_id": 5370,
+    "release": "That Loving Feeling, Volume III",
+    "art_url": "//cdn-images.audioaddict.com/f/8/0/1/7/2/f801723572e93cc750a1bf3e26ece643.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/0/1/7/2/f801723572e93cc750a1bf3e26ece643.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Paul Young",
+    "display_artist": "Paul Young",
+    "title": "Don't Dream It's Over",
+    "display_title": "Don't Dream It's Over",
+    "track": "Paul Young - Don't Dream It's Over",
+    "length": 258,
+    "duration": 258,
+    "started": 1717408389,
+    "type": "track",
+    "track_id": 44057,
+    "release": "Don't Dream It's Over",
+    "art_url": "//cdn-images.audioaddict.com/d/c/6/f/7/b/dc6f7b96c25b6681b1b7e7400b40e0a8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/6/f/7/b/dc6f7b96c25b6681b1b7e7400b40e0a8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Gabrielle",
+    "display_artist": "Gabrielle",
+    "title": "Out Of Reach",
+    "display_title": "Out Of Reach",
+    "track": "Gabrielle - Out Of Reach",
+    "length": 197,
+    "duration": 197,
+    "started": 1717408645,
+    "type": "track",
+    "track_id": 46398,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/a/6/9/1/d/ba691d5cca5e228c44e05e79d961877b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/6/9/1/d/ba691d5cca5e228c44e05e79d961877b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Europe",
+    "display_artist": "Europe",
+    "title": "Carrie",
+    "display_title": "Carrie",
+    "track": "Europe - Carrie",
+    "length": 271,
+    "duration": 271,
+    "started": 1717409419,
+    "type": "track",
+    "track_id": 37513,
+    "release": "The Final Countdown",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/7/e/6/de47e69312f849f434e7f8ac283b7501.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/4/7/e/6/de47e69312f849f434e7f8ac283b7501.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Eagles",
+    "display_artist": "Eagles",
+    "title": "Hotel California",
+    "display_title": "Hotel California",
+    "track": "Eagles - Hotel California",
+    "length": 387,
+    "duration": 387,
+    "started": 1717409688,
+    "type": "track",
+    "track_id": 682981,
+    "release": "Ye Olde Space Band: Plays the Classic Rock Hits",
+    "art_url": "//cdn-images.audioaddict.com/3/9/3/e/0/5/393e0535b7ecf5b117763361a7c6382b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/3/e/0/5/393e0535b7ecf5b117763361a7c6382b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Def Leppard",
+    "display_artist": "Def Leppard",
+    "title": "Love Bites",
+    "display_title": "Love Bites",
+    "track": "Def Leppard - Love Bites",
+    "length": 347,
+    "duration": 347,
+    "started": 1717410076,
+    "type": "track",
+    "track_id": 589679,
+    "release": "Hysteria",
+    "art_url": "//cdn-images.audioaddict.com/1/0/d/4/e/4/10d4e4c1d54f50266a6b0c1ba50aa37b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/d/4/e/4/10d4e4c1d54f50266a6b0c1ba50aa37b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Eagles",
+    "display_artist": "Eagles",
+    "title": "New Kid In Town",
+    "display_title": "New Kid In Town",
+    "track": "Eagles - New Kid In Town",
+    "length": 319,
+    "duration": 319,
+    "started": 1717410423,
+    "type": "track",
+    "track_id": 752966,
+    "release": "Hotel California",
+    "art_url": "//cdn-images.audioaddict.com/d/7/8/f/6/5/d78f65501314df17b93a3653562346f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/8/f/6/5/d78f65501314df17b93a3653562346f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Robbie Williams",
+    "display_artist": "Robbie Williams",
+    "title": "She's The One",
+    "display_title": "She's The One",
+    "track": "Robbie Williams - She's The One",
+    "length": 258,
+    "duration": 258,
+    "started": 1717410989,
+    "type": "track",
+    "track_id": 1018683,
+    "release": "I've Been Expecting You",
+    "art_url": "//cdn-images.audioaddict.com/f/a/4/9/2/5/fa4925f14db85245d6251deab6b83d48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/a/4/9/2/5/fa4925f14db85245d6251deab6b83d48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Olivia Newton-John",
+    "display_artist": "Olivia Newton-John",
+    "title": "Magic",
+    "display_title": "Magic",
+    "track": "Olivia Newton-John - Magic",
+    "length": 271,
+    "duration": 271,
+    "started": 1717411465,
+    "type": "track",
+    "track_id": 2898665,
+    "release": "Olivia's Greatest Hits, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/e/f/e/2/7/c/efe27c2b83fe78dddec046ad0df36ba5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/e/2/7/c/efe27c2b83fe78dddec046ad0df36ba5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Police",
+    "display_artist": "The Police",
+    "title": "Wrapped Around Your Finger",
+    "display_title": "Wrapped Around Your Finger",
+    "track": "The Police - Wrapped Around Your Finger",
+    "length": 314,
+    "duration": 314,
+    "started": 1717412035,
+    "type": "track",
+    "track_id": 32098,
+    "release": "Live!",
+    "art_url": "//cdn-images.audioaddict.com/9/0/5/8/7/0/905870aad5525170131088d468244090.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/5/8/7/0/905870aad5525170131088d468244090.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Wang Chung",
+    "display_artist": "Wang Chung",
+    "title": "Everybody Have Fun Tonight",
+    "display_title": "Everybody Have Fun Tonight",
+    "track": "Wang Chung - Everybody Have Fun Tonight",
+    "length": 286,
+    "duration": 286,
+    "started": 1717412573,
+    "type": "track",
+    "track_id": 19637,
+    "release": "More Music From Romy and Michele's High School Reunion",
+    "art_url": "//cdn-images.audioaddict.com/5/4/1/e/1/a/541e1a9282ceb0cb09d507773bfb392e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/1/e/1/a/541e1a9282ceb0cb09d507773bfb392e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "LoneStar",
+    "display_artist": "LoneStar",
+    "title": "Amazed",
+    "display_title": "Amazed",
+    "track": "LoneStar - Amazed",
+    "length": 268,
+    "duration": 268,
+    "started": 1717412859,
+    "type": "track",
+    "track_id": 753098,
+    "release": "The Party Mix - Power Ballads",
+    "art_url": "//cdn-images.audioaddict.com/c/4/8/b/d/a/c48bdabf7e8ba899b80995a8783b9942.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/8/b/d/a/c48bdabf7e8ba899b80995a8783b9942.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Joe Jackson",
+    "display_artist": "Joe Jackson",
+    "title": "Steppin' Out",
+    "display_title": "Steppin' Out",
+    "track": "Joe Jackson - Steppin' Out",
+    "length": 227,
+    "duration": 227,
+    "started": 1717413348,
+    "type": "track",
+    "track_id": 682230,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/b/3/d/5/7db3d5344c1e023caf662eface406405.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/b/3/d/5/7db3d5344c1e023caf662eface406405.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Train",
+    "display_artist": "Train",
+    "title": "Drops Of Jupiter",
+    "display_title": "Drops Of Jupiter",
+    "track": "Train - Drops Of Jupiter",
+    "length": 260,
+    "duration": 260,
+    "started": 1717413572,
+    "type": "track",
+    "track_id": 1018756,
+    "release": "Drops of Jupiter",
+    "art_url": "//cdn-images.audioaddict.com/a/2/3/e/3/f/a23e3ffba7de270f25fab136d51ce176.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/3/e/3/f/a23e3ffba7de270f25fab136d51ce176.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Coldplay",
+    "display_artist": "Coldplay",
+    "title": "Speed Of Sound",
+    "display_title": "Speed Of Sound",
+    "track": "Coldplay - Speed Of Sound",
+    "length": 292,
+    "duration": 292,
+    "started": 1717414064,
+    "type": "track",
+    "track_id": 958529,
+    "release": "X&Y",
+    "art_url": "//cdn-images.audioaddict.com/5/8/d/1/7/e/58d17e5cb64f1c05ffa3d88ea6ae22c5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/d/1/7/e/58d17e5cb64f1c05ffa3d88ea6ae22c5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Men At Work",
+    "display_artist": "Men At Work",
+    "title": "Overkill",
+    "display_title": "Overkill",
+    "track": "Men At Work - Overkill",
+    "length": 225,
+    "duration": 225,
+    "started": 1717414833,
+    "type": "track",
+    "track_id": 587884,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/3/0/b/b/8/d30bb8e308bba285300e866d0b2c8b1f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/0/b/b/8/d30bb8e308bba285300e866d0b2c8b1f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Glenn Frey",
+    "display_artist": "Glenn Frey",
+    "title": "You Belong To The City",
+    "display_title": "You Belong To The City",
+    "track": "Glenn Frey - You Belong To The City",
+    "length": 264,
+    "duration": 264,
+    "started": 1717415057,
+    "type": "track",
+    "track_id": 1032848,
+    "release": "The Allnighter",
+    "art_url": "//cdn-images.audioaddict.com/9/2/d/d/a/8/92dda86182eb8a2e002c384a2122d3e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/d/d/a/8/92dda86182eb8a2e002c384a2122d3e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Tori Amos",
+    "display_artist": "Tori Amos",
+    "title": "A Sorta Fairytale",
+    "display_title": "A Sorta Fairytale",
+    "track": "Tori Amos - A Sorta Fairytale",
+    "length": 237,
+    "duration": 237,
+    "started": 1717415605,
+    "type": "track",
+    "track_id": 6224,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/a/e/c/2/5/aaec2545c0c57d7c5b2482f32d1bd34e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/e/c/2/5/aaec2545c0c57d7c5b2482f32d1bd34e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Eric Clapton",
+    "display_artist": "Eric Clapton",
+    "title": "Wonderful Tonight",
+    "display_title": "Wonderful Tonight",
+    "track": "Eric Clapton - Wonderful Tonight",
+    "length": 223,
+    "duration": 223,
+    "started": 1717415842,
+    "type": "track",
+    "track_id": 1018581,
+    "release": "Slowhand",
+    "art_url": "//cdn-images.audioaddict.com/4/4/e/f/7/5/44ef75edd5e525c250c62323af5e6415.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/e/f/7/5/44ef75edd5e525c250c62323af5e6415.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Pat Benatar",
+    "display_artist": "Pat Benatar",
+    "title": "Love Is A Battlefield",
+    "display_title": "Love Is A Battlefield",
+    "track": "Pat Benatar - Love Is A Battlefield",
+    "length": 250,
+    "duration": 250,
+    "started": 1717416279,
+    "type": "track",
+    "track_id": 9516,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/c/2/a/c/e/ac2ace8a5c8cf81450f35cb53d83e326.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/2/a/c/e/ac2ace8a5c8cf81450f35cb53d83e326.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Christopher Cross",
+    "display_artist": "Christopher Cross",
+    "title": "Never Be The Same",
+    "display_title": "Never Be The Same",
+    "track": "Christopher Cross - Never Be The Same",
+    "length": 292,
+    "duration": 292,
+    "started": 1717416996,
+    "type": "track",
+    "track_id": 752932,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/1/9/c/9/d/819c9de434e3ab0d8da6d62f20975363.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/9/c/9/d/819c9de434e3ab0d8da6d62f20975363.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Dido",
+    "display_artist": "Dido",
+    "title": "Here With Me",
+    "display_title": "Here With Me",
+    "track": "Dido - Here With Me",
+    "length": 255,
+    "duration": 255,
+    "started": 1717417494,
+    "type": "track",
+    "track_id": 602994,
+    "release": "No Angel",
+    "art_url": "//cdn-images.audioaddict.com/b/d/9/0/d/3/bd90d37001592f0beebd831007e773c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/9/0/d/3/bd90d37001592f0beebd831007e773c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Hall & Oates",
+    "display_artist": "Hall & Oates",
+    "title": "Kiss On My List",
+    "display_title": "Kiss On My List",
+    "track": "Hall & Oates - Kiss On My List",
+    "length": 234,
+    "duration": 234,
+    "started": 1717417748,
+    "type": "track",
+    "track_id": 19566,
+    "release": "Beverly Hills Cop",
+    "art_url": "//cdn-images.audioaddict.com/e/e/c/5/b/5/eec5b5b8831682a6a8634e5526a81252.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/c/5/b/5/eec5b5b8831682a6a8634e5526a81252.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Earth Wind And Fire",
+    "display_artist": "Earth Wind And Fire",
+    "title": "After The Love Has Gone",
+    "display_title": "After The Love Has Gone",
+    "track": "Earth Wind And Fire - After The Love Has Gone",
+    "length": 265,
+    "duration": 265,
+    "started": 1717418219,
+    "type": "track",
+    "track_id": 42586,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/a/0/8/a/7/aa08a7c7661a351190d67a7d1dea6242.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/0/8/a/7/aa08a7c7661a351190d67a7d1dea6242.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Boston",
+    "display_artist": "Boston",
+    "title": "More Than A Feeling",
+    "display_title": "More Than A Feeling",
+    "track": "Boston - More Than A Feeling",
+    "length": 284,
+    "duration": 284,
+    "started": 1717418641,
+    "type": "track",
+    "track_id": 1018529,
+    "release": "Boston - Greatest Hits",
+    "art_url": "//cdn-images.audioaddict.com/7/c/9/8/f/2/7c98f2c0ffbac06c5d43457cb1d5cd5c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/9/8/f/2/7c98f2c0ffbac06c5d43457cb1d5cd5c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "When In Rome",
+    "display_artist": "When In Rome",
+    "title": "Promise",
+    "display_title": "Promise",
+    "track": "When In Rome - Promise",
+    "length": 218,
+    "duration": 218,
+    "started": 1717418923,
+    "type": "track",
+    "track_id": 682655,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/d/0/0/1/9/5d0019c6dbecc3f190101a5cc794a277.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/d/0/0/1/9/5d0019c6dbecc3f190101a5cc794a277.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Eddie Rabbitt",
+    "display_artist": "Eddie Rabbitt",
+    "title": "I Love A Rainy Night",
+    "display_title": "I Love A Rainy Night",
+    "track": "Eddie Rabbitt - I Love A Rainy Night",
+    "length": 191,
+    "duration": 191,
+    "started": 1717419406,
+    "type": "track",
+    "track_id": 683340,
+    "release": "Grand Theft Auto: San Andreas Official Soundtrack Box Set",
+    "art_url": "//cdn-images.audioaddict.com/9/7/6/e/a/1/976ea12d9bd2ccf38d12c534d4d52f7e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/6/e/a/1/976ea12d9bd2ccf38d12c534d4d52f7e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "Take Me Home",
+    "display_title": "Take Me Home",
+    "track": "Phil Collins - Take Me Home",
+    "length": 293,
+    "duration": 293,
+    "started": 1717419798,
+    "type": "track",
+    "track_id": 7892,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/7/d/2/5/0/a7d250cbef0f8f0306be5a5974a81cc5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/7/d/2/5/0/a7d250cbef0f8f0306be5a5974a81cc5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Snow Patrol",
+    "display_artist": "Snow Patrol",
+    "title": "Chasing Cars",
+    "display_title": "Chasing Cars",
+    "track": "Snow Patrol - Chasing Cars",
+    "length": 270,
+    "duration": 270,
+    "started": 1717420085,
+    "type": "track",
+    "track_id": 958999,
+    "release": "Eyes Open",
+    "art_url": "//cdn-images.audioaddict.com/b/c/b/9/8/9/bcb9899210e3892988caf5e53961ca94.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/b/9/8/9/bcb9899210e3892988caf5e53961ca94.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "Can't Stop Loving You",
+    "display_title": "Can't Stop Loving You",
+    "track": "Phil Collins - Can't Stop Loving You",
+    "length": 255,
+    "duration": 255,
+    "started": 1717420566,
+    "type": "track",
+    "track_id": 17138,
+    "release": "Testify",
+    "art_url": "//cdn-images.audioaddict.com/a/9/6/1/a/c/a961acd079c03ebaf7134f0aa93bd57c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/6/1/a/c/a961acd079c03ebaf7134f0aa93bd57c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Sheryl Crow",
+    "display_artist": "Sheryl Crow",
+    "title": "My Favorite Mistake",
+    "display_title": "My Favorite Mistake",
+    "track": "Sheryl Crow - My Favorite Mistake",
+    "length": 249,
+    "duration": 249,
+    "started": 1717420820,
+    "type": "track",
+    "track_id": 1034172,
+    "release": "The Globe Sessions",
+    "art_url": "//cdn-images.audioaddict.com/c/a/c/1/9/9/cac199ed0534b072caad57a8f91b1752.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/a/c/1/9/9/cac199ed0534b072caad57a8f91b1752.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Foreigner",
+    "display_artist": "Foreigner",
+    "title": "Waiting for a Girl Like You",
+    "display_title": "Waiting for a Girl Like You",
+    "track": "Foreigner - Waiting for a Girl Like You",
+    "length": 290,
+    "duration": 290,
+    "started": 1717421556,
+    "type": "track",
+    "track_id": 752998,
+    "release": "Footloose",
+    "art_url": "//cdn-images.audioaddict.com/9/e/0/8/6/5/9e0865196c0fd8caf6c30fdc09d1a994.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/0/8/6/5/9e0865196c0fd8caf6c30fdc09d1a994.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Richard Marx",
+    "display_artist": "Richard Marx",
+    "title": "Endless Summer Nights",
+    "display_title": "Endless Summer Nights",
+    "track": "Richard Marx - Endless Summer Nights",
+    "length": 272,
+    "duration": 272,
+    "started": 1717422080,
+    "type": "track",
+    "track_id": 590110,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/0/b/8/3/4/60b834b12e7bcf8317fa40ce7dfddd55.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/b/8/3/4/60b834b12e7bcf8317fa40ce7dfddd55.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Foreigner",
+    "display_artist": "Foreigner",
+    "title": "That Was Yesterday",
+    "display_title": "That Was Yesterday",
+    "track": "Foreigner - That Was Yesterday",
+    "length": 230,
+    "duration": 230,
+    "started": 1717422351,
+    "type": "track",
+    "track_id": 2823405,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/1/e/0/6/9/d1e0698ea81dd660592f43842456b24e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/e/0/6/9/d1e0698ea81dd660592f43842456b24e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "INXS",
+    "display_artist": "INXS",
+    "title": "Need You Tonight",
+    "display_title": "Need You Tonight",
+    "track": "INXS - Need You Tonight",
+    "length": 181,
+    "duration": 181,
+    "started": 1717423302,
+    "type": "track",
+    "track_id": 22003,
+    "release": "Volume One",
+    "art_url": "//cdn-images.audioaddict.com/d/3/f/9/3/9/d3f939bf81340acc42a377badfb92de9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/f/9/3/9/d3f939bf81340acc42a377badfb92de9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Script",
+    "display_artist": "The Script",
+    "title": "Superheroes",
+    "display_title": "Superheroes",
+    "track": "The Script - Superheroes",
+    "length": 243,
+    "duration": 243,
+    "started": 1717423483,
+    "type": "track",
+    "track_id": 896773,
+    "release": "No Sound Without Silence",
+    "art_url": "//cdn-images.audioaddict.com/3/8/c/f/7/7/38cf77d3db0ef3fff414e85b0d1a244e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/c/f/7/7/38cf77d3db0ef3fff414e85b0d1a244e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Whitesnake",
+    "display_artist": "Whitesnake",
+    "title": "Here I Go Again",
+    "display_title": "Here I Go Again",
+    "track": "Whitesnake - Here I Go Again",
+    "length": 235,
+    "duration": 235,
+    "started": 1717423955,
+    "type": "track",
+    "track_id": 1018761,
+    "release": "Saints & Sinners",
+    "art_url": "//cdn-images.audioaddict.com/3/9/1/a/e/1/391ae1fec24b8a3e8f7dfcfa054045f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/1/a/e/1/391ae1fec24b8a3e8f7dfcfa054045f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Mike + The Mechanics",
+    "display_artist": "Mike + The Mechanics",
+    "title": "The Living Years",
+    "display_title": "The Living Years",
+    "track": "Mike + The Mechanics - The Living Years",
+    "length": 335,
+    "duration": 335,
+    "started": 1717424480,
+    "type": "track",
+    "track_id": 1018650,
+    "release": "Living Years",
+    "art_url": "//cdn-images.audioaddict.com/5/9/d/0/d/b/59d0dbbee0ce1c4715ce5cde4a885c3b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/d/0/d/b/59d0dbbee0ce1c4715ce5cde4a885c3b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Journey",
+    "display_artist": "Journey",
+    "title": "Who's Crying Now",
+    "display_title": "Who's Crying Now",
+    "track": "Journey - Who's Crying Now",
+    "length": 302,
+    "duration": 302,
+    "started": 1717424810,
+    "type": "track",
+    "track_id": 1059,
+    "release": "Escape",
+    "art_url": "//cdn-images.audioaddict.com/2/3/a/0/4/8/23a0481c0a3cb15cb2d25d8ba819bf2e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/a/0/4/8/23a0481c0a3cb15cb2d25d8ba819bf2e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Christopher Cross",
+    "display_artist": "Christopher Cross",
+    "title": "Arthur's Theme (Best That You Can Do)",
+    "display_title": "Arthur's Theme (Best That You Can Do)",
+    "track": "Christopher Cross - Arthur's Theme (Best That You Can Do)",
+    "length": 238,
+    "duration": 238,
+    "started": 1717425110,
+    "type": "track",
+    "track_id": 1236867,
+    "release": "Arthur - The Album (Remastered)",
+    "art_url": "//cdn-images.audioaddict.com/5/c/d/9/9/7/5cd997e92640075a71cffcce1d154fe9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/d/9/9/7/5cd997e92640075a71cffcce1d154fe9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Richard Marx",
+    "display_artist": "Richard Marx",
+    "title": "Chains Around My Heart",
+    "display_title": "Chains Around My Heart",
+    "track": "Richard Marx - Chains Around My Heart",
+    "length": 225,
+    "duration": 225,
+    "started": 1717425626,
+    "type": "track",
+    "track_id": 753183,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/1/1/b/6/d/d11b6d612224cde4ab92dab7674386b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/1/b/6/d/d11b6d612224cde4ab92dab7674386b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Eagles",
+    "display_artist": "Eagles",
+    "title": "I Can't Tell You Why",
+    "display_title": "I Can't Tell You Why",
+    "track": "Eagles - I Can't Tell You Why",
+    "length": 293,
+    "duration": 293,
+    "started": 1717425849,
+    "type": "track",
+    "track_id": 683426,
+    "release": "The Long Run",
+    "art_url": "//cdn-images.audioaddict.com/1/2/0/e/c/c/120eccdabd10b236fce0b2ce4d8540b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/0/e/c/c/120eccdabd10b236fce0b2ce4d8540b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Fleetwood Mac",
+    "display_artist": "Fleetwood Mac",
+    "title": "Everywhere",
+    "display_title": "Everywhere",
+    "track": "Fleetwood Mac - Everywhere",
+    "length": 222,
+    "duration": 222,
+    "started": 1717426357,
+    "type": "track",
+    "track_id": 1018591,
+    "release": "Tango in the Night",
+    "art_url": "//cdn-images.audioaddict.com/1/c/9/e/f/1/1c9ef13b7cd106f7df5faaa6378a263b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/9/e/f/1/1c9ef13b7cd106f7df5faaa6378a263b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Sixpence None The Richer",
+    "display_artist": "Sixpence None The Richer",
+    "title": "Kiss Me",
+    "display_title": "Kiss Me",
+    "track": "Sixpence None The Richer - Kiss Me",
+    "length": 199,
+    "duration": 199,
+    "started": 1717427161,
+    "type": "track",
+    "track_id": 597386,
+    "release": "The Fatherless & The Widow",
+    "art_url": "//cdn-images.audioaddict.com/8/7/6/e/0/2/876e02957bf79e2dd8f2a705b64039e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/6/e/0/2/876e02957bf79e2dd8f2a705b64039e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Starship",
+    "display_artist": "Starship",
+    "title": "Sara",
+    "display_title": "Sara",
+    "track": "Starship - Sara",
+    "length": 293,
+    "duration": 293,
+    "started": 1717427358,
+    "type": "track",
+    "track_id": 676392,
+    "release": "Knee Deep in the Hoopla",
+    "art_url": "//cdn-images.audioaddict.com/7/8/1/9/8/d/78198d587303f23d62e582cd81be1ad1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/1/9/8/d/78198d587303f23d62e582cd81be1ad1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Coldplay",
+    "display_artist": "Coldplay",
+    "title": "Talk",
+    "display_title": "Talk",
+    "track": "Coldplay - Talk",
+    "length": 311,
+    "duration": 311,
+    "started": 1717428196,
+    "type": "track",
+    "track_id": 1236873,
+    "release": "X&Y",
+    "art_url": "//cdn-images.audioaddict.com/6/f/3/e/4/f/6f3e4fb2b8f8705d7795e2ccf4ceeb61.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/3/e/4/f/6f3e4fb2b8f8705d7795e2ccf4ceeb61.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Naked Eyes",
+    "display_artist": "Naked Eyes",
+    "title": "Always Something There to Remind Me",
+    "display_title": "Always Something There to Remind Me",
+    "track": "Naked Eyes - Always Something There to Remind Me",
+    "length": 221,
+    "duration": 221,
+    "started": 1717428734,
+    "type": "track",
+    "track_id": 1913,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/0/5/e/a/b/b05eab163771609a49dab8349f6ec440.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/5/e/a/b/b05eab163771609a49dab8349f6ec440.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Corrs",
+    "display_artist": "The Corrs",
+    "title": "What Can I Do",
+    "display_title": "What Can I Do",
+    "track": "The Corrs - What Can I Do",
+    "length": 260,
+    "duration": 260,
+    "started": 1717428952,
+    "type": "track",
+    "track_id": 753264,
+    "release": "Talk on Corners (Tour Edition)",
+    "art_url": "//cdn-images.audioaddict.com/e/f/b/0/4/b/efb04b91a3247e8ee2bb24989e6933d9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/b/0/4/b/efb04b91a3247e8ee2bb24989e6933d9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "U2",
+    "display_artist": "U2",
+    "title": "With Or Without You",
+    "display_title": "With Or Without You",
+    "track": "U2 - With Or Without You",
+    "length": 310,
+    "duration": 310,
+    "started": 1717429519,
+    "type": "track",
+    "track_id": 753288,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/2/3/2/a/5/6232a5551ffce997ef63c74328d504c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/3/2/a/5/6232a5551ffce997ef63c74328d504c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Blondie",
+    "display_artist": "Blondie",
+    "title": "Call Me",
+    "display_title": "Call Me",
+    "track": "Blondie - Call Me",
+    "length": 212,
+    "duration": 212,
+    "started": 1717429815,
+    "type": "track",
+    "track_id": 16291,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/9/f/0/2/e/89f02e25335944b152a4707895668775.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/f/0/2/e/89f02e25335944b152a4707895668775.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Glenn Frey",
+    "display_artist": "Glenn Frey",
+    "title": "The Heat Is On",
+    "display_title": "The Heat Is On",
+    "track": "Glenn Frey - The Heat Is On",
+    "length": 226,
+    "duration": 226,
+    "started": 1717430333,
+    "type": "track",
+    "track_id": 8336,
+    "release": "Beverly Hills Cop",
+    "art_url": "//cdn-images.audioaddict.com/1/b/d/4/9/b/1bd49bccf730346817d2cb17177bdc67.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/d/4/9/b/1bd49bccf730346817d2cb17177bdc67.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Joshua Kadison",
+    "display_artist": "Joshua Kadison",
+    "title": "Jessie",
+    "display_title": "Jessie",
+    "track": "Joshua Kadison - Jessie",
+    "length": 264,
+    "duration": 264,
+    "started": 1717430559,
+    "type": "track",
+    "track_id": 753064,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/c/e/e/8/4/8cee84fd90dce60510d27ff1f546b89d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/e/e/8/4/8cee84fd90dce60510d27ff1f546b89d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Maroon 5",
+    "display_artist": "Maroon 5",
+    "title": "She Will Be Loved",
+    "display_title": "She Will Be Loved",
+    "track": "Maroon 5 - She Will Be Loved",
+    "length": 256,
+    "duration": 256,
+    "started": 1717431057,
+    "type": "track",
+    "track_id": 958813,
+    "release": "1.22.03 Acoustic",
+    "art_url": "//cdn-images.audioaddict.com/1/4/4/c/6/5/144c6508772d67344b3c24c90bc24e59.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/4/c/6/5/144c6508772d67344b3c24c90bc24e59.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Ambrosia",
+    "display_artist": "Ambrosia",
+    "title": "Biggest Part Of Me",
+    "display_title": "Biggest Part Of Me",
+    "track": "Ambrosia - Biggest Part Of Me",
+    "length": 248,
+    "duration": 248,
+    "started": 1717432045,
+    "type": "track",
+    "track_id": 16604,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/1/0/b/4/6/510b469824ce875ceb7a3169140cf366.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/0/b/4/6/510b469824ce875ceb7a3169140cf366.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Dionne Warwick",
+    "display_artist": "Dionne Warwick",
+    "title": "All The Love In The World",
+    "display_title": "All The Love In The World",
+    "track": "Dionne Warwick - All The Love In The World",
+    "length": 222,
+    "duration": 222,
+    "started": 1717432544,
+    "type": "track",
+    "track_id": 752956,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/c/6/e/1/f/ac6e1fe3a33e6dc03b33751903f0757b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/6/e/1/f/ac6e1fe3a33e6dc03b33751903f0757b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Wet Wet Wet",
+    "display_artist": "Wet Wet Wet",
+    "title": "Love Is All Around",
+    "display_title": "Love Is All Around",
+    "track": "Wet Wet Wet - Love Is All Around",
+    "length": 228,
+    "duration": 228,
+    "started": 1717433010,
+    "type": "track",
+    "track_id": 20862,
+    "release": "Love Is All Around",
+    "art_url": "//cdn-images.audioaddict.com/2/5/4/5/4/c/25454c6386ec9de17fac4dabdb48fe29.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/4/5/4/c/25454c6386ec9de17fac4dabdb48fe29.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Climie Fisher",
+    "display_artist": "Climie Fisher",
+    "title": "Love Changes Everything",
+    "display_title": "Love Changes Everything",
+    "track": "Climie Fisher - Love Changes Everything",
+    "length": 265,
+    "duration": 265,
+    "started": 1717433446,
+    "type": "track",
+    "track_id": 11034,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/b/1/e/5/7/eb1e570d677bf4ccaf126d6bd57cf921.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/b/1/e/5/7/eb1e570d677bf4ccaf126d6bd57cf921.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Kim Carnes",
+    "display_artist": "Kim Carnes",
+    "title": "Bette Davis Eyes",
+    "display_title": "Bette Davis Eyes",
+    "track": "Kim Carnes - Bette Davis Eyes",
+    "length": 229,
+    "duration": 229,
+    "started": 1717433710,
+    "type": "track",
+    "track_id": 586004,
+    "release": "Out of the Blue",
+    "art_url": "//cdn-images.audioaddict.com/e/a/8/e/3/7/ea8e371e90fc7279369ba7d12d215b62.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/8/e/3/7/ea8e371e90fc7279369ba7d12d215b62.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Genesis",
+    "display_artist": "Genesis",
+    "title": "That’s All",
+    "display_title": "That’s All",
+    "track": "Genesis - That’s All",
+    "length": 266,
+    "duration": 266,
+    "started": 1717434163,
+    "type": "track",
+    "track_id": 683286,
+    "release": "Genesis",
+    "art_url": "//cdn-images.audioaddict.com/1/1/d/8/9/a/11d89a1ea6f5291dd2d8b07f60ddf7bd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/1/d/8/9/a/11d89a1ea6f5291dd2d8b07f60ddf7bd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "Two Hearts",
+    "display_title": "Two Hearts",
+    "track": "Phil Collins - Two Hearts",
+    "length": 204,
+    "duration": 204,
+    "started": 1717434429,
+    "type": "track",
+    "track_id": 682323,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/e/5/8/2/9/be5829dd6b7994667899fc5cd6523c5d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/5/8/2/9/be5829dd6b7994667899fc5cd6523c5d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Mr. Mister",
+    "display_artist": "Mr. Mister",
+    "title": "Broken Wings",
+    "display_title": "Broken Wings",
+    "track": "Mr. Mister - Broken Wings",
+    "length": 288,
+    "duration": 288,
+    "started": 1717434865,
+    "type": "track",
+    "track_id": 682310,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/0/9/4/7/3/f0947313a32e1012de10dee4f7f67663.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/9/4/7/3/f0947313a32e1012de10dee4f7f67663.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Billy Ocean",
+    "display_artist": "Billy Ocean",
+    "title": "Caribbean Queen",
+    "display_title": "Caribbean Queen",
+    "track": "Billy Ocean - Caribbean Queen",
+    "length": 247,
+    "duration": 247,
+    "started": 1717435625,
+    "type": "track",
+    "track_id": 682008,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/6/e/2/c/4/06e2c406026061ea3cdae04002f77bf2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/e/2/c/4/06e2c406026061ea3cdae04002f77bf2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "P!NK",
+    "display_artist": "P!NK",
+    "title": "Try",
+    "display_title": "Try",
+    "track": "P!NK - Try",
+    "length": 240,
+    "duration": 240,
+    "started": 1717435870,
+    "type": "track",
+    "track_id": 667588,
+    "release": "The Truth About Love",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/0/f/6/7c30f61564c56ba79128b1412253c9fe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/0/f/6/7c30f61564c56ba79128b1412253c9fe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Kelly Clarkson",
+    "display_artist": "Kelly Clarkson",
+    "title": "Breakaway",
+    "display_title": "Breakaway",
+    "track": "Kelly Clarkson - Breakaway",
+    "length": 246,
+    "duration": 246,
+    "started": 1717436365,
+    "type": "track",
+    "track_id": 753072,
+    "release": "Breakaway",
+    "art_url": "//cdn-images.audioaddict.com/f/6/d/9/9/7/f6d997117b484ee31291f78d15df32a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/d/9/9/7/f6d997117b484ee31291f78d15df32a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "George Michael",
+    "display_artist": "George Michael",
+    "title": "Father Figure",
+    "display_title": "Father Figure",
+    "track": "George Michael - Father Figure",
+    "length": 341,
+    "duration": 341,
+    "started": 1717436602,
+    "type": "track",
+    "track_id": 38700,
+    "release": "Faith",
+    "art_url": "//cdn-images.audioaddict.com/b/e/a/1/9/b/bea19b348c37ef2fe1503587cd7dc4e2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/a/1/9/b/bea19b348c37ef2fe1503587cd7dc4e2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Kool & The Gang",
+    "display_artist": "Kool & The Gang",
+    "title": "Cherish",
+    "display_title": "Cherish",
+    "track": "Kool & The Gang - Cherish",
+    "length": 372,
+    "duration": 372,
+    "started": 1717436940,
+    "type": "track",
+    "track_id": 753075,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/9/d/1/d/2/99d1d26f502b802a2c465e008fbd4cd9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/d/1/d/2/99d1d26f502b802a2c465e008fbd4cd9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Crowded House",
+    "display_artist": "Crowded House",
+    "title": "Don't Dream It's Over",
+    "display_title": "Don't Dream It's Over",
+    "track": "Crowded House - Don't Dream It's Over",
+    "length": 232,
+    "duration": 232,
+    "started": 1717437594,
+    "type": "track",
+    "track_id": 1018561,
+    "release": "Crowded House",
+    "art_url": "//cdn-images.audioaddict.com/7/c/0/6/8/5/7c06856664b70a4f580d3ea529706307.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/0/6/8/5/7c06856664b70a4f580d3ea529706307.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Simple Minds",
+    "display_artist": "Simple Minds",
+    "title": "Someone, Somewhere In Summertime",
+    "display_title": "Someone, Somewhere In Summertime",
+    "track": "Simple Minds - Someone, Somewhere In Summertime",
+    "length": 283,
+    "duration": 283,
+    "started": 1717437826,
+    "type": "track",
+    "track_id": 958180,
+    "release": "New Gold Dream (81-82-83-84)",
+    "art_url": "//cdn-images.audioaddict.com/5/3/1/a/b/3/531ab3b51736507d34b35362eaf0e326.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/1/a/b/3/531ab3b51736507d34b35362eaf0e326.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Foreigner",
+    "display_artist": "Foreigner",
+    "title": "Until The End Of Time",
+    "display_title": "Until The End Of Time",
+    "track": "Foreigner - Until The End Of Time",
+    "length": 263,
+    "duration": 263,
+    "started": 1717438341,
+    "type": "track",
+    "track_id": 752997,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/d/0/f/b/91d0fb0ede4fea1abd37f71390992194.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/d/0/f/b/91d0fb0ede4fea1abd37f71390992194.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Simple Minds",
+    "display_artist": "Simple Minds",
+    "title": "Don't You (Forget About Me)",
+    "display_title": "Don't You (Forget About Me)",
+    "track": "Simple Minds - Don't You (Forget About Me)",
+    "length": 260,
+    "duration": 260,
+    "started": 1717438598,
+    "type": "track",
+    "track_id": 11666,
+    "release": "The Dream of the Blue Turtles",
+    "art_url": "//cdn-images.audioaddict.com/f/0/b/1/7/6/f0b176b80b94f21a72ae4cc31c162b53.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/b/1/7/6/f0b176b80b94f21a72ae4cc31c162b53.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Johnny Hates Jazz",
+    "display_artist": "Johnny Hates Jazz",
+    "title": "Shattered Dreams",
+    "display_title": "Shattered Dreams",
+    "track": "Johnny Hates Jazz - Shattered Dreams",
+    "length": 210,
+    "duration": 210,
+    "started": 1717439071,
+    "type": "track",
+    "track_id": 2560,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/3/f/b/9/0/b3fb90593e1d9bca8b15108cbbde3b09.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/f/b/9/0/b3fb90593e1d9bca8b15108cbbde3b09.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Alan Parsons Project",
+    "display_artist": "The Alan Parsons Project",
+    "title": "Don't Answer Me",
+    "display_title": "Don't Answer Me",
+    "track": "The Alan Parsons Project - Don't Answer Me",
+    "length": 245,
+    "duration": 245,
+    "started": 1717439279,
+    "type": "track",
+    "track_id": 12767,
+    "release": "Ammonia Avenue",
+    "art_url": "//cdn-images.audioaddict.com/f/7/4/9/1/c/f7491cd124e08aa954eb83bf232027be.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/4/9/1/c/f7491cd124e08aa954eb83bf232027be.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Ed Sheeran",
+    "display_artist": "Ed Sheeran",
+    "title": "Thinking Out Loud",
+    "display_title": "Thinking Out Loud",
+    "track": "Ed Sheeran - Thinking Out Loud",
+    "length": 229,
+    "duration": 229,
+    "started": 1717439764,
+    "type": "track",
+    "track_id": 946970,
+    "release": "For Promotional DJ Use Only -",
+    "art_url": "//cdn-images.audioaddict.com/b/5/5/4/7/8/b5547875aaa0cb7ef6935ec43ad29081.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/5/4/7/8/b5547875aaa0cb7ef6935ec43ad29081.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Hall & Oates",
+    "display_artist": "Hall & Oates",
+    "title": "Out Of Touch",
+    "display_title": "Out Of Touch",
+    "track": "Hall & Oates - Out Of Touch",
+    "length": 252,
+    "duration": 252,
+    "started": 1717440210,
+    "type": "track",
+    "track_id": 8837,
+    "release": "The Party Mix - Power Ballads",
+    "art_url": "//cdn-images.audioaddict.com/1/d/5/a/8/7/1d5a8748cb436dfdfd1e5f0dff40785d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/5/a/8/7/1d5a8748cb436dfdfd1e5f0dff40785d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "England Dan & John Ford Coley",
+    "display_artist": "England Dan & John Ford Coley",
+    "title": "I’d Really Love to See You Tonight",
+    "display_title": "I’d Really Love to See You Tonight",
+    "track": "England Dan & John Ford Coley - I’d Really Love to See You Tonight",
+    "length": 159,
+    "duration": 159,
+    "started": 1717440711,
+    "type": "track",
+    "track_id": 3072865,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/5/e/d/e/2/55ede297c0eb9ace64df25a45a1dec56.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/e/d/e/2/55ede297c0eb9ace64df25a45a1dec56.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Dire Straits",
+    "display_artist": "Dire Straits",
+    "title": "Money For Nothing",
+    "display_title": "Money For Nothing",
+    "track": "Dire Straits - Money For Nothing",
+    "length": 512,
+    "duration": 512,
+    "started": 1717440869,
+    "type": "track",
+    "track_id": 1049727,
+    "release": "Brothers in Arms",
+    "art_url": "//cdn-images.audioaddict.com/e/7/1/c/1/9/e71c19ee32de3fa79289c67cde228af2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/7/1/c/1/9/e71c19ee32de3fa79289c67cde228af2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Journey",
+    "display_artist": "Journey",
+    "title": "Don't Stop Believin'",
+    "display_title": "Don't Stop Believin'",
+    "track": "Journey - Don't Stop Believin'",
+    "length": 250,
+    "duration": 250,
+    "started": 1717441816,
+    "type": "track",
+    "track_id": 33099,
+    "release": "The Party Mix - Power Ballads",
+    "art_url": "//cdn-images.audioaddict.com/9/7/2/a/0/3/972a0333104d3dadbcb9b82b5d242ca7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/2/a/0/3/972a0333104d3dadbcb9b82b5d242ca7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Police",
+    "display_artist": "The Police",
+    "title": "Don't Stand So Close To Me",
+    "display_title": "Don't Stand So Close To Me",
+    "track": "The Police - Don't Stand So Close To Me",
+    "length": 242,
+    "duration": 242,
+    "started": 1717442065,
+    "type": "track",
+    "track_id": 75681,
+    "release": "Live!",
+    "art_url": "//cdn-images.audioaddict.com/f/7/b/4/4/8/f7b448db9ba88449e5922d9262d507a3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/b/4/4/8/f7b448db9ba88449e5922d9262d507a3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Toni Braxton",
+    "display_artist": "Toni Braxton",
+    "title": "Breathe Again",
+    "display_title": "Breathe Again",
+    "track": "Toni Braxton - Breathe Again",
+    "length": 270,
+    "duration": 270,
+    "started": 1717442533,
+    "type": "track",
+    "track_id": 2334,
+    "release": "Toni Braxton",
+    "art_url": "//cdn-images.audioaddict.com/e/d/3/4/3/6/ed3436b3b0a91cc2e7fa53123c596465.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/d/3/4/3/6/ed3436b3b0a91cc2e7fa53123c596465.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Toto",
+    "display_artist": "Toto",
+    "title": "Rosanna",
+    "display_title": "Rosanna",
+    "track": "Toto - Rosanna",
+    "length": 245,
+    "duration": 245,
+    "started": 1717443042,
+    "type": "track",
+    "track_id": 682502,
+    "release": "The Party Mix - Power Ballads",
+    "art_url": "//cdn-images.audioaddict.com/c/d/5/d/a/f/cd5daf25cbaa02b79e59120218403812.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/d/5/d/a/f/cd5daf25cbaa02b79e59120218403812.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Laura Branigan",
+    "display_artist": "Laura Branigan",
+    "title": "Self Control",
+    "display_title": "Self Control",
+    "track": "Laura Branigan - Self Control",
+    "length": 247,
+    "duration": 247,
+    "started": 1717443283,
+    "type": "track",
+    "track_id": 705365,
+    "release": "Self Control",
+    "art_url": "//cdn-images.audioaddict.com/5/6/a/7/6/2/56a7620d586b73b0c6277ceed38ff9c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/a/7/6/2/56a7620d586b73b0c6277ceed38ff9c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Heart",
+    "display_artist": "Heart",
+    "title": "These Dreams",
+    "display_title": "These Dreams",
+    "track": "Heart - These Dreams",
+    "length": 265,
+    "duration": 265,
+    "started": 1717443763,
+    "type": "track",
+    "track_id": 753026,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/f/b/c/3/9/1fbc39389286424b2388395c8996082d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/b/c/3/9/1fbc39389286424b2388395c8996082d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Whitesnake",
+    "display_artist": "Whitesnake",
+    "title": "Is This Love",
+    "display_title": "Is This Love",
+    "track": "Whitesnake - Is This Love",
+    "length": 283,
+    "duration": 283,
+    "started": 1717444016,
+    "type": "track",
+    "track_id": 60446,
+    "release": "1987",
+    "art_url": "//cdn-images.audioaddict.com/b/1/f/d/b/e/b1fdbe6fd8655cc7634179277597ef17.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/1/f/d/b/e/b1fdbe6fd8655cc7634179277597ef17.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Huey Lewis & The News",
+    "display_artist": "Huey Lewis & The News",
+    "title": "The Power Of Love",
+    "display_title": "The Power Of Love",
+    "track": "Huey Lewis & The News - The Power Of Love",
+    "length": 234,
+    "duration": 234,
+    "started": 1717444979,
+    "type": "track",
+    "track_id": 12526,
+    "release": "Back to the Future",
+    "art_url": "//cdn-images.audioaddict.com/9/3/9/4/e/6/9394e6ad46a517732f63068f5be0a89a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/9/4/e/6/9394e6ad46a517732f63068f5be0a89a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "James Bay",
+    "display_artist": "James Bay",
+    "title": "Let It Go",
+    "display_title": "Let It Go",
+    "track": "James Bay - Let It Go",
+    "length": 264,
+    "duration": 264,
+    "started": 1717445438,
+    "type": "track",
+    "track_id": 1027725,
+    "release": "Chaos and the Calm",
+    "art_url": "//cdn-images.audioaddict.com/e/b/7/6/1/2/eb7612b038d4bd9863f6902cbece72b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/b/7/6/1/2/eb7612b038d4bd9863f6902cbece72b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Human League",
+    "display_artist": "The Human League",
+    "title": "Don't You Want Me",
+    "display_title": "Don't You Want Me",
+    "track": "The Human League - Don't You Want Me",
+    "length": 238,
+    "duration": 238,
+    "started": 1717445693,
+    "type": "track",
+    "track_id": 5162,
+    "release": "Dare",
+    "art_url": "//cdn-images.audioaddict.com/0/8/c/c/c/1/08ccc13a5962ad2adcd06778463cec9a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/c/c/c/1/08ccc13a5962ad2adcd06778463cec9a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Elton John",
+    "display_artist": "Elton John",
+    "title": "Your Song",
+    "display_title": "Your Song",
+    "track": "Elton John - Your Song",
+    "length": 243,
+    "duration": 243,
+    "started": 1717446162,
+    "type": "track",
+    "track_id": 30241,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/a/6/0/0/2/0a60022a09d0582b53ad79d7c41529a2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/6/0/0/2/0a60022a09d0582b53ad79d7c41529a2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "REO Speedwagon",
+    "display_artist": "REO Speedwagon",
+    "title": "Keep on Loving You",
+    "display_title": "Keep on Loving You",
+    "track": "REO Speedwagon - Keep on Loving You",
+    "length": 202,
+    "duration": 202,
+    "started": 1717446958,
+    "type": "track",
+    "track_id": 586524,
+    "release": "The Party Mix - Power Ballads",
+    "art_url": "//cdn-images.audioaddict.com/2/9/4/f/b/7/294fb7c5537f076fa19ccf6416b24829.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/4/f/b/7/294fb7c5537f076fa19ccf6416b24829.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Roxette",
+    "display_artist": "Roxette",
+    "title": "Spending My Time",
+    "display_title": "Spending My Time",
+    "track": "Roxette - Spending My Time",
+    "length": 281,
+    "duration": 281,
+    "started": 1717447158,
+    "type": "track",
+    "track_id": 753199,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/8/0/f/8/6/680f86c774b1d8341ec2223991865510.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/0/f/8/6/680f86c774b1d8341ec2223991865510.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Pretenders",
+    "display_artist": "The Pretenders",
+    "title": "I'll Stand By You",
+    "display_title": "I'll Stand By You",
+    "track": "The Pretenders - I'll Stand By You",
+    "length": 193,
+    "duration": 193,
+    "started": 1717447631,
+    "type": "track",
+    "track_id": 1018739,
+    "release": "Last of the Independents",
+    "art_url": "//cdn-images.audioaddict.com/d/8/0/d/7/a/d80d7abf412a5417c6bdf6c0e3f82a65.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/8/0/d/7/a/d80d7abf412a5417c6bdf6c0e3f82a65.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Level 42",
+    "display_artist": "Level 42",
+    "title": "Something About You",
+    "display_title": "Something About You",
+    "track": "Level 42 - Something About You",
+    "length": 265,
+    "duration": 265,
+    "started": 1717448057,
+    "type": "track",
+    "track_id": 586011,
+    "release": "The Battle for Everything",
+    "art_url": "//cdn-images.audioaddict.com/9/d/5/1/7/0/9d517051b5dcc147a59ccb2fe81c2b8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/d/5/1/7/0/9d517051b5dcc147a59ccb2fe81c2b8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "Another Day In Paradise",
+    "display_title": "Another Day In Paradise",
+    "track": "Phil Collins - Another Day In Paradise",
+    "length": 333,
+    "duration": 333,
+    "started": 1717448321,
+    "type": "track",
+    "track_id": 1018665,
+    "release": "Hits",
+    "art_url": "//cdn-images.audioaddict.com/9/a/b/9/e/3/9ab9e3a9dd4153c6a879ba380524e5a1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/b/9/e/3/9ab9e3a9dd4153c6a879ba380524e5a1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Outfield",
+    "display_artist": "The Outfield",
+    "title": "Your Love",
+    "display_title": "Your Love",
+    "track": "The Outfield - Your Love",
+    "length": 223,
+    "duration": 223,
+    "started": 1717448908,
+    "type": "track",
+    "track_id": 590219,
+    "release": "Grand Theft Auto: Vice City, Volume 4: Flash FM",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/6/2/7/788627846f5ea3c78e18ebe9614bcc0d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/6/2/7/788627846f5ea3c78e18ebe9614bcc0d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "Do You Remember",
+    "display_title": "Do You Remember",
+    "track": "Phil Collins - Do You Remember",
+    "length": 274,
+    "duration": 274,
+    "started": 1717449129,
+    "type": "track",
+    "track_id": 6501,
+    "release": "The Reagan Years",
+    "art_url": "//cdn-images.audioaddict.com/f/d/d/f/d/6/fddfd6ae375ead943156ead08f500a84.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/d/f/d/6/fddfd6ae375ead943156ead08f500a84.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Adams",
+    "display_artist": "Bryan Adams",
+    "title": "Have You Ever Really Loved A Woman",
+    "display_title": "Have You Ever Really Loved A Woman",
+    "track": "Bryan Adams - Have You Ever Really Loved A Woman",
+    "length": 291,
+    "duration": 291,
+    "started": 1717449401,
+    "type": "track",
+    "track_id": 36722,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/b/1/3/d/5/bb13d50f32134b3c719af6331f5ac918.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/1/3/d/5/bb13d50f32134b3c719af6331f5ac918.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Sophie B. Hawkins",
+    "display_artist": "Sophie B. Hawkins",
+    "title": "As I Lay Me Down",
+    "display_title": "As I Lay Me Down",
+    "track": "Sophie B. Hawkins - As I Lay Me Down",
+    "length": 248,
+    "duration": 248,
+    "started": 1717449893,
+    "type": "track",
+    "track_id": 48060,
+    "release": "Whaler",
+    "art_url": "//cdn-images.audioaddict.com/1/5/e/0/5/7/15e057d8c24eb769e68d5edad2ac661e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/e/0/5/7/15e057d8c24eb769e68d5edad2ac661e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Goo Goo Dolls",
+    "display_artist": "The Goo Goo Dolls",
+    "title": "Iris",
+    "display_title": "Iris",
+    "track": "The Goo Goo Dolls - Iris",
+    "length": 289,
+    "duration": 289,
+    "started": 1717450332,
+    "type": "track",
+    "track_id": 599273,
+    "release": "Dizzy Up the Girl",
+    "art_url": "//cdn-images.audioaddict.com/b/e/e/2/8/f/bee28fb75ab34dbe3e7b35d7f8a164d6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/e/2/8/f/bee28fb75ab34dbe3e7b35d7f8a164d6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Soul Asylum",
+    "display_artist": "Soul Asylum",
+    "title": "Runaway Train",
+    "display_title": "Runaway Train",
+    "track": "Soul Asylum - Runaway Train",
+    "length": 260,
+    "duration": 260,
+    "started": 1717450620,
+    "type": "track",
+    "track_id": 1018700,
+    "release": "Insomniac's Dream",
+    "art_url": "//cdn-images.audioaddict.com/2/7/e/8/5/a/27e85ad57998ea711a75b50330829d3d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/e/8/5/a/27e85ad57998ea711a75b50330829d3d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Eurythmics",
+    "display_artist": "Eurythmics",
+    "title": "Here Comes The Rain Again",
+    "display_title": "Here Comes The Rain Again",
+    "track": "Eurythmics - Here Comes The Rain Again",
+    "length": 291,
+    "duration": 291,
+    "started": 1717451139,
+    "type": "track",
+    "track_id": 24551,
+    "release": "Touch",
+    "art_url": "//cdn-images.audioaddict.com/1/3/6/9/8/9/1369894a51a55c32787bd9c9927f77b6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/6/9/8/9/1369894a51a55c32787bd9c9927f77b6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Seal",
+    "display_artist": "Seal",
+    "title": "Kiss From A Rose",
+    "display_title": "Kiss From A Rose",
+    "track": "Seal - Kiss From A Rose",
+    "length": 291,
+    "duration": 291,
+    "started": 1717451428,
+    "type": "track",
+    "track_id": 753222,
+    "release": "Seal",
+    "art_url": "//cdn-images.audioaddict.com/7/f/c/a/a/a/7fcaaa3257751f10b9d639a347b8948f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/c/a/a/a/7fcaaa3257751f10b9d639a347b8948f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Brenda Russell",
+    "display_artist": "Brenda Russell",
+    "title": "Piano In The Dark",
+    "display_title": "Piano In The Dark",
+    "track": "Brenda Russell - Piano In The Dark",
+    "length": 263,
+    "duration": 263,
+    "started": 1717451715,
+    "type": "track",
+    "track_id": 29380,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/a/e/d/9/3/8aed9341ad4e820ee6f672fc73c3b5e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/e/d/9/3/8aed9341ad4e820ee6f672fc73c3b5e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "OneRepublic",
+    "display_artist": "OneRepublic",
+    "title": "Secrets",
+    "display_title": "Secrets",
+    "track": "OneRepublic - Secrets",
+    "length": 224,
+    "duration": 224,
+    "started": 1717452244,
+    "type": "track",
+    "track_id": 667124,
+    "release": "Waking Up",
+    "art_url": "//cdn-images.audioaddict.com/5/6/b/3/e/5/56b3e5dfd951181f7d96db8f7dc4fa4e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/b/3/e/5/56b3e5dfd951181f7d96db8f7dc4fa4e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Sheena Easton",
+    "display_artist": "Sheena Easton",
+    "title": "For Your Eyes Only",
+    "display_title": "For Your Eyes Only",
+    "track": "Sheena Easton - For Your Eyes Only",
+    "length": 185,
+    "duration": 185,
+    "started": 1717452729,
+    "type": "track",
+    "track_id": 753226,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/1/b/1/5/a/41b15aed77a1f216923e4b812e73bf98.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/b/1/5/a/41b15aed77a1f216923e4b812e73bf98.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "OneRepublic",
+    "display_artist": "OneRepublic",
+    "title": "Counting Stars",
+    "display_title": "Counting Stars",
+    "track": "OneRepublic - Counting Stars",
+    "length": 261,
+    "duration": 261,
+    "started": 1717452911,
+    "type": "track",
+    "track_id": 763409,
+    "release": "RTL2, Le Son Pop Rock 2014",
+    "art_url": "//cdn-images.audioaddict.com/e/d/1/4/d/8/ed14d82cf29629c423a96145285c8512.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/d/1/4/d/8/ed14d82cf29629c423a96145285c8512.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "REO Speedwagon",
+    "display_artist": "REO Speedwagon",
+    "title": "In My Dreams",
+    "display_title": "In My Dreams",
+    "track": "REO Speedwagon - In My Dreams",
+    "length": 273,
+    "duration": 273,
+    "started": 1717453701,
+    "type": "track",
+    "track_id": 39244,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/7/6/8/a/a/2768aa86266d6c16749e5cbb3ee48e4e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/6/8/a/a/2768aa86266d6c16749e5cbb3ee48e4e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Vanessa Carlton",
+    "display_artist": "Vanessa Carlton",
+    "title": "Thousand Miles",
+    "display_title": "Thousand Miles",
+    "track": "Vanessa Carlton - Thousand Miles",
+    "length": 260,
+    "duration": 260,
+    "started": 1717454181,
+    "type": "track",
+    "track_id": 959086,
+    "release": "Be Not Nobody",
+    "art_url": "//cdn-images.audioaddict.com/a/c/9/f/e/0/ac9fe05acdf3526921cf7e740e293b90.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/9/f/e/0/ac9fe05acdf3526921cf7e740e293b90.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Men At Work",
+    "display_artist": "Men At Work",
+    "title": "Down Under",
+    "display_title": "Down Under",
+    "track": "Men At Work - Down Under",
+    "length": 221,
+    "duration": 221,
+    "started": 1717454660,
+    "type": "track",
+    "track_id": 587878,
+    "release": "Cargo",
+    "art_url": "//cdn-images.audioaddict.com/9/d/5/2/f/6/9d52f67894bc90a4ec4cbad58f31d18c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/d/5/2/f/6/9d52f67894bc90a4ec4cbad58f31d18c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Roxette",
+    "display_artist": "Roxette",
+    "title": "Listen To Your Heart",
+    "display_title": "Listen To Your Heart",
+    "track": "Roxette - Listen To Your Heart",
+    "length": 295,
+    "duration": 295,
+    "started": 1717454880,
+    "type": "track",
+    "track_id": 753198,
+    "release": "Kingdom of Desire",
+    "art_url": "//cdn-images.audioaddict.com/a/4/3/c/c/2/a43cc2ce065116c38de75d423a5c7687.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/3/c/c/2/a43cc2ce065116c38de75d423a5c7687.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Police",
+    "display_artist": "The Police",
+    "title": "King Of Pain",
+    "display_title": "King Of Pain",
+    "track": "The Police - King Of Pain",
+    "length": 297,
+    "duration": 297,
+    "started": 1717455444,
+    "type": "track",
+    "track_id": 3042,
+    "release": "Synchronicity",
+    "art_url": "//cdn-images.audioaddict.com/4/8/1/4/d/0/4814d0e564495921d5518e1e5492935e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/8/1/4/d/0/4814d0e564495921d5518e1e5492935e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Yes",
+    "display_artist": "Yes",
+    "title": "Owner Of A Lonely Heart",
+    "display_title": "Owner Of A Lonely Heart",
+    "track": "Yes - Owner Of A Lonely Heart",
+    "length": 270,
+    "duration": 270,
+    "started": 1717456079,
+    "type": "track",
+    "track_id": 1018764,
+    "release": "90125",
+    "art_url": "//cdn-images.audioaddict.com/e/5/b/1/e/e/e5b1eee22e5ea4f88b9ea7710809f871.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/b/1/e/e/e5b1eee22e5ea4f88b9ea7710809f871.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Nelly Furtado",
+    "display_artist": "Nelly Furtado",
+    "title": "All Good Things Come To An End",
+    "display_title": "All Good Things Come To An End",
+    "track": "Nelly Furtado - All Good Things Come To An End",
+    "length": 263,
+    "duration": 263,
+    "started": 1717456602,
+    "type": "track",
+    "track_id": 36022,
+    "release": "Finally Free",
+    "art_url": "//cdn-images.audioaddict.com/6/3/0/3/7/f/63037fc8e68fb2e7966d277e99d9dea6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/3/0/3/7/f/63037fc8e68fb2e7966d277e99d9dea6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Roxette",
+    "display_artist": "Roxette",
+    "title": "It Must Have Been Love",
+    "display_title": "It Must Have Been Love",
+    "track": "Roxette - It Must Have Been Love",
+    "length": 259,
+    "duration": 259,
+    "started": 1717456864,
+    "type": "track",
+    "track_id": 753196,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/2/4/3/9/e/e2439ebb4160370928f14416e750de40.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/4/3/9/e/e2439ebb4160370928f14416e750de40.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Coldplay",
+    "display_artist": "Coldplay",
+    "title": "Fix You",
+    "display_title": "Fix You",
+    "track": "Coldplay - Fix You",
+    "length": 295,
+    "duration": 295,
+    "started": 1717457381,
+    "type": "track",
+    "track_id": 1236871,
+    "release": "X&Y",
+    "art_url": "//cdn-images.audioaddict.com/6/f/3/e/4/f/6f3e4fb2b8f8705d7795e2ccf4ceeb61.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/3/e/4/f/6f3e4fb2b8f8705d7795e2ccf4ceeb61.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Crowded House",
+    "display_artist": "Crowded House",
+    "title": "Don’t Dream It’s Over",
+    "display_title": "Don’t Dream It’s Over",
+    "track": "Crowded House - Don’t Dream It’s Over",
+    "length": 232,
+    "duration": 232,
+    "started": 1717457675,
+    "type": "track",
+    "track_id": 752937,
+    "release": "Crowded House",
+    "art_url": "//cdn-images.audioaddict.com/2/e/4/5/4/7/2e45474bc4458555131aa00e6fd17769.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/4/5/4/7/2e45474bc4458555131aa00e6fd17769.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "R.E.M.",
+    "display_artist": "R.E.M.",
+    "title": "Losing My Religion",
+    "display_title": "Losing My Religion",
+    "track": "R.E.M. - Losing My Religion",
+    "length": 272,
+    "duration": 272,
+    "started": 1717458132,
+    "type": "track",
+    "track_id": 1176256,
+    "release": "Out Of Time",
+    "art_url": "//cdn-images.audioaddict.com/7/a/6/0/8/1/7a60818f5b94b18935d8e221bbe99e88.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/6/0/8/1/7a60818f5b94b18935d8e221bbe99e88.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Mike + The Mechanics",
+    "display_artist": "Mike + The Mechanics",
+    "title": "Silent Running",
+    "display_title": "Silent Running",
+    "track": "Mike + The Mechanics - Silent Running",
+    "length": 254,
+    "duration": 254,
+    "started": 1717458398,
+    "type": "track",
+    "track_id": 13251,
+    "release": "Mike + The Mechanics",
+    "art_url": "//cdn-images.audioaddict.com/8/c/c/5/1/4/8cc514bf510cdcc46a250505f57ed984.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/c/5/1/4/8cc514bf510cdcc46a250505f57ed984.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Belinda Carlisle",
+    "display_artist": "Belinda Carlisle",
+    "title": "Circle In The Sand",
+    "display_title": "Circle In The Sand",
+    "track": "Belinda Carlisle - Circle In The Sand",
+    "length": 268,
+    "duration": 268,
+    "started": 1717458887,
+    "type": "track",
+    "track_id": 752861,
+    "release": "Heaven on Earth",
+    "art_url": "//cdn-images.audioaddict.com/2/6/a/2/f/f/26a2ff98dd8417aa3e58a16eed0fd06c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/a/2/f/f/26a2ff98dd8417aa3e58a16eed0fd06c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Niall Horan",
+    "display_artist": "Niall Horan",
+    "title": "On The Loose",
+    "display_title": "On The Loose",
+    "track": "Niall Horan - On The Loose",
+    "length": 156,
+    "duration": 156,
+    "started": 1717459153,
+    "type": "track",
+    "track_id": 2877208,
+    "release": "Flicker",
+    "art_url": "//cdn-images.audioaddict.com/2/6/4/3/2/8/264328cf7a3921b9736c28358e5b72cf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/4/3/2/8/264328cf7a3921b9736c28358e5b72cf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Cure",
+    "display_artist": "The Cure",
+    "title": "Just Like Heaven",
+    "display_title": "Just Like Heaven",
+    "track": "The Cure - Just Like Heaven",
+    "length": 225,
+    "duration": 225,
+    "started": 1717459529,
+    "type": "track",
+    "track_id": 958262,
+    "release": "Kiss Me Kiss Me Kiss Me",
+    "art_url": "//cdn-images.audioaddict.com/0/4/b/3/9/c/04b39caa043749f7478c86fe83e3be00.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/b/3/9/c/04b39caa043749f7478c86fe83e3be00.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Don Henley",
+    "display_artist": "Don Henley",
+    "title": "The Boys Of Summer",
+    "display_title": "The Boys Of Summer",
+    "track": "Don Henley - The Boys Of Summer",
+    "length": 291,
+    "duration": 291,
+    "started": 1717459989,
+    "type": "track",
+    "track_id": 1025215,
+    "release": "Building the Perfect Beast",
+    "art_url": "//cdn-images.audioaddict.com/4/f/3/6/8/b/4f368bc61784b15e2927528734e03f75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/3/6/8/b/4f368bc61784b15e2927528734e03f75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Tina Turner",
+    "display_artist": "Tina Turner",
+    "title": "The Best",
+    "display_title": "The Best",
+    "track": "Tina Turner - The Best",
+    "length": 249,
+    "duration": 249,
+    "started": 1717460276,
+    "type": "track",
+    "track_id": 2799498,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/3/4/f/4/b/034f4b69596d2cb46031e081209a4528.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/4/f/4/b/034f4b69596d2cb46031e081209a4528.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Wallflowers",
+    "display_artist": "The Wallflowers",
+    "title": "One Headlight",
+    "display_title": "One Headlight",
+    "track": "The Wallflowers - One Headlight",
+    "length": 316,
+    "duration": 316,
+    "started": 1717460524,
+    "type": "track",
+    "track_id": 1049788,
+    "release": "Bringing Down The Horse",
+    "art_url": "//cdn-images.audioaddict.com/2/f/9/7/a/a/2f97aa828a8de7fd6d033965b9f5b07c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/9/7/a/a/2f97aa828a8de7fd6d033965b9f5b07c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Belinda Carlisle",
+    "display_artist": "Belinda Carlisle",
+    "title": "Heaven Is A Place On Earth",
+    "display_title": "Heaven Is A Place On Earth",
+    "track": "Belinda Carlisle - Heaven Is A Place On Earth",
+    "length": 244,
+    "duration": 244,
+    "started": 1717461104,
+    "type": "track",
+    "track_id": 683525,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/f/b/1/c/4/bfb1c43f9b998f6d437b9010dca454ee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/f/b/1/c/4/bfb1c43f9b998f6d437b9010dca454ee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Air Supply",
+    "display_artist": "Air Supply",
+    "title": "All Out of Love",
+    "display_title": "All Out of Love",
+    "track": "Air Supply - All Out of Love",
+    "length": 246,
+    "duration": 246,
+    "started": 1717461348,
+    "type": "track",
+    "track_id": 1018497,
+    "release": "Lost in Love",
+    "art_url": "//cdn-images.audioaddict.com/f/0/d/b/b/c/f0dbbc12bc9ab6d0ee045df18d86ac04.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/d/b/b/c/f0dbbc12bc9ab6d0ee045df18d86ac04.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Mike & The Mechanics",
+    "display_artist": "Mike & The Mechanics",
+    "title": "Over My Shoulder",
+    "display_title": "Over My Shoulder",
+    "track": "Mike & The Mechanics - Over My Shoulder",
+    "length": 217,
+    "duration": 217,
+    "started": 1717461882,
+    "type": "track",
+    "track_id": 81368,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/f/c/6/f/3/2fc6f3c153004c6a2692fdfc7b4d2638.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/c/6/f/3/2fc6f3c153004c6a2692fdfc7b4d2638.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Adams",
+    "display_artist": "Bryan Adams",
+    "title": "Straight From The Heart",
+    "display_title": "Straight From The Heart",
+    "track": "Bryan Adams - Straight From The Heart",
+    "length": 213,
+    "duration": 213,
+    "started": 1717462350,
+    "type": "track",
+    "track_id": 1025170,
+    "release": "Cuts Like A Knife",
+    "art_url": "//cdn-images.audioaddict.com/3/6/8/8/1/c/36881cfc00811fe10da46f8ff2712aa0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/8/8/1/c/36881cfc00811fe10da46f8ff2712aa0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Escape Club",
+    "display_artist": "Escape Club",
+    "title": "I'll Be There",
+    "display_title": "I'll Be There",
+    "track": "Escape Club - I'll Be There",
+    "length": 348,
+    "duration": 348,
+    "started": 1717471560,
+    "type": "track",
+    "track_id": 752978,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/4/0/d/3/1/740d31691a38ba7458b8148ddd868c73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/0/d/3/1/740d31691a38ba7458b8148ddd868c73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Charlie Puth feat. Selena Gomez",
+    "display_artist": "Charlie Puth feat. Selena Gomez",
+    "title": "We Don't Talk Anymore",
+    "display_title": "We Don't Talk Anymore",
+    "track": "Charlie Puth feat. Selena Gomez - We Don't Talk Anymore",
+    "length": 220,
+    "duration": 220,
+    "started": 1717472161,
+    "type": "track",
+    "track_id": 1261820,
+    "release": "Mainstream Radio July 2016",
+    "art_url": "//cdn-images.audioaddict.com/a/4/3/7/5/b/a4375b2cc1d7951829fac2db43d4e55c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/3/7/5/b/a4375b2cc1d7951829fac2db43d4e55c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Huey Lewis & The News",
+    "display_artist": "Huey Lewis & The News",
+    "title": "If This Is It",
+    "display_title": "If This Is It",
+    "track": "Huey Lewis & The News - If This Is It",
+    "length": 232,
+    "duration": 232,
+    "started": 1717472995,
+    "type": "track",
+    "track_id": 27359,
+    "release": "Back to the Future",
+    "art_url": "//cdn-images.audioaddict.com/9/9/9/2/1/d/99921df73b1136047dcbf3ead5e5a5a1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/9/2/1/d/99921df73b1136047dcbf3ead5e5a5a1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Juice Newton",
+    "display_artist": "Juice Newton",
+    "title": "Angel Of The Morning",
+    "display_title": "Angel Of The Morning",
+    "track": "Juice Newton - Angel Of The Morning",
+    "length": 251,
+    "duration": 251,
+    "started": 1717473699,
+    "type": "track",
+    "track_id": 120806,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/d/3/3/5/8/8d33583fcea6e9626d5e312975574ba3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/3/3/5/8/8d33583fcea6e9626d5e312975574ba3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Huey Lewis & The News",
+    "display_artist": "Huey Lewis & The News",
+    "title": "Heart And Soul",
+    "display_title": "Heart And Soul",
+    "track": "Huey Lewis & The News - Heart And Soul",
+    "length": 251,
+    "duration": 251,
+    "started": 1717474219,
+    "type": "track",
+    "track_id": 621,
+    "release": "Sports",
+    "art_url": "//cdn-images.audioaddict.com/9/9/9/2/1/d/99921df73b1136047dcbf3ead5e5a5a1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/9/2/1/d/99921df73b1136047dcbf3ead5e5a5a1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Journey",
+    "display_artist": "Journey",
+    "title": "Open Arms",
+    "display_title": "Open Arms",
+    "track": "Journey - Open Arms",
+    "length": 199,
+    "duration": 199,
+    "started": 1717474469,
+    "type": "track",
+    "track_id": 1018624,
+    "release": "Journey - Greatest Hits",
+    "art_url": "//cdn-images.audioaddict.com/0/8/1/9/2/f/08192fc345bad0ebc37cfeb52de8a90b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/1/9/2/f/08192fc345bad0ebc37cfeb52de8a90b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Genesis",
+    "display_artist": "Genesis",
+    "title": "Invisible Touch",
+    "display_title": "Invisible Touch",
+    "track": "Genesis - Invisible Touch",
+    "length": 208,
+    "duration": 208,
+    "started": 1717477730,
+    "type": "track",
+    "track_id": 2306,
+    "release": "Invisible Touch",
+    "art_url": "//cdn-images.audioaddict.com/3/7/4/5/e/5/3745e5f4f259ae2236e80a1af574c14f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/4/5/e/5/3745e5f4f259ae2236e80a1af574c14f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bruce Springsteen",
+    "display_artist": "Bruce Springsteen",
+    "title": "Streets Of Philadelphia",
+    "display_title": "Streets Of Philadelphia",
+    "track": "Bruce Springsteen - Streets Of Philadelphia",
+    "length": 205,
+    "duration": 205,
+    "started": 1717479692,
+    "type": "track",
+    "track_id": 1049719,
+    "release": "Bruce Springsteen - Greatest Hits",
+    "art_url": "//cdn-images.audioaddict.com/b/4/4/d/4/b/b44d4b6d18a4efdd44eafcd798d66749.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/4/d/4/b/b44d4b6d18a4efdd44eafcd798d66749.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Rod Stewart",
+    "display_artist": "Rod Stewart",
+    "title": "Have You Ever Seen the Rain",
+    "display_title": "Have You Ever Seen the Rain",
+    "track": "Rod Stewart - Have You Ever Seen the Rain",
+    "length": 192,
+    "duration": 192,
+    "started": 1717482303,
+    "type": "track",
+    "track_id": 682367,
+    "release": "Still the Same... Great Rock Classics of Our Time",
+    "art_url": "//cdn-images.audioaddict.com/4/d/1/8/8/9/4d1889d6c205d1b0779be9b669e79f07.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/1/8/8/9/4d1889d6c205d1b0779be9b669e79f07.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Foreigner",
+    "display_artist": "Foreigner",
+    "title": "Say You Will",
+    "display_title": "Say You Will",
+    "track": "Foreigner - Say You Will",
+    "length": 259,
+    "duration": 259,
+    "started": 1717483853,
+    "type": "track",
+    "track_id": 1018593,
+    "release": "Inside Information",
+    "art_url": "//cdn-images.audioaddict.com/6/6/2/4/d/9/6624d97bd558a5c5c59a7cc21ca1dc2b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/2/4/d/9/6624d97bd558a5c5c59a7cc21ca1dc2b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Foreigner",
+    "display_artist": "Foreigner",
+    "title": "I Want To Know What Love Is",
+    "display_title": "I Want To Know What Love Is",
+    "track": "Foreigner - I Want To Know What Love Is",
+    "length": 311,
+    "duration": 311,
+    "started": 1717485526,
+    "type": "track",
+    "track_id": 752995,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/3/e/d/3/8/43ed3878763a74552d37476aff1a8ac2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/e/d/3/8/43ed3878763a74552d37476aff1a8ac2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Firehouse",
+    "display_artist": "Firehouse",
+    "title": "When I Look Into Your Eyes",
+    "display_title": "When I Look Into Your Eyes",
+    "track": "Firehouse - When I Look Into Your Eyes",
+    "length": 241,
+    "duration": 241,
+    "started": 1717487722,
+    "type": "track",
+    "track_id": 35099,
+    "release": "Good Acoustics",
+    "art_url": "//cdn-images.audioaddict.com/1/2/3/4/1/b/12341b75b66ba410b08574770e504967.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/3/4/1/b/12341b75b66ba410b08574770e504967.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Huey Lewis & The News",
+    "display_artist": "Huey Lewis & The News",
+    "title": "Stuck With You",
+    "display_title": "Stuck With You",
+    "track": "Huey Lewis & The News - Stuck With You",
+    "length": 266,
+    "duration": 266,
+    "started": 1717488524,
+    "type": "track",
+    "track_id": 10972,
+    "release": "Don't You (Forget About Me)",
+    "art_url": "//cdn-images.audioaddict.com/9/8/e/4/a/0/98e4a072a57bbfda498bd773cc38f90b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/e/4/a/0/98e4a072a57bbfda498bd773cc38f90b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "A-ha",
+    "display_artist": "A-ha",
+    "title": "Take On Me",
+    "display_title": "Take On Me",
+    "track": "A-ha - Take On Me",
+    "length": 223,
+    "duration": 223,
+    "started": 1717489354,
+    "type": "track",
+    "track_id": 687616,
+    "release": "Choralseptic",
+    "art_url": "//cdn-images.audioaddict.com/0/3/b/4/7/f/03b47f835bef6d25cc921b8e68a37d9a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/b/4/7/f/03b47f835bef6d25cc921b8e68a37d9a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Adams",
+    "display_artist": "Bryan Adams",
+    "title": "Summer of '69",
+    "display_title": "Summer of '69",
+    "track": "Bryan Adams - Summer of '69",
+    "length": 214,
+    "duration": 214,
+    "started": 1717492759,
+    "type": "track",
+    "track_id": 10517,
+    "release": "Unplugged",
+    "art_url": "//cdn-images.audioaddict.com/d/f/d/d/0/8/dfdd082c8af6c9e260f0596703255090.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/d/d/0/8/dfdd082c8af6c9e260f0596703255090.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Pretenders",
+    "display_artist": "Pretenders",
+    "title": "I’ll Stand by You",
+    "display_title": "I’ll Stand by You",
+    "track": "Pretenders - I’ll Stand by You",
+    "length": 251,
+    "duration": 251,
+    "started": 1717493231,
+    "type": "track",
+    "track_id": 753171,
+    "release": "Last of the Independents",
+    "art_url": "//cdn-images.audioaddict.com/c/4/0/6/8/3/c40683d3a65d49d51c3f2d923812690b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/0/6/8/3/c40683d3a65d49d51c3f2d923812690b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Dido",
+    "display_artist": "Dido",
+    "title": "Life For Rent",
+    "display_title": "Life For Rent",
+    "track": "Dido - Life For Rent",
+    "length": 221,
+    "duration": 221,
+    "started": 1717494039,
+    "type": "track",
+    "track_id": 2978317,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/3/d/4/e/b/f3d4ebf8ff0b59b6239035eb2fb31a7d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/d/4/e/b/f3d4ebf8ff0b59b6239035eb2fb31a7d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Post Malone",
+    "display_artist": "Post Malone",
+    "title": "Circles",
+    "display_title": "Circles",
+    "track": "Post Malone - Circles",
+    "length": 215,
+    "duration": 215,
+    "started": 1717496917,
+    "type": "track",
+    "track_id": 2954361,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/f/2/4/1/8/4f24186a1a3cb3bf91b981819bc91912.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/2/4/1/8/4f24186a1a3cb3bf91b981819bc91912.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Kansas",
+    "display_artist": "Kansas",
+    "title": "Dust In The Wind",
+    "display_title": "Dust In The Wind",
+    "track": "Kansas - Dust In The Wind",
+    "length": 207,
+    "duration": 207,
+    "started": 1717498790,
+    "type": "track",
+    "track_id": 1056679,
+    "release": "Point Of Know Return",
+    "art_url": "//cdn-images.audioaddict.com/4/6/9/3/4/c/46934c035d8279bc1739fa1d7aeac987.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/6/9/3/4/c/46934c035d8279bc1739fa1d7aeac987.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "When In Rome",
+    "display_artist": "When In Rome",
+    "title": "The Promise",
+    "display_title": "The Promise",
+    "track": "When In Rome - The Promise",
+    "length": 227,
+    "duration": 227,
+    "started": 1717499982,
+    "type": "track",
+    "track_id": 958380,
+    "release": "Mosaic",
+    "art_url": "//cdn-images.audioaddict.com/5/d/0/0/1/9/5d0019c6dbecc3f190101a5cc794a277.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/d/0/0/1/9/5d0019c6dbecc3f190101a5cc794a277.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Vanessa Williams",
+    "display_artist": "Vanessa Williams",
+    "title": "Save The Best For Last",
+    "display_title": "Save The Best For Last",
+    "track": "Vanessa Williams - Save The Best For Last",
+    "length": 220,
+    "duration": 220,
+    "started": 1717502130,
+    "type": "track",
+    "track_id": 753290,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/7/e/5/e/4/47e5e4f314378b39d43a92292ef3cc04.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/e/5/e/4/47e5e4f314378b39d43a92292ef3cc04.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Richard Marx",
+    "display_artist": "Richard Marx",
+    "title": "Right Here Waiting",
+    "display_title": "Right Here Waiting",
+    "track": "Richard Marx - Right Here Waiting",
+    "length": 262,
+    "duration": 262,
+    "started": 1717503146,
+    "type": "track",
+    "track_id": 675778,
+    "release": "Greatest Hits",
+    "art_url": "//cdn-images.audioaddict.com/c/7/5/1/5/4/c75154584cc812260adec263caa986dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/7/5/1/5/4/c75154584cc812260adec263caa986dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Thompson Twins",
+    "display_artist": "Thompson Twins",
+    "title": "Hold Me Now",
+    "display_title": "Hold Me Now",
+    "track": "Thompson Twins - Hold Me Now",
+    "length": 288,
+    "duration": 288,
+    "started": 1717505054,
+    "type": "track",
+    "track_id": 689252,
+    "release": "Graceland",
+    "art_url": "//cdn-images.audioaddict.com/a/a/5/a/b/5/aa5ab5b1629d23d2ad72ce5e91d60c5c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/5/a/b/5/aa5ab5b1629d23d2ad72ce5e91d60c5c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Lou Gramm",
+    "display_artist": "Lou Gramm",
+    "title": "Just Between You And Me",
+    "display_title": "Just Between You And Me",
+    "track": "Lou Gramm - Just Between You And Me",
+    "length": 298,
+    "duration": 298,
+    "started": 1717505339,
+    "type": "track",
+    "track_id": 1025378,
+    "release": "Long Hard Look",
+    "art_url": "//cdn-images.audioaddict.com/5/9/8/9/1/5/5989150d83c314bd39eb4b1e3a0558f5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/8/9/1/5/5989150d83c314bd39eb4b1e3a0558f5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Asia",
+    "display_artist": "Asia",
+    "title": "Heat of the Moment",
+    "display_title": "Heat of the Moment",
+    "track": "Asia - Heat of the Moment",
+    "length": 233,
+    "duration": 233,
+    "started": 1717506113,
+    "type": "track",
+    "track_id": 1034745,
+    "release": "Asia",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/5/0/b/e4150b50f2360f5746392beae09c47b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/5/0/b/e4150b50f2360f5746392beae09c47b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Tears For Fears",
+    "display_artist": "Tears For Fears",
+    "title": "Mad World",
+    "display_title": "Mad World",
+    "track": "Tears For Fears - Mad World",
+    "length": 212,
+    "duration": 212,
+    "started": 1717507705,
+    "type": "track",
+    "track_id": 958229,
+    "release": "The Hurting",
+    "art_url": "//cdn-images.audioaddict.com/0/0/9/e/b/a/009eba28d5deec723a71b02f47caec19.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/9/e/b/a/009eba28d5deec723a71b02f47caec19.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Billy Ocean",
+    "display_artist": "Billy Ocean",
+    "title": "Get Outta My Dreams, Get Into My Car",
+    "display_title": "Get Outta My Dreams, Get Into My Car",
+    "track": "Billy Ocean - Get Outta My Dreams, Get Into My Car",
+    "length": 286,
+    "duration": 286,
+    "started": 1717508622,
+    "type": "track",
+    "track_id": 38931,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/b/4/a/9/7db4a97696d398416f9a9d535c3bb470.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/b/4/a/9/7db4a97696d398416f9a9d535c3bb470.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Creedence Clearwater Revival",
+    "display_artist": "Creedence Clearwater Revival",
+    "title": "Have You Ever Seen The Rain",
+    "display_title": "Have You Ever Seen The Rain",
+    "track": "Creedence Clearwater Revival - Have You Ever Seen The Rain",
+    "length": 159,
+    "duration": 159,
+    "started": 1717509468,
+    "type": "track",
+    "track_id": 1056469,
+    "release": "Pendulum",
+    "art_url": "//cdn-images.audioaddict.com/3/c/5/d/3/d/3c5d3d8584680a69e1dd8fbb67d3aa15.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/5/d/3/d/3c5d3d8584680a69e1dd8fbb67d3aa15.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Sixpence None The Richer",
+    "display_artist": "Sixpence None The Richer",
+    "title": "Don't Dream It's Over",
+    "display_title": "Don't Dream It's Over",
+    "track": "Sixpence None The Richer - Don't Dream It's Over",
+    "length": 241,
+    "duration": 241,
+    "started": 1717510109,
+    "type": "track",
+    "track_id": 597823,
+    "release": "Divine Discontent",
+    "art_url": "//cdn-images.audioaddict.com/1/8/3/4/4/7/1834474a600abd5c3ce8a966f86e0368.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/3/4/4/7/1834474a600abd5c3ce8a966f86e0368.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Lighthouse Family",
+    "display_artist": "Lighthouse Family",
+    "title": "I Wish",
+    "display_title": "I Wish",
+    "track": "Lighthouse Family - I Wish",
+    "length": 317,
+    "duration": 317,
+    "started": 1717510619,
+    "type": "track",
+    "track_id": 753087,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/a/0/d/e/98a0deb9109b6b33efbe56c0bd3d9e16.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/a/0/d/e/98a0deb9109b6b33efbe56c0bd3d9e16.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Paul Young",
+    "display_artist": "Paul Young",
+    "title": "Every Time You Go Away",
+    "display_title": "Every Time You Go Away",
+    "track": "Paul Young - Every Time You Go Away",
+    "length": 256,
+    "duration": 256,
+    "started": 1717511661,
+    "type": "track",
+    "track_id": 16964,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/2/0/6/f/7/a206f7cf50e29b899ee4b31686aa5f78.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/0/6/f/7/a206f7cf50e29b899ee4b31686aa5f78.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Donna Summer",
+    "display_artist": "Donna Summer",
+    "title": "She Works Hard For The Money",
+    "display_title": "She Works Hard For The Money",
+    "track": "Donna Summer - She Works Hard For The Money",
+    "length": 275,
+    "duration": 275,
+    "started": 1717512965,
+    "type": "track",
+    "track_id": 15049,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/c/4/5/9/3/ec4593a866db2e9852fa6658e4f61104.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/4/5/9/3/ec4593a866db2e9852fa6658e4f61104.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Pretenders",
+    "display_artist": "The Pretenders",
+    "title": "Ill Stand By You",
+    "display_title": "Ill Stand By You",
+    "track": "The Pretenders - Ill Stand By You",
+    "length": 236,
+    "duration": 236,
+    "started": 1717513983,
+    "type": "track",
+    "track_id": 45407,
+    "release": "Let It Be",
+    "art_url": "//cdn-images.audioaddict.com/e/a/c/e/d/f/eacedfdeaca5deb95344508671d6da81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/c/e/d/f/eacedfdeaca5deb95344508671d6da81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Savage Garden",
+    "display_artist": "Savage Garden",
+    "title": "To The Moon And Back",
+    "display_title": "To The Moon And Back",
+    "track": "Savage Garden - To The Moon And Back",
+    "length": 278,
+    "duration": 278,
+    "started": 1717514766,
+    "type": "track",
+    "track_id": 753216,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/f/3/e/3/7/4f3e377d9c5914738e9d8689d42f3bc7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/3/e/3/7/4f3e377d9c5914738e9d8689d42f3bc7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Backstreet Boys",
+    "display_artist": "Backstreet Boys",
+    "title": "I Want It That Way",
+    "display_title": "I Want It That Way",
+    "track": "Backstreet Boys - I Want It That Way",
+    "length": 229,
+    "duration": 229,
+    "started": 1717515557,
+    "type": "track",
+    "track_id": 752848,
+    "release": "Millennium",
+    "art_url": "//cdn-images.audioaddict.com/0/c/c/e/9/5/0cce955b50b71da417b4f6a5f76ea50c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/c/e/9/5/0cce955b50b71da417b4f6a5f76ea50c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Sade",
+    "display_artist": "Sade",
+    "title": "Smooth Operator",
+    "display_title": "Smooth Operator",
+    "track": "Sade - Smooth Operator",
+    "length": 269,
+    "duration": 269,
+    "started": 1717518417,
+    "type": "track",
+    "track_id": 732790,
+    "release": "The Best of Sade",
+    "art_url": "//cdn-images.audioaddict.com/3/8/a/8/d/0/38a8d0a42779346f977138c0f44d7fa7.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/a/8/d/0/38a8d0a42779346f977138c0f44d7fa7.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Aerosmith",
+    "display_artist": "Aerosmith",
+    "title": "I Don't Want To Miss A Thing",
+    "display_title": "I Don't Want To Miss A Thing",
+    "track": "Aerosmith - I Don't Want To Miss A Thing",
+    "length": 311,
+    "duration": 311,
+    "started": 1717519976,
+    "type": "track",
+    "track_id": 1175475,
+    "release": "Nine Lives",
+    "art_url": "//cdn-images.audioaddict.com/3/c/e/2/b/5/3ce2b52d1d32564e88a655e10f32e6ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/e/2/b/5/3ce2b52d1d32564e88a655e10f32e6ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Don Henley",
+    "display_artist": "Don Henley",
+    "title": "The End Of The Innocence",
+    "display_title": "The End Of The Innocence",
+    "track": "Don Henley - The End Of The Innocence",
+    "length": 317,
+    "duration": 317,
+    "started": 1717520505,
+    "type": "track",
+    "track_id": 1025216,
+    "release": "The End of the Innocence",
+    "art_url": "//cdn-images.audioaddict.com/e/3/b/b/c/b/e3bbcbbf167163e27f5d85f4b7c63109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/b/b/c/b/e3bbcbbf167163e27f5d85f4b7c63109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Cher",
+    "display_artist": "Cher",
+    "title": "If I Could Turn Back Time",
+    "display_title": "If I Could Turn Back Time",
+    "track": "Cher - If I Could Turn Back Time",
+    "length": 233,
+    "duration": 233,
+    "started": 1717520819,
+    "type": "track",
+    "track_id": 19477,
+    "release": "Heart of Stone",
+    "art_url": "//cdn-images.audioaddict.com/d/a/7/c/5/0/da7c502376f2a97eea805708310af0de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/7/c/5/0/da7c502376f2a97eea805708310af0de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Fleetwood Mac",
+    "display_artist": "Fleetwood Mac",
+    "title": "Little Lies",
+    "display_title": "Little Lies",
+    "track": "Fleetwood Mac - Little Lies",
+    "length": 221,
+    "duration": 221,
+    "started": 1717521307,
+    "type": "track",
+    "track_id": 752992,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/0/e/3/1/f/00e31f3fddf83a0aa60bc8d891059352.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/e/3/1/f/00e31f3fddf83a0aa60bc8d891059352.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Michael Jackson",
+    "display_artist": "Michael Jackson",
+    "title": "Say, Say, Say",
+    "display_title": "Say, Say, Say",
+    "track": "Michael Jackson - Say, Say, Say",
+    "length": 236,
+    "duration": 236,
+    "started": 1717522495,
+    "type": "track",
+    "track_id": 15392,
+    "release": "Bad",
+    "art_url": "//cdn-images.audioaddict.com/9/8/e/a/f/8/98eaf8e48ae3bbec1855955cc57395c4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/e/a/f/8/98eaf8e48ae3bbec1855955cc57395c4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Air Supply",
+    "display_artist": "Air Supply",
+    "title": "Lost in Love",
+    "display_title": "Lost in Love",
+    "track": "Air Supply - Lost in Love",
+    "length": 243,
+    "duration": 243,
+    "started": 1717522728,
+    "type": "track",
+    "track_id": 752823,
+    "release": "Lost in Love",
+    "art_url": "//cdn-images.audioaddict.com/f/0/d/b/b/c/f0dbbc12bc9ab6d0ee045df18d86ac04.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/d/b/b/c/f0dbbc12bc9ab6d0ee045df18d86ac04.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Human League",
+    "display_artist": "The Human League",
+    "title": "Human",
+    "display_title": "Human",
+    "track": "The Human League - Human",
+    "length": 228,
+    "duration": 228,
+    "started": 1717523885,
+    "type": "track",
+    "track_id": 608197,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/2/e/2/a/2/e2e2a2b57d1f4a925a5af9ccdc2f0e2c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/e/2/a/2/e2e2a2b57d1f4a925a5af9ccdc2f0e2c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Coldplay",
+    "display_artist": "Coldplay",
+    "title": "Viva la Vida",
+    "display_title": "Viva la Vida",
+    "track": "Coldplay - Viva la Vida",
+    "length": 247,
+    "duration": 247,
+    "started": 1717524607,
+    "type": "track",
+    "track_id": 1018555,
+    "release": "Favorites at Play",
+    "art_url": "//cdn-images.audioaddict.com/f/d/4/5/8/0/fd458048c1cecc8684184a842a26d945.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/4/5/8/0/fd458048c1cecc8684184a842a26d945.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Gloria Estefan",
+    "display_artist": "Gloria Estefan",
+    "title": "Don't Wanna Lose You",
+    "display_title": "Don't Wanna Lose You",
+    "track": "Gloria Estefan - Don't Wanna Lose You",
+    "length": 242,
+    "duration": 242,
+    "started": 1717525373,
+    "type": "track",
+    "track_id": 753014,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/a/c/f/4/9/0acf49d49691fd574e024884292a1ede.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/c/f/4/9/0acf49d49691fd574e024884292a1ede.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Peter Gabriel",
+    "display_artist": "Peter Gabriel",
+    "title": "In Your Eyes",
+    "display_title": "In Your Eyes",
+    "track": "Peter Gabriel - In Your Eyes",
+    "length": 331,
+    "duration": 331,
+    "started": 1717526716,
+    "type": "track",
+    "track_id": 958139,
+    "release": "So",
+    "art_url": "//cdn-images.audioaddict.com/9/a/7/7/e/4/9a77e4747714c02dc10a0f4305482ed4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/7/7/e/4/9a77e4747714c02dc10a0f4305482ed4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Atlantic Starr",
+    "display_artist": "Atlantic Starr",
+    "title": "Always",
+    "display_title": "Always",
+    "track": "Atlantic Starr - Always",
+    "length": 236,
+    "duration": 236,
+    "started": 1717527321,
+    "type": "track",
+    "track_id": 478,
+    "release": "blink‐182",
+    "art_url": "//cdn-images.audioaddict.com/a/9/4/1/9/c/a9419c36da259c792d7a23d07e96f6fe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/4/1/9/c/a9419c36da259c792d7a23d07e96f6fe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Adams",
+    "display_artist": "Bryan Adams",
+    "title": "Run To You",
+    "display_title": "Run To You",
+    "track": "Bryan Adams - Run To You",
+    "length": 233,
+    "duration": 233,
+    "started": 1717528331,
+    "type": "track",
+    "track_id": 13181,
+    "release": "Reckless",
+    "art_url": "//cdn-images.audioaddict.com/6/f/6/4/d/d/6f64dd6168e8fde07ae4a449cc70b243.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/6/4/d/d/6f64dd6168e8fde07ae4a449cc70b243.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Orchestral Manoeuvres In The Dark",
+    "display_artist": "Orchestral Manoeuvres In The Dark",
+    "title": "If You Leave",
+    "display_title": "If You Leave",
+    "track": "Orchestral Manoeuvres In The Dark - If You Leave",
+    "length": 266,
+    "duration": 266,
+    "started": 1717531086,
+    "type": "track",
+    "track_id": 958121,
+    "release": "The OMD Singles",
+    "art_url": "//cdn-images.audioaddict.com/8/7/0/4/f/1/8704f1d4f7ee64b906ceea6efd1ccb8a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/0/4/f/1/8704f1d4f7ee64b906ceea6efd1ccb8a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Starship",
+    "display_artist": "Starship",
+    "title": "Nothing’s Gonna Stop Us Now",
+    "display_title": "Nothing’s Gonna Stop Us Now",
+    "track": "Starship - Nothing’s Gonna Stop Us Now",
+    "length": 268,
+    "duration": 268,
+    "started": 1717531587,
+    "type": "track",
+    "track_id": 683570,
+    "release": "No Protection",
+    "art_url": "//cdn-images.audioaddict.com/5/5/8/b/7/7/558b77c51b622074499ee47d8443f854.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/8/b/7/7/558b77c51b622074499ee47d8443f854.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Savage Garden",
+    "display_artist": "Savage Garden",
+    "title": "Truly Madly Deeply",
+    "display_title": "Truly Madly Deeply",
+    "track": "Savage Garden - Truly Madly Deeply",
+    "length": 281,
+    "duration": 281,
+    "started": 1717535328,
+    "type": "track",
+    "track_id": 753217,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/5/d/a/1/4/45da1461bc2bb1c23fa3457286253066.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/d/a/1/4/45da1461bc2bb1c23fa3457286253066.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Ed Sheeran",
+    "display_artist": "Ed Sheeran",
+    "title": "Perfect",
+    "display_title": "Perfect",
+    "track": "Ed Sheeran - Perfect",
+    "length": 261,
+    "duration": 261,
+    "started": 1717535602,
+    "type": "track",
+    "track_id": 2801676,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/8/a/6/d/d/c8a6ddc8ed2286a4db58755d360d413a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/a/6/d/d/c8a6ddc8ed2286a4db58755d360d413a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Carly Simon",
+    "display_artist": "Carly Simon",
+    "title": "You Belong to Me",
+    "display_title": "You Belong to Me",
+    "track": "Carly Simon - You Belong to Me",
+    "length": 232,
+    "duration": 232,
+    "started": 1717538629,
+    "type": "track",
+    "track_id": 3072861,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/5/7/a/0/1/d57a01e7e6bce3339061d028254da01e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/7/a/0/1/d57a01e7e6bce3339061d028254da01e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Phil Collins",
+    "display_artist": "Phil Collins",
+    "title": "Against All Odds",
+    "display_title": "Against All Odds",
+    "track": "Phil Collins - Against All Odds",
+    "length": 211,
+    "duration": 211,
+    "started": 1717540225,
+    "type": "track",
+    "track_id": 753163,
+    "release": "Serious Hits... Live!",
+    "art_url": "//cdn-images.audioaddict.com/f/8/7/8/f/5/f878f55f7bb93644f9a8570e75a8ba31.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/7/8/f/5/f878f55f7bb93644f9a8570e75a8ba31.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Boy Meets Girl",
+    "display_artist": "Boy Meets Girl",
+    "title": "Waiting for a Star to Fall",
+    "display_title": "Waiting for a Star to Fall",
+    "track": "Boy Meets Girl - Waiting for a Star to Fall",
+    "length": 274,
+    "duration": 274,
+    "started": 1717540921,
+    "type": "track",
+    "track_id": 379649,
+    "release": "Waiting for a Star to Fall",
+    "art_url": "//cdn-images.audioaddict.com/e/a/f/a/9/b/eafa9ba526262ff45d57ab8432403aee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/f/a/9/b/eafa9ba526262ff45d57ab8432403aee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Queen",
+    "display_artist": "Queen",
+    "title": "Crazy Little Thing Called Love",
+    "display_title": "Crazy Little Thing Called Love",
+    "track": "Queen - Crazy Little Thing Called Love",
+    "length": 162,
+    "duration": 162,
+    "started": 1717542673,
+    "type": "track",
+    "track_id": 624107,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/8/c/6/3/0/48c630f3b3e9bd366497901f98e1a2cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/8/c/6/3/0/48c630f3b3e9bd366497901f98e1a2cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Spandau Ballet",
+    "display_artist": "Spandau Ballet",
+    "title": "True",
+    "display_title": "True",
+    "track": "Spandau Ballet - True",
+    "length": 343,
+    "duration": 343,
+    "started": 1717544028,
+    "type": "track",
+    "track_id": 589079,
+    "release": "The Wedding Singer, Volume 2",
+    "art_url": "//cdn-images.audioaddict.com/d/1/6/6/f/a/d166faf3b8c6c25f80e0bebbb56ff4cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/6/6/f/a/d166faf3b8c6c25f80e0bebbb56ff4cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bad English",
+    "display_artist": "Bad English",
+    "title": "When I See You Smile",
+    "display_title": "When I See You Smile",
+    "track": "Bad English - When I See You Smile",
+    "length": 261,
+    "duration": 261,
+    "started": 1717545373,
+    "type": "track",
+    "track_id": 752850,
+    "release": "Bad English",
+    "art_url": "//cdn-images.audioaddict.com/4/5/8/c/2/c/458c2ce961f13482f9d2ffe56fe7ae5d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/8/c/2/c/458c2ce961f13482f9d2ffe56fe7ae5d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Duran Duran",
+    "display_artist": "Duran Duran",
+    "title": "Ordinary World",
+    "display_title": "Ordinary World",
+    "track": "Duran Duran - Ordinary World",
+    "length": 309,
+    "duration": 309,
+    "started": 1717545629,
+    "type": "track",
+    "track_id": 752963,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/6/3/1/0/f/76310fdef8128fce8dc484cf746a400b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/3/1/0/f/76310fdef8128fce8dc484cf746a400b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bruce Springsteen",
+    "display_artist": "Bruce Springsteen",
+    "title": "Secret Garden",
+    "display_title": "Secret Garden",
+    "track": "Bruce Springsteen - Secret Garden",
+    "length": 265,
+    "duration": 265,
+    "started": 1717546413,
+    "type": "track",
+    "track_id": 29439,
+    "release": "Darkness on the Edge of Town",
+    "art_url": "//cdn-images.audioaddict.com/6/c/a/9/0/3/6ca903a4fb7b78db035c164efb6854f5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/a/9/0/3/6ca903a4fb7b78db035c164efb6854f5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Savage Garden",
+    "display_artist": "Savage Garden",
+    "title": "I Knew I Loved You",
+    "display_title": "I Knew I Loved You",
+    "track": "Savage Garden - I Knew I Loved You",
+    "length": 249,
+    "duration": 249,
+    "started": 1717547912,
+    "type": "track",
+    "track_id": 958969,
+    "release": "Affirmation",
+    "art_url": "//cdn-images.audioaddict.com/a/2/3/0/a/2/a230a2771b0e28d4eaf31081dc0e510b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/3/0/a/2/a230a2771b0e28d4eaf31081dc0e510b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Sting",
+    "display_artist": "Sting",
+    "title": "Fields of Gold",
+    "display_title": "Fields of Gold",
+    "track": "Sting - Fields of Gold",
+    "length": 222,
+    "duration": 222,
+    "started": 1717549925,
+    "type": "track",
+    "track_id": 605017,
+    "release": "Unplugged",
+    "art_url": "//cdn-images.audioaddict.com/2/7/7/f/d/d/277fdd59776e386844f9b13a11e87dc6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/7/f/d/d/277fdd59776e386844f9b13a11e87dc6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "REO Speedwagon",
+    "display_artist": "REO Speedwagon",
+    "title": "Can't Fight This Feeling",
+    "display_title": "Can't Fight This Feeling",
+    "track": "REO Speedwagon - Can't Fight This Feeling",
+    "length": 299,
+    "duration": 299,
+    "started": 1717551482,
+    "type": "track",
+    "track_id": 753180,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/1/6/8/3/7/016837df784da476e2ff7ad23f77b06c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/6/8/3/7/016837df784da476e2ff7ad23f77b06c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Ferry",
+    "display_artist": "Bryan Ferry",
+    "title": "Slave To Love",
+    "display_title": "Slave To Love",
+    "track": "Bryan Ferry - Slave To Love",
+    "length": 261,
+    "duration": 261,
+    "started": 1717554981,
+    "type": "track",
+    "track_id": 752906,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/c/7/a/f/f/cc7aff1575dfa135a6f27d095cf81123.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/7/a/f/f/cc7aff1575dfa135a6f27d095cf81123.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Kenny Loggins",
+    "display_artist": "Kenny Loggins",
+    "title": "Danger Zone",
+    "display_title": "Danger Zone",
+    "track": "Kenny Loggins - Danger Zone",
+    "length": 217,
+    "duration": 217,
+    "started": 1717561961,
+    "type": "track",
+    "track_id": 23480,
+    "release": "Love. Angel. Music. Baby.",
+    "art_url": "//cdn-images.audioaddict.com/0/b/a/2/5/2/0ba252f16e303b232772bfbec0c93ba2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/a/2/5/2/0ba252f16e303b232772bfbec0c93ba2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Duran Duran",
+    "display_artist": "Duran Duran",
+    "title": "Hungry Like The Wolf",
+    "display_title": "Hungry Like The Wolf",
+    "track": "Duran Duran - Hungry Like The Wolf",
+    "length": 207,
+    "duration": 207,
+    "started": 1717562329,
+    "type": "track",
+    "track_id": 585693,
+    "release": "RIO",
+    "art_url": "//cdn-images.audioaddict.com/8/7/3/9/2/f/87392f95a7b1ea1690228fd117c6dc51.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/3/9/2/f/87392f95a7b1ea1690228fd117c6dc51.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Heart",
+    "display_artist": "Heart",
+    "title": "All I Wanna Do Is Make Love To You",
+    "display_title": "All I Wanna Do Is Make Love To You",
+    "track": "Heart - All I Wanna Do Is Make Love To You",
+    "length": 241,
+    "duration": 241,
+    "started": 1717562808,
+    "type": "track",
+    "track_id": 11736,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/f/f/b/e/c/3ffbeceb61712b3a9a770842f192ff52.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/f/b/e/c/3ffbeceb61712b3a9a770842f192ff52.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Cure",
+    "display_artist": "The Cure",
+    "title": "Friday I'm In Love",
+    "display_title": "Friday I'm In Love",
+    "track": "The Cure - Friday I'm In Love",
+    "length": 212,
+    "duration": 212,
+    "started": 1717563968,
+    "type": "track",
+    "track_id": 606912,
+    "release": "Wish",
+    "art_url": "//cdn-images.audioaddict.com/6/4/3/e/1/6/643e160bfd9ad776657edf48ec704a6e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/3/e/1/6/643e160bfd9ad776657edf48ec704a6e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Christopher Cross",
+    "display_artist": "Christopher Cross",
+    "title": "Ride Like The Wind",
+    "display_title": "Ride Like The Wind",
+    "track": "Christopher Cross - Ride Like The Wind",
+    "length": 238,
+    "duration": 238,
+    "started": 1717565505,
+    "type": "track",
+    "track_id": 1018548,
+    "release": "Christopher Cross",
+    "art_url": "//cdn-images.audioaddict.com/8/f/9/3/5/c/8f935c4d24902fbfc13e96ce977d3dd5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/9/3/5/c/8f935c4d24902fbfc13e96ce977d3dd5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "U2",
+    "display_artist": "U2",
+    "title": "I Still Haven't Found What I'm Looking For",
+    "display_title": "I Still Haven't Found What I'm Looking For",
+    "track": "U2 - I Still Haven't Found What I'm Looking For",
+    "length": 277,
+    "duration": 277,
+    "started": 1717569438,
+    "type": "track",
+    "track_id": 17477,
+    "release": "All That You Can’t Leave Behind",
+    "art_url": "//cdn-images.audioaddict.com/c/c/e/d/b/a/ccedba0e09d57cfe3be86df970c85d6b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/e/d/b/a/ccedba0e09d57cfe3be86df970c85d6b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Steve Perry",
+    "display_artist": "Steve Perry",
+    "title": "Oh Sherrie",
+    "display_title": "Oh Sherrie",
+    "track": "Steve Perry - Oh Sherrie",
+    "length": 229,
+    "duration": 229,
+    "started": 1717573969,
+    "type": "track",
+    "track_id": 23112,
+    "release": "Lost in Love",
+    "art_url": "//cdn-images.audioaddict.com/1/f/2/2/2/f/1f222fa4ed029aaf7aa9e728a67fbef3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/2/2/2/f/1f222fa4ed029aaf7aa9e728a67fbef3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Duran Duran",
+    "display_artist": "Duran Duran",
+    "title": "Come Undone",
+    "display_title": "Come Undone",
+    "track": "Duran Duran - Come Undone",
+    "length": 265,
+    "duration": 265,
+    "started": 1717576383,
+    "type": "track",
+    "track_id": 1027724,
+    "release": "Duran Duran",
+    "art_url": "//cdn-images.audioaddict.com/e/e/e/8/5/d/eee85d752bc4f1df6ccab21789500516.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/e/8/5/d/eee85d752bc4f1df6ccab21789500516.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Leo Sayer",
+    "display_artist": "Leo Sayer",
+    "title": "More Than I Can Say",
+    "display_title": "More Than I Can Say",
+    "track": "Leo Sayer - More Than I Can Say",
+    "length": 221,
+    "duration": 221,
+    "started": 1717577594,
+    "type": "track",
+    "track_id": 753083,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/a/c/d/5/a4acd587bbcfd521809193176a8ef635.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/a/c/d/5/a4acd587bbcfd521809193176a8ef635.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Irene Cara",
+    "display_artist": "Irene Cara",
+    "title": "Flashdance... What a Feeling",
+    "display_title": "Flashdance... What a Feeling",
+    "track": "Irene Cara - Flashdance... What a Feeling",
+    "length": 236,
+    "duration": 236,
+    "started": 1717584754,
+    "type": "track",
+    "track_id": 5351,
+    "release": "Crush",
+    "art_url": "//cdn-images.audioaddict.com/9/9/f/5/6/a/99f56ab87fb5214b413468dec5773452.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/f/5/6/a/99f56ab87fb5214b413468dec5773452.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Tears For Fears",
+    "display_artist": "Tears For Fears",
+    "title": "Everybody Wants To Rule The World",
+    "display_title": "Everybody Wants To Rule The World",
+    "track": "Tears For Fears - Everybody Wants To Rule The World",
+    "length": 252,
+    "duration": 252,
+    "started": 1717585733,
+    "type": "track",
+    "track_id": 683374,
+    "release": "Songs From the Big Chair",
+    "art_url": "//cdn-images.audioaddict.com/6/8/5/7/8/1/685781468a52d8cd20c8068f58453d63.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/5/7/8/1/685781468a52d8cd20c8068f58453d63.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Matchbox Twenty",
+    "display_artist": "Matchbox Twenty",
+    "title": "3 A.M.",
+    "display_title": "3 A.M.",
+    "track": "Matchbox Twenty - 3 A.M.",
+    "length": 227,
+    "duration": 227,
+    "started": 1717587080,
+    "type": "track",
+    "track_id": 599314,
+    "release": "Yourself Or Someone Like You",
+    "art_url": "//cdn-images.audioaddict.com/d/7/8/d/4/6/d78d464a3de8e74f48a0fcb664a5341d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/8/d/4/6/d78d464a3de8e74f48a0fcb664a5341d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bryan Adams",
+    "display_artist": "Bryan Adams",
+    "title": "Cuts Like A Knife",
+    "display_title": "Cuts Like A Knife",
+    "track": "Bryan Adams - Cuts Like A Knife",
+    "length": 314,
+    "duration": 314,
+    "started": 1717592487,
+    "type": "track",
+    "track_id": 1025162,
+    "release": "Cuts Like A Knife",
+    "art_url": "//cdn-images.audioaddict.com/3/6/8/8/1/c/36881cfc00811fe10da46f8ff2712aa0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/8/8/1/c/36881cfc00811fe10da46f8ff2712aa0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Rick Astley",
+    "display_artist": "Rick Astley",
+    "title": "Never Gonna Give You Up",
+    "display_title": "Never Gonna Give You Up",
+    "track": "Rick Astley - Never Gonna Give You Up",
+    "length": 212,
+    "duration": 212,
+    "started": 1717593329,
+    "type": "track",
+    "track_id": 16212,
+    "release": "Rewind: The 80s Album",
+    "art_url": "//cdn-images.audioaddict.com/2/6/6/9/2/c/26692c73474a959bb046355ae02d4f09.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/6/9/2/c/26692c73474a959bb046355ae02d4f09.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Fine Young Cannibals",
+    "display_artist": "Fine Young Cannibals",
+    "title": "She Drives Me Crazy",
+    "display_title": "She Drives Me Crazy",
+    "track": "Fine Young Cannibals - She Drives Me Crazy",
+    "length": 218,
+    "duration": 218,
+    "started": 1717602745,
+    "type": "track",
+    "track_id": 208,
+    "release": "The Raw & The Cooked",
+    "art_url": "//cdn-images.audioaddict.com/e/0/1/2/7/6/e01276e04ec3d8afdd46c6c55f857be3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/1/2/7/6/e01276e04ec3d8afdd46c6c55f857be3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Coldplay",
+    "display_artist": "Coldplay",
+    "title": "The Scientist",
+    "display_title": "The Scientist",
+    "track": "Coldplay - The Scientist",
+    "length": 311,
+    "duration": 311,
+    "started": 1717602960,
+    "type": "track",
+    "track_id": 752935,
+    "release": "A Rush of Blood to the Head",
+    "art_url": "//cdn-images.audioaddict.com/9/c/d/9/a/2/9cd9a267183ad8cb7a7ff787ce83a440.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/d/9/a/2/9cd9a267183ad8cb7a7ff787ce83a440.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Men At Work",
+    "display_artist": "Men At Work",
+    "title": "Who Can It Be Now?",
+    "display_title": "Who Can It Be Now?",
+    "track": "Men At Work - Who Can It Be Now?",
+    "length": 204,
+    "duration": 204,
+    "started": 1717605024,
+    "type": "track",
+    "track_id": 728,
+    "release": "Business as Usual",
+    "art_url": "//cdn-images.audioaddict.com/2/d/f/7/0/3/2df70339da747434a80da1885a82697b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/f/7/0/3/2df70339da747434a80da1885a82697b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Tears For Fears",
+    "display_artist": "Tears For Fears",
+    "title": "Shout",
+    "display_title": "Shout",
+    "track": "Tears For Fears - Shout",
+    "length": 246,
+    "duration": 246,
+    "started": 1717616236,
+    "type": "track",
+    "track_id": 586809,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/4/d/9/3/e/e4d93eab97a276653c1318cf77040780.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/d/9/3/e/e4d93eab97a276653c1318cf77040780.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Ed Sheeran",
+    "display_artist": "Ed Sheeran",
+    "title": "Photograph",
+    "display_title": "Photograph",
+    "track": "Ed Sheeran - Photograph",
+    "length": 259,
+    "duration": 259,
+    "started": 1717622306,
+    "type": "track",
+    "track_id": 972294,
+    "release": "x",
+    "art_url": "//cdn-images.audioaddict.com/e/b/8/9/c/f/eb89cf4c7375edeeb889fd084454216d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/b/8/9/c/f/eb89cf4c7375edeeb889fd084454216d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Backstreet Boys",
+    "display_artist": "Backstreet Boys",
+    "title": "As Long as You Love Me",
+    "display_title": "As Long as You Love Me",
+    "track": "Backstreet Boys - As Long as You Love Me",
+    "length": 221,
+    "duration": 221,
+    "started": 1717626819,
+    "type": "track",
+    "track_id": 752846,
+    "release": "Backstreet's Back",
+    "art_url": "//cdn-images.audioaddict.com/b/6/7/0/c/2/b670c2e1ba75d715c634a087d84c4196.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/7/0/c/2/b670c2e1ba75d715c634a087d84c4196.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Roxy Music",
+    "display_artist": "Roxy Music",
+    "title": "More Than This",
+    "display_title": "More Than This",
+    "track": "Roxy Music - More Than This",
+    "length": 255,
+    "duration": 255,
+    "started": 1717630026,
+    "type": "track",
+    "track_id": 14206,
+    "release": "Tjenare Kungen",
+    "art_url": "//cdn-images.audioaddict.com/c/e/b/c/a/6/cebca621ecf2c416d9fe0a90ba0c020a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/b/c/a/6/cebca621ecf2c416d9fe0a90ba0c020a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Tears For Fears",
+    "display_artist": "Tears For Fears",
+    "title": "Head Over Heels",
+    "display_title": "Head Over Heels",
+    "track": "Tears For Fears - Head Over Heels",
+    "length": 260,
+    "duration": 260,
+    "started": 1717634184,
+    "type": "track",
+    "track_id": 1018717,
+    "release": "Songs From the Big Chair",
+    "art_url": "//cdn-images.audioaddict.com/5/0/1/2/e/b/5012eb938a60b221adb92de4ed03e77b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/1/2/e/b/5012eb938a60b221adb92de4ed03e77b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Lady Antebellum",
+    "display_artist": "Lady Antebellum",
+    "title": "Need You Now",
+    "display_title": "Need You Now",
+    "track": "Lady Antebellum - Need You Now",
+    "length": 235,
+    "duration": 235,
+    "started": 1717645194,
+    "type": "track",
+    "track_id": 11903,
+    "release": "Need You Now",
+    "art_url": "//cdn-images.audioaddict.com/8/1/9/5/d/a/8195da684fbba69377ff31ca563a0f69.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/9/5/d/a/8195da684fbba69377ff31ca563a0f69.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Dido",
+    "display_artist": "Dido",
+    "title": "Thank You",
+    "display_title": "Thank You",
+    "track": "Dido - Thank You",
+    "length": 219,
+    "duration": 219,
+    "started": 1717647536,
+    "type": "track",
+    "track_id": 958570,
+    "release": "No Angel",
+    "art_url": "//cdn-images.audioaddict.com/0/f/4/2/3/3/0f4233c699072e9b64344f8a690bb78d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/4/2/3/3/0f4233c699072e9b64344f8a690bb78d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "The Cranberries",
+    "display_artist": "The Cranberries",
+    "title": "Dreams",
+    "display_title": "Dreams",
+    "track": "The Cranberries - Dreams",
+    "length": 266,
+    "duration": 266,
+    "started": 1717650016,
+    "type": "track",
+    "track_id": 1018725,
+    "release": "Everybody Else Is Doing It, So Why Can't We?",
+    "art_url": "//cdn-images.audioaddict.com/9/c/c/6/3/9/9cc6394ea831fdf043d73db1761fbda1.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/c/6/3/9/9cc6394ea831fdf043d73db1761fbda1.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Fleetwood Mac",
+    "display_artist": "Fleetwood Mac",
+    "title": "Dreams",
+    "display_title": "Dreams",
+    "track": "Fleetwood Mac - Dreams",
+    "length": 256,
+    "duration": 256,
+    "started": 1717666161,
+    "type": "track",
+    "track_id": 1018590,
+    "release": "Rumours",
+    "art_url": "//cdn-images.audioaddict.com/c/8/7/4/b/1/c874b1b47026710a0f35dfdc77997f52.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/7/4/b/1/c874b1b47026710a0f35dfdc77997f52.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Genesis",
+    "display_artist": "Genesis",
+    "title": "Throwing It All Away",
+    "display_title": "Throwing It All Away",
+    "track": "Genesis - Throwing It All Away",
+    "length": 232,
+    "duration": 232,
+    "started": 1717673337,
+    "type": "track",
+    "track_id": 753004,
+    "release": "Genesis",
+    "art_url": "//cdn-images.audioaddict.com/8/f/e/d/1/2/8fed125d50e9ae240565f425cf4b9636.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/e/d/1/2/8fed125d50e9ae240565f425cf4b9636.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Howie Day",
+    "display_artist": "Howie Day",
+    "title": "Collide",
+    "display_title": "Collide",
+    "track": "Howie Day - Collide",
+    "length": 249,
+    "duration": 249,
+    "started": 1717675742,
+    "type": "track",
+    "track_id": 958654,
+    "release": "Stop All The World Now",
+    "art_url": "//cdn-images.audioaddict.com/4/1/6/4/5/3/41645335233aa31902c3cde2e82f7ef2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/6/4/5/3/41645335233aa31902c3cde2e82f7ef2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Commodores",
+    "display_artist": "Commodores",
+    "title": "Nightshift",
+    "display_title": "Nightshift",
+    "track": "Commodores - Nightshift",
+    "length": 264,
+    "duration": 264,
+    "started": 1717698169,
+    "type": "track",
+    "track_id": 370,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/3/f/4/1/1/c3f41188677837ba14690005dab4e340.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/f/4/1/1/c3f41188677837ba14690005dab4e340.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Heart",
+    "display_artist": "Heart",
+    "title": "Alone",
+    "display_title": "Alone",
+    "track": "Heart - Alone",
+    "length": 218,
+    "duration": 218,
+    "started": 1717698589,
+    "type": "track",
+    "track_id": 585814,
+    "release": "Open Up and Say... Ahh!",
+    "art_url": "//cdn-images.audioaddict.com/6/b/f/a/1/f/6bfa1f5e3876ae948cab2c0e8208f27d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/f/a/1/f/6bfa1f5e3876ae948cab2c0e8208f27d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Bruce Springsteen",
+    "display_artist": "Bruce Springsteen",
+    "title": "Dancing In The Dark",
+    "display_title": "Dancing In The Dark",
+    "track": "Bruce Springsteen - Dancing In The Dark",
+    "length": 245,
+    "duration": 245,
+    "started": 1717701880,
+    "type": "track",
+    "track_id": 1025155,
+    "release": "Greatest Hits",
+    "art_url": "//cdn-images.audioaddict.com/b/5/f/2/d/1/b5f2d13d5cccd429613aa5b150e38747.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/f/2/d/1/b5f2d13d5cccd429613aa5b150e38747.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Sting",
+    "display_artist": "Sting",
+    "title": "Shape Of My Heart",
+    "display_title": "Shape Of My Heart",
+    "track": "Sting - Shape Of My Heart",
+    "length": 284,
+    "duration": 284,
+    "started": 1717710928,
+    "type": "track",
+    "track_id": 1049780,
+    "release": "Ten Summoner's Tales",
+    "art_url": "//cdn-images.audioaddict.com/0/7/6/0/e/f/0760ef11da0cacd9c01e4ca0eeabb4dd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/6/0/e/f/0760ef11da0cacd9c01e4ca0eeabb4dd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Peter Cetera",
+    "display_artist": "Peter Cetera",
+    "title": "Glory of Love",
+    "display_title": "Glory of Love",
+    "track": "Peter Cetera - Glory of Love",
+    "length": 263,
+    "duration": 263,
+    "started": 1717714683,
+    "type": "track",
+    "track_id": 753158,
+    "release": "Solitude/Solitaire",
+    "art_url": "//cdn-images.audioaddict.com/9/2/8/b/a/f/928bafdf98dce4678f2d3ba76f741971.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/8/b/a/f/928bafdf98dce4678f2d3ba76f741971.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Gloria Estefan",
+    "display_artist": "Gloria Estefan",
+    "title": "Cuts Both Ways",
+    "display_title": "Cuts Both Ways",
+    "track": "Gloria Estefan - Cuts Both Ways",
+    "length": 195,
+    "duration": 195,
+    "started": 1717717244,
+    "type": "track",
+    "track_id": 753013,
+    "release": "Cuts Both Ways",
+    "art_url": "//cdn-images.audioaddict.com/b/2/7/1/d/f/b271df9efe161ffe0a24606fa07bf70f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/7/1/d/f/b271df9efe161ffe0a24606fa07bf70f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "A Flock Of Seagulls",
+    "display_artist": "A Flock Of Seagulls",
+    "title": "I Ran (So Far Away)",
+    "display_title": "I Ran (So Far Away)",
+    "track": "A Flock Of Seagulls - I Ran (So Far Away)",
+    "length": 226,
+    "duration": 226,
+    "started": 1717723352,
+    "type": "track",
+    "track_id": 24733,
+    "release": "A Flock of Seagulls",
+    "art_url": "//cdn-images.audioaddict.com/2/e/8/4/0/3/2e8403ae348e6bb9c8a86e23757be8e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/8/4/0/3/2e8403ae348e6bb9c8a86e23757be8e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "James Taylor",
+    "display_artist": "James Taylor",
+    "title": "How Sweet It Is (to Be Loved by You)",
+    "display_title": "How Sweet It Is (to Be Loved by You)",
+    "track": "James Taylor - How Sweet It Is (to Be Loved by You)",
+    "length": 214,
+    "duration": 214,
+    "started": 1717755055,
+    "type": "track",
+    "track_id": 2805196,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/a/9/1/e/7/8a91e703f893b7ef879b2957dc61f797.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/9/1/e/7/8a91e703f893b7ef879b2957dc61f797.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 514,
+    "artist": "Lifehouse",
+    "display_artist": "Lifehouse",
+    "title": "You And Me",
+    "display_title": "You And Me",
+    "track": "Lifehouse - You And Me",
+    "length": 199,
+    "duration": 199,
+    "started": 1717905774,
+    "type": "track",
+    "track_id": 958770,
+    "release": "Lifehouse",
+    "art_url": "//cdn-images.audioaddict.com/6/8/6/e/8/8/686e88712b114401afffa4eb0e459343.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/6/e/8/8/686e88712b114401afffa4eb0e459343.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

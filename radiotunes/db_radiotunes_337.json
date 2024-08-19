@@ -1,0 +1,21 @@
+[
+  {
+    "network_id": 2,
+    "channel_id": 337,
+    "artist": "The Temptations",
+    "display_artist": "The Temptations",
+    "title": "Silent Night",
+    "display_title": "Silent Night",
+    "track": "The Temptations - Silent Night",
+    "length": 142,
+    "duration": 142,
+    "started": 1704993883,
+    "type": "track",
+    "track_id": 905556,
+    "release": "A Motown Christmas",
+    "art_url": "//cdn-images.audioaddict.com/d/5/d/0/b/b/d5d0bb21e8507a95554673b948ddd21f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/d/0/b/b/d5d0bb21e8507a95554673b948ddd21f.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]
