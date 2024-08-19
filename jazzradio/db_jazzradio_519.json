@@ -1,0 +1,4087 @@
+[
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ron Carter Trio",
+    "display_artist": "Ron Carter Trio",
+    "title": "My Funny Valentine",
+    "display_title": "My Funny Valentine",
+    "track": "Ron Carter Trio - My Funny Valentine",
+    "length": 682,
+    "duration": 682,
+    "started": 1721615935,
+    "type": "track",
+    "track_id": 3054475,
+    "release": "Cocktails at the Cotton Club",
+    "art_url": "//cdn-images.audioaddict.com/7/6/a/b/7/9/76ab795b8a92332024538c642c34dee3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/a/b/7/9/76ab795b8a92332024538c642c34dee3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "Love For Sale",
+    "display_title": "Love For Sale",
+    "track": "Oscar Peterson Trio - Love For Sale",
+    "length": 208,
+    "duration": 208,
+    "started": 1721616617,
+    "type": "track",
+    "track_id": 3062471,
+    "release": "Oscar Peterson Trio With Ray Brown & Ed Thigpen (1959)",
+    "art_url": "//cdn-images.audioaddict.com/2/1/5/2/b/e/2152be51892ead4c61991b5f7981f04e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/5/2/b/e/2152be51892ead4c61991b5f7981f04e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Bengt Hallberg",
+    "display_artist": "Bengt Hallberg",
+    "title": "Vilja o vilja",
+    "display_title": "Vilja o vilja",
+    "track": "Bengt Hallberg - Vilja o vilja",
+    "length": 213,
+    "duration": 213,
+    "started": 1721616825,
+    "type": "track",
+    "track_id": 3046760,
+    "release": "Mellow Cool Swedish Jazz",
+    "art_url": "//cdn-images.audioaddict.com/3/d/8/1/0/a/3d810ab559412fdd27de0d1d2d3682ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/8/1/0/a/3d810ab559412fdd27de0d1d2d3682ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "I Love Paris",
+    "display_title": "I Love Paris",
+    "track": "Oscar Peterson Trio - I Love Paris",
+    "length": 133,
+    "duration": 133,
+    "started": 1721617038,
+    "type": "track",
+    "track_id": 3048396,
+    "release": "The Complete Cole Porter Songbooks",
+    "art_url": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Gunnar Johansson Quintet",
+    "display_artist": "Gunnar Johansson Quintet",
+    "title": "Pia",
+    "display_title": "Pia",
+    "track": "Gunnar Johansson Quintet - Pia",
+    "length": 264,
+    "duration": 264,
+    "started": 1721617168,
+    "type": "track",
+    "track_id": 3046761,
+    "release": "Mellow Cool Swedish Jazz",
+    "art_url": "//cdn-images.audioaddict.com/3/d/8/1/0/a/3d810ab559412fdd27de0d1d2d3682ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/8/1/0/a/3d810ab559412fdd27de0d1d2d3682ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson",
+    "display_artist": "Oscar Peterson",
+    "title": "In the Still of the Night",
+    "display_title": "In the Still of the Night",
+    "track": "Oscar Peterson - In the Still of the Night",
+    "length": 173,
+    "duration": 173,
+    "started": 1721617556,
+    "type": "track",
+    "track_id": 91053,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/e/2/e/9/cbe2e9c8590dc6317e7e9da3fe9973f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/e/2/e/9/cbe2e9c8590dc6317e7e9da3fe9973f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ricardo Curto",
+    "display_artist": "Ricardo Curto",
+    "title": "El Abuelo",
+    "display_title": "El Abuelo",
+    "track": "Ricardo Curto - El Abuelo",
+    "length": 196,
+    "duration": 196,
+    "started": 1721617905,
+    "type": "track",
+    "track_id": 54977,
+    "release": "Cada Día Como El Último",
+    "art_url": "//cdn-images.audioaddict.com/d/0/7/7/b/f/d077bf9dd65ac9d7a8a0cc969c06a252.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/7/7/b/f/d077bf9dd65ac9d7a8a0cc969c06a252.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "Again",
+    "display_title": "Again",
+    "track": "Eddie Higgins Trio - Again",
+    "length": 288,
+    "duration": 288,
+    "started": 1721618094,
+    "type": "track",
+    "track_id": 3045278,
+    "release": "Dear Old Stockholm -Bonus CD 첨부-",
+    "art_url": "//cdn-images.audioaddict.com/0/0/a/2/c/f/00a2cfe3774d8423a92f367da85ffff5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/a/2/c/f/00a2cfe3774d8423a92f367da85ffff5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Mason Embry Trio",
+    "display_artist": "The Mason Embry Trio",
+    "title": "Swingin' On A Star",
+    "display_title": "Swingin' On A Star",
+    "track": "The Mason Embry Trio - Swingin' On A Star",
+    "length": 188,
+    "duration": 188,
+    "started": 1721618377,
+    "type": "track",
+    "track_id": 3045743,
+    "release": "Swingin' On a Star: A Jazz Piano Tribute to Classic Crooners of the 20th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Zoot Sims Quartet",
+    "display_artist": "Zoot Sims Quartet",
+    "title": "Don't Worry About Me",
+    "display_title": "Don't Worry About Me",
+    "track": "Zoot Sims Quartet - Don't Worry About Me",
+    "length": 188,
+    "duration": 188,
+    "started": 1721618700,
+    "type": "track",
+    "track_id": 3049658,
+    "release": "Tenorly",
+    "art_url": "//cdn-images.audioaddict.com/2/3/3/3/4/1/233341f474bd66917ab97e4a359f44bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/3/3/4/1/233341f474bd66917ab97e4a359f44bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Kenny Burrell",
+    "display_artist": "Kenny Burrell",
+    "title": "Satin Doll",
+    "display_title": "Satin Doll",
+    "track": "Kenny Burrell - Satin Doll",
+    "length": 261,
+    "duration": 261,
+    "started": 1721618888,
+    "type": "track",
+    "track_id": 3081079,
+    "release": "Cocktail Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "In The Still Of The Night",
+    "display_title": "In The Still Of The Night",
+    "track": "Oscar Peterson Trio - In The Still Of The Night",
+    "length": 173,
+    "duration": 173,
+    "started": 1721619148,
+    "type": "track",
+    "track_id": 3048394,
+    "release": "The Complete Cole Porter Songbooks",
+    "art_url": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Don Friedman Trio",
+    "display_artist": "Don Friedman Trio",
+    "title": "Chelsea Bridge",
+    "display_title": "Chelsea Bridge",
+    "track": "Don Friedman Trio - Chelsea Bridge",
+    "length": 350,
+    "duration": 350,
+    "started": 1721619318,
+    "type": "track",
+    "track_id": 3052976,
+    "release": "Circle Waltz 21C",
+    "art_url": "//cdn-images.audioaddict.com/3/7/1/4/5/c/37145c4db440685fb8df00676a01d0c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/1/4/5/c/37145c4db440685fb8df00676a01d0c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Sonny Clark",
+    "display_artist": "Sonny Clark",
+    "title": "I Cover The Waterfront",
+    "display_title": "I Cover The Waterfront",
+    "track": "Sonny Clark - I Cover The Waterfront",
+    "length": 278,
+    "duration": 278,
+    "started": 1721619664,
+    "type": "track",
+    "track_id": 2629591,
+    "release": "Blues In The Night",
+    "art_url": "//cdn-images.audioaddict.com/d/7/5/e/a/b/d75eab0d1ca00c03376fc9403d1f5ced.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/5/e/a/b/d75eab0d1ca00c03376fc9403d1f5ced.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Rune Ofwerman Trio",
+    "display_artist": "Rune Ofwerman Trio",
+    "title": "Dinah",
+    "display_title": "Dinah",
+    "track": "Rune Ofwerman Trio - Dinah",
+    "length": 252,
+    "duration": 252,
+    "started": 1721619942,
+    "type": "track",
+    "track_id": 3046764,
+    "release": "Swedish Jazz Masters: Cool Sweden - Classic, Mellow and Modal Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/f/5/e/d/4/df5ed40bff2224dbd5f563d5405d768c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/5/e/d/4/df5ed40bff2224dbd5f563d5405d768c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Red Garland",
+    "display_artist": "Red Garland",
+    "title": "Why Was I Born",
+    "display_title": "Why Was I Born",
+    "track": "Red Garland - Why Was I Born",
+    "length": 294,
+    "duration": 294,
+    "started": 1721640141,
+    "type": "track",
+    "track_id": 888153,
+    "release": "The Nearness Of You",
+    "art_url": "//cdn-images.audioaddict.com/1/8/0/e/8/b/180e8b6da08508aafc13b4acf8d7ca8f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/0/e/8/b/180e8b6da08508aafc13b4acf8d7ca8f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Mason Embry Trio",
+    "display_artist": "Mason Embry Trio",
+    "title": "You Make Me Feel So Young",
+    "display_title": "You Make Me Feel So Young",
+    "track": "Mason Embry Trio - You Make Me Feel So Young",
+    "length": 178,
+    "duration": 178,
+    "started": 1721640434,
+    "type": "track",
+    "track_id": 902770,
+    "release": "Swingin' on a Star",
+    "art_url": "//cdn-images.audioaddict.com/2/a/7/f/d/0/2a7fd0e7aa6692f078dc939cae47ad3e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/7/f/d/0/2a7fd0e7aa6692f078dc939cae47ad3e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Red Garland",
+    "display_artist": "Red Garland",
+    "title": "I Can't Give You Anything But Love",
+    "display_title": "I Can't Give You Anything But Love",
+    "track": "Red Garland - I Can't Give You Anything But Love",
+    "length": 305,
+    "duration": 305,
+    "started": 1721640613,
+    "type": "track",
+    "track_id": 2826664,
+    "release": "Red Garland's Piano",
+    "art_url": "//cdn-images.audioaddict.com/1/7/3/c/7/c/173c7c9658939309b8ae49de98fe75e5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/3/c/7/c/173c7c9658939309b8ae49de98fe75e5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Brad Hatfield",
+    "display_artist": "Brad Hatfield",
+    "title": "At Long Last Love (Trio)",
+    "display_title": "At Long Last Love (Trio)",
+    "track": "Brad Hatfield - At Long Last Love (Trio)",
+    "length": 255,
+    "duration": 255,
+    "started": 1721641208,
+    "type": "track",
+    "track_id": 3070209,
+    "release": "Straight Up: Jazz and Cocktails, Vol. 8",
+    "art_url": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ben Webster & Oscar Peterson",
+    "display_artist": "Ben Webster & Oscar Peterson",
+    "title": "Bye Bye Blackbird",
+    "display_title": "Bye Bye Blackbird",
+    "track": "Ben Webster & Oscar Peterson - Bye Bye Blackbird",
+    "length": 405,
+    "duration": 405,
+    "started": 1721641463,
+    "type": "track",
+    "track_id": 3052706,
+    "release": "Take Five: Great Jazz Instrumentals",
+    "art_url": "//cdn-images.audioaddict.com/f/8/8/4/8/b/f8848b77c6b12131352ab7f1b79ef818.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/8/4/8/b/f8848b77c6b12131352ab7f1b79ef818.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Mason Embry Trio",
+    "display_artist": "The Mason Embry Trio",
+    "title": "Hallelujah, I Love Her So",
+    "display_title": "Hallelujah, I Love Her So",
+    "track": "The Mason Embry Trio - Hallelujah, I Love Her So",
+    "length": 176,
+    "duration": 176,
+    "started": 1721641864,
+    "type": "track",
+    "track_id": 3045746,
+    "release": "Swingin' On a Star: A Jazz Piano Tribute to Classic Crooners of the 20th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Hazel Scott",
+    "display_artist": "Hazel Scott",
+    "title": "For You, for Me, Forevermore",
+    "display_title": "For You, for Me, Forevermore",
+    "track": "Hazel Scott - For You, for Me, Forevermore",
+    "length": 184,
+    "duration": 184,
+    "started": 1721642037,
+    "type": "track",
+    "track_id": 3049653,
+    "release": "Relaxed Piano Moods 'Round Midnight",
+    "art_url": "//cdn-images.audioaddict.com/b/c/4/2/e/d/bc42ede7fe20fa69f82464c24ec8097c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/4/2/e/d/bc42ede7fe20fa69f82464c24ec8097c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Brad Hatfield",
+    "display_artist": "Brad Hatfield",
+    "title": "Departures (Trio)",
+    "display_title": "Departures (Trio)",
+    "track": "Brad Hatfield - Departures (Trio)",
+    "length": 230,
+    "duration": 230,
+    "started": 1721642222,
+    "type": "track",
+    "track_id": 3070212,
+    "release": "Straight Up: Jazz and Cocktails, Vol. 8",
+    "art_url": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Martin Sasse",
+    "display_artist": "Martin Sasse",
+    "title": "Waltz for Debby",
+    "display_title": "Waltz for Debby",
+    "track": "Martin Sasse - Waltz for Debby",
+    "length": 305,
+    "duration": 305,
+    "started": 1721642452,
+    "type": "track",
+    "track_id": 3008733,
+    "release": "Trio Standards Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/8/d/4/a/f/4/8d4af4f1b88775745c9eb9025b07c734.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/4/a/f/4/8d4af4f1b88775745c9eb9025b07c734.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Sonny Clark Trio",
+    "display_artist": "Sonny Clark Trio",
+    "title": "Blues In The Night (Remastered)",
+    "display_title": "Blues In The Night (Remastered)",
+    "track": "Sonny Clark Trio - Blues In The Night (Remastered)",
+    "length": 359,
+    "duration": 359,
+    "started": 1721642754,
+    "type": "track",
+    "track_id": 2971887,
+    "release": "Blues In The Night",
+    "art_url": "//cdn-images.audioaddict.com/e/3/9/b/a/d/e39bad0c031cec334a83b3505df513f2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/9/b/a/d/e39bad0c031cec334a83b3505df513f2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "If Dreams Come True",
+    "display_title": "If Dreams Come True",
+    "track": "Eddie Higgins Trio - If Dreams Come True",
+    "length": 357,
+    "duration": 357,
+    "started": 1721643110,
+    "type": "track",
+    "track_id": 3045740,
+    "release": "If Dreams Come True",
+    "art_url": "//cdn-images.audioaddict.com/d/5/6/2/2/9/d5622976b6e529e9c55882ecef6f7497.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/6/2/2/9/d5622976b6e529e9c55882ecef6f7497.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "But Not For Me",
+    "display_title": "But Not For Me",
+    "track": "The Jeff Steinberg Jazz Ensemble - But Not For Me",
+    "length": 223,
+    "duration": 223,
+    "started": 1721643463,
+    "type": "track",
+    "track_id": 3047797,
+    "release": "Jazz Blends",
+    "art_url": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Beegie Adair Trio",
+    "display_artist": "The Beegie Adair Trio",
+    "title": "I've Got The World On A String",
+    "display_title": "I've Got The World On A String",
+    "track": "The Beegie Adair Trio - I've Got The World On A String",
+    "length": 194,
+    "duration": 194,
+    "started": 1721643683,
+    "type": "track",
+    "track_id": 3045100,
+    "release": "The Dinner Music Series",
+    "art_url": "//cdn-images.audioaddict.com/6/2/1/c/0/5/621c0598e87c1bc1151f0af5e4381d06.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/1/c/0/5/621c0598e87c1bc1151f0af5e4381d06.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "321Jazz",
+    "display_artist": "321Jazz",
+    "title": "Groovin' Graces",
+    "display_title": "Groovin' Graces",
+    "track": "321Jazz - Groovin' Graces",
+    "length": 213,
+    "duration": 213,
+    "started": 1721643876,
+    "type": "track",
+    "track_id": 3082885,
+    "release": "Midnight Jazz",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "Stars Fell On Alabama",
+    "display_title": "Stars Fell On Alabama",
+    "track": "The Jeff Steinberg Jazz Ensemble - Stars Fell On Alabama",
+    "length": 242,
+    "duration": 242,
+    "started": 1721644413,
+    "type": "track",
+    "track_id": 3008747,
+    "release": "Jazz For Quiet Nights",
+    "art_url": "//cdn-images.audioaddict.com/6/2/1/f/1/b/621f1bf94bc9679928e7f45f6b8dbe34.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/1/f/1/b/621f1bf94bc9679928e7f45f6b8dbe34.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Zoot Sims Sextet",
+    "display_artist": "Zoot Sims Sextet",
+    "title": "Once A While",
+    "display_title": "Once A While",
+    "track": "Zoot Sims Sextet - Once A While",
+    "length": 212,
+    "duration": 212,
+    "started": 1721644784,
+    "type": "track",
+    "track_id": 3048460,
+    "release": "Tenorly",
+    "art_url": "//cdn-images.audioaddict.com/2/3/3/3/4/1/233341f474bd66917ab97e4a359f44bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/3/3/4/1/233341f474bd66917ab97e4a359f44bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "One Hundred Ways",
+    "display_title": "One Hundred Ways",
+    "track": "The Jeff Steinberg Jazz Ensemble - One Hundred Ways",
+    "length": 256,
+    "duration": 256,
+    "started": 1721644996,
+    "type": "track",
+    "track_id": 3059018,
+    "release": "Cocktail Lounge: Easy Jazz 80s",
+    "art_url": "//cdn-images.audioaddict.com/c/6/a/1/1/9/c6a1195810b2ee0804ef40cff428e07a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/a/1/1/9/c6a1195810b2ee0804ef40cff428e07a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Sonny Clark",
+    "display_artist": "Sonny Clark",
+    "title": "I Can't Give You Anything But Love",
+    "display_title": "I Can't Give You Anything But Love",
+    "track": "Sonny Clark - I Can't Give You Anything But Love",
+    "length": 229,
+    "duration": 229,
+    "started": 1721645246,
+    "type": "track",
+    "track_id": 3048223,
+    "release": "Blues In The Night",
+    "art_url": "//cdn-images.audioaddict.com/d/7/5/e/a/b/d75eab0d1ca00c03376fc9403d1f5ced.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/5/e/a/b/d75eab0d1ca00c03376fc9403d1f5ced.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tsuyoshi Yamamoto",
+    "display_artist": "Tsuyoshi Yamamoto",
+    "title": "La Vie En Rose",
+    "display_title": "La Vie En Rose",
+    "track": "Tsuyoshi Yamamoto - La Vie En Rose",
+    "length": 256,
+    "duration": 256,
+    "started": 1721645475,
+    "type": "track",
+    "track_id": 3045825,
+    "release": "Star Dust",
+    "art_url": "//cdn-images.audioaddict.com/3/b/f/5/d/0/3bf5d07dcadde5fc9f84cb786bd4a75b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/f/5/d/0/3bf5d07dcadde5fc9f84cb786bd4a75b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Charlie Byrd",
+    "display_artist": "Charlie Byrd",
+    "title": "The Girl From Ipanema (Album Version)",
+    "display_title": "The Girl From Ipanema (Album Version)",
+    "track": "Charlie Byrd - The Girl From Ipanema (Album Version)",
+    "length": 287,
+    "duration": 287,
+    "started": 1721645728,
+    "type": "track",
+    "track_id": 3081083,
+    "release": "Cocktail Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "Shinjuku Twilight",
+    "display_title": "Shinjuku Twilight",
+    "track": "Eddie Higgins Trio - Shinjuku Twilight",
+    "length": 288,
+    "duration": 288,
+    "started": 1721646015,
+    "type": "track",
+    "track_id": 3045741,
+    "release": "If Dreams Come True",
+    "art_url": "//cdn-images.audioaddict.com/d/5/6/2/2/9/d5622976b6e529e9c55882ecef6f7497.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/6/2/2/9/d5622976b6e529e9c55882ecef6f7497.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Denis Solee with The Beegie Adair Trio",
+    "display_artist": "Denis Solee with The Beegie Adair Trio",
+    "title": "Come Fly With Me",
+    "display_title": "Come Fly With Me",
+    "track": "Denis Solee with The Beegie Adair Trio - Come Fly With Me",
+    "length": 217,
+    "duration": 217,
+    "started": 1721646298,
+    "type": "track",
+    "track_id": 3045096,
+    "release": "Sinatra On Sax",
+    "art_url": "//cdn-images.audioaddict.com/2/b/f/e/1/8/2bfe18932a3cb54dcc3b7c969d74ebfe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/f/e/1/8/2bfe18932a3cb54dcc3b7c969d74ebfe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "Dear Old Stockholm",
+    "display_title": "Dear Old Stockholm",
+    "track": "Eddie Higgins Trio - Dear Old Stockholm",
+    "length": 360,
+    "duration": 360,
+    "started": 1721646514,
+    "type": "track",
+    "track_id": 3045276,
+    "release": "Dear Old Stockholm -Bonus CD 첨부-",
+    "art_url": "//cdn-images.audioaddict.com/0/0/a/2/c/f/00a2cfe3774d8423a92f367da85ffff5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/a/2/c/f/00a2cfe3774d8423a92f367da85ffff5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "Let's Do It",
+    "display_title": "Let's Do It",
+    "track": "Oscar Peterson Trio - Let's Do It",
+    "length": 175,
+    "duration": 175,
+    "started": 1721646869,
+    "type": "track",
+    "track_id": 3048398,
+    "release": "The Complete Cole Porter Songbooks",
+    "art_url": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Leif Shires",
+    "display_artist": "Leif Shires",
+    "title": "Tenderly",
+    "display_title": "Tenderly",
+    "track": "Leif Shires - Tenderly",
+    "length": 193,
+    "duration": 193,
+    "started": 1721647041,
+    "type": "track",
+    "track_id": 3045098,
+    "release": "Cocktail Party Jazz 2: An Intoxicating Collection Of Instrumental Jazz For Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/2/d/7/a/1/3/2d7a130748b65367d8317cedeb4606c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/7/a/1/3/2d7a130748b65367d8317cedeb4606c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ed Bickert Trio",
+    "display_artist": "Ed Bickert Trio",
+    "title": "I Got A Right To Sing The Blues (Album Version)",
+    "display_title": "I Got A Right To Sing The Blues (Album Version)",
+    "track": "Ed Bickert Trio - I Got A Right To Sing The Blues (Album Version)",
+    "length": 326,
+    "duration": 326,
+    "started": 1721647414,
+    "type": "track",
+    "track_id": 3081086,
+    "release": "Cocktail Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Green Hill All Stars feat: Leif Shires",
+    "display_artist": "Green Hill All Stars feat: Leif Shires",
+    "title": "Never Can Say Goodbye",
+    "display_title": "Never Can Say Goodbye",
+    "track": "Green Hill All Stars feat: Leif Shires - Never Can Say Goodbye",
+    "length": 282,
+    "duration": 282,
+    "started": 1721647739,
+    "type": "track",
+    "track_id": 3045271,
+    "release": "Cocktail Lounge: Easy Jazz 70s",
+    "art_url": "//cdn-images.audioaddict.com/4/b/1/0/9/c/4b109c1307be0f6231110108276f6251.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/1/0/9/c/4b109c1307be0f6231110108276f6251.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Stan Getz",
+    "display_artist": "Stan Getz",
+    "title": "Time After Time",
+    "display_title": "Time After Time",
+    "track": "Stan Getz - Time After Time",
+    "length": 402,
+    "duration": 402,
+    "started": 1721648017,
+    "type": "track",
+    "track_id": 2799886,
+    "release": "Jazz for Cocktails: Another 'Superior Musical Evening'",
+    "art_url": "//cdn-images.audioaddict.com/4/a/d/5/3/e/4ad53ef8abcd74f729a11db843b913c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/a/d/5/3/e/4ad53ef8abcd74f729a11db843b913c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tommy Flanagan",
+    "display_artist": "Tommy Flanagan",
+    "title": "Chelsea Bridge (Take 3 - Master)",
+    "display_title": "Chelsea Bridge (Take 3 - Master)",
+    "track": "Tommy Flanagan - Chelsea Bridge (Take 3 - Master)",
+    "length": 224,
+    "duration": 224,
+    "started": 1721648587,
+    "type": "track",
+    "track_id": 3045460,
+    "release": "The Complete Overseas Session (Bonus Track Version)",
+    "art_url": "//cdn-images.audioaddict.com/b/d/7/4/9/d/bd749d3382eb7ee9c3f68e960a9d1aeb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/7/4/9/d/bd749d3382eb7ee9c3f68e960a9d1aeb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tommy Flanagan",
+    "display_artist": "Tommy Flanagan",
+    "title": "One for My Baby",
+    "display_title": "One for My Baby",
+    "track": "Tommy Flanagan - One for My Baby",
+    "length": 199,
+    "duration": 199,
+    "started": 1721648977,
+    "type": "track",
+    "track_id": 890626,
+    "release": "Tommy Flanagan Plays the Music of Harold Arlen",
+    "art_url": "//cdn-images.audioaddict.com/7/6/0/a/b/0/760ab026d78494de9b2865c374ee5e23.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/0/a/b/0/760ab026d78494de9b2865c374ee5e23.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Jack Jezzro",
+    "display_artist": "Jack Jezzro",
+    "title": "Black Orpheus",
+    "display_title": "Black Orpheus",
+    "track": "Jack Jezzro - Black Orpheus",
+    "length": 276,
+    "duration": 276,
+    "started": 1721649174,
+    "type": "track",
+    "track_id": 3045097,
+    "release": "Cocktail Party Jazz 2: An Intoxicating Collection Of Instrumental Jazz For Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/2/d/7/a/1/3/2d7a130748b65367d8317cedeb4606c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/7/a/1/3/2d7a130748b65367d8317cedeb4606c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Homer Greencastle",
+    "display_artist": "Homer Greencastle",
+    "title": "Cocktail Lullaby (Swing)",
+    "display_title": "Cocktail Lullaby (Swing)",
+    "track": "Homer Greencastle - Cocktail Lullaby (Swing)",
+    "length": 140,
+    "duration": 140,
+    "started": 1721649450,
+    "type": "track",
+    "track_id": 3045103,
+    "release": "Cocktail Hour Classic Jazz Moods",
+    "art_url": "//cdn-images.audioaddict.com/2/1/c/1/f/d/21c1fd01afa3659acf80cbdece63ff46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/c/1/f/d/21c1fd01afa3659acf80cbdece63ff46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Quintet",
+    "display_artist": "Eddie Higgins Quintet",
+    "title": "April In Torino",
+    "display_title": "April In Torino",
+    "track": "Eddie Higgins Quintet - April In Torino",
+    "length": 369,
+    "duration": 369,
+    "started": 1721649586,
+    "type": "track",
+    "track_id": 785378,
+    "release": "A Handful Of Stars",
+    "art_url": "//cdn-images.audioaddict.com/4/b/0/e/e/9/4b0ee98e47dc1fc26db41532dd1aa775.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/0/e/e/9/4b0ee98e47dc1fc26db41532dd1aa775.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Jack Jezzro",
+    "display_artist": "Jack Jezzro",
+    "title": "Moonlight in Vermont",
+    "display_title": "Moonlight in Vermont",
+    "track": "Jack Jezzro - Moonlight in Vermont",
+    "length": 230,
+    "duration": 230,
+    "started": 1721650123,
+    "type": "track",
+    "track_id": 2983309,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/0/1/6/9/c/80169cce4970eb4ea2d1e7de1341cadf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/1/6/9/c/80169cce4970eb4ea2d1e7de1341cadf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Andrea Rongioletti, Giacomo Bondi, Roberto Guarino",
+    "display_artist": "Andrea Rongioletti, Giacomo Bondi, Roberto Guarino",
+    "title": "Cocktail Jazz Calypso Sun",
+    "display_title": "Cocktail Jazz Calypso Sun",
+    "track": "Andrea Rongioletti, Giacomo Bondi, Roberto Guarino - Cocktail Jazz Calypso Sun",
+    "length": 293,
+    "duration": 293,
+    "started": 1721650541,
+    "type": "track",
+    "track_id": 3025971,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/b/6/e/2/a/eb6e2a3f8703b816f74ad96a49fb61a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/b/6/e/2/a/eb6e2a3f8703b816f74ad96a49fb61a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Hank Jones, Milt Hinton and Bob Rosengarden",
+    "display_artist": "Hank Jones, Milt Hinton and Bob Rosengarden",
+    "title": "Queen of Hearts",
+    "display_title": "Queen of Hearts",
+    "track": "Hank Jones, Milt Hinton and Bob Rosengarden - Queen of Hearts",
+    "length": 238,
+    "duration": 238,
+    "started": 1721650834,
+    "type": "track",
+    "track_id": 3077635,
+    "release": "The Trio",
+    "art_url": "//cdn-images.audioaddict.com/e/2/3/9/e/e/e239ee4c6b76fbb4f9fcc920faffac63.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/3/9/e/e/e239ee4c6b76fbb4f9fcc920faffac63.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Red Garland",
+    "display_artist": "Red Garland",
+    "title": "St. James Infirmary [Album Version]",
+    "display_title": "St. James Infirmary [Album Version]",
+    "track": "Red Garland - St. James Infirmary [Album Version]",
+    "length": 399,
+    "duration": 399,
+    "started": 1721651072,
+    "type": "track",
+    "track_id": 3048221,
+    "release": "Red's Blues",
+    "art_url": "//cdn-images.audioaddict.com/c/4/c/9/8/f/c4c98f02fdd473813215c896856a98ef.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/c/9/8/f/c4c98f02fdd473813215c896856a98ef.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Peter Nordahl Trio",
+    "display_artist": "Peter Nordahl Trio",
+    "title": "Anyone Can Whistle",
+    "display_title": "Anyone Can Whistle",
+    "track": "Peter Nordahl Trio - Anyone Can Whistle",
+    "length": 239,
+    "duration": 239,
+    "started": 1721651467,
+    "type": "track",
+    "track_id": 3045274,
+    "release": "Dear Old Stockholm",
+    "art_url": "//cdn-images.audioaddict.com/9/a/0/f/8/5/9a0f85b43c46d62dbea957c88336a9dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/0/f/8/5/9a0f85b43c46d62dbea957c88336a9dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Toshiko Akiyoshi",
+    "display_artist": "Toshiko Akiyoshi",
+    "title": "Taking a Chance on Love (Remastered 2017)",
+    "display_title": "Taking a Chance on Love (Remastered 2017)",
+    "track": "Toshiko Akiyoshi - Taking a Chance on Love (Remastered 2017)",
+    "length": 272,
+    "duration": 272,
+    "started": 1721651704,
+    "type": "track",
+    "track_id": 3026204,
+    "release": "Upgraded Masters",
+    "art_url": "//cdn-images.audioaddict.com/d/b/9/0/0/f/db900fd0b973d1cac9d43a6d223cd5fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/b/9/0/0/f/db900fd0b973d1cac9d43a6d223cd5fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "'S Wonderful",
+    "display_title": "'S Wonderful",
+    "track": "Beegie Adair - 'S Wonderful",
+    "length": 199,
+    "duration": 199,
+    "started": 1721651976,
+    "type": "track",
+    "track_id": 3088636,
+    "release": "Embraceable You: Romantic Songs of George Gershwin",
+    "art_url": "//cdn-images.audioaddict.com/5/0/d/e/1/e/50de1ee128d666b6222b0d766b6dd6a0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/d/e/1/e/50de1ee128d666b6222b0d766b6dd6a0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Mason Embry Trio",
+    "display_artist": "Mason Embry Trio",
+    "title": "Beyond The Sea",
+    "display_title": "Beyond The Sea",
+    "track": "Mason Embry Trio - Beyond The Sea",
+    "length": 222,
+    "duration": 222,
+    "started": 1721652171,
+    "type": "track",
+    "track_id": 894932,
+    "release": "Swingin' on a Star",
+    "art_url": "//cdn-images.audioaddict.com/2/a/7/f/d/0/2a7fd0e7aa6692f078dc939cae47ad3e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/7/f/d/0/2a7fd0e7aa6692f078dc939cae47ad3e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Cherry Pink and Apple Blossom White",
+    "display_title": "Cherry Pink and Apple Blossom White",
+    "track": "Beegie Adair - Cherry Pink and Apple Blossom White",
+    "length": 212,
+    "duration": 212,
+    "started": 1721652393,
+    "type": "track",
+    "track_id": 3047768,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "L-O-V-E",
+    "display_title": "L-O-V-E",
+    "track": "Beegie Adair - L-O-V-E",
+    "length": 181,
+    "duration": 181,
+    "started": 1721652603,
+    "type": "track",
+    "track_id": 350331,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/1/6/0/7/e/21607e9271b74ace3b3f351053ba78e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/6/0/7/e/21607e9271b74ace3b3f351053ba78e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Our Love Is Here to Stay",
+    "display_title": "Our Love Is Here to Stay",
+    "track": "Beegie Adair - Our Love Is Here to Stay",
+    "length": 215,
+    "duration": 215,
+    "started": 1721652781,
+    "type": "track",
+    "track_id": 2665614,
+    "release": "Embraceable You: Romantic Songs of George Gershwin",
+    "art_url": "//cdn-images.audioaddict.com/5/0/d/e/1/e/50de1ee128d666b6222b0d766b6dd6a0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/d/e/1/e/50de1ee128d666b6222b0d766b6dd6a0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Raphael Laffont Quartet",
+    "display_artist": "Raphael Laffont Quartet",
+    "title": "The Way We Were",
+    "display_title": "The Way We Were",
+    "track": "Raphael Laffont Quartet - The Way We Were",
+    "length": 127,
+    "duration": 127,
+    "started": 1721653182,
+    "type": "track",
+    "track_id": 3063943,
+    "release": "Late Night At The Bar",
+    "art_url": "//cdn-images.audioaddict.com/4/d/3/b/b/b/4d3bbb507d5fa6b6fba8012615efb948.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/3/b/b/b/4d3bbb507d5fa6b6fba8012615efb948.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "321Jazz",
+    "display_artist": "321Jazz",
+    "title": "Moonlit Melodies",
+    "display_title": "Moonlit Melodies",
+    "track": "321Jazz - Moonlit Melodies",
+    "length": 250,
+    "duration": 250,
+    "started": 1721653306,
+    "type": "track",
+    "track_id": 3082889,
+    "release": "Midnight Jazz",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Danny Moss",
+    "display_artist": "Danny Moss",
+    "title": "Sugar",
+    "display_title": "Sugar",
+    "track": "Danny Moss - Sugar",
+    "length": 381,
+    "duration": 381,
+    "started": 1721653556,
+    "type": "track",
+    "track_id": 3045462,
+    "release": "Mainstream Giants of Jazz 2007",
+    "art_url": "//cdn-images.audioaddict.com/2/f/d/b/b/4/2fdbb4c917e8d29e0c89400b1d1c6d22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/d/b/b/4/2fdbb4c917e8d29e0c89400b1d1c6d22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Gerry Mulligan Sextet",
+    "display_artist": "Gerry Mulligan Sextet",
+    "title": "Blue At the Roots",
+    "display_title": "Blue At the Roots",
+    "track": "Gerry Mulligan Sextet - Blue At the Roots",
+    "length": 344,
+    "duration": 344,
+    "started": 1721653933,
+    "type": "track",
+    "track_id": 2590271,
+    "release": "Mainstream of Jazz",
+    "art_url": "//cdn-images.audioaddict.com/b/1/3/3/9/8/b1339831ff73670fc97f033adb2fa857.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/1/3/3/9/8/b1339831ff73670fc97f033adb2fa857.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Dave Brubeck Quartet",
+    "display_artist": "The Dave Brubeck Quartet",
+    "title": "Slow And Easy (A.K.A. Lawless Mike)",
+    "display_title": "Slow And Easy (A.K.A. Lawless Mike)",
+    "track": "The Dave Brubeck Quartet - Slow And Easy (A.K.A. Lawless Mike)",
+    "length": 210,
+    "duration": 210,
+    "started": 1721654276,
+    "type": "track",
+    "track_id": 16766,
+    "release": "Time Further Out",
+    "art_url": "//cdn-images.audioaddict.com/0/c/e/b/7/5/0ceb757b90a087867802f8a15f35c1ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/e/b/7/5/0ceb757b90a087867802f8a15f35c1ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Red Garland",
+    "display_artist": "Red Garland",
+    "title": "If I Were a Bell",
+    "display_title": "If I Were a Bell",
+    "track": "Red Garland - If I Were a Bell",
+    "length": 399,
+    "duration": 399,
+    "started": 1721654486,
+    "type": "track",
+    "track_id": 689490,
+    "release": "Red Garland's Piano",
+    "art_url": "//cdn-images.audioaddict.com/f/b/2/2/f/6/fb22f67c213447a9dc0f16ab568a7dff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/b/2/2/f/6/fb22f67c213447a9dc0f16ab568a7dff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Andrea Rongioletti, Roberto Guarino, Alessandro Tomei",
+    "display_artist": "Andrea Rongioletti, Roberto Guarino, Alessandro Tomei",
+    "title": "Dirty Martini",
+    "display_title": "Dirty Martini",
+    "track": "Andrea Rongioletti, Roberto Guarino, Alessandro Tomei - Dirty Martini",
+    "length": 245,
+    "duration": 245,
+    "started": 1721654886,
+    "type": "track",
+    "track_id": 3045000,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/a/5/6/9/d/da569d69942b3c756f3fc073d9bf6650.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/5/6/9/d/da569d69942b3c756f3fc073d9bf6650.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "New York Trio",
+    "display_artist": "New York Trio",
+    "title": "Lower East",
+    "display_title": "Lower East",
+    "track": "New York Trio - Lower East",
+    "length": 156,
+    "duration": 156,
+    "started": 1721655130,
+    "type": "track",
+    "track_id": 3072992,
+    "release": "Wall Art",
+    "art_url": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Pat Coil",
+    "display_artist": "Pat Coil",
+    "title": "Days Of Wine And Roses",
+    "display_title": "Days Of Wine And Roses",
+    "track": "Pat Coil - Days Of Wine And Roses",
+    "length": 252,
+    "duration": 252,
+    "started": 1721655287,
+    "type": "track",
+    "track_id": 3047834,
+    "release": "Java Jazz: A Bold Instrumental Jazz Roast",
+    "art_url": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Pat Coil",
+    "display_artist": "Pat Coil",
+    "title": "Softly As In A Morning Sunrise",
+    "display_title": "Softly As In A Morning Sunrise",
+    "track": "Pat Coil - Softly As In A Morning Sunrise",
+    "length": 199,
+    "duration": 199,
+    "started": 1721655537,
+    "type": "track",
+    "track_id": 3047833,
+    "release": "Java Jazz: A Bold Instrumental Jazz Roast",
+    "art_url": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Mason Embry Trio",
+    "display_artist": "Mason Embry Trio",
+    "title": "Hallelujah, I Love Her So",
+    "display_title": "Hallelujah, I Love Her So",
+    "track": "Mason Embry Trio - Hallelujah, I Love Her So",
+    "length": 172,
+    "duration": 172,
+    "started": 1721655735,
+    "type": "track",
+    "track_id": 895345,
+    "release": "Swingin' on a Star",
+    "art_url": "//cdn-images.audioaddict.com/2/a/7/f/d/0/2a7fd0e7aa6692f078dc939cae47ad3e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/7/f/d/0/2a7fd0e7aa6692f078dc939cae47ad3e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Harry Allen & Hank Jones Trio",
+    "display_artist": "Harry Allen & Hank Jones Trio",
+    "title": "Isn't This a Lovely Day",
+    "display_title": "Isn't This a Lovely Day",
+    "track": "Harry Allen & Hank Jones Trio - Isn't This a Lovely Day",
+    "length": 350,
+    "duration": 350,
+    "started": 1721655907,
+    "type": "track",
+    "track_id": 3077630,
+    "release": "Isn't This a Lovely Day",
+    "art_url": "//cdn-images.audioaddict.com/c/b/f/f/b/1/cbffb1a18de9df4522d6bf355efb6ddb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/f/f/b/1/cbffb1a18de9df4522d6bf355efb6ddb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Carl Winther Trio",
+    "display_artist": "Carl Winther Trio",
+    "title": "Tristar",
+    "display_title": "Tristar",
+    "track": "Carl Winther Trio - Tristar",
+    "length": 235,
+    "duration": 235,
+    "started": 1721656426,
+    "type": "track",
+    "track_id": 3073665,
+    "release": "Emotions",
+    "art_url": "//cdn-images.audioaddict.com/0/5/2/1/2/e/05212eb0867cc79c8c082b8aae009046.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/2/1/2/e/05212eb0867cc79c8c082b8aae009046.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Lenny Marcus",
+    "display_artist": "Lenny Marcus",
+    "title": "Greensleeves",
+    "display_title": "Greensleeves",
+    "track": "Lenny Marcus - Greensleeves",
+    "length": 200,
+    "duration": 200,
+    "started": 1721656660,
+    "type": "track",
+    "track_id": 19595,
+    "release": "Comfort and Joy",
+    "art_url": "//cdn-images.audioaddict.com/1/5/5/3/4/1/1553414b0934b3ec3b3fdd5965aa50c3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/5/3/4/1/1553414b0934b3ec3b3fdd5965aa50c3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Brad Hatfield",
+    "display_artist": "Brad Hatfield",
+    "title": "Walkin With My Baby (Trio)",
+    "display_title": "Walkin With My Baby (Trio)",
+    "track": "Brad Hatfield - Walkin With My Baby (Trio)",
+    "length": 225,
+    "duration": 225,
+    "started": 1721656853,
+    "type": "track",
+    "track_id": 3070211,
+    "release": "Straight Up: Jazz and Cocktails, Vol. 8",
+    "art_url": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "David Sills",
+    "display_artist": "David Sills",
+    "title": "'Tis Autumn",
+    "display_title": "'Tis Autumn",
+    "track": "David Sills - 'Tis Autumn",
+    "length": 389,
+    "duration": 389,
+    "started": 1721657078,
+    "type": "track",
+    "track_id": 589554,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/4/2/0/f/96420fa88e3b099d03818431078b8753.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/4/2/0/f/96420fa88e3b099d03818431078b8753.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Mason Embry Trio",
+    "display_artist": "The Mason Embry Trio",
+    "title": "Wives And Lovers",
+    "display_title": "Wives And Lovers",
+    "track": "The Mason Embry Trio - Wives And Lovers",
+    "length": 213,
+    "duration": 213,
+    "started": 1721657467,
+    "type": "track",
+    "track_id": 3045744,
+    "release": "Swingin' On a Star: A Jazz Piano Tribute to Classic Crooners of the 20th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Brad Hatfield",
+    "display_artist": "Brad Hatfield",
+    "title": "Walkin With My Baby (feat. Mike Monaghan)",
+    "display_title": "Walkin With My Baby (feat. Mike Monaghan)",
+    "track": "Brad Hatfield - Walkin With My Baby (feat. Mike Monaghan)",
+    "length": 309,
+    "duration": 309,
+    "started": 1721657677,
+    "type": "track",
+    "track_id": 3070207,
+    "release": "Straight Up: Jazz and Cocktails, Vol. 8",
+    "art_url": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Pat Coil",
+    "display_artist": "Pat Coil",
+    "title": "The Look Of Love",
+    "display_title": "The Look Of Love",
+    "track": "Pat Coil - The Look Of Love",
+    "length": 235,
+    "duration": 235,
+    "started": 1721657987,
+    "type": "track",
+    "track_id": 3047831,
+    "release": "Java Jazz: A Bold Instrumental Jazz Roast",
+    "art_url": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Scott Hamilton",
+    "display_artist": "Scott Hamilton",
+    "title": "The Look Of Love (Album Version)",
+    "display_title": "The Look Of Love (Album Version)",
+    "track": "Scott Hamilton - The Look Of Love (Album Version)",
+    "length": 311,
+    "duration": 311,
+    "started": 1721658367,
+    "type": "track",
+    "track_id": 3081085,
+    "release": "Cocktail Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Pat Coil",
+    "display_artist": "Pat Coil",
+    "title": "Here's That Rainy Day",
+    "display_title": "Here's That Rainy Day",
+    "track": "Pat Coil - Here's That Rainy Day",
+    "length": 198,
+    "duration": 198,
+    "started": 1721658890,
+    "type": "track",
+    "track_id": 3047835,
+    "release": "Java Jazz: A Bold Instrumental Jazz Roast",
+    "art_url": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "You're The Cream In My Coffee",
+    "display_title": "You're The Cream In My Coffee",
+    "track": "The Jeff Steinberg Jazz Ensemble - You're The Cream In My Coffee",
+    "length": 250,
+    "duration": 250,
+    "started": 1721659086,
+    "type": "track",
+    "track_id": 3047798,
+    "release": "Jazz Blends",
+    "art_url": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Emily Remler",
+    "display_artist": "Emily Remler",
+    "title": "Strollin'",
+    "display_title": "Strollin'",
+    "track": "Emily Remler - Strollin'",
+    "length": 328,
+    "duration": 328,
+    "started": 1721659333,
+    "type": "track",
+    "track_id": 785213,
+    "release": "Firefly",
+    "art_url": "//cdn-images.audioaddict.com/e/e/c/0/0/2/eec002efe26b4cab781887fbc1d936f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/c/0/0/2/eec002efe26b4cab781887fbc1d936f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Brad Hatfield",
+    "display_artist": "Brad Hatfield",
+    "title": "Whirling Waltz (feat. Bob Bowlby)",
+    "display_title": "Whirling Waltz (feat. Bob Bowlby)",
+    "track": "Brad Hatfield - Whirling Waltz (feat. Bob Bowlby)",
+    "length": 200,
+    "duration": 200,
+    "started": 1721659660,
+    "type": "track",
+    "track_id": 3070208,
+    "release": "Straight Up: Jazz and Cocktails, Vol. 8",
+    "art_url": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Bengt Hallberg",
+    "display_artist": "Bengt Hallberg",
+    "title": "Lazy Bouncer",
+    "display_title": "Lazy Bouncer",
+    "track": "Bengt Hallberg - Lazy Bouncer",
+    "length": 192,
+    "duration": 192,
+    "started": 1721659861,
+    "type": "track",
+    "track_id": 3046763,
+    "release": "Swedish Jazz Masters: Cool Sweden - Classic, Mellow and Modal Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/f/5/e/d/4/df5ed40bff2224dbd5f563d5405d768c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/5/e/d/4/df5ed40bff2224dbd5f563d5405d768c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "New York Trio Feat. Coffee Machine",
+    "display_artist": "New York Trio Feat. Coffee Machine",
+    "title": "Subway",
+    "display_title": "Subway",
+    "track": "New York Trio Feat. Coffee Machine - Subway",
+    "length": 137,
+    "duration": 137,
+    "started": 1721660052,
+    "type": "track",
+    "track_id": 3072990,
+    "release": "Wall Art",
+    "art_url": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Martin Sasse",
+    "display_artist": "Martin Sasse",
+    "title": "F.S.R. (For Sonny Rollins)",
+    "display_title": "F.S.R. (For Sonny Rollins)",
+    "track": "Martin Sasse - F.S.R. (For Sonny Rollins)",
+    "length": 218,
+    "duration": 218,
+    "started": 1721660190,
+    "type": "track",
+    "track_id": 3008730,
+    "release": "Trio Standards, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/8/d/4/a/f/4/8d4af4f1b88775745c9eb9025b07c734.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/4/a/f/4/8d4af4f1b88775745c9eb9025b07c734.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Sonny Clark",
+    "display_artist": "Sonny Clark",
+    "title": "Softly as in a Morning Sunrise",
+    "display_title": "Softly as in a Morning Sunrise",
+    "track": "Sonny Clark - Softly as in a Morning Sunrise",
+    "length": 393,
+    "duration": 393,
+    "started": 1721705826,
+    "type": "track",
+    "track_id": 77788,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/a/1/1/77da114e8f206e9740a818c4d70ca2db.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/a/1/1/77da114e8f206e9740a818c4d70ca2db.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Dancing in the Dark",
+    "display_title": "Dancing in the Dark",
+    "track": "Beegie Adair - Dancing in the Dark",
+    "length": 217,
+    "duration": 217,
+    "started": 1721706217,
+    "type": "track",
+    "track_id": 3045265,
+    "release": "I'll Take Romance",
+    "art_url": "//cdn-images.audioaddict.com/6/a/e/7/1/d/6ae71d3912d8dd8f760699acbaa616c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/e/7/1/d/6ae71d3912d8dd8f760699acbaa616c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "Moon and Sand",
+    "display_title": "Moon and Sand",
+    "track": "Eddie Higgins Trio - Moon and Sand",
+    "length": 196,
+    "duration": 196,
+    "started": 1721706600,
+    "type": "track",
+    "track_id": 3045461,
+    "release": "If Dreams Come True",
+    "art_url": "//cdn-images.audioaddict.com/d/5/6/2/2/9/d5622976b6e529e9c55882ecef6f7497.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/6/2/2/9/d5622976b6e529e9c55882ecef6f7497.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "Teach Me Tonight",
+    "display_title": "Teach Me Tonight",
+    "track": "The Jeff Steinberg Jazz Ensemble - Teach Me Tonight",
+    "length": 233,
+    "duration": 233,
+    "started": 1721706791,
+    "type": "track",
+    "track_id": 3047801,
+    "release": "Jazz Blends",
+    "art_url": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "But Not for Me",
+    "display_title": "But Not for Me",
+    "track": "Beegie Adair - But Not for Me",
+    "length": 216,
+    "duration": 216,
+    "started": 1721707022,
+    "type": "track",
+    "track_id": 3088638,
+    "release": "Embraceable You: Romantic Songs of George Gershwin",
+    "art_url": "//cdn-images.audioaddict.com/5/0/d/e/1/e/50de1ee128d666b6222b0d766b6dd6a0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/d/e/1/e/50de1ee128d666b6222b0d766b6dd6a0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tsuyoshi Yamamoto Trio",
+    "display_artist": "Tsuyoshi Yamamoto Trio",
+    "title": "My One And Only Love",
+    "display_title": "My One And Only Love",
+    "track": "Tsuyoshi Yamamoto Trio - My One And Only Love",
+    "length": 400,
+    "duration": 400,
+    "started": 1721707235,
+    "type": "track",
+    "track_id": 3045827,
+    "release": "Falling In Love With Love",
+    "art_url": "//cdn-images.audioaddict.com/4/e/3/1/5/5/4e3155bb5c9bba909441ce01ed99335d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/3/1/5/5/4e3155bb5c9bba909441ce01ed99335d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ron Carter Trio",
+    "display_artist": "Ron Carter Trio",
+    "title": "Mr. Bow-Tie",
+    "display_title": "Mr. Bow-Tie",
+    "track": "Ron Carter Trio - Mr. Bow-Tie",
+    "length": 577,
+    "duration": 577,
+    "started": 1721707632,
+    "type": "track",
+    "track_id": 3054474,
+    "release": "Cocktails at the Cotton Club",
+    "art_url": "//cdn-images.audioaddict.com/7/6/a/b/7/9/76ab795b8a92332024538c642c34dee3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/a/b/7/9/76ab795b8a92332024538c642c34dee3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Scott Hamilton",
+    "display_artist": "Scott Hamilton",
+    "title": "Flamingo",
+    "display_title": "Flamingo",
+    "track": "Scott Hamilton - Flamingo",
+    "length": 455,
+    "duration": 455,
+    "started": 1721708208,
+    "type": "track",
+    "track_id": 2417403,
+    "release": "Nocturnes & Serenades",
+    "art_url": "//cdn-images.audioaddict.com/c/4/0/7/a/e/c407ae09b6dfa1894d4de4facb0806b2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/0/7/a/e/c407ae09b6dfa1894d4de4facb0806b2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Manhattan (feat. Denis Solee)",
+    "display_title": "Manhattan (feat. Denis Solee)",
+    "track": "Beegie Adair - Manhattan (feat. Denis Solee)",
+    "length": 204,
+    "duration": 204,
+    "started": 1721708663,
+    "type": "track",
+    "track_id": 3047763,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Some Enchanted Evening (feat. Jack Jezzro)",
+    "display_title": "Some Enchanted Evening (feat. Jack Jezzro)",
+    "track": "Beegie Adair - Some Enchanted Evening (feat. Jack Jezzro)",
+    "length": 275,
+    "duration": 275,
+    "started": 1721708864,
+    "type": "track",
+    "track_id": 3047762,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Heywood",
+    "display_artist": "Eddie Heywood",
+    "title": "Secret Love",
+    "display_title": "Secret Love",
+    "track": "Eddie Heywood - Secret Love",
+    "length": 183,
+    "duration": 183,
+    "started": 1721709137,
+    "type": "track",
+    "track_id": 2991,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/7/c/e/d/f/f7cedf82c3065c5c2a41eb40f99fa2d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/c/e/d/f/f7cedf82c3065c5c2a41eb40f99fa2d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Green Hill All Stars feat: Leif Shires",
+    "display_artist": "Green Hill All Stars feat: Leif Shires",
+    "title": "Moondance",
+    "display_title": "Moondance",
+    "track": "Green Hill All Stars feat: Leif Shires - Moondance",
+    "length": 269,
+    "duration": 269,
+    "started": 1721709319,
+    "type": "track",
+    "track_id": 3045269,
+    "release": "Cocktail Lounge: Easy Jazz 70s",
+    "art_url": "//cdn-images.audioaddict.com/4/b/1/0/9/c/4b109c1307be0f6231110108276f6251.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/1/0/9/c/4b109c1307be0f6231110108276f6251.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Jack Jezzro",
+    "display_artist": "Jack Jezzro",
+    "title": "Christina",
+    "display_title": "Christina",
+    "track": "Jack Jezzro - Christina",
+    "length": 258,
+    "duration": 258,
+    "started": 1721709584,
+    "type": "track",
+    "track_id": 3025196,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/1/b/5/7/c/81b57c72839ef7f35b926178260d4991.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/b/5/7/c/81b57c72839ef7f35b926178260d4991.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Horace Parlan",
+    "display_artist": "Horace Parlan",
+    "title": "Come Rain Or Come Shine",
+    "display_title": "Come Rain Or Come Shine",
+    "track": "Horace Parlan - Come Rain Or Come Shine",
+    "length": 379,
+    "duration": 379,
+    "started": 1721730883,
+    "type": "track",
+    "track_id": 11686,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/2/2/6/c/b/9226cb8c6e336c7e36391aae133bdbd3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/2/6/c/b/9226cb8c6e336c7e36391aae133bdbd3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Hazel Scott",
+    "display_artist": "Hazel Scott",
+    "title": "Git Up from There",
+    "display_title": "Git Up from There",
+    "track": "Hazel Scott - Git Up from There",
+    "length": 269,
+    "duration": 269,
+    "started": 1721731262,
+    "type": "track",
+    "track_id": 3049654,
+    "release": "Relaxed Piano Moods 'Round Midnight",
+    "art_url": "//cdn-images.audioaddict.com/b/c/4/2/e/d/bc42ede7fe20fa69f82464c24ec8097c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/4/2/e/d/bc42ede7fe20fa69f82464c24ec8097c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Wynton Kelly",
+    "display_artist": "Wynton Kelly",
+    "title": "Blue Moon",
+    "display_title": "Blue Moon",
+    "track": "Wynton Kelly - Blue Moon",
+    "length": 191,
+    "duration": 191,
+    "started": 1721731529,
+    "type": "track",
+    "track_id": 3048219,
+    "release": "Quiet, Please",
+    "art_url": "//cdn-images.audioaddict.com/e/3/8/2/9/3/e382939a8f8d133659095bb2e0f65b92.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/8/2/9/3/e382939a8f8d133659095bb2e0f65b92.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "New York Trio",
+    "display_artist": "New York Trio",
+    "title": "Makeover",
+    "display_title": "Makeover",
+    "track": "New York Trio - Makeover",
+    "length": 138,
+    "duration": 138,
+    "started": 1721732613,
+    "type": "track",
+    "track_id": 3072996,
+    "release": "Wall Art",
+    "art_url": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "New York Trio Feat. Café Titi",
+    "display_artist": "New York Trio Feat. Café Titi",
+    "title": "Wall Art",
+    "display_title": "Wall Art",
+    "track": "New York Trio Feat. Café Titi - Wall Art",
+    "length": 157,
+    "duration": 157,
+    "started": 1721733016,
+    "type": "track",
+    "track_id": 3072988,
+    "release": "Wall Art",
+    "art_url": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Denny Zaitlin Trio",
+    "display_artist": "Denny Zaitlin Trio",
+    "title": "Triste",
+    "display_title": "Triste",
+    "track": "Denny Zaitlin Trio - Triste",
+    "length": 232,
+    "duration": 232,
+    "started": 1721733342,
+    "type": "track",
+    "track_id": 3067652,
+    "release": "Venus Jazz Bossa Cafe [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/b/e/0/9/f/3/be09f3ce2f93eda12b88e657a57968cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/0/9/f/3/be09f3ce2f93eda12b88e657a57968cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson",
+    "display_artist": "Oscar Peterson",
+    "title": "Night and Day",
+    "display_title": "Night and Day",
+    "track": "Oscar Peterson - Night and Day",
+    "length": 154,
+    "duration": 154,
+    "started": 1721733572,
+    "type": "track",
+    "track_id": 57127,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/e/2/e/9/cbe2e9c8590dc6317e7e9da3fe9973f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/e/2/e/9/cbe2e9c8590dc6317e7e9da3fe9973f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Heather O'Day",
+    "display_artist": "Heather O'Day",
+    "title": "Tereza My Love",
+    "display_title": "Tereza My Love",
+    "track": "Heather O'Day - Tereza My Love",
+    "length": 206,
+    "duration": 206,
+    "started": 1721733722,
+    "type": "track",
+    "track_id": 9415,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/f/f/b/a/9/9ffba9d5d9f2ad8edf643c744272fb98.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/f/b/a/9/9ffba9d5d9f2ad8edf643c744272fb98.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Paul Kuhn",
+    "display_artist": "Paul Kuhn",
+    "title": "Lulu's Back In Town",
+    "display_title": "Lulu's Back In Town",
+    "track": "Paul Kuhn - Lulu's Back In Town",
+    "length": 190,
+    "duration": 190,
+    "started": 1721734296,
+    "type": "track",
+    "track_id": 49680,
+    "release": "Blame It on My Youth",
+    "art_url": "//cdn-images.audioaddict.com/f/e/c/3/c/1/fec3c14a97ff817e1af0e6f5084a257f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/e/c/3/c/1/fec3c14a97ff817e1af0e6f5084a257f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Herb Ellis & Ray Brown",
+    "display_artist": "Herb Ellis & Ray Brown",
+    "title": "Inka Dinka Do",
+    "display_title": "Inka Dinka Do",
+    "track": "Herb Ellis & Ray Brown - Inka Dinka Do",
+    "length": 293,
+    "duration": 293,
+    "started": 1721734843,
+    "type": "track",
+    "track_id": 3081084,
+    "release": "Cocktail Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Miles Davis Sextet",
+    "display_artist": "The Miles Davis Sextet",
+    "title": "Stella By Starlight",
+    "display_title": "Stella By Starlight",
+    "track": "The Miles Davis Sextet - Stella By Starlight",
+    "length": 283,
+    "duration": 283,
+    "started": 1721735810,
+    "type": "track",
+    "track_id": 3054478,
+    "release": "The Miles Davis Quintet & Sextet",
+    "art_url": "//cdn-images.audioaddict.com/4/e/7/a/8/9/4e7a89b82d59b64b433f6cc21d7207fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/7/a/8/9/4e7a89b82d59b64b433f6cc21d7207fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Mimi Fox",
+    "display_artist": "Mimi Fox",
+    "title": "But Beautiful",
+    "display_title": "But Beautiful",
+    "track": "Mimi Fox - But Beautiful",
+    "length": 386,
+    "duration": 386,
+    "started": 1721736093,
+    "type": "track",
+    "track_id": 3054624,
+    "release": "Perpetually Hip",
+    "art_url": "//cdn-images.audioaddict.com/b/9/e/e/9/6/b9ee96ce2a9dd8a4b0ae759271095d33.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/e/e/9/6/b9ee96ce2a9dd8a4b0ae759271095d33.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Sweet Lorraine",
+    "display_title": "Sweet Lorraine",
+    "track": "Beegie Adair - Sweet Lorraine",
+    "length": 192,
+    "duration": 192,
+    "started": 1721737215,
+    "type": "track",
+    "track_id": 350420,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/1/6/0/7/e/21607e9271b74ace3b3f351053ba78e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/6/0/7/e/21607e9271b74ace3b3f351053ba78e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Mason Embry Trio",
+    "display_artist": "The Mason Embry Trio",
+    "title": "On The Street Where You Live",
+    "display_title": "On The Street Where You Live",
+    "track": "The Mason Embry Trio - On The Street Where You Live",
+    "length": 265,
+    "duration": 265,
+    "started": 1721738023,
+    "type": "track",
+    "track_id": 3045745,
+    "release": "Swingin' On a Star: A Jazz Piano Tribute to Classic Crooners of the 20th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "Moonlight Becomes You",
+    "display_title": "Moonlight Becomes You",
+    "track": "Eddie Higgins Trio - Moonlight Becomes You",
+    "length": 306,
+    "duration": 306,
+    "started": 1721738284,
+    "type": "track",
+    "track_id": 3045275,
+    "release": "Dear Old Stockholm -Bonus CD 첨부-",
+    "art_url": "//cdn-images.audioaddict.com/0/0/a/2/c/f/00a2cfe3774d8423a92f367da85ffff5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/a/2/c/f/00a2cfe3774d8423a92f367da85ffff5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "I Get A Kick Out Of You",
+    "display_title": "I Get A Kick Out Of You",
+    "track": "Oscar Peterson Trio - I Get A Kick Out Of You",
+    "length": 180,
+    "duration": 180,
+    "started": 1721738754,
+    "type": "track",
+    "track_id": 3048397,
+    "release": "The Complete Cole Porter Songbooks",
+    "art_url": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "You Stepped Out Of A Dream",
+    "display_title": "You Stepped Out Of A Dream",
+    "track": "The Jeff Steinberg Jazz Ensemble - You Stepped Out Of A Dream",
+    "length": 227,
+    "duration": 227,
+    "started": 1721738932,
+    "type": "track",
+    "track_id": 3047800,
+    "release": "Jazz Blends",
+    "art_url": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tommy Flanagan",
+    "display_artist": "Tommy Flanagan",
+    "title": "Change Partners (Take 2)",
+    "display_title": "Change Partners (Take 2)",
+    "track": "Tommy Flanagan - Change Partners (Take 2)",
+    "length": 411,
+    "duration": 411,
+    "started": 1721739458,
+    "type": "track",
+    "track_id": 3048459,
+    "release": "The Magnificent Tommy Flanagan",
+    "art_url": "//cdn-images.audioaddict.com/c/2/6/1/b/8/c261b88f11e60741a36e64020117a544.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/6/1/b/8/c261b88f11e60741a36e64020117a544.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Cal Tjader",
+    "display_artist": "Cal Tjader",
+    "title": "It Never Entered My Mind",
+    "display_title": "It Never Entered My Mind",
+    "track": "Cal Tjader - It Never Entered My Mind",
+    "length": 221,
+    "duration": 221,
+    "started": 1721740805,
+    "type": "track",
+    "track_id": 31792,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/9/9/9/4/9/6999497822ad38f4cd32768faf54a05d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/9/9/4/9/6999497822ad38f4cd32768faf54a05d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Howard Alden",
+    "display_artist": "Howard Alden",
+    "title": "Strictly Confidential",
+    "display_title": "Strictly Confidential",
+    "track": "Howard Alden - Strictly Confidential",
+    "length": 267,
+    "duration": 267,
+    "started": 1721741022,
+    "type": "track",
+    "track_id": 3081081,
+    "release": "Cocktail Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Herb Ellis & The Ray Brown Sextet",
+    "display_artist": "Herb Ellis & The Ray Brown Sextet",
+    "title": "Sweetback",
+    "display_title": "Sweetback",
+    "track": "Herb Ellis & The Ray Brown Sextet - Sweetback",
+    "length": 265,
+    "duration": 265,
+    "started": 1721741927,
+    "type": "track",
+    "track_id": 3081080,
+    "release": "Cocktail Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "Smooth Operator",
+    "display_title": "Smooth Operator",
+    "track": "The Jeff Steinberg Jazz Ensemble - Smooth Operator",
+    "length": 248,
+    "duration": 248,
+    "started": 1721742771,
+    "type": "track",
+    "track_id": 3059026,
+    "release": "Cocktail Lounge: Easy Jazz 80s",
+    "art_url": "//cdn-images.audioaddict.com/c/6/a/1/1/9/c6a1195810b2ee0804ef40cff428e07a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/a/1/1/9/c6a1195810b2ee0804ef40cff428e07a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Green Hill All Stars feat: Leif Shires",
+    "display_artist": "Green Hill All Stars feat: Leif Shires",
+    "title": "Just The Way You Are",
+    "display_title": "Just The Way You Are",
+    "track": "Green Hill All Stars feat: Leif Shires - Just The Way You Are",
+    "length": 264,
+    "duration": 264,
+    "started": 1721743014,
+    "type": "track",
+    "track_id": 3045268,
+    "release": "Cocktail Lounge: Easy Jazz 70s",
+    "art_url": "//cdn-images.audioaddict.com/4/b/1/0/9/c/4b109c1307be0f6231110108276f6251.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/1/0/9/c/4b109c1307be0f6231110108276f6251.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Keith Jarrett",
+    "display_artist": "Keith Jarrett",
+    "title": "Blackberry Winter (Take 9)",
+    "display_title": "Blackberry Winter (Take 9)",
+    "track": "Keith Jarrett - Blackberry Winter (Take 9)",
+    "length": 217,
+    "duration": 217,
+    "started": 1721743274,
+    "type": "track",
+    "track_id": 3046762,
+    "release": "Mellow Jazz Jams",
+    "art_url": "//cdn-images.audioaddict.com/a/4/9/0/a/d/a490ad39ac4b83dfbb65becbf1f060a2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/9/0/a/d/a490ad39ac4b83dfbb65becbf1f060a2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Kenny Drew",
+    "display_artist": "Kenny Drew",
+    "title": "I Could Write a Book",
+    "display_title": "I Could Write a Book",
+    "track": "Kenny Drew - I Could Write a Book",
+    "length": 281,
+    "duration": 281,
+    "started": 1721743792,
+    "type": "track",
+    "track_id": 2825432,
+    "release": "I Love Jerome Kern + Jazz Impressions of Pal Joey",
+    "art_url": "//cdn-images.audioaddict.com/d/e/c/6/e/4/dec6e4abf09305aec9417db9bd2bb40b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/c/6/e/4/dec6e4abf09305aec9417db9bd2bb40b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Teddy Wilson",
+    "display_artist": "Teddy Wilson",
+    "title": "Moonglow",
+    "display_title": "Moonglow",
+    "track": "Teddy Wilson - Moonglow",
+    "length": 229,
+    "duration": 229,
+    "started": 1721744423,
+    "type": "track",
+    "track_id": 3045747,
+    "release": "The Greatest Jazz Piano",
+    "art_url": "//cdn-images.audioaddict.com/5/e/f/3/6/c/5ef36cb3949976eb245b888e76a7b0d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/f/3/6/c/5ef36cb3949976eb245b888e76a7b0d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tommy Flanagan Trio",
+    "display_artist": "Tommy Flanagan Trio",
+    "title": "In the Blue of the Evening",
+    "display_title": "In the Blue of the Evening",
+    "track": "Tommy Flanagan Trio - In the Blue of the Evening",
+    "length": 224,
+    "duration": 224,
+    "started": 1721745419,
+    "type": "track",
+    "track_id": 3048217,
+    "release": "The Tommy Flanagan Trio",
+    "art_url": "//cdn-images.audioaddict.com/d/e/8/b/2/b/de8b2b2cf895a3452c51b3623fb2e3d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/8/b/2/b/de8b2b2cf895a3452c51b3623fb2e3d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson",
+    "display_artist": "Oscar Peterson",
+    "title": "Eleanor Rigby (Remastered)",
+    "display_title": "Eleanor Rigby (Remastered)",
+    "track": "Oscar Peterson - Eleanor Rigby (Remastered)",
+    "length": 185,
+    "duration": 185,
+    "started": 1721745639,
+    "type": "track",
+    "track_id": 3049805,
+    "release": "The Best of the MPS Years (Remastered)",
+    "art_url": "//cdn-images.audioaddict.com/d/0/0/c/5/f/d00c5fff471ea650cf9be734319738b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/0/c/5/f/d00c5fff471ea650cf9be734319738b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "If You Could See Me Now",
+    "display_title": "If You Could See Me Now",
+    "track": "Eddie Higgins Trio - If You Could See Me Now",
+    "length": 330,
+    "duration": 330,
+    "started": 1721745825,
+    "type": "track",
+    "track_id": 3045277,
+    "release": "Dear Old Stockholm -Bonus CD 첨부-",
+    "art_url": "//cdn-images.audioaddict.com/0/0/a/2/c/f/00a2cfe3774d8423a92f367da85ffff5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/a/2/c/f/00a2cfe3774d8423a92f367da85ffff5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "321Jazz",
+    "display_artist": "321Jazz",
+    "title": "Mellow Moments",
+    "display_title": "Mellow Moments",
+    "track": "321Jazz - Mellow Moments",
+    "length": 228,
+    "duration": 228,
+    "started": 1721746151,
+    "type": "track",
+    "track_id": 3082888,
+    "release": "Midnight Jazz",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tsuyoshi Yamamoto",
+    "display_artist": "Tsuyoshi Yamamoto",
+    "title": "Misty",
+    "display_title": "Misty",
+    "track": "Tsuyoshi Yamamoto - Misty",
+    "length": 561,
+    "duration": 561,
+    "started": 1721746704,
+    "type": "track",
+    "track_id": 97628,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/b/d/1/3/6/bbd136fba74b0b02f09bd024325e4e98.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/d/1/3/6/bbd136fba74b0b02f09bd024325e4e98.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Paul Desmond",
+    "display_artist": "Paul Desmond",
+    "title": "Poor Butterfly",
+    "display_title": "Poor Butterfly",
+    "track": "Paul Desmond - Poor Butterfly",
+    "length": 436,
+    "duration": 436,
+    "started": 1721748351,
+    "type": "track",
+    "track_id": 732429,
+    "release": "The Complete RCA Victor Record",
+    "art_url": "//cdn-images.audioaddict.com/9/b/4/9/b/8/9b49b8f8d13326011cf56ee5f0423aba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/4/9/b/8/9b49b8f8d13326011cf56ee5f0423aba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tsuyoshi Yamamoto Trio",
+    "display_artist": "Tsuyoshi Yamamoto Trio",
+    "title": "Estate",
+    "display_title": "Estate",
+    "track": "Tsuyoshi Yamamoto Trio - Estate",
+    "length": 251,
+    "duration": 251,
+    "started": 1721748787,
+    "type": "track",
+    "track_id": 3045828,
+    "release": "Falling In Love With Love",
+    "art_url": "//cdn-images.audioaddict.com/4/e/3/1/5/5/4e3155bb5c9bba909441ce01ed99335d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/3/1/5/5/4e3155bb5c9bba909441ce01ed99335d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson",
+    "display_artist": "Oscar Peterson",
+    "title": "Wandering (Remastered)",
+    "display_title": "Wandering (Remastered)",
+    "track": "Oscar Peterson - Wandering (Remastered)",
+    "length": 174,
+    "duration": 174,
+    "started": 1721749690,
+    "type": "track",
+    "track_id": 3049804,
+    "release": "The Best of the MPS Years (Remastered)",
+    "art_url": "//cdn-images.audioaddict.com/d/0/0/c/5/f/d00c5fff471ea650cf9be734319738b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/0/c/5/f/d00c5fff471ea650cf9be734319738b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Gerry Gibbs",
+    "display_artist": "Gerry Gibbs",
+    "title": "Wives And Lovers",
+    "display_title": "Wives And Lovers",
+    "track": "Gerry Gibbs - Wives And Lovers",
+    "length": 366,
+    "duration": 366,
+    "started": 1721750115,
+    "type": "track",
+    "track_id": 1020221,
+    "release": "Live In Studio",
+    "art_url": "//cdn-images.audioaddict.com/c/1/1/d/6/f/c11d6f8bb87fa5dcb4b319b7b2ca3745.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/1/1/d/6/f/c11d6f8bb87fa5dcb4b319b7b2ca3745.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "Easy To Love",
+    "display_title": "Easy To Love",
+    "track": "Oscar Peterson Trio - Easy To Love",
+    "length": 158,
+    "duration": 158,
+    "started": 1721751291,
+    "type": "track",
+    "track_id": 3048395,
+    "release": "The Complete Cole Porter Songbooks",
+    "art_url": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "So Near and yet so Far",
+    "display_title": "So Near and yet so Far",
+    "track": "Oscar Peterson Trio - So Near and yet so Far",
+    "length": 201,
+    "duration": 201,
+    "started": 1721751445,
+    "type": "track",
+    "track_id": 3048399,
+    "release": "The Complete Cole Porter Songbooks",
+    "art_url": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/c/4/6/d/b3c46dd74aca062452b6f93bb063c839.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Jazz Followers",
+    "display_artist": "Jazz Followers",
+    "title": "80 Years and Counting",
+    "display_title": "80 Years and Counting",
+    "track": "Jazz Followers - 80 Years and Counting",
+    "length": 231,
+    "duration": 231,
+    "started": 1721751855,
+    "type": "track",
+    "track_id": 3047828,
+    "release": "Saxophone Jazz, Instrumental Jazz",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/a/4/8/823a48551edeccba116232b604240be4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/a/4/8/823a48551edeccba116232b604240be4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "That Old Black Magic",
+    "display_title": "That Old Black Magic",
+    "track": "The Jeff Steinberg Jazz Ensemble - That Old Black Magic",
+    "length": 228,
+    "duration": 228,
+    "started": 1721752085,
+    "type": "track",
+    "track_id": 3045102,
+    "release": "Jazz Blends",
+    "art_url": "//cdn-images.audioaddict.com/a/0/c/9/c/4/a0c9c4747bcc0c2b71e53d236f7adead.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/c/9/c/4/a0c9c4747bcc0c2b71e53d236f7adead.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "You Must Believe in Spring",
+    "display_title": "You Must Believe in Spring",
+    "track": "Eddie Higgins Trio - You Must Believe in Spring",
+    "length": 306,
+    "duration": 306,
+    "started": 1721752313,
+    "type": "track",
+    "track_id": 796935,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/7/7/e/0/3/e77e03ef4bdd5525f39343075c4b8ffe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/7/7/e/0/3/e77e03ef4bdd5525f39343075c4b8ffe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Jimmy Bruno",
+    "display_artist": "Jimmy Bruno",
+    "title": "Witch Craft (Album Version)",
+    "display_title": "Witch Craft (Album Version)",
+    "track": "Jimmy Bruno - Witch Craft (Album Version)",
+    "length": 275,
+    "duration": 275,
+    "started": 1721753246,
+    "type": "track",
+    "track_id": 3081082,
+    "release": "Cocktail Jazz",
+    "art_url": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/b/5/8/9/d4b5891de82162177feed0b3830515d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ralph Sharon",
+    "display_artist": "Ralph Sharon",
+    "title": "It's Only a Paper Moon",
+    "display_title": "It's Only a Paper Moon",
+    "track": "Ralph Sharon - It's Only a Paper Moon",
+    "length": 154,
+    "duration": 154,
+    "started": 1721753520,
+    "type": "track",
+    "track_id": 2236681,
+    "release": "Portrait of Harold",
+    "art_url": "//cdn-images.audioaddict.com/5/d/5/c/e/1/5d5ce12639ca12dc60933286421abf5d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/d/5/c/e/1/5d5ce12639ca12dc60933286421abf5d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "You Make Me Feel So Young",
+    "display_title": "You Make Me Feel So Young",
+    "track": "Beegie Adair - You Make Me Feel So Young",
+    "length": 206,
+    "duration": 206,
+    "started": 1721753950,
+    "type": "track",
+    "track_id": 3045095,
+    "release": "Swingin' With Sinatra",
+    "art_url": "//cdn-images.audioaddict.com/6/2/0/f/c/2/620fc289cc83da8099ee6d859b0a43d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/0/f/c/2/620fc289cc83da8099ee6d859b0a43d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "What's New",
+    "display_title": "What's New",
+    "track": "Beegie Adair - What's New",
+    "length": 248,
+    "duration": 248,
+    "started": 1721754156,
+    "type": "track",
+    "track_id": 3045264,
+    "release": "I'll Take Romance",
+    "art_url": "//cdn-images.audioaddict.com/6/a/e/7/1/d/6ae71d3912d8dd8f760699acbaa616c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/e/7/1/d/6ae71d3912d8dd8f760699acbaa616c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Dave Brubeck Quartet",
+    "display_artist": "The Dave Brubeck Quartet",
+    "title": "Take Five",
+    "display_title": "Take Five",
+    "track": "The Dave Brubeck Quartet - Take Five",
+    "length": 323,
+    "duration": 323,
+    "started": 1721754401,
+    "type": "track",
+    "track_id": 294530,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/7/c/8/a/d/17c8ad0f3c43d3057602385944707f97.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/c/8/a/d/17c8ad0f3c43d3057602385944707f97.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Our Love is Here to Stay",
+    "display_title": "Our Love is Here to Stay",
+    "track": "Beegie Adair - Our Love is Here to Stay",
+    "length": 218,
+    "duration": 218,
+    "started": 1721754724,
+    "type": "track",
+    "track_id": 73805,
+    "release": "Embraceable You",
+    "art_url": "//cdn-images.audioaddict.com/f/d/0/a/a/9/fd0aa9956903851a388fc1a28f95f5e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/0/a/a/9/fd0aa9956903851a388fc1a28f95f5e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "New York Trio",
+    "display_artist": "New York Trio",
+    "title": "Colorful",
+    "display_title": "Colorful",
+    "track": "New York Trio - Colorful",
+    "length": 148,
+    "duration": 148,
+    "started": 1721754937,
+    "type": "track",
+    "track_id": 3072991,
+    "release": "Wall Art",
+    "art_url": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/2/2/9/9/0f2299ac67b63b8733a2c4afc6854c0d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ron Carter Trio",
+    "display_artist": "Ron Carter Trio",
+    "title": "Satin Doll",
+    "display_title": "Satin Doll",
+    "track": "Ron Carter Trio - Satin Doll",
+    "length": 384,
+    "duration": 384,
+    "started": 1721755742,
+    "type": "track",
+    "track_id": 3054473,
+    "release": "Cocktails at the Cotton Club",
+    "art_url": "//cdn-images.audioaddict.com/7/6/a/b/7/9/76ab795b8a92332024538c642c34dee3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/a/b/7/9/76ab795b8a92332024538c642c34dee3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Green Hill All Stars feat: Denis Solee",
+    "display_artist": "Green Hill All Stars feat: Denis Solee",
+    "title": "How Sweet It Is (To Be Loved By You)",
+    "display_title": "How Sweet It Is (To Be Loved By You)",
+    "track": "Green Hill All Stars feat: Denis Solee - How Sweet It Is (To Be Loved By You)",
+    "length": 239,
+    "duration": 239,
+    "started": 1721791155,
+    "type": "track",
+    "track_id": 3045270,
+    "release": "Cocktail Lounge: Easy Jazz 70s",
+    "art_url": "//cdn-images.audioaddict.com/4/b/1/0/9/c/4b109c1307be0f6231110108276f6251.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/1/0/9/c/4b109c1307be0f6231110108276f6251.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Mimi Fox",
+    "display_artist": "Mimi Fox",
+    "title": "So Many Stars",
+    "display_title": "So Many Stars",
+    "track": "Mimi Fox - So Many Stars",
+    "length": 279,
+    "duration": 279,
+    "started": 1721791391,
+    "type": "track",
+    "track_id": 3054627,
+    "release": "Perpetually Hip",
+    "art_url": "//cdn-images.audioaddict.com/b/9/e/e/9/6/b9ee96ce2a9dd8a4b0ae759271095d33.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/e/e/9/6/b9ee96ce2a9dd8a4b0ae759271095d33.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Brandee Younger",
+    "display_artist": "Brandee Younger",
+    "title": "Tickled Pink",
+    "display_title": "Tickled Pink",
+    "track": "Brandee Younger - Tickled Pink",
+    "length": 181,
+    "duration": 181,
+    "started": 1721793017,
+    "type": "track",
+    "track_id": 3027798,
+    "release": "Somewhere Different",
+    "art_url": "//cdn-images.audioaddict.com/f/b/1/8/e/1/fb18e1721e9d1aba07d2d48c589a3e78.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/b/1/8/e/1/fb18e1721e9d1aba07d2d48c589a3e78.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Take the \"a\" Train (feat. Denis Solee)",
+    "display_title": "Take the \"a\" Train (feat. Denis Solee)",
+    "track": "Beegie Adair - Take the \"a\" Train (feat. Denis Solee)",
+    "length": 203,
+    "duration": 203,
+    "started": 1721794148,
+    "type": "track",
+    "track_id": 3047767,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Sonny Clark",
+    "display_artist": "Sonny Clark",
+    "title": "Black Velvet",
+    "display_title": "Black Velvet",
+    "track": "Sonny Clark - Black Velvet",
+    "length": 200,
+    "duration": 200,
+    "started": 1721794348,
+    "type": "track",
+    "track_id": 3048222,
+    "release": "Blues In The Night",
+    "art_url": "//cdn-images.audioaddict.com/d/7/5/e/a/b/d75eab0d1ca00c03376fc9403d1f5ced.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/5/e/a/b/d75eab0d1ca00c03376fc9403d1f5ced.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Zoot Sims Sextet",
+    "display_artist": "Zoot Sims Sextet",
+    "title": "Zoot's Suite",
+    "display_title": "Zoot's Suite",
+    "track": "Zoot Sims Sextet - Zoot's Suite",
+    "length": 252,
+    "duration": 252,
+    "started": 1721794548,
+    "type": "track",
+    "track_id": 3049659,
+    "release": "Tenorly",
+    "art_url": "//cdn-images.audioaddict.com/2/3/3/3/4/1/233341f474bd66917ab97e4a359f44bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/3/3/4/1/233341f474bd66917ab97e4a359f44bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "You Make Me Feel So Young",
+    "display_title": "You Make Me Feel So Young",
+    "track": "Oscar Peterson Trio - You Make Me Feel So Young",
+    "length": 158,
+    "duration": 158,
+    "started": 1721795332,
+    "type": "track",
+    "track_id": 3062470,
+    "release": "Oscar Peterson Trio With Ray Brown & Ed Thigpen (1959)",
+    "art_url": "//cdn-images.audioaddict.com/2/1/5/2/b/e/2152be51892ead4c61991b5f7981f04e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/5/2/b/e/2152be51892ead4c61991b5f7981f04e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "The Way You Look Tonight (feat. Denis Solee)",
+    "display_title": "The Way You Look Tonight (feat. Denis Solee)",
+    "track": "Beegie Adair - The Way You Look Tonight (feat. Denis Solee)",
+    "length": 250,
+    "duration": 250,
+    "started": 1721796924,
+    "type": "track",
+    "track_id": 3047761,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "I Left My Heart in San Francisco",
+    "display_title": "I Left My Heart in San Francisco",
+    "track": "Beegie Adair - I Left My Heart in San Francisco",
+    "length": 329,
+    "duration": 329,
+    "started": 1721797171,
+    "type": "track",
+    "track_id": 3045259,
+    "release": "I'll Take Romance",
+    "art_url": "//cdn-images.audioaddict.com/6/a/e/7/1/d/6ae71d3912d8dd8f760699acbaa616c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/e/7/1/d/6ae71d3912d8dd8f760699acbaa616c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "Learning The Blues",
+    "display_title": "Learning The Blues",
+    "track": "Oscar Peterson Trio - Learning The Blues",
+    "length": 218,
+    "duration": 218,
+    "started": 1721797791,
+    "type": "track",
+    "track_id": 3062469,
+    "release": "Oscar Peterson Trio With Ray Brown & Ed Thigpen (1959)",
+    "art_url": "//cdn-images.audioaddict.com/2/1/5/2/b/e/2152be51892ead4c61991b5f7981f04e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/5/2/b/e/2152be51892ead4c61991b5f7981f04e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Toshiko Akiyoshi",
+    "display_artist": "Toshiko Akiyoshi",
+    "title": "Gone With the Wind (Remastered 2017)",
+    "display_title": "Gone With the Wind (Remastered 2017)",
+    "track": "Toshiko Akiyoshi - Gone With the Wind (Remastered 2017)",
+    "length": 154,
+    "duration": 154,
+    "started": 1721798199,
+    "type": "track",
+    "track_id": 3054629,
+    "release": "The Remasters (All Tracks Remastered)",
+    "art_url": "//cdn-images.audioaddict.com/4/d/3/6/a/c/4d36ac4bfd166466dd7871a4a4ce7f68.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/3/6/a/c/4d36ac4bfd166466dd7871a4a4ce7f68.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Pat Coil",
+    "display_artist": "Pat Coil",
+    "title": "Give Me The Simple Life",
+    "display_title": "Give Me The Simple Life",
+    "track": "Pat Coil - Give Me The Simple Life",
+    "length": 189,
+    "duration": 189,
+    "started": 1721798573,
+    "type": "track",
+    "track_id": 3047832,
+    "release": "Java Jazz: A Bold Instrumental Jazz Roast",
+    "art_url": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tsuyoshi Yamamoto Trio",
+    "display_artist": "Tsuyoshi Yamamoto Trio",
+    "title": "Soon It's Gonna Rain",
+    "display_title": "Soon It's Gonna Rain",
+    "track": "Tsuyoshi Yamamoto Trio - Soon It's Gonna Rain",
+    "length": 197,
+    "duration": 197,
+    "started": 1721799258,
+    "type": "track",
+    "track_id": 3045826,
+    "release": "Falling In Love With Love",
+    "art_url": "//cdn-images.audioaddict.com/4/e/3/1/5/5/4e3155bb5c9bba909441ce01ed99335d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/3/1/5/5/4e3155bb5c9bba909441ce01ed99335d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "George Shearing",
+    "display_artist": "George Shearing",
+    "title": "In a Sentimental Mood",
+    "display_title": "In a Sentimental Mood",
+    "track": "George Shearing - In a Sentimental Mood",
+    "length": 161,
+    "duration": 161,
+    "started": 1721800909,
+    "type": "track",
+    "track_id": 90444,
+    "release": "The George Shearing Trio",
+    "art_url": "//cdn-images.audioaddict.com/c/d/6/2/e/7/cd62e7b3dcab4a65ef0925f6e26ed19c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/d/6/2/e/7/cd62e7b3dcab4a65ef0925f6e26ed19c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Joshua Breakstone",
+    "display_artist": "Joshua Breakstone",
+    "title": "Day By Day",
+    "display_title": "Day By Day",
+    "track": "Joshua Breakstone - Day By Day",
+    "length": 315,
+    "duration": 315,
+    "started": 1721801634,
+    "type": "track",
+    "track_id": 992838,
+    "release": "9 by 3",
+    "art_url": "//cdn-images.audioaddict.com/6/b/2/d/9/b/6b2d9b7f7d70531a4535593275be0797.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/2/d/9/b/6b2d9b7f7d70531a4535593275be0797.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Mason Embry Trio",
+    "display_artist": "The Mason Embry Trio",
+    "title": "You Make Me Feel So Young",
+    "display_title": "You Make Me Feel So Young",
+    "track": "The Mason Embry Trio - You Make Me Feel So Young",
+    "length": 182,
+    "duration": 182,
+    "started": 1721803040,
+    "type": "track",
+    "track_id": 3045742,
+    "release": "Swingin' On a Star: A Jazz Piano Tribute to Classic Crooners of the 20th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/c/4/1/9/f1c4196623d64c98d929f7ed35a27830.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Don Friedman Trio",
+    "display_artist": "Don Friedman Trio",
+    "title": "Ruby My Dear",
+    "display_title": "Ruby My Dear",
+    "track": "Don Friedman Trio - Ruby My Dear",
+    "length": 331,
+    "duration": 331,
+    "started": 1721804846,
+    "type": "track",
+    "track_id": 3052977,
+    "release": "Circle Waltz 21C",
+    "art_url": "//cdn-images.audioaddict.com/3/7/1/4/5/c/37145c4db440685fb8df00676a01d0c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/1/4/5/c/37145c4db440685fb8df00676a01d0c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Jaki Byard",
+    "display_artist": "Jaki Byard",
+    "title": "Lush Life",
+    "display_title": "Lush Life",
+    "track": "Jaki Byard - Lush Life",
+    "length": 202,
+    "duration": 202,
+    "started": 1721806621,
+    "type": "track",
+    "track_id": 869942,
+    "release": "Out Front!",
+    "art_url": "//cdn-images.audioaddict.com/d/1/d/3/9/d/d1d39d4971fdf8380ff3a97b3a714a73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/d/3/9/d/d1d39d4971fdf8380ff3a97b3a714a73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Oscar Peterson Trio",
+    "display_artist": "Oscar Peterson Trio",
+    "title": "All Of Me",
+    "display_title": "All Of Me",
+    "track": "Oscar Peterson Trio - All Of Me",
+    "length": 202,
+    "duration": 202,
+    "started": 1721808956,
+    "type": "track",
+    "track_id": 3062468,
+    "release": "Oscar Peterson Trio With Ray Brown & Ed Thigpen (1959)",
+    "art_url": "//cdn-images.audioaddict.com/2/1/5/2/b/e/2152be51892ead4c61991b5f7981f04e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/5/2/b/e/2152be51892ead4c61991b5f7981f04e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Mason Embry Trio",
+    "display_artist": "Mason Embry Trio",
+    "title": "Wives And Lovers",
+    "display_title": "Wives And Lovers",
+    "track": "Mason Embry Trio - Wives And Lovers",
+    "length": 206,
+    "duration": 206,
+    "started": 1721809159,
+    "type": "track",
+    "track_id": 901840,
+    "release": "Swingin' on a Star",
+    "art_url": "//cdn-images.audioaddict.com/2/a/7/f/d/0/2a7fd0e7aa6692f078dc939cae47ad3e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/7/f/d/0/2a7fd0e7aa6692f078dc939cae47ad3e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "All the Way (feat. Denis Solee)",
+    "display_title": "All the Way (feat. Denis Solee)",
+    "track": "Beegie Adair - All the Way (feat. Denis Solee)",
+    "length": 259,
+    "duration": 259,
+    "started": 1721811966,
+    "type": "track",
+    "track_id": 3047769,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Hazel Scott",
+    "display_artist": "Hazel Scott",
+    "title": "Maybe",
+    "display_title": "Maybe",
+    "track": "Hazel Scott - Maybe",
+    "length": 175,
+    "duration": 175,
+    "started": 1721812633,
+    "type": "track",
+    "track_id": 3049652,
+    "release": "Relaxed Piano Moods 'Round Midnight",
+    "art_url": "//cdn-images.audioaddict.com/b/c/4/2/e/d/bc42ede7fe20fa69f82464c24ec8097c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/4/2/e/d/bc42ede7fe20fa69f82464c24ec8097c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ron Carter Trio",
+    "display_artist": "Ron Carter Trio",
+    "title": "Wave",
+    "display_title": "Wave",
+    "track": "Ron Carter Trio - Wave",
+    "length": 579,
+    "duration": 579,
+    "started": 1721813583,
+    "type": "track",
+    "track_id": 3054476,
+    "release": "Cocktails at the Cotton Club",
+    "art_url": "//cdn-images.audioaddict.com/7/6/a/b/7/9/76ab795b8a92332024538c642c34dee3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/a/b/7/9/76ab795b8a92332024538c642c34dee3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Toshiko Akiyoshi",
+    "display_artist": "Toshiko Akiyoshi",
+    "title": "Minor Moods (Remastered 2015)",
+    "display_title": "Minor Moods (Remastered 2015)",
+    "track": "Toshiko Akiyoshi - Minor Moods (Remastered 2015)",
+    "length": 256,
+    "duration": 256,
+    "started": 1721821077,
+    "type": "track",
+    "track_id": 3054628,
+    "release": "The Remasters (All Tracks Remastered)",
+    "art_url": "//cdn-images.audioaddict.com/4/d/3/6/a/c/4d36ac4bfd166466dd7871a4a4ce7f68.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/3/6/a/c/4d36ac4bfd166466dd7871a4a4ce7f68.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Pat Coil",
+    "display_artist": "Pat Coil",
+    "title": "Isn't This A Lovely Day",
+    "display_title": "Isn't This A Lovely Day",
+    "track": "Pat Coil - Isn't This A Lovely Day",
+    "length": 194,
+    "duration": 194,
+    "started": 1721821797,
+    "type": "track",
+    "track_id": 3047830,
+    "release": "Java Jazz: A Bold Instrumental Jazz Roast",
+    "art_url": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/b/8/8/c/4bb88cabb75e3394fe7ab2deeeb4be47.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "321Jazz",
+    "display_artist": "321Jazz",
+    "title": "Cafe Cool",
+    "display_title": "Cafe Cool",
+    "track": "321Jazz - Cafe Cool",
+    "length": 283,
+    "duration": 283,
+    "started": 1721823824,
+    "type": "track",
+    "track_id": 3082887,
+    "release": "Midnight Jazz",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "On the Street Where You Live (feat. Jack Jezzro)",
+    "display_title": "On the Street Where You Live (feat. Jack Jezzro)",
+    "track": "Beegie Adair - On the Street Where You Live (feat. Jack Jezzro)",
+    "length": 242,
+    "duration": 242,
+    "started": 1721825295,
+    "type": "track",
+    "track_id": 3047770,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Moonlight Serenade",
+    "display_title": "Moonlight Serenade",
+    "track": "Beegie Adair - Moonlight Serenade",
+    "length": 216,
+    "duration": 216,
+    "started": 1721825746,
+    "type": "track",
+    "track_id": 3047771,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Bill Charlap",
+    "display_artist": "Bill Charlap",
+    "title": "Your Host",
+    "display_title": "Your Host",
+    "track": "Bill Charlap - Your Host",
+    "length": 240,
+    "duration": 240,
+    "started": 1721827324,
+    "type": "track",
+    "track_id": 3058060,
+    "release": "Street Of Dreams",
+    "art_url": "//cdn-images.audioaddict.com/7/6/a/e/7/d/76ae7d51934fd4b25fb21e8d162bf3d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/a/e/7/d/76ae7d51934fd4b25fb21e8d162bf3d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Hank Jones, Milt Hinton and Bob Rosengarden",
+    "display_artist": "Hank Jones, Milt Hinton and Bob Rosengarden",
+    "title": "Right Here, Right Now",
+    "display_title": "Right Here, Right Now",
+    "track": "Hank Jones, Milt Hinton and Bob Rosengarden - Right Here, Right Now",
+    "length": 360,
+    "duration": 360,
+    "started": 1721827826,
+    "type": "track",
+    "track_id": 3077636,
+    "release": "The Trio",
+    "art_url": "//cdn-images.audioaddict.com/e/2/3/9/e/e/e239ee4c6b76fbb4f9fcc920faffac63.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/3/9/e/e/e239ee4c6b76fbb4f9fcc920faffac63.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Bobo Stenson Trio",
+    "display_artist": "Bobo Stenson Trio",
+    "title": "Cancion Contra La Indecision",
+    "display_title": "Cancion Contra La Indecision",
+    "track": "Bobo Stenson Trio - Cancion Contra La Indecision",
+    "length": 242,
+    "duration": 242,
+    "started": 1721829647,
+    "type": "track",
+    "track_id": 2936745,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/0/0/0/5/f/80005f36b49425cb2b73847c0858ca87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/0/0/5/f/80005f36b49425cb2b73847c0858ca87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Kenny Barron Trio",
+    "display_artist": "Kenny Barron Trio",
+    "title": "Don`t Explain",
+    "display_title": "Don`t Explain",
+    "track": "Kenny Barron Trio - Don`t Explain",
+    "length": 392,
+    "duration": 392,
+    "started": 1721832088,
+    "type": "track",
+    "track_id": 3067653,
+    "release": "Venus Jazz Bossa Cafe [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/b/e/0/9/f/3/be09f3ce2f93eda12b88e657a57968cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/0/9/f/3/be09f3ce2f93eda12b88e657a57968cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tsuyoshi Yamamoto Trio",
+    "display_artist": "Tsuyoshi Yamamoto Trio",
+    "title": "I've Grown Accustomed To Her Face",
+    "display_title": "I've Grown Accustomed To Her Face",
+    "track": "Tsuyoshi Yamamoto Trio - I've Grown Accustomed To Her Face",
+    "length": 164,
+    "duration": 164,
+    "started": 1721833978,
+    "type": "track",
+    "track_id": 3045824,
+    "release": "Falling In Love With Love",
+    "art_url": "//cdn-images.audioaddict.com/4/e/3/1/5/5/4e3155bb5c9bba909441ce01ed99335d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/3/1/5/5/4e3155bb5c9bba909441ce01ed99335d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Red Garland",
+    "display_artist": "Red Garland",
+    "title": "The Very Thought of You",
+    "display_title": "The Very Thought of You",
+    "track": "Red Garland - The Very Thought of You",
+    "length": 250,
+    "duration": 250,
+    "started": 1721834830,
+    "type": "track",
+    "track_id": 4412,
+    "release": "Red Garland's Piano",
+    "art_url": "//cdn-images.audioaddict.com/d/8/a/f/f/3/d8aff31e2b36f066cb605c3f6648a4a8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/8/a/f/f/3/d8aff31e2b36f066cb605c3f6648a4a8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Teddy Wilson",
+    "display_artist": "Teddy Wilson",
+    "title": "As Time Goes By",
+    "display_title": "As Time Goes By",
+    "track": "Teddy Wilson - As Time Goes By",
+    "length": 175,
+    "duration": 175,
+    "started": 1721837305,
+    "type": "track",
+    "track_id": 2680045,
+    "release": "The Greatest Jazz Piano",
+    "art_url": "//cdn-images.audioaddict.com/5/e/f/3/6/c/5ef36cb3949976eb245b888e76a7b0d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/f/3/6/c/5ef36cb3949976eb245b888e76a7b0d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Brad Hatfield",
+    "display_artist": "Brad Hatfield",
+    "title": "April Kind of Love (feat. Mike Monaghan)",
+    "display_title": "April Kind of Love (feat. Mike Monaghan)",
+    "track": "Brad Hatfield - April Kind of Love (feat. Mike Monaghan)",
+    "length": 232,
+    "duration": 232,
+    "started": 1721837479,
+    "type": "track",
+    "track_id": 3070210,
+    "release": "Straight Up: Jazz and Cocktails, Vol. 8",
+    "art_url": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/3/d/f/c/3c3dfc17ca885fe4cee673ee0f60d41b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Walter Bishop, Jr.",
+    "display_artist": "Walter Bishop, Jr.",
+    "title": "Summertime",
+    "display_title": "Summertime",
+    "track": "Walter Bishop, Jr. - Summertime",
+    "length": 178,
+    "duration": 178,
+    "started": 1721839292,
+    "type": "track",
+    "track_id": 42636,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/4/a/d/e/0/d4ade08396e1427657db67f39920b743.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/a/d/e/0/d4ade08396e1427657db67f39920b743.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "If Ever I Would Leave You (feat. Jack Jezzro)",
+    "display_title": "If Ever I Would Leave You (feat. Jack Jezzro)",
+    "track": "Beegie Adair - If Ever I Would Leave You (feat. Jack Jezzro)",
+    "length": 252,
+    "duration": 252,
+    "started": 1721840114,
+    "type": "track",
+    "track_id": 3047765,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Love Walked In",
+    "display_title": "Love Walked In",
+    "track": "Beegie Adair - Love Walked In",
+    "length": 221,
+    "duration": 221,
+    "started": 1721840365,
+    "type": "track",
+    "track_id": 3088637,
+    "release": "Embraceable You: Romantic Songs of George Gershwin",
+    "art_url": "//cdn-images.audioaddict.com/5/0/d/e/1/e/50de1ee128d666b6222b0d766b6dd6a0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/d/e/1/e/50de1ee128d666b6222b0d766b6dd6a0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Bill Evans Trio",
+    "display_artist": "Bill Evans Trio",
+    "title": "How Deep Is The Ocean",
+    "display_title": "How Deep Is The Ocean",
+    "track": "Bill Evans Trio - How Deep Is The Ocean",
+    "length": 213,
+    "duration": 213,
+    "started": 1721840746,
+    "type": "track",
+    "track_id": 350372,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/1/1/c/7/5/311c75bbd053fd8c6def0b1c5595bea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/1/c/7/5/311c75bbd053fd8c6def0b1c5595bea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tamir Hendelman",
+    "display_artist": "Tamir Hendelman",
+    "title": "Good King Wenceslas",
+    "display_title": "Good King Wenceslas",
+    "track": "Tamir Hendelman - Good King Wenceslas",
+    "length": 208,
+    "duration": 208,
+    "started": 1721842550,
+    "type": "track",
+    "track_id": 3045106,
+    "release": "Cocktail Hour Classic Jazz Moods",
+    "art_url": "//cdn-images.audioaddict.com/2/1/c/1/f/d/21c1fd01afa3659acf80cbdece63ff46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/c/1/f/d/21c1fd01afa3659acf80cbdece63ff46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Michael Supnick",
+    "display_artist": "Michael Supnick",
+    "title": "Fly Me to the Moon",
+    "display_title": "Fly Me to the Moon",
+    "track": "Michael Supnick - Fly Me to the Moon",
+    "length": 277,
+    "duration": 277,
+    "started": 1721842755,
+    "type": "track",
+    "track_id": 8592,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/3/a/2/8/7/53a2875807d8f9f5454cd1587712db41.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/a/2/8/7/53a2875807d8f9f5454cd1587712db41.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Jeff Steinberg Jazz Ensemble",
+    "display_artist": "The Jeff Steinberg Jazz Ensemble",
+    "title": "Old Devil Moon",
+    "display_title": "Old Devil Moon",
+    "track": "The Jeff Steinberg Jazz Ensemble - Old Devil Moon",
+    "length": 201,
+    "duration": 201,
+    "started": 1721844941,
+    "type": "track",
+    "track_id": 3047796,
+    "release": "Jazz Blends",
+    "art_url": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/e/e/1/e/d7ee1e822344f68ebfb8297db55ddfbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The George Shearing Quintet with Emil Richards",
+    "display_artist": "The George Shearing Quintet with Emil Richards",
+    "title": "Easy",
+    "display_title": "Easy",
+    "track": "The George Shearing Quintet with Emil Richards - Easy",
+    "length": 163,
+    "duration": 163,
+    "started": 1721847182,
+    "type": "track",
+    "track_id": 3022854,
+    "release": "In the Night",
+    "art_url": "//cdn-images.audioaddict.com/3/5/1/a/7/a/351a7aa4df937dd147e4bbe9b56b7fdb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/1/a/7/a/351a7aa4df937dd147e4bbe9b56b7fdb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Oscar Peterson Trio",
+    "display_artist": "The Oscar Peterson Trio",
+    "title": " Quiet Nights Of Quiet Stars (Corcovado)",
+    "display_title": " Quiet Nights Of Quiet Stars (Corcovado)",
+    "track": "The Oscar Peterson Trio -  Quiet Nights Of Quiet Stars (Corcovado)",
+    "length": 172,
+    "duration": 172,
+    "started": 1721848369,
+    "type": "track",
+    "track_id": 7896,
+    "release": "We Get Requests",
+    "art_url": "//cdn-images.audioaddict.com/2/5/5/4/d/7/2554d7df4459d6537b495c13d5040d10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/5/4/d/7/2554d7df4459d6537b495c13d5040d10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Eddie Higgins Trio",
+    "display_artist": "Eddie Higgins Trio",
+    "title": "Time After Time",
+    "display_title": "Time After Time",
+    "track": "Eddie Higgins Trio - Time After Time",
+    "length": 400,
+    "duration": 400,
+    "started": 1721848538,
+    "type": "track",
+    "track_id": 793609,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/5/a/7/8/c/f5a78c47f3100c23a07092aa92f9d270.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/5/a/7/8/c/f5a78c47f3100c23a07092aa92f9d270.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Harry Allen & Hank Jones Trio",
+    "display_artist": "Harry Allen & Hank Jones Trio",
+    "title": "Speak Low",
+    "display_title": "Speak Low",
+    "track": "Harry Allen & Hank Jones Trio - Speak Low",
+    "length": 369,
+    "duration": 369,
+    "started": 1721848931,
+    "type": "track",
+    "track_id": 3077631,
+    "release": "Isn't This a Lovely Day",
+    "art_url": "//cdn-images.audioaddict.com/c/b/f/f/b/1/cbffb1a18de9df4522d6bf355efb6ddb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/f/f/b/1/cbffb1a18de9df4522d6bf355efb6ddb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Stan Getz",
+    "display_artist": "Stan Getz",
+    "title": "Our Love Is Here To Stay",
+    "display_title": "Our Love Is Here To Stay",
+    "track": "Stan Getz - Our Love Is Here To Stay",
+    "length": 202,
+    "duration": 202,
+    "started": 1721850094,
+    "type": "track",
+    "track_id": 3054480,
+    "release": "The Cool Jazz Of Stan Getz",
+    "art_url": "//cdn-images.audioaddict.com/3/2/a/6/1/d/32a61d36f3b7cd62cf4b38fb8c2bd410.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/a/6/1/d/32a61d36f3b7cd62cf4b38fb8c2bd410.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Graham Forbes And The Trio",
+    "display_artist": "Graham Forbes And The Trio",
+    "title": "Nobody Else But Me",
+    "display_title": "Nobody Else But Me",
+    "track": "Graham Forbes And The Trio - Nobody Else But Me",
+    "length": 157,
+    "duration": 157,
+    "started": 1721851731,
+    "type": "track",
+    "track_id": 3052978,
+    "release": "The Martini Set",
+    "art_url": "//cdn-images.audioaddict.com/1/8/c/a/1/f/18ca1f20f25295d018962309ab6f9c1b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/c/a/1/f/18ca1f20f25295d018962309ab6f9c1b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ben Webster",
+    "display_artist": "Ben Webster",
+    "title": "Don't Get Around Much Anymore",
+    "display_title": "Don't Get Around Much Anymore",
+    "track": "Ben Webster - Don't Get Around Much Anymore",
+    "length": 186,
+    "duration": 186,
+    "started": 1721852379,
+    "type": "track",
+    "track_id": 3054479,
+    "release": "The Consummate Artistry of Ben Webster",
+    "art_url": "//cdn-images.audioaddict.com/9/8/1/c/7/b/981c7b1be7f982508b90b022058bc05f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/1/c/7/b/981c7b1be7f982508b90b022058bc05f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "They Can't Take That Away From Me",
+    "display_title": "They Can't Take That Away From Me",
+    "track": "Beegie Adair - They Can't Take That Away From Me",
+    "length": 228,
+    "duration": 228,
+    "started": 1721854708,
+    "type": "track",
+    "track_id": 3045094,
+    "release": "Into Somethin' - My Jazz Standard",
+    "art_url": "//cdn-images.audioaddict.com/5/5/c/4/1/f/55c41f1e4afaba42d36e63e1284d76ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/c/4/1/f/55c41f1e4afaba42d36e63e1284d76ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Bill Charlap",
+    "display_artist": "Bill Charlap",
+    "title": "The Duke",
+    "display_title": "The Duke",
+    "track": "Bill Charlap - The Duke",
+    "length": 408,
+    "duration": 408,
+    "started": 1721855141,
+    "type": "track",
+    "track_id": 3058057,
+    "release": "Street Of Dreams",
+    "art_url": "//cdn-images.audioaddict.com/7/6/a/e/7/d/76ae7d51934fd4b25fb21e8d162bf3d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/a/e/7/d/76ae7d51934fd4b25fb21e8d162bf3d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Paul Desmond",
+    "display_artist": "Paul Desmond",
+    "title": "You Go To My Head",
+    "display_title": "You Go To My Head",
+    "track": "Paul Desmond - You Go To My Head",
+    "length": 386,
+    "duration": 386,
+    "started": 1721856496,
+    "type": "track",
+    "track_id": 716823,
+    "release": "First Place Again",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/0/d/299b0dd3446b9880be0d01bd1de28435.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/b/0/d/299b0dd3446b9880be0d01bd1de28435.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "The Beegie Adair Trio",
+    "display_artist": "The Beegie Adair Trio",
+    "title": "Orange Colored Sky",
+    "display_title": "Orange Colored Sky",
+    "track": "The Beegie Adair Trio - Orange Colored Sky",
+    "length": 201,
+    "duration": 201,
+    "started": 1721859007,
+    "type": "track",
+    "track_id": 3045101,
+    "release": "The Nat King Cole Collection",
+    "art_url": "//cdn-images.audioaddict.com/7/e/b/d/5/1/7ebd5197dca744744d8c686e9136d5d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/b/d/5/1/7ebd5197dca744744d8c686e9136d5d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "321Jazz",
+    "display_artist": "321Jazz",
+    "title": "Midnight Jazz",
+    "display_title": "Midnight Jazz",
+    "track": "321Jazz - Midnight Jazz",
+    "length": 259,
+    "duration": 259,
+    "started": 1721866338,
+    "type": "track",
+    "track_id": 3082884,
+    "release": "Midnight Jazz",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/0/7/5/1c10756073fa70aafaf19ed42fe4da76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Ray Anthony",
+    "display_artist": "Ray Anthony",
+    "title": "Fly Me to The Moon",
+    "display_title": "Fly Me to The Moon",
+    "track": "Ray Anthony - Fly Me to The Moon",
+    "length": 210,
+    "duration": 210,
+    "started": 1721866599,
+    "type": "track",
+    "track_id": 18246,
+    "release": "Boogie Blues & Ballads",
+    "art_url": "//cdn-images.audioaddict.com/e/4/f/3/9/7/e4f3972977d844fde0c82206bc212f1d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/f/3/9/7/e4f3972977d844fde0c82206bc212f1d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Red Garland",
+    "display_artist": "Red Garland",
+    "title": "Please Send Me Someone to Love",
+    "display_title": "Please Send Me Someone to Love",
+    "track": "Red Garland - Please Send Me Someone to Love",
+    "length": 588,
+    "duration": 588,
+    "started": 1721866808,
+    "type": "track",
+    "track_id": 18715,
+    "release": "Red Garland's Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/0/b/b/f/0/e0bbf0ba4bccc32376dd484812a6138f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/b/b/f/0/e0bbf0ba4bccc32376dd484812a6138f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Swingin' On A Star",
+    "display_title": "Swingin' On A Star",
+    "track": "Beegie Adair - Swingin' On A Star",
+    "length": 205,
+    "duration": 205,
+    "started": 1721868463,
+    "type": "track",
+    "track_id": 3045092,
+    "release": "As Time Goes By",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/f/8/d/c21f8d3c327d2953503ea1cc25591635.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/f/8/d/c21f8d3c327d2953503ea1cc25591635.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Stella By Starlight",
+    "display_title": "Stella By Starlight",
+    "track": "Beegie Adair - Stella By Starlight",
+    "length": 228,
+    "duration": 228,
+    "started": 1721869016,
+    "type": "track",
+    "track_id": 3047766,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Begin The Beguine",
+    "display_title": "Begin The Beguine",
+    "track": "Beegie Adair - Begin The Beguine",
+    "length": 195,
+    "duration": 195,
+    "started": 1721883482,
+    "type": "track",
+    "track_id": 3045091,
+    "release": "Dream Dancing (Songs Of Cole Porter)",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/0/f/2/e180f2783ee0cabbb13663a1ff824fff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/0/f/2/e180f2783ee0cabbb13663a1ff824fff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Raphael Laffont Quartet",
+    "display_artist": "Raphael Laffont Quartet",
+    "title": "Cocktail Hour",
+    "display_title": "Cocktail Hour",
+    "track": "Raphael Laffont Quartet - Cocktail Hour",
+    "length": 165,
+    "duration": 165,
+    "started": 1721883677,
+    "type": "track",
+    "track_id": 3063942,
+    "release": "Late Night At The Bar",
+    "art_url": "//cdn-images.audioaddict.com/4/d/3/b/b/b/4d3bbb507d5fa6b6fba8012615efb948.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/3/b/b/b/4d3bbb507d5fa6b6fba8012615efb948.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Homer Greencastle",
+    "display_artist": "Homer Greencastle",
+    "title": "After Dinner",
+    "display_title": "After Dinner",
+    "track": "Homer Greencastle - After Dinner",
+    "length": 171,
+    "duration": 171,
+    "started": 1721887376,
+    "type": "track",
+    "track_id": 3045104,
+    "release": "Cocktail Hour Classic Jazz Moods",
+    "art_url": "//cdn-images.audioaddict.com/2/1/c/1/f/d/21c1fd01afa3659acf80cbdece63ff46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/c/1/f/d/21c1fd01afa3659acf80cbdece63ff46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Tangerine",
+    "display_title": "Tangerine",
+    "track": "Beegie Adair - Tangerine",
+    "length": 191,
+    "duration": 191,
+    "started": 1721897800,
+    "type": "track",
+    "track_id": 3045093,
+    "release": "Days Of Wine And Roses",
+    "art_url": "//cdn-images.audioaddict.com/a/b/7/6/7/4/ab767437b08cbbed14156256c1bd805e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/7/6/7/4/ab767437b08cbbed14156256c1bd805e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "Pete Kelly's Blues",
+    "display_title": "Pete Kelly's Blues",
+    "track": "Beegie Adair - Pete Kelly's Blues",
+    "length": 268,
+    "duration": 268,
+    "started": 1721897991,
+    "type": "track",
+    "track_id": 3047764,
+    "release": "Vintage Jazz: Instrumental Jazz for Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/9/1/d/b/0c91db869f4853aae9cf6313d486eea8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Teddy Wilson",
+    "display_artist": "Teddy Wilson",
+    "title": "My Silent Love",
+    "display_title": "My Silent Love",
+    "track": "Teddy Wilson - My Silent Love",
+    "length": 165,
+    "duration": 165,
+    "started": 1721923892,
+    "type": "track",
+    "track_id": 3045748,
+    "release": "The Greatest Jazz Piano",
+    "art_url": "//cdn-images.audioaddict.com/5/e/f/3/6/c/5ef36cb3949976eb245b888e76a7b0d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/f/3/6/c/5ef36cb3949976eb245b888e76a7b0d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Tamir Hendelman",
+    "display_artist": "Tamir Hendelman",
+    "title": "Dreidel Song",
+    "display_title": "Dreidel Song",
+    "track": "Tamir Hendelman - Dreidel Song",
+    "length": 140,
+    "duration": 140,
+    "started": 1721924358,
+    "type": "track",
+    "track_id": 3045105,
+    "release": "Cocktail Hour Classic Jazz Moods",
+    "art_url": "//cdn-images.audioaddict.com/b/f/9/9/0/a/bf990aa1d8c5ebe7fae4f0525853d49d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/f/9/9/0/a/bf990aa1d8c5ebe7fae4f0525853d49d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Beegie Adair",
+    "display_artist": "Beegie Adair",
+    "title": "I'll Take Romance",
+    "display_title": "I'll Take Romance",
+    "track": "Beegie Adair - I'll Take Romance",
+    "length": 239,
+    "duration": 239,
+    "started": 1721955497,
+    "type": "track",
+    "track_id": 3045257,
+    "release": "I'll Take Romance",
+    "art_url": "//cdn-images.audioaddict.com/6/a/e/7/1/d/6ae71d3912d8dd8f760699acbaa616c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/e/7/1/d/6ae71d3912d8dd8f760699acbaa616c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 12,
+    "channel_id": 519,
+    "artist": "Mason Embry Trio",
+    "display_artist": "Mason Embry Trio",
+    "title": "Gone With The Wind",
+    "display_title": "Gone With The Wind",
+    "track": "Mason Embry Trio - Gone With The Wind",
+    "length": 155,
+    "duration": 155,
+    "started": 1722016069,
+    "type": "track",
+    "track_id": 3045099,
+    "release": "Cocktail Party Jazz 2: An Intoxicating Collection Of Instrumental Jazz For Entertaining",
+    "art_url": "//cdn-images.audioaddict.com/2/d/7/a/1/3/2d7a130748b65367d8317cedeb4606c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/7/a/1/3/2d7a130748b65367d8317cedeb4606c7.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

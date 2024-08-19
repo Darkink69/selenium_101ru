@@ -1,0 +1,21 @@
+[
+  {
+    "network_id": 12,
+    "channel_id": 283,
+    "artist": "Sam Levine",
+    "display_artist": "Sam Levine",
+    "title": "The Christmas Song",
+    "display_title": "The Christmas Song",
+    "track": "Sam Levine - The Christmas Song",
+    "length": 233,
+    "duration": 233,
+    "started": 1704993949,
+    "type": "track",
+    "track_id": 723925,
+    "release": "Christmas Sax",
+    "art_url": "//cdn-images.audioaddict.com/0/5/e/b/4/2/05eb425296c410015f510f31bac8111d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/e/b/4/2/05eb425296c410015f510f31bac8111d.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

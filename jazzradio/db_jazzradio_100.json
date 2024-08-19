@@ -1,0 +1,21 @@
+[
+  {
+    "network_id": 12,
+    "channel_id": 100,
+    "artist": "Wes Montgomery",
+    "display_artist": "Wes Montgomery",
+    "title": "Snowfall",
+    "display_title": "Snowfall",
+    "track": "Wes Montgomery - Snowfall",
+    "length": 412,
+    "duration": 412,
+    "started": 1704993995,
+    "type": "track",
+    "track_id": 267821,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/6/9/e/b/9a69ebc7fcb6422a8e5ac9151e5fa24d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/6/9/e/b/9a69ebc7fcb6422a8e5ac9151e5fa24d.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]
