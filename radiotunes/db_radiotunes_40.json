@@ -1,0 +1,21 @@
+[
+  {
+    "network_id": 2,
+    "channel_id": 40,
+    "artist": "Bette Midler",
+    "display_artist": "Bette Midler",
+    "title": "O Come, O Come, Emmanuel",
+    "display_title": "O Come, O Come, Emmanuel",
+    "track": "Bette Midler - O Come, O Come, Emmanuel",
+    "length": 190,
+    "duration": 190,
+    "started": 1704993989,
+    "type": "track",
+    "track_id": 906071,
+    "release": "Cool Yule",
+    "art_url": "//cdn-images.audioaddict.com/c/c/5/e/1/7/cc5e177d4f3fcd19b3a7b82a31688a37.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/5/e/1/7/cc5e177d4f3fcd19b3a7b82a31688a37.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

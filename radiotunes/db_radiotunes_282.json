@@ -1,0 +1,21 @@
+[
+  {
+    "network_id": 2,
+    "channel_id": 282,
+    "artist": "Ali Ryerson & Cecilia Coleman",
+    "display_artist": "Ali Ryerson & Cecilia Coleman",
+    "title": "God Rest You Merry Gentlemen",
+    "display_title": "God Rest You Merry Gentlemen",
+    "track": "Ali Ryerson & Cecilia Coleman - God Rest You Merry Gentlemen",
+    "length": 287,
+    "duration": 287,
+    "started": 1704993969,
+    "type": "track",
+    "track_id": 719085,
+    "release": "Christmas Now & Then",
+    "art_url": "//cdn-images.audioaddict.com/6/a/6/9/3/7/6a6937f2606f911bf7f4df942ae23d29.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/6/9/3/7/6a6937f2606f911bf7f4df942ae23d29.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

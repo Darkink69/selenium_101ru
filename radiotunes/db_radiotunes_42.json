@@ -1,0 +1,5360 @@
+[
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Jack Harlow",
+    "display_artist": "Jack Harlow",
+    "title": "WHATS POPPIN) [feat. DaBaby, Tory Lanez & Lil Wayne]",
+    "display_title": "WHATS POPPIN) [feat. DaBaby, Tory Lanez & Lil Wayne]",
+    "track": "Jack Harlow - WHATS POPPIN) [feat. DaBaby, Tory Lanez & Lil Wayne]",
+    "length": 227,
+    "duration": 227,
+    "started": 1717382162,
+    "type": "track",
+    "track_id": 2989876,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/e/6/7/b/cbe67b2cc0d28781b7175f6e8bdbec16.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/e/6/7/b/cbe67b2cc0d28781b7175f6e8bdbec16.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Jeremih",
+    "display_artist": "Jeremih",
+    "title": "Down On Me",
+    "display_title": "Down On Me",
+    "track": "Jeremih - Down On Me",
+    "length": 230,
+    "duration": 230,
+    "started": 1717382562,
+    "type": "track",
+    "track_id": 10507,
+    "release": "Step Up 3D",
+    "art_url": "//cdn-images.audioaddict.com/7/e/d/5/2/2/7ed5221501e4869fd78a4d1c62820da7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/d/5/2/2/7ed5221501e4869fd78a4d1c62820da7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Wayne",
+    "display_artist": "Lil Wayne",
+    "title": "Good Kush & Alcohol [Bitches Love Me] feat. Drake & Future",
+    "display_title": "Good Kush & Alcohol [Bitches Love Me] feat. Drake & Future",
+    "track": "Lil Wayne - Good Kush & Alcohol [Bitches Love Me] feat. Drake & Future",
+    "length": 261,
+    "duration": 261,
+    "started": 1717382943,
+    "type": "track",
+    "track_id": 1251382,
+    "release": "Good Kush & Alcohol [Bitches Love Me] feat. Drake & Future",
+    "art_url": "//cdn-images.audioaddict.com/e/5/4/4/5/f/e5445fb851fa231f5f5abfaa7398ea43.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/4/4/5/f/e5445fb851fa231f5f5abfaa7398ea43.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Durk, J. Cole",
+    "display_artist": "Lil Durk, J. Cole",
+    "title": "All My Life (feat. J. Cole)",
+    "display_title": "All My Life (feat. J. Cole)",
+    "track": "Lil Durk, J. Cole - All My Life (feat. J. Cole)",
+    "length": 223,
+    "duration": 223,
+    "started": 1717383372,
+    "type": "track",
+    "track_id": 3079605,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/2/b/8/e/2/42b8e2d4da862aba95606e8eaf586171.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/b/8/e/2/42b8e2d4da862aba95606e8eaf586171.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "G-Eazy & A$AP Rocky",
+    "display_artist": "G-Eazy & A$AP Rocky",
+    "title": "No Limit feat. Cardi B",
+    "display_title": "No Limit feat. Cardi B",
+    "track": "G-Eazy & A$AP Rocky - No Limit feat. Cardi B",
+    "length": 211,
+    "duration": 211,
+    "started": 1717383595,
+    "type": "track",
+    "track_id": 2027133,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/b/7/2/b/7/1b72b7651a8555ca072ed0f7ed46bf56.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/7/2/b/7/1b72b7651a8555ca072ed0f7ed46bf56.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Future",
+    "display_artist": "Future",
+    "title": "Life Is Good",
+    "display_title": "Life Is Good",
+    "track": "Future - Life Is Good",
+    "length": 237,
+    "duration": 237,
+    "started": 1717384032,
+    "type": "track",
+    "track_id": 2970848,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/e/3/f/d/2/de3fd26a506b11cd37fc06763f5b22a0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/3/f/d/2/de3fd26a506b11cd37fc06763f5b22a0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Mims",
+    "display_artist": "Mims",
+    "title": "This Is Why I'm Hot",
+    "display_title": "This Is Why I'm Hot",
+    "track": "Mims - This Is Why I'm Hot",
+    "length": 256,
+    "duration": 256,
+    "started": 1717384473,
+    "type": "track",
+    "track_id": 41026,
+    "release": "Duran Duran",
+    "art_url": "//cdn-images.audioaddict.com/6/1/9/a/1/7/619a17085d0bce0499d744a7ac521d42.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/1/9/a/1/7/619a17085d0bce0499d744a7ac521d42.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kodak Black",
+    "display_artist": "Kodak Black",
+    "title": "Coolin And Booted",
+    "display_title": "Coolin And Booted",
+    "track": "Kodak Black - Coolin And Booted",
+    "length": 220,
+    "duration": 220,
+    "started": 1717385197,
+    "type": "track",
+    "track_id": 1417075,
+    "release": "Painting Pictures",
+    "art_url": "//cdn-images.audioaddict.com/7/f/b/3/e/3/7fb3e3cf8ca476855c144bd9dbbf84aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/b/3/e/3/7fb3e3cf8ca476855c144bd9dbbf84aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Migos",
+    "display_artist": "Migos",
+    "title": "T-Shirt",
+    "display_title": "T-Shirt",
+    "track": "Migos - T-Shirt",
+    "length": 276,
+    "duration": 276,
+    "started": 1717385680,
+    "type": "track",
+    "track_id": 1374541,
+    "release": "Culture",
+    "art_url": "//cdn-images.audioaddict.com/5/d/c/5/b/a/5dc5ba99151c71de205ad984d05e79e0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/d/c/5/b/a/5dc5ba99151c71de205ad984d05e79e0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Travis Scott, Drake",
+    "display_artist": "Travis Scott, Drake",
+    "title": "MELTDOWN (feat. Drake)",
+    "display_title": "MELTDOWN (feat. Drake)",
+    "track": "Travis Scott, Drake - MELTDOWN (feat. Drake)",
+    "length": 246,
+    "duration": 246,
+    "started": 1717385922,
+    "type": "track",
+    "track_id": 3079610,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/2/b/9/b/1/32b9b170766f91bef2cc5275909400d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/b/9/b/1/32b9b170766f91bef2cc5275909400d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "All Me feat. 2 Chainz & Big Sean",
+    "display_title": "All Me feat. 2 Chainz & Big Sean",
+    "track": "Drake - All Me feat. 2 Chainz & Big Sean",
+    "length": 345,
+    "duration": 345,
+    "started": 1717386168,
+    "type": "track",
+    "track_id": 1251349,
+    "release": "All Me feat. 2 Chainz & Big Sean",
+    "art_url": "//cdn-images.audioaddict.com/7/8/b/c/7/b/78bc7bf667fc2acd8b441688e908d397.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/b/c/7/b/78bc7bf667fc2acd8b441688e908d397.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kanye West",
+    "display_artist": "Kanye West",
+    "title": "Monster feat. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver",
+    "display_title": "Monster feat. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver",
+    "track": "Kanye West - Monster feat. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver",
+    "length": 408,
+    "duration": 408,
+    "started": 1717386648,
+    "type": "track",
+    "track_id": 1251512,
+    "release": "My Beautiful Dark Twisted Fantasy",
+    "art_url": "//cdn-images.audioaddict.com/3/c/3/4/a/b/3c34ab2117557ad1c76fe799233aaf61.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/3/4/a/b/3c34ab2117557ad1c76fe799233aaf61.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rich Amiri",
+    "display_artist": "Rich Amiri",
+    "title": "ONE CALL",
+    "display_title": "ONE CALL",
+    "track": "Rich Amiri - ONE CALL",
+    "length": 121,
+    "duration": 121,
+    "started": 1717387205,
+    "type": "track",
+    "track_id": 3092501,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/8/3/5/c/9/b835c9a2844241196c760e49252f08b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/3/5/c/9/b835c9a2844241196c760e49252f08b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "The Eastside Boyz",
+    "display_artist": "The Eastside Boyz",
+    "title": "Get Low",
+    "display_title": "Get Low",
+    "track": "The Eastside Boyz - Get Low",
+    "length": 269,
+    "duration": 269,
+    "started": 1717387593,
+    "type": "track",
+    "track_id": 34805,
+    "release": "Get Low",
+    "art_url": "//cdn-images.audioaddict.com/b/8/2/1/4/7/b8214702f9e9c834d7903f94e0a9d493.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/2/1/4/7/b8214702f9e9c834d7903f94e0a9d493.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Young Hub City Ft. Big Zo",
+    "display_artist": "Young Hub City Ft. Big Zo",
+    "title": "Mr. Weatherall",
+    "display_title": "Mr. Weatherall",
+    "track": "Young Hub City Ft. Big Zo - Mr. Weatherall",
+    "length": 192,
+    "duration": 192,
+    "started": 1717388044,
+    "type": "track",
+    "track_id": 3092503,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/b/7/f/1/7db7f18c0eb9218853e411828425d7b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/b/7/f/1/7db7f18c0eb9218853e411828425d7b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "G Eazy",
+    "display_artist": "G Eazy",
+    "title": "I Mean It feat. Remo",
+    "display_title": "I Mean It feat. Remo",
+    "track": "G Eazy - I Mean It feat. Remo",
+    "length": 239,
+    "duration": 239,
+    "started": 1717388236,
+    "type": "track",
+    "track_id": 1251495,
+    "release": "These Things Happen (Google Play Version)",
+    "art_url": "//cdn-images.audioaddict.com/5/e/e/2/c/e/5ee2ce6bfcae343f65c6b526b191831f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/e/2/c/e/5ee2ce6bfcae343f65c6b526b191831f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rob $tone",
+    "display_artist": "Rob $tone",
+    "title": "Chill Bill feat. J Davi$ & Spooks",
+    "display_title": "Chill Bill feat. J Davi$ & Spooks",
+    "track": "Rob $tone - Chill Bill feat. J Davi$ & Spooks",
+    "length": 203,
+    "duration": 203,
+    "started": 1717388809,
+    "type": "track",
+    "track_id": 1274227,
+    "release": "#Savages, (Volume 5).5",
+    "art_url": "//cdn-images.audioaddict.com/a/6/4/b/a/b/a64bab44561ba014a8e7889e8b56be0e.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/4/b/a/b/a64bab44561ba014a8e7889e8b56be0e.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Ty Dolla $ign",
+    "display_artist": "Ty Dolla $ign",
+    "title": "Wavy feat. Joe Moses",
+    "display_title": "Wavy feat. Joe Moses",
+    "track": "Ty Dolla $ign - Wavy feat. Joe Moses",
+    "length": 224,
+    "duration": 224,
+    "started": 1717389110,
+    "type": "track",
+    "track_id": 1274233,
+    "release": "Beach House EP",
+    "art_url": "//cdn-images.audioaddict.com/6/5/4/1/9/a/65419a05e91d6f9f05c1074f5e1326a0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/5/4/1/9/a/65419a05e91d6f9f05c1074f5e1326a0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Jon & The Eastside Boyz",
+    "display_artist": "Lil Jon & The Eastside Boyz",
+    "title": "Snap Yo Fingers",
+    "display_title": "Snap Yo Fingers",
+    "track": "Lil Jon & The Eastside Boyz - Snap Yo Fingers",
+    "length": 272,
+    "duration": 272,
+    "started": 1717389512,
+    "type": "track",
+    "track_id": 3431,
+    "release": "Snap Yo Fingers",
+    "art_url": "//cdn-images.audioaddict.com/e/e/8/9/2/6/ee8926e394fab38da00867a35d597b6e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/8/9/2/6/ee8926e394fab38da00867a35d597b6e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rich Gang",
+    "display_artist": "Rich Gang",
+    "title": "Lifestyle feat. Young Thug & Rich Homie Quan",
+    "display_title": "Lifestyle feat. Young Thug & Rich Homie Quan",
+    "track": "Rich Gang - Lifestyle feat. Young Thug & Rich Homie Quan",
+    "length": 274,
+    "duration": 274,
+    "started": 1717389784,
+    "type": "track",
+    "track_id": 1251561,
+    "release": "Lifestyle feat. Young Thug & Rich Homie Quan",
+    "art_url": "//cdn-images.audioaddict.com/e/5/e/9/b/e/e5e9be46da011babc50fa3aaeba57518.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/e/9/b/e/e5e9be46da011babc50fa3aaeba57518.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kendrick Lamar",
+    "display_artist": "Kendrick Lamar",
+    "title": "m.A.A.d city feat. MC Eiht",
+    "display_title": "m.A.A.d city feat. MC Eiht",
+    "track": "Kendrick Lamar - m.A.A.d city feat. MC Eiht",
+    "length": 356,
+    "duration": 356,
+    "started": 1717390271,
+    "type": "track",
+    "track_id": 1251515,
+    "release": "good kid, m.A.A.d city",
+    "art_url": "//cdn-images.audioaddict.com/b/6/6/3/a/a/b663aa5e20b06ccdd0a86a8db52e7409.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/6/3/a/a/b663aa5e20b06ccdd0a86a8db52e7409.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Future",
+    "display_artist": "Future",
+    "title": "Move That Dope feat. Pharrell, Pusha T & Casino",
+    "display_title": "Move That Dope feat. Pharrell, Pusha T & Casino",
+    "track": "Future - Move That Dope feat. Pharrell, Pusha T & Casino",
+    "length": 342,
+    "duration": 342,
+    "started": 1717390622,
+    "type": "track",
+    "track_id": 872871,
+    "release": "Honest",
+    "art_url": "//cdn-images.audioaddict.com/f/8/d/4/9/4/f8d49407eb7c170c305967d8c972ee5d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/d/4/9/4/f8d49407eb7c170c305967d8c972ee5d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Webbie",
+    "display_artist": "Webbie",
+    "title": "Independent feat. Lil Boosie & Lil Phat",
+    "display_title": "Independent feat. Lil Boosie & Lil Phat",
+    "track": "Webbie - Independent feat. Lil Boosie & Lil Phat",
+    "length": 258,
+    "duration": 258,
+    "started": 1717390962,
+    "type": "track",
+    "track_id": 28030,
+    "release": "Savage Life 2",
+    "art_url": "//cdn-images.audioaddict.com/8/a/3/0/8/4/8a3084da66f2f2740273a39ae0213b9f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/3/0/8/4/8a3084da66f2f2740273a39ae0213b9f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "SZA",
+    "display_artist": "SZA",
+    "title": "Snooze",
+    "display_title": "Snooze",
+    "track": "SZA - Snooze",
+    "length": 201,
+    "duration": 201,
+    "started": 1717391366,
+    "type": "track",
+    "track_id": 3070407,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/7/4/7/7/0/f74770f47b225a8aa15360f03973750e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/4/7/7/0/f74770f47b225a8aa15360f03973750e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "21 Savage, Offset & Metro Boomin",
+    "display_artist": "21 Savage, Offset & Metro Boomin",
+    "title": "Ric Flair Drip (Explicit)",
+    "display_title": "Ric Flair Drip (Explicit)",
+    "track": "21 Savage, Offset & Metro Boomin - Ric Flair Drip (Explicit)",
+    "length": 172,
+    "duration": 172,
+    "started": 1717391820,
+    "type": "track",
+    "track_id": 2919441,
+    "release": "Without Warning",
+    "art_url": "//cdn-images.audioaddict.com/b/9/c/3/3/e/b9c33e08f92c7e87d1e69bc3c7105b4b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/c/3/3/e/b9c33e08f92c7e87d1e69bc3c7105b4b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YFN Lucci",
+    "display_artist": "YFN Lucci",
+    "title": "Everyday We Lit feat. PnB Rock",
+    "display_title": "Everyday We Lit feat. PnB Rock",
+    "track": "YFN Lucci - Everyday We Lit feat. PnB Rock",
+    "length": 198,
+    "duration": 198,
+    "started": 1717392166,
+    "type": "track",
+    "track_id": 1417127,
+    "release": "Long Live Nut",
+    "art_url": "//cdn-images.audioaddict.com/b/a/9/6/4/0/ba964040659b6c926376098519f29693.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/9/6/4/0/ba964040659b6c926376098519f29693.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Big Sean",
+    "display_artist": "Big Sean",
+    "title": "I Don't Fuck With You feat. E-40",
+    "display_title": "I Don't Fuck With You feat. E-40",
+    "track": "Big Sean - I Don't Fuck With You feat. E-40",
+    "length": 289,
+    "duration": 289,
+    "started": 1717392700,
+    "type": "track",
+    "track_id": 1243075,
+    "release": "I Dont Fuck With You feat. E-40",
+    "art_url": "//cdn-images.audioaddict.com/2/3/6/c/6/1/236c61e3e2cc0d83e0002e18924ba79d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/6/c/6/1/236c61e3e2cc0d83e0002e18924ba79d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Doechii, Kodak Black",
+    "display_artist": "Doechii, Kodak Black",
+    "title": "What It Is (Block Boy)",
+    "display_title": "What It Is (Block Boy)",
+    "track": "Doechii, Kodak Black - What It Is (Block Boy)",
+    "length": 223,
+    "duration": 223,
+    "started": 1717392985,
+    "type": "track",
+    "track_id": 3079603,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/2/c/3/1/5/32c315b8103038278503a66fba0d865f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/c/3/1/5/32c315b8103038278503a66fba0d865f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "French Montana",
+    "display_artist": "French Montana",
+    "title": "Unforgettable feat. Rae Sremmurd",
+    "display_title": "Unforgettable feat. Rae Sremmurd",
+    "track": "French Montana - Unforgettable feat. Rae Sremmurd",
+    "length": 320,
+    "duration": 320,
+    "started": 1717393208,
+    "type": "track",
+    "track_id": 1417030,
+    "release": "Unforgettable CDS",
+    "art_url": "//cdn-images.audioaddict.com/a/a/3/e/2/0/aa3e2037ca652fc14d6d3e9094ed867d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/3/e/2/0/aa3e2037ca652fc14d6d3e9094ed867d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "ScHoolboy Q ",
+    "display_artist": "ScHoolboy Q ",
+    "title": "Studio",
+    "display_title": "Studio",
+    "track": "ScHoolboy Q  - Studio",
+    "length": 279,
+    "duration": 279,
+    "started": 1717393797,
+    "type": "track",
+    "track_id": 946234,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/f/c/a/f/4/7fcaf409079c85557767b55e5cb239bf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/c/a/f/4/7fcaf409079c85557767b55e5cb239bf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Ty Dolla $ign",
+    "display_artist": "Ty Dolla $ign",
+    "title": "Or Nah feat. Wiz Khalifa & DJ Mustard",
+    "display_title": "Or Nah feat. Wiz Khalifa & DJ Mustard",
+    "track": "Ty Dolla $ign - Or Nah feat. Wiz Khalifa & DJ Mustard",
+    "length": 292,
+    "duration": 292,
+    "started": 1717394075,
+    "type": "track",
+    "track_id": 1251423,
+    "release": "Beach House EP",
+    "art_url": "//cdn-images.audioaddict.com/5/5/1/f/7/4/551f74cfbd9d486fec7f9c05a5c39174.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/1/f/7/4/551f74cfbd9d486fec7f9c05a5c39174.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kendrick Lamar",
+    "display_artist": "Kendrick Lamar",
+    "title": "Poetic Justice feat. Drake",
+    "display_title": "Poetic Justice feat. Drake",
+    "track": "Kendrick Lamar - Poetic Justice feat. Drake",
+    "length": 300,
+    "duration": 300,
+    "started": 1717394328,
+    "type": "track",
+    "track_id": 872919,
+    "release": "good kid, m.A.A.d city",
+    "art_url": "//cdn-images.audioaddict.com/9/e/e/d/f/2/9eedf22f6ac9ee8e7f636936ab1baaf7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/e/d/f/2/9eedf22f6ac9ee8e7f636936ab1baaf7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "The Weeknd",
+    "display_artist": "The Weeknd",
+    "title": "Often (Remix) feat. Schoolboy Q & Rick Ross",
+    "display_title": "Often (Remix) feat. Schoolboy Q & Rick Ross",
+    "track": "The Weeknd - Often (Remix) feat. Schoolboy Q & Rick Ross",
+    "length": 311,
+    "duration": 311,
+    "started": 1717394725,
+    "type": "track",
+    "track_id": 1251583,
+    "release": "Beauty Behind the Madness",
+    "art_url": "//cdn-images.audioaddict.com/4/c/4/a/2/6/4c4a265850d762930166e83418527404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/4/a/2/6/4c4a265850d762930166e83418527404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tee Grizzley",
+    "display_artist": "Tee Grizzley",
+    "title": "Pray For The Drip feat. Offset (Explicit)",
+    "display_title": "Pray For The Drip feat. Offset (Explicit)",
+    "track": "Tee Grizzley - Pray For The Drip feat. Offset (Explicit)",
+    "length": 169,
+    "duration": 169,
+    "started": 1717395237,
+    "type": "track",
+    "track_id": 2911983,
+    "release": "Pray for the Drip",
+    "art_url": "//cdn-images.audioaddict.com/1/e/5/b/1/5/1e5b1502f9f367615f35174a7b03c216.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/5/b/1/5/1e5b1502f9f367615f35174a7b03c216.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Gucci Mane",
+    "display_artist": "Gucci Mane",
+    "title": "I Get The Bag feat. Migos",
+    "display_title": "I Get The Bag feat. Migos",
+    "track": "Gucci Mane - I Get The Bag feat. Migos",
+    "length": 233,
+    "duration": 233,
+    "started": 1717395726,
+    "type": "track",
+    "track_id": 2149215,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/b/4/a/e/c/8b4aec79c188cc945e921aec30549237.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/b/4/a/e/c/8b4aec79c188cc945e921aec30549237.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YG",
+    "display_artist": "YG",
+    "title": "My Hitta feat. Young Jeezy & Rich Homie Quan ",
+    "display_title": "My Hitta feat. Young Jeezy & Rich Homie Quan ",
+    "track": "YG - My Hitta feat. Young Jeezy & Rich Homie Quan ",
+    "length": 238,
+    "duration": 238,
+    "started": 1717396159,
+    "type": "track",
+    "track_id": 1251601,
+    "release": "My Krazy Life",
+    "art_url": "//cdn-images.audioaddict.com/5/6/0/4/e/6/5604e6175120e63426cb885bf5fa356e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/0/4/e/6/5604e6175120e63426cb885bf5fa356e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rae Sremmurd",
+    "display_artist": "Rae Sremmurd",
+    "title": "Black Beatles feat. Gucci Mane",
+    "display_title": "Black Beatles feat. Gucci Mane",
+    "track": "Rae Sremmurd - Black Beatles feat. Gucci Mane",
+    "length": 288,
+    "duration": 288,
+    "started": 1717396533,
+    "type": "track",
+    "track_id": 1274225,
+    "release": "SremmLife 2 [Deluxe]",
+    "art_url": "//cdn-images.audioaddict.com/3/0/2/9/4/3/302943b05ce570309ea6daa6dc0afc43.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/2/9/4/3/302943b05ce570309ea6daa6dc0afc43.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Snoop Dogg",
+    "display_artist": "Snoop Dogg",
+    "title": "Drop It Like It's Hot feat. Pharrell",
+    "display_title": "Drop It Like It's Hot feat. Pharrell",
+    "track": "Snoop Dogg - Drop It Like It's Hot feat. Pharrell",
+    "length": 268,
+    "duration": 268,
+    "started": 1717396819,
+    "type": "track",
+    "track_id": 26863,
+    "release": "R & G (Rhythm & Gangsta): The Masterpiece",
+    "art_url": "//cdn-images.audioaddict.com/e/f/c/d/b/7/efcdb74a8b1e137e160823202c973834.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/c/d/b/7/efcdb74a8b1e137e160823202c973834.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Baby",
+    "display_artist": "Lil Baby",
+    "title": "Low Down",
+    "display_title": "Low Down",
+    "track": "Lil Baby - Low Down",
+    "length": 144,
+    "duration": 144,
+    "started": 1717397328,
+    "type": "track",
+    "track_id": 3070400,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/7/e/d/4/3/17ed4377fd5a49394918e6579fdf7042.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/e/d/4/3/17ed4377fd5a49394918e6579fdf7042.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "E-40",
+    "display_artist": "E-40",
+    "title": "U & Dat feat. T-Pain",
+    "display_title": "U & Dat feat. T-Pain",
+    "track": "E-40 - U & Dat feat. T-Pain",
+    "length": 211,
+    "duration": 211,
+    "started": 1717397710,
+    "type": "track",
+    "track_id": 1251485,
+    "release": "U And Dat Featuring T-Pain& Kandi Girl",
+    "art_url": "//cdn-images.audioaddict.com/7/5/8/c/a/f/758caf4e7069da7908e73c0487a6d0d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/8/c/a/f/758caf4e7069da7908e73c0487a6d0d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tay-K",
+    "display_artist": "Tay-K",
+    "title": "The Race (Explicit)",
+    "display_title": "The Race (Explicit)",
+    "track": "Tay-K - The Race (Explicit)",
+    "length": 139,
+    "duration": 139,
+    "started": 1717398048,
+    "type": "track",
+    "track_id": 2919465,
+    "release": "#SantanaWorld (+)",
+    "art_url": "//cdn-images.audioaddict.com/8/4/7/9/8/3/8479833318ab9868a916113e0e86b052.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/7/9/8/3/8479833318ab9868a916113e0e86b052.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "50 Cent",
+    "display_artist": "50 Cent",
+    "title": "Wanksta",
+    "display_title": "Wanksta",
+    "track": "50 Cent - Wanksta",
+    "length": 219,
+    "duration": 219,
+    "started": 1717398363,
+    "type": "track",
+    "track_id": 873075,
+    "release": "Get Rich Or Die Tryin'",
+    "art_url": "//cdn-images.audioaddict.com/1/c/b/b/8/2/1cbb825b02e71aae8ee666c68f0170f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/b/b/8/2/1cbb825b02e71aae8ee666c68f0170f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "XXXTENTACION",
+    "display_artist": "XXXTENTACION",
+    "title": "Jocelyn Flores",
+    "display_title": "Jocelyn Flores",
+    "track": "XXXTENTACION - Jocelyn Flores",
+    "length": 118,
+    "duration": 118,
+    "started": 1717398774,
+    "type": "track",
+    "track_id": 2274545,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/4/5/6/f/8/0456f832c1a95a7b6dfbf6fe633563c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/5/6/f/8/0456f832c1a95a7b6dfbf6fe633563c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tee Grizzley",
+    "display_artist": "Tee Grizzley",
+    "title": "2 Vaults feat. Lil Yachty",
+    "display_title": "2 Vaults feat. Lil Yachty",
+    "track": "Tee Grizzley - 2 Vaults feat. Lil Yachty",
+    "length": 210,
+    "duration": 210,
+    "started": 1717399060,
+    "type": "track",
+    "track_id": 2897077,
+    "release": "2 Vaults [Single]",
+    "art_url": "//cdn-images.audioaddict.com/3/1/d/c/b/3/31dcb32e997acbf2d7e3f4262e468ea9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/d/c/b/3/31dcb32e997acbf2d7e3f4262e468ea9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "J. Cole",
+    "display_artist": "J. Cole",
+    "title": "Apparently",
+    "display_title": "Apparently",
+    "track": "J. Cole - Apparently",
+    "length": 293,
+    "duration": 293,
+    "started": 1717399435,
+    "type": "track",
+    "track_id": 946010,
+    "release": "2014 Forest Hills Drive",
+    "art_url": "//cdn-images.audioaddict.com/2/9/a/7/f/d/29a7fdcf7c7a2dfe9af2ce315b58e826.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/a/7/f/d/29a7fdcf7c7a2dfe9af2ce315b58e826.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "God's Plan (Clean)",
+    "display_title": "God's Plan (Clean)",
+    "track": "Drake - God's Plan (Clean)",
+    "length": 199,
+    "duration": 199,
+    "started": 1717400255,
+    "type": "track",
+    "track_id": 2851634,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/9/8/6/3/4/1986346e6f64f0343e605c8d0b470709.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/8/6/3/4/1986346e6f64f0343e605c8d0b470709.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Trey Songz",
+    "display_artist": "Trey Songz",
+    "title": "Hail Mary feat. Lil Wayne & Young Jeezy",
+    "display_title": "Hail Mary feat. Lil Wayne & Young Jeezy",
+    "track": "Trey Songz - Hail Mary feat. Lil Wayne & Young Jeezy",
+    "length": 250,
+    "duration": 250,
+    "started": 1717400689,
+    "type": "track",
+    "track_id": 1251421,
+    "release": "Block2",
+    "art_url": "//cdn-images.audioaddict.com/6/8/5/5/b/9/6855b9eee7c761a6f08b539d57cea86c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/5/5/b/9/6855b9eee7c761a6f08b539d57cea86c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Eminem",
+    "display_artist": "Eminem",
+    "title": "Crack A Bottle feat. Dr. Dre & 50 Cent",
+    "display_title": "Crack A Bottle feat. Dr. Dre & 50 Cent",
+    "track": "Eminem - Crack A Bottle feat. Dr. Dre & 50 Cent",
+    "length": 326,
+    "duration": 326,
+    "started": 1717400925,
+    "type": "track",
+    "track_id": 1251355,
+    "release": "Relapse",
+    "art_url": "//cdn-images.audioaddict.com/5/4/a/b/f/9/54abf93dcd4c8eaed3d82d40c92ed126.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/a/b/f/9/54abf93dcd4c8eaed3d82d40c92ed126.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kanye West",
+    "display_artist": "Kanye West",
+    "title": "Clique feat. Big Sean & Jay-Z",
+    "display_title": "Clique feat. Big Sean & Jay-Z",
+    "track": "Kanye West - Clique feat. Big Sean & Jay-Z",
+    "length": 303,
+    "duration": 303,
+    "started": 1717401239,
+    "type": "track",
+    "track_id": 1251373,
+    "release": "Rap God - Jay-Z",
+    "art_url": "//cdn-images.audioaddict.com/7/7/b/a/1/0/77ba10c440868ab973dd025330291344.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/b/a/1/0/77ba10c440868ab973dd025330291344.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Young Jeezy",
+    "display_artist": "Young Jeezy",
+    "title": "Put On feat. Kanye West",
+    "display_title": "Put On feat. Kanye West",
+    "track": "Young Jeezy - Put On feat. Kanye West",
+    "length": 311,
+    "duration": 311,
+    "started": 1717401693,
+    "type": "track",
+    "track_id": 1251612,
+    "release": "Put On feat. Kanye West",
+    "art_url": "//cdn-images.audioaddict.com/3/5/4/6/6/1/35466173a9bbfb53b42a090f2c6d090c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/4/6/6/1/35466173a9bbfb53b42a090f2c6d090c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Metro Boomin",
+    "display_artist": "Metro Boomin",
+    "title": "10 Freaky Girls feat. 21 Savage (Explicit)",
+    "display_title": "10 Freaky Girls feat. 21 Savage (Explicit)",
+    "track": "Metro Boomin - 10 Freaky Girls feat. 21 Savage (Explicit)",
+    "length": 208,
+    "duration": 208,
+    "started": 1717402240,
+    "type": "track",
+    "track_id": 2911973,
+    "release": "10 Freaky Girls",
+    "art_url": "//cdn-images.audioaddict.com/9/6/c/9/3/7/96c9377aa004a073c5ebdcd9ac2c64ee.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/c/9/3/7/96c9377aa004a073c5ebdcd9ac2c64ee.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Travis Scott",
+    "display_artist": "Travis Scott",
+    "title": "Butterfly Effect",
+    "display_title": "Butterfly Effect",
+    "track": "Travis Scott - Butterfly Effect",
+    "length": 197,
+    "duration": 197,
+    "started": 1717402672,
+    "type": "track",
+    "track_id": 2023313,
+    "release": "Butterfly Effect [Single]",
+    "art_url": "//cdn-images.audioaddict.com/1/8/e/a/4/b/18ea4bf7c86ad9f969ee2dcc436ae943.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/e/a/4/b/18ea4bf7c86ad9f969ee2dcc436ae943.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Nicki Minaj",
+    "display_artist": "Nicki Minaj",
+    "title": "Only feat. Drake, Lil' Wayne & Chris Brown",
+    "display_title": "Only feat. Drake, Lil' Wayne & Chris Brown",
+    "track": "Nicki Minaj - Only feat. Drake, Lil' Wayne & Chris Brown",
+    "length": 316,
+    "duration": 316,
+    "started": 1717403079,
+    "type": "track",
+    "track_id": 1251544,
+    "release": "The Pinkprint",
+    "art_url": "//cdn-images.audioaddict.com/a/6/4/d/7/f/a64d7f09f9c96e68dacc51b338751eca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/4/d/7/f/a64d7f09f9c96e68dacc51b338751eca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kevo Jefe, Casa Di, Steve Terrell",
+    "display_artist": "Kevo Jefe, Casa Di, Steve Terrell",
+    "title": "Baddie Friend (Two Bad Bitches) (feat. House of Evo)",
+    "display_title": "Baddie Friend (Two Bad Bitches) (feat. House of Evo)",
+    "track": "Kevo Jefe, Casa Di, Steve Terrell - Baddie Friend (Two Bad Bitches) (feat. House of Evo)",
+    "length": 155,
+    "duration": 155,
+    "started": 1717403789,
+    "type": "track",
+    "track_id": 3092500,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/d/1/b/a/9bd1bab1cd7c790d60f32add421f874f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/d/1/b/a/9bd1bab1cd7c790d60f32add421f874f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Travis Scott",
+    "display_artist": "Travis Scott",
+    "title": "Sicko Mode feat. Drake, Juicy J & Swae Lee (Explicit)",
+    "display_title": "Sicko Mode feat. Drake, Juicy J & Swae Lee (Explicit)",
+    "track": "Travis Scott - Sicko Mode feat. Drake, Juicy J & Swae Lee (Explicit)",
+    "length": 312,
+    "duration": 312,
+    "started": 1717404152,
+    "type": "track",
+    "track_id": 2911928,
+    "release": "ASTROWORLD",
+    "art_url": "//cdn-images.audioaddict.com/a/b/d/8/a/c/abd8ac4a4a269d4084f0367f9e97d987.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/d/8/a/c/abd8ac4a4a269d4084f0367f9e97d987.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YNW Melly",
+    "display_artist": "YNW Melly",
+    "title": "Murder On My Mind (Explicit)",
+    "display_title": "Murder On My Mind (Explicit)",
+    "track": "YNW Melly - Murder On My Mind (Explicit)",
+    "length": 269,
+    "duration": 269,
+    "started": 1717404630,
+    "type": "track",
+    "track_id": 2911989,
+    "release": "Murder On My Mind",
+    "art_url": "//cdn-images.audioaddict.com/2/f/1/a/5/d/2f1a5d8a56718c70e4789c74a6307aa4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/1/a/5/d/2f1a5d8a56718c70e4789c74a6307aa4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Meek Mill",
+    "display_artist": "Meek Mill",
+    "title": "Flexin' On Em",
+    "display_title": "Flexin' On Em",
+    "track": "Meek Mill - Flexin' On Em",
+    "length": 278,
+    "duration": 278,
+    "started": 1717405328,
+    "type": "track",
+    "track_id": 842867,
+    "release": "This Is The Heat 2",
+    "art_url": "//cdn-images.audioaddict.com/3/0/c/d/7/7/30cd774fcd33778de4f222bea7bc9b0b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/c/d/7/7/30cd774fcd33778de4f222bea7bc9b0b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Fat Joe & Remy Ma",
+    "display_artist": "Fat Joe & Remy Ma",
+    "title": "All The Way feat. French Montana",
+    "display_title": "All The Way feat. French Montana",
+    "track": "Fat Joe & Remy Ma - All The Way feat. French Montana",
+    "length": 196,
+    "duration": 196,
+    "started": 1717405604,
+    "type": "track",
+    "track_id": 1251356,
+    "release": "Platas o Plomo",
+    "art_url": "//cdn-images.audioaddict.com/b/0/b/8/1/0/b0b81000adb719e2dcf6cf7858171b63.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/b/8/1/0/b0b81000adb719e2dcf6cf7858171b63.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Juice WRLD",
+    "display_artist": "Juice WRLD",
+    "title": "Lucid Dreams",
+    "display_title": "Lucid Dreams",
+    "track": "Juice WRLD - Lucid Dreams",
+    "length": 239,
+    "duration": 239,
+    "started": 1717406286,
+    "type": "track",
+    "track_id": 2897060,
+    "release": "Goodbye & Good Riddance",
+    "art_url": "//cdn-images.audioaddict.com/9/7/b/e/8/d/97be8d0d42aee0966b8c68033812b761.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/b/e/8/d/97be8d0d42aee0966b8c68033812b761.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Wayne",
+    "display_artist": "Lil Wayne",
+    "title": "Believe Me feat. Drake",
+    "display_title": "Believe Me feat. Drake",
+    "track": "Lil Wayne - Believe Me feat. Drake",
+    "length": 346,
+    "duration": 346,
+    "started": 1717406744,
+    "type": "track",
+    "track_id": 1251381,
+    "release": "Believe Me",
+    "art_url": "//cdn-images.audioaddict.com/e/a/d/c/f/0/eadcf070a49de172885d05cf23f0c6bb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/d/c/f/0/eadcf070a49de172885d05cf23f0c6bb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Young T & Bugsey",
+    "display_artist": "Young T & Bugsey",
+    "title": "Don't Rush (feat. Headie One)",
+    "display_title": "Don't Rush (feat. Headie One)",
+    "track": "Young T & Bugsey - Don't Rush (feat. Headie One)",
+    "length": 207,
+    "duration": 207,
+    "started": 1717407246,
+    "type": "track",
+    "track_id": 2989892,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/f/6/e/4/d/7f6e4d586af3bf5951a6eba044d71d4c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/6/e/4/d/7f6e4d586af3bf5951a6eba044d71d4c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Cardi B",
+    "display_artist": "Cardi B",
+    "title": "Bartier Cardi feat. 21 Savage",
+    "display_title": "Bartier Cardi feat. 21 Savage",
+    "track": "Cardi B - Bartier Cardi feat. 21 Savage",
+    "length": 214,
+    "duration": 214,
+    "started": 1717407453,
+    "type": "track",
+    "track_id": 2274485,
+    "release": "Bartier Cardi (Featuring 21 Savage)",
+    "art_url": "//cdn-images.audioaddict.com/c/1/7/c/c/c/c17ccc30ec965cd5cab2d83de9a8c2de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/1/7/c/c/c/c17ccc30ec965cd5cab2d83de9a8c2de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Iamsu!",
+    "display_artist": "Iamsu!",
+    "title": "Only That Real feat. 2 Chainz & Sage The Gemini",
+    "display_title": "Only That Real feat. 2 Chainz & Sage The Gemini",
+    "track": "Iamsu! - Only That Real feat. 2 Chainz & Sage The Gemini",
+    "length": 224,
+    "duration": 224,
+    "started": 1717407880,
+    "type": "track",
+    "track_id": 1251367,
+    "release": "Only That Real feat. 2 Chainz & Sage The Gemini",
+    "art_url": "//cdn-images.audioaddict.com/f/c/9/0/d/5/fc90d5d11e0b2173da7182df01382161.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/c/9/0/d/5/fc90d5d11e0b2173da7182df01382161.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Pop Smoke",
+    "display_artist": "Pop Smoke",
+    "title": "For The Night (feat. Lil Baby, DaBaby)",
+    "display_title": "For The Night (feat. Lil Baby, DaBaby)",
+    "track": "Pop Smoke - For The Night (feat. Lil Baby, DaBaby)",
+    "length": 190,
+    "duration": 190,
+    "started": 1717408291,
+    "type": "track",
+    "track_id": 2989886,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/6/b/1/3/a/56b13aef43dd6a42c680f9b4f59e015a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/b/1/3/a/56b13aef43dd6a42c680f9b4f59e015a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rich Homie Quan",
+    "display_artist": "Rich Homie Quan",
+    "title": "Type Of Way",
+    "display_title": "Type Of Way",
+    "track": "Rich Homie Quan - Type Of Way",
+    "length": 261,
+    "duration": 261,
+    "started": 1717408712,
+    "type": "track",
+    "track_id": 946254,
+    "release": "Type Of Way",
+    "art_url": "//cdn-images.audioaddict.com/e/9/c/2/9/4/e9c2940a8e8274f36b65ce07f5e4a190.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/c/2/9/4/e9c2940a8e8274f36b65ce07f5e4a190.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Eminem",
+    "display_artist": "Eminem",
+    "title": "Rap God",
+    "display_title": "Rap God",
+    "track": "Eminem - Rap God",
+    "length": 363,
+    "duration": 363,
+    "started": 1717408972,
+    "type": "track",
+    "track_id": 872942,
+    "release": "The Marshall Mathers LP2",
+    "art_url": "//cdn-images.audioaddict.com/0/7/3/3/b/c/0733bcedda8da6b45eed9860f1a99360.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/3/3/b/c/0733bcedda8da6b45eed9860f1a99360.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Wayne",
+    "display_artist": "Lil Wayne",
+    "title": "Bitches Love Me feat. Drake & Future",
+    "display_title": "Bitches Love Me feat. Drake & Future",
+    "track": "Lil Wayne - Bitches Love Me feat. Drake & Future",
+    "length": 311,
+    "duration": 311,
+    "started": 1717409519,
+    "type": "track",
+    "track_id": 1251523,
+    "release": "Bitches Love Me feat. Drake & Future",
+    "art_url": "//cdn-images.audioaddict.com/8/9/1/d/4/1/891d4142a240e5a3f870a7ea8393435f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/1/d/4/1/891d4142a240e5a3f870a7ea8393435f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Desiigner",
+    "display_artist": "Desiigner",
+    "title": "Panda",
+    "display_title": "Panda",
+    "track": "Desiigner - Panda",
+    "length": 249,
+    "duration": 249,
+    "started": 1717409827,
+    "type": "track",
+    "track_id": 1251338,
+    "release": "Panda [Single]",
+    "art_url": "//cdn-images.audioaddict.com/5/5/c/1/b/8/55c1b877db775ffcfcbbc97438d94f5e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/c/1/b/8/55c1b877db775ffcfcbbc97438d94f5e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Ja Rule",
+    "display_artist": "Ja Rule",
+    "title": "Clap Back",
+    "display_title": "Clap Back",
+    "track": "Ja Rule - Clap Back",
+    "length": 306,
+    "duration": 306,
+    "started": 1717410262,
+    "type": "track",
+    "track_id": 842775,
+    "release": "Blood In My Eye",
+    "art_url": "//cdn-images.audioaddict.com/8/7/5/7/a/d/8757adb1bacecd91302174a417254493.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/5/7/a/d/8757adb1bacecd91302174a417254493.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YG",
+    "display_artist": "YG",
+    "title": "Really Be (Smokin N Drinkin) feat. Kendrick Lamar",
+    "display_title": "Really Be (Smokin N Drinkin) feat. Kendrick Lamar",
+    "track": "YG - Really Be (Smokin N Drinkin) feat. Kendrick Lamar",
+    "length": 314,
+    "duration": 314,
+    "started": 1717410556,
+    "type": "track",
+    "track_id": 1251436,
+    "release": "My Krazy Life",
+    "art_url": "//cdn-images.audioaddict.com/e/c/9/c/8/b/ec9c8b4d9c953a890a462edae9a08d25.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/9/c/8/b/ec9c8b4d9c953a890a462edae9a08d25.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Que",
+    "display_artist": "Que",
+    "title": "OG Bobby Johnson (ATL Mix) feat. T.I. & Young Jeezy",
+    "display_title": "OG Bobby Johnson (ATL Mix) feat. T.I. & Young Jeezy",
+    "track": "Que - OG Bobby Johnson (ATL Mix) feat. T.I. & Young Jeezy",
+    "length": 236,
+    "duration": 236,
+    "started": 1717411789,
+    "type": "track",
+    "track_id": 1251553,
+    "release": "Who Is QUE.",
+    "art_url": "//cdn-images.audioaddict.com/7/b/a/5/0/8/7ba5084abfe3097c8c5cc06bce18fa4f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/b/a/5/0/8/7ba5084abfe3097c8c5cc06bce18fa4f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Yung Joc",
+    "display_artist": "Yung Joc",
+    "title": "It's Goin' Down",
+    "display_title": "It's Goin' Down",
+    "track": "Yung Joc - It's Goin' Down",
+    "length": 240,
+    "duration": 240,
+    "started": 1717412019,
+    "type": "track",
+    "track_id": 5644,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/3/8/6/2/b/13862bb791743a70586134d05878fb35.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/8/6/2/b/13862bb791743a70586134d05878fb35.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "Gyalchester",
+    "display_title": "Gyalchester",
+    "track": "Drake - Gyalchester",
+    "length": 189,
+    "duration": 189,
+    "started": 1717412481,
+    "type": "track",
+    "track_id": 1417014,
+    "release": "More Life",
+    "art_url": "//cdn-images.audioaddict.com/5/6/d/1/6/6/56d166f0d4d06e6dc7579591de6876dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/d/1/6/6/56d166f0d4d06e6dc7579591de6876dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Wayne",
+    "display_artist": "Lil Wayne",
+    "title": "She Will feat. Drake",
+    "display_title": "She Will feat. Drake",
+    "track": "Lil Wayne - She Will feat. Drake",
+    "length": 305,
+    "duration": 305,
+    "started": 1717412962,
+    "type": "track",
+    "track_id": 872976,
+    "release": "Tha Carter IV (Deluxe Edition)",
+    "art_url": "//cdn-images.audioaddict.com/8/2/4/b/6/e/824b6e026658bf9b28dc9d389772e08e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/4/b/6/e/824b6e026658bf9b28dc9d389772e08e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Migos",
+    "display_artist": "Migos",
+    "title": "Slippery feat. Gucci Mane",
+    "display_title": "Slippery feat. Gucci Mane",
+    "track": "Migos - Slippery feat. Gucci Mane",
+    "length": 309,
+    "duration": 309,
+    "started": 1717413268,
+    "type": "track",
+    "track_id": 2023293,
+    "release": "Culture",
+    "art_url": "//cdn-images.audioaddict.com/7/b/a/b/c/9/7babc986e851bd1b462e170d6839b6fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/b/a/b/c/9/7babc986e851bd1b462e170d6839b6fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Migos",
+    "display_artist": "Migos",
+    "title": "MotorSport feat. Cardi B & Nicki Minaj",
+    "display_title": "MotorSport feat. Cardi B & Nicki Minaj",
+    "track": "Migos - MotorSport feat. Cardi B & Nicki Minaj",
+    "length": 1035,
+    "duration": 1035,
+    "started": 1717413760,
+    "type": "track",
+    "track_id": 2169639,
+    "release": "Motorsport",
+    "art_url": "//cdn-images.audioaddict.com/c/f/9/1/6/a/cf916a5f5cd28369770a527cc91b4c6f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/9/1/6/a/cf916a5f5cd28369770a527cc91b4c6f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Wayne",
+    "display_artist": "Lil Wayne",
+    "title": "How to Love",
+    "display_title": "How to Love",
+    "track": "Lil Wayne - How to Love",
+    "length": 241,
+    "duration": 241,
+    "started": 1717414084,
+    "type": "track",
+    "track_id": 15050,
+    "release": "Tha Carter IV [Explicit Version]",
+    "art_url": "//cdn-images.audioaddict.com/f/5/4/5/7/3/f54573dc6a05d56fc623dad3b299de93.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/5/4/5/7/3/f54573dc6a05d56fc623dad3b299de93.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Skies",
+    "display_artist": "Lil Skies",
+    "title": "Red Roses feat. Landon Cube",
+    "display_title": "Red Roses feat. Landon Cube",
+    "track": "Lil Skies - Red Roses feat. Landon Cube",
+    "length": 262,
+    "duration": 262,
+    "started": 1717414446,
+    "type": "track",
+    "track_id": 2866984,
+    "release": "Red Roses",
+    "art_url": "//cdn-images.audioaddict.com/f/3/3/6/0/1/f33601f2b7e1d059cecba092367baf0f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/3/6/0/1/f33601f2b7e1d059cecba092367baf0f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake, 21 Savage",
+    "display_artist": "Drake, 21 Savage",
+    "title": "Spin Bout U",
+    "display_title": "Spin Bout U",
+    "track": "Drake, 21 Savage - Spin Bout U",
+    "length": 214,
+    "duration": 214,
+    "started": 1717414708,
+    "type": "track",
+    "track_id": 3070399,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/a/b/3/0/a/dab30aca3e32fa929cbd22946b4ee3f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/b/3/0/a/dab30aca3e32fa929cbd22946b4ee3f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "Toosie Slide",
+    "display_title": "Toosie Slide",
+    "track": "Drake - Toosie Slide",
+    "length": 247,
+    "duration": 247,
+    "started": 1717415304,
+    "type": "track",
+    "track_id": 2989875,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/5/7/2/a/3/e572a3b940647705b85500ef85844d0c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/7/2/a/3/e572a3b940647705b85500ef85844d0c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "XXXTENTACION",
+    "display_artist": "XXXTENTACION",
+    "title": "Fuck Love feat. Trippie Redd",
+    "display_title": "Fuck Love feat. Trippie Redd",
+    "track": "XXXTENTACION - Fuck Love feat. Trippie Redd",
+    "length": 145,
+    "duration": 145,
+    "started": 1717415550,
+    "type": "track",
+    "track_id": 2274544,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/4/5/6/f/8/0456f832c1a95a7b6dfbf6fe633563c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/5/6/f/8/0456f832c1a95a7b6dfbf6fe633563c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Uzi Vert",
+    "display_artist": "Lil Uzi Vert",
+    "title": "XO Tour Llif3",
+    "display_title": "XO Tour Llif3",
+    "track": "Lil Uzi Vert - XO Tour Llif3",
+    "length": 181,
+    "duration": 181,
+    "started": 1717416019,
+    "type": "track",
+    "track_id": 1417078,
+    "release": "XO Tour Llif3 [Single]",
+    "art_url": "//cdn-images.audioaddict.com/7/f/3/7/0/a/7f370aab201a4de1b34b566456024f6b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/3/7/0/a/7f370aab201a4de1b34b566456024f6b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kodak Black",
+    "display_artist": "Kodak Black",
+    "title": "Transportin'",
+    "display_title": "Transportin'",
+    "track": "Kodak Black - Transportin'",
+    "length": 181,
+    "duration": 181,
+    "started": 1717416327,
+    "type": "track",
+    "track_id": 2169634,
+    "release": "Transportation",
+    "art_url": "//cdn-images.audioaddict.com/c/5/f/9/8/2/c5f9821cc5d4584584547472964730bf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/f/9/8/2/c5f9821cc5d4584584547472964730bf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YG",
+    "display_artist": "YG",
+    "title": "I Just Wanna Party feat. Schoolboy Q & Jay Rock",
+    "display_title": "I Just Wanna Party feat. Schoolboy Q & Jay Rock",
+    "track": "YG - I Just Wanna Party feat. Schoolboy Q & Jay Rock",
+    "length": 215,
+    "duration": 215,
+    "started": 1717416682,
+    "type": "track",
+    "track_id": 1251599,
+    "release": "My Krazy Life",
+    "art_url": "//cdn-images.audioaddict.com/5/6/0/4/e/6/5604e6175120e63426cb885bf5fa356e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/0/4/e/6/5604e6175120e63426cb885bf5fa356e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kevin Gates",
+    "display_artist": "Kevin Gates",
+    "title": "Really Really",
+    "display_title": "Really Really",
+    "track": "Kevin Gates - Really Really",
+    "length": 237,
+    "duration": 237,
+    "started": 1717417064,
+    "type": "track",
+    "track_id": 1251377,
+    "release": "Islah",
+    "art_url": "//cdn-images.audioaddict.com/3/1/5/7/b/3/3157b38eb28432aad9a30961ef16357c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/5/7/b/3/3157b38eb28432aad9a30961ef16357c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Internet money",
+    "display_artist": "Internet money",
+    "title": "Somebody",
+    "display_title": "Somebody",
+    "track": "Internet money - Somebody",
+    "length": 174,
+    "duration": 174,
+    "started": 1717417445,
+    "type": "track",
+    "track_id": 2954397,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/f/0/7/1/6/4f071666e190f73bab887baccee4c9ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/0/7/1/6/4f071666e190f73bab887baccee4c9ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Future",
+    "display_artist": "Future",
+    "title": "Low Life feat. The Weeknd",
+    "display_title": "Low Life feat. The Weeknd",
+    "track": "Future - Low Life feat. The Weeknd",
+    "length": 318,
+    "duration": 318,
+    "started": 1717417617,
+    "type": "track",
+    "track_id": 1251362,
+    "release": "Evol",
+    "art_url": "//cdn-images.audioaddict.com/a/5/2/2/5/8/a52258e185c6a1f5d947e860873059d9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/2/2/5/8/a52258e185c6a1f5d947e860873059d9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Clyde Carson",
+    "display_artist": "Clyde Carson",
+    "title": "Bring Em Out",
+    "display_title": "Bring Em Out",
+    "track": "Clyde Carson - Bring Em Out",
+    "length": 169,
+    "duration": 169,
+    "started": 1717418225,
+    "type": "track",
+    "track_id": 872617,
+    "release": "Playboy",
+    "art_url": "//cdn-images.audioaddict.com/4/5/a/1/b/9/45a1b9b8e3a96e855f87eb1b3328da95.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/a/1/b/9/45a1b9b8e3a96e855f87eb1b3328da95.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Baby & Gunna",
+    "display_artist": "Lil Baby & Gunna",
+    "title": "Drip Too Hard (Explicit)",
+    "display_title": "Drip Too Hard (Explicit)",
+    "track": "Lil Baby & Gunna - Drip Too Hard (Explicit)",
+    "length": 145,
+    "duration": 145,
+    "started": 1717418548,
+    "type": "track",
+    "track_id": 2911921,
+    "release": "Drip Too Hard",
+    "art_url": "//cdn-images.audioaddict.com/f/2/f/e/c/f/f2fecfb0658f03f6c475e83fc83370c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/2/f/e/c/f/f2fecfb0658f03f6c475e83fc83370c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Pop Smoke",
+    "display_artist": "Pop Smoke",
+    "title": "Aim For The Moon",
+    "display_title": "Aim For The Moon",
+    "track": "Pop Smoke - Aim For The Moon",
+    "length": 175,
+    "duration": 175,
+    "started": 1717419023,
+    "type": "track",
+    "track_id": 2989885,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/6/b/1/3/a/56b13aef43dd6a42c680f9b4f59e015a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/b/1/3/a/56b13aef43dd6a42c680f9b4f59e015a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "21 Savage",
+    "display_artist": "21 Savage",
+    "title": "Bank Account",
+    "display_title": "Bank Account",
+    "track": "21 Savage - Bank Account",
+    "length": 225,
+    "duration": 225,
+    "started": 1717419430,
+    "type": "track",
+    "track_id": 2023212,
+    "release": "Issa Album",
+    "art_url": "//cdn-images.audioaddict.com/0/d/a/f/e/d/0dafed5662f0759a9a7c3796149afd84.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/a/f/e/d/0dafed5662f0759a9a7c3796149afd84.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Tjay",
+    "display_artist": "Lil Tjay",
+    "title": "F.N",
+    "display_title": "F.N",
+    "track": "Lil Tjay - F.N",
+    "length": 224,
+    "duration": 224,
+    "started": 1717419648,
+    "type": "track",
+    "track_id": 2954404,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/a/6/0/0/8/aa6008334910adc1fd7b14fbdfeea365.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/6/0/0/8/aa6008334910adc1fd7b14fbdfeea365.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kendrick Lamar",
+    "display_artist": "Kendrick Lamar",
+    "title": "Swimming Pools (Drink)",
+    "display_title": "Swimming Pools (Drink)",
+    "track": "Kendrick Lamar - Swimming Pools (Drink)",
+    "length": 339,
+    "duration": 339,
+    "started": 1717419872,
+    "type": "track",
+    "track_id": 349859,
+    "release": "Top Hits 2001-2",
+    "art_url": "//cdn-images.audioaddict.com/3/1/7/c/8/b/317c8b9e9731569143533402a3274409.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/7/c/8/b/317c8b9e9731569143533402a3274409.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Wayne",
+    "display_artist": "Lil Wayne",
+    "title": "Lollipop",
+    "display_title": "Lollipop",
+    "track": "Lil Wayne - Lollipop",
+    "length": 253,
+    "duration": 253,
+    "started": 1717420365,
+    "type": "track",
+    "track_id": 18094,
+    "release": "Tha Carter III",
+    "art_url": "//cdn-images.audioaddict.com/b/5/b/4/f/8/b5b4f85f29ba942143bb373edea57015.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/b/4/f/8/b5b4f85f29ba942143bb373edea57015.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "D.R.A.M.",
+    "display_artist": "D.R.A.M.",
+    "title": "Broccoli feat. Lil Yachty",
+    "display_title": "Broccoli feat. Lil Yachty",
+    "track": "D.R.A.M. - Broccoli feat. Lil Yachty",
+    "length": 228,
+    "duration": 228,
+    "started": 1717421190,
+    "type": "track",
+    "track_id": 1274187,
+    "release": "Big Baby D.R.A.M.",
+    "art_url": "//cdn-images.audioaddict.com/f/1/8/d/9/2/f18d920457af0124c5d70c133c2969e7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/8/d/9/2/f18d920457af0124c5d70c133c2969e7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "K Camp",
+    "display_artist": "K Camp",
+    "title": "Lil Bit",
+    "display_title": "Lil Bit",
+    "track": "K Camp - Lil Bit",
+    "length": 261,
+    "duration": 261,
+    "started": 1717421541,
+    "type": "track",
+    "track_id": 931856,
+    "release": "Only Way Is Up (Deluxe Edition)",
+    "art_url": "//cdn-images.audioaddict.com/1/9/8/b/f/8/198bf8e0c4b0d66032653cc26774e6bf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/8/b/f/8/198bf8e0c4b0d66032653cc26774e6bf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Sage The Gemini",
+    "display_artist": "Sage The Gemini",
+    "title": "Gas Pedal feat. iamsu",
+    "display_title": "Gas Pedal feat. iamsu",
+    "track": "Sage The Gemini - Gas Pedal feat. iamsu",
+    "length": 214,
+    "duration": 214,
+    "started": 1717422379,
+    "type": "track",
+    "track_id": 1251405,
+    "release": "Remember Me [Edited Version]",
+    "art_url": "//cdn-images.audioaddict.com/a/e/2/6/7/7/ae267700133d59176dbf9f9945fbcddd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/2/6/7/7/ae267700133d59176dbf9f9945fbcddd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Chris Brown & Young Thug",
+    "display_artist": "Chris Brown & Young Thug",
+    "title": "Go Crazy",
+    "display_title": "Go Crazy",
+    "track": "Chris Brown & Young Thug - Go Crazy",
+    "length": 177,
+    "duration": 177,
+    "started": 1717423302,
+    "type": "track",
+    "track_id": 2989872,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/1/9/b/3/7/b19b37857d8469f44d072f69152aa65d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/1/9/b/3/7/b19b37857d8469f44d072f69152aa65d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Toosii",
+    "display_artist": "Toosii",
+    "title": "Favorite Song",
+    "display_title": "Favorite Song",
+    "track": "Toosii - Favorite Song",
+    "length": 208,
+    "duration": 208,
+    "started": 1717423606,
+    "type": "track",
+    "track_id": 3079608,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/d/5/1/2/e/9d512e515848e9fbee44118be86f62b7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/d/5/1/2/e/9d512e515848e9fbee44118be86f62b7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "J. Cole",
+    "display_artist": "J. Cole",
+    "title": "Work Out",
+    "display_title": "Work Out",
+    "track": "J. Cole - Work Out",
+    "length": 240,
+    "duration": 240,
+    "started": 1717424030,
+    "type": "track",
+    "track_id": 10426,
+    "release": "Work Out",
+    "art_url": "//cdn-images.audioaddict.com/2/d/1/f/a/c/2d1fac0af794e2c32f05279d75a0a5f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/1/f/a/c/2d1fac0af794e2c32f05279d75a0a5f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Jeremih",
+    "display_artist": "Jeremih",
+    "title": "Don't Tell Em feat. YG",
+    "display_title": "Don't Tell Em feat. YG",
+    "track": "Jeremih - Don't Tell Em feat. YG",
+    "length": 300,
+    "duration": 300,
+    "started": 1717424268,
+    "type": "track",
+    "track_id": 1251509,
+    "release": "Don't Tell 'Em (feat.YG)",
+    "art_url": "//cdn-images.audioaddict.com/9/a/3/9/2/7/9a3927c04925f39aabaebb444fb9469c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/3/9/2/7/9a3927c04925f39aabaebb444fb9469c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tyga",
+    "display_artist": "Tyga",
+    "title": "Faded feat. Lil Wayne",
+    "display_title": "Faded feat. Lil Wayne",
+    "track": "Tyga - Faded feat. Lil Wayne",
+    "length": 214,
+    "duration": 214,
+    "started": 1717424811,
+    "type": "track",
+    "track_id": 1251426,
+    "release": "Faded feat. Lil Wayne",
+    "art_url": "//cdn-images.audioaddict.com/9/0/b/6/e/8/90b6e804160db7429f67f790e4578b32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/b/6/e/8/90b6e804160db7429f67f790e4578b32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rae Sremmurd",
+    "display_artist": "Rae Sremmurd",
+    "title": "Powerglide feat. Juicy J",
+    "display_title": "Powerglide feat. Juicy J",
+    "track": "Rae Sremmurd - Powerglide feat. Juicy J",
+    "length": 267,
+    "duration": 267,
+    "started": 1717425227,
+    "type": "track",
+    "track_id": 2867000,
+    "release": "Powerglide",
+    "art_url": "//cdn-images.audioaddict.com/f/d/8/e/8/9/fd8e89a87261c6ab29da1f512c4b156b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/8/e/8/9/fd8e89a87261c6ab29da1f512c4b156b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Quavo",
+    "display_artist": "Quavo",
+    "title": "Lose It feat. Lil Baby (Explicit)",
+    "display_title": "Lose It feat. Lil Baby (Explicit)",
+    "track": "Quavo - Lose It feat. Lil Baby (Explicit)",
+    "length": 237,
+    "duration": 237,
+    "started": 1717425493,
+    "type": "track",
+    "track_id": 2911977,
+    "release": "Lose It",
+    "art_url": "//cdn-images.audioaddict.com/b/e/4/7/6/e/be476eb8bedf5f30ee8702059b3533ac.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/4/7/6/e/be476eb8bedf5f30ee8702059b3533ac.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "J.I.D",
+    "display_artist": "J.I.D",
+    "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+    "display_title": "Surround Sound (feat. 21 Savage & Baby Tate)",
+    "track": "J.I.D - Surround Sound (feat. 21 Savage & Baby Tate)",
+    "length": 229,
+    "duration": 229,
+    "started": 1717425932,
+    "type": "track",
+    "track_id": 3092499,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/3/f/7/2/c23f7245bdbe575d8c80afef2de9698b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/3/f/7/2/c23f7245bdbe575d8c80afef2de9698b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tee Grizzley",
+    "display_artist": "Tee Grizzley",
+    "title": "First Day Out (Explicit)",
+    "display_title": "First Day Out (Explicit)",
+    "track": "Tee Grizzley - First Day Out (Explicit)",
+    "length": 254,
+    "duration": 254,
+    "started": 1717426367,
+    "type": "track",
+    "track_id": 2919466,
+    "release": "My Moment",
+    "art_url": "//cdn-images.audioaddict.com/8/1/5/e/b/a/815eba487758f71413edfcf23ec0814d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/5/e/b/a/815eba487758f71413edfcf23ec0814d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Nicki Minaj",
+    "display_artist": "Nicki Minaj",
+    "title": "Truffle Butter",
+    "display_title": "Truffle Butter",
+    "track": "Nicki Minaj - Truffle Butter",
+    "length": 219,
+    "duration": 219,
+    "started": 1717426786,
+    "type": "track",
+    "track_id": 946251,
+    "release": "Truffle Butter feat. Drake & Lil' Wayne",
+    "art_url": "//cdn-images.audioaddict.com/d/9/3/6/8/c/d9368cb33c60406884128296805fd8ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/3/6/8/c/d9368cb33c60406884128296805fd8ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kanye West",
+    "display_artist": "Kanye West",
+    "title": "Wash Us in the Blood (feat. Travis Scott)",
+    "display_title": "Wash Us in the Blood (feat. Travis Scott)",
+    "track": "Kanye West - Wash Us in the Blood (feat. Travis Scott)",
+    "length": 189,
+    "duration": 189,
+    "started": 1717427148,
+    "type": "track",
+    "track_id": 2989877,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/5/7/2/2/0/c5722031d395ffac7865b92c464c967b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/7/2/2/0/c5722031d395ffac7865b92c464c967b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "6ix9ine & Nicki Minaj",
+    "display_artist": "6ix9ine & Nicki Minaj",
+    "title": "TROLLZ",
+    "display_title": "TROLLZ",
+    "track": "6ix9ine & Nicki Minaj - TROLLZ",
+    "length": 202,
+    "duration": 202,
+    "started": 1717427549,
+    "type": "track",
+    "track_id": 2989870,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/a/8/4/6/1/6a8461600dc252797971ec2813421690.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/8/4/6/1/6a8461600dc252797971ec2813421690.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YG",
+    "display_artist": "YG",
+    "title": "Why You Always Hatin' feat. Drake & Kamaiyah",
+    "display_title": "Why You Always Hatin' feat. Drake & Kamaiyah",
+    "track": "YG - Why You Always Hatin' feat. Drake & Kamaiyah",
+    "length": 216,
+    "duration": 216,
+    "started": 1717427967,
+    "type": "track",
+    "track_id": 1274237,
+    "release": "Why You Always Hatin? (feat.Drake/Kamaiyah)",
+    "art_url": "//cdn-images.audioaddict.com/8/1/3/2/6/e/81326edddd70e3c62151ed9ec3659ee9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/3/2/6/e/81326edddd70e3c62151ed9ec3659ee9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Miguel",
+    "display_artist": "Miguel",
+    "title": "Sure Thing",
+    "display_title": "Sure Thing",
+    "track": "Miguel - Sure Thing",
+    "length": 195,
+    "duration": 195,
+    "started": 1717428323,
+    "type": "track",
+    "track_id": 700751,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/d/3/3/e/cfd33eac8a9e6cb53375521a16e34125.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/d/3/3/e/cfd33eac8a9e6cb53375521a16e34125.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Metro Boomin",
+    "display_artist": "Metro Boomin",
+    "title": "Don't Come Out The House feat. 21 Savage (Explicit)",
+    "display_title": "Don't Come Out The House feat. 21 Savage (Explicit)",
+    "track": "Metro Boomin - Don't Come Out The House feat. 21 Savage (Explicit)",
+    "length": 168,
+    "duration": 168,
+    "started": 1717429042,
+    "type": "track",
+    "track_id": 2911974,
+    "release": "Don't Come Out the House",
+    "art_url": "//cdn-images.audioaddict.com/9/6/c/9/3/7/96c9377aa004a073c5ebdcd9ac2c64ee.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/c/9/3/7/96c9377aa004a073c5ebdcd9ac2c64ee.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "DJ Mustard",
+    "display_artist": "DJ Mustard",
+    "title": "Vato feat. Jeezy, YG & Que",
+    "display_title": "Vato feat. Jeezy, YG & Que",
+    "track": "DJ Mustard - Vato feat. Jeezy, YG & Que",
+    "length": 264,
+    "duration": 264,
+    "started": 1717429812,
+    "type": "track",
+    "track_id": 1251472,
+    "release": "Vato",
+    "art_url": "//cdn-images.audioaddict.com/7/b/5/e/1/b/7b5e1ba674872df8e17b643860d8a9e2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/b/5/e/1/b/7b5e1ba674872df8e17b643860d8a9e2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rod Wave",
+    "display_artist": "Rod Wave",
+    "title": "Fight The Feeling",
+    "display_title": "Fight The Feeling",
+    "track": "Rod Wave - Fight The Feeling",
+    "length": 160,
+    "duration": 160,
+    "started": 1717430282,
+    "type": "track",
+    "track_id": 3070406,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/d/f/6/a/5/5df6a5e7cdc9b71daa72da5a4f11e72d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/d/f/6/a/5/5df6a5e7cdc9b71daa72da5a4f11e72d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "T.I.",
+    "display_artist": "T.I.",
+    "title": "No Mediocre feat. Iggy Azalea",
+    "display_title": "No Mediocre feat. Iggy Azalea",
+    "track": "T.I. - No Mediocre feat. Iggy Azalea",
+    "length": 201,
+    "duration": 201,
+    "started": 1717430596,
+    "type": "track",
+    "track_id": 872892,
+    "release": "Paperwork",
+    "art_url": "//cdn-images.audioaddict.com/1/2/4/2/5/c/12425c6ad1e7a8e67dee372e6632a21d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/4/2/5/c/12425c6ad1e7a8e67dee372e6632a21d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Young Thug",
+    "display_artist": "Young Thug",
+    "title": "Sin feat. Jaden Smith (Explicit)",
+    "display_title": "Sin feat. Jaden Smith (Explicit)",
+    "track": "Young Thug - Sin feat. Jaden Smith (Explicit)",
+    "length": 202,
+    "duration": 202,
+    "started": 1717430978,
+    "type": "track",
+    "track_id": 2911990,
+    "release": "Sin",
+    "art_url": "//cdn-images.audioaddict.com/c/9/f/4/4/a/c9f44a4695d69a71a45d352dcc7763c2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/f/4/4/a/c9f44a4695d69a71a45d352dcc7763c2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Youngboy Never Broke Again",
+    "display_artist": "Youngboy Never Broke Again",
+    "title": "No Smoke",
+    "display_title": "No Smoke",
+    "track": "Youngboy Never Broke Again - No Smoke",
+    "length": 173,
+    "duration": 173,
+    "started": 1717431469,
+    "type": "track",
+    "track_id": 2169656,
+    "release": "No Smoke",
+    "art_url": "//cdn-images.audioaddict.com/9/4/9/5/d/0/9495d05563f8f3fae8e52c801d66bdfe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/9/5/d/0/9495d05563f8f3fae8e52c801d66bdfe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "T.I.",
+    "display_artist": "T.I.",
+    "title": "Whatever You Like",
+    "display_title": "Whatever You Like",
+    "track": "T.I. - Whatever You Like",
+    "length": 225,
+    "duration": 225,
+    "started": 1717431824,
+    "type": "track",
+    "track_id": 32317,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/a/c/3/7/f/7ac37fe6abb7739c214b07f1fc69bcb0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/c/3/7/f/7ac37fe6abb7739c214b07f1fc69bcb0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "A$AP Rocky",
+    "display_artist": "A$AP Rocky",
+    "title": "Praise The Lord (Da Shine) feat. Skepta",
+    "display_title": "Praise The Lord (Da Shine) feat. Skepta",
+    "track": "A$AP Rocky - Praise The Lord (Da Shine) feat. Skepta",
+    "length": 205,
+    "duration": 205,
+    "started": 1717432044,
+    "type": "track",
+    "track_id": 2891499,
+    "release": "Praise The Lord",
+    "art_url": "//cdn-images.audioaddict.com/b/c/a/5/9/c/bca59cd480d79c1fcd7e020e2f5063dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/a/5/9/c/bca59cd480d79c1fcd7e020e2f5063dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Migos",
+    "display_artist": "Migos",
+    "title": "Fight Night",
+    "display_title": "Fight Night",
+    "track": "Migos - Fight Night",
+    "length": 221,
+    "duration": 221,
+    "started": 1717432495,
+    "type": "track",
+    "track_id": 844460,
+    "release": "Fight Night",
+    "art_url": "//cdn-images.audioaddict.com/5/0/e/f/9/a/50ef9a448f92ab2f4e0ef8eec6d61c21.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/e/f/9/a/50ef9a448f92ab2f4e0ef8eec6d61c21.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Pusha T",
+    "display_artist": "Pusha T",
+    "title": "Drug Dealers Anonymous feat. Jay Z",
+    "display_title": "Drug Dealers Anonymous feat. Jay Z",
+    "track": "Pusha T - Drug Dealers Anonymous feat. Jay Z",
+    "length": 256,
+    "duration": 256,
+    "started": 1717432934,
+    "type": "track",
+    "track_id": 1251398,
+    "release": "Drug Dealers Anonymous CDS",
+    "art_url": "//cdn-images.audioaddict.com/e/8/1/6/2/3/e81623e87eddd792586aa7eae7b320ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/1/6/2/3/e81623e87eddd792586aa7eae7b320ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Playboi Carti",
+    "display_artist": "Playboi Carti",
+    "title": "Magnolia",
+    "display_title": "Magnolia",
+    "track": "Playboi Carti - Magnolia",
+    "length": 0,
+    "duration": 0,
+    "started": 1717433420,
+    "type": "track",
+    "track_id": 2023330,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/a/b/9/f/c/0ab9fca4712597f2dffbe740aa9e6838.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/b/9/f/c/0ab9fca4712597f2dffbe740aa9e6838.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "Forever feat. Kanye West, Lil Wayne & Eminem",
+    "display_title": "Forever feat. Kanye West, Lil Wayne & Eminem",
+    "track": "Drake - Forever feat. Kanye West, Lil Wayne & Eminem",
+    "length": 331,
+    "duration": 331,
+    "started": 1717433725,
+    "type": "track",
+    "track_id": 1251478,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/e/3/0/9/a/3e309a7338ae92f79ad662c38b2faee0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/e/3/0/9/a/3e309a7338ae92f79ad662c38b2faee0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Ice Cube",
+    "display_artist": "Ice Cube",
+    "title": "Gangsta Rap (Remix) feat. Scarface & Nas",
+    "display_title": "Gangsta Rap (Remix) feat. Scarface & Nas",
+    "track": "Ice Cube - Gangsta Rap (Remix) feat. Scarface & Nas",
+    "length": 306,
+    "duration": 306,
+    "started": 1717434046,
+    "type": "track",
+    "track_id": 1251500,
+    "release": "Gangsta Rap Made Me Do It",
+    "art_url": "//cdn-images.audioaddict.com/7/a/d/d/b/e/7addbea05e9cb88947b50a1b0329b119.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/d/d/b/e/7addbea05e9cb88947b50a1b0329b119.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "50 Cent",
+    "display_artist": "50 Cent",
+    "title": "In Da Club",
+    "display_title": "In Da Club",
+    "track": "50 Cent - In Da Club",
+    "length": 224,
+    "duration": 224,
+    "started": 1717434595,
+    "type": "track",
+    "track_id": 16194,
+    "release": "Get Rich or Die Tryin' / The Massacre",
+    "art_url": "//cdn-images.audioaddict.com/2/2/b/8/0/d/22b80d1dce7296c0741abdb76ec50c34.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/b/8/0/d/22b80d1dce7296c0741abdb76ec50c34.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rae Sremmurd",
+    "display_artist": "Rae Sremmurd",
+    "title": "Throw Sum Mo feat. Nicki Minaj & Young Thug",
+    "display_title": "Throw Sum Mo feat. Nicki Minaj & Young Thug",
+    "track": "Rae Sremmurd - Throw Sum Mo feat. Nicki Minaj & Young Thug",
+    "length": 265,
+    "duration": 265,
+    "started": 1717434818,
+    "type": "track",
+    "track_id": 1251554,
+    "release": "Throw Sum Mo feat. Nicki Minaj & Young Thug",
+    "art_url": "//cdn-images.audioaddict.com/2/0/2/a/d/7/202ad76a6783dccfbaac1595928e1206.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/2/a/d/7/202ad76a6783dccfbaac1595928e1206.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Takeoff",
+    "display_artist": "Takeoff",
+    "title": "Casper (Explicit)",
+    "display_title": "Casper (Explicit)",
+    "track": "Takeoff - Casper (Explicit)",
+    "length": 197,
+    "duration": 197,
+    "started": 1717435269,
+    "type": "track",
+    "track_id": 2911953,
+    "release": "Casper",
+    "art_url": "//cdn-images.audioaddict.com/e/d/7/e/5/c/ed7e5c536f3c901d66aa74d08debdb7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/d/7/e/5/c/ed7e5c536f3c901d66aa74d08debdb7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Nicki Minaj",
+    "display_artist": "Nicki Minaj",
+    "title": "Red Ruby Da Sleeze",
+    "display_title": "Red Ruby Da Sleeze",
+    "track": "Nicki Minaj - Red Ruby Da Sleeze",
+    "length": 214,
+    "duration": 214,
+    "started": 1717435639,
+    "type": "track",
+    "track_id": 3070404,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/b/8/d/8/2/2b8d824641bb112e7510a5dd53b0b6b7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/8/d/8/2/2b8d824641bb112e7510a5dd53b0b6b7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tech N9ne",
+    "display_artist": "Tech N9ne",
+    "title": "Fragile feat. Kendrick Lamar, Mayday & Kendall Morgan ",
+    "display_title": "Fragile feat. Kendrick Lamar, Mayday & Kendall Morgan ",
+    "track": "Tech N9ne - Fragile feat. Kendrick Lamar, Mayday & Kendall Morgan ",
+    "length": 293,
+    "duration": 293,
+    "started": 1717435853,
+    "type": "track",
+    "track_id": 1251579,
+    "release": "Something Else (All Access Edition)",
+    "art_url": "//cdn-images.audioaddict.com/7/7/b/2/7/b/77b27bf284f38ccc65d7bf05f9fd112a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/b/2/7/b/77b27bf284f38ccc65d7bf05f9fd112a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "The Game",
+    "display_artist": "The Game",
+    "title": "Dreams",
+    "display_title": "Dreams",
+    "track": "The Game - Dreams",
+    "length": 286,
+    "duration": 286,
+    "started": 1717436304,
+    "type": "track",
+    "track_id": 872668,
+    "release": "The Documentary",
+    "art_url": "//cdn-images.audioaddict.com/4/4/9/a/5/9/449a5991f05c5369963492918564cba8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/9/a/5/9/449a5991f05c5369963492918564cba8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "K Camp",
+    "display_artist": "K Camp",
+    "title": "Cut Her Off feat. 2 Chainz",
+    "display_title": "Cut Her Off feat. 2 Chainz",
+    "track": "K Camp - Cut Her Off feat. 2 Chainz",
+    "length": 242,
+    "duration": 242,
+    "started": 1717436787,
+    "type": "track",
+    "track_id": 1251371,
+    "release": "In Due Time",
+    "art_url": "//cdn-images.audioaddict.com/0/6/2/a/7/2/062a724a91298ed1f4ab43e4096e8fbd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/2/a/7/2/062a724a91298ed1f4ab43e4096e8fbd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Bob",
+    "display_artist": "Bob",
+    "title": "Strange Clouds (Remix) (Feat Lil Wayne TI & Young Jeezy) (Prod By Dr Luke)",
+    "display_title": "Strange Clouds (Remix) (Feat Lil Wayne TI & Young Jeezy) (Prod By Dr Luke)",
+    "track": "Bob - Strange Clouds (Remix) (Feat Lil Wayne TI & Young Jeezy) (Prod By Dr Luke)",
+    "length": 293,
+    "duration": 293,
+    "started": 1717437027,
+    "type": "track",
+    "track_id": 323223,
+    "release": "HOT 97 IS HIP HOP AND R&B 22",
+    "art_url": "//cdn-images.audioaddict.com/4/9/1/e/d/0/491ed0039b33063ad6a2806d551f078c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/1/e/d/0/491ed0039b33063ad6a2806d551f078c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Chris Brown",
+    "display_artist": "Chris Brown",
+    "title": "Pills & Automobiles feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black",
+    "display_title": "Pills & Automobiles feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black",
+    "track": "Chris Brown - Pills & Automobiles feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black",
+    "length": 292,
+    "duration": 292,
+    "started": 1717437892,
+    "type": "track",
+    "track_id": 2149214,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/0/7/1/e/1/b071e1fb042cadca58a3b3790df42602.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/7/1/e/1/b071e1fb042cadca58a3b3790df42602.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Trippie Redd",
+    "display_artist": "Trippie Redd",
+    "title": "Topanga (Explicit)",
+    "display_title": "Topanga (Explicit)",
+    "track": "Trippie Redd - Topanga (Explicit)",
+    "length": 215,
+    "duration": 215,
+    "started": 1717438385,
+    "type": "track",
+    "track_id": 2911987,
+    "release": "Topanga",
+    "art_url": "//cdn-images.audioaddict.com/a/6/b/1/9/c/a6b19cc7479e4cda46662f398292d0b3.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/b/1/9/c/a6b19cc7479e4cda46662f398292d0b3.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Young Thug & Travi$ Scott",
+    "display_artist": "Young Thug & Travi$ Scott",
+    "title": "Pick Up The Phone feat. Quavo",
+    "display_title": "Pick Up The Phone feat. Quavo",
+    "track": "Young Thug & Travi$ Scott - Pick Up The Phone feat. Quavo",
+    "length": 274,
+    "duration": 274,
+    "started": 1717438600,
+    "type": "track",
+    "track_id": 1274239,
+    "release": "No, My Name is JEFFERY",
+    "art_url": "//cdn-images.audioaddict.com/2/8/3/0/5/b/28305b2ad250e5ce7c30bfa8d84310fb.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/3/0/5/b/28305b2ad250e5ce7c30bfa8d84310fb.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Russ",
+    "display_artist": "Russ",
+    "title": "What They Want",
+    "display_title": "What They Want",
+    "track": "Russ - What They Want",
+    "length": 166,
+    "duration": 166,
+    "started": 1717439026,
+    "type": "track",
+    "track_id": 1274228,
+    "release": "What They Want",
+    "art_url": "//cdn-images.audioaddict.com/1/8/c/2/b/4/18c2b4856d0b7e7febafeaf83693ea2d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/c/2/b/4/18c2b4856d0b7e7febafeaf83693ea2d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kodak Black",
+    "display_artist": "Kodak Black",
+    "title": "Roll In Peace feat. XXXTentacion",
+    "display_title": "Roll In Peace feat. XXXTentacion",
+    "track": "Kodak Black - Roll In Peace feat. XXXTentacion",
+    "length": 212,
+    "duration": 212,
+    "started": 1717439834,
+    "type": "track",
+    "track_id": 2274513,
+    "release": "Project Baby 2: All Grown Up",
+    "art_url": "//cdn-images.audioaddict.com/0/4/c/c/e/0/04cce08432b81208a05a07a7bd44363d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/c/c/e/0/04cce08432b81208a05a07a7bd44363d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Amine",
+    "display_artist": "Amine",
+    "title": "Caroline",
+    "display_title": "Caroline",
+    "track": "Amine - Caroline",
+    "length": 211,
+    "duration": 211,
+    "started": 1717440340,
+    "type": "track",
+    "track_id": 1274183,
+    "release": "Landscapes Volume II",
+    "art_url": "//cdn-images.audioaddict.com/e/7/9/d/d/a/e79dda67acc3f2dd400b75c957c7f4f1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/7/9/d/d/a/e79dda67acc3f2dd400b75c957c7f4f1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Joe Budden",
+    "display_artist": "Joe Budden",
+    "title": "She Don't Put It Down feat. Lil Wayne & Tank",
+    "display_title": "She Don't Put It Down feat. Lil Wayne & Tank",
+    "track": "Joe Budden - She Don't Put It Down feat. Lil Wayne & Tank",
+    "length": 270,
+    "duration": 270,
+    "started": 1717440713,
+    "type": "track",
+    "track_id": 1251510,
+    "release": "She Don't Put It Down feat. Lil Wayne & Tank",
+    "art_url": "//cdn-images.audioaddict.com/7/6/6/6/9/0/76669058a13236fcafe76a5db1b457cd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/6/6/9/0/76669058a13236fcafe76a5db1b457cd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "21 Savage & Metro Boomin",
+    "display_artist": "21 Savage & Metro Boomin",
+    "title": "X Bitch feat. Future",
+    "display_title": "X Bitch feat. Future",
+    "track": "21 Savage & Metro Boomin - X Bitch feat. Future",
+    "length": 262,
+    "duration": 262,
+    "started": 1717440968,
+    "type": "track",
+    "track_id": 1274177,
+    "release": "Savage Mode",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/c/8/a/29fc8a0d2d4689a64d336cd8b8364365.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/f/c/8/a/29fc8a0d2d4689a64d336cd8b8364365.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Mosey",
+    "display_artist": "Lil Mosey",
+    "title": "Noticed (Explicit)",
+    "display_title": "Noticed (Explicit)",
+    "track": "Lil Mosey - Noticed (Explicit)",
+    "length": 165,
+    "duration": 165,
+    "started": 1717441396,
+    "type": "track",
+    "track_id": 2911968,
+    "release": "Noticed",
+    "art_url": "//cdn-images.audioaddict.com/0/c/4/5/3/3/0c45339e0f97c0e131eeac1ce37c3a11.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/4/5/3/3/0c45339e0f97c0e131eeac1ce37c3a11.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Snoop Dogg",
+    "display_artist": "Snoop Dogg",
+    "title": "I Wanna Rock",
+    "display_title": "I Wanna Rock",
+    "track": "Snoop Dogg - I Wanna Rock",
+    "length": 235,
+    "duration": 235,
+    "started": 1717441771,
+    "type": "track",
+    "track_id": 872786,
+    "release": "I Wanna Rock",
+    "art_url": "//cdn-images.audioaddict.com/9/3/9/4/f/0/9394f0b1936f65bd69ab11f64f7ff563.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/9/4/f/0/9394f0b1936f65bd69ab11f64f7ff563.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rae Sremmurd",
+    "display_artist": "Rae Sremmurd",
+    "title": "No Type",
+    "display_title": "No Type",
+    "track": "Rae Sremmurd - No Type",
+    "length": 200,
+    "duration": 200,
+    "started": 1717442125,
+    "type": "track",
+    "track_id": 946206,
+    "release": "No Type",
+    "art_url": "//cdn-images.audioaddict.com/6/d/1/8/4/9/6d1849d61bfd247d884b6f483ebaf3c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/d/1/8/4/9/6d1849d61bfd247d884b6f483ebaf3c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Cardi B",
+    "display_artist": "Cardi B",
+    "title": "Bodak Yellow",
+    "display_title": "Bodak Yellow",
+    "track": "Cardi B - Bodak Yellow",
+    "length": 254,
+    "duration": 254,
+    "started": 1717443039,
+    "type": "track",
+    "track_id": 2023230,
+    "release": "Bodak Yellow",
+    "art_url": "//cdn-images.audioaddict.com/d/c/3/5/9/1/dc3591449000f5878be2192ca7fc6136.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/3/5/9/1/dc3591449000f5878be2192ca7fc6136.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Baby",
+    "display_artist": "Lil Baby",
+    "title": "Yes Indeed feat. Drake (Explicit)",
+    "display_title": "Yes Indeed feat. Drake (Explicit)",
+    "track": "Lil Baby - Yes Indeed feat. Drake (Explicit)",
+    "length": 142,
+    "duration": 142,
+    "started": 1717443444,
+    "type": "track",
+    "track_id": 2911922,
+    "release": "Yes Indeed",
+    "art_url": "//cdn-images.audioaddict.com/1/f/8/c/e/f/1f8cef50d6072d8b4912cea15e6f1313.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/8/c/e/f/1f8cef50d6072d8b4912cea15e6f1313.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Te Money",
+    "display_artist": "Te Money",
+    "title": "Real Bitch feat. Too Short",
+    "display_title": "Real Bitch feat. Too Short",
+    "track": "Te Money - Real Bitch feat. Too Short",
+    "length": 240,
+    "duration": 240,
+    "started": 1717443770,
+    "type": "track",
+    "track_id": 946220,
+    "release": "For Promotional DJ Use Only -",
+    "art_url": "//cdn-images.audioaddict.com/3/7/6/b/e/8/376be8fca3a1fbc0913cd5243b233ab9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/6/b/e/8/376be8fca3a1fbc0913cd5243b233ab9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "50 Cent",
+    "display_artist": "50 Cent",
+    "title": "Many Men (Wish Death)",
+    "display_title": "Many Men (Wish Death)",
+    "track": "50 Cent - Many Men (Wish Death)",
+    "length": 256,
+    "duration": 256,
+    "started": 1717444177,
+    "type": "track",
+    "track_id": 872856,
+    "release": "Lo Mas Nuevo Y Exitos",
+    "art_url": "//cdn-images.audioaddict.com/1/c/b/b/8/2/1cbb825b02e71aae8ee666c68f0170f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/b/b/8/2/1cbb825b02e71aae8ee666c68f0170f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Wiz Khalifa feat. Too $hort",
+    "display_artist": "Wiz Khalifa feat. Too $hort",
+    "title": "On My Level",
+    "display_title": "On My Level",
+    "track": "Wiz Khalifa feat. Too $hort - On My Level",
+    "length": 274,
+    "duration": 274,
+    "started": 1717444433,
+    "type": "track",
+    "track_id": 12169,
+    "release": "Rolling Papers",
+    "art_url": "//cdn-images.audioaddict.com/5/f/1/e/d/f/5f1edf80cf937cd6edbb366df644d151.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/1/e/d/f/5f1edf80cf937cd6edbb366df644d151.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Travis Scott, Playboi Carti",
+    "display_artist": "Travis Scott, Playboi Carti",
+    "title": "FE!N (feat. Playboi Carti)",
+    "display_title": "FE!N (feat. Playboi Carti)",
+    "track": "Travis Scott, Playboi Carti - FE!N (feat. Playboi Carti)",
+    "length": 191,
+    "duration": 191,
+    "started": 1717444970,
+    "type": "track",
+    "track_id": 3079611,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/2/b/9/b/1/32b9b170766f91bef2cc5275909400d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/b/9/b/1/32b9b170766f91bef2cc5275909400d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Flipp Dinero",
+    "display_artist": "Flipp Dinero",
+    "title": "Leave Me Alone (Explicit)",
+    "display_title": "Leave Me Alone (Explicit)",
+    "track": "Flipp Dinero - Leave Me Alone (Explicit)",
+    "length": 193,
+    "duration": 193,
+    "started": 1717445400,
+    "type": "track",
+    "track_id": 2911917,
+    "release": "Leave Me Alone",
+    "art_url": "//cdn-images.audioaddict.com/9/4/7/9/d/e/9479deb6593ba1b63ef8bbe21289c223.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/7/9/d/e/9479deb6593ba1b63ef8bbe21289c223.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Metro Boomin",
+    "display_artist": "Metro Boomin",
+    "title": "Space Cadet feat. Gunna (Explicit)",
+    "display_title": "Space Cadet feat. Gunna (Explicit)",
+    "track": "Metro Boomin - Space Cadet feat. Gunna (Explicit)",
+    "length": 203,
+    "duration": 203,
+    "started": 1717445743,
+    "type": "track",
+    "track_id": 2911975,
+    "release": "Space Cadet",
+    "art_url": "//cdn-images.audioaddict.com/9/6/c/9/3/7/96c9377aa004a073c5ebdcd9ac2c64ee.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/c/9/3/7/96c9377aa004a073c5ebdcd9ac2c64ee.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kendrick Lamar",
+    "display_artist": "Kendrick Lamar",
+    "title": "DNA.",
+    "display_title": "DNA.",
+    "track": "Kendrick Lamar - DNA.",
+    "length": 196,
+    "duration": 196,
+    "started": 1717446221,
+    "type": "track",
+    "track_id": 1417047,
+    "release": "DAMN.",
+    "art_url": "//cdn-images.audioaddict.com/8/9/8/3/3/2/898332c05ecccd1a9475a46cfee0d1b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/8/3/3/2/898332c05ecccd1a9475a46cfee0d1b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "0 To 100 (The Catch Up)",
+    "display_title": "0 To 100 (The Catch Up)",
+    "track": "Drake - 0 To 100 (The Catch Up)",
+    "length": 369,
+    "duration": 369,
+    "started": 1717446610,
+    "type": "track",
+    "track_id": 1251476,
+    "release": "Hood Heat, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/b/e/4/5/9/4/be4594bde6657d374e28b5f2adf4ad32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/4/5/9/4/be4594bde6657d374e28b5f2adf4ad32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Future & Juice WRLD",
+    "display_artist": "Future & Juice WRLD",
+    "title": "Fine China (Explicit)",
+    "display_title": "Fine China (Explicit)",
+    "track": "Future & Juice WRLD - Fine China (Explicit)",
+    "length": 142,
+    "duration": 142,
+    "started": 1717446979,
+    "type": "track",
+    "track_id": 2911961,
+    "release": "Fine China",
+    "art_url": "//cdn-images.audioaddict.com/2/a/4/8/1/1/2a481110e40dfc552185f658b0956df7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/4/8/1/1/2a481110e40dfc552185f658b0956df7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Migos",
+    "display_artist": "Migos",
+    "title": "Bad & Boujee feat. Lil Uzi Vert",
+    "display_title": "Bad & Boujee feat. Lil Uzi Vert",
+    "track": "Migos - Bad & Boujee feat. Lil Uzi Vert",
+    "length": 379,
+    "duration": 379,
+    "started": 1717447323,
+    "type": "track",
+    "track_id": 1274221,
+    "release": "Keys To The City",
+    "art_url": "//cdn-images.audioaddict.com/1/6/4/a/0/2/164a02b0f404330741c362fc1f2692c1.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/4/a/0/2/164a02b0f404330741c362fc1f2692c1.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Uzi Vert",
+    "display_artist": "Lil Uzi Vert",
+    "title": "Just Wanna Rock",
+    "display_title": "Just Wanna Rock",
+    "track": "Lil Uzi Vert - Just Wanna Rock",
+    "length": 123,
+    "duration": 123,
+    "started": 1717447655,
+    "type": "track",
+    "track_id": 3070401,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/2/3/9/0/c/a2390cc7a9d3fd2e0d60f8209806b1f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/3/9/0/c/a2390cc7a9d3fd2e0d60f8209806b1f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "ScHoolboy Q ",
+    "display_artist": "ScHoolboy Q ",
+    "title": "What They Want feat. 2 Chainz",
+    "display_title": "What They Want feat. 2 Chainz",
+    "track": "ScHoolboy Q  - What They Want feat. 2 Chainz",
+    "length": 269,
+    "duration": 269,
+    "started": 1717448516,
+    "type": "track",
+    "track_id": 946265,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/f/c/a/f/4/7fcaf409079c85557767b55e5cb239bf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/c/a/f/4/7fcaf409079c85557767b55e5cb239bf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Baby Bash",
+    "display_artist": "Baby Bash",
+    "title": "Cyclone",
+    "display_title": "Cyclone",
+    "track": "Baby Bash - Cyclone",
+    "length": 239,
+    "duration": 239,
+    "started": 1717448783,
+    "type": "track",
+    "track_id": 1469,
+    "release": "Cyclone",
+    "art_url": "//cdn-images.audioaddict.com/6/f/f/d/1/b/6ffd1bd849cb6af1280cf912337aed16.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/f/d/1/b/6ffd1bd849cb6af1280cf912337aed16.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Amine",
+    "display_artist": "Amine",
+    "title": "Reel It In (Explicit)",
+    "display_title": "Reel It In (Explicit)",
+    "track": "Amine - Reel It In (Explicit)",
+    "length": 121,
+    "duration": 121,
+    "started": 1717449249,
+    "type": "track",
+    "track_id": 2911957,
+    "release": "Reel It In",
+    "art_url": "//cdn-images.audioaddict.com/6/f/0/0/e/1/6f00e1d3207e8ef001717af2b54092c2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/0/0/e/1/6f00e1d3207e8ef001717af2b54092c2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tee Grizzley",
+    "display_artist": "Tee Grizzley",
+    "title": "Colors",
+    "display_title": "Colors",
+    "track": "Tee Grizzley - Colors",
+    "length": 177,
+    "duration": 177,
+    "started": 1717449506,
+    "type": "track",
+    "track_id": 2867003,
+    "release": "Colors",
+    "art_url": "//cdn-images.audioaddict.com/d/8/5/8/6/e/d8586e97a7dec1ee958f107007bac96f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/8/5/8/6/e/d8586e97a7dec1ee958f107007bac96f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Sheck Wes",
+    "display_artist": "Sheck Wes",
+    "title": "Mo Bamba (Explicit)",
+    "display_title": "Mo Bamba (Explicit)",
+    "track": "Sheck Wes - Mo Bamba (Explicit)",
+    "length": 180,
+    "duration": 180,
+    "started": 1717449924,
+    "type": "track",
+    "track_id": 2911927,
+    "release": "Mo Bamba",
+    "art_url": "//cdn-images.audioaddict.com/0/f/1/7/e/8/0f17e8397030409052aec98f1e94233d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/1/7/e/8/0f17e8397030409052aec98f1e94233d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "Headlines",
+    "display_title": "Headlines",
+    "track": "Drake - Headlines",
+    "length": 219,
+    "duration": 219,
+    "started": 1717450279,
+    "type": "track",
+    "track_id": 20420,
+    "release": "Headlines [Single] [Edited]",
+    "art_url": "//cdn-images.audioaddict.com/6/6/9/3/4/a/66934a1e83f6576c8350b3dfee62bcc0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/9/3/4/a/66934a1e83f6576c8350b3dfee62bcc0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Snoop Dogg",
+    "display_artist": "Snoop Dogg",
+    "title": "Vato feat. B-Real",
+    "display_title": "Vato feat. B-Real",
+    "track": "Snoop Dogg - Vato feat. B-Real",
+    "length": 292,
+    "duration": 292,
+    "started": 1717450733,
+    "type": "track",
+    "track_id": 1251410,
+    "release": "Tha Blue Carpet Treatment",
+    "art_url": "//cdn-images.audioaddict.com/c/5/e/a/f/8/c5eaf8a174a889f50b6cb68b162be184.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/e/a/f/8/c5eaf8a174a889f50b6cb68b162be184.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kanye West",
+    "display_artist": "Kanye West",
+    "title": "Flashing Lights feat. Dwele",
+    "display_title": "Flashing Lights feat. Dwele",
+    "track": "Kanye West - Flashing Lights feat. Dwele",
+    "length": 239,
+    "duration": 239,
+    "started": 1717451015,
+    "type": "track",
+    "track_id": 18020,
+    "release": "Graduation",
+    "art_url": "//cdn-images.audioaddict.com/0/d/0/c/c/f/0d0ccfaf68a03509465dea595a1783a9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/0/c/c/f/0d0ccfaf68a03509465dea595a1783a9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Cardi B",
+    "display_artist": "Cardi B",
+    "title": "Enough (Miami)",
+    "display_title": "Enough (Miami)",
+    "track": "Cardi B - Enough (Miami)",
+    "length": 158,
+    "duration": 158,
+    "started": 1717451488,
+    "type": "track",
+    "track_id": 3092494,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/4/f/2/7/4/94f274c4d3896f9888afbb4ac156f008.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/f/2/7/4/94f274c4d3896f9888afbb4ac156f008.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Juice WRLD",
+    "display_artist": "Juice WRLD",
+    "title": "Bandit",
+    "display_title": "Bandit",
+    "track": "Juice WRLD - Bandit",
+    "length": 189,
+    "duration": 189,
+    "started": 1717451870,
+    "type": "track",
+    "track_id": 2954398,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/c/f/d/2/2/ecfd22654bd7e50591bd39b7dcafb716.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/f/d/2/2/ecfd22654bd7e50591bd39b7dcafb716.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "21 Savage, Offset & Metro Boomin",
+    "display_artist": "21 Savage, Offset & Metro Boomin",
+    "title": "Ghostface Killers feat. Travis Scott (Explicit)",
+    "display_title": "Ghostface Killers feat. Travis Scott (Explicit)",
+    "track": "21 Savage, Offset & Metro Boomin - Ghostface Killers feat. Travis Scott (Explicit)",
+    "length": 268,
+    "duration": 268,
+    "started": 1717452688,
+    "type": "track",
+    "track_id": 2919440,
+    "release": "Without Warning",
+    "art_url": "//cdn-images.audioaddict.com/b/9/c/3/3/e/b9c33e08f92c7e87d1e69bc3c7105b4b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/c/3/3/e/b9c33e08f92c7e87d1e69bc3c7105b4b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Famous Dex",
+    "display_artist": "Famous Dex",
+    "title": "Nervous feat. Lil Baby, Jay Critch & Rich The Kid (Explicit)",
+    "display_title": "Nervous feat. Lil Baby, Jay Critch & Rich The Kid (Explicit)",
+    "track": "Famous Dex - Nervous feat. Lil Baby, Jay Critch & Rich The Kid (Explicit)",
+    "length": 230,
+    "duration": 230,
+    "started": 1717453837,
+    "type": "track",
+    "track_id": 2911959,
+    "release": "Nervous",
+    "art_url": "//cdn-images.audioaddict.com/0/7/4/0/8/6/07408601779399686e2010ad27b6567c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/4/0/8/6/07408601779399686e2010ad27b6567c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "A$AP Rocky",
+    "display_artist": "A$AP Rocky",
+    "title": "Fuckin' Problems feat. Kendrick Lamar, Drake & 2 Chainz",
+    "display_title": "Fuckin' Problems feat. Kendrick Lamar, Drake & 2 Chainz",
+    "track": "A$AP Rocky - Fuckin' Problems feat. Kendrick Lamar, Drake & 2 Chainz",
+    "length": 243,
+    "duration": 243,
+    "started": 1717454240,
+    "type": "track",
+    "track_id": 1251318,
+    "release": "LONG.LIVE.A$AP",
+    "art_url": "//cdn-images.audioaddict.com/b/6/7/f/b/9/b67fb92cd05d0aaf08bf4152296cd7cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/7/f/b/9/b67fb92cd05d0aaf08bf4152296cd7cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "A Boogie Wit Da Hoodie",
+    "display_artist": "A Boogie Wit Da Hoodie",
+    "title": "Drowning",
+    "display_title": "Drowning",
+    "track": "A Boogie Wit Da Hoodie - Drowning",
+    "length": 219,
+    "duration": 219,
+    "started": 1717454691,
+    "type": "track",
+    "track_id": 1416992,
+    "release": "Drowning [Single]",
+    "art_url": "//cdn-images.audioaddict.com/9/9/7/6/3/7/9976374c05f93b93765c9170e2b070c2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/7/6/3/7/9976374c05f93b93765c9170e2b070c2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "MoneyBagg Yo",
+    "display_artist": "MoneyBagg Yo",
+    "title": "Said Sum",
+    "display_title": "Said Sum",
+    "track": "MoneyBagg Yo - Said Sum",
+    "length": 155,
+    "duration": 155,
+    "started": 1717455472,
+    "type": "track",
+    "track_id": 2989883,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/4/5/b/1/f/845b1fb7d09dd0e042d9e3445581fa4f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/5/b/1/f/845b1fb7d09dd0e042d9e3445581fa4f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "DaBaby",
+    "display_artist": "DaBaby",
+    "title": "ROCKSTAR (feat. Roddy Ricch)",
+    "display_title": "ROCKSTAR (feat. Roddy Ricch)",
+    "track": "DaBaby - ROCKSTAR (feat. Roddy Ricch)",
+    "length": 181,
+    "duration": 181,
+    "started": 1717456109,
+    "type": "track",
+    "track_id": 2989873,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/9/1/e/f/3/091ef3f64c8c13539aeddf7dc1cce9c8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/9/1/e/f/3/091ef3f64c8c13539aeddf7dc1cce9c8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kendrick Lamar",
+    "display_artist": "Kendrick Lamar",
+    "title": "HUMBLE.",
+    "display_title": "HUMBLE.",
+    "track": "Kendrick Lamar - HUMBLE.",
+    "length": 188,
+    "duration": 188,
+    "started": 1717456920,
+    "type": "track",
+    "track_id": 1417052,
+    "release": "DAMN.",
+    "art_url": "//cdn-images.audioaddict.com/8/9/8/3/3/2/898332c05ecccd1a9475a46cfee0d1b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/8/3/3/2/898332c05ecccd1a9475a46cfee0d1b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Wiz Khalifa",
+    "display_artist": "Wiz Khalifa",
+    "title": "Work Hard Play Hard (Amended Album Version)",
+    "display_title": "Work Hard Play Hard (Amended Album Version)",
+    "track": "Wiz Khalifa - Work Hard Play Hard (Amended Album Version)",
+    "length": 218,
+    "duration": 218,
+    "started": 1717457748,
+    "type": "track",
+    "track_id": 323392,
+    "release": "Work Hard, Play Hard",
+    "art_url": "//cdn-images.audioaddict.com/5/7/0/c/e/8/570ce8eaf37461e5a90d6e52a265f3fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/0/c/e/8/570ce8eaf37461e5a90d6e52a265f3fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Big Sean",
+    "display_artist": "Big Sean",
+    "title": "Bounce Back",
+    "display_title": "Bounce Back",
+    "track": "Big Sean - Bounce Back",
+    "length": 228,
+    "duration": 228,
+    "started": 1717458113,
+    "type": "track",
+    "track_id": 1274186,
+    "release": "Bounce Back",
+    "art_url": "//cdn-images.audioaddict.com/7/d/9/7/a/8/7d97a846c2d047a73b1af251533dae5b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/9/7/a/8/7d97a846c2d047a73b1af251533dae5b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Bossman Dlow",
+    "display_artist": "Bossman Dlow",
+    "title": "Get In With Me",
+    "display_title": "Get In With Me",
+    "track": "Bossman Dlow - Get In With Me",
+    "length": 120,
+    "duration": 120,
+    "started": 1717458927,
+    "type": "track",
+    "track_id": 3092493,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/8/7/4/d/c/6874dcdabae591bd779737ef03c3bdb1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/7/4/d/c/6874dcdabae591bd779737ef03c3bdb1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "RAYE, 070 Shake",
+    "display_artist": "RAYE, 070 Shake",
+    "title": "Escapism.",
+    "display_title": "Escapism.",
+    "track": "RAYE, 070 Shake - Escapism.",
+    "length": 272,
+    "duration": 272,
+    "started": 1717459048,
+    "type": "track",
+    "track_id": 3070405,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/8/d/2/2/8/08d2288531e68d88004b0ad569d07fe3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/d/2/2/8/08d2288531e68d88004b0ad569d07fe3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YG",
+    "display_artist": "YG",
+    "title": "Meet The Flockers",
+    "display_title": "Meet The Flockers",
+    "track": "YG - Meet The Flockers",
+    "length": 165,
+    "duration": 165,
+    "started": 1717461912,
+    "type": "track",
+    "track_id": 843710,
+    "release": "Patchwork - EP",
+    "art_url": "//cdn-images.audioaddict.com/4/f/c/1/3/6/4fc13666b1696ebcdc47ebb5a8e12b47.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/c/1/3/6/4fc13666b1696ebcdc47ebb5a8e12b47.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Honey Cocaine",
+    "display_artist": "Honey Cocaine",
+    "title": "Aint None My Business",
+    "display_title": "Aint None My Business",
+    "track": "Honey Cocaine - Aint None My Business",
+    "length": 198,
+    "duration": 198,
+    "started": 1717462325,
+    "type": "track",
+    "track_id": 946006,
+    "release": "Like A Drug",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/7/0/f/1d170f8016112610d199e8d215aa2d2c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/1/7/0/f/1d170f8016112610d199e8d215aa2d2c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "Started From The Bottom",
+    "display_title": "Started From The Bottom",
+    "track": "Drake - Started From The Bottom",
+    "length": 177,
+    "duration": 177,
+    "started": 1717462721,
+    "type": "track",
+    "track_id": 1251479,
+    "release": "Nothing Was The Same [Explicit Version]",
+    "art_url": "//cdn-images.audioaddict.com/5/f/9/2/2/f/5f922fdb918d3843e8ea648f684a5c7a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/9/2/2/f/5f922fdb918d3843e8ea648f684a5c7a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Wiz Khalifa",
+    "display_artist": "Wiz Khalifa",
+    "title": "We Dem Boyz",
+    "display_title": "We Dem Boyz",
+    "track": "Wiz Khalifa - We Dem Boyz",
+    "length": 225,
+    "duration": 225,
+    "started": 1717470638,
+    "type": "track",
+    "track_id": 873082,
+    "release": "Charlie Sloth - Hood Heat, (Volume 1)",
+    "art_url": "//cdn-images.audioaddict.com/5/f/e/4/2/7/5fe4271adf8a05bfd2a9df3c83f423b7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/e/4/2/7/5fe4271adf8a05bfd2a9df3c83f423b7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Megan Thee Stallion",
+    "display_artist": "Megan Thee Stallion",
+    "title": "Savage (feat. Beyoncé)",
+    "display_title": "Savage (feat. Beyoncé)",
+    "track": "Megan Thee Stallion - Savage (feat. Beyoncé)",
+    "length": 242,
+    "duration": 242,
+    "started": 1717471335,
+    "type": "track",
+    "track_id": 2989881,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/9/9/1/5/f/69915fdb02d4417acdbb3da6f55d9a38.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/9/1/5/f/69915fdb02d4417acdbb3da6f55d9a38.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "A$AP Mob",
+    "display_artist": "A$AP Mob",
+    "title": "Trillmatic feat. A$AP Nast & Method Man",
+    "display_title": "Trillmatic feat. A$AP Nast & Method Man",
+    "track": "A$AP Mob - Trillmatic feat. A$AP Nast & Method Man",
+    "length": 239,
+    "duration": 239,
+    "started": 1717472871,
+    "type": "track",
+    "track_id": 873047,
+    "release": "Trillmatic feat. A$AP Nast & Method Man",
+    "art_url": "//cdn-images.audioaddict.com/6/b/5/b/5/1/6b5b51cc0fc0491488588e9000d0e3b7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/5/b/5/1/6b5b51cc0fc0491488588e9000d0e3b7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tyler, The Creator",
+    "display_artist": "Tyler, The Creator",
+    "title": "SORRY NOT SORRY",
+    "display_title": "SORRY NOT SORRY",
+    "track": "Tyler, The Creator - SORRY NOT SORRY",
+    "length": 206,
+    "duration": 206,
+    "started": 1717473456,
+    "type": "track",
+    "track_id": 3070409,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/1/9/e/d/b/b19edb272328f625386b4e743be52583.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/1/9/e/d/b/b19edb272328f625386b4e743be52583.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "XXXTENTACION",
+    "display_artist": "XXXTENTACION",
+    "title": "SAD!",
+    "display_title": "SAD!",
+    "track": "XXXTENTACION - SAD!",
+    "length": 166,
+    "duration": 166,
+    "started": 1717474240,
+    "type": "track",
+    "track_id": 2866992,
+    "release": "SAD!",
+    "art_url": "//cdn-images.audioaddict.com/e/3/d/1/1/6/e3d116ab3e3a68a428bcf349f4a49acd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/d/1/1/6/e3d116ab3e3a68a428bcf349f4a49acd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Travis Porter",
+    "display_artist": "Travis Porter",
+    "title": "Bring It Back",
+    "display_title": "Bring It Back",
+    "track": "Travis Porter - Bring It Back",
+    "length": 217,
+    "duration": 217,
+    "started": 1717475768,
+    "type": "track",
+    "track_id": 24676,
+    "release": "Bring It Back",
+    "art_url": "//cdn-images.audioaddict.com/8/9/f/1/c/d/89f1cdc9441ea480bf43ecbe662ed325.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/f/1/c/d/89f1cdc9441ea480bf43ecbe662ed325.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Future & Juice WRLD",
+    "display_artist": "Future & Juice WRLD",
+    "title": "Hard Work Pays Off (Explicit)",
+    "display_title": "Hard Work Pays Off (Explicit)",
+    "track": "Future & Juice WRLD - Hard Work Pays Off (Explicit)",
+    "length": 224,
+    "duration": 224,
+    "started": 1717476531,
+    "type": "track",
+    "track_id": 2911962,
+    "release": "Hard Work Pays Off",
+    "art_url": "//cdn-images.audioaddict.com/1/4/b/a/1/c/14ba1c29d3f3e29aa8e42b8900819fe3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/b/a/1/c/14ba1c29d3f3e29aa8e42b8900819fe3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "XXXTENTACION",
+    "display_artist": "XXXTENTACION",
+    "title": "Moonlight (Explicit)",
+    "display_title": "Moonlight (Explicit)",
+    "track": "XXXTENTACION - Moonlight (Explicit)",
+    "length": 135,
+    "duration": 135,
+    "started": 1717477723,
+    "type": "track",
+    "track_id": 2919468,
+    "release": "?",
+    "art_url": "//cdn-images.audioaddict.com/1/d/6/d/1/8/1d6d18f7a6ae8dd8bb89a5f577a0af97.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/6/d/1/8/1d6d18f7a6ae8dd8bb89a5f577a0af97.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Sage The Gemini",
+    "display_artist": "Sage The Gemini",
+    "title": "Red Nose",
+    "display_title": "Red Nose",
+    "track": "Sage The Gemini - Red Nose",
+    "length": 223,
+    "duration": 223,
+    "started": 1717478056,
+    "type": "track",
+    "track_id": 843514,
+    "release": "Remember Me [Edited Version]",
+    "art_url": "//cdn-images.audioaddict.com/b/5/c/e/a/5/b5cea59dfa37191c71edfe387b439e3c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/c/e/a/5/b5cea59dfa37191c71edfe387b439e3c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Metro Boomin, Future, Chris Brown",
+    "display_artist": "Metro Boomin, Future, Chris Brown",
+    "title": "Superhero (Heroes & Villains)",
+    "display_title": "Superhero (Heroes & Villains)",
+    "track": "Metro Boomin, Future, Chris Brown - Superhero (Heroes & Villains)",
+    "length": 182,
+    "duration": 182,
+    "started": 1717478533,
+    "type": "track",
+    "track_id": 3070402,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/4/9/4/4/b/e4944b3f9dae3f7684f640f6235ca7f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/9/4/4/b/e4944b3f9dae3f7684f640f6235ca7f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Doja Cat",
+    "display_artist": "Doja Cat",
+    "title": "Paint The Town Red",
+    "display_title": "Paint The Town Red",
+    "track": "Doja Cat - Paint The Town Red",
+    "length": 231,
+    "duration": 231,
+    "started": 1717480078,
+    "type": "track",
+    "track_id": 3092496,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/f/7/f/2/3/ff7f23c500a94e22e06b2ef67207d76e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/7/f/2/3/ff7f23c500a94e22e06b2ef67207d76e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Wiz Khalifa",
+    "display_artist": "Wiz Khalifa",
+    "title": "Black And Yellow",
+    "display_title": "Black And Yellow",
+    "track": "Wiz Khalifa - Black And Yellow",
+    "length": 219,
+    "duration": 219,
+    "started": 1717480308,
+    "type": "track",
+    "track_id": 329,
+    "release": "Rolling Papers",
+    "art_url": "//cdn-images.audioaddict.com/f/9/0/7/e/8/f907e86e74716e7bd90c0b05d152a318.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/9/0/7/e/8/f907e86e74716e7bd90c0b05d152a318.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "THE SCOTTS, Travis Scott & Kid Cudi",
+    "display_artist": "THE SCOTTS, Travis Scott & Kid Cudi",
+    "title": "THE SCOTTS",
+    "display_title": "THE SCOTTS",
+    "track": "THE SCOTTS, Travis Scott & Kid Cudi - THE SCOTTS",
+    "length": 166,
+    "duration": 166,
+    "started": 1717480716,
+    "type": "track",
+    "track_id": 2989889,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/8/c/6/3/3/d8c63330176d3c4d649675f46a7ed083.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/8/c/6/3/3/d8c63330176d3c4d649675f46a7ed083.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "NLE Choppa",
+    "display_artist": "NLE Choppa",
+    "title": "SLUT ME OUT",
+    "display_title": "SLUT ME OUT",
+    "track": "NLE Choppa - SLUT ME OUT",
+    "length": 123,
+    "duration": 123,
+    "started": 1717481951,
+    "type": "track",
+    "track_id": 3070403,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/b/2/a/b/0/db2ab0a66b5dabdba23b6a0adb1a68bb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/b/2/a/b/0/db2ab0a66b5dabdba23b6a0adb1a68bb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Uzi Vert",
+    "display_artist": "Lil Uzi Vert",
+    "title": "The Way Life Goes",
+    "display_title": "The Way Life Goes",
+    "track": "Lil Uzi Vert - The Way Life Goes",
+    "length": 251,
+    "duration": 251,
+    "started": 1717485483,
+    "type": "track",
+    "track_id": 2169637,
+    "release": "The Way Life Goes",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/8/9/8/c44898a483455b8bffa543f6d367676b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/8/9/8/c44898a483455b8bffa543f6d367676b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "DJ Khaled",
+    "display_artist": "DJ Khaled",
+    "title": "I'm On One feat. Drake, Rick Ross & Lil Wayne",
+    "display_title": "I'm On One feat. Drake, Rick Ross & Lil Wayne",
+    "track": "DJ Khaled - I'm On One feat. Drake, Rick Ross & Lil Wayne",
+    "length": 305,
+    "duration": 305,
+    "started": 1717487130,
+    "type": "track",
+    "track_id": 1243151,
+    "release": "I'm On One feat. Drake, Rick Ross & Lil Wayne",
+    "art_url": "//cdn-images.audioaddict.com/f/d/d/5/4/f/fdd54f5e2f1fc111121d19cf4d280aa0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/d/5/4/f/fdd54f5e2f1fc111121d19cf4d280aa0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "MadeinTYO",
+    "display_artist": "MadeinTYO",
+    "title": "Uber Everywhere",
+    "display_title": "Uber Everywhere",
+    "track": "MadeinTYO - Uber Everywhere",
+    "length": 156,
+    "duration": 156,
+    "started": 1717487427,
+    "type": "track",
+    "track_id": 1251388,
+    "release": "Uber Everywhere [Single]",
+    "art_url": "//cdn-images.audioaddict.com/c/a/1/a/4/b/ca1a4b5008d2a1e269e35ffac7f50b97.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/a/1/a/4/b/ca1a4b5008d2a1e269e35ffac7f50b97.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kanye West & Lil Pump",
+    "display_artist": "Kanye West & Lil Pump",
+    "title": "I Love It (Explicit)",
+    "display_title": "I Love It (Explicit)",
+    "track": "Kanye West & Lil Pump - I Love It (Explicit)",
+    "length": 128,
+    "duration": 128,
+    "started": 1717488231,
+    "type": "track",
+    "track_id": 2911966,
+    "release": "I Love It",
+    "art_url": "//cdn-images.audioaddict.com/a/f/b/8/4/8/afb8483d06a3ebdef075b46e2314a1d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/b/8/4/8/afb8483d06a3ebdef075b46e2314a1d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Migos",
+    "display_artist": "Migos",
+    "title": "Stir Fry",
+    "display_title": "Stir Fry",
+    "track": "Migos - Stir Fry",
+    "length": 194,
+    "duration": 194,
+    "started": 1717488905,
+    "type": "track",
+    "track_id": 2274523,
+    "release": "Stir Fry",
+    "art_url": "//cdn-images.audioaddict.com/8/f/4/e/f/4/8f4ef4e23fbe2a4ff604fc998593d3fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/4/e/f/4/8f4ef4e23fbe2a4ff604fc998593d3fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "MadeinTYO",
+    "display_artist": "MadeinTYO",
+    "title": "Uber Everywhere (Remix) feat. Travi$ Scott",
+    "display_title": "Uber Everywhere (Remix) feat. Travi$ Scott",
+    "track": "MadeinTYO - Uber Everywhere (Remix) feat. Travi$ Scott",
+    "length": 188,
+    "duration": 188,
+    "started": 1717489427,
+    "type": "track",
+    "track_id": 1251387,
+    "release": "Urban Club June 2016",
+    "art_url": "//cdn-images.audioaddict.com/1/6/8/1/8/1/168181dfbe71b9821e71ccb736a31424.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/8/1/8/1/168181dfbe71b9821e71ccb736a31424.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "J. Cole",
+    "display_artist": "J. Cole",
+    "title": "Wet Dreamz",
+    "display_title": "Wet Dreamz",
+    "track": "J. Cole - Wet Dreamz",
+    "length": 245,
+    "duration": 245,
+    "started": 1717490530,
+    "type": "track",
+    "track_id": 931908,
+    "release": "Wet Dreamz",
+    "art_url": "//cdn-images.audioaddict.com/8/6/4/9/5/0/86495088496c5869af136177c319cf13.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/4/9/5/0/86495088496c5869af136177c319cf13.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Quality Control",
+    "display_artist": "Quality Control",
+    "title": "Baby",
+    "display_title": "Baby",
+    "track": "Quality Control - Baby",
+    "length": 142,
+    "duration": 142,
+    "started": 1717490939,
+    "type": "track",
+    "track_id": 2954416,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/1/3/0/9/0/e130904f86250e45f4d4a11d55b485dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/3/0/9/0/e130904f86250e45f4d4a11d55b485dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "J. Cole",
+    "display_artist": "J. Cole",
+    "title": "No Role Modelz",
+    "display_title": "No Role Modelz",
+    "track": "J. Cole - No Role Modelz",
+    "length": 296,
+    "duration": 296,
+    "started": 1717491236,
+    "type": "track",
+    "track_id": 931858,
+    "release": "2014 Forest Hills Drive",
+    "art_url": "//cdn-images.audioaddict.com/e/d/4/5/e/d/ed45ed656bffae575e150ea5ff754821.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/d/4/5/e/d/ed45ed656bffae575e150ea5ff754821.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Wiz Khalifa",
+    "display_artist": "Wiz Khalifa",
+    "title": "Medicated feat. Chevy Woods & Juicy J",
+    "display_title": "Medicated feat. Chevy Woods & Juicy J",
+    "track": "Wiz Khalifa - Medicated feat. Chevy Woods & Juicy J",
+    "length": 336,
+    "duration": 336,
+    "started": 1717491529,
+    "type": "track",
+    "track_id": 1251435,
+    "release": "o.n.i.f.c.",
+    "art_url": "//cdn-images.audioaddict.com/0/0/4/a/8/4/004a848a0326c615eb5670cf93399e25.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/4/a/8/4/004a848a0326c615eb5670cf93399e25.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Chris Brown",
+    "display_artist": "Chris Brown",
+    "title": "Look At Me Now",
+    "display_title": "Look At Me Now",
+    "track": "Chris Brown - Look At Me Now",
+    "length": 225,
+    "duration": 225,
+    "started": 1717491988,
+    "type": "track",
+    "track_id": 35783,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/6/6/d/3/a/b66d3ae6420b42e6815b180e48755a7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/6/d/3/a/b66d3ae6420b42e6815b180e48755a7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Baby & Gunna",
+    "display_artist": "Lil Baby & Gunna",
+    "title": "Never Recover feat. Drake (Explicit)",
+    "display_title": "Never Recover feat. Drake (Explicit)",
+    "track": "Lil Baby & Gunna - Never Recover feat. Drake (Explicit)",
+    "length": 194,
+    "duration": 194,
+    "started": 1717492777,
+    "type": "track",
+    "track_id": 2911967,
+    "release": "Never Recover",
+    "art_url": "//cdn-images.audioaddict.com/3/8/f/f/9/3/38ff931f04000a96025c02fa1855761f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/f/f/9/3/38ff931f04000a96025c02fa1855761f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Roddy Ricch",
+    "display_artist": "Roddy Ricch",
+    "title": "Die Young (Explicit)",
+    "display_title": "Die Young (Explicit)",
+    "track": "Roddy Ricch - Die Young (Explicit)",
+    "length": 161,
+    "duration": 161,
+    "started": 1717496090,
+    "type": "track",
+    "track_id": 2911980,
+    "release": "Die Young",
+    "art_url": "//cdn-images.audioaddict.com/d/f/a/1/d/c/dfa1dcc3fd4f8ae56042e44f8fa1606b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/a/1/d/c/dfa1dcc3fd4f8ae56042e44f8fa1606b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "GloRilla",
+    "display_artist": "GloRilla",
+    "title": "Yeah Glo!",
+    "display_title": "Yeah Glo!",
+    "track": "GloRilla - Yeah Glo!",
+    "length": 142,
+    "duration": 142,
+    "started": 1717496453,
+    "type": "track",
+    "track_id": 3092498,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/3/1/b/d/e/931bde1352d42990b6593a6c2572119b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/1/b/d/e/931bde1352d42990b6593a6c2572119b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Wayne",
+    "display_artist": "Lil Wayne",
+    "title": "6 Foot, 7 Foot feat. Cory Gunz",
+    "display_title": "6 Foot, 7 Foot feat. Cory Gunz",
+    "track": "Lil Wayne - 6 Foot, 7 Foot feat. Cory Gunz",
+    "length": 251,
+    "duration": 251,
+    "started": 1717496850,
+    "type": "track",
+    "track_id": 15007,
+    "release": "Tha Carter IV",
+    "art_url": "//cdn-images.audioaddict.com/1/a/2/e/f/9/1a2ef92b1c76362aaee89a1b5fb1aa68.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/2/e/f/9/1a2ef92b1c76362aaee89a1b5fb1aa68.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Pop Smoke",
+    "display_artist": "Pop Smoke",
+    "title": "Got It On Me",
+    "display_title": "Got It On Me",
+    "track": "Pop Smoke - Got It On Me",
+    "length": 164,
+    "duration": 164,
+    "started": 1717497313,
+    "type": "track",
+    "track_id": 2989887,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/6/b/1/3/a/56b13aef43dd6a42c680f9b4f59e015a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/b/1/3/a/56b13aef43dd6a42c680f9b4f59e015a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "A Boogie Wit Da Hoodie",
+    "display_artist": "A Boogie Wit Da Hoodie",
+    "title": "My Shit",
+    "display_title": "My Shit",
+    "track": "A Boogie Wit Da Hoodie - My Shit",
+    "length": 148,
+    "duration": 148,
+    "started": 1717497697,
+    "type": "track",
+    "track_id": 1274178,
+    "release": "My Shit",
+    "art_url": "//cdn-images.audioaddict.com/3/9/5/d/4/c/395d4cd96576b81a79d96ee6d448925a.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/5/d/4/c/395d4cd96576b81a79d96ee6d448925a.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Post Malone",
+    "display_artist": "Post Malone",
+    "title": "Rockstar feat. 21 Savage",
+    "display_title": "Rockstar feat. 21 Savage",
+    "track": "Post Malone - Rockstar feat. 21 Savage",
+    "length": 218,
+    "duration": 218,
+    "started": 1717500010,
+    "type": "track",
+    "track_id": 2169642,
+    "release": "Rockstar",
+    "art_url": "//cdn-images.audioaddict.com/c/1/1/0/9/b/c1109b251385b718f4d2da783ba5dabe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/1/1/0/9/b/c1109b251385b718f4d2da783ba5dabe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kendrick Lamar",
+    "display_artist": "Kendrick Lamar",
+    "title": "LOVE. feat. Zacari",
+    "display_title": "LOVE. feat. Zacari",
+    "track": "Kendrick Lamar - LOVE. feat. Zacari",
+    "length": 512,
+    "duration": 512,
+    "started": 1717500800,
+    "type": "track",
+    "track_id": 1417053,
+    "release": "DAMN.",
+    "art_url": "//cdn-images.audioaddict.com/0/3/1/8/d/6/0318d626f4f765e6cde35b4cd3b15960.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/1/8/d/6/0318d626f4f765e6cde35b4cd3b15960.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Migos",
+    "display_artist": "Migos",
+    "title": "Need It (feat. YoungBoy Never Broke Again)",
+    "display_title": "Need It (feat. YoungBoy Never Broke Again)",
+    "track": "Migos - Need It (feat. YoungBoy Never Broke Again)",
+    "length": 195,
+    "duration": 195,
+    "started": 1717502481,
+    "type": "track",
+    "track_id": 2989882,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/c/6/d/2/0/ac6d203c7c5b6b8191614a300b27b078.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/6/d/2/0/ac6d203c7c5b6b8191614a300b27b078.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Dr. Dre",
+    "display_artist": "Dr. Dre",
+    "title": "Kush feat. Snoop & Akon",
+    "display_title": "Kush feat. Snoop & Akon",
+    "track": "Dr. Dre - Kush feat. Snoop & Akon",
+    "length": 241,
+    "duration": 241,
+    "started": 1717502675,
+    "type": "track",
+    "track_id": 872826,
+    "release": "Kush feat. Snoop & Akon",
+    "art_url": "//cdn-images.audioaddict.com/4/3/a/5/5/7/43a557b44f045ce5620b2abe7b6fe669.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/a/5/5/7/43a557b44f045ce5620b2abe7b6fe669.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kodak Black",
+    "display_artist": "Kodak Black",
+    "title": "ZEZE feat. Travis Scott & Offset (Clean)",
+    "display_title": "ZEZE feat. Travis Scott & Offset (Clean)",
+    "track": "Kodak Black - ZEZE feat. Travis Scott & Offset (Clean)",
+    "length": 225,
+    "duration": 225,
+    "started": 1717503783,
+    "type": "track",
+    "track_id": 2911920,
+    "release": "Zeze (Featuring Travis Scott & Offset)",
+    "art_url": "//cdn-images.audioaddict.com/4/3/d/d/3/d/43dd3d988934b15a040970cda5aa69b5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/d/d/3/d/43dd3d988934b15a040970cda5aa69b5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "BlocBoy JB",
+    "display_artist": "BlocBoy JB",
+    "title": "Look Alive feat. Drake",
+    "display_title": "Look Alive feat. Drake",
+    "track": "BlocBoy JB - Look Alive feat. Drake",
+    "length": 181,
+    "duration": 181,
+    "started": 1717504222,
+    "type": "track",
+    "track_id": 2866980,
+    "release": "Look Alive",
+    "art_url": "//cdn-images.audioaddict.com/3/2/2/6/c/c/3226cca4657b9a0a98f35b4864d6d6cf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/2/6/c/c/3226cca4657b9a0a98f35b4864d6d6cf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Desiigner",
+    "display_artist": "Desiigner",
+    "title": "Overseas feat. Lil Pump (Explicit)",
+    "display_title": "Overseas feat. Lil Pump (Explicit)",
+    "track": "Desiigner - Overseas feat. Lil Pump (Explicit)",
+    "length": 192,
+    "duration": 192,
+    "started": 1717504608,
+    "type": "track",
+    "track_id": 2911947,
+    "release": "Overseas",
+    "art_url": "//cdn-images.audioaddict.com/c/f/5/b/5/3/cf5b533690900139f9eaba341cfa4b76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/5/b/5/3/cf5b533690900139f9eaba341cfa4b76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Future",
+    "display_artist": "Future",
+    "title": "Wicked",
+    "display_title": "Wicked",
+    "track": "Future - Wicked",
+    "length": 178,
+    "duration": 178,
+    "started": 1717506582,
+    "type": "track",
+    "track_id": 1251364,
+    "release": "Evol",
+    "art_url": "//cdn-images.audioaddict.com/a/5/2/2/5/8/a52258e185c6a1f5d947e860873059d9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/2/2/5/8/a52258e185c6a1f5d947e860873059d9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Gunna",
+    "display_artist": "Gunna",
+    "title": "fukumean",
+    "display_title": "fukumean",
+    "track": "Gunna - fukumean",
+    "length": 125,
+    "duration": 125,
+    "started": 1717506980,
+    "type": "track",
+    "track_id": 3079604,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/2/b/0/c/8/42b0c89278429db4e2505e5c372e72b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/b/0/c/8/42b0c89278429db4e2505e5c372e72b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Offset, Cardi B",
+    "display_artist": "Offset, Cardi B",
+    "title": "JEALOUSY",
+    "display_title": "JEALOUSY",
+    "track": "Offset, Cardi B - JEALOUSY",
+    "length": 174,
+    "duration": 174,
+    "started": 1717507855,
+    "type": "track",
+    "track_id": 3079607,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/9/7/0/1/d/99701d8e6fd3439de9c807b35c6080f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/7/0/1/d/99701d8e6fd3439de9c807b35c6080f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Rich The Kid",
+    "display_artist": "Rich The Kid",
+    "title": "Plug Walk",
+    "display_title": "Plug Walk",
+    "track": "Rich The Kid - Plug Walk",
+    "length": 174,
+    "duration": 174,
+    "started": 1717508202,
+    "type": "track",
+    "track_id": 2866991,
+    "release": "Plug Walk",
+    "art_url": "//cdn-images.audioaddict.com/9/3/d/3/f/2/93d3f231b4e0d185bea56c878e2a6da6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/d/3/f/2/93d3f231b4e0d185bea56c878e2a6da6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Chris Brown",
+    "display_artist": "Chris Brown",
+    "title": "Loyal feat. Lil' Wayne & French Montana",
+    "display_title": "Loyal feat. Lil' Wayne & French Montana",
+    "track": "Chris Brown - Loyal feat. Lil' Wayne & French Montana",
+    "length": 282,
+    "duration": 282,
+    "started": 1717510997,
+    "type": "track",
+    "track_id": 1251465,
+    "release": "X [Deluxe Version]",
+    "art_url": "//cdn-images.audioaddict.com/c/d/9/8/1/f/cd981f79cf2b001bef8917cdffa7590b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/d/9/8/1/f/cd981f79cf2b001bef8917cdffa7590b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Uzi Vert",
+    "display_artist": "Lil Uzi Vert",
+    "title": "You Was Right",
+    "display_title": "You Was Right",
+    "track": "Lil Uzi Vert - You Was Right",
+    "length": 191,
+    "duration": 191,
+    "started": 1717511261,
+    "type": "track",
+    "track_id": 1274216,
+    "release": "#Savages 3.3",
+    "art_url": "//cdn-images.audioaddict.com/a/2/8/c/9/0/a28c9008e03c74ae40bd4c0a19c4d923.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/8/c/9/0/a28c9008e03c74ae40bd4c0a19c4d923.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Travis Scott",
+    "display_artist": "Travis Scott",
+    "title": "Yosemite feat. Gunna (Explicit)",
+    "display_title": "Yosemite feat. Gunna (Explicit)",
+    "track": "Travis Scott - Yosemite feat. Gunna (Explicit)",
+    "length": 150,
+    "duration": 150,
+    "started": 1717515443,
+    "type": "track",
+    "track_id": 2911986,
+    "release": "Yosemite",
+    "art_url": "//cdn-images.audioaddict.com/8/6/e/c/b/a/86ecbadf8e7664e54c832d57369ff33e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/e/c/b/a/86ecbadf8e7664e54c832d57369ff33e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kodak Black",
+    "display_artist": "Kodak Black",
+    "title": "Tunnel Vision",
+    "display_title": "Tunnel Vision",
+    "track": "Kodak Black - Tunnel Vision",
+    "length": 310,
+    "duration": 310,
+    "started": 1717516884,
+    "type": "track",
+    "track_id": 1417076,
+    "release": "Tunnel Vision CDS",
+    "art_url": "//cdn-images.audioaddict.com/a/a/5/2/0/1/aa52010567146b0ffe2aeaa5f1d43cfc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/5/2/0/1/aa52010567146b0ffe2aeaa5f1d43cfc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "NLE Choppa",
+    "display_artist": "NLE Choppa",
+    "title": "Walk Em Down (feat. Roddy Ricch)",
+    "display_title": "Walk Em Down (feat. Roddy Ricch)",
+    "track": "NLE Choppa - Walk Em Down (feat. Roddy Ricch)",
+    "length": 173,
+    "duration": 173,
+    "started": 1717517723,
+    "type": "track",
+    "track_id": 2989884,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/d/f/c/e/f1dfce929ba4d9225f83887865c3b719.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/d/f/c/e/f1dfce929ba4d9225f83887865c3b719.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "The Game",
+    "display_artist": "The Game",
+    "title": "How We Do feat. 50 Cent",
+    "display_title": "How We Do feat. 50 Cent",
+    "track": "The Game - How We Do feat. 50 Cent",
+    "length": 249,
+    "duration": 249,
+    "started": 1717519206,
+    "type": "track",
+    "track_id": 1251417,
+    "release": "How We Do [International Version]",
+    "art_url": "//cdn-images.audioaddict.com/3/c/5/d/c/3/3c5dc3adfdbd5156b2ab7dd484dc5b10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/5/d/c/3/3c5dc3adfdbd5156b2ab7dd484dc5b10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tyga",
+    "display_artist": "Tyga",
+    "title": "Taste feat. Offset (Explicit)",
+    "display_title": "Taste feat. Offset (Explicit)",
+    "track": "Tyga - Taste feat. Offset (Explicit)",
+    "length": 233,
+    "duration": 233,
+    "started": 1717520089,
+    "type": "track",
+    "track_id": 2919467,
+    "release": "Taste (Clean)",
+    "art_url": "//cdn-images.audioaddict.com/e/a/0/1/8/0/ea018010b6ebfe305a074fd14d3d3569.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/0/1/8/0/ea018010b6ebfe305a074fd14d3d3569.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YNW Melly",
+    "display_artist": "YNW Melly",
+    "title": "223's (feat. 9lokknine)",
+    "display_title": "223's (feat. 9lokknine)",
+    "track": "YNW Melly - 223's (feat. 9lokknine)",
+    "length": 176,
+    "duration": 176,
+    "started": 1717522007,
+    "type": "track",
+    "track_id": 2954424,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/e/6/f/2/3/ee6f230715f8fc2d90cb69255361307f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/6/f/2/3/ee6f230715f8fc2d90cb69255361307f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "Sneakin'",
+    "display_title": "Sneakin'",
+    "track": "Drake - Sneakin'",
+    "length": 255,
+    "duration": 255,
+    "started": 1717522826,
+    "type": "track",
+    "track_id": 1274201,
+    "release": "Sneakin' [Single]",
+    "art_url": "//cdn-images.audioaddict.com/9/4/5/6/2/0/9456206e672bf462908a0d514858b773.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/5/6/2/0/9456206e672bf462908a0d514858b773.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tyler, The Creator",
+    "display_artist": "Tyler, The Creator",
+    "title": "DOGTOOTH",
+    "display_title": "DOGTOOTH",
+    "track": "Tyler, The Creator - DOGTOOTH",
+    "length": 161,
+    "duration": 161,
+    "started": 1717523486,
+    "type": "track",
+    "track_id": 3070408,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/1/9/e/d/b/b19edb272328f625386b4e743be52583.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/1/9/e/d/b/b19edb272328f625386b4e743be52583.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Waka Flocka Flame",
+    "display_artist": "Waka Flocka Flame",
+    "title": "No Hands feat. Wale & Roscoe Dash",
+    "display_title": "No Hands feat. Wale & Roscoe Dash",
+    "track": "Waka Flocka Flame - No Hands feat. Wale & Roscoe Dash",
+    "length": 273,
+    "duration": 273,
+    "started": 1717524465,
+    "type": "track",
+    "track_id": 1251432,
+    "release": "Flockaveli",
+    "art_url": "//cdn-images.audioaddict.com/e/c/d/3/0/a/ecd30afdfbd1cea6346cc3ae2267ecae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/d/3/0/a/ecd30afdfbd1cea6346cc3ae2267ecae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Chris Brown",
+    "display_artist": "Chris Brown",
+    "title": "Under The Influence",
+    "display_title": "Under The Influence",
+    "track": "Chris Brown - Under The Influence",
+    "length": 184,
+    "duration": 184,
+    "started": 1717526163,
+    "type": "track",
+    "track_id": 3070397,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/9/e/3/c/7/d9e3c7e72cba89ec0ccf43bed142f92b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/e/3/c/7/d9e3c7e72cba89ec0ccf43bed142f92b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Don Toliver",
+    "display_artist": "Don Toliver",
+    "title": "Bandit",
+    "display_title": "Bandit",
+    "track": "Don Toliver - Bandit",
+    "length": 147,
+    "duration": 147,
+    "started": 1717530687,
+    "type": "track",
+    "track_id": 3092497,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/0/d/b/7/f/b0db7f93af2f042b69c85ad92058b884.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/d/b/7/f/b0db7f93af2f042b69c85ad92058b884.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "XXXTENTACION",
+    "display_artist": "XXXTENTACION",
+    "title": "Look At Me (Explicit)",
+    "display_title": "Look At Me (Explicit)",
+    "track": "XXXTENTACION - Look At Me (Explicit)",
+    "length": 152,
+    "duration": 152,
+    "started": 1717536113,
+    "type": "track",
+    "track_id": 2919469,
+    "release": "Look At Me!",
+    "art_url": "//cdn-images.audioaddict.com/5/6/8/b/f/3/568bf32c71bd6a2a998819fba2b4d1e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/8/b/f/3/568bf32c71bd6a2a998819fba2b4d1e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "The Notorious B.I.G.",
+    "display_artist": "The Notorious B.I.G.",
+    "title": "Who Shot Ya",
+    "display_title": "Who Shot Ya",
+    "track": "The Notorious B.I.G. - Who Shot Ya",
+    "length": 319,
+    "duration": 319,
+    "started": 1717536882,
+    "type": "track",
+    "track_id": 873096,
+    "release": "Ready To Die The Remaster",
+    "art_url": "//cdn-images.audioaddict.com/f/9/d/0/5/4/f9d0549db680067eabe032b8ec52b1e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/9/d/0/5/4/f9d0549db680067eabe032b8ec52b1e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Juice WRLD",
+    "display_artist": "Juice WRLD",
+    "title": "All Girls Are The Same (Explicit)",
+    "display_title": "All Girls Are The Same (Explicit)",
+    "track": "Juice WRLD - All Girls Are The Same (Explicit)",
+    "length": 169,
+    "duration": 169,
+    "started": 1717538083,
+    "type": "track",
+    "track_id": 2919453,
+    "release": "All Girls Are The Same",
+    "art_url": "//cdn-images.audioaddict.com/b/7/7/4/3/7/b7743799dbbdba68012e4aad54966bbd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/7/4/3/7/b7743799dbbdba68012e4aad54966bbd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YBN Nahmir",
+    "display_artist": "YBN Nahmir",
+    "title": "Bounce Out With That (Explicit)",
+    "display_title": "Bounce Out With That (Explicit)",
+    "track": "YBN Nahmir - Bounce Out With That (Explicit)",
+    "length": 97,
+    "duration": 97,
+    "started": 1717539504,
+    "type": "track",
+    "track_id": 2919470,
+    "release": "Bounce Out With That",
+    "art_url": "//cdn-images.audioaddict.com/3/1/5/c/d/0/315cd0d05cf4f6796ebaee838589de23.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/5/c/d/0/315cd0d05cf4f6796ebaee838589de23.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "MadeinTYO",
+    "display_artist": "MadeinTYO",
+    "title": "Skateboard P",
+    "display_title": "Skateboard P",
+    "track": "MadeinTYO - Skateboard P",
+    "length": 182,
+    "duration": 182,
+    "started": 1717541427,
+    "type": "track",
+    "track_id": 1274218,
+    "release": "Thank You, Mr. Tokyo",
+    "art_url": "//cdn-images.audioaddict.com/0/5/4/c/d/4/054cd48172271fb34685bc7bca7630c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/4/c/d/4/054cd48172271fb34685bc7bca7630c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "2 Chainz",
+    "display_artist": "2 Chainz",
+    "title": "It's A Vibe feat. Ty Dolla $ign, Trey Songz & Jhene Aiko",
+    "display_title": "It's A Vibe feat. Ty Dolla $ign, Trey Songz & Jhene Aiko",
+    "track": "2 Chainz - It's A Vibe feat. Ty Dolla $ign, Trey Songz & Jhene Aiko",
+    "length": 209,
+    "duration": 209,
+    "started": 1717544223,
+    "type": "track",
+    "track_id": 1416989,
+    "release": "It's A Vibe [Single]",
+    "art_url": "//cdn-images.audioaddict.com/7/a/c/2/0/1/7ac2015da2480aab50160401de7a98b8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/c/2/0/1/7ac2015da2480aab50160401de7a98b8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Desiigner",
+    "display_artist": "Desiigner",
+    "title": "Timmy Turner",
+    "display_title": "Timmy Turner",
+    "track": "Desiigner - Timmy Turner",
+    "length": 241,
+    "duration": 241,
+    "started": 1717544430,
+    "type": "track",
+    "track_id": 1274192,
+    "release": "Tiimmy Turner",
+    "art_url": "//cdn-images.audioaddict.com/2/0/2/8/f/d/2028fdf0597985b28f17dd7c1d6dcb4f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/2/8/f/d/2028fdf0597985b28f17dd7c1d6dcb4f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Future",
+    "display_artist": "Future",
+    "title": "Stick Talk",
+    "display_title": "Stick Talk",
+    "track": "Future - Stick Talk",
+    "length": 174,
+    "duration": 174,
+    "started": 1717546124,
+    "type": "track",
+    "track_id": 1251363,
+    "release": "DS2",
+    "art_url": "//cdn-images.audioaddict.com/1/2/9/5/2/e/12952ee600929bf1635fcc9aeb237b56.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/9/5/2/e/12952ee600929bf1635fcc9aeb237b56.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kent Jones",
+    "display_artist": "Kent Jones",
+    "title": "Don't Mind",
+    "display_title": "Don't Mind",
+    "track": "Kent Jones - Don't Mind",
+    "length": 206,
+    "duration": 206,
+    "started": 1717556012,
+    "type": "track",
+    "track_id": 1251376,
+    "release": "Don't Mind (Single)",
+    "art_url": "//cdn-images.audioaddict.com/b/d/9/f/d/f/bd9fdf972889529945721e00d5f42903.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/9/f/d/f/bd9fdf972889529945721e00d5f42903.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Snootie Wild",
+    "display_artist": "Snootie Wild",
+    "title": "Ayo (Yayo) feat. Yo Gotti",
+    "display_title": "Ayo (Yayo) feat. Yo Gotti",
+    "track": "Snootie Wild - Ayo (Yayo) feat. Yo Gotti",
+    "length": 220,
+    "duration": 220,
+    "started": 1717559363,
+    "type": "track",
+    "track_id": 872577,
+    "release": "Go Mode",
+    "art_url": "//cdn-images.audioaddict.com/c/9/2/e/2/7/c92e2784944bbfa43fe9ee1682cf31b5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/2/e/2/7/c92e2784944bbfa43fe9ee1682cf31b5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Megan Thee Stallion",
+    "display_artist": "Megan Thee Stallion",
+    "title": "Girls in the Hood",
+    "display_title": "Girls in the Hood",
+    "track": "Megan Thee Stallion - Girls in the Hood",
+    "length": 154,
+    "duration": 154,
+    "started": 1717559582,
+    "type": "track",
+    "track_id": 2989880,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/a/1/1/8/5/7a11850c55d172a68c4ba2c2b29d44d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/1/1/8/5/7a11850c55d172a68c4ba2c2b29d44d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Kendrick Lamar",
+    "display_artist": "Kendrick Lamar",
+    "title": "Bitch Don't Kill My Vibe (Remix) feat. Jay-Z",
+    "display_title": "Bitch Don't Kill My Vibe (Remix) feat. Jay-Z",
+    "track": "Kendrick Lamar - Bitch Don't Kill My Vibe (Remix) feat. Jay-Z",
+    "length": 283,
+    "duration": 283,
+    "started": 1717563479,
+    "type": "track",
+    "track_id": 1251514,
+    "release": "Bitch Don't Kill My Vibe (Remix) feat. Jay-Z",
+    "art_url": "//cdn-images.audioaddict.com/0/b/e/9/1/8/0be918c68bb06cde56983116bc2ef6a9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/e/9/1/8/0be918c68bb06cde56983116bc2ef6a9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake",
+    "display_artist": "Drake",
+    "title": "Money In The Grave",
+    "display_title": "Money In The Grave",
+    "track": "Drake - Money In The Grave",
+    "length": 205,
+    "duration": 205,
+    "started": 1717565725,
+    "type": "track",
+    "track_id": 2954396,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/a/9/6/3d4a962f882285d7b6a5ab368c76721d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/a/9/6/3d4a962f882285d7b6a5ab368c76721d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "ScHoolboy Q ",
+    "display_artist": "ScHoolboy Q ",
+    "title": "Man Of The Year",
+    "display_title": "Man Of The Year",
+    "track": "ScHoolboy Q  - Man Of The Year",
+    "length": 217,
+    "duration": 217,
+    "started": 1717566359,
+    "type": "track",
+    "track_id": 946186,
+    "release": "Oxymoron",
+    "art_url": "//cdn-images.audioaddict.com/8/7/b/0/4/d/87b04df23188ba07f5ffbc791ebe4e0f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/b/0/4/d/87b04df23188ba07f5ffbc791ebe4e0f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Dej Loaf",
+    "display_artist": "Dej Loaf",
+    "title": "Try Me",
+    "display_title": "Try Me",
+    "track": "Dej Loaf - Try Me",
+    "length": 216,
+    "duration": 216,
+    "started": 1717567383,
+    "type": "track",
+    "track_id": 931916,
+    "release": "Try Me",
+    "art_url": "//cdn-images.audioaddict.com/3/4/7/2/9/3/34729345f59ff927b7e432d1183e2e28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/4/7/2/9/3/34729345f59ff927b7e432d1183e2e28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Pop Smoke",
+    "display_artist": "Pop Smoke",
+    "title": "The Woo (feat. 50 Cent & Roddy Ricch)",
+    "display_title": "The Woo (feat. 50 Cent & Roddy Ricch)",
+    "track": "Pop Smoke - The Woo (feat. 50 Cent & Roddy Ricch)",
+    "length": 201,
+    "duration": 201,
+    "started": 1717577197,
+    "type": "track",
+    "track_id": 2989888,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/a/8/b/4/96a8b44d62db0a4be37cb4d89b8031dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/a/8/b/4/96a8b44d62db0a4be37cb4d89b8031dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Young M.A",
+    "display_artist": "Young M.A",
+    "title": "Ooouuu",
+    "display_title": "Ooouuu",
+    "track": "Young M.A - Ooouuu",
+    "length": 234,
+    "duration": 234,
+    "started": 1717581047,
+    "type": "track",
+    "track_id": 1274238,
+    "release": "Ooouuu [Single]",
+    "art_url": "//cdn-images.audioaddict.com/d/5/c/8/8/6/d5c88655ea24a5bd97a0f1b79b01ba7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/c/8/8/6/d5c88655ea24a5bd97a0f1b79b01ba7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Roddy Ricch",
+    "display_artist": "Roddy Ricch",
+    "title": "The Box",
+    "display_title": "The Box",
+    "track": "Roddy Ricch - The Box",
+    "length": 196,
+    "duration": 196,
+    "started": 1717581492,
+    "type": "track",
+    "track_id": 2970862,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/6/e/9/a/5/e6e9a560181b4d71d6b81e84678203e5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/e/9/a/5/e6e9a560181b4d71d6b81e84678203e5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Nicki Minaj",
+    "display_artist": "Nicki Minaj",
+    "title": "Feeling Myself",
+    "display_title": "Feeling Myself",
+    "track": "Nicki Minaj - Feeling Myself",
+    "length": 237,
+    "duration": 237,
+    "started": 1717583334,
+    "type": "track",
+    "track_id": 946081,
+    "release": "The Pinkprint",
+    "art_url": "//cdn-images.audioaddict.com/8/6/8/4/4/6/868446cf685eeb2cbeca79eb39e35664.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/8/4/4/6/868446cf685eeb2cbeca79eb39e35664.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Youngboy Never Broke Again",
+    "display_artist": "Youngboy Never Broke Again",
+    "title": "Outside Today (Explicit)",
+    "display_title": "Outside Today (Explicit)",
+    "track": "Youngboy Never Broke Again - Outside Today (Explicit)",
+    "length": 128,
+    "duration": 128,
+    "started": 1717584967,
+    "type": "track",
+    "track_id": 2919472,
+    "release": "Until Death Call My Name",
+    "art_url": "//cdn-images.audioaddict.com/1/b/9/3/5/d/1b935ddd36f698b4b661b4f7f420015c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/9/3/5/d/1b935ddd36f698b4b661b4f7f420015c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Bigxthaplug",
+    "display_artist": "Bigxthaplug",
+    "title": "Mmhmm",
+    "display_title": "Mmhmm",
+    "track": "Bigxthaplug - Mmhmm",
+    "length": 119,
+    "duration": 119,
+    "started": 1717590711,
+    "type": "track",
+    "track_id": 3092492,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/2/b/e/0/1/92be01dab7fd8b35d3cfb0ba1d4d6d95.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/b/e/0/1/92be01dab7fd8b35d3cfb0ba1d4d6d95.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Drake, 21 Savage",
+    "display_artist": "Drake, 21 Savage",
+    "title": "Rich Flex",
+    "display_title": "Rich Flex",
+    "track": "Drake, 21 Savage - Rich Flex",
+    "length": 239,
+    "duration": 239,
+    "started": 1717591287,
+    "type": "track",
+    "track_id": 3070398,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/a/b/3/0/a/dab30aca3e32fa929cbd22946b4ee3f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/b/3/0/a/dab30aca3e32fa929cbd22946b4ee3f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Cardi B",
+    "display_artist": "Cardi B",
+    "title": "Like What (Freestyle)",
+    "display_title": "Like What (Freestyle)",
+    "track": "Cardi B - Like What (Freestyle)",
+    "length": 136,
+    "duration": 136,
+    "started": 1717591856,
+    "type": "track",
+    "track_id": 3092495,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/c/a/b/0/4/0cab043f35d30a7894de816f9ff7456f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/a/b/0/4/0cab043f35d30a7894de816f9ff7456f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Yo Gotti & Mike Will Made-It",
+    "display_artist": "Yo Gotti & Mike Will Made-It",
+    "title": "Rake It Up feat. Nicki Minaj",
+    "display_title": "Rake It Up feat. Nicki Minaj",
+    "track": "Yo Gotti & Mike Will Made-It - Rake It Up feat. Nicki Minaj",
+    "length": 281,
+    "duration": 281,
+    "started": 1717591992,
+    "type": "track",
+    "track_id": 2023321,
+    "release": "Gotti Made-It",
+    "art_url": "//cdn-images.audioaddict.com/2/9/2/a/0/5/292a05797292f483f531d1178da484f4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/2/a/0/5/292a05797292f483f531d1178da484f4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Post Malone",
+    "display_artist": "Post Malone",
+    "title": "Congratulations feat. Quavo",
+    "display_title": "Congratulations feat. Quavo",
+    "track": "Post Malone - Congratulations feat. Quavo",
+    "length": 208,
+    "duration": 208,
+    "started": 1717592503,
+    "type": "track",
+    "track_id": 1274224,
+    "release": "Stoney",
+    "art_url": "//cdn-images.audioaddict.com/6/4/7/9/4/e/64794e43b48a398fbb1e5a2095b2f321.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/7/9/4/e/64794e43b48a398fbb1e5a2095b2f321.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "J. Cole Feat. Trey Songz",
+    "display_artist": "J. Cole Feat. Trey Songz",
+    "title": "Can't Get Enough",
+    "display_title": "Can't Get Enough",
+    "track": "J. Cole Feat. Trey Songz - Can't Get Enough",
+    "length": 226,
+    "duration": 226,
+    "started": 1717594873,
+    "type": "track",
+    "track_id": 19520,
+    "release": "Can't Get Enough [Single]",
+    "art_url": "//cdn-images.audioaddict.com/2/d/1/f/a/c/2d1fac0af794e2c32f05279d75a0a5f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/1/f/a/c/2d1fac0af794e2c32f05279d75a0a5f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Skies",
+    "display_artist": "Lil Skies",
+    "title": "Nowadays feat. Landon Cube (Explicit)",
+    "display_title": "Nowadays feat. Landon Cube (Explicit)",
+    "track": "Lil Skies - Nowadays feat. Landon Cube (Explicit)",
+    "length": 204,
+    "duration": 204,
+    "started": 1717604273,
+    "type": "track",
+    "track_id": 2919457,
+    "release": "Life Of A Dark Rose",
+    "art_url": "//cdn-images.audioaddict.com/b/0/4/3/f/c/b043fc3569c3ea23b7a3f1604ba0468d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/4/3/f/c/b043fc3569c3ea23b7a3f1604ba0468d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Tyga",
+    "display_artist": "Tyga",
+    "title": "Hookah feat. Young Thug",
+    "display_title": "Hookah feat. Young Thug",
+    "track": "Tyga - Hookah feat. Young Thug",
+    "length": 210,
+    "duration": 210,
+    "started": 1717606866,
+    "type": "track",
+    "track_id": 1251590,
+    "release": "Hookah feat. Yung Thug",
+    "art_url": "//cdn-images.audioaddict.com/9/9/f/0/1/b/99f01b08042af36309284eb97a96df97.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/f/0/1/b/99f01b08042af36309284eb97a96df97.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "SOB x RBE",
+    "display_artist": "SOB x RBE",
+    "title": "Paramedic feat. Kendrick Lamar",
+    "display_title": "Paramedic feat. Kendrick Lamar",
+    "track": "SOB x RBE - Paramedic feat. Kendrick Lamar",
+    "length": 219,
+    "duration": 219,
+    "started": 1717612715,
+    "type": "track",
+    "track_id": 2867001,
+    "release": "Paramedic",
+    "art_url": "//cdn-images.audioaddict.com/1/f/a/4/c/1/1fa4c17f216082096412ea57f027dbe5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/a/4/c/1/1fa4c17f216082096412ea57f027dbe5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "LoveRance",
+    "display_artist": "LoveRance",
+    "title": "Up! feat. YG, Iamsu & Skipper",
+    "display_title": "Up! feat. YG, Iamsu & Skipper",
+    "track": "LoveRance - Up! feat. YG, Iamsu & Skipper",
+    "length": 272,
+    "duration": 272,
+    "started": 1717616465,
+    "type": "track",
+    "track_id": 1251528,
+    "release": "Just Re'd Up",
+    "art_url": "//cdn-images.audioaddict.com/7/d/2/9/6/9/7d2969e947249eb88d9b22cad9311bde.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/2/9/6/9/7d2969e947249eb88d9b22cad9311bde.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Migos",
+    "display_artist": "Migos",
+    "title": "Walk It Talk It feat. Drake",
+    "display_title": "Walk It Talk It feat. Drake",
+    "track": "Migos - Walk It Talk It feat. Drake",
+    "length": 276,
+    "duration": 276,
+    "started": 1717620296,
+    "type": "track",
+    "track_id": 2866986,
+    "release": "Walk It Talk It",
+    "art_url": "//cdn-images.audioaddict.com/6/b/f/3/c/c/6bf3cc682f34fdb0f82b8e3207d7b931.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/f/3/c/c/6bf3cc682f34fdb0f82b8e3207d7b931.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "The Game",
+    "display_artist": "The Game",
+    "title": "Westside Story feat. 50 Cent",
+    "display_title": "Westside Story feat. 50 Cent",
+    "track": "The Game - Westside Story feat. 50 Cent",
+    "length": 223,
+    "duration": 223,
+    "started": 1717623997,
+    "type": "track",
+    "track_id": 873087,
+    "release": "The Documentary",
+    "art_url": "//cdn-images.audioaddict.com/0/8/a/5/9/c/08a59c5be17feeb7debb298c9d0d296e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/a/5/9/c/08a59c5be17feeb7debb298c9d0d296e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Travis Scott",
+    "display_artist": "Travis Scott",
+    "title": "I KNOW ",
+    "display_title": "I KNOW ",
+    "track": "Travis Scott - I KNOW ",
+    "length": 211,
+    "duration": 211,
+    "started": 1717640056,
+    "type": "track",
+    "track_id": 3079609,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/2/b/9/b/1/32b9b170766f91bef2cc5275909400d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/b/9/b/1/32b9b170766f91bef2cc5275909400d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "6LACK",
+    "display_artist": "6LACK",
+    "title": "PRBLMS",
+    "display_title": "PRBLMS",
+    "track": "6LACK - PRBLMS",
+    "length": 249,
+    "duration": 249,
+    "started": 1717656324,
+    "type": "track",
+    "track_id": 1416990,
+    "release": "Prblms",
+    "art_url": "//cdn-images.audioaddict.com/b/f/7/b/f/0/bf7bf07239f8c999914a51f3579d5184.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/f/7/b/f/0/bf7bf07239f8c999914a51f3579d5184.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "GoldLink",
+    "display_artist": "GoldLink",
+    "title": "Crew feat. Brent Faiyaz & Shy Glizzy",
+    "display_title": "Crew feat. Brent Faiyaz & Shy Glizzy",
+    "track": "GoldLink - Crew feat. Brent Faiyaz & Shy Glizzy",
+    "length": 184,
+    "duration": 184,
+    "started": 1717675377,
+    "type": "track",
+    "track_id": 1417033,
+    "release": "At What Cost",
+    "art_url": "//cdn-images.audioaddict.com/6/f/0/1/6/4/6f016457a32f2f050a1a4c9911875d63.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/0/1/6/4/6f016457a32f2f050a1a4c9911875d63.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Juice WRLD",
+    "display_artist": "Juice WRLD",
+    "title": "Armed And Dangerous (Explicit)",
+    "display_title": "Armed And Dangerous (Explicit)",
+    "track": "Juice WRLD - Armed And Dangerous (Explicit)",
+    "length": 170,
+    "duration": 170,
+    "started": 1717679711,
+    "type": "track",
+    "track_id": 2911964,
+    "release": "Armed and Dangerous",
+    "art_url": "//cdn-images.audioaddict.com/a/5/b/c/b/6/a5bcb65946e38971b6c0273ca9f4741a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/b/c/b/6/a5bcb65946e38971b6c0273ca9f4741a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Future",
+    "display_artist": "Future",
+    "title": "Mask Off",
+    "display_title": "Mask Off",
+    "track": "Future - Mask Off",
+    "length": 202,
+    "duration": 202,
+    "started": 1717684546,
+    "type": "track",
+    "track_id": 1417032,
+    "release": "FUTURE",
+    "art_url": "//cdn-images.audioaddict.com/0/6/3/f/d/e/063fded3dff87fbf516367e438ec2295.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/3/f/d/e/063fded3dff87fbf516367e438ec2295.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Wiz Khalifa",
+    "display_artist": "Wiz Khalifa",
+    "title": "You & Your Friends feat. Snoop Dogg & Ty Dolla",
+    "display_title": "You & Your Friends feat. Snoop Dogg & Ty Dolla",
+    "track": "Wiz Khalifa - You & Your Friends feat. Snoop Dogg & Ty Dolla",
+    "length": 194,
+    "duration": 194,
+    "started": 1717694243,
+    "type": "track",
+    "track_id": 1251598,
+    "release": "You & Your Friends feat. Snoop Dogg & Ty Dolla",
+    "art_url": "//cdn-images.audioaddict.com/e/9/4/4/1/9/e94419d5856fc33d867dcfd0c57b69ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/4/4/1/9/e94419d5856fc33d867dcfd0c57b69ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YG",
+    "display_artist": "YG",
+    "title": "Who Do You Love feat. Drake",
+    "display_title": "Who Do You Love feat. Drake",
+    "track": "YG - Who Do You Love feat. Drake",
+    "length": 220,
+    "duration": 220,
+    "started": 1717715411,
+    "type": "track",
+    "track_id": 1251437,
+    "release": "Who Do You Love feat. Drake",
+    "art_url": "//cdn-images.audioaddict.com/5/7/b/b/0/8/57bb084ffa8b9e2569f9dace6248e7fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/b/b/0/8/57bb084ffa8b9e2569f9dace6248e7fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Sexyy Red",
+    "display_artist": "Sexyy Red",
+    "title": "Get It Sexyy",
+    "display_title": "Get It Sexyy",
+    "track": "Sexyy Red - Get It Sexyy",
+    "length": 148,
+    "duration": 148,
+    "started": 1717734743,
+    "type": "track",
+    "track_id": 3092502,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/9/a/f/1/7/09af17f14b5ede6d601e1253ddfe4732.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/9/a/f/1/7/09af17f14b5ede6d601e1253ddfe4732.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Trevor Daniel",
+    "display_artist": "Trevor Daniel",
+    "title": "Falling",
+    "display_title": "Falling",
+    "track": "Trevor Daniel - Falling",
+    "length": 159,
+    "duration": 159,
+    "started": 1717776810,
+    "type": "track",
+    "track_id": 2989891,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/f/0/0/f/5bf00f7a3d978ef584c593e7b60b81ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/f/0/0/f/5bf00f7a3d978ef584c593e7b60b81ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Juice WRLD",
+    "display_artist": "Juice WRLD",
+    "title": "Lean Wit Me (Explicit)",
+    "display_title": "Lean Wit Me (Explicit)",
+    "track": "Juice WRLD - Lean Wit Me (Explicit)",
+    "length": 176,
+    "duration": 176,
+    "started": 1717791878,
+    "type": "track",
+    "track_id": 2911965,
+    "release": "Lean Wit Me",
+    "art_url": "//cdn-images.audioaddict.com/9/b/1/c/6/7/9b1c6757d90d0990fb1d45e16559a203.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/1/c/6/7/9b1c6757d90d0990fb1d45e16559a203.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "DaBaby",
+    "display_artist": "DaBaby",
+    "title": "SHAKE SUMN",
+    "display_title": "SHAKE SUMN",
+    "track": "DaBaby - SHAKE SUMN",
+    "length": 124,
+    "duration": 124,
+    "started": 1717909341,
+    "type": "track",
+    "track_id": 3079602,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/f/6/4/e/6/8f64e62b74bfbb1b98ff068d9c5da5ed.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/6/4/e/6/8f64e62b74bfbb1b98ff068d9c5da5ed.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Nicki Minaj, Ice Spice, Aqua",
+    "display_artist": "Nicki Minaj, Ice Spice, Aqua",
+    "title": "Barbie World (with Aqua) [Barbie The Album]",
+    "display_title": "Barbie World (with Aqua) [Barbie The Album]",
+    "track": "Nicki Minaj, Ice Spice, Aqua - Barbie World (with Aqua) [Barbie The Album]",
+    "length": 109,
+    "duration": 109,
+    "started": 1717909679,
+    "type": "track",
+    "track_id": 3079606,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/a/f/3/f/c4af3f027544d497f43f1603f45a3be6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/a/f/3/f/c4af3f027544d497f43f1603f45a3be6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Lil Tecca",
+    "display_artist": "Lil Tecca",
+    "title": "Ransom",
+    "display_title": "Ransom",
+    "track": "Lil Tecca - Ransom",
+    "length": 131,
+    "duration": 131,
+    "started": 1717915805,
+    "type": "track",
+    "track_id": 2954403,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/6/a/6/f/e/26a6fefc47611c59f6b69f0c2c7dd5b2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/a/6/f/e/26a6fefc47611c59f6b69f0c2c7dd5b2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "Nav",
+    "display_artist": "Nav",
+    "title": "Know Me (Explicit)",
+    "display_title": "Know Me (Explicit)",
+    "track": "Nav - Know Me (Explicit)",
+    "length": 155,
+    "duration": 155,
+    "started": 1717920780,
+    "type": "track",
+    "track_id": 2911976,
+    "release": "Know Me",
+    "art_url": "//cdn-images.audioaddict.com/7/1/a/7/8/6/71a786325f4a7e94bb23d850888377fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/a/7/8/6/71a786325f4a7e94bb23d850888377fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 42,
+    "artist": "YBN Nahmir",
+    "display_artist": "YBN Nahmir",
+    "title": "Rubbin Off The Paint (Explicit)",
+    "display_title": "Rubbin Off The Paint (Explicit)",
+    "track": "YBN Nahmir - Rubbin Off The Paint (Explicit)",
+    "length": 156,
+    "duration": 156,
+    "started": 1718062072,
+    "type": "track",
+    "track_id": 2919471,
+    "release": "Rubbin Off The Paint",
+    "art_url": "//cdn-images.audioaddict.com/a/d/9/8/f/f/ad98ff519cf82572a0f708527cd77c6f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/9/8/f/f/ad98ff519cf82572a0f708527cd77c6f.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

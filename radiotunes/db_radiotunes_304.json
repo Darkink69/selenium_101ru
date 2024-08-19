@@ -1,0 +1,4467 @@
+[
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Bad Bunny Ft Drake",
+    "display_artist": "Bad Bunny Ft Drake",
+    "title": "Mia (Radio)",
+    "display_title": "Mia (Radio)",
+    "track": "Bad Bunny Ft Drake - Mia (Radio)",
+    "length": 210,
+    "duration": 210,
+    "started": 1717382113,
+    "type": "track",
+    "track_id": 2911241,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/c/f/7/d/1/ecf7d198cc369949541f112d8a87b2f6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/f/7/d/1/ecf7d198cc369949541f112d8a87b2f6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Gente De Zona Ft Pitbull, Marc Anthony",
+    "display_artist": "Gente De Zona Ft Pitbull, Marc Anthony",
+    "title": "La Gozadera (Mr Worldwide Remix)",
+    "display_title": "La Gozadera (Mr Worldwide Remix)",
+    "track": "Gente De Zona Ft Pitbull, Marc Anthony - La Gozadera (Mr Worldwide Remix)",
+    "length": 244,
+    "duration": 244,
+    "started": 1717382587,
+    "type": "track",
+    "track_id": 1060021,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/b/4/1/7/4/8b4174d9deef20b0259033efeb0fd126.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/b/4/1/7/4/8b4174d9deef20b0259033efeb0fd126.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "De La Ghetto Ft J Balvin",
+    "display_artist": "De La Ghetto Ft J Balvin",
+    "title": "Caliente",
+    "display_title": "Caliente",
+    "track": "De La Ghetto Ft J Balvin - Caliente",
+    "length": 206,
+    "duration": 206,
+    "started": 1717382830,
+    "type": "track",
+    "track_id": 2905784,
+    "release": "Mi Movimiento",
+    "art_url": "//cdn-images.audioaddict.com/9/c/2/2/f/2/9c22f2d68fd60b909c87e033f231b60e.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/2/2/f/2/9c22f2d68fd60b909c87e033f231b60e.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma",
+    "display_artist": "Maluma",
+    "title": "Felices Los 4",
+    "display_title": "Felices Los 4",
+    "track": "Maluma - Felices Los 4",
+    "length": 229,
+    "duration": 229,
+    "started": 1717383225,
+    "type": "track",
+    "track_id": 2000560,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/b/9/9/8/6/0b9986c5a8cfcf31cb51979c2bc7dfc0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/9/9/8/6/0b9986c5a8cfcf31cb51979c2bc7dfc0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Reik",
+    "display_artist": "Reik",
+    "title": "Ya Me Entere (Radio Remix)",
+    "display_title": "Ya Me Entere (Radio Remix)",
+    "track": "Reik - Ya Me Entere (Radio Remix)",
+    "length": 220,
+    "duration": 220,
+    "started": 1717383685,
+    "type": "track",
+    "track_id": 1252708,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/c/8/f/e/7/a/c8fe7ad1b4834968d5a40a5fe9b41d8f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/f/e/7/a/c8fe7ad1b4834968d5a40a5fe9b41d8f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee Ft Wisin Y Yandel",
+    "display_artist": "Daddy Yankee Ft Wisin Y Yandel",
+    "title": "Si Tu Supieras",
+    "display_title": "Si Tu Supieras",
+    "track": "Daddy Yankee Ft Wisin Y Yandel - Si Tu Supieras",
+    "length": 241,
+    "duration": 241,
+    "started": 1717384101,
+    "type": "track",
+    "track_id": 2943587,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/4/f/7/2/3/f/4f723f3ab2648bd8e8d700810459b754.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/7/2/3/f/4f723f3ab2648bd8e8d700810459b754.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Chino Y Nacho Ft Daddy Yankee, Wisin, Don Omar",
+    "display_artist": "Chino Y Nacho Ft Daddy Yankee, Wisin, Don Omar",
+    "title": "Andas En Mi Cabeza (Radio Remix)",
+    "display_title": "Andas En Mi Cabeza (Radio Remix)",
+    "track": "Chino Y Nacho Ft Daddy Yankee, Wisin, Don Omar - Andas En Mi Cabeza (Radio Remix)",
+    "length": 263,
+    "duration": 263,
+    "started": 1717384342,
+    "type": "track",
+    "track_id": 1262863,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/4/f/1/2/9/6/4f12966d0e10ca88e9d78501657d27d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/1/2/9/6/4f12966d0e10ca88e9d78501657d27d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Yandel Ft Maluma",
+    "display_artist": "Yandel Ft Maluma",
+    "title": "Solo Mia",
+    "display_title": "Solo Mia",
+    "track": "Yandel Ft Maluma - Solo Mia",
+    "length": 203,
+    "duration": 203,
+    "started": 1717384804,
+    "type": "track",
+    "track_id": 2102781,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/0/f/7/b/f/e0f7bfe7fe4a7a18bbd7bf4effa71e07.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/f/7/b/f/e0f7bfe7fe4a7a18bbd7bf4effa71e07.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Casper Magico Y Nio Garcia  Ft Jennifer Lopez, Wisin, Yandel, Cosculluela",
+    "display_artist": "Casper Magico Y Nio Garcia  Ft Jennifer Lopez, Wisin, Yandel, Cosculluela",
+    "title": "Te Bote 2 (Radio)",
+    "display_title": "Te Bote 2 (Radio)",
+    "track": "Casper Magico Y Nio Garcia  Ft Jennifer Lopez, Wisin, Yandel, Cosculluela - Te Bote 2 (Radio)",
+    "length": 272,
+    "duration": 272,
+    "started": 1717385179,
+    "type": "track",
+    "track_id": 2921091,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/f/a/e/b/f/0faebfd5d59cad622203702b213b3884.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/a/e/b/f/0faebfd5d59cad622203702b213b3884.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Yandel Ft Ozuna",
+    "display_artist": "Yandel Ft Ozuna",
+    "title": "No Quiero Amores",
+    "display_title": "No Quiero Amores",
+    "track": "Yandel Ft Ozuna - No Quiero Amores",
+    "length": 203,
+    "duration": 203,
+    "started": 1717385683,
+    "type": "track",
+    "track_id": 2852226,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/1/0/b/3/4/610b34abe91c77e0be5aeaed511bb944.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/1/0/b/3/4/610b34abe91c77e0be5aeaed511bb944.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Don Omar Ft Zion Y Lennox",
+    "display_artist": "Don Omar Ft Zion Y Lennox",
+    "title": "Te Quiero Pa Mi",
+    "display_title": "Te Quiero Pa Mi",
+    "track": "Don Omar Ft Zion Y Lennox - Te Quiero Pa Mi",
+    "length": 212,
+    "duration": 212,
+    "started": 1717385884,
+    "type": "track",
+    "track_id": 1275769,
+    "release": "King Of Kings 10th Anniversary",
+    "art_url": "//cdn-images.audioaddict.com/d/9/1/e/7/f/d91e7f5b71475a8a2c44b1f3b9b007d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/1/e/7/f/d91e7f5b71475a8a2c44b1f3b9b007d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Brray Ft Jowell Y Randy",
+    "display_artist": "Brray Ft Jowell Y Randy",
+    "title": "Hay Que Celebrar (Xplicit)",
+    "display_title": "Hay Que Celebrar (Xplicit)",
+    "track": "Brray Ft Jowell Y Randy - Hay Que Celebrar (Xplicit)",
+    "length": 241,
+    "duration": 241,
+    "started": 1717386312,
+    "type": "track",
+    "track_id": 2938673,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/8/2/3/d/9/0823d9880353f6393e3d323fdddf48de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/2/3/d/9/0823d9880353f6393e3d323fdddf48de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma",
+    "display_artist": "Maluma",
+    "title": "Me Gustas Tanto",
+    "display_title": "Me Gustas Tanto",
+    "track": "Maluma - Me Gustas Tanto",
+    "length": 230,
+    "duration": 230,
+    "started": 1717386755,
+    "type": "track",
+    "track_id": 952241,
+    "release": "Pbdb (The Mixtape)",
+    "art_url": "//cdn-images.audioaddict.com/8/2/e/8/1/0/82e81032614d666949d2b9edaf3eecfb.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/e/8/1/0/82e81032614d666949d2b9edaf3eecfb.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma",
+    "display_artist": "Maluma",
+    "title": "El Perdedor (Radio)",
+    "display_title": "El Perdedor (Radio)",
+    "track": "Maluma - El Perdedor (Radio)",
+    "length": 213,
+    "duration": 213,
+    "started": 1717387203,
+    "type": "track",
+    "track_id": 1240712,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/7/d/1/e/3/17d1e3fad0bafaf54fdb8e51c619afbc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/d/1/e/3/17d1e3fad0bafaf54fdb8e51c619afbc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam Y Bad Bunny",
+    "display_artist": "Nicky Jam Y Bad Bunny",
+    "title": "El Amante (Haku Short Version)",
+    "display_title": "El Amante (Haku Short Version)",
+    "track": "Nicky Jam Y Bad Bunny - El Amante (Haku Short Version)",
+    "length": 282,
+    "duration": 282,
+    "started": 1717387586,
+    "type": "track",
+    "track_id": 2938705,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/c/6/a/2/6/e/c6a26e5fa217a20f532fa0c0cae4ca0d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/a/2/6/e/c6a26e5fa217a20f532fa0c0cae4ca0d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Gloria Estefan Ft Wisin Y Yandel",
+    "display_artist": "Gloria Estefan Ft Wisin Y Yandel",
+    "title": "No Llores Remix",
+    "display_title": "No Llores Remix",
+    "track": "Gloria Estefan Ft Wisin Y Yandel - No Llores Remix",
+    "length": 241,
+    "duration": 241,
+    "started": 1717388041,
+    "type": "track",
+    "track_id": 1275744,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/d/1/4/a/d/8d14addc5a0d49060a69a6f52dcae86a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/1/4/a/d/8d14addc5a0d49060a69a6f52dcae86a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Chyno Miranda Ft Wisin, Gente De Zona",
+    "display_artist": "Chyno Miranda Ft Wisin, Gente De Zona",
+    "title": "Quedate Conmigo",
+    "display_title": "Quedate Conmigo",
+    "track": "Chyno Miranda Ft Wisin, Gente De Zona - Quedate Conmigo",
+    "length": 223,
+    "duration": 223,
+    "started": 1717388280,
+    "type": "track",
+    "track_id": 2102740,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/5/1/e/a/7/e51ea7a0fc1ee1d1c75622c2847a18ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/1/e/a/7/e51ea7a0fc1ee1d1c75622c2847a18ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Don Omar, Daddy Yankee, Wisin, Yandel",
+    "display_artist": "Don Omar, Daddy Yankee, Wisin, Yandel",
+    "title": "Mayor Que Yo 3 (Puro Reggeaton Mix)",
+    "display_title": "Mayor Que Yo 3 (Puro Reggeaton Mix)",
+    "track": "Don Omar, Daddy Yankee, Wisin, Yandel - Mayor Que Yo 3 (Puro Reggeaton Mix)",
+    "length": 305,
+    "duration": 305,
+    "started": 1717388720,
+    "type": "track",
+    "track_id": 1262868,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/1/1/f/1/6/811f1692a15b7822b2f5ee0874dcbc39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/1/f/1/6/811f1692a15b7822b2f5ee0874dcbc39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma Ft Dyland Y Lenny",
+    "display_artist": "Maluma Ft Dyland Y Lenny",
+    "title": "Obsesion Remix",
+    "display_title": "Obsesion Remix",
+    "track": "Maluma Ft Dyland Y Lenny - Obsesion Remix",
+    "length": 194,
+    "duration": 194,
+    "started": 1717389237,
+    "type": "track",
+    "track_id": 463352,
+    "release": "Magia",
+    "art_url": "//cdn-images.audioaddict.com/9/7/8/6/e/e/9786ee2f2136da76fc8160bb0f3548dc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/8/6/e/e/9786ee2f2136da76fc8160bb0f3548dc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "R.k.m. & Ken-Y",
+    "display_artist": "R.k.m. & Ken-Y",
+    "title": "Me Matas",
+    "display_title": "Me Matas",
+    "track": "R.k.m. & Ken-Y - Me Matas",
+    "length": 196,
+    "duration": 196,
+    "started": 1717389430,
+    "type": "track",
+    "track_id": 464004,
+    "release": "Reggaeton",
+    "art_url": "//cdn-images.audioaddict.com/7/f/8/8/3/3/7f8833714eabb3155b8ce72424e54135.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/8/8/3/3/7f8833714eabb3155b8ce72424e54135.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Chocquibtown X Becky G",
+    "display_artist": "Chocquibtown X Becky G",
+    "title": "Que Me Baile",
+    "display_title": "Que Me Baile",
+    "track": "Chocquibtown X Becky G - Que Me Baile",
+    "length": 223,
+    "duration": 223,
+    "started": 1717389804,
+    "type": "track",
+    "track_id": 2943586,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/f/8/1/7/7/5f8177fcab7f5fc819ec14269b11afc2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/8/1/7/7/5f8177fcab7f5fc819ec14269b11afc2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Chocquibtown Ft Akim, Boza, Eddy Lover",
+    "display_artist": "Chocquibtown Ft Akim, Boza, Eddy Lover",
+    "title": "Pa Olvidarte (Panama Remix)",
+    "display_title": "Pa Olvidarte (Panama Remix)",
+    "track": "Chocquibtown Ft Akim, Boza, Eddy Lover - Pa Olvidarte (Panama Remix)",
+    "length": 234,
+    "duration": 234,
+    "started": 1717390221,
+    "type": "track",
+    "track_id": 2938674,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/4/4/7/0/0/1447007720907596afc378f7f4f05395.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/4/7/0/0/1447007720907596afc378f7f4f05395.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Aventura feat. Don Omar",
+    "display_artist": "Aventura feat. Don Omar",
+    "title": "Ella Y Yo (Feat. Don Omar)",
+    "display_title": "Ella Y Yo (Feat. Don Omar)",
+    "track": "Aventura feat. Don Omar - Ella Y Yo (Feat. Don Omar)",
+    "length": 266,
+    "duration": 266,
+    "started": 1717390673,
+    "type": "track",
+    "track_id": 459436,
+    "release": "Reggaeton Latino",
+    "art_url": "//cdn-images.audioaddict.com/c/e/f/b/1/6/cefb16b8464e3e8dd3db1a155a790364.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/f/b/1/6/cefb16b8464e3e8dd3db1a155a790364.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Jowell Y Randy Ft Daddy Yankee",
+    "display_artist": "Jowell Y Randy Ft Daddy Yankee",
+    "title": "Mucha Soltura",
+    "display_title": "Mucha Soltura",
+    "track": "Jowell Y Randy Ft Daddy Yankee - Mucha Soltura",
+    "length": 244,
+    "duration": 244,
+    "started": 1717390939,
+    "type": "track",
+    "track_id": 462612,
+    "release": "Sobredoxis",
+    "art_url": "//cdn-images.audioaddict.com/c/5/9/2/e/e/c592eedfdcdaaf241b137f5343e8d8e0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/9/2/e/e/c592eedfdcdaaf241b137f5343e8d8e0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Don Omar",
+    "display_artist": "Don Omar",
+    "title": "Dale Don Dale",
+    "display_title": "Dale Don Dale",
+    "track": "Don Omar - Dale Don Dale",
+    "length": 212,
+    "duration": 212,
+    "started": 1717391342,
+    "type": "track",
+    "track_id": 696128,
+    "release": "Mvp",
+    "art_url": "//cdn-images.audioaddict.com/6/5/5/4/8/e/65548e8a21fa0d04eea2473a77de009f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/5/5/4/8/e/65548e8a21fa0d04eea2473a77de009f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Greeicy",
+    "display_artist": "Greeicy",
+    "title": "Que Lio",
+    "display_title": "Que Lio",
+    "track": "Greeicy - Que Lio",
+    "length": 222,
+    "duration": 222,
+    "started": 1717391761,
+    "type": "track",
+    "track_id": 2938683,
+    "release": "Baila",
+    "art_url": "//cdn-images.audioaddict.com/1/1/4/2/3/4/11423412b99fcfc31572bb1ed6c50e27.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/1/4/2/3/4/11423412b99fcfc31572bb1ed6c50e27.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Luis Fonsi & Daddy Yankee",
+    "display_artist": "Luis Fonsi & Daddy Yankee",
+    "title": "Despacito feat. Justin Bieber (Remix)",
+    "display_title": "Despacito feat. Justin Bieber (Remix)",
+    "track": "Luis Fonsi & Daddy Yankee - Despacito feat. Justin Bieber (Remix)",
+    "length": 229,
+    "duration": 229,
+    "started": 1717392164,
+    "type": "track",
+    "track_id": 2023170,
+    "release": "Despacito Featuring Justin Bieber",
+    "art_url": "//cdn-images.audioaddict.com/3/8/6/b/a/1/386ba193264a4a8142129e5f2aba8832.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/6/b/a/1/386ba193264a4a8142129e5f2aba8832.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Enrique Iglesias Ft Bad Bunny, Natti Natasha",
+    "display_artist": "Enrique Iglesias Ft Bad Bunny, Natti Natasha",
+    "title": "El Bano (Remix)",
+    "display_title": "El Bano (Remix)",
+    "track": "Enrique Iglesias Ft Bad Bunny, Natti Natasha - El Bano (Remix)",
+    "length": 237,
+    "duration": 237,
+    "started": 1717392594,
+    "type": "track",
+    "track_id": 2886848,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/9/f/c/0/0/4/9fc004b3822ac53ef2ec5b1a856ea1be.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/c/0/0/4/9fc004b3822ac53ef2ec5b1a856ea1be.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Zion Y Lennox",
+    "display_artist": "Zion Y Lennox",
+    "title": "Baila Conmigo (Extended Remix)",
+    "display_title": "Baila Conmigo (Extended Remix)",
+    "track": "Zion Y Lennox - Baila Conmigo (Extended Remix)",
+    "length": 147,
+    "duration": 147,
+    "started": 1717393043,
+    "type": "track",
+    "track_id": 772391,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/1/d/5/f/b/f/1d5fbf4ad13ac5317a6857765590cc23.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/5/f/b/f/1d5fbf4ad13ac5317a6857765590cc23.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ed Sheeran Ft Zion Y Lennox",
+    "display_artist": "Ed Sheeran Ft Zion Y Lennox",
+    "title": "Shape Of You (Latin Radio Remix)",
+    "display_title": "Shape Of You (Latin Radio Remix)",
+    "track": "Ed Sheeran Ft Zion Y Lennox - Shape Of You (Latin Radio Remix)",
+    "length": 234,
+    "duration": 234,
+    "started": 1717393392,
+    "type": "track",
+    "track_id": 2000544,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/2/4/4/4/ce244443ad3ba6aef771cb0b2c6c4f62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/2/4/4/4/ce244443ad3ba6aef771cb0b2c6c4f62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Cnco Ft Ze Felipe",
+    "display_artist": "Cnco Ft Ze Felipe",
+    "title": "Tan Facil (Spanish Portuguese Version)",
+    "display_title": "Tan Facil (Spanish Portuguese Version)",
+    "track": "Cnco Ft Ze Felipe - Tan Facil (Spanish Portuguese Version)",
+    "length": 210,
+    "duration": 210,
+    "started": 1717393847,
+    "type": "track",
+    "track_id": 1262866,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/d/8/5/e/b/0d85ebccd5ef9c753dac3a9e9dc10d9a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/8/5/e/b/0d85ebccd5ef9c753dac3a9e9dc10d9a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Sebastian Yatra Ft Mau Y Ricky",
+    "display_artist": "Sebastian Yatra Ft Mau Y Ricky",
+    "title": "Ya No Tiene Novio",
+    "display_title": "Ya No Tiene Novio",
+    "track": "Sebastian Yatra Ft Mau Y Ricky - Ya No Tiene Novio",
+    "length": 199,
+    "duration": 199,
+    "started": 1717394054,
+    "type": "track",
+    "track_id": 2905807,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/8/8/4/9/6/0884968d184c061762b3828da8a593c0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/8/4/9/6/0884968d184c061762b3828da8a593c0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin",
+    "display_artist": "J Balvin",
+    "title": "Cuando Tu Quieras",
+    "display_title": "Cuando Tu Quieras",
+    "track": "J Balvin - Cuando Tu Quieras",
+    "length": 205,
+    "duration": 205,
+    "started": 1717394492,
+    "type": "track",
+    "track_id": 2897816,
+    "release": "Vibras",
+    "art_url": "//cdn-images.audioaddict.com/6/e/9/9/0/d/6e990d2052daafcf0f0e5cc1af9066e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/9/9/0/d/6e990d2052daafcf0f0e5cc1af9066e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Cnco Ft Wisin",
+    "display_artist": "Cnco Ft Wisin",
+    "title": "Tan Facil (Urban Remix)",
+    "display_title": "Tan Facil (Urban Remix)",
+    "track": "Cnco Ft Wisin - Tan Facil (Urban Remix)",
+    "length": 225,
+    "duration": 225,
+    "started": 1717394945,
+    "type": "track",
+    "track_id": 1262865,
+    "release": "Primera Cita",
+    "art_url": "//cdn-images.audioaddict.com/c/c/c/b/5/1/cccb51c349f56b16233a8262043ee17e.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/c/b/5/1/cccb51c349f56b16233a8262043ee17e.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Zion Y Lennox Ft Arcangel, De La Ghetto, Yandel, Farruko",
+    "display_artist": "Zion Y Lennox Ft Arcangel, De La Ghetto, Yandel, Farruko",
+    "title": "Pierdo La Cabeza (Full Version By Haku)",
+    "display_title": "Pierdo La Cabeza (Full Version By Haku)",
+    "track": "Zion Y Lennox Ft Arcangel, De La Ghetto, Yandel, Farruko - Pierdo La Cabeza (Full Version By Haku)",
+    "length": 488,
+    "duration": 488,
+    "started": 1717395340,
+    "type": "track",
+    "track_id": 2943604,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/4/5/5/9/6/e45596295a0dc462efc94c1b11e4864d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/5/5/9/6/e45596295a0dc462efc94c1b11e4864d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daniel El Travieso Y Tito El Bambino",
+    "display_artist": "Daniel El Travieso Y Tito El Bambino",
+    "title": "Seguimos Siendo Panas",
+    "display_title": "Seguimos Siendo Panas",
+    "track": "Daniel El Travieso Y Tito El Bambino - Seguimos Siendo Panas",
+    "length": 215,
+    "duration": 215,
+    "started": 1717396096,
+    "type": "track",
+    "track_id": 2943588,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/b/e/a/4/8/2bea489f10d3551278500abb5b925681.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/e/a/4/8/2bea489f10d3551278500abb5b925681.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Tito El Bambino Ft De La Ghetto",
+    "display_artist": "Tito El Bambino Ft De La Ghetto",
+    "title": "Dile La Verdad",
+    "display_title": "Dile La Verdad",
+    "track": "Tito El Bambino Ft De La Ghetto - Dile La Verdad",
+    "length": 212,
+    "duration": 212,
+    "started": 1717396530,
+    "type": "track",
+    "track_id": 2852218,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/5/f/c/3/7/55fc3750722c2c8ab913c10a9a52e1a2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/f/c/3/7/55fc3750722c2c8ab913c10a9a52e1a2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Yeison Jimenez Ft Juan Tunix",
+    "display_artist": "Yeison Jimenez Ft Juan Tunix",
+    "title": "Aventurero (Reggaeton Version)",
+    "display_title": "Aventurero (Reggaeton Version)",
+    "track": "Yeison Jimenez Ft Juan Tunix - Aventurero (Reggaeton Version)",
+    "length": 222,
+    "duration": 222,
+    "started": 1717396940,
+    "type": "track",
+    "track_id": 2921104,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/4/a/5/3/d/e4a53de97f81e6c4c7828db8570024de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/a/5/3/d/e4a53de97f81e6c4c7828db8570024de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Shakira Vs Daddy Yankee",
+    "display_artist": "Shakira Vs Daddy Yankee",
+    "title": "Loba Pose (Mashup)",
+    "display_title": "Loba Pose (Mashup)",
+    "track": "Shakira Vs Daddy Yankee - Loba Pose (Mashup)",
+    "length": 298,
+    "duration": 298,
+    "started": 1717397129,
+    "type": "track",
+    "track_id": 773843,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/7/4/2/b/1/8/742b181f8508e084c41957be7bf74b7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/2/b/1/8/742b181f8508e084c41957be7bf74b7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Gente De Zona Ft Marc Anthony",
+    "display_artist": "Gente De Zona Ft Marc Anthony",
+    "title": "Traidora (Manu Rubio Edit Extended)",
+    "display_title": "Traidora (Manu Rubio Edit Extended)",
+    "track": "Gente De Zona Ft Marc Anthony - Traidora (Manu Rubio Edit Extended)",
+    "length": 217,
+    "duration": 217,
+    "started": 1717397632,
+    "type": "track",
+    "track_id": 1240706,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/b/4/1/5/f/c/b415fccb82da9f77aebc78f92bc441dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/1/5/f/c/b415fccb82da9f77aebc78f92bc441dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Hector El Father Ft Daddy Yankee, Don Omar, Naldo, Wisin Y Yandel",
+    "display_artist": "Hector El Father Ft Daddy Yankee, Don Omar, Naldo, Wisin Y Yandel",
+    "title": "Sacala",
+    "display_title": "Sacala",
+    "track": "Hector El Father Ft Daddy Yankee, Don Omar, Naldo, Wisin Y Yandel - Sacala",
+    "length": 246,
+    "duration": 246,
+    "started": 1717398053,
+    "type": "track",
+    "track_id": 772291,
+    "release": "The Best Hits Of Hector El Father",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/2/a/7/06f2a7492ca09fbe0ad1fdeef51db1bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/2/a/7/06f2a7492ca09fbe0ad1fdeef51db1bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam",
+    "display_artist": "Nicky Jam",
+    "title": "Tu Primera Vez",
+    "display_title": "Tu Primera Vez",
+    "track": "Nicky Jam - Tu Primera Vez",
+    "length": 179,
+    "duration": 179,
+    "started": 1717398454,
+    "type": "track",
+    "track_id": 463838,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/9/a/8/e/1/5/9a8e1595f51ed025f30188ad7fa0e4a8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/8/e/1/5/9a8e1595f51ed025f30188ad7fa0e4a8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Plan B Ft Tego Calderon",
+    "display_artist": "Plan B Ft Tego Calderon",
+    "title": "Zapatito Roto",
+    "display_title": "Zapatito Roto",
+    "track": "Plan B Ft Tego Calderon - Zapatito Roto",
+    "length": 247,
+    "duration": 247,
+    "started": 1717398631,
+    "type": "track",
+    "track_id": 771787,
+    "release": "Itunes Essentials",
+    "art_url": "//cdn-images.audioaddict.com/e/5/7/f/e/a/e57feaab653aba2f4e09e5d2c327ecc5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/7/f/e/a/e57feaab653aba2f4e09e5d2c327ecc5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Zion & Lennox",
+    "display_artist": "Zion & Lennox",
+    "title": "Ganas De Ti",
+    "display_title": "Ganas De Ti",
+    "track": "Zion & Lennox - Ganas De Ti",
+    "length": 172,
+    "duration": 172,
+    "started": 1717399092,
+    "type": "track",
+    "track_id": 1046947,
+    "release": "Pop Latin November 2015",
+    "art_url": "//cdn-images.audioaddict.com/1/d/5/f/b/f/1d5fbf4ad13ac5317a6857765590cc23.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/5/f/b/f/1d5fbf4ad13ac5317a6857765590cc23.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Jowell Y Randy Ft Manuel Turizo, Lyanno, Mau Y Ricky",
+    "display_artist": "Jowell Y Randy Ft Manuel Turizo, Lyanno, Mau Y Ricky",
+    "title": "Dile La Verdad Remix",
+    "display_title": "Dile La Verdad Remix",
+    "track": "Jowell Y Randy Ft Manuel Turizo, Lyanno, Mau Y Ricky - Dile La Verdad Remix",
+    "length": 275,
+    "duration": 275,
+    "started": 1717399550,
+    "type": "track",
+    "track_id": 2943595,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/c/a/1/1/b/4/ca11b474a328db14ac2bc09142c43381.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/a/1/1/b/4/ca11b474a328db14ac2bc09142c43381.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Casa De Leones",
+    "display_artist": "Casa De Leones",
+    "title": "Potrona",
+    "display_title": "Potrona",
+    "track": "Casa De Leones - Potrona",
+    "length": 194,
+    "duration": 194,
+    "started": 1717399825,
+    "type": "track",
+    "track_id": 460054,
+    "release": "Reggaeton",
+    "art_url": "//cdn-images.audioaddict.com/7/f/8/8/3/3/7f8833714eabb3155b8ce72424e54135.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/8/8/3/3/7f8833714eabb3155b8ce72424e54135.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Gente De Zona Ft El Chacal",
+    "display_artist": "Gente De Zona Ft El Chacal",
+    "title": "Quiero Conocerte",
+    "display_title": "Quiero Conocerte",
+    "track": "Gente De Zona Ft El Chacal - Quiero Conocerte",
+    "length": 206,
+    "duration": 206,
+    "started": 1717400224,
+    "type": "track",
+    "track_id": 2938679,
+    "release": "Otra Cosa",
+    "art_url": "//cdn-images.audioaddict.com/7/7/e/a/d/f/77eadfe4de267d4a2f1d795db62edb8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/e/a/d/f/77eadfe4de267d4a2f1d795db62edb8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Reykon Ft Maluma",
+    "display_artist": "Reykon Ft Maluma",
+    "title": "Latina",
+    "display_title": "Latina",
+    "track": "Reykon Ft Maluma - Latina",
+    "length": 226,
+    "duration": 226,
+    "started": 1717400678,
+    "type": "track",
+    "track_id": 2938706,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/c/f/0/7/b/1cf07bf26f536cd7fd1662fe9fab5fba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/f/0/7/b/1cf07bf26f536cd7fd1662fe9fab5fba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Farruko Ft Yandel",
+    "display_artist": "Farruko Ft Yandel",
+    "title": "Lejos De Aqui Remix",
+    "display_title": "Lejos De Aqui Remix",
+    "track": "Farruko Ft Yandel - Lejos De Aqui Remix",
+    "length": 222,
+    "duration": 222,
+    "started": 1717400904,
+    "type": "track",
+    "track_id": 1014524,
+    "release": "Caribe 2015",
+    "art_url": "//cdn-images.audioaddict.com/b/d/e/b/1/f/bdeb1f58d74d8b437bb63b370da720f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/e/b/1/f/bdeb1f58d74d8b437bb63b370da720f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Farruko Ft. Michael El Prospecto",
+    "display_artist": "Farruko Ft. Michael El Prospecto",
+    "title": "Si Tu La Ves",
+    "display_title": "Si Tu La Ves",
+    "track": "Farruko Ft. Michael El Prospecto - Si Tu La Ves",
+    "length": 206,
+    "duration": 206,
+    "started": 1717401338,
+    "type": "track",
+    "track_id": 2943591,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/9/7/3/d/0/7973d0d7aad2d7a7ee4c7c68476040d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/7/3/d/0/7973d0d7aad2d7a7ee4c7c68476040d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma Ft Zion Y Lennox",
+    "display_artist": "Maluma Ft Zion Y Lennox",
+    "title": "Extranandote",
+    "display_title": "Extranandote",
+    "track": "Maluma Ft Zion Y Lennox - Extranandote",
+    "length": 225,
+    "duration": 225,
+    "started": 1717401901,
+    "type": "track",
+    "track_id": 2938701,
+    "release": "11:11",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Gente De Zona Ft Zion Y Lennox",
+    "display_artist": "Gente De Zona Ft Zion Y Lennox",
+    "title": "Poquito A Poco",
+    "display_title": "Poquito A Poco",
+    "track": "Gente De Zona Ft Zion Y Lennox - Poquito A Poco",
+    "length": 202,
+    "duration": 202,
+    "started": 1717402125,
+    "type": "track",
+    "track_id": 2938682,
+    "release": "Otra Cosa",
+    "art_url": "//cdn-images.audioaddict.com/7/7/e/a/d/f/77eadfe4de267d4a2f1d795db62edb8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/e/a/d/f/77eadfe4de267d4a2f1d795db62edb8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Guaynaa Ft Jowell Y Randy",
+    "display_artist": "Guaynaa Ft Jowell Y Randy",
+    "title": "Rebota (Xplicit Remix)",
+    "display_title": "Rebota (Xplicit Remix)",
+    "track": "Guaynaa Ft Jowell Y Randy - Rebota (Xplicit Remix)",
+    "length": 198,
+    "duration": 198,
+    "started": 1717402662,
+    "type": "track",
+    "track_id": 2938684,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/c/6/e/e/5/1/c6ee510c33a84866e63e08b5724adfcb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/e/e/5/1/c6ee510c33a84866e63e08b5724adfcb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Cnco",
+    "display_artist": "Cnco",
+    "title": "Reggaeton Lento (Bailemos)",
+    "display_title": "Reggaeton Lento (Bailemos)",
+    "track": "Cnco - Reggaeton Lento (Bailemos)",
+    "length": 216,
+    "duration": 216,
+    "started": 1717403086,
+    "type": "track",
+    "track_id": 2000533,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/9/b/c/4/7/99bc476217172dac53f3047826dc317c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/b/c/4/7/99bc476217172dac53f3047826dc317c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Enrique Iglesias Ft Wisin",
+    "display_artist": "Enrique Iglesias Ft Wisin",
+    "title": "Duele El Corazon",
+    "display_title": "Duele El Corazon",
+    "track": "Enrique Iglesias Ft Wisin - Duele El Corazon",
+    "length": 194,
+    "duration": 194,
+    "started": 1717403303,
+    "type": "track",
+    "track_id": 1252677,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/d/5/6/9/a/6d569a46a9d6335bf8e3602eef09ff1e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/d/5/6/9/a/6d569a46a9d6335bf8e3602eef09ff1e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma Ft Yandel",
+    "display_artist": "Maluma Ft Yandel",
+    "title": "El Perdedor (Radio Remix)",
+    "display_title": "El Perdedor (Radio Remix)",
+    "track": "Maluma Ft Yandel - El Perdedor (Radio Remix)",
+    "length": 220,
+    "duration": 220,
+    "started": 1717403729,
+    "type": "track",
+    "track_id": 1262878,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/2/f/2/4/6/22f2462e5c2a69898213c6b5b9d6fdf7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/f/2/4/6/22f2462e5c2a69898213c6b5b9d6fdf7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Lil Phas",
+    "display_artist": "Lil Phas",
+    "title": "Magnetismo",
+    "display_title": "Magnetismo",
+    "track": "Lil Phas - Magnetismo",
+    "length": 184,
+    "duration": 184,
+    "started": 1717404116,
+    "type": "track",
+    "track_id": 1060453,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/1/7/f/f/c/e17ffcef63348a00c4ae04817af71a98.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/7/f/f/c/e17ffcef63348a00c4ae04817af71a98.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam",
+    "display_artist": "Nicky Jam",
+    "title": "Hasta El Amanecer",
+    "display_title": "Hasta El Amanecer",
+    "track": "Nicky Jam - Hasta El Amanecer",
+    "length": 198,
+    "duration": 198,
+    "started": 1717405369,
+    "type": "track",
+    "track_id": 1240715,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/5/9/3/6/d/d5936daa04a80c28e9ac4a1f3d541bac.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/9/3/6/d/d5936daa04a80c28e9ac4a1f3d541bac.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Prince Royce Ft Farruko",
+    "display_artist": "Prince Royce Ft Farruko",
+    "title": "Ganas Locas",
+    "display_title": "Ganas Locas",
+    "track": "Prince Royce Ft Farruko - Ganas Locas",
+    "length": 200,
+    "duration": 200,
+    "started": 1717405566,
+    "type": "track",
+    "track_id": 2000577,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/0/4/1/5/9/8041592e7dab38cef62ed7e4bce00c4e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/4/1/5/9/8041592e7dab38cef62ed7e4bce00c4e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Pipe Bueno Ft Dalmata",
+    "display_artist": "Pipe Bueno Ft Dalmata",
+    "title": "Limbo",
+    "display_title": "Limbo",
+    "track": "Pipe Bueno Ft Dalmata - Limbo",
+    "length": 219,
+    "duration": 219,
+    "started": 1717406140,
+    "type": "track",
+    "track_id": 2911249,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/2/b/1/c/4/22b1c46600d4ce451ff746a92a42b3ac.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/b/1/c/4/22b1c46600d4ce451ff746a92a42b3ac.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "R. Kelly feat. Wisin & Yandel",
+    "display_artist": "R. Kelly feat. Wisin & Yandel",
+    "title": "Burn It Up",
+    "display_title": "Burn It Up",
+    "track": "R. Kelly feat. Wisin & Yandel - Burn It Up",
+    "length": 232,
+    "duration": 232,
+    "started": 1717406359,
+    "type": "track",
+    "track_id": 464435,
+    "release": "Pa'l mundo",
+    "art_url": "//cdn-images.audioaddict.com/8/4/c/d/6/6/84cd66001a5657e1e91861f91751f787.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/c/d/6/6/84cd66001a5657e1e91861f91751f787.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam Y Ozuna",
+    "display_artist": "Nicky Jam Y Ozuna",
+    "title": "Te Robare",
+    "display_title": "Te Robare",
+    "track": "Nicky Jam Y Ozuna - Te Robare",
+    "length": 201,
+    "duration": 201,
+    "started": 1717406764,
+    "type": "track",
+    "track_id": 2932826,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/1/4/d/1/f/a14d1f4b623f27ced33992a233553404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/4/d/1/f/a14d1f4b623f27ced33992a233553404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin",
+    "display_artist": "J Balvin",
+    "title": "Como Un Animal (Original Version)",
+    "display_title": "Como Un Animal (Original Version)",
+    "track": "J Balvin - Como Un Animal (Original Version)",
+    "length": 200,
+    "duration": 200,
+    "started": 1717407173,
+    "type": "track",
+    "track_id": 462233,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/9/9/6/1/3/899613469a7e31933c01ce7f622825b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/9/6/1/3/899613469a7e31933c01ce7f622825b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Farruko",
+    "display_artist": "Farruko",
+    "title": "Amor De Lejos",
+    "display_title": "Amor De Lejos",
+    "track": "Farruko - Amor De Lejos",
+    "length": 159,
+    "duration": 159,
+    "started": 1717407541,
+    "type": "track",
+    "track_id": 461627,
+    "release": "El Imperio Nazza (Gold Edition)",
+    "art_url": "//cdn-images.audioaddict.com/3/0/d/1/b/2/30d1b266248c9be7b1d39419c3bd516f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/d/1/b/2/30d1b266248c9be7b1d39419c3bd516f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Baby Ranks, Daddy Yankee, Hector, Wisin Y Yandel, Tonny Tun Tun",
+    "display_artist": "Baby Ranks, Daddy Yankee, Hector, Wisin Y Yandel, Tonny Tun Tun",
+    "title": "Mayor Que Yo",
+    "display_title": "Mayor Que Yo",
+    "track": "Baby Ranks, Daddy Yankee, Hector, Wisin Y Yandel, Tonny Tun Tun - Mayor Que Yo",
+    "length": 253,
+    "duration": 253,
+    "started": 1717407910,
+    "type": "track",
+    "track_id": 1941770,
+    "release": "Mas Flow 2.5",
+    "art_url": "//cdn-images.audioaddict.com/3/c/0/7/3/6/3c0736b21029a61c73379d5c6b02c30f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/0/7/3/6/3c0736b21029a61c73379d5c6b02c30f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Enrique Inglesias Ft Bad Bunny",
+    "display_artist": "Enrique Inglesias Ft Bad Bunny",
+    "title": "El Bano",
+    "display_title": "El Bano",
+    "track": "Enrique Inglesias Ft Bad Bunny - El Bano",
+    "length": 228,
+    "duration": 228,
+    "started": 1717408347,
+    "type": "track",
+    "track_id": 2852192,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/5/e/1/4/8/f5e148a44033e7681f8bedb5a9ed2db3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/5/e/1/4/8/f5e148a44033e7681f8bedb5a9ed2db3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Farruko & Daddy Yankee",
+    "display_artist": "Farruko & Daddy Yankee",
+    "title": "Inolvidable (Short Version)",
+    "display_title": "Inolvidable (Short Version)",
+    "track": "Farruko & Daddy Yankee - Inolvidable (Short Version)",
+    "length": 266,
+    "duration": 266,
+    "started": 1717408744,
+    "type": "track",
+    "track_id": 2932813,
+    "release": "Virtuoso (Xplicit Album)",
+    "art_url": "//cdn-images.audioaddict.com/6/e/e/3/7/5/6ee375061d7b09bf69aef1949da99538.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/e/3/7/5/6ee375061d7b09bf69aef1949da99538.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Alvarez",
+    "display_artist": "J Alvarez",
+    "title": "Te Quiero Convencer (Radio)",
+    "display_title": "Te Quiero Convencer (Radio)",
+    "track": "J Alvarez - Te Quiero Convencer (Radio)",
+    "length": 212,
+    "duration": 212,
+    "started": 1717409010,
+    "type": "track",
+    "track_id": 1262872,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/6/c/5/b/0/06c5b025d51b19105f20112b164ddd39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/c/5/b/0/06c5b025d51b19105f20112b164ddd39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Cnco Ft Prince Royce",
+    "display_artist": "Cnco Ft Prince Royce",
+    "title": "Llegaste Tu",
+    "display_title": "Llegaste Tu",
+    "track": "Cnco Ft Prince Royce - Llegaste Tu",
+    "length": 190,
+    "duration": 190,
+    "started": 1717409387,
+    "type": "track",
+    "track_id": 2911242,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/7/1/c/b/6/171cb613199bc79ce8793c0d74a99150.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/1/c/b/6/171cb613199bc79ce8793c0d74a99150.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Alvarez feat. De La Ghetto & Zion",
+    "display_artist": "J Alvarez feat. De La Ghetto & Zion",
+    "title": "Actua Remix",
+    "display_title": "Actua Remix",
+    "track": "J Alvarez feat. De La Ghetto & Zion - Actua Remix",
+    "length": 231,
+    "duration": 231,
+    "started": 1717409783,
+    "type": "track",
+    "track_id": 462230,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/3/d/c/4/e/03dc4e2ba3607d523ffe7d1f1d4cb7a6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/d/c/4/e/03dc4e2ba3607d523ffe7d1f1d4cb7a6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin Ft Jowell Y Randy",
+    "display_artist": "J Balvin Ft Jowell Y Randy",
+    "title": "Reggaeton (Remix By Haku)",
+    "display_title": "Reggaeton (Remix By Haku)",
+    "track": "J Balvin Ft Jowell Y Randy - Reggaeton (Remix By Haku)",
+    "length": 327,
+    "duration": 327,
+    "started": 1717410014,
+    "type": "track",
+    "track_id": 2932820,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/4/5/d/e/f/0/45def0000261c000877fb7c05ceba410.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/d/e/f/0/45def0000261c000877fb7c05ceba410.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam & Farruko",
+    "display_artist": "Nicky Jam & Farruko",
+    "title": "Baby (Short Version)",
+    "display_title": "Baby (Short Version)",
+    "track": "Nicky Jam & Farruko - Baby (Short Version)",
+    "length": 236,
+    "duration": 236,
+    "started": 1717410583,
+    "type": "track",
+    "track_id": 2932824,
+    "release": "Virtuoso (Xplicit Album)",
+    "art_url": "//cdn-images.audioaddict.com/6/e/e/3/7/5/6ee375061d7b09bf69aef1949da99538.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/e/3/7/5/6ee375061d7b09bf69aef1949da99538.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Natti Natasha Ft Farruko",
+    "display_artist": "Natti Natasha Ft Farruko",
+    "title": "Me Gusta Remix",
+    "display_title": "Me Gusta Remix",
+    "track": "Natti Natasha Ft Farruko - Me Gusta Remix",
+    "length": 195,
+    "duration": 195,
+    "started": 1717411044,
+    "type": "track",
+    "track_id": 2938703,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/4/5/f/b/7/e45fb7819fb050ffa55f89287dfd9e2b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/5/f/b/7/e45fb7819fb050ffa55f89287dfd9e2b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Kevin Roldan Ft Nicky Jam",
+    "display_artist": "Kevin Roldan Ft Nicky Jam",
+    "title": "Una Noche Mas",
+    "display_title": "Una Noche Mas",
+    "track": "Kevin Roldan Ft Nicky Jam - Una Noche Mas",
+    "length": 216,
+    "duration": 216,
+    "started": 1717411457,
+    "type": "track",
+    "track_id": 952494,
+    "release": "Special Edition",
+    "art_url": "//cdn-images.audioaddict.com/c/0/8/6/0/5/c086053112b870563795c3c36170a8e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/8/6/0/5/c086053112b870563795c3c36170a8e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Sebastian Yatra X Daddy Yankee X Jonas Brothers X Natti Natasha",
+    "display_artist": "Sebastian Yatra X Daddy Yankee X Jonas Brothers X Natti Natasha",
+    "title": "Runaway",
+    "display_title": "Runaway",
+    "track": "Sebastian Yatra X Daddy Yankee X Jonas Brothers X Natti Natasha - Runaway",
+    "length": 200,
+    "duration": 200,
+    "started": 1717411673,
+    "type": "track",
+    "track_id": 2943602,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/9/d/1/4/1/d9d1418832e61d75d721e8d0fc1b3dba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/d/1/4/1/d9d1418832e61d75d721e8d0fc1b3dba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ricky Martin Ft Wendy",
+    "display_artist": "Ricky Martin Ft Wendy",
+    "title": "Vente Pa Ca ",
+    "display_title": "Vente Pa Ca ",
+    "track": "Ricky Martin Ft Wendy - Vente Pa Ca ",
+    "length": 249,
+    "duration": 249,
+    "started": 1717412115,
+    "type": "track",
+    "track_id": 2000579,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/8/b/0/3/1/f8b031a3a417254962690f69661492ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/b/0/3/1/f8b031a3a417254962690f69661492ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Hector El Father Ft Wisin Y Yandel",
+    "display_artist": "Hector El Father Ft Wisin Y Yandel",
+    "title": "El Telefono",
+    "display_title": "El Telefono",
+    "track": "Hector El Father Ft Wisin Y Yandel - El Telefono",
+    "length": 237,
+    "duration": 237,
+    "started": 1717412801,
+    "type": "track",
+    "track_id": 772336,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/7/9/0/c/e/f790ce1ee8c6dc0c27eb74a6bcb221c0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/9/0/c/e/f790ce1ee8c6dc0c27eb74a6bcb221c0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Vaiven",
+    "display_title": "Vaiven",
+    "track": "Daddy Yankee - Vaiven",
+    "length": 224,
+    "duration": 224,
+    "started": 1717413713,
+    "type": "track",
+    "track_id": 1060028,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/3/a/a/1/0/9/3aa1093158f18a16a0a5ab456ac9b080.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/a/1/0/9/3aa1093158f18a16a0a5ab456ac9b080.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam Ft Enrique Iglesias",
+    "display_artist": "Nicky Jam Ft Enrique Iglesias",
+    "title": "Forgiveness (El Perdon)",
+    "display_title": "Forgiveness (El Perdon)",
+    "track": "Nicky Jam Ft Enrique Iglesias - Forgiveness (El Perdon)",
+    "length": 207,
+    "duration": 207,
+    "started": 1717413936,
+    "type": "track",
+    "track_id": 1014669,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/d/5/f/5/7/6d5f57f2523b1148cf5aa168baf9092f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/d/5/f/5/7/6d5f57f2523b1148cf5aa168baf9092f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Lunay Ft Daddy Yankee, Bad Bunny",
+    "display_artist": "Lunay Ft Daddy Yankee, Bad Bunny",
+    "title": "Soltera Remix",
+    "display_title": "Soltera Remix",
+    "track": "Lunay Ft Daddy Yankee, Bad Bunny - Soltera Remix",
+    "length": 266,
+    "duration": 266,
+    "started": 1717414332,
+    "type": "track",
+    "track_id": 2938694,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/d/d/f/9/0/1ddf900472e1a479f6f34643eac7c70e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/d/f/9/0/1ddf900472e1a479f6f34643eac7c70e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Arcangel Y De La Ghetto",
+    "display_artist": "Arcangel Y De La Ghetto",
+    "title": "Mas Que Ayer",
+    "display_title": "Mas Que Ayer",
+    "track": "Arcangel Y De La Ghetto - Mas Que Ayer",
+    "length": 238,
+    "duration": 238,
+    "started": 1717414853,
+    "type": "track",
+    "track_id": 2897809,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/9/b/b/e/a/69bbea7773ba3eba8a5b58bd672e5c00.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/b/b/e/a/69bbea7773ba3eba8a5b58bd672e5c00.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Bad Bunny Ft Drake, Sean Paul",
+    "display_artist": "Bad Bunny Ft Drake, Sean Paul",
+    "title": "Mia (Dom Da Bomb Clean Remix)",
+    "display_title": "Mia (Dom Da Bomb Clean Remix)",
+    "track": "Bad Bunny Ft Drake, Sean Paul - Mia (Dom Da Bomb Clean Remix)",
+    "length": 220,
+    "duration": 220,
+    "started": 1717415301,
+    "type": "track",
+    "track_id": 2921089,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/9/9/f/e/2/599fe2c6027d9441c6a4e62455b02add.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/9/f/e/2/599fe2c6027d9441c6a4e62455b02add.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin Ft Willy William",
+    "display_artist": "J Balvin Ft Willy William",
+    "title": "Mi Gente",
+    "display_title": "Mi Gente",
+    "track": "J Balvin Ft Willy William - Mi Gente",
+    "length": 184,
+    "duration": 184,
+    "started": 1717415520,
+    "type": "track",
+    "track_id": 2102751,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/8/b/a/4/7/c8ba47cae717c7a8870f999c677d627b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/b/a/4/7/c8ba47cae717c7a8870f999c677d627b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin Y Yandel",
+    "display_artist": "Wisin Y Yandel",
+    "title": "Abusadora (Extended Remix)",
+    "display_title": "Abusadora (Extended Remix)",
+    "track": "Wisin Y Yandel - Abusadora (Extended Remix)",
+    "length": 179,
+    "duration": 179,
+    "started": 1717416269,
+    "type": "track",
+    "track_id": 771570,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/8/4/c/d/6/6/84cd66001a5657e1e91861f91751f787.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/c/d/6/6/84cd66001a5657e1e91861f91751f787.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Onell Diaz Ft Abraham Velazquez",
+    "display_artist": "Onell Diaz Ft Abraham Velazquez",
+    "title": "Como Tu No Hay",
+    "display_title": "Como Tu No Hay",
+    "track": "Onell Diaz Ft Abraham Velazquez - Como Tu No Hay",
+    "length": 268,
+    "duration": 268,
+    "started": 1717416632,
+    "type": "track",
+    "track_id": 2943600,
+    "release": "Lleno",
+    "art_url": "//cdn-images.audioaddict.com/f/9/c/0/8/3/f9c083416d820ec39e412002283b9dec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/9/c/0/8/3/f9c083416d820ec39e412002283b9dec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin",
+    "display_artist": "J Balvin",
+    "title": "Extranadote (Radio)",
+    "display_title": "Extranadote (Radio)",
+    "track": "J Balvin - Extranadote (Radio)",
+    "length": 198,
+    "duration": 198,
+    "started": 1717417111,
+    "type": "track",
+    "track_id": 2000551,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/5/4/8/6/e/75486ef968162534b4b1861743f80418.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/4/8/6/e/75486ef968162534b4b1861743f80418.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Plan B Ft Tony Dize, Zion Y Lennox",
+    "display_artist": "Plan B Ft Tony Dize, Zion Y Lennox",
+    "title": "Si No Le Contesto",
+    "display_title": "Si No Le Contesto",
+    "track": "Plan B Ft Tony Dize, Zion Y Lennox - Si No Le Contesto",
+    "length": 269,
+    "duration": 269,
+    "started": 1717417527,
+    "type": "track",
+    "track_id": 772214,
+    "release": "Itunes Essentials",
+    "art_url": "//cdn-images.audioaddict.com/e/5/7/f/e/a/e57feaab653aba2f4e09e5d2c327ecc5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/7/f/e/a/e57feaab653aba2f4e09e5d2c327ecc5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Tony Dize",
+    "display_artist": "Tony Dize",
+    "title": "Duele El Amor",
+    "display_title": "Duele El Amor",
+    "track": "Tony Dize - Duele El Amor",
+    "length": 215,
+    "duration": 215,
+    "started": 1717417795,
+    "type": "track",
+    "track_id": 1015651,
+    "release": "Caribe 2015",
+    "art_url": "//cdn-images.audioaddict.com/0/5/e/1/c/0/05e1c04ec78f945a741f03c8dbdf8905.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/e/1/c/0/05e1c04ec78f945a741f03c8dbdf8905.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Alberto Stylee",
+    "display_artist": "Alberto Stylee",
+    "title": "Vengo Acabando",
+    "display_title": "Vengo Acabando",
+    "track": "Alberto Stylee - Vengo Acabando",
+    "length": 192,
+    "duration": 192,
+    "started": 1717418217,
+    "type": "track",
+    "track_id": 1063848,
+    "release": "Los Veteranos Del Reggaeton Vol 1",
+    "art_url": "//cdn-images.audioaddict.com/0/9/2/9/f/2/0929f245cd3f24743642e50f7d4ae372.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/9/2/9/f/2/0929f245cd3f24743642e50f7d4ae372.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Dasoul",
+    "display_artist": "Dasoul",
+    "title": "El No Te Da",
+    "display_title": "El No Te Da",
+    "track": "Dasoul - El No Te Da",
+    "length": 248,
+    "duration": 248,
+    "started": 1717418613,
+    "type": "track",
+    "track_id": 964061,
+    "release": "Caribe 2015",
+    "art_url": "//cdn-images.audioaddict.com/a/0/6/2/b/e/a062be4ac3e58a8ced0a72f9366a813a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/6/2/b/e/a062be4ac3e58a8ced0a72f9366a813a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Anuel Aa Ft Romeo Santos",
+    "display_artist": "Anuel Aa Ft Romeo Santos",
+    "title": "Quiere Beber Remix",
+    "display_title": "Quiere Beber Remix",
+    "track": "Anuel Aa Ft Romeo Santos - Quiere Beber Remix",
+    "length": 219,
+    "duration": 219,
+    "started": 1717418860,
+    "type": "track",
+    "track_id": 2914804,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/8/b/5/2/b/68b52b92e118702102a633cb810d5789.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/b/5/2/b/68b52b92e118702102a633cb810d5789.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Arcangel Ft Daddy Yankee",
+    "display_artist": "Arcangel Ft Daddy Yankee",
+    "title": "Guaya (Extended)",
+    "display_title": "Guaya (Extended)",
+    "track": "Arcangel Ft Daddy Yankee - Guaya (Extended)",
+    "length": 280,
+    "duration": 280,
+    "started": 1717419283,
+    "type": "track",
+    "track_id": 459366,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/c/f/c/0/7/7cfc0762fbef405d7a92efee77cbc5f5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/f/c/0/7/7cfc0762fbef405d7a92efee77cbc5f5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "De La Ghetto Ft Zion Y Lennox",
+    "display_artist": "De La Ghetto Ft Zion Y Lennox",
+    "title": "Amantes",
+    "display_title": "Amantes",
+    "track": "De La Ghetto Ft Zion Y Lennox - Amantes",
+    "length": 229,
+    "duration": 229,
+    "started": 1717419764,
+    "type": "track",
+    "track_id": 2905786,
+    "release": "Mi Movimiento",
+    "art_url": "//cdn-images.audioaddict.com/c/e/5/d/5/4/ce5d543f2e6c9b080a2931d20d15bbca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/5/d/5/4/ce5d543f2e6c9b080a2931d20d15bbca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Abraham Mateo, Yandel, Jennifer Lopez",
+    "display_artist": "Abraham Mateo, Yandel, Jennifer Lopez",
+    "title": "Se Acabo El Amor (Urban Version)",
+    "display_title": "Se Acabo El Amor (Urban Version)",
+    "track": "Abraham Mateo, Yandel, Jennifer Lopez - Se Acabo El Amor (Urban Version)",
+    "length": 230,
+    "duration": 230,
+    "started": 1717419992,
+    "type": "track",
+    "track_id": 2886834,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/e/1/d/9/4/7e1d94e9f9748b04c40113070d12d8a2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/1/d/9/4/7e1d94e9f9748b04c40113070d12d8a2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma",
+    "display_artist": "Maluma",
+    "title": "Obsesion",
+    "display_title": "Obsesion",
+    "track": "Maluma - Obsesion",
+    "length": 180,
+    "duration": 180,
+    "started": 1717420440,
+    "type": "track",
+    "track_id": 463341,
+    "release": "Magia",
+    "art_url": "//cdn-images.audioaddict.com/9/7/8/6/e/e/9786ee2f2136da76fc8160bb0f3548dc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/8/6/e/e/9786ee2f2136da76fc8160bb0f3548dc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "El Rookie",
+    "display_artist": "El Rookie",
+    "title": "Se Prendio",
+    "display_title": "Se Prendio",
+    "track": "El Rookie - Se Prendio",
+    "length": 182,
+    "duration": 182,
+    "started": 1717421329,
+    "type": "track",
+    "track_id": 2911243,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/7/0/a5c6708771337f1fa489d17463d3eabe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/c/6/7/0/a5c6708771337f1fa489d17463d3eabe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin",
+    "display_artist": "J Balvin",
+    "title": "Ginza (Albert Navarro Edit)",
+    "display_title": "Ginza (Albert Navarro Edit)",
+    "track": "J Balvin - Ginza (Albert Navarro Edit)",
+    "length": 185,
+    "duration": 185,
+    "started": 1717421676,
+    "type": "track",
+    "track_id": 1060130,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/5/4/b/a/5/854ba5056d96d15e94438e66ad8f6d05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/5/4/b/a/5/854ba5056d96d15e94438e66ad8f6d05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ivy Queen",
+    "display_artist": "Ivy Queen",
+    "title": "787",
+    "display_title": "787",
+    "track": "Ivy Queen - 787",
+    "length": 233,
+    "duration": 233,
+    "started": 1717422042,
+    "type": "track",
+    "track_id": 2943592,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/8/9/a/f/0/789af04975cad0b6ace32f84bc5c805f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/9/a/f/0/789af04975cad0b6ace32f84bc5c805f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Jacob Forever Feat. Farruko",
+    "display_artist": "Jacob Forever Feat. Farruko",
+    "title": "Hasta Que Se Seque El Malecon",
+    "display_title": "Hasta Que Se Seque El Malecon",
+    "track": "Jacob Forever Feat. Farruko - Hasta Que Se Seque El Malecon",
+    "length": 244,
+    "duration": 244,
+    "started": 1717422429,
+    "type": "track",
+    "track_id": 1252687,
+    "release": "Pop Latin June 2016",
+    "art_url": "//cdn-images.audioaddict.com/7/4/9/b/5/a/749b5a102ccb3094f4f5700401f90bd2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/9/b/5/a/749b5a102ccb3094f4f5700401f90bd2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Mario Bautista Ft Lalo Ebratt",
+    "display_artist": "Mario Bautista Ft Lalo Ebratt",
+    "title": "Baby Girl",
+    "display_title": "Baby Girl",
+    "track": "Mario Bautista Ft Lalo Ebratt - Baby Girl",
+    "length": 218,
+    "duration": 218,
+    "started": 1717422937,
+    "type": "track",
+    "track_id": 2905797,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/9/d/2/7/4/19d274e512083560545f459746bcc85c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/d/2/7/4/19d274e512083560545f459746bcc85c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Rompe (En Directo)",
+    "display_title": "Rompe (En Directo)",
+    "track": "Daddy Yankee - Rompe (En Directo)",
+    "length": 189,
+    "duration": 189,
+    "started": 1717423150,
+    "type": "track",
+    "track_id": 460532,
+    "release": "Essentials Deluxe Version",
+    "art_url": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Farruko Ft Daddy Yankee, Sean Paul, Akon",
+    "display_artist": "Farruko Ft Daddy Yankee, Sean Paul, Akon",
+    "title": "Inolvidable Remix",
+    "display_title": "Inolvidable Remix",
+    "track": "Farruko Ft Daddy Yankee, Sean Paul, Akon - Inolvidable Remix",
+    "length": 279,
+    "duration": 279,
+    "started": 1717423464,
+    "type": "track",
+    "track_id": 2911244,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/b/b/6/4/0/2bb640c33cf00531670fb1cfa15df586.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/b/6/4/0/2bb640c33cf00531670fb1cfa15df586.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Yandel Ft Pitbull, El Chacal",
+    "display_artist": "Yandel Ft Pitbull, El Chacal",
+    "title": "Ay Mi Dios",
+    "display_title": "Ay Mi Dios",
+    "track": "Yandel Ft Pitbull, El Chacal - Ay Mi Dios",
+    "length": 257,
+    "duration": 257,
+    "started": 1717423961,
+    "type": "track",
+    "track_id": 1240738,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/f/d/1/f/f/efd1ff5474c2c424cebcad28f03d76c0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/d/1/f/f/efd1ff5474c2c424cebcad28f03d76c0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Sígueme Y Te Sigo",
+    "display_title": "Sígueme Y Te Sigo",
+    "track": "Daddy Yankee - Sígueme Y Te Sigo",
+    "length": 209,
+    "duration": 209,
+    "started": 1717424721,
+    "type": "track",
+    "track_id": 1015152,
+    "release": "Caribe Mix Y Ibiza Mix",
+    "art_url": "//cdn-images.audioaddict.com/8/4/1/9/4/2/84194280421bab7dba807ee25cf87835.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/1/9/4/2/84194280421bab7dba807ee25cf87835.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Greeicy Y Nacho",
+    "display_artist": "Greeicy Y Nacho",
+    "title": "Destino",
+    "display_title": "Destino",
+    "track": "Greeicy Y Nacho - Destino",
+    "length": 180,
+    "duration": 180,
+    "started": 1717425157,
+    "type": "track",
+    "track_id": 2932816,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/e/b/b/0/0/debb0052e7007e297ce9deb83e7cb557.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/b/b/0/0/debb0052e7007e297ce9deb83e7cb557.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma",
+    "display_artist": "Maluma",
+    "title": "Mala Mia (Radio)",
+    "display_title": "Mala Mia (Radio)",
+    "track": "Maluma - Mala Mia (Radio)",
+    "length": 183,
+    "duration": 183,
+    "started": 1717425558,
+    "type": "track",
+    "track_id": 2905796,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/b/3/6/5/d/7b365d01ad4a2d4f5a0850fda528d9f6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/b/3/6/5/d/7b365d01ad4a2d4f5a0850fda528d9f6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin Ft Ozuna",
+    "display_artist": "Wisin Ft Ozuna",
+    "title": "Escapate Conmigo (Radio)",
+    "display_title": "Escapate Conmigo (Radio)",
+    "track": "Wisin Ft Ozuna - Escapate Conmigo (Radio)",
+    "length": 227,
+    "duration": 227,
+    "started": 1717425903,
+    "type": "track",
+    "track_id": 2000585,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/4/8/6/c/4/0486c4116ea8268b8a22b4e538cda853.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/8/6/c/4/0486c4116ea8268b8a22b4e538cda853.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Darkiel Ft J Alvarez",
+    "display_artist": "Darkiel Ft J Alvarez",
+    "title": "Dicen",
+    "display_title": "Dicen",
+    "track": "Darkiel Ft J Alvarez - Dicen",
+    "length": 208,
+    "duration": 208,
+    "started": 1717426351,
+    "type": "track",
+    "track_id": 2932812,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/9/3/1/f/e/c/931fec480ec33ba13bf08e2d456434d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/1/f/e/c/931fec480ec33ba13bf08e2d456434d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Don Omar",
+    "display_artist": "Don Omar",
+    "title": "Pobre Diabla (Remix) (Feat. Mr Vegas)",
+    "display_title": "Pobre Diabla (Remix) (Feat. Mr Vegas)",
+    "track": "Don Omar - Pobre Diabla (Remix) (Feat. Mr Vegas)",
+    "length": 223,
+    "duration": 223,
+    "started": 1717426809,
+    "type": "track",
+    "track_id": 460870,
+    "release": "Reggaeton Latino",
+    "art_url": "//cdn-images.audioaddict.com/6/b/6/a/e/0/6b6ae0a4325bad6397f49313b9808936.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/6/a/e/0/6b6ae0a4325bad6397f49313b9808936.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Jory Boy Ft Maluma",
+    "display_artist": "Jory Boy Ft Maluma",
+    "title": "Desafio",
+    "display_title": "Desafio",
+    "track": "Jory Boy Ft Maluma - Desafio",
+    "length": 210,
+    "duration": 210,
+    "started": 1717427032,
+    "type": "track",
+    "track_id": 2852199,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/6/f/9/f/b/26f9fb0e3e264c5382cf9829b3e20f40.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/f/9/f/b/26f9fb0e3e264c5382cf9829b3e20f40.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin Y Yandel Ft Maluma",
+    "display_artist": "Wisin Y Yandel Ft Maluma",
+    "title": "La Luz",
+    "display_title": "La Luz",
+    "track": "Wisin Y Yandel Ft Maluma - La Luz",
+    "length": 225,
+    "duration": 225,
+    "started": 1717427464,
+    "type": "track",
+    "track_id": 2921103,
+    "release": "Los Campeones Del Pueblo The Big Leagues",
+    "art_url": "//cdn-images.audioaddict.com/1/b/1/5/9/a/1b159a40ccd165eb9897d4c92e617f94.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/1/5/9/a/1b159a40ccd165eb9897d4c92e617f94.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Jory feat. Wisin & Zion",
+    "display_artist": "Jory feat. Wisin & Zion",
+    "title": "Quedate Conmigo (Remix)",
+    "display_title": "Quedate Conmigo (Remix)",
+    "track": "Jory feat. Wisin & Zion - Quedate Conmigo (Remix)",
+    "length": 220,
+    "duration": 220,
+    "started": 1717427878,
+    "type": "track",
+    "track_id": 1045852,
+    "release": "Caribbean Series August 2015",
+    "art_url": "//cdn-images.audioaddict.com/9/3/6/4/5/a/93645ac82531f83def42d9528412cdff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/6/4/5/a/93645ac82531f83def42d9528412cdff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Enrique Iglesias Ft Descemer Bueno, Jacob Forever",
+    "display_artist": "Enrique Iglesias Ft Descemer Bueno, Jacob Forever",
+    "title": "Subeme La Radio Remix",
+    "display_title": "Subeme La Radio Remix",
+    "track": "Enrique Iglesias Ft Descemer Bueno, Jacob Forever - Subeme La Radio Remix",
+    "length": 208,
+    "duration": 208,
+    "started": 1717428315,
+    "type": "track",
+    "track_id": 2000546,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/6/2/5/9/f/36259f313070c35fca705e3c317643b2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/2/5/9/f/36259f313070c35fca705e3c317643b2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Trebol Clan Ft Nengo Flow",
+    "display_artist": "Trebol Clan Ft Nengo Flow",
+    "title": "Voy A Hacerte Mia Remix",
+    "display_title": "Voy A Hacerte Mia Remix",
+    "track": "Trebol Clan Ft Nengo Flow - Voy A Hacerte Mia Remix",
+    "length": 238,
+    "duration": 238,
+    "started": 1717428721,
+    "type": "track",
+    "track_id": 1252716,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/1/f/c/5/6/71fc5640399cd61d9f61782359e222b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/f/c/5/6/71fc5640399cd61d9f61782359e222b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ivy Queen",
+    "display_artist": "Ivy Queen",
+    "title": "Te He Querido Te He Llorado",
+    "display_title": "Te He Querido Te He Llorado",
+    "track": "Ivy Queen - Te He Querido Te He Llorado",
+    "length": 255,
+    "duration": 255,
+    "started": 1717428950,
+    "type": "track",
+    "track_id": 771731,
+    "release": "Mas Flow 2",
+    "art_url": "//cdn-images.audioaddict.com/0/7/0/d/5/7/070d570b7658d33b6493c523d499b2c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/0/d/5/7/070d570b7658d33b6493c523d499b2c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ivy Queen Ft Don Omar",
+    "display_artist": "Ivy Queen Ft Don Omar",
+    "title": "Amame O Matame",
+    "display_title": "Amame O Matame",
+    "track": "Ivy Queen Ft Don Omar - Amame O Matame",
+    "length": 212,
+    "duration": 212,
+    "started": 1717429420,
+    "type": "track",
+    "track_id": 2000549,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/6/1/4/6/b/06146b680cc0ffee0357988660de32a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/1/4/6/b/06146b680cc0ffee0357988660de32a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Zion Y Lennox",
+    "display_artist": "Zion Y Lennox",
+    "title": "La Player (Bandolera)",
+    "display_title": "La Player (Bandolera)",
+    "track": "Zion Y Lennox - La Player (Bandolera)",
+    "length": 249,
+    "duration": 249,
+    "started": 1717430527,
+    "type": "track",
+    "track_id": 2886882,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/7/c/b/f/7/f7cbf7a19b606fcc94cb5be4051f6ade.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/c/b/f/7/f7cbf7a19b606fcc94cb5be4051f6ade.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin",
+    "display_artist": "J Balvin",
+    "title": "Ginza",
+    "display_title": "Ginza",
+    "track": "J Balvin - Ginza",
+    "length": 170,
+    "duration": 170,
+    "started": 1717431009,
+    "type": "track",
+    "track_id": 1015063,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/5/4/b/a/5/854ba5056d96d15e94438e66ad8f6d05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/5/4/b/a/5/854ba5056d96d15e94438e66ad8f6d05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam",
+    "display_artist": "Nicky Jam",
+    "title": "Tanta Falta Remix (Solo Version)",
+    "display_title": "Tanta Falta Remix (Solo Version)",
+    "track": "Nicky Jam - Tanta Falta Remix (Solo Version)",
+    "length": 118,
+    "duration": 118,
+    "started": 1717431388,
+    "type": "track",
+    "track_id": 2932825,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/4/e/5/a/9/6/4e5a96c224d686cbbc68f976f5f30b6b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/5/a/9/6/4e5a96c224d686cbbc68f976f5f30b6b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Gente De Zona",
+    "display_artist": "Gente De Zona",
+    "title": "Si No Vuelves",
+    "display_title": "Si No Vuelves",
+    "track": "Gente De Zona - Si No Vuelves",
+    "length": 215,
+    "duration": 215,
+    "started": 1717431731,
+    "type": "track",
+    "track_id": 2000548,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/9/c/8/1/cf9c8198f9929e88bf5f37fc23ede369.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/9/c/8/1/cf9c8198f9929e88bf5f37fc23ede369.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Carlos Vives Ft Shakira, Maluma",
+    "display_artist": "Carlos Vives Ft Shakira, Maluma",
+    "title": "La Bicicleta Remix",
+    "display_title": "La Bicicleta Remix",
+    "track": "Carlos Vives Ft Shakira, Maluma - La Bicicleta Remix",
+    "length": 254,
+    "duration": 254,
+    "started": 1717432542,
+    "type": "track",
+    "track_id": 1262862,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/5/1/9/6/4/051964b62075f2c450610d001149eced.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/1/9/6/4/051964b62075f2c450610d001149eced.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Dewey Lambdin",
+    "display_artist": "Dewey Lambdin",
+    "title": "Hasta Abajo Remix",
+    "display_title": "Hasta Abajo Remix",
+    "track": "Dewey Lambdin - Hasta Abajo Remix",
+    "length": 224,
+    "duration": 224,
+    "started": 1717433691,
+    "type": "track",
+    "track_id": 460877,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/a/6/5/b/d/1a65bd676d27142b331b90ce6b381b97.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/6/5/b/d/1a65bd676d27142b331b90ce6b381b97.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Zion Y Lennox Ft Nicky Jam",
+    "display_artist": "Zion Y Lennox Ft Nicky Jam",
+    "title": "Mi Tesoro (Radio)",
+    "display_title": "Mi Tesoro (Radio)",
+    "track": "Zion Y Lennox Ft Nicky Jam - Mi Tesoro (Radio)",
+    "length": 240,
+    "duration": 240,
+    "started": 1717434529,
+    "type": "track",
+    "track_id": 2000588,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/e/2/2/2/d/7e222d7901123ff731a584522175ff16.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/2/2/2/d/7e222d7901123ff731a584522175ff16.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Llamado De Emergencia",
+    "display_title": "Llamado De Emergencia",
+    "track": "Daddy Yankee - Llamado De Emergencia",
+    "length": 240,
+    "duration": 240,
+    "started": 1717434969,
+    "type": "track",
+    "track_id": 460515,
+    "release": "Essentials Deluxe Version",
+    "art_url": "//cdn-images.audioaddict.com/2/2/c/3/8/0/22c3802ba85eb9e77c9628e872ce6f04.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/c/3/8/0/22c3802ba85eb9e77c9628e872ce6f04.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ozuna",
+    "display_artist": "Ozuna",
+    "title": "Unica",
+    "display_title": "Unica",
+    "track": "Ozuna - Unica",
+    "length": 219,
+    "duration": 219,
+    "started": 1717435633,
+    "type": "track",
+    "track_id": 2886871,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/2/0/0/b/7/6200b7e5798bbefa96359374a296053d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/0/0/b/7/6200b7e5798bbefa96359374a296053d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Kevin Roldan Ft Jowell Y Randy",
+    "display_artist": "Kevin Roldan Ft Jowell Y Randy",
+    "title": "Pa Mi",
+    "display_title": "Pa Mi",
+    "track": "Kevin Roldan Ft Jowell Y Randy - Pa Mi",
+    "length": 249,
+    "duration": 249,
+    "started": 1717435849,
+    "type": "track",
+    "track_id": 2938689,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/7/a/e/4/4/d7ae440cff5fb39cc39cc9372770a616.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/a/e/4/4/d7ae440cff5fb39cc39cc9372770a616.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Romeo Santos Ft Nicky Jam, Daddy Yankee",
+    "display_artist": "Romeo Santos Ft Nicky Jam, Daddy Yankee",
+    "title": "Bella Y Sensual",
+    "display_title": "Bella Y Sensual",
+    "track": "Romeo Santos Ft Nicky Jam, Daddy Yankee - Bella Y Sensual",
+    "length": 206,
+    "duration": 206,
+    "started": 1717436283,
+    "type": "track",
+    "track_id": 2102774,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/b/a/f/7/e/4baf7e9f710923f34d0fb130033493b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/a/f/7/e/4baf7e9f710923f34d0fb130033493b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Baby Rasta Y Gringo",
+    "display_artist": "Baby Rasta Y Gringo",
+    "title": "Amor Prohibido",
+    "display_title": "Amor Prohibido",
+    "track": "Baby Rasta Y Gringo - Amor Prohibido",
+    "length": 248,
+    "duration": 248,
+    "started": 1717436682,
+    "type": "track",
+    "track_id": 783046,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/d/5/a/e/5/2d5ae5a5ba0e0422b46aadd8348da238.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/5/a/e/5/2d5ae5a5ba0e0422b46aadd8348da238.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Mozart La Para",
+    "display_artist": "Mozart La Para",
+    "title": "Fiesta Y Vacilon (Radio)",
+    "display_title": "Fiesta Y Vacilon (Radio)",
+    "track": "Mozart La Para - Fiesta Y Vacilon (Radio)",
+    "length": 192,
+    "duration": 192,
+    "started": 1717437113,
+    "type": "track",
+    "track_id": 2000566,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/6/3/0/9/3/b63093b6748cc18b6fedb8d17fa1b11c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/3/0/9/3/b63093b6748cc18b6fedb8d17fa1b11c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Dura",
+    "display_title": "Dura",
+    "track": "Daddy Yankee - Dura",
+    "length": 200,
+    "duration": 200,
+    "started": 1717437555,
+    "type": "track",
+    "track_id": 2852186,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/6/a/3/8/7/76a3877d9db9ee53f056b2eb581797ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/a/3/8/7/76a3877d9db9ee53f056b2eb581797ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Yango Y Nannez",
+    "display_artist": "Yango Y Nannez",
+    "title": "Porque Tu Lo Piensas",
+    "display_title": "Porque Tu Lo Piensas",
+    "track": "Yango Y Nannez - Porque Tu Lo Piensas",
+    "length": 223,
+    "duration": 223,
+    "started": 1717437976,
+    "type": "track",
+    "track_id": 964045,
+    "release": "40 Exitos Latinos Los Mas Bailados 2015",
+    "art_url": "//cdn-images.audioaddict.com/a/f/2/b/9/5/af2b95fc2512267a8b70ef7a0fbc0a9d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/2/b/9/5/af2b95fc2512267a8b70ef7a0fbc0a9d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma Ft Nicky Jam",
+    "display_artist": "Maluma Ft Nicky Jam",
+    "title": "No Puedo Olvidarte",
+    "display_title": "No Puedo Olvidarte",
+    "track": "Maluma Ft Nicky Jam - No Puedo Olvidarte",
+    "length": 191,
+    "duration": 191,
+    "started": 1717438771,
+    "type": "track",
+    "track_id": 2938698,
+    "release": "11:11",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Plan B",
+    "display_artist": "Plan B",
+    "title": "Fanatica Sensual",
+    "display_title": "Fanatica Sensual",
+    "track": "Plan B - Fanatica Sensual",
+    "length": 241,
+    "duration": 241,
+    "started": 1717438961,
+    "type": "track",
+    "track_id": 1014541,
+    "release": "Caribe 2015",
+    "art_url": "//cdn-images.audioaddict.com/5/3/f/4/a/f/53f4afcbbede96ee8058123591c560cf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/f/4/a/f/53f4afcbbede96ee8058123591c560cf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Zion Ft Eddie Dee",
+    "display_artist": "Zion Ft Eddie Dee",
+    "title": "Amor De Pobre (Extended Remix)",
+    "display_title": "Amor De Pobre (Extended Remix)",
+    "track": "Zion Ft Eddie Dee - Amor De Pobre (Extended Remix)",
+    "length": 224,
+    "duration": 224,
+    "started": 1717439444,
+    "type": "track",
+    "track_id": 777599,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/b/0/7/2/0/6/b07206aba8bd2faff91cd27b5cf3a6dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/7/2/0/6/b07206aba8bd2faff91cd27b5cf3a6dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma Y Jenny La Sexy Voz",
+    "display_artist": "Maluma Y Jenny La Sexy Voz",
+    "title": "Intentalo Remix",
+    "display_title": "Intentalo Remix",
+    "track": "Maluma Y Jenny La Sexy Voz - Intentalo Remix",
+    "length": 211,
+    "duration": 211,
+    "started": 1717439875,
+    "type": "track",
+    "track_id": 1015723,
+    "release": "Caribe 2015",
+    "art_url": "//cdn-images.audioaddict.com/2/9/a/1/5/5/29a1551af00603e474397f82081b4cb2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/a/1/5/5/29a1551af00603e474397f82081b4cb2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ozuna Ft Akon",
+    "display_artist": "Ozuna Ft Akon",
+    "title": "Comentale",
+    "display_title": "Comentale",
+    "track": "Ozuna Ft Akon - Comentale",
+    "length": 214,
+    "duration": 214,
+    "started": 1717440280,
+    "type": "track",
+    "track_id": 2905799,
+    "release": "Aura",
+    "art_url": "//cdn-images.audioaddict.com/2/6/c/7/b/0/26c7b0d250b495b512fd13c230f45142.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/c/7/b/0/26c7b0d250b495b512fd13c230f45142.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Osmani Garcia Ft Kiki Douna, Damian",
+    "display_artist": "Osmani Garcia Ft Kiki Douna, Damian",
+    "title": "Riki Bum Bum",
+    "display_title": "Riki Bum Bum",
+    "track": "Osmani Garcia Ft Kiki Douna, Damian - Riki Bum Bum",
+    "length": 249,
+    "duration": 249,
+    "started": 1717440668,
+    "type": "track",
+    "track_id": 463936,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/3/e/8/c/f/23e8cf5f90185fbdfc2ceab656791565.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/e/8/c/f/23e8cf5f90185fbdfc2ceab656791565.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Juan Magan Ft Paulina Rubio, Dcs",
+    "display_artist": "Juan Magan Ft Paulina Rubio, Dcs",
+    "title": "Vuelve",
+    "display_title": "Vuelve",
+    "track": "Juan Magan Ft Paulina Rubio, Dcs - Vuelve",
+    "length": 212,
+    "duration": 212,
+    "started": 1717441104,
+    "type": "track",
+    "track_id": 1059922,
+    "release": "#Latinibizate",
+    "art_url": "//cdn-images.audioaddict.com/8/9/c/c/8/9/89cc899a5ffa8c554abe6332684d45ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/c/c/8/9/89cc899a5ffa8c554abe6332684d45ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Gente De Zona",
+    "display_artist": "Gente De Zona",
+    "title": "Me Da Lo Mismo",
+    "display_title": "Me Da Lo Mismo",
+    "track": "Gente De Zona - Me Da Lo Mismo",
+    "length": 227,
+    "duration": 227,
+    "started": 1717441316,
+    "type": "track",
+    "track_id": 2938678,
+    "release": "Otra Cosa",
+    "art_url": "//cdn-images.audioaddict.com/7/7/e/a/d/f/77eadfe4de267d4a2f1d795db62edb8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/e/a/d/f/77eadfe4de267d4a2f1d795db62edb8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Thalia Ft Fonseca",
+    "display_artist": "Thalia Ft Fonseca",
+    "title": "Sube Sube",
+    "display_title": "Sube Sube",
+    "track": "Thalia Ft Fonseca - Sube Sube",
+    "length": 212,
+    "duration": 212,
+    "started": 1717441731,
+    "type": "track",
+    "track_id": 2911251,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/3/5/5/b/3/d355b33cb9809c180c870edbbb735ffb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/5/5/b/3/d355b33cb9809c180c870edbbb735ffb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin Y Yandel",
+    "display_artist": "Wisin Y Yandel",
+    "title": "Reggaeton En Lo Oscuro (Radio)",
+    "display_title": "Reggaeton En Lo Oscuro (Radio)",
+    "track": "Wisin Y Yandel - Reggaeton En Lo Oscuro (Radio)",
+    "length": 208,
+    "duration": 208,
+    "started": 1717442169,
+    "type": "track",
+    "track_id": 2911253,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/8/f/7/b/2/18f7b2e54cb33d27b4c04d7091904df0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/f/7/b/2/18f7b2e54cb33d27b4c04d7091904df0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin Ft Ozuna",
+    "display_artist": "Wisin Ft Ozuna",
+    "title": "Quisiera Alejarme",
+    "display_title": "Quisiera Alejarme",
+    "track": "Wisin Ft Ozuna - Quisiera Alejarme",
+    "length": 224,
+    "duration": 224,
+    "started": 1717443045,
+    "type": "track",
+    "track_id": 2852223,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/2/3/7/9/2/72379277ecdad5f6e71b3ee13cedc4ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/2/3/7/9/2/72379277ecdad5f6e71b3ee13cedc4ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Lunay, Daddy Yankee, Bad Bunny",
+    "display_artist": "Lunay, Daddy Yankee, Bad Bunny",
+    "title": "Soltera (Full Version)",
+    "display_title": "Soltera (Full Version)",
+    "track": "Lunay, Daddy Yankee, Bad Bunny - Soltera (Full Version)",
+    "length": 359,
+    "duration": 359,
+    "started": 1717443633,
+    "type": "track",
+    "track_id": 2943598,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/3/2/7/c/a/2327ca9274e1faa31beb64f6f308ac6e.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/2/7/c/a/2327ca9274e1faa31beb64f6f308ac6e.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Kanti Y Riko Ft Farruko",
+    "display_artist": "Kanti Y Riko Ft Farruko",
+    "title": "Bonita Bebe (Dvj Marcos Cabrera Xtendz)",
+    "display_title": "Bonita Bebe (Dvj Marcos Cabrera Xtendz)",
+    "track": "Kanti Y Riko Ft Farruko - Bonita Bebe (Dvj Marcos Cabrera Xtendz)",
+    "length": 240,
+    "duration": 240,
+    "started": 1717444187,
+    "type": "track",
+    "track_id": 1240711,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/d/5/0/0/3/2/d50032e653699f539261c78ed1510ff2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/0/0/3/2/d50032e653699f539261c78ed1510ff2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Don Omar Ft Pitbull",
+    "display_artist": "Don Omar Ft Pitbull",
+    "title": "Dile Remix",
+    "display_title": "Dile Remix",
+    "track": "Don Omar Ft Pitbull - Dile Remix",
+    "length": 238,
+    "duration": 238,
+    "started": 1717446098,
+    "type": "track",
+    "track_id": 460882,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/9/f/f/7/b/9/9ff7b961d7c19ba5337d4787919a7141.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/f/7/b/9/9ff7b961d7c19ba5337d4787919a7141.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Farruko Ft Daddy Yankee",
+    "display_artist": "Farruko Ft Daddy Yankee",
+    "title": "Piquete (Intro Mix )",
+    "display_title": "Piquete (Intro Mix )",
+    "track": "Farruko Ft Daddy Yankee - Piquete (Intro Mix )",
+    "length": 205,
+    "duration": 205,
+    "started": 1717446539,
+    "type": "track",
+    "track_id": 461659,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/8/e/9/4/0/58e94058ac524c5096a7fc3ccf0b1a81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/e/9/4/0/58e94058ac524c5096a7fc3ccf0b1a81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Baby Shaba",
+    "display_artist": "Baby Shaba",
+    "title": "Hablandole Al Oido",
+    "display_title": "Hablandole Al Oido",
+    "track": "Baby Shaba - Hablandole Al Oido",
+    "length": 183,
+    "duration": 183,
+    "started": 1717446914,
+    "type": "track",
+    "track_id": 1059844,
+    "release": "Los Veteranos Del Reggaeton Vol 2",
+    "art_url": "//cdn-images.audioaddict.com/3/6/5/7/d/8/3657d8d9a055465de9de389a4bd01edf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/5/7/d/8/3657d8d9a055465de9de389a4bd01edf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin",
+    "display_artist": "Wisin",
+    "title": "Vacaciones (Radio)",
+    "display_title": "Vacaciones (Radio)",
+    "track": "Wisin - Vacaciones (Radio)",
+    "length": 236,
+    "duration": 236,
+    "started": 1717447280,
+    "type": "track",
+    "track_id": 1275779,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/b/a/5/e/5/7ba5e5f35358f239771781b89b107fb3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/b/a/5/e/5/7ba5e5f35358f239771781b89b107fb3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin Ft Daddy Yankee, Nicky Jam, Arcangel, Farruko, Yandel, De La Ghetto, Zion",
+    "display_artist": "J Balvin Ft Daddy Yankee, Nicky Jam, Arcangel, Farruko, Yandel, De La Ghetto, Zion",
+    "title": "Ginza (Radio Remix)",
+    "display_title": "Ginza (Radio Remix)",
+    "track": "J Balvin Ft Daddy Yankee, Nicky Jam, Arcangel, Farruko, Yandel, De La Ghetto, Zion - Ginza (Radio Remix)",
+    "length": 304,
+    "duration": 304,
+    "started": 1717447514,
+    "type": "track",
+    "track_id": 1240708,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/e/0/e/8/a/6e0e8a041e2f30d110eca1a385f79b5c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/0/e/8/a/6e0e8a041e2f30d110eca1a385f79b5c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Cris Cab Ft J Balvin",
+    "display_artist": "Cris Cab Ft J Balvin",
+    "title": "Just Wanna Love You (B Case Remix)",
+    "display_title": "Just Wanna Love You (B Case Remix)",
+    "track": "Cris Cab Ft J Balvin - Just Wanna Love You (B Case Remix)",
+    "length": 218,
+    "duration": 218,
+    "started": 1717448476,
+    "type": "track",
+    "track_id": 2914805,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/5/0/6/f/5/1506f52f172388c35dee5e625af7cc14.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/0/6/f/5/1506f52f172388c35dee5e625af7cc14.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Sebastian Yatra Ft Dalmata",
+    "display_artist": "Sebastian Yatra Ft Dalmata",
+    "title": "Sutra (Radio)",
+    "display_title": "Sutra (Radio)",
+    "track": "Sebastian Yatra Ft Dalmata - Sutra (Radio)",
+    "length": 203,
+    "duration": 203,
+    "started": 1717448919,
+    "type": "track",
+    "track_id": 2852217,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/0/1/0/9/e/70109e2e21b0cd559181aba2bac9d09f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/1/0/9/e/70109e2e21b0cd559181aba2bac9d09f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Lil Jon Ft Yandel, Becky G",
+    "display_artist": "Lil Jon Ft Yandel, Becky G",
+    "title": "Take It Off (Spanlgish Version)",
+    "display_title": "Take It Off (Spanlgish Version)",
+    "track": "Lil Jon Ft Yandel, Becky G - Take It Off (Spanlgish Version)",
+    "length": 283,
+    "duration": 283,
+    "started": 1717449122,
+    "type": "track",
+    "track_id": 1262875,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/4/a/2/7/b/14a27b9493f0f3edb1fcefdf9d32a5fe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/a/2/7/b/14a27b9493f0f3edb1fcefdf9d32a5fe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Luis Fonsi Ft Daddy Yankee",
+    "display_artist": "Luis Fonsi Ft Daddy Yankee",
+    "title": "Despacito",
+    "display_title": "Despacito",
+    "track": "Luis Fonsi Ft Daddy Yankee - Despacito",
+    "length": 227,
+    "duration": 227,
+    "started": 1717449550,
+    "type": "track",
+    "track_id": 2000559,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/0/1/4/5/2/701452b180671f2cfb4fb7147eb29481.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/1/4/5/2/701452b180671f2cfb4fb7147eb29481.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J King Y Maximan Ft Reykon",
+    "display_artist": "J King Y Maximan Ft Reykon",
+    "title": "Mermelada",
+    "display_title": "Mermelada",
+    "track": "J King Y Maximan Ft Reykon - Mermelada",
+    "length": 213,
+    "duration": 213,
+    "started": 1717449996,
+    "type": "track",
+    "track_id": 2914814,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/1/1/3/9/a/a1139aa82ac4390e0836e7d9df575b28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/1/3/9/a/a1139aa82ac4390e0836e7d9df575b28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Bad Bunny",
+    "display_artist": "Bad Bunny",
+    "title": "Desde El Corazon",
+    "display_title": "Desde El Corazon",
+    "track": "Bad Bunny - Desde El Corazon",
+    "length": 127,
+    "duration": 127,
+    "started": 1717451109,
+    "type": "track",
+    "track_id": 2921088,
+    "release": "Mas De Un Siglo",
+    "art_url": "//cdn-images.audioaddict.com/9/b/a/2/b/4/9ba2b4495cc6de267115fd3dd383cb9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/a/2/b/4/9ba2b4495cc6de267115fd3dd383cb9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Jesse Y Joy Ft Alejandro Sanz",
+    "display_artist": "Jesse Y Joy Ft Alejandro Sanz",
+    "title": "No Soy Una De Esas (Urban Radio Mix)",
+    "display_title": "No Soy Una De Esas (Urban Radio Mix)",
+    "track": "Jesse Y Joy Ft Alejandro Sanz - No Soy Una De Esas (Urban Radio Mix)",
+    "length": 196,
+    "duration": 196,
+    "started": 1717451481,
+    "type": "track",
+    "track_id": 1252692,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/8/f/9/9/3/58f9938380fc8c4338dabef7cd957df1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/f/9/9/3/58f9938380fc8c4338dabef7cd957df1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee, Farruko, Yomo",
+    "display_artist": "Daddy Yankee, Farruko, Yomo",
+    "title": "Pa Romper La Discoteca Remix",
+    "display_title": "Pa Romper La Discoteca Remix",
+    "track": "Daddy Yankee, Farruko, Yomo - Pa Romper La Discoteca Remix",
+    "length": 232,
+    "duration": 232,
+    "started": 1717452991,
+    "type": "track",
+    "track_id": 2897812,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/c/5/3/e/c/fc53ec604d1d8d3761ab634a86cba9fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/c/5/3/e/c/fc53ec604d1d8d3761ab634a86cba9fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Reykon Ft Cosculluela, Greeicy, Rauw Alejandro",
+    "display_artist": "Reykon Ft Cosculluela, Greeicy, Rauw Alejandro",
+    "title": "Domingo Remix",
+    "display_title": "Domingo Remix",
+    "track": "Reykon Ft Cosculluela, Greeicy, Rauw Alejandro - Domingo Remix",
+    "length": 252,
+    "duration": 252,
+    "started": 1717453876,
+    "type": "track",
+    "track_id": 2932828,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/6/c/c/c/c/d6cccc9f5500c675d7bdb689e5bb05a1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/c/c/c/c/d6cccc9f5500c675d7bdb689e5bb05a1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Lerica X Gente De Zona X Leslie Shaw",
+    "display_artist": "Lerica X Gente De Zona X Leslie Shaw",
+    "title": "Solterita De Oro",
+    "display_title": "Solterita De Oro",
+    "track": "Lerica X Gente De Zona X Leslie Shaw - Solterita De Oro",
+    "length": 203,
+    "duration": 203,
+    "started": 1717454998,
+    "type": "track",
+    "track_id": 2943597,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/f/e/8/e/4/1fe8e40a43445fdc654a76190c2afcdc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/e/8/e/4/1fe8e40a43445fdc654a76190c2afcdc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Ella Me Levanto (Intro Remix)",
+    "display_title": "Ella Me Levanto (Intro Remix)",
+    "track": "Daddy Yankee - Ella Me Levanto (Intro Remix)",
+    "length": 222,
+    "duration": 222,
+    "started": 1717455373,
+    "type": "track",
+    "track_id": 772102,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Los Ilusion Ft Drake",
+    "display_artist": "Los Ilusion Ft Drake",
+    "title": "Find Your Love (Reggaeton Remix)",
+    "display_title": "Find Your Love (Reggaeton Remix)",
+    "track": "Los Ilusion Ft Drake - Find Your Love (Reggaeton Remix)",
+    "length": 172,
+    "duration": 172,
+    "started": 1717457018,
+    "type": "track",
+    "track_id": 1015921,
+    "release": "American Reggaeton Ep Vol 1",
+    "art_url": "//cdn-images.audioaddict.com/f/c/7/4/4/b/fc744b298b7cb88d0ecdbebc48f075aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/c/7/4/4/b/fc744b298b7cb88d0ecdbebc48f075aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin",
+    "display_artist": "Wisin",
+    "title": "Corazon Acelerao (Radio)",
+    "display_title": "Corazon Acelerao (Radio)",
+    "track": "Wisin - Corazon Acelerao (Radio)",
+    "length": 226,
+    "duration": 226,
+    "started": 1717457189,
+    "type": "track",
+    "track_id": 1240735,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/3/5/8/2/9/1/358291a8552a678374c683681d122e76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/8/2/9/1/358291a8552a678374c683681d122e76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin & Yandel ",
+    "display_artist": "Wisin & Yandel ",
+    "title": "Rakata",
+    "display_title": "Rakata",
+    "track": "Wisin & Yandel  - Rakata",
+    "length": 173,
+    "duration": 173,
+    "started": 1717457628,
+    "type": "track",
+    "track_id": 773160,
+    "release": "Pa'l mundo",
+    "art_url": "//cdn-images.audioaddict.com/a/e/6/1/1/c/ae611c2bec0a7dbc023071c3ef1c05dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/6/1/1/c/ae611c2bec0a7dbc023071c3ef1c05dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam",
+    "display_artist": "Nicky Jam",
+    "title": "Dejame Amarte",
+    "display_title": "Dejame Amarte",
+    "track": "Nicky Jam - Dejame Amarte",
+    "length": 187,
+    "duration": 187,
+    "started": 1717458034,
+    "type": "track",
+    "track_id": 2852209,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/b/3/3/0/4/6b3304d010dda6b07e8d2d621d1440e4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/3/3/0/4/6b3304d010dda6b07e8d2d621d1440e4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin Ft Nicky Jam, French Montana",
+    "display_artist": "J Balvin Ft Nicky Jam, French Montana",
+    "title": "Ay Vamos Remix",
+    "display_title": "Ay Vamos Remix",
+    "track": "J Balvin Ft Nicky Jam, French Montana - Ay Vamos Remix",
+    "length": 296,
+    "duration": 296,
+    "started": 1717459233,
+    "type": "track",
+    "track_id": 1014546,
+    "release": "Caribe 2015",
+    "art_url": "//cdn-images.audioaddict.com/8/6/a/5/2/b/86a52bc9bfe1394200be37a7cd35317b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/a/5/2/b/86a52bc9bfe1394200be37a7cd35317b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Alvarez",
+    "display_artist": "J Alvarez",
+    "title": "Tu Juguete",
+    "display_title": "Tu Juguete",
+    "track": "J Alvarez - Tu Juguete",
+    "length": 200,
+    "duration": 200,
+    "started": 1717460054,
+    "type": "track",
+    "track_id": 2921093,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/3/b/f/e/8/3/3bfe830e175a1676123ff78de3c0c50b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/f/e/8/3/3bfe830e175a1676123ff78de3c0c50b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ozuna Ft Daddy Yankee",
+    "display_artist": "Ozuna Ft Daddy Yankee",
+    "title": "Rompe Corazones",
+    "display_title": "Rompe Corazones",
+    "track": "Ozuna Ft Daddy Yankee - Rompe Corazones",
+    "length": 205,
+    "duration": 205,
+    "started": 1717460695,
+    "type": "track",
+    "track_id": 2000572,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/a/4/d/3/c/4a4d3c7a60147a5dc7086ca81b9f1b17.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/a/4/d/3/c/4a4d3c7a60147a5dc7086ca81b9f1b17.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Fanny Lu Ft Gente De Zona",
+    "display_artist": "Fanny Lu Ft Gente De Zona",
+    "title": "Lo Que Dios Quiera (Radio)",
+    "display_title": "Lo Que Dios Quiera (Radio)",
+    "track": "Fanny Lu Ft Gente De Zona - Lo Que Dios Quiera (Radio)",
+    "length": 222,
+    "duration": 222,
+    "started": 1717461104,
+    "type": "track",
+    "track_id": 1240704,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/1/9/9/6/1/2/199612c97d5dcb3c04a43669f110a1fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/9/6/1/2/199612c97d5dcb3c04a43669f110a1fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Kale Ft Franco El Gorila, Trebol Clan",
+    "display_artist": "Kale Ft Franco El Gorila, Trebol Clan",
+    "title": "Digame Usted (Full Remix)",
+    "display_title": "Digame Usted (Full Remix)",
+    "track": "Kale Ft Franco El Gorila, Trebol Clan - Digame Usted (Full Remix)",
+    "length": 286,
+    "duration": 286,
+    "started": 1717462736,
+    "type": "track",
+    "track_id": 2943596,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/7/b/b/0/5/0/7bb0507104b4121865f231fc9d3be414.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/b/b/0/5/0/7bb0507104b4121865f231fc9d3be414.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Descontrol (Extended)",
+    "display_title": "Descontrol (Extended)",
+    "track": "Daddy Yankee - Descontrol (Extended)",
+    "length": 186,
+    "duration": 186,
+    "started": 1717470690,
+    "type": "track",
+    "track_id": 771584,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Alex Sensation Ft Gente De Zona",
+    "display_artist": "Alex Sensation Ft Gente De Zona",
+    "title": "La Mala Y La Buena (Radio)",
+    "display_title": "La Mala Y La Buena (Radio)",
+    "track": "Alex Sensation Ft Gente De Zona - La Mala Y La Buena (Radio)",
+    "length": 226,
+    "duration": 226,
+    "started": 1717471337,
+    "type": "track",
+    "track_id": 1275763,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/9/c/e/f/1/a9cef159f3fb131519603760e330a393.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/c/e/f/1/a9cef159f3fb131519603760e330a393.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Chacal Ft Don Omar",
+    "display_artist": "Chacal Ft Don Omar",
+    "title": "No Se Enamore De Mi Remix",
+    "display_title": "No Se Enamore De Mi Remix",
+    "track": "Chacal Ft Don Omar - No Se Enamore De Mi Remix",
+    "length": 223,
+    "duration": 223,
+    "started": 1717473408,
+    "type": "track",
+    "track_id": 2000531,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/c/4/d/1/9/9c4d19f5a0f3455b8f2bf83616ee58a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/4/d/1/9/9c4d19f5a0f3455b8f2bf83616ee58a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Cali Y El Dandee Ft Juan Magan, Sebastian Yatra",
+    "display_artist": "Cali Y El Dandee Ft Juan Magan, Sebastian Yatra",
+    "title": "Por Fin Te Encontre",
+    "display_title": "Por Fin Te Encontre",
+    "track": "Cali Y El Dandee Ft Juan Magan, Sebastian Yatra - Por Fin Te Encontre",
+    "length": 259,
+    "duration": 259,
+    "started": 1717473853,
+    "type": "track",
+    "track_id": 1240698,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/1/0/d/f/3/a10df3a2f85fd7d78ab31121291741cd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/0/d/f/3/a10df3a2f85fd7d78ab31121291741cd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Alvarez feat. Zion & Lennox",
+    "display_artist": "J Alvarez feat. Zion & Lennox",
+    "title": "Alucinandote",
+    "display_title": "Alucinandote",
+    "track": "J Alvarez feat. Zion & Lennox - Alucinandote",
+    "length": 256,
+    "duration": 256,
+    "started": 1717474104,
+    "type": "track",
+    "track_id": 462229,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/7/2/b/fdb72bbc32576c30fd63611e181342f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/7/2/b/fdb72bbc32576c30fd63611e181342f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma",
+    "display_artist": "Maluma",
+    "title": "11 Pm",
+    "display_title": "11 Pm",
+    "track": "Maluma - 11 Pm",
+    "length": 175,
+    "duration": 175,
+    "started": 1717475818,
+    "type": "track",
+    "track_id": 2938696,
+    "release": "11:11  ",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Tito El Bambino",
+    "display_artist": "Tito El Bambino",
+    "title": "Pega Pega",
+    "display_title": "Pega Pega",
+    "track": "Tito El Bambino - Pega Pega",
+    "length": 219,
+    "duration": 219,
+    "started": 1717477662,
+    "type": "track",
+    "track_id": 2938708,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/2/0/0/0/a/d2000a59798acf55660b92727f385fbe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/2/0/0/0/a/d2000a59798acf55660b92727f385fbe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ozuna, Daddy Yankee, Plan B",
+    "display_artist": "Ozuna, Daddy Yankee, Plan B",
+    "title": "El Desorden",
+    "display_title": "El Desorden",
+    "track": "Ozuna, Daddy Yankee, Plan B - El Desorden",
+    "length": 195,
+    "duration": 195,
+    "started": 1717479702,
+    "type": "track",
+    "track_id": 2852211,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/7/4/3/2/2/6743222da6ba761adb131e7bea841393.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/4/3/2/2/6743222da6ba761adb131e7bea841393.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Shakira Ft Maluma",
+    "display_artist": "Shakira Ft Maluma",
+    "title": "Chantaje (Radio)",
+    "display_title": "Chantaje (Radio)",
+    "track": "Shakira Ft Maluma - Chantaje (Radio)",
+    "length": 196,
+    "duration": 196,
+    "started": 1717480336,
+    "type": "track",
+    "track_id": 1275758,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/7/c/7/5/6/57c75698127132f9ddc9d43d11050b00.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/c/7/5/6/57c75698127132f9ddc9d43d11050b00.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin Ft Pharrell Williams, Bia, Sky",
+    "display_artist": "J Balvin Ft Pharrell Williams, Bia, Sky",
+    "title": "Safari",
+    "display_title": "Safari",
+    "track": "J Balvin Ft Pharrell Williams, Bia, Sky - Safari",
+    "length": 205,
+    "duration": 205,
+    "started": 1717480733,
+    "type": "track",
+    "track_id": 1252686,
+    "release": "Energia",
+    "art_url": "//cdn-images.audioaddict.com/e/d/c/4/2/2/edc422e0ae1fc082fa881045ef84b8ea.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/d/c/4/2/2/edc422e0ae1fc082fa881045ef84b8ea.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin Ft Farruko",
+    "display_artist": "J Balvin Ft Farruko",
+    "title": "6 Am",
+    "display_title": "6 Am",
+    "track": "J Balvin Ft Farruko - 6 Am",
+    "length": 244,
+    "duration": 244,
+    "started": 1717481812,
+    "type": "track",
+    "track_id": 905703,
+    "release": "La Familia B Sides",
+    "art_url": "//cdn-images.audioaddict.com/4/6/5/0/b/8/4650b83454b697e29adbd303464c79bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/6/5/0/b/8/4650b83454b697e29adbd303464c79bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ozuna Ft Wisin Y Yandel",
+    "display_artist": "Ozuna Ft Wisin Y Yandel",
+    "title": "Quiero Mas",
+    "display_title": "Quiero Mas",
+    "track": "Ozuna Ft Wisin Y Yandel - Quiero Mas",
+    "length": 244,
+    "duration": 244,
+    "started": 1717484180,
+    "type": "track",
+    "track_id": 2905802,
+    "release": "Aura",
+    "art_url": "//cdn-images.audioaddict.com/2/6/c/7/b/0/26c7b0d250b495b512fd13c230f45142.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/c/7/b/0/26c7b0d250b495b512fd13c230f45142.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Tito 'El Bambino' feat. Farruko",
+    "display_artist": "Tito 'El Bambino' feat. Farruko",
+    "title": "No Esta En Na",
+    "display_title": "No Esta En Na",
+    "track": "Tito 'El Bambino' feat. Farruko - No Esta En Na",
+    "length": 190,
+    "duration": 190,
+    "started": 1717487882,
+    "type": "track",
+    "track_id": 461692,
+    "release": "Tmpr Pre Album Mixtape",
+    "art_url": "//cdn-images.audioaddict.com/9/9/3/e/9/7/993e9757d25823780c10b2d86d9a6ae4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/3/e/9/7/993e9757d25823780c10b2d86d9a6ae4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma",
+    "display_artist": "Maluma",
+    "title": "El Perdedor (X Version)",
+    "display_title": "El Perdedor (X Version)",
+    "track": "Maluma - El Perdedor (X Version)",
+    "length": 184,
+    "duration": 184,
+    "started": 1717489364,
+    "type": "track",
+    "track_id": 1262877,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/6/1/c/a/f/f61caf720126a7725d437cd96741117a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/1/c/a/f/f61caf720126a7725d437cd96741117a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Cuentame",
+    "display_title": "Cuentame",
+    "track": "Daddy Yankee - Cuentame",
+    "length": 155,
+    "duration": 155,
+    "started": 1717489748,
+    "type": "track",
+    "track_id": 460498,
+    "release": "Reggaeton",
+    "art_url": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Kali Uchis Ft Reykon",
+    "display_artist": "Kali Uchis Ft Reykon",
+    "title": "Nuestro Planeta",
+    "display_title": "Nuestro Planeta",
+    "track": "Kali Uchis Ft Reykon - Nuestro Planeta",
+    "length": 202,
+    "duration": 202,
+    "started": 1717493178,
+    "type": "track",
+    "track_id": 2852202,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/b/b/a/8/7dbba89b16966441563d8cb568f4cb45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/b/b/a/8/7dbba89b16966441563d8cb568f4cb45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Luis Fonsi Y Demi Lovato",
+    "display_artist": "Luis Fonsi Y Demi Lovato",
+    "title": "Echame La Culpa",
+    "display_title": "Echame La Culpa",
+    "track": "Luis Fonsi Y Demi Lovato - Echame La Culpa",
+    "length": 173,
+    "duration": 173,
+    "started": 1717497223,
+    "type": "track",
+    "track_id": 2852206,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/a/c/b/0/4/7acb04f96e42e21fcb3608b6ba455d5d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/c/b/0/4/7acb04f96e42e21fcb3608b6ba455d5d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Los Ilusion Ft Rihanna",
+    "display_artist": "Los Ilusion Ft Rihanna",
+    "title": "Diamond (Reggaeton Remix)",
+    "display_title": "Diamond (Reggaeton Remix)",
+    "track": "Los Ilusion Ft Rihanna - Diamond (Reggaeton Remix)",
+    "length": 233,
+    "duration": 233,
+    "started": 1717498791,
+    "type": "track",
+    "track_id": 1015938,
+    "release": "American Reggaeton Ep Vol 1",
+    "art_url": "//cdn-images.audioaddict.com/f/c/7/4/4/b/fc744b298b7cb88d0ecdbebc48f075aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/c/7/4/4/b/fc744b298b7cb88d0ecdbebc48f075aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Luny Tunes Y Baby Ranks",
+    "display_artist": "Luny Tunes Y Baby Ranks",
+    "title": "Motivame",
+    "display_title": "Motivame",
+    "track": "Luny Tunes Y Baby Ranks - Motivame",
+    "length": 203,
+    "duration": 203,
+    "started": 1717499469,
+    "type": "track",
+    "track_id": 1941824,
+    "release": "La Trayectoria",
+    "art_url": "//cdn-images.audioaddict.com/3/6/e/3/b/d/36e3bdac891398169ab5864c3a391e5e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/e/3/b/d/36e3bdac891398169ab5864c3a391e5e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Plan B Ft Tego Calderon",
+    "display_artist": "Plan B Ft Tego Calderon",
+    "title": "Es Un Secreto",
+    "display_title": "Es Un Secreto",
+    "track": "Plan B Ft Tego Calderon - Es Un Secreto",
+    "length": 235,
+    "duration": 235,
+    "started": 1717500306,
+    "type": "track",
+    "track_id": 773311,
+    "release": "Itunes Essentials",
+    "art_url": "//cdn-images.audioaddict.com/e/5/7/f/e/a/e57feaab653aba2f4e09e5d2c327ecc5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/7/f/e/a/e57feaab653aba2f4e09e5d2c327ecc5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Tito El Bambino",
+    "display_artist": "Tito El Bambino",
+    "title": "Shalala",
+    "display_title": "Shalala",
+    "track": "Tito El Bambino - Shalala",
+    "length": 201,
+    "duration": 201,
+    "started": 1717501217,
+    "type": "track",
+    "track_id": 1240734,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/2/c/3/0/a/d2c30aad927cf2941aa06f894e12b6c5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/2/c/3/0/a/d2c30aad927cf2941aa06f894e12b6c5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "Taladro  (Lurp Clean Xtendz)",
+    "display_title": "Taladro  (Lurp Clean Xtendz)",
+    "track": "Daddy Yankee - Taladro  (Lurp Clean Xtendz)",
+    "length": 195,
+    "duration": 195,
+    "started": 1717505528,
+    "type": "track",
+    "track_id": 771682,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/1/f/e/8/cc1fe8512ed9ee8d0e94dc9839668107.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Zion Y Lennox Ft Baby Ranks",
+    "display_artist": "Zion Y Lennox Ft Baby Ranks",
+    "title": "Es Mejor Olvidarlo",
+    "display_title": "Es Mejor Olvidarlo",
+    "track": "Zion Y Lennox Ft Baby Ranks - Es Mejor Olvidarlo",
+    "length": 292,
+    "duration": 292,
+    "started": 1717507790,
+    "type": "track",
+    "track_id": 771212,
+    "release": "Mas Flow 2",
+    "art_url": "//cdn-images.audioaddict.com/0/7/0/d/5/7/070d570b7658d33b6493c523d499b2c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/0/d/5/7/070d570b7658d33b6493c523d499b2c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Hector El Father",
+    "display_artist": "Hector El Father",
+    "title": "Sola",
+    "display_title": "Sola",
+    "track": "Hector El Father - Sola",
+    "length": 180,
+    "duration": 180,
+    "started": 1717509820,
+    "type": "track",
+    "track_id": 773732,
+    "release": "The Best Hits Of Hector El Father",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/2/a/7/06f2a7492ca09fbe0ad1fdeef51db1bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/2/a/7/06f2a7492ca09fbe0ad1fdeef51db1bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Ñengo 'Flow'",
+    "display_artist": "Ñengo 'Flow'",
+    "title": "Tu No Me Respondes",
+    "display_title": "Tu No Me Respondes",
+    "track": "Ñengo 'Flow' - Tu No Me Respondes",
+    "length": 203,
+    "duration": 203,
+    "started": 1717513593,
+    "type": "track",
+    "track_id": 463766,
+    "release": "Real G 4 Life Baby Pt 2.5",
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/e/f/5/3b6ef5d861cc77f1b5daacdf141e3763.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/e/f/5/3b6ef5d861cc77f1b5daacdf141e3763.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Luis Fonsi",
+    "display_artist": "Luis Fonsi",
+    "title": "Echame La Culpa (Not On You Remix)",
+    "display_title": "Echame La Culpa (Not On You Remix)",
+    "track": "Luis Fonsi - Echame La Culpa (Not On You Remix)",
+    "length": 173,
+    "duration": 173,
+    "started": 1717515090,
+    "type": "track",
+    "track_id": 2886866,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/4/4/6/a/b/7/446ab7fbc7778544581365e6d0bf9bd8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/6/a/b/7/446ab7fbc7778544581365e6d0bf9bd8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Rakim Ft Maluma",
+    "display_artist": "Rakim Ft Maluma",
+    "title": "Mujer Peligrosa (Lurp Clean Extended)",
+    "display_title": "Mujer Peligrosa (Lurp Clean Extended)",
+    "track": "Rakim Ft Maluma - Mujer Peligrosa (Lurp Clean Extended)",
+    "length": 227,
+    "duration": 227,
+    "started": 1717515495,
+    "type": "track",
+    "track_id": 772471,
+    "release": "Latinos Unidos Dj Tools",
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/0/b/0/49a0b01e4647568518a7e085193a8f74.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/0/b/0/49a0b01e4647568518a7e085193a8f74.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam Ft Enrique Iglesias",
+    "display_artist": "Nicky Jam Ft Enrique Iglesias",
+    "title": "El Perdon (Forgiveness)",
+    "display_title": "El Perdon (Forgiveness)",
+    "track": "Nicky Jam Ft Enrique Iglesias - El Perdon (Forgiveness)",
+    "length": 206,
+    "duration": 206,
+    "started": 1717516675,
+    "type": "track",
+    "track_id": 2000569,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/0/b/5/a/5/d0b5a5a077628cad5bb9425e2724b4af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/b/5/a/5/d0b5a5a077628cad5bb9425e2724b4af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam Ft De La Ghetto",
+    "display_artist": "Nicky Jam Ft De La Ghetto",
+    "title": "Si Tu No Estas",
+    "display_title": "Si Tu No Estas",
+    "track": "Nicky Jam Ft De La Ghetto - Si Tu No Estas",
+    "length": 219,
+    "duration": 219,
+    "started": 1717518151,
+    "type": "track",
+    "track_id": 1015153,
+    "release": "Caribe 2015",
+    "art_url": "//cdn-images.audioaddict.com/0/f/7/b/5/f/0f7b5f15ec461d1d996a4589c08d1658.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/7/b/5/f/0f7b5f15ec461d1d996a4589c08d1658.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin, Rvssian, Faruko",
+    "display_artist": "J Balvin, Rvssian, Faruko",
+    "title": "Ponle (Radio)",
+    "display_title": "Ponle (Radio)",
+    "track": "J Balvin, Rvssian, Faruko - Ponle (Radio)",
+    "length": 164,
+    "duration": 164,
+    "started": 1717518634,
+    "type": "track",
+    "track_id": 2905791,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/b/6/1/d/3/3/b61d333d6f303d42fd55c756c019cacd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/1/d/3/3/b61d333d6f303d42fd55c756c019cacd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Pasabordo Ft Noriel",
+    "display_artist": "Pasabordo Ft Noriel",
+    "title": "Dile A Tu Marido (Radio)",
+    "display_title": "Dile A Tu Marido (Radio)",
+    "track": "Pasabordo Ft Noriel - Dile A Tu Marido (Radio)",
+    "length": 217,
+    "duration": 217,
+    "started": 1717524585,
+    "type": "track",
+    "track_id": 2905803,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/8/b/c/c/5/a8bcc53538ed21f70888319d48147456.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/b/c/c/5/a8bcc53538ed21f70888319d48147456.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Enrique Iglesias Ft Gente De Zona",
+    "display_artist": "Enrique Iglesias Ft Gente De Zona",
+    "title": "Duele El Corazon (Radio Remix)",
+    "display_title": "Duele El Corazon (Radio Remix)",
+    "track": "Enrique Iglesias Ft Gente De Zona - Duele El Corazon (Radio Remix)",
+    "length": 216,
+    "duration": 216,
+    "started": 1717527282,
+    "type": "track",
+    "track_id": 1262870,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/a/8/1/d/d/8a81dd738861c6e53567d2b2ffc3e272.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/8/1/d/d/8a81dd738861c6e53567d2b2ffc3e272.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma Ft Ricky Martin",
+    "display_artist": "Maluma Ft Ricky Martin",
+    "title": "No Se Me Quita",
+    "display_title": "No Se Me Quita",
+    "track": "Maluma Ft Ricky Martin - No Se Me Quita",
+    "length": 220,
+    "duration": 220,
+    "started": 1717530407,
+    "type": "track",
+    "track_id": 2938700,
+    "release": "11:11",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin & Yandel ",
+    "display_artist": "Wisin & Yandel ",
+    "title": "Mírala bien",
+    "display_title": "Mírala bien",
+    "track": "Wisin & Yandel  - Mírala bien",
+    "length": 156,
+    "duration": 156,
+    "started": 1717531120,
+    "type": "track",
+    "track_id": 464438,
+    "release": "Pa'l mundo",
+    "art_url": "//cdn-images.audioaddict.com/a/e/6/1/1/c/ae611c2bec0a7dbc023071c3ef1c05dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/6/1/1/c/ae611c2bec0a7dbc023071c3ef1c05dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Diana Ela, Abraham Mateo, Leslie Shaw, Katalina",
+    "display_artist": "Diana Ela, Abraham Mateo, Leslie Shaw, Katalina",
+    "title": "Contigo",
+    "display_title": "Contigo",
+    "track": "Diana Ela, Abraham Mateo, Leslie Shaw, Katalina - Contigo",
+    "length": 199,
+    "duration": 199,
+    "started": 1717532619,
+    "type": "track",
+    "track_id": 2943589,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/9/c/1/3/6/7/9c13678a31d273ca50e2c5bc1c68528b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/1/3/6/7/9c13678a31d273ca50e2c5bc1c68528b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Greeicy Y Anitta",
+    "display_artist": "Greeicy Y Anitta",
+    "title": "Jacuzzi",
+    "display_title": "Jacuzzi",
+    "track": "Greeicy Y Anitta - Jacuzzi",
+    "length": 184,
+    "duration": 184,
+    "started": 1717534208,
+    "type": "track",
+    "track_id": 2911246,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/3/c/0/8/c/03c08cd53a4a52a7e2034225e8457df6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/c/0/8/c/03c08cd53a4a52a7e2034225e8457df6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam Y J Balvin",
+    "display_artist": "Nicky Jam Y J Balvin",
+    "title": "X [Spanish Version]",
+    "display_title": "X [Spanish Version]",
+    "track": "Nicky Jam Y J Balvin - X [Spanish Version]",
+    "length": 173,
+    "duration": 173,
+    "started": 1717535334,
+    "type": "track",
+    "track_id": 2886870,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/b/b/3/f/4/7/bb3f473bd41a324a2b91775de8ed2451.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/3/f/4/7/bb3f473bd41a324a2b91775de8ed2451.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma Ft Farina",
+    "display_artist": "Maluma Ft Farina",
+    "title": "Puesto Pa Ti",
+    "display_title": "Puesto Pa Ti",
+    "track": "Maluma Ft Farina - Puesto Pa Ti",
+    "length": 204,
+    "duration": 204,
+    "started": 1717538420,
+    "type": "track",
+    "track_id": 2938697,
+    "release": "11:11",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Yandel Ft Sebastian Yatra, Manuel Turizo",
+    "display_artist": "Yandel Ft Sebastian Yatra, Manuel Turizo",
+    "title": "En Cero",
+    "display_title": "En Cero",
+    "track": "Yandel Ft Sebastian Yatra, Manuel Turizo - En Cero",
+    "length": 223,
+    "duration": 223,
+    "started": 1717541827,
+    "type": "track",
+    "track_id": 2938711,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/d/3/8/8/3/0/d38830c27ca352918726d53fa5e821fe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/8/8/3/0/d38830c27ca352918726d53fa5e821fe.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Justin Quiles Ft Plan B",
+    "display_artist": "Justin Quiles Ft Plan B",
+    "title": "Si Tu",
+    "display_title": "Si Tu",
+    "track": "Justin Quiles Ft Plan B - Si Tu",
+    "length": 228,
+    "duration": 228,
+    "started": 1717544987,
+    "type": "track",
+    "track_id": 2914817,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/0/8/0/0/2/b/08002be4d8785f748d4bb0cad8d281cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/0/0/2/b/08002be4d8785f748d4bb0cad8d281cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nacho Y Nicky Jam",
+    "display_artist": "Nacho Y Nicky Jam",
+    "title": "Monalisa",
+    "display_title": "Monalisa",
+    "track": "Nacho Y Nicky Jam - Monalisa",
+    "length": 185,
+    "duration": 185,
+    "started": 1717545213,
+    "type": "track",
+    "track_id": 2938702,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/f/0/4/a/2/0/f04a20f4e500f56343dd50f82365af85.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/4/a/2/0/f04a20f4e500f56343dd50f82365af85.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Sebastian Yatra Ft Mau Y Ricky, Farruko, Sharo Towers",
+    "display_artist": "Sebastian Yatra Ft Mau Y Ricky, Farruko, Sharo Towers",
+    "title": "Ya No Tiene Novio Remix",
+    "display_title": "Ya No Tiene Novio Remix",
+    "track": "Sebastian Yatra Ft Mau Y Ricky, Farruko, Sharo Towers - Ya No Tiene Novio Remix",
+    "length": 211,
+    "duration": 211,
+    "started": 1717547563,
+    "type": "track",
+    "track_id": 2914824,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/4/5/e/2/d/5/45e2d58f65b3d249d754a0dde308787a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/e/2/d/5/45e2d58f65b3d249d754a0dde308787a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Alexis Y Fido",
+    "display_artist": "Alexis Y Fido",
+    "title": "Una En Un Millon (Radio)",
+    "display_title": "Una En Un Millon (Radio)",
+    "track": "Alexis Y Fido - Una En Un Millon (Radio)",
+    "length": 213,
+    "duration": 213,
+    "started": 1717548001,
+    "type": "track",
+    "track_id": 1240695,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/2/a/0/e/9/3/2a0e9360bfb66602c591b27caf5f1558.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/0/e/9/3/2a0e9360bfb66602c591b27caf5f1558.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Daddy Yankee",
+    "display_artist": "Daddy Yankee",
+    "title": "El Vaiven",
+    "display_title": "El Vaiven",
+    "track": "Daddy Yankee - El Vaiven",
+    "length": 221,
+    "duration": 221,
+    "started": 1717549068,
+    "type": "track",
+    "track_id": 1046949,
+    "release": "Pop Latin November 2015",
+    "art_url": "//cdn-images.audioaddict.com/e/d/3/6/c/5/ed36c513bed4be7ddbb416c1d6b20d17.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/d/3/6/c/5/ed36c513bed4be7ddbb416c1d6b20d17.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Tito El Bambino",
+    "display_artist": "Tito El Bambino",
+    "title": "Dejala Volar",
+    "display_title": "Dejala Volar",
+    "track": "Tito El Bambino - Dejala Volar",
+    "length": 206,
+    "duration": 206,
+    "started": 1717554892,
+    "type": "track",
+    "track_id": 772533,
+    "release": "Mas Flow 2",
+    "art_url": "//cdn-images.audioaddict.com/0/7/0/d/5/7/070d570b7658d33b6493c523d499b2c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/0/d/5/7/070d570b7658d33b6493c523d499b2c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin Ft Pharrell Williams, Bia, Sky",
+    "display_artist": "J Balvin Ft Pharrell Williams, Bia, Sky",
+    "title": "Safari (Radio)",
+    "display_title": "Safari (Radio)",
+    "track": "J Balvin Ft Pharrell Williams, Bia, Sky - Safari (Radio)",
+    "length": 207,
+    "duration": 207,
+    "started": 1717556112,
+    "type": "track",
+    "track_id": 1262873,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/f/8/5/1/0/8f851065045ed7f26928f1165722b392.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/8/5/1/0/8f851065045ed7f26928f1165722b392.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Tito 'El Bambino'",
+    "display_artist": "Tito 'El Bambino'",
+    "title": "En La Disco",
+    "display_title": "En La Disco",
+    "track": "Tito 'El Bambino' - En La Disco",
+    "length": 229,
+    "duration": 229,
+    "started": 1717572502,
+    "type": "track",
+    "track_id": 699859,
+    "release": "It's My Time",
+    "art_url": "//cdn-images.audioaddict.com/e/8/8/7/6/5/e88765c7e3d9a7acf9f50893e1e70344.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/8/7/6/5/e88765c7e3d9a7acf9f50893e1e70344.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maite Perroni Ft Cali Y Dandee",
+    "display_artist": "Maite Perroni Ft Cali Y Dandee",
+    "title": "Loca",
+    "display_title": "Loca",
+    "track": "Maite Perroni Ft Cali Y Dandee - Loca",
+    "length": 234,
+    "duration": 234,
+    "started": 1717578373,
+    "type": "track",
+    "track_id": 2102766,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/3/4/2/6/4/d34264e0e69f812ba447e11d15dff61b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/4/2/6/4/d34264e0e69f812ba447e11d15dff61b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Descemer Bueno Y Enrique Iglesias Ft El Micha",
+    "display_artist": "Descemer Bueno Y Enrique Iglesias Ft El Micha",
+    "title": "Nos Fuimos Lejos",
+    "display_title": "Nos Fuimos Lejos",
+    "track": "Descemer Bueno Y Enrique Iglesias Ft El Micha - Nos Fuimos Lejos",
+    "length": 209,
+    "duration": 209,
+    "started": 1717580320,
+    "type": "track",
+    "track_id": 2886847,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/4/d/b/3/1/84db3177228f4325ff6ed6921f4f3951.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/d/b/3/1/84db3177228f4325ff6ed6921f4f3951.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Sean Paul X J Balvin",
+    "display_artist": "Sean Paul X J Balvin",
+    "title": "Contra La Pared",
+    "display_title": "Contra La Pared",
+    "track": "Sean Paul X J Balvin - Contra La Pared",
+    "length": 224,
+    "duration": 224,
+    "started": 1717585680,
+    "type": "track",
+    "track_id": 2932829,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/3/f/f/8/f/6/3ff8f6882779a8ed30bf9743dbead772.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/f/8/f/6/3ff8f6882779a8ed30bf9743dbead772.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Yandar Y Yostin",
+    "display_artist": "Yandar Y Yostin",
+    "title": "Descuidada",
+    "display_title": "Descuidada",
+    "track": "Yandar Y Yostin - Descuidada",
+    "length": 174,
+    "duration": 174,
+    "started": 1717586072,
+    "type": "track",
+    "track_id": 2938710,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/6/5/1/d/2/e/651d2e3a791ebeec48b1cd77e9ae0af7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/5/1/d/2/e/651d2e3a791ebeec48b1cd77e9ae0af7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Zion Y Lennox",
+    "display_artist": "Zion Y Lennox",
+    "title": "Hola",
+    "display_title": "Hola",
+    "track": "Zion Y Lennox - Hola",
+    "length": 220,
+    "duration": 220,
+    "started": 1717587549,
+    "type": "track",
+    "track_id": 2905810,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/e/f/b/5/c/6/efb5c66fda2e3dc214f4b7de4ae71bc0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/b/5/c/6/efb5c66fda2e3dc214f4b7de4ae71bc0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nacho",
+    "display_artist": "Nacho",
+    "title": "Bailame (Radio)",
+    "display_title": "Bailame (Radio)",
+    "track": "Nacho - Bailame (Radio)",
+    "length": 206,
+    "duration": 206,
+    "started": 1717590245,
+    "type": "track",
+    "track_id": 2000567,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/9/2/0/2/3b92026c701fff659da3061920dc538e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/9/2/0/2/3b92026c701fff659da3061920dc538e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin",
+    "display_artist": "J Balvin",
+    "title": "Tranquila",
+    "display_title": "Tranquila",
+    "track": "J Balvin - Tranquila",
+    "length": 200,
+    "duration": 200,
+    "started": 1717592516,
+    "type": "track",
+    "track_id": 462237,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/a/f/9/5/9/8/af95984b38363c9502a4105a3da736ce.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/9/5/9/8/af95984b38363c9502a4105a3da736ce.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma",
+    "display_artist": "Maluma",
+    "title": "La Curiosidad",
+    "display_title": "La Curiosidad",
+    "track": "Maluma - La Curiosidad",
+    "length": 218,
+    "duration": 218,
+    "started": 1717592918,
+    "type": "track",
+    "track_id": 952645,
+    "release": "Pbdb (The Mixtape)",
+    "art_url": "//cdn-images.audioaddict.com/9/6/2/b/7/9/962b79d9f7a47cd0e54fd087b1e04e3a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/2/b/7/9/962b79d9f7a47cd0e54fd087b1e04e3a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Justin Quiles Feat. Yandel & Gadiel",
+    "display_artist": "Justin Quiles Feat. Yandel & Gadiel",
+    "title": "Si Ella Quisiera (Remix)",
+    "display_title": "Si Ella Quisiera (Remix)",
+    "track": "Justin Quiles Feat. Yandel & Gadiel - Si Ella Quisiera (Remix)",
+    "length": 224,
+    "duration": 224,
+    "started": 1717600045,
+    "type": "track",
+    "track_id": 2000555,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/1/b/e/2/0/61be203290c925fbe31a35468c337464.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/1/b/e/2/0/61be203290c925fbe31a35468c337464.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Srta Dayana",
+    "display_artist": "Srta Dayana",
+    "title": "Cuando El Amor (Urban Version)",
+    "display_title": "Cuando El Amor (Urban Version)",
+    "track": "Srta Dayana - Cuando El Amor (Urban Version)",
+    "length": 164,
+    "duration": 164,
+    "started": 1717615014,
+    "type": "track",
+    "track_id": 2938707,
+    "release": "Victoria",
+    "art_url": "//cdn-images.audioaddict.com/2/1/9/2/d/e/2192de17357a91da78712fd55eb87b42.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/9/2/d/e/2192de17357a91da78712fd55eb87b42.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Maluma Ft Ozuna",
+    "display_artist": "Maluma Ft Ozuna",
+    "title": "Dispuesto",
+    "display_title": "Dispuesto",
+    "track": "Maluma Ft Ozuna - Dispuesto",
+    "length": 162,
+    "duration": 162,
+    "started": 1717633489,
+    "type": "track",
+    "track_id": 2938699,
+    "release": "11:11",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/f/1/9/fdbf196bd8281a39a33fcd6c084320e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Thalia Y Gente De Zona",
+    "display_artist": "Thalia Y Gente De Zona",
+    "title": "Lento",
+    "display_title": "Lento",
+    "track": "Thalia Y Gente De Zona - Lento",
+    "length": 218,
+    "duration": 218,
+    "started": 1717657867,
+    "type": "track",
+    "track_id": 2905809,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/3/8/a/1/b/5/38a1b5a5133146b67cfbc6cb6fcda80d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/a/1/b/5/38a1b5a5133146b67cfbc6cb6fcda80d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam Ft Daddy Yankee",
+    "display_artist": "Nicky Jam Ft Daddy Yankee",
+    "title": "Hasta El Amanecer (The Remix)",
+    "display_title": "Hasta El Amanecer (The Remix)",
+    "track": "Nicky Jam Ft Daddy Yankee - Hasta El Amanecer (The Remix)",
+    "length": 188,
+    "duration": 188,
+    "started": 1717681656,
+    "type": "track",
+    "track_id": 2000568,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/0/b/5/a/5/d0b5a5a077628cad5bb9425e2724b4af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/b/5/a/5/d0b5a5a077628cad5bb9425e2724b4af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Nicky Jam",
+    "display_artist": "Nicky Jam",
+    "title": "Si Te Preguntan",
+    "display_title": "Si Te Preguntan",
+    "track": "Nicky Jam - Si Te Preguntan",
+    "length": 149,
+    "duration": 149,
+    "started": 1717705843,
+    "type": "track",
+    "track_id": 1941828,
+    "release": "Mas Flow 1 The Beginning",
+    "art_url": "//cdn-images.audioaddict.com/9/f/3/0/f/4/9f30f4b725d4b10e15c0dba432bd1f5a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/3/0/f/4/9f30f4b725d4b10e15c0dba432bd1f5a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Tito 'El Bambino' feat. R.K.M. & Ken-Y",
+    "display_artist": "Tito 'El Bambino' feat. R.K.M. & Ken-Y",
+    "title": "Fans (Feat. R.k.m. And Ken-Y)",
+    "display_title": "Fans (Feat. R.k.m. And Ken-Y)",
+    "track": "Tito 'El Bambino' feat. R.K.M. & Ken-Y - Fans (Feat. R.k.m. And Ken-Y)",
+    "length": 208,
+    "duration": 208,
+    "started": 1717712461,
+    "type": "track",
+    "track_id": 464251,
+    "release": "It's My Time",
+    "art_url": "//cdn-images.audioaddict.com/e/8/8/7/6/5/e88765c7e3d9a7acf9f50893e1e70344.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/8/7/6/5/e88765c7e3d9a7acf9f50893e1e70344.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin Ft Anitta",
+    "display_artist": "J Balvin Ft Anitta",
+    "title": "Ginza Remix",
+    "display_title": "Ginza Remix",
+    "track": "J Balvin Ft Anitta - Ginza Remix",
+    "length": 171,
+    "duration": 171,
+    "started": 1717735832,
+    "type": "track",
+    "track_id": 1240707,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/5/9/f/8/4/1/59f84194e75c6ef406888fa0b97a0437.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/f/8/4/1/59f84194e75c6ef406888fa0b97a0437.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Wisin X Jon Z X Don Chezina",
+    "display_artist": "Wisin X Jon Z X Don Chezina",
+    "title": "3G (Tres Generaciones)",
+    "display_title": "3G (Tres Generaciones)",
+    "track": "Wisin X Jon Z X Don Chezina - 3G (Tres Generaciones)",
+    "length": 218,
+    "duration": 218,
+    "started": 1717738631,
+    "type": "track",
+    "track_id": 2943603,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/8/2/e/3/1/2/82e312bc5083883722d4f4bfc6d29045.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/e/3/1/2/82e312bc5083883722d4f4bfc6d29045.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "Rayo Y Toby Ft Nengo Flow",
+    "display_artist": "Rayo Y Toby Ft Nengo Flow",
+    "title": "Ninfomana",
+    "display_title": "Ninfomana",
+    "track": "Rayo Y Toby Ft Nengo Flow - Ninfomana",
+    "length": 196,
+    "duration": 196,
+    "started": 1717754797,
+    "type": "track",
+    "track_id": 1014686,
+    "release": "Caribe 2015",
+    "art_url": "//cdn-images.audioaddict.com/1/a/3/e/9/f/1a3e9f8b8faa4b8700c547f33dca8bbb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/3/e/9/f/1a3e9f8b8faa4b8700c547f33dca8bbb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 2,
+    "channel_id": 304,
+    "artist": "J Balvin",
+    "display_artist": "J Balvin",
+    "title": "Bobo (Varo Ratata Extended)",
+    "display_title": "Bobo (Varo Ratata Extended)",
+    "track": "J Balvin - Bobo (Varo Ratata Extended)",
+    "length": 188,
+    "duration": 188,
+    "started": 1717928325,
+    "type": "track",
+    "track_id": 1252685,
+    "release": "Cd Single",
+    "art_url": "//cdn-images.audioaddict.com/4/6/f/d/9/e/46fd9e7f808d3754bdf6172165718cdb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/6/f/d/9/e/46fd9e7f808d3754bdf6172165718cdb.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]
