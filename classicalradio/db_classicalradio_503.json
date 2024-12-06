@@ -1,0 +1,3897 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln",
+    "display_artist": "Camerata Köln",
+    "title": "Trio I in Bb for Oboe, Violin and basso, TWV 42:B1 [G.P. Telemann]",
+    "display_title": "Trio I in Bb for Oboe, Violin and basso, TWV 42:B1 [G.P. Telemann]",
+    "track": "Camerata Köln - Trio I in Bb for Oboe, Violin and basso, TWV 42:B1 [G.P. Telemann]",
+    "length": 459,
+    "duration": 459,
+    "started": 1724036913,
+    "type": "track",
+    "track_id": 1052229,
+    "release": "Trios, 1718 - Camerata Köln",
+    "art_url": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Concerto for 2 horns, strings & continuo in E flat major (Tafelmusik III/3), TWV 54:Es1 [G.P. Telemann]",
+    "display_title": "Concerto for 2 horns, strings & continuo in E flat major (Tafelmusik III/3), TWV 54:Es1 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Concerto for 2 horns, strings & continuo in E flat major (Tafelmusik III/3), TWV 54:Es1 [G.P. Telemann]",
+    "length": 921,
+    "duration": 921,
+    "started": 1724037367,
+    "type": "track",
+    "track_id": 933513,
+    "release": "Musique de Table - CD4",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Mindy Rosenfeld, Stephen Schultz",
+    "display_artist": "Mindy Rosenfeld, Stephen Schultz",
+    "title": "Sonata for 2 flutes (or 2 violins) No. 1 in G major (Sonates sans basse No. 1), TWV40:101 [G.P. Telemann]",
+    "display_title": "Sonata for 2 flutes (or 2 violins) No. 1 in G major (Sonates sans basse No. 1), TWV40:101 [G.P. Telemann]",
+    "track": "Mindy Rosenfeld, Stephen Schultz - Sonata for 2 flutes (or 2 violins) No. 1 in G major (Sonates sans basse No. 1), TWV40:101 [G.P. Telemann]",
+    "length": 706,
+    "duration": 706,
+    "started": 1724038283,
+    "type": "track",
+    "track_id": 2984814,
+    "release": "Teleman: Six Sonatas for two flutes, Op. 2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Julian Bream & John Williams",
+    "display_artist": "Julian Bream & John Williams",
+    "title": "Partie polonaise [G.P. Telemann]",
+    "display_title": "Partie polonaise [G.P. Telemann]",
+    "track": "Julian Bream & John Williams - Partie polonaise [G.P. Telemann]",
+    "length": 747,
+    "duration": 747,
+    "started": 1724038990,
+    "type": "track",
+    "track_id": 2860158,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/7/4/8/2/b/77482bfd5b24d489bdafb74e5b07f770.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/4/8/2/b/77482bfd5b24d489bdafb74e5b07f770.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Solo, for violin & continuo in A major (Tafelmusik II), TWV41, A4 [G.P. Telemann]",
+    "display_title": "Solo, for violin & continuo in A major (Tafelmusik II), TWV41, A4 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Solo, for violin & continuo in A major (Tafelmusik II), TWV41, A4 [G.P. Telemann]",
+    "length": 866,
+    "duration": 866,
+    "started": 1724039734,
+    "type": "track",
+    "track_id": 933524,
+    "release": "Musique de Table - CD 3",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in B flat major TWV 55 B11 'La Bourse' [G.P. Telemann]",
+    "display_title": "Overture in B flat major TWV 55 B11 'La Bourse' [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in B flat major TWV 55 B11 'La Bourse' [G.P. Telemann]",
+    "length": 1293,
+    "duration": 1293,
+    "started": 1724040601,
+    "type": "track",
+    "track_id": 951900,
+    "release": "Telemann - Overtures - CD 5",
+    "art_url": "//cdn-images.audioaddict.com/8/f/f/5/c/a/8ff5ca092a79ce23bed793ed66fdd4ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/f/5/c/a/8ff5ca092a79ce23bed793ed66fdd4ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in G minor TWV 55 g2 'La Changeante' [G.P. Telemann]",
+    "display_title": "Overture in G minor TWV 55 g2 'La Changeante' [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in G minor TWV 55 g2 'La Changeante' [G.P. Telemann]",
+    "length": 1060,
+    "duration": 1060,
+    "started": 1724041894,
+    "type": "track",
+    "track_id": 951915,
+    "release": "Telemann - Overtures - CD 8",
+    "art_url": "//cdn-images.audioaddict.com/b/0/f/0/1/6/b0f0161713eed44b172c3aed1d9c9e96.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/f/0/1/6/b0f0161713eed44b172c3aed1d9c9e96.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in C minor TWV 55 c2 [G.P. Telemann]",
+    "display_title": "Overture in C minor TWV 55 c2 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in C minor TWV 55 c2 [G.P. Telemann]",
+    "length": 828,
+    "duration": 828,
+    "started": 1724042953,
+    "type": "track",
+    "track_id": 951884,
+    "release": "Telemann - Overtures - CD 1",
+    "art_url": "//cdn-images.audioaddict.com/a/1/9/6/6/7/a19667fde5e6e103c8a0208e0991361e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/9/6/6/7/a19667fde5e6e103c8a0208e0991361e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae",
+    "display_artist": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae",
+    "title": "Trumpet Concerto in D Major, TWV 51:D7 [G.P. Telemann]",
+    "display_title": "Trumpet Concerto in D Major, TWV 51:D7 [G.P. Telemann]",
+    "track": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae - Trumpet Concerto in D Major, TWV 51:D7 [G.P. Telemann]",
+    "length": 500,
+    "duration": 500,
+    "started": 1724043782,
+    "type": "track",
+    "track_id": 2216715,
+    "release": "Konzerte fur Trompete",
+    "art_url": "//cdn-images.audioaddict.com/3/6/2/9/d/1/3629d1259415d3a39d46afe0976b8854.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/2/9/d/1/3629d1259415d3a39d46afe0976b8854.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Musica Antiqua Koln",
+    "display_artist": "Musica Antiqua Koln",
+    "title": "Concerto In G Major For 2 Violas [G.P. Telemann]",
+    "display_title": "Concerto In G Major For 2 Violas [G.P. Telemann]",
+    "track": "Musica Antiqua Koln - Concerto In G Major For 2 Violas [G.P. Telemann]",
+    "length": 381,
+    "duration": 381,
+    "started": 1724044271,
+    "type": "track",
+    "track_id": 933529,
+    "release": "String Concertos",
+    "art_url": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln",
+    "display_artist": "Camerata Köln",
+    "title": "Trio IV in D for two violins and basso, TWV 42:D1 [G.P. Telemann]",
+    "display_title": "Trio IV in D for two violins and basso, TWV 42:D1 [G.P. Telemann]",
+    "track": "Camerata Köln - Trio IV in D for two violins and basso, TWV 42:D1 [G.P. Telemann]",
+    "length": 472,
+    "duration": 472,
+    "started": 1724044652,
+    "type": "track",
+    "track_id": 1052232,
+    "release": "Trios, 1718 - Camerata Köln",
+    "art_url": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Trio for violin, bassoon (or cello) & continuo in F major (Six Trios No. 6), TWV 42:F1 [G.P. Telemann]",
+    "display_title": "Trio for violin, bassoon (or cello) & continuo in F major (Six Trios No. 6), TWV 42:F1 [G.P. Telemann]",
+    "track": "Parnassi Musici - Trio for violin, bassoon (or cello) & continuo in F major (Six Trios No. 6), TWV 42:F1 [G.P. Telemann]",
+    "length": 430,
+    "duration": 430,
+    "started": 1724045607,
+    "type": "track",
+    "track_id": 1052228,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 5 in A major (Paris Quartets No. 11), TWV 43:A3 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 5 in A major (Paris Quartets No. 11), TWV 43:A3 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Quartet for flute, violin, viola da gamba (or cello) & continuo No. 5 in A major (Paris Quartets No. 11), TWV 43:A3 [G.P. Telemann]",
+    "length": 1091,
+    "duration": 1091,
+    "started": 1724046037,
+    "type": "track",
+    "track_id": 3096553,
+    "release": "Telemann: Paris Quartets",
+    "art_url": "//cdn-images.audioaddict.com/3/8/0/0/a/d/3800ade1cfc712acc153509db533e2b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/0/0/a/d/3800ade1cfc712acc153509db533e2b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Cappella Coloniensis, Hans-Martin Linde",
+    "display_artist": "Cappella Coloniensis, Hans-Martin Linde",
+    "title": "Overture (Suite) In D Major, TWV 55:D15 [G.P. Telemann]",
+    "display_title": "Overture (Suite) In D Major, TWV 55:D15 [G.P. Telemann]",
+    "track": "Cappella Coloniensis, Hans-Martin Linde - Overture (Suite) In D Major, TWV 55:D15 [G.P. Telemann]",
+    "length": 1161,
+    "duration": 1161,
+    "started": 1724047128,
+    "type": "track",
+    "track_id": 3036610,
+    "release": "Telemann: Flute Concerto / Overtures",
+    "art_url": "//cdn-images.audioaddict.com/8/c/a/7/4/c/8ca74c71182a2d650e4104af7718f182.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/a/7/4/c/8ca74c71182a2d650e4104af7718f182.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 2 in A minor [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 2 in A minor [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 2 in A minor [G.P. Telemann]",
+    "length": 247,
+    "duration": 247,
+    "started": 1724048280,
+    "type": "track",
+    "track_id": 1245605,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Suite (Quartet), for violin, flute, viola da gamba (or cello) & continuo No. 1 in E minor (Paris Quartets No. 5), TWV 43:e1 [G.P. Telemann]",
+    "display_title": "Suite (Quartet), for violin, flute, viola da gamba (or cello) & continuo No. 1 in E minor (Paris Quartets No. 5), TWV 43:e1 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Suite (Quartet), for violin, flute, viola da gamba (or cello) & continuo No. 1 in E minor (Paris Quartets No. 5), TWV 43:e1 [G.P. Telemann]",
+    "length": 1115,
+    "duration": 1115,
+    "started": 1724048527,
+    "type": "track",
+    "track_id": 3096557,
+    "release": "Telemann: Paris Quartets 1-12",
+    "art_url": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 8 in E minor [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 8 in E minor [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 8 in E minor [G.P. Telemann]",
+    "length": 248,
+    "duration": 248,
+    "started": 1724049643,
+    "type": "track",
+    "track_id": 1245611,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, M. Stadler",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, M. Stadler",
+    "title": "Concerto for oboe, strings & continuo in C minor, TWV 51-c1 [G.P. Telemann]",
+    "display_title": "Concerto for oboe, strings & continuo in C minor, TWV 51-c1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, M. Stadler - Concerto for oboe, strings & continuo in C minor, TWV 51-c1 [G.P. Telemann]",
+    "length": 589,
+    "duration": 589,
+    "started": 1724049891,
+    "type": "track",
+    "track_id": 933552,
+    "release": "Telemann - Wind Concertos Volume 03",
+    "art_url": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "title": "Concerto in B minor for 2 transverse flutes, basoon, strings & continou, TWV 53-h1 [G.P. Telemann]",
+    "display_title": "Concerto in B minor for 2 transverse flutes, basoon, strings & continou, TWV 53-h1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar - Concerto in B minor for 2 transverse flutes, basoon, strings & continou, TWV 53-h1 [G.P. Telemann]",
+    "length": 670,
+    "duration": 670,
+    "started": 1724050474,
+    "type": "track",
+    "track_id": 933556,
+    "release": "Telemann - Wind Concertos Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Manu Mellaerts, Steven Devolder, Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Manu Mellaerts, Steven Devolder, Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture, suite for 2 trumpets, timpani, strings & continuo in D major, TWV 55:D18 [G.P. Telemann]",
+    "display_title": "Overture, suite for 2 trumpets, timpani, strings & continuo in D major, TWV 55:D18 [G.P. Telemann]",
+    "track": "Manu Mellaerts, Steven Devolder, Collegium Instrumentale Brugense, Patrick Peire - Overture, suite for 2 trumpets, timpani, strings & continuo in D major, TWV 55:D18 [G.P. Telemann]",
+    "length": 1157,
+    "duration": 1157,
+    "started": 1724051137,
+    "type": "track",
+    "track_id": 2216709,
+    "release": "Telemann: Complete Overtures, Vol. 1 (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 7 in D major [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 7 in D major [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 7 in D major [G.P. Telemann]",
+    "length": 224,
+    "duration": 224,
+    "started": 1724052294,
+    "type": "track",
+    "track_id": 1245610,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, M. Schneider",
+    "display_artist": "Camerata Köln, M. Schneider",
+    "title": "Concerto da Camera, for recorder, strings and continuo in G minor, TWV 43g3 [G.P. Telemann]",
+    "display_title": "Concerto da Camera, for recorder, strings and continuo in G minor, TWV 43g3 [G.P. Telemann]",
+    "track": "Camerata Köln, M. Schneider - Concerto da Camera, for recorder, strings and continuo in G minor, TWV 43g3 [G.P. Telemann]",
+    "length": 778,
+    "duration": 778,
+    "started": 1724052518,
+    "type": "track",
+    "track_id": 933538,
+    "release": "Telemann - Wind Concertos Volume 01",
+    "art_url": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Solo (Sonata), for flute & continuo in B minor (Tafelmusik I), TWV 41 [G.P. Telemann]",
+    "display_title": "Solo (Sonata), for flute & continuo in B minor (Tafelmusik I), TWV 41 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Solo (Sonata), for flute & continuo in B minor (Tafelmusik I), TWV 41 [G.P. Telemann]",
+    "length": 752,
+    "duration": 752,
+    "started": 1724053291,
+    "type": "track",
+    "track_id": 933522,
+    "release": "Musique de Table - CD2",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Sinfonia (Conclusion) for 2 flutes, 2 oboes, bassoon, strings & continuo in E minor (Tafelmusik I/6), TWV 50 - 5 [G.P. Telemann]",
+    "display_title": "Sinfonia (Conclusion) for 2 flutes, 2 oboes, bassoon, strings & continuo in E minor (Tafelmusik I/6), TWV 50 - 5 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Sinfonia (Conclusion) for 2 flutes, 2 oboes, bassoon, strings & continuo in E minor (Tafelmusik I/6), TWV 50 - 5 [G.P. Telemann]",
+    "length": 289,
+    "duration": 289,
+    "started": 1724054044,
+    "type": "track",
+    "track_id": 924874,
+    "release": "Musique de Table - CD2",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser",
+    "display_artist": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser",
+    "title": "Concerto for recorder, flute, strings & continuo in E minor, TWV 52:e1 - 1. Largo [G.P. Telemann]",
+    "display_title": "Concerto for recorder, flute, strings & continuo in E minor, TWV 52:e1 - 1. Largo [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser - Concerto for recorder, flute, strings & continuo in E minor, TWV 52:e1 - 1. Largo [G.P. Telemann]",
+    "length": 225,
+    "duration": 225,
+    "started": 1724054330,
+    "type": "track",
+    "track_id": 926185,
+    "release": "Telemann - Wind Concertos Volume 01",
+    "art_url": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Mindy Rosenfeld, Stephen Schultz",
+    "display_artist": "Mindy Rosenfeld, Stephen Schultz",
+    "title": "Sonata for 2 flutes (or 2 violins) No. 3 in A major (Sonates sans basse No. 3), TWV40:103 [G.P. Telemann]",
+    "display_title": "Sonata for 2 flutes (or 2 violins) No. 3 in A major (Sonates sans basse No. 3), TWV40:103 [G.P. Telemann]",
+    "track": "Mindy Rosenfeld, Stephen Schultz - Sonata for 2 flutes (or 2 violins) No. 3 in A major (Sonates sans basse No. 3), TWV40:103 [G.P. Telemann]",
+    "length": 688,
+    "duration": 688,
+    "started": 1724054554,
+    "type": "track",
+    "track_id": 2984816,
+    "release": "Teleman: Six Sonatas for two flutes, Op. 2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in E flat major TWV 55 Es1 [G.P. Telemann]",
+    "display_title": "Overture in E flat major TWV 55 Es1 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in E flat major TWV 55 Es1 [G.P. Telemann]",
+    "length": 843,
+    "duration": 843,
+    "started": 1724055243,
+    "type": "track",
+    "track_id": 951902,
+    "release": "Telemann - Overtures - CD 5",
+    "art_url": "//cdn-images.audioaddict.com/8/f/f/5/c/a/8ff5ca092a79ce23bed793ed66fdd4ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/f/5/c/a/8ff5ca092a79ce23bed793ed66fdd4ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in D major TWV 55 D22 [G.P. Telemann]",
+    "display_title": "Overture in D major TWV 55 D22 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in D major TWV 55 D22 [G.P. Telemann]",
+    "length": 821,
+    "duration": 821,
+    "started": 1724056085,
+    "type": "track",
+    "track_id": 951897,
+    "release": "Telemann - Overtures - CD 4",
+    "art_url": "//cdn-images.audioaddict.com/1/c/d/a/0/1/1cda01bb763121ebfe77480cb2be6ddc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/d/a/0/1/1cda01bb763121ebfe77480cb2be6ddc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Mindy Rosenfeld, Stephen Schultz",
+    "display_artist": "Mindy Rosenfeld, Stephen Schultz",
+    "title": "Sonata for 2 flutes (or 2 violins) No. 2 in D major (Sonates sans basse No. 2), TWV 40:102 [G.P. Telemann]",
+    "display_title": "Sonata for 2 flutes (or 2 violins) No. 2 in D major (Sonates sans basse No. 2), TWV 40:102 [G.P. Telemann]",
+    "track": "Mindy Rosenfeld, Stephen Schultz - Sonata for 2 flutes (or 2 violins) No. 2 in D major (Sonates sans basse No. 2), TWV 40:102 [G.P. Telemann]",
+    "length": 571,
+    "duration": 571,
+    "started": 1724056906,
+    "type": "track",
+    "track_id": 2984815,
+    "release": "Teleman: Six Sonatas for two flutes, Op. 2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture, suite for 2 trumpets, strings & continuo in D major, TWV 55:D17 [G.P. Telemann]",
+    "display_title": "Overture, suite for 2 trumpets, strings & continuo in D major, TWV 55:D17 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture, suite for 2 trumpets, strings & continuo in D major, TWV 55:D17 [G.P. Telemann]",
+    "length": 863,
+    "duration": 863,
+    "started": 1724058153,
+    "type": "track",
+    "track_id": 2216708,
+    "release": "Telemann - Overtures Vol.7",
+    "art_url": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester, Gottfried von der Goltz",
+    "display_artist": "Freiburger Barockorchester, Gottfried von der Goltz",
+    "title": "Concerto a 7 in e-moll [G.P. Telemann]",
+    "display_title": "Concerto a 7 in e-moll [G.P. Telemann]",
+    "track": "Freiburger Barockorchester, Gottfried von der Goltz - Concerto a 7 in e-moll [G.P. Telemann]",
+    "length": 527,
+    "duration": 527,
+    "started": 1724059016,
+    "type": "track",
+    "track_id": 933455,
+    "release": "Freiburger Barockorchester Edition CD04 - Telemann",
+    "art_url": "//cdn-images.audioaddict.com/3/3/a/3/0/4/33a30438b3edde63466ce5f6a773b643.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/a/3/0/4/33a30438b3edde63466ce5f6a773b643.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano",
+    "title": "Concerto in C major for 2 Chalumeaux - 2. Bassoons ripieni, Strings & B.c., TWV 52-C1 [G.P. Telemann]",
+    "display_title": "Concerto in C major for 2 Chalumeaux - 2. Bassoons ripieni, Strings & B.c., TWV 52-C1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano - Concerto in C major for 2 Chalumeaux - 2. Bassoons ripieni, Strings & B.c., TWV 52-C1 [G.P. Telemann]",
+    "length": 823,
+    "duration": 823,
+    "started": 1724059544,
+    "type": "track",
+    "track_id": 933580,
+    "release": "Telemann - Wind Concertos Volume 08",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 2 in A minor (Paris Quartet No. 8), TWV 43:a2 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 2 in A minor (Paris Quartet No. 8), TWV 43:a2 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Quartet for flute, violin, viola da gamba (or cello) & continuo No. 2 in A minor (Paris Quartet No. 8), TWV 43:a2 [G.P. Telemann]",
+    "length": 1184,
+    "duration": 1184,
+    "started": 1724060360,
+    "type": "track",
+    "track_id": 3096550,
+    "release": "Telemann: Paris Quartets 1-12 (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/1/2/5/4/5/c/12545c5e033046d9ee8d40d08dff1dbd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/5/4/5/c/12545c5e033046d9ee8d40d08dff1dbd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, M. Schneider, K. Kaiser",
+    "display_artist": "Camerata Köln, M. Schneider, K. Kaiser",
+    "title": "Concerto in D major, TWV 51-D3, for Flute, Strings & B.c. 'Concerto polonoise' [G.P. Telemann]",
+    "display_title": "Concerto in D major, TWV 51-D3, for Flute, Strings & B.c. 'Concerto polonoise' [G.P. Telemann]",
+    "track": "Camerata Köln, M. Schneider, K. Kaiser - Concerto in D major, TWV 51-D3, for Flute, Strings & B.c. 'Concerto polonoise' [G.P. Telemann]",
+    "length": 551,
+    "duration": 551,
+    "started": 1724061544,
+    "type": "track",
+    "track_id": 933569,
+    "release": "Telemann - Wind Concertos Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln",
+    "display_artist": "Camerata Köln",
+    "title": "Trio III in G for transverse flute, violin and basso, TWV 42:G1 [G.P. Telemann]",
+    "display_title": "Trio III in G for transverse flute, violin and basso, TWV 42:G1 [G.P. Telemann]",
+    "track": "Camerata Köln - Trio III in G for transverse flute, violin and basso, TWV 42:G1 [G.P. Telemann]",
+    "length": 603,
+    "duration": 603,
+    "started": 1724063240,
+    "type": "track",
+    "track_id": 1052231,
+    "release": "Trios, 1718 - Camerata Köln",
+    "art_url": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 1 in A major (Paris Quartets No. 3), TWV 43:A1 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 1 in A major (Paris Quartets No. 3), TWV 43:A1 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Quartet for flute, violin, viola da gamba (or cello) & continuo No. 1 in A major (Paris Quartets No. 3), TWV 43:A1 [G.P. Telemann]",
+    "length": 720,
+    "duration": 720,
+    "started": 1724063838,
+    "type": "track",
+    "track_id": 3096548,
+    "release": "Telemann: Paris Quartets 1-12",
+    "art_url": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 5 in C major [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 5 in C major [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 5 in C major [G.P. Telemann]",
+    "length": 241,
+    "duration": 241,
+    "started": 1724064558,
+    "type": "track",
+    "track_id": 1245608,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 3 in B minor [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 3 in B minor [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 3 in B minor [G.P. Telemann]",
+    "length": 190,
+    "duration": 190,
+    "started": 1724064800,
+    "type": "track",
+    "track_id": 1245606,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Ashley Solomon",
+    "display_artist": "Ashley Solomon",
+    "title": "Methodical Sonata No. 3 in E minor TWV41-e2 [G.P. Telemann]",
+    "display_title": "Methodical Sonata No. 3 in E minor TWV41-e2 [G.P. Telemann]",
+    "track": "Ashley Solomon - Methodical Sonata No. 3 in E minor TWV41-e2 [G.P. Telemann]",
+    "length": 655,
+    "duration": 655,
+    "started": 1724064991,
+    "type": "track",
+    "track_id": 2991391,
+    "release": "Ashley Solomon: The Spohr Collection",
+    "art_url": "//cdn-images.audioaddict.com/2/3/6/d/8/f/236d8f6874a7ca756ec28e9060aa8c6c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/6/d/8/f/236d8f6874a7ca756ec28e9060aa8c6c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "title": "Concerto for oboe (or flute), strings & continuo in G major, TWV 51-G2 [G.P. Telemann]",
+    "display_title": "Concerto for oboe (or flute), strings & continuo in G major, TWV 51-G2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser - Concerto for oboe (or flute), strings & continuo in G major, TWV 51-G2 [G.P. Telemann]",
+    "length": 589,
+    "duration": 589,
+    "started": 1724065646,
+    "type": "track",
+    "track_id": 933551,
+    "release": "Telemann - Wind Concertos Volume 03",
+    "art_url": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 12 in G minor [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 12 in G minor [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 12 in G minor [G.P. Telemann]",
+    "length": 269,
+    "duration": 269,
+    "started": 1724066228,
+    "type": "track",
+    "track_id": 1245604,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Musica Antiqua Koln",
+    "display_artist": "Musica Antiqua Koln",
+    "title": "Divertimento In A Major [G.P. Telemann]",
+    "display_title": "Divertimento In A Major [G.P. Telemann]",
+    "track": "Musica Antiqua Koln - Divertimento In A Major [G.P. Telemann]",
+    "length": 672,
+    "duration": 672,
+    "started": 1724066497,
+    "type": "track",
+    "track_id": 933533,
+    "release": "String Concertos",
+    "art_url": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Sonata for violin, bassoon & continuo in B flat major, TWV 42:B5 [G.P. Telemann]",
+    "display_title": "Sonata for violin, bassoon & continuo in B flat major, TWV 42:B5 [G.P. Telemann]",
+    "track": "Parnassi Musici - Sonata for violin, bassoon & continuo in B flat major, TWV 42:B5 [G.P. Telemann]",
+    "length": 382,
+    "duration": 382,
+    "started": 1724067170,
+    "type": "track",
+    "track_id": 1052226,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, Michael Schneider",
+    "display_artist": "La Stagione Frankfurt, Michael Schneider",
+    "title": "Concerto for recorder, strings & continuo in C major, TWV 51:C1 - 3. Andante [G.P. Telemann]",
+    "display_title": "Concerto for recorder, strings & continuo in C major, TWV 51:C1 - 3. Andante [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, Michael Schneider - Concerto for recorder, strings & continuo in C major, TWV 51:C1 - 3. Andante [G.P. Telemann]",
+    "length": 254,
+    "duration": 254,
+    "started": 1724067545,
+    "type": "track",
+    "track_id": 2913800,
+    "release": "Telemann - Wind Concertos Volume 02",
+    "art_url": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Fantasias (12), for violin, TWV 40:14-25, No.12 in A minor [G.P. Telemann]",
+    "display_title": "Fantasias (12), for violin, TWV 40:14-25, No.12 in A minor [G.P. Telemann]",
+    "track": "Arthur Grumiaux - Fantasias (12), for violin, TWV 40:14-25, No.12 in A minor [G.P. Telemann]",
+    "length": 255,
+    "duration": 255,
+    "started": 1724067799,
+    "type": "track",
+    "track_id": 1049641,
+    "release": "Telemann - Twelve Fantasias For Violin Solo",
+    "art_url": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Mindy Rosenfeld, Stephen Schultz",
+    "display_artist": "Mindy Rosenfeld, Stephen Schultz",
+    "title": "Sonata for 2 flutes (or 2 violins) No. 6 in E major (Sonates sans basse No. 6), TWV40:106 [G.P. Telemann]",
+    "display_title": "Sonata for 2 flutes (or 2 violins) No. 6 in E major (Sonates sans basse No. 6), TWV40:106 [G.P. Telemann]",
+    "track": "Mindy Rosenfeld, Stephen Schultz - Sonata for 2 flutes (or 2 violins) No. 6 in E major (Sonates sans basse No. 6), TWV40:106 [G.P. Telemann]",
+    "length": 620,
+    "duration": 620,
+    "started": 1724068055,
+    "type": "track",
+    "track_id": 2984819,
+    "release": "Teleman: Six Sonatas for two flutes, Op. 2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "title": "Concerto in A minor for 2 Flutes, Bassoon, Strings & B.c., TWV 53-a1 [G.P. Telemann]",
+    "display_title": "Concerto in A minor for 2 Flutes, Bassoon, Strings & B.c., TWV 53-a1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar - Concerto in A minor for 2 Flutes, Bassoon, Strings & B.c., TWV 53-a1 [G.P. Telemann]",
+    "length": 537,
+    "duration": 537,
+    "started": 1724068674,
+    "type": "track",
+    "track_id": 933579,
+    "release": "Telemann - Wind Concertos Volume 08",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Choeur des Jeunes, Pro Arte Orchestra Munich, K. Redel",
+    "display_artist": "Choeur des Jeunes, Pro Arte Orchestra Munich, K. Redel",
+    "title": "Magnificat in C - Chorus [G.P. Telemann]",
+    "display_title": "Magnificat in C - Chorus [G.P. Telemann]",
+    "track": "Choeur des Jeunes, Pro Arte Orchestra Munich, K. Redel - Magnificat in C - Chorus [G.P. Telemann]",
+    "length": 175,
+    "duration": 175,
+    "started": 1724069203,
+    "type": "track",
+    "track_id": 1041467,
+    "release": "Telemann - St Mark Passion, Magnificat in C, Magnificat in G CD2",
+    "art_url": "//cdn-images.audioaddict.com/7/c/8/c/6/1/7c8c61e2d2bcaf41aee87e003d66b2ef.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/8/c/6/1/7c8c61e2d2bcaf41aee87e003d66b2ef.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in A major TWV 55 A2 [G.P. Telemann]",
+    "display_title": "Overture in A major TWV 55 A2 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in A major TWV 55 A2 [G.P. Telemann]",
+    "length": 889,
+    "duration": 889,
+    "started": 1724069377,
+    "type": "track",
+    "track_id": 951908,
+    "release": "Telemann - Overtures - CD 7",
+    "art_url": "//cdn-images.audioaddict.com/9/9/f/1/8/e/99f18e58e3a08f5d43406f8f84dee0ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/f/1/8/e/99f18e58e3a08f5d43406f8f84dee0ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in A minor TWV 55 a2 [G.P. Telemann]",
+    "display_title": "Overture in A minor TWV 55 a2 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in A minor TWV 55 a2 [G.P. Telemann]",
+    "length": 1539,
+    "duration": 1539,
+    "started": 1724070267,
+    "type": "track",
+    "track_id": 951909,
+    "release": "Telemann - Overtures - CD 7",
+    "art_url": "//cdn-images.audioaddict.com/9/9/f/1/8/e/99f18e58e3a08f5d43406f8f84dee0ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/f/1/8/e/99f18e58e3a08f5d43406f8f84dee0ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, M. Schneider, H.P. Westermann",
+    "display_artist": "Camerata Köln, M. Schneider, H.P. Westermann",
+    "title": "Concerto in D major for Oboe - 2. Violins & B.c., TWV 51-D5 [G.P. Telemann]",
+    "display_title": "Concerto in D major for Oboe - 2. Violins & B.c., TWV 51-D5 [G.P. Telemann]",
+    "track": "Camerata Köln, M. Schneider, H.P. Westermann - Concerto in D major for Oboe - 2. Violins & B.c., TWV 51-D5 [G.P. Telemann]",
+    "length": 550,
+    "duration": 550,
+    "started": 1724071806,
+    "type": "track",
+    "track_id": 933581,
+    "release": "Telemann - Wind Concertos Volume 08",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Holland Baroque",
+    "display_artist": "Holland Baroque",
+    "title": "Partie polonoise in B-Flat Major, TWV 39:1 (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "display_title": "Partie polonoise in B-Flat Major, TWV 39:1 (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "track": "Holland Baroque - Partie polonoise in B-Flat Major, TWV 39:1 (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "length": 779,
+    "duration": 779,
+    "started": 1724072350,
+    "type": "track",
+    "track_id": 3096543,
+    "release": "Telemann: Polonoise",
+    "art_url": "//cdn-images.audioaddict.com/5/5/1/9/c/e/5519cec294a4567cfd13005270c7bc4d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/1/9/c/e/5519cec294a4567cfd13005270c7bc4d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "title": "Concerto in E minor for 2 Flutes, Bassoon, Strings & B.c., TWV 52-e2 [G.P. Telemann]",
+    "display_title": "Concerto in E minor for 2 Flutes, Bassoon, Strings & B.c., TWV 52-e2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar - Concerto in E minor for 2 Flutes, Bassoon, Strings & B.c., TWV 52-e2 [G.P. Telemann]",
+    "length": 588,
+    "duration": 588,
+    "started": 1724073130,
+    "type": "track",
+    "track_id": 933563,
+    "release": "Telemann - Wind Concertos Volume 05",
+    "art_url": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in D major TWV 55 D17 [G.P. Telemann]",
+    "display_title": "Overture in D major TWV 55 D17 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in D major TWV 55 D17 [G.P. Telemann]",
+    "length": 863,
+    "duration": 863,
+    "started": 1724073715,
+    "type": "track",
+    "track_id": 951910,
+    "release": "Telemann - Overtures - CD 7",
+    "art_url": "//cdn-images.audioaddict.com/9/9/f/1/8/e/99f18e58e3a08f5d43406f8f84dee0ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/f/1/8/e/99f18e58e3a08f5d43406f8f84dee0ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Musica Antiqua Koln",
+    "display_artist": "Musica Antiqua Koln",
+    "title": "Concerto In G Major For Viola [G.P. Telemann]",
+    "display_title": "Concerto In G Major For Viola [G.P. Telemann]",
+    "track": "Musica Antiqua Koln - Concerto In G Major For Viola [G.P. Telemann]",
+    "length": 658,
+    "duration": 658,
+    "started": 1724074579,
+    "type": "track",
+    "track_id": 933530,
+    "release": "String Concertos",
+    "art_url": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl",
+    "title": "Concerto for oboe, strings & continuo in D minor, TWV 51d1 [G.P. Telemann]",
+    "display_title": "Concerto for oboe, strings & continuo in D minor, TWV 51d1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Baumgartl - Concerto for oboe, strings & continuo in D minor, TWV 51d1 [G.P. Telemann]",
+    "length": 489,
+    "duration": 489,
+    "started": 1724075236,
+    "type": "track",
+    "track_id": 933541,
+    "release": "Telemann - Wind Concertos Volume 01",
+    "art_url": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Concerto for 3 violins, strings & continuo in F major (Tafelmusik II), TWV 53 [G.P. Telemann]",
+    "display_title": "Concerto for 3 violins, strings & continuo in F major (Tafelmusik II), TWV 53 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Concerto for 3 violins, strings & continuo in F major (Tafelmusik II), TWV 53 [G.P. Telemann]",
+    "length": 817,
+    "duration": 817,
+    "started": 1724075718,
+    "type": "track",
+    "track_id": 933514,
+    "release": "Musique de Table - CD 3",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess",
+    "title": "Concerto in F major, TWV 52-F3, for Two Horns, Strings & B.c [G.P. Telemann]",
+    "display_title": "Concerto in F major, TWV 52-F3, for Two Horns, Strings & B.c [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess - Concerto in F major, TWV 52-F3, for Two Horns, Strings & B.c [G.P. Telemann]",
+    "length": 436,
+    "duration": 436,
+    "started": 1724076530,
+    "type": "track",
+    "track_id": 933571,
+    "release": "Telemann - Wind Concertos Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Solo, for oboe & continuo in G minor (Tafelmusik III/5), TWV 41:g6 [G.P. Telemann]",
+    "display_title": "Solo, for oboe & continuo in G minor (Tafelmusik III/5), TWV 41:g6 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Solo, for oboe & continuo in G minor (Tafelmusik III/5), TWV 41:g6 [G.P. Telemann]",
+    "length": 737,
+    "duration": 737,
+    "started": 1724076964,
+    "type": "track",
+    "track_id": 933523,
+    "release": "Musique de Table - CD4",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln",
+    "display_artist": "Camerata Köln",
+    "title": "Trio II in a for recorder, violin and basso, TWV 42:a1 [G.P. Telemann]",
+    "display_title": "Trio II in a for recorder, violin and basso, TWV 42:a1 [G.P. Telemann]",
+    "track": "Camerata Köln - Trio II in a for recorder, violin and basso, TWV 42:a1 [G.P. Telemann]",
+    "length": 594,
+    "duration": 594,
+    "started": 1724077702,
+    "type": "track",
+    "track_id": 1052230,
+    "release": "Trios, 1718 - Camerata Köln",
+    "art_url": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 2 in G minor (Paris Quartet No. 4), TWV 43:g1 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 2 in G minor (Paris Quartet No. 4), TWV 43:g1 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Quartet for flute, violin, viola da gamba (or cello) & continuo No. 2 in G minor (Paris Quartet No. 4), TWV 43:g1 [G.P. Telemann]",
+    "length": 716,
+    "duration": 716,
+    "started": 1724078288,
+    "type": "track",
+    "track_id": 3096551,
+    "release": "Telemann: Paris Quartets 1-12",
+    "art_url": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Quartet for flute, violin, viola da gambe (or cello) & continuo No. 4 in B minor (Paris Quartets No. 10), TWV 43:h2 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, viola da gambe (or cello) & continuo No. 4 in B minor (Paris Quartets No. 10), TWV 43:h2 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Quartet for flute, violin, viola da gambe (or cello) & continuo No. 4 in B minor (Paris Quartets No. 10), TWV 43:h2 [G.P. Telemann]",
+    "length": 1220,
+    "duration": 1220,
+    "started": 1724079005,
+    "type": "track",
+    "track_id": 3096554,
+    "release": "Telemann: Paris Quartets",
+    "art_url": "//cdn-images.audioaddict.com/3/8/0/0/a/d/3800ade1cfc712acc153509db533e2b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/0/0/a/d/3800ade1cfc712acc153509db533e2b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 11 in G major [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 11 in G major [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 11 in G major [G.P. Telemann]",
+    "length": 218,
+    "duration": 218,
+    "started": 1724080606,
+    "type": "track",
+    "track_id": 1245603,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Hamburger Trauermusik, for 3 trumpets, 2 oboes, strings & continuo, TWV 50:A5 [G.P. Telemann]",
+    "display_title": "Hamburger Trauermusik, for 3 trumpets, 2 oboes, strings & continuo, TWV 50:A5 [G.P. Telemann]",
+    "track": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Hamburger Trauermusik, for 3 trumpets, 2 oboes, strings & continuo, TWV 50:A5 [G.P. Telemann]",
+    "length": 589,
+    "duration": 589,
+    "started": 1724080824,
+    "type": "track",
+    "track_id": 2216711,
+    "release": "Trumpet Concertos: M. Haydn, Molter, L. Mozart, Telemann, Torelli (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/4/d/b/8/7/d/4db87d5b48d1281b7d6f1f9eb208cfcb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/b/8/7/d/4db87d5b48d1281b7d6f1f9eb208cfcb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Fantasias (12), for violin, TWV 40:14-25, No.3 in F minor [G.P. Telemann]",
+    "display_title": "Fantasias (12), for violin, TWV 40:14-25, No.3 in F minor [G.P. Telemann]",
+    "track": "Arthur Grumiaux - Fantasias (12), for violin, TWV 40:14-25, No.3 in F minor [G.P. Telemann]",
+    "length": 313,
+    "duration": 313,
+    "started": 1724081399,
+    "type": "track",
+    "track_id": 1049643,
+    "release": "Telemann - Twelve Fantasias For Violin Solo",
+    "art_url": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "title": "Concerto for flute, strings & continuo in E major, TWV 51E1 [G.P. Telemann]",
+    "display_title": "Concerto for flute, strings & continuo in E major, TWV 51E1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser - Concerto for flute, strings & continuo in E major, TWV 51E1 [G.P. Telemann]",
+    "length": 736,
+    "duration": 736,
+    "started": 1724082283,
+    "type": "track",
+    "track_id": 933540,
+    "release": "Telemann - Wind Concertos Volume 01",
+    "art_url": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Quartet for 2 flutes (or violins), cello, bassoon & continuo No. 2 in E minor (Quartets or Trios No. 2), TWV 43:e3 [G.P. Telemann]",
+    "display_title": "Quartet for 2 flutes (or violins), cello, bassoon & continuo No. 2 in E minor (Quartets or Trios No. 2), TWV 43:e3 [G.P. Telemann]",
+    "track": "Parnassi Musici - Quartet for 2 flutes (or violins), cello, bassoon & continuo No. 2 in E minor (Quartets or Trios No. 2), TWV 43:e3 [G.P. Telemann]",
+    "length": 578,
+    "duration": 578,
+    "started": 1724083017,
+    "type": "track",
+    "track_id": 1052220,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider",
+    "display_artist": "La Stagione Frankfurt, M. Schneider",
+    "title": "Concerto in F major for Alto Recorder, Strings & B.c., TWV 51-F1 [G.P. Telemann]",
+    "display_title": "Concerto in F major for Alto Recorder, Strings & B.c., TWV 51-F1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider - Concerto in F major for Alto Recorder, Strings & B.c., TWV 51-F1 [G.P. Telemann]",
+    "length": 796,
+    "duration": 796,
+    "started": 1724083588,
+    "type": "track",
+    "track_id": 933564,
+    "release": "Telemann - Wind Concertos Volume 05",
+    "art_url": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, M. Stadler",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, M. Stadler",
+    "title": "Concerto in A minor, TWV 51-a1, for Oboe, Strings & B.c [G.P. Telemann]",
+    "display_title": "Concerto in A minor, TWV 51-a1, for Oboe, Strings & B.c [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, M. Stadler - Concerto in A minor, TWV 51-a1, for Oboe, Strings & B.c [G.P. Telemann]",
+    "length": 463,
+    "duration": 463,
+    "started": 1724084377,
+    "type": "track",
+    "track_id": 933565,
+    "release": "Telemann - Wind Concertos Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Sonata for trumpet, 2 violins, viola & continuo in D major 'Sonate spirituosa', TWV 44:1 [G.P. Telemann]",
+    "display_title": "Sonata for trumpet, 2 violins, viola & continuo in D major 'Sonate spirituosa', TWV 44:1 [G.P. Telemann]",
+    "track": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Sonata for trumpet, 2 violins, viola & continuo in D major 'Sonate spirituosa', TWV 44:1 [G.P. Telemann]",
+    "length": 476,
+    "duration": 476,
+    "started": 1724084834,
+    "type": "track",
+    "track_id": 2216713,
+    "release": "Trumpet Concertos (complete) (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, S. Azzolini",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, S. Azzolini",
+    "title": "Concerto in F major for Recorder, Bassoon, Strings & B.c., TWV 52-F1 [G.P. Telemann]",
+    "display_title": "Concerto in F major for Recorder, Bassoon, Strings & B.c., TWV 52-F1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, S. Azzolini - Concerto in F major for Recorder, Bassoon, Strings & B.c., TWV 52-F1 [G.P. Telemann]",
+    "length": 1092,
+    "duration": 1092,
+    "started": 1724085310,
+    "type": "track",
+    "track_id": 933577,
+    "release": "Telemann - Wind Concertos Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, M. Stadler",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, M. Stadler",
+    "title": "Concerto in A Major for oboe, strings & continou, TWV 51-A2 [G.P. Telemann]",
+    "display_title": "Concerto in A Major for oboe, strings & continou, TWV 51-A2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, M. Stadler - Concerto in A Major for oboe, strings & continou, TWV 51-A2 [G.P. Telemann]",
+    "length": 903,
+    "duration": 903,
+    "started": 1724086395,
+    "type": "track",
+    "track_id": 933554,
+    "release": "Telemann - Wind Concertos Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in D major TWV 55 D23 [G.P. Telemann]",
+    "display_title": "Overture in D major TWV 55 D23 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in D major TWV 55 D23 [G.P. Telemann]",
+    "length": 1161,
+    "duration": 1161,
+    "started": 1724087292,
+    "type": "track",
+    "track_id": 951893,
+    "release": "Telemann - Overtures - CD 3",
+    "art_url": "//cdn-images.audioaddict.com/8/1/5/1/7/e/81517e44af432bb825dcc7023a70175f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/5/1/7/e/81517e44af432bb825dcc7023a70175f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in F major TWV 55 F4 [G.P. Telemann]",
+    "display_title": "Overture in F major TWV 55 F4 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in F major TWV 55 F4 [G.P. Telemann]",
+    "length": 673,
+    "duration": 673,
+    "started": 1724088454,
+    "type": "track",
+    "track_id": 951903,
+    "release": "Telemann - Overtures - CD 5",
+    "art_url": "//cdn-images.audioaddict.com/8/f/f/5/c/a/8ff5ca092a79ce23bed793ed66fdd4ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/f/5/c/a/8ff5ca092a79ce23bed793ed66fdd4ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Sonata for 2 violins (or 2 flutes) & continuo in C minor (Quartets or Trios No. 2), TWV 42:c1 [G.P. Telemann]",
+    "display_title": "Sonata for 2 violins (or 2 flutes) & continuo in C minor (Quartets or Trios No. 2), TWV 42:c1 [G.P. Telemann]",
+    "track": "Parnassi Musici - Sonata for 2 violins (or 2 flutes) & continuo in C minor (Quartets or Trios No. 2), TWV 42:c1 [G.P. Telemann]",
+    "length": 419,
+    "duration": 419,
+    "started": 1724089128,
+    "type": "track",
+    "track_id": 1052222,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in D minor TWV 55 d3 [G.P. Telemann]",
+    "display_title": "Overture in D minor TWV 55 d3 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in D minor TWV 55 d3 [G.P. Telemann]",
+    "length": 1238,
+    "duration": 1238,
+    "started": 1724090228,
+    "type": "track",
+    "track_id": 951901,
+    "release": "Telemann - Overtures - CD 5",
+    "art_url": "//cdn-images.audioaddict.com/8/f/f/5/c/a/8ff5ca092a79ce23bed793ed66fdd4ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/f/5/c/a/8ff5ca092a79ce23bed793ed66fdd4ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl, M. Stadler, M. Schaar",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl, M. Stadler, M. Schaar",
+    "title": "Concerto for 2 oboes, basson & continuo in D minor, TWV 53-d1 [G.P. Telemann]",
+    "display_title": "Concerto for 2 oboes, basson & continuo in D minor, TWV 53-d1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Baumgartl, M. Stadler, M. Schaar - Concerto for 2 oboes, basson & continuo in D minor, TWV 53-d1 [G.P. Telemann]",
+    "length": 590,
+    "duration": 590,
+    "started": 1724091466,
+    "type": "track",
+    "track_id": 933544,
+    "release": "Telemann - Wind Concertos Volume 02",
+    "art_url": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Amsterdam Baroque Orchestra, Ton Koopman",
+    "display_artist": "Amsterdam Baroque Orchestra, Ton Koopman",
+    "title": "Overture, suite for trumpet, oboe, strings & continuo in D major (Tafelmusik II:1), TWV 55:D1 [G.P. Telemann]",
+    "display_title": "Overture, suite for trumpet, oboe, strings & continuo in D major (Tafelmusik II:1), TWV 55:D1 [G.P. Telemann]",
+    "track": "Amsterdam Baroque Orchestra, Ton Koopman - Overture, suite for trumpet, oboe, strings & continuo in D major (Tafelmusik II:1), TWV 55:D1 [G.P. Telemann]",
+    "length": 585,
+    "duration": 585,
+    "started": 1724092049,
+    "type": "track",
+    "track_id": 3025586,
+    "release": "Telemann: Tafelmusik (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/7/5/9/0/9/2/759092e14b79087d0c78168bc5ecf39a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/9/0/9/2/759092e14b79087d0c78168bc5ecf39a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser",
+    "display_artist": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser",
+    "title": "Concerto for recorder, flute, strings & continuo in E minor, TWV 52:e1 - 3. Largo [G.P. Telemann]",
+    "display_title": "Concerto for recorder, flute, strings & continuo in E minor, TWV 52:e1 - 3. Largo [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser - Concerto for recorder, flute, strings & continuo in E minor, TWV 52:e1 - 3. Largo [G.P. Telemann]",
+    "length": 207,
+    "duration": 207,
+    "started": 1724092635,
+    "type": "track",
+    "track_id": 926187,
+    "release": "Telemann - Wind Concertos Volume 01",
+    "art_url": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Ladislav Kyselak, Capella Istropolitana, Richard Edlinger",
+    "display_artist": "Ladislav Kyselak, Capella Istropolitana, Richard Edlinger",
+    "title": "Concerto for Viola in G major, TV51, No. G9 - 1. Largo [G.P. Telemann]",
+    "display_title": "Concerto for Viola in G major, TV51, No. G9 - 1. Largo [G.P. Telemann]",
+    "track": "Ladislav Kyselak, Capella Istropolitana, Richard Edlinger - Concerto for Viola in G major, TV51, No. G9 - 1. Largo [G.P. Telemann]",
+    "length": 224,
+    "duration": 224,
+    "started": 1724092842,
+    "type": "track",
+    "track_id": 1041883,
+    "release": "Great Baroque Masterpieces CD9",
+    "art_url": "//cdn-images.audioaddict.com/9/5/9/0/6/8/95906851bfe384eae191c9bb88833576.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/9/0/6/8/95906851bfe384eae191c9bb88833576.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "display_artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Sinfonia melodica in C Major, TWV 50:2 [G.P. Telemann]",
+    "display_title": "Sinfonia melodica in C Major, TWV 50:2 [G.P. Telemann]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Sinfonia melodica in C Major, TWV 50:2 [G.P. Telemann]",
+    "length": 575,
+    "duration": 575,
+    "started": 1724093065,
+    "type": "track",
+    "track_id": 3087461,
+    "release": "Telemann: Ino",
+    "art_url": "//cdn-images.audioaddict.com/a/f/1/8/1/7/af1817f80bc934f48e32c28c486d2925.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/1/8/1/7/af1817f80bc934f48e32c28c486d2925.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Concerto for flute, violin, viola da gamba (or cello) & continuo in G major No. 1 (Paris Quartets No. 1), TWV 43:G1 [G.P. Telemann]",
+    "display_title": "Concerto for flute, violin, viola da gamba (or cello) & continuo in G major No. 1 (Paris Quartets No. 1), TWV 43:G1 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Concerto for flute, violin, viola da gamba (or cello) & continuo in G major No. 1 (Paris Quartets No. 1), TWV 43:G1 [G.P. Telemann]",
+    "length": 593,
+    "duration": 593,
+    "started": 1724093639,
+    "type": "track",
+    "track_id": 3096547,
+    "release": "Telemann: Paris Quartets 1-12",
+    "art_url": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Concerto in F major for 2 Horns, Strings & B.c., TWV 52",
+    "display_artist": "Concerto in F major for 2 Horns, Strings & B.c., TWV 52",
+    "title": "Concerto in F major for 2 Horns, Strings & B.c., TWV 52-F4 [G.P. Telemann]",
+    "display_title": "Concerto in F major for 2 Horns, Strings & B.c., TWV 52-F4 [G.P. Telemann]",
+    "track": "Concerto in F major for 2 Horns, Strings & B.c., TWV 52 - Concerto in F major for 2 Horns, Strings & B.c., TWV 52-F4 [G.P. Telemann]",
+    "length": 476,
+    "duration": 476,
+    "started": 1724096805,
+    "type": "track",
+    "track_id": 933582,
+    "release": "Telemann - Wind Concertos Volume 08",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Concerto for oboe, strings & continuo in E minor, TWV 51:e1 [G.P. Telemann]",
+    "display_title": "Concerto for oboe, strings & continuo in E minor, TWV 51:e1 [G.P. Telemann]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Concerto for oboe, strings & continuo in E minor, TWV 51:e1 [G.P. Telemann]",
+    "length": 663,
+    "duration": 663,
+    "started": 1724097273,
+    "type": "track",
+    "track_id": 3097385,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 1 in D major (Paris Quartet No. 7), TWV 43:D3 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 1 in D major (Paris Quartet No. 7), TWV 43:D3 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Quartet for flute, violin, viola da gamba (or cello) & continuo No. 1 in D major (Paris Quartet No. 7), TWV 43:D3 [G.P. Telemann]",
+    "length": 1078,
+    "duration": 1078,
+    "started": 1724097937,
+    "type": "track",
+    "track_id": 3096549,
+    "release": "Telemann: Paris Quartets 1-12 (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/1/2/5/4/5/c/12545c5e033046d9ee8d40d08dff1dbd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/5/4/5/c/12545c5e033046d9ee8d40d08dff1dbd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in D major TWV 55 D13 'La Gaillarde' [G.P. Telemann]",
+    "display_title": "Overture in D major TWV 55 D13 'La Gaillarde' [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in D major TWV 55 D13 'La Gaillarde' [G.P. Telemann]",
+    "length": 766,
+    "duration": 766,
+    "started": 1724100199,
+    "type": "track",
+    "track_id": 951912,
+    "release": "Telemann - Overtures - CD 8",
+    "art_url": "//cdn-images.audioaddict.com/b/0/f/0/1/6/b0f0161713eed44b172c3aed1d9c9e96.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/f/0/1/6/b0f0161713eed44b172c3aed1d9c9e96.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Håkan Hardenberger, Simon Preston",
+    "display_artist": "Håkan Hardenberger, Simon Preston",
+    "title": "Musique Heroïque (12), marches for 2 instruments & continuo (a.k.a \"Heldenmusik\"), TWV 50:31-42 [G.P. Telemann]",
+    "display_title": "Musique Heroïque (12), marches for 2 instruments & continuo (a.k.a \"Heldenmusik\"), TWV 50:31-42 [G.P. Telemann]",
+    "track": "Håkan Hardenberger, Simon Preston - Musique Heroïque (12), marches for 2 instruments & continuo (a.k.a \"Heldenmusik\"), TWV 50:31-42 [G.P. Telemann]",
+    "length": 1187,
+    "duration": 1187,
+    "started": 1724100965,
+    "type": "track",
+    "track_id": 1244988,
+    "release": "The Art of the Trumpet (Disc 2/5)",
+    "art_url": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Quartet for flute, violin, cello & continuo in E minor (Tafelmusik III), TWV 43 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, cello & continuo in E minor (Tafelmusik III), TWV 43 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Quartet for flute, violin, cello & continuo in E minor (Tafelmusik III), TWV 43 [G.P. Telemann]",
+    "length": 532,
+    "duration": 532,
+    "started": 1724102149,
+    "type": "track",
+    "track_id": 933521,
+    "release": "The Complete Tafelmusik - Cd4",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess",
+    "title": "Concerto for 2 horns, strings & continuo in D major, TWV 52-D2 [G.P. Telemann]",
+    "display_title": "Concerto for 2 horns, strings & continuo in D major, TWV 52-D2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess - Concerto for 2 horns, strings & continuo in D major, TWV 52-D2 [G.P. Telemann]",
+    "length": 442,
+    "duration": 442,
+    "started": 1724102681,
+    "type": "track",
+    "track_id": 933539,
+    "release": "Telemann - Wind Concertos Volume 01",
+    "art_url": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "display_artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Overture in D Major, TWV 55:D21 [G.P. Telemann]",
+    "display_title": "Overture in D Major, TWV 55:D21 [G.P. Telemann]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Overture in D Major, TWV 55:D21 [G.P. Telemann]",
+    "length": 1033,
+    "duration": 1033,
+    "started": 1724103335,
+    "type": "track",
+    "track_id": 3087460,
+    "release": "Telemann: Ino",
+    "art_url": "//cdn-images.audioaddict.com/a/f/1/8/1/7/af1817f80bc934f48e32c28c486d2925.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/1/8/1/7/af1817f80bc934f48e32c28c486d2925.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl",
+    "title": "Concerto in D minor for Oboe, Strings & B.c., TWV 51-d2 [G.P. Telemann]",
+    "display_title": "Concerto in D minor for Oboe, Strings & B.c., TWV 51-d2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Baumgartl - Concerto in D minor for Oboe, Strings & B.c., TWV 51-d2 [G.P. Telemann]",
+    "length": 838,
+    "duration": 838,
+    "started": 1724104369,
+    "type": "track",
+    "track_id": 933561,
+    "release": "Telemann - Wind Concertos Volume 05",
+    "art_url": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in D major TWV 55 D18 [G.P. Telemann]",
+    "display_title": "Overture in D major TWV 55 D18 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in D major TWV 55 D18 [G.P. Telemann]",
+    "length": 1157,
+    "duration": 1157,
+    "started": 1724105198,
+    "type": "track",
+    "track_id": 951885,
+    "release": "Telemann - Overtures - CD 1",
+    "art_url": "//cdn-images.audioaddict.com/a/1/9/6/6/7/a19667fde5e6e103c8a0208e0991361e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/9/6/6/7/a19667fde5e6e103c8a0208e0991361e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in G major TWV 55 G4 'Des Nations anciens et modernes' [G.P. Telemann]",
+    "display_title": "Overture in G major TWV 55 G4 'Des Nations anciens et modernes' [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in G major TWV 55 G4 'Des Nations anciens et modernes' [G.P. Telemann]",
+    "length": 917,
+    "duration": 917,
+    "started": 1724106356,
+    "type": "track",
+    "track_id": 951894,
+    "release": "Telemann - Overtures - CD 3",
+    "art_url": "//cdn-images.audioaddict.com/8/1/5/1/7/e/81517e44af432bb825dcc7023a70175f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/5/1/7/e/81517e44af432bb825dcc7023a70175f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Concerto for 3 trumpets, 2 oboes, timpani, strings & continuo in D major, TWV 54:D3 [G.P. Telemann]",
+    "display_title": "Concerto for 3 trumpets, 2 oboes, timpani, strings & continuo in D major, TWV 54:D3 [G.P. Telemann]",
+    "track": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Concerto for 3 trumpets, 2 oboes, timpani, strings & continuo in D major, TWV 54:D3 [G.P. Telemann]",
+    "length": 562,
+    "duration": 562,
+    "started": 1724107929,
+    "type": "track",
+    "track_id": 2216710,
+    "release": "Trumpet Concertos: M. Haydn, Molter, L. Mozart, Telemann, Torelli (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/4/d/b/8/7/d/4db87d5b48d1281b7d6f1f9eb208cfcb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/b/8/7/d/4db87d5b48d1281b7d6f1f9eb208cfcb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Elephant House Quartet",
+    "display_artist": "Elephant House Quartet",
+    "title": "Trio sonata No. 10 in A Minor (from “Essercizii musici”) for recorder, violin & basso continuo, TWV 42:a4 [G.P. Telemann]",
+    "display_title": "Trio sonata No. 10 in A Minor (from “Essercizii musici”) for recorder, violin & basso continuo, TWV 42:a4 [G.P. Telemann]",
+    "track": "Elephant House Quartet - Trio sonata No. 10 in A Minor (from “Essercizii musici”) for recorder, violin & basso continuo, TWV 42:a4 [G.P. Telemann]",
+    "length": 640,
+    "duration": 640,
+    "started": 1724108483,
+    "type": "track",
+    "track_id": 2954160,
+    "release": "Telemann's Garden",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider",
+    "display_artist": "La Stagione Frankfurt, M. Schneider",
+    "title": "Concerto for recorder, strings & continuo in C major, TWV 51-C1 [G.P. Telemann]",
+    "display_title": "Concerto for recorder, strings & continuo in C major, TWV 51-C1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider - Concerto for recorder, strings & continuo in C major, TWV 51-C1 [G.P. Telemann]",
+    "length": 986,
+    "duration": 986,
+    "started": 1724109124,
+    "type": "track",
+    "track_id": 933547,
+    "release": "Telemann - Wind Concertos Volume 02",
+    "art_url": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, J. Schultess",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, J. Schultess",
+    "title": "Concerto in D major for Corno da caccia, Strings & B.c., TWV 51-D8 [G.P. Telemann]",
+    "display_title": "Concerto in D major for Corno da caccia, Strings & B.c., TWV 51-D8 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, J. Schultess - Concerto in D major for Corno da caccia, Strings & B.c., TWV 51-D8 [G.P. Telemann]",
+    "length": 521,
+    "duration": 521,
+    "started": 1724110105,
+    "type": "track",
+    "track_id": 933575,
+    "release": "Telemann - Wind Concertos Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, Martin Hublow",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, Martin Hublow",
+    "title": "Concerto in A minor for 2 recorders, strings & continuo, TWV 52-a2 [G.P. Telemann]",
+    "display_title": "Concerto in A minor for 2 recorders, strings & continuo, TWV 52-a2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, Martin Hublow - Concerto in A minor for 2 recorders, strings & continuo, TWV 52-a2 [G.P. Telemann]",
+    "length": 559,
+    "duration": 559,
+    "started": 1724110810,
+    "type": "track",
+    "track_id": 933555,
+    "release": "Telemann - Wind Concertos Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, Michael Schneider, Hannes Rux",
+    "display_artist": "Camerata Köln, Michael Schneider, Hannes Rux",
+    "title": "Concerto (Quartetto) in D major for Trumpet, 2 Oboes & B.c., TWV 43:D7 [G.P. Telemann]",
+    "display_title": "Concerto (Quartetto) in D major for Trumpet, 2 Oboes & B.c., TWV 43:D7 [G.P. Telemann]",
+    "track": "Camerata Köln, Michael Schneider, Hannes Rux - Concerto (Quartetto) in D major for Trumpet, 2 Oboes & B.c., TWV 43:D7 [G.P. Telemann]",
+    "length": 784,
+    "duration": 784,
+    "started": 1724111361,
+    "type": "track",
+    "track_id": 933578,
+    "release": "Telemann - Wind Concertos Volume 08",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in B flat major TWV 55 B7 [G.P. Telemann]",
+    "display_title": "Overture in B flat major TWV 55 B7 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in B flat major TWV 55 B7 [G.P. Telemann]",
+    "length": 750,
+    "duration": 750,
+    "started": 1724119538,
+    "type": "track",
+    "track_id": 951888,
+    "release": "Telemann - Overtures - CD 2",
+    "art_url": "//cdn-images.audioaddict.com/d/a/4/8/3/4/da4834af3af522f1e25286d788490fca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/4/8/3/4/da4834af3af522f1e25286d788490fca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, M. Hublow",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, M. Hublow",
+    "title": "Concerto in B major, TWV 52-B1, for Two Recorders, Strings & B.c [G.P. Telemann]",
+    "display_title": "Concerto in B major, TWV 52-B1, for Two Recorders, Strings & B.c [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, M. Hublow - Concerto in B major, TWV 52-B1, for Two Recorders, Strings & B.c [G.P. Telemann]",
+    "length": 460,
+    "duration": 460,
+    "started": 1724120285,
+    "type": "track",
+    "track_id": 933566,
+    "release": "Telemann - Wind Concertos Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Sonata for 2 violins (or 2 flutes) & continuo in A major, TWV 42:A2 [G.P. Telemann]",
+    "display_title": "Sonata for 2 violins (or 2 flutes) & continuo in A major, TWV 42:A2 [G.P. Telemann]",
+    "track": "Parnassi Musici - Sonata for 2 violins (or 2 flutes) & continuo in A major, TWV 42:A2 [G.P. Telemann]",
+    "length": 461,
+    "duration": 461,
+    "started": 1724120737,
+    "type": "track",
+    "track_id": 1052221,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, M. Stadler, L. Baumgartl",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, M. Stadler, L. Baumgartl",
+    "title": "Concerto in A major for 2 Oboes d'amore - 2. Violins & B.c., TWV 52-A1 [G.P. Telemann]",
+    "display_title": "Concerto in A major for 2 Oboes d'amore - 2. Violins & B.c., TWV 52-A1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, M. Stadler, L. Baumgartl - Concerto in A major for 2 Oboes d'amore - 2. Violins & B.c., TWV 52-A1 [G.P. Telemann]",
+    "length": 544,
+    "duration": 544,
+    "started": 1724121908,
+    "type": "track",
+    "track_id": 933559,
+    "release": "Telemann - Wind Concertos Volume 05",
+    "art_url": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, M. Schneider, K. Kaiser",
+    "display_artist": "Camerata Köln, M. Schneider, K. Kaiser",
+    "title": "Concerto for flute, strings & continuo in D major, TWV 51-D4 [G.P. Telemann]",
+    "display_title": "Concerto for flute, strings & continuo in D major, TWV 51-D4 [G.P. Telemann]",
+    "track": "Camerata Köln, M. Schneider, K. Kaiser - Concerto for flute, strings & continuo in D major, TWV 51-D4 [G.P. Telemann]",
+    "length": 575,
+    "duration": 575,
+    "started": 1724122446,
+    "type": "track",
+    "track_id": 933550,
+    "release": "Telemann - Wind Concertos Volume 03",
+    "art_url": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess",
+    "title": "Concerto in E flat major for 2 Horns, 2 Oboe ripieni, Strings & B.c., TWV 52-Es1 [G.P. Telemann]",
+    "display_title": "Concerto in E flat major for 2 Horns, 2 Oboe ripieni, Strings & B.c., TWV 52-Es1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, U. Hubner, J. Schultess - Concerto in E flat major for 2 Horns, 2 Oboe ripieni, Strings & B.c., TWV 52-Es1 [G.P. Telemann]",
+    "length": 357,
+    "duration": 357,
+    "started": 1724123015,
+    "type": "track",
+    "track_id": 933562,
+    "release": "Telemann - Wind Concertos Volume 05",
+    "art_url": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/4/d/7/6/aa4d766e038ec8f2a91e6f91d5c3a781.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln",
+    "display_artist": "Camerata Köln",
+    "title": "Trio VI in F for violin, violoncello and basso, TWV 42:F1 [G.P. Telemann]",
+    "display_title": "Trio VI in F for violin, violoncello and basso, TWV 42:F1 [G.P. Telemann]",
+    "track": "Camerata Köln - Trio VI in F for violin, violoncello and basso, TWV 42:F1 [G.P. Telemann]",
+    "length": 411,
+    "duration": 411,
+    "started": 1724123366,
+    "type": "track",
+    "track_id": 1052234,
+    "release": "Trios, 1718 - Camerata Köln",
+    "art_url": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Christoph Huntgeburth, Gunther Holler, Cappella Coloniensis, Hans-Martin Linde",
+    "display_artist": "Christoph Huntgeburth, Gunther Holler, Cappella Coloniensis, Hans-Martin Linde",
+    "title": "Concerto For 2 Flutes And Lute In E Minor, TWV 53:E2 [G.P. Telemann]",
+    "display_title": "Concerto For 2 Flutes And Lute In E Minor, TWV 53:E2 [G.P. Telemann]",
+    "track": "Christoph Huntgeburth, Gunther Holler, Cappella Coloniensis, Hans-Martin Linde - Concerto For 2 Flutes And Lute In E Minor, TWV 53:E2 [G.P. Telemann]",
+    "length": 698,
+    "duration": 698,
+    "started": 1724124432,
+    "type": "track",
+    "track_id": 3036612,
+    "release": "Telemann: Flute Concerto / Overtures",
+    "art_url": "//cdn-images.audioaddict.com/8/c/a/7/4/c/8ca74c71182a2d650e4104af7718f182.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/a/7/4/c/8ca74c71182a2d650e4104af7718f182.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Quartet for 2 flutes, recorder, bassoon (or cello or recorder) & continuo in D minor (Tafelmusik II), TWV 43 [G.P. Telemann]",
+    "display_title": "Quartet for 2 flutes, recorder, bassoon (or cello or recorder) & continuo in D minor (Tafelmusik II), TWV 43 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Quartet for 2 flutes, recorder, bassoon (or cello or recorder) & continuo in D minor (Tafelmusik II), TWV 43 [G.P. Telemann]",
+    "length": 966,
+    "duration": 966,
+    "started": 1724125121,
+    "type": "track",
+    "track_id": 933519,
+    "release": "Musique de Table - CD2",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester, Gottfried von der Goltz",
+    "display_artist": "Freiburger Barockorchester, Gottfried von der Goltz",
+    "title": "Ouverture in f-moll [G.P. Telemann]",
+    "display_title": "Ouverture in f-moll [G.P. Telemann]",
+    "track": "Freiburger Barockorchester, Gottfried von der Goltz - Ouverture in f-moll [G.P. Telemann]",
+    "length": 1365,
+    "duration": 1365,
+    "started": 1724126086,
+    "type": "track",
+    "track_id": 933458,
+    "release": "Freiburger Barockorchester Edition CD04 - Telemann",
+    "art_url": "//cdn-images.audioaddict.com/3/3/a/3/0/4/33a30438b3edde63466ce5f6a773b643.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/a/3/0/4/33a30438b3edde63466ce5f6a773b643.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Holland Baroque",
+    "display_artist": "Holland Baroque",
+    "title": "Quartet in G Major, TWV 43:G7 \"Concerto polonois\" (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "display_title": "Quartet in G Major, TWV 43:G7 \"Concerto polonois\" (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "track": "Holland Baroque - Quartet in G Major, TWV 43:G7 \"Concerto polonois\" (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "length": 513,
+    "duration": 513,
+    "started": 1724127555,
+    "type": "track",
+    "track_id": 3096545,
+    "release": "Telemann: Polonoise",
+    "art_url": "//cdn-images.audioaddict.com/5/5/1/9/c/e/5519cec294a4567cfd13005270c7bc4d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/1/9/c/e/5519cec294a4567cfd13005270c7bc4d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Concerto for oboe, strings & continuo in F minor, TWV 51:f1 [G.P. Telemann]",
+    "display_title": "Concerto for oboe, strings & continuo in F minor, TWV 51:f1 [G.P. Telemann]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Concerto for oboe, strings & continuo in F minor, TWV 51:f1 [G.P. Telemann]",
+    "length": 463,
+    "duration": 463,
+    "started": 1724129019,
+    "type": "track",
+    "track_id": 3097386,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Fantasias (12), for violin, TWV 40:14-25, No.7 in E-flat major [G.P. Telemann]",
+    "display_title": "Fantasias (12), for violin, TWV 40:14-25, No.7 in E-flat major [G.P. Telemann]",
+    "track": "Arthur Grumiaux - Fantasias (12), for violin, TWV 40:14-25, No.7 in E-flat major [G.P. Telemann]",
+    "length": 368,
+    "duration": 368,
+    "started": 1724129484,
+    "type": "track",
+    "track_id": 1049647,
+    "release": "Telemann - Twelve Fantasias For Violin Solo",
+    "art_url": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in B flat major TWV 55 B5 'Volker' [G.P. Telemann]",
+    "display_title": "Overture in B flat major TWV 55 B5 'Volker' [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in B flat major TWV 55 B5 'Volker' [G.P. Telemann]",
+    "length": 1178,
+    "duration": 1178,
+    "started": 1724129853,
+    "type": "track",
+    "track_id": 951887,
+    "release": "Telemann - Overtures - CD 2",
+    "art_url": "//cdn-images.audioaddict.com/d/a/4/8/3/4/da4834af3af522f1e25286d788490fca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/4/8/3/4/da4834af3af522f1e25286d788490fca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "title": "Concerto for recorder, flute, strings & continuo in E minor, TWV 52e1 [G.P. Telemann]",
+    "display_title": "Concerto for recorder, flute, strings & continuo in E minor, TWV 52e1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser - Concerto for recorder, flute, strings & continuo in E minor, TWV 52e1 [G.P. Telemann]",
+    "length": 833,
+    "duration": 833,
+    "started": 1724132215,
+    "type": "track",
+    "track_id": 933542,
+    "release": "Telemann - Wind Concertos Volume 01",
+    "art_url": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/e/b/9/7/2ceb9773ad8765b475aefb2d37da2f73.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Concerto for violin, cello, trumpet, strings & continuo in D major, TWV 53:D5 [G.P. Telemann]",
+    "display_title": "Concerto for violin, cello, trumpet, strings & continuo in D major, TWV 53:D5 [G.P. Telemann]",
+    "track": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Concerto for violin, cello, trumpet, strings & continuo in D major, TWV 53:D5 [G.P. Telemann]",
+    "length": 783,
+    "duration": 783,
+    "started": 1724133704,
+    "type": "track",
+    "track_id": 2216712,
+    "release": "Trumpet Concertos (complete) (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Mindy Rosenfeld, Stephen Schultz",
+    "display_artist": "Mindy Rosenfeld, Stephen Schultz",
+    "title": "Sonata for 2 flutes (or 2 violins) No. 5 in B minor (Sonates sans basse No. 5), TWV40:105 [G.P. Telemann]",
+    "display_title": "Sonata for 2 flutes (or 2 violins) No. 5 in B minor (Sonates sans basse No. 5), TWV40:105 [G.P. Telemann]",
+    "track": "Mindy Rosenfeld, Stephen Schultz - Sonata for 2 flutes (or 2 violins) No. 5 in B minor (Sonates sans basse No. 5), TWV40:105 [G.P. Telemann]",
+    "length": 712,
+    "duration": 712,
+    "started": 1724134480,
+    "type": "track",
+    "track_id": 2984818,
+    "release": "Teleman: Six Sonatas for two flutes, Op. 2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln",
+    "display_artist": "Camerata Köln",
+    "title": "Trio V in g for violin, viola da gamba and basso, TWV 42:g1 [G.P. Telemann]",
+    "display_title": "Trio V in g for violin, viola da gamba and basso, TWV 42:g1 [G.P. Telemann]",
+    "track": "Camerata Köln - Trio V in g for violin, viola da gamba and basso, TWV 42:g1 [G.P. Telemann]",
+    "length": 620,
+    "duration": 620,
+    "started": 1724136007,
+    "type": "track",
+    "track_id": 1052233,
+    "release": "Trios, 1718 - Camerata Köln",
+    "art_url": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/0/9/1/a/ad091ab0ddc955b8ad9de65fd688f28e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in F minor TWV 55 f1 [G.P. Telemann]",
+    "display_title": "Overture in F minor TWV 55 f1 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in F minor TWV 55 f1 [G.P. Telemann]",
+    "length": 1213,
+    "duration": 1213,
+    "started": 1724136620,
+    "type": "track",
+    "track_id": 951906,
+    "release": "Telemann - Overtures - CD 6",
+    "art_url": "//cdn-images.audioaddict.com/5/e/d/3/d/5/5ed3d5af8831a193152a01a604886af7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/d/3/d/5/5ed3d5af8831a193152a01a604886af7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "12. Ouverture en Ré majeur",
+    "display_artist": "12. Ouverture en Ré majeur",
+    "title": "Ouverture en Re majeur - TWV 23 - 1. - Jubeloratorium... [G.P. Telemann]",
+    "display_title": "Ouverture en Re majeur - TWV 23 - 1. - Jubeloratorium... [G.P. Telemann]",
+    "track": "12. Ouverture en Ré majeur - Ouverture en Re majeur - TWV 23 - 1. - Jubeloratorium... [G.P. Telemann]",
+    "length": 418,
+    "duration": 418,
+    "started": 1724139593,
+    "type": "track",
+    "track_id": 923875,
+    "release": "Century 14 - L'Allemagne du Barouque (Late Baroque Germany) HMX2908176",
+    "art_url": "//cdn-images.audioaddict.com/6/4/e/c/8/f/64ec8f81438568613ab03f1cad85ee16.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/e/c/8/f/64ec8f81438568613ab03f1cad85ee16.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "American Baroque",
+    "display_artist": "American Baroque",
+    "title": "Concerto No. 1 in G major [G.P. Telemann]",
+    "display_title": "Concerto No. 1 in G major [G.P. Telemann]",
+    "track": "American Baroque - Concerto No. 1 in G major [G.P. Telemann]",
+    "length": 670,
+    "duration": 670,
+    "started": 1724142951,
+    "type": "track",
+    "track_id": 2991387,
+    "release": "Telemann: The Paris Quartets",
+    "art_url": "//cdn-images.audioaddict.com/9/3/6/7/3/5/936735c17fc11183fea6aa5d934b6624.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/6/7/3/5/936735c17fc11183fea6aa5d934b6624.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, M. Schneider, K. Kaiser",
+    "display_artist": "Camerata Köln, M. Schneider, K. Kaiser",
+    "title": "Concerto for flute, strings & continuo in G major, TWV 51-G1 [G.P. Telemann]",
+    "display_title": "Concerto for flute, strings & continuo in G major, TWV 51-G1 [G.P. Telemann]",
+    "track": "Camerata Köln, M. Schneider, K. Kaiser - Concerto for flute, strings & continuo in G major, TWV 51-G1 [G.P. Telemann]",
+    "length": 754,
+    "duration": 754,
+    "started": 1724143620,
+    "type": "track",
+    "track_id": 933545,
+    "release": "Telemann - Wind Concertos Volume 02",
+    "art_url": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Fantasias (12), for violin, TWV 40:14-25, No.5 in A major [G.P. Telemann]",
+    "display_title": "Fantasias (12), for violin, TWV 40:14-25, No.5 in A major [G.P. Telemann]",
+    "track": "Arthur Grumiaux - Fantasias (12), for violin, TWV 40:14-25, No.5 in A major [G.P. Telemann]",
+    "length": 280,
+    "duration": 280,
+    "started": 1724144366,
+    "type": "track",
+    "track_id": 1049645,
+    "release": "Telemann - Twelve Fantasias For Violin Solo",
+    "art_url": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in C major TWV 55 C6 [G.P. Telemann]",
+    "display_title": "Overture in C major TWV 55 C6 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in C major TWV 55 C6 [G.P. Telemann]",
+    "length": 1259,
+    "duration": 1259,
+    "started": 1724144646,
+    "type": "track",
+    "track_id": 951905,
+    "release": "Telemann - Overtures - CD 6",
+    "art_url": "//cdn-images.audioaddict.com/5/e/d/3/d/5/5ed3d5af8831a193152a01a604886af7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/d/3/d/5/5ed3d5af8831a193152a01a604886af7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Musica Antiqua Koln",
+    "display_artist": "Musica Antiqua Koln",
+    "title": "Concerto Polonois In B Flat Major [G.P. Telemann]",
+    "display_title": "Concerto Polonois In B Flat Major [G.P. Telemann]",
+    "track": "Musica Antiqua Koln - Concerto Polonois In B Flat Major [G.P. Telemann]",
+    "length": 555,
+    "duration": 555,
+    "started": 1724147336,
+    "type": "track",
+    "track_id": 933531,
+    "release": "String Concertos",
+    "art_url": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Elephant House Quartet",
+    "display_artist": "Elephant House Quartet",
+    "title": "Paris Quartet No. 3 in G Major for flute, violin, viola da gamba & basso continuo, TWV 43:G4 [G.P. Telemann]",
+    "display_title": "Paris Quartet No. 3 in G Major for flute, violin, viola da gamba & basso continuo, TWV 43:G4 [G.P. Telemann]",
+    "track": "Elephant House Quartet - Paris Quartet No. 3 in G Major for flute, violin, viola da gamba & basso continuo, TWV 43:G4 [G.P. Telemann]",
+    "length": 1345,
+    "duration": 1345,
+    "started": 1724147892,
+    "type": "track",
+    "track_id": 2954157,
+    "release": "Telemann's Garden",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Overture, suite for 2 oboes - 2. violins, strings & continuo in B flat major (Tafelmusik III/1), TWV 55:B1 [G.P. Telemann]",
+    "display_title": "Overture, suite for 2 oboes - 2. violins, strings & continuo in B flat major (Tafelmusik III/1), TWV 55:B1 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Overture, suite for 2 oboes - 2. violins, strings & continuo in B flat major (Tafelmusik III/1), TWV 55:B1 [G.P. Telemann]",
+    "length": 1270,
+    "duration": 1270,
+    "started": 1724149238,
+    "type": "track",
+    "track_id": 933517,
+    "release": "Musique de Table - CD4",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Ingo Goritzki, Burkhard Glaetzner",
+    "display_artist": "Ingo Goritzki, Burkhard Glaetzner",
+    "title": "Sonata No.5 in B Minor for two oboes, TWV 40:105 [G.P. Telemann]",
+    "display_title": "Sonata No.5 in B Minor for two oboes, TWV 40:105 [G.P. Telemann]",
+    "track": "Ingo Goritzki, Burkhard Glaetzner - Sonata No.5 in B Minor for two oboes, TWV 40:105 [G.P. Telemann]",
+    "length": 687,
+    "duration": 687,
+    "started": 1724150753,
+    "type": "track",
+    "track_id": 1030843,
+    "release": "Telemann - Sonatas for Two Oboes",
+    "art_url": "//cdn-images.audioaddict.com/f/3/6/1/e/6/f361e6af8b6980e72ab1c10c1bd45bba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/6/1/e/6/f361e6af8b6980e72ab1c10c1bd45bba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 1 in A major [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 1 in A major [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 1 in A major [G.P. Telemann]",
+    "length": 201,
+    "duration": 201,
+    "started": 1724151433,
+    "type": "track",
+    "track_id": 1245601,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl, M. Stadler, M. Schaar",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl, M. Stadler, M. Schaar",
+    "title": "Concerto in C major, TWV 53-C1, for Two Oboes, Bassoon, Strings & B.c. 'Concerto alla francese' [G.P. Telemann]",
+    "display_title": "Concerto in C major, TWV 53-C1, for Two Oboes, Bassoon, Strings & B.c. 'Concerto alla francese' [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Baumgartl, M. Stadler, M. Schaar - Concerto in C major, TWV 53-C1, for Two Oboes, Bassoon, Strings & B.c. 'Concerto alla francese' [G.P. Telemann]",
+    "length": 564,
+    "duration": 564,
+    "started": 1724155506,
+    "type": "track",
+    "track_id": 933568,
+    "release": "Telemann - Wind Concertos Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "12. Violin Concerto in A Major Die Relinge",
+    "display_artist": "12. Violin Concerto in A Major Die Relinge",
+    "title": "Violin Concerto in A Major: 'Die Relinge' - 2. Adagio [G.P. Telemann]",
+    "display_title": "Violin Concerto in A Major: 'Die Relinge' - 2. Adagio [G.P. Telemann]",
+    "track": "12. Violin Concerto in A Major Die Relinge - Violin Concerto in A Major: 'Die Relinge' - 2. Adagio [G.P. Telemann]",
+    "length": 194,
+    "duration": 194,
+    "started": 1724156062,
+    "type": "track",
+    "track_id": 924948,
+    "release": "Telemann: Water Music",
+    "art_url": "//cdn-images.audioaddict.com/4/0/7/5/d/c/4075dcd45f390b549a0abafff14b2a36.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/7/5/d/c/4075dcd45f390b549a0abafff14b2a36.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in E minor TWV 55 e8 'l'Omphale' [G.P. Telemann]",
+    "display_title": "Overture in E minor TWV 55 e8 'l'Omphale' [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in E minor TWV 55 e8 'l'Omphale' [G.P. Telemann]",
+    "length": 616,
+    "duration": 616,
+    "started": 1724156767,
+    "type": "track",
+    "track_id": 951911,
+    "release": "Telemann - Overtures - CD 7",
+    "art_url": "//cdn-images.audioaddict.com/9/9/f/1/8/e/99f18e58e3a08f5d43406f8f84dee0ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/f/1/8/e/99f18e58e3a08f5d43406f8f84dee0ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Amsterdam Baroque Orchestra, Ton Koopman",
+    "display_artist": "Amsterdam Baroque Orchestra, Ton Koopman",
+    "title": "Concerto for 3 violins, strings & continuo in F major (Tafelmusik II/3), TWV 53:F1 [G.P. Telemann]",
+    "display_title": "Concerto for 3 violins, strings & continuo in F major (Tafelmusik II/3), TWV 53:F1 [G.P. Telemann]",
+    "track": "Amsterdam Baroque Orchestra, Ton Koopman - Concerto for 3 violins, strings & continuo in F major (Tafelmusik II/3), TWV 53:F1 [G.P. Telemann]",
+    "length": 793,
+    "duration": 793,
+    "started": 1724157383,
+    "type": "track",
+    "track_id": 3025584,
+    "release": "Telemann: Tafelmusik (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/7/5/9/0/9/2/759092e14b79087d0c78168bc5ecf39a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/9/0/9/2/759092e14b79087d0c78168bc5ecf39a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in G minor TWV 55 g9 [G.P. Telemann]",
+    "display_title": "Overture in G minor TWV 55 g9 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in G minor TWV 55 g9 [G.P. Telemann]",
+    "length": 917,
+    "duration": 917,
+    "started": 1724158751,
+    "type": "track",
+    "track_id": 951907,
+    "release": "Telemann - Overtures - CD 6",
+    "art_url": "//cdn-images.audioaddict.com/5/e/d/3/d/5/5ed3d5af8831a193152a01a604886af7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/d/3/d/5/5ed3d5af8831a193152a01a604886af7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano",
+    "title": "Concerto (Quartetto) in F major for 2 Chalumeaux, Violini unisoni & B.c., TWV 43-F2 [G.P. Telemann]",
+    "display_title": "Concerto (Quartetto) in F major for 2 Chalumeaux, Violini unisoni & B.c., TWV 43-F2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano - Concerto (Quartetto) in F major for 2 Chalumeaux, Violini unisoni & B.c., TWV 43-F2 [G.P. Telemann]",
+    "length": 685,
+    "duration": 685,
+    "started": 1724159668,
+    "type": "track",
+    "track_id": 933572,
+    "release": "Telemann - Wind Concertos Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Overture in F major TWV 55 F16",
+    "display_artist": "Overture in F major TWV 55 F16",
+    "title": "Overture in F major TWV 55 F16 [G.P. Telemann]",
+    "display_title": "Overture in F major TWV 55 F16 [G.P. Telemann]",
+    "track": "Overture in F major TWV 55 F16 - Overture in F major TWV 55 F16 [G.P. Telemann]",
+    "length": 1081,
+    "duration": 1081,
+    "started": 1724160346,
+    "type": "track",
+    "track_id": 951913,
+    "release": "Telemann - Overtures - CD 8",
+    "art_url": "//cdn-images.audioaddict.com/b/0/f/0/1/6/b0f0161713eed44b172c3aed1d9c9e96.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/f/0/1/6/b0f0161713eed44b172c3aed1d9c9e96.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "title": "Concerto in A major for 2 Flutes, Bassoon, Strings & B.c., TWV 53-cA1 [G.P. Telemann]",
+    "display_title": "Concerto in A major for 2 Flutes, Bassoon, Strings & B.c., TWV 53-cA1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar - Concerto in A major for 2 Flutes, Bassoon, Strings & B.c., TWV 53-cA1 [G.P. Telemann]",
+    "length": 520,
+    "duration": 520,
+    "started": 1724161428,
+    "type": "track",
+    "track_id": 933573,
+    "release": "Telemann - Wind Concertos Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano",
+    "title": "Concerto in D minor for 2 Chalumeaux, Strings & B.c., TWV 52-d1 [G.P. Telemann]",
+    "display_title": "Concerto in D minor for 2 Chalumeaux, Strings & B.c., TWV 52-d1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Coppola, T. Capuano - Concerto in D minor for 2 Chalumeaux, Strings & B.c., TWV 52-d1 [G.P. Telemann]",
+    "length": 767,
+    "duration": 767,
+    "started": 1724161942,
+    "type": "track",
+    "track_id": 933576,
+    "release": "Telemann - Wind Concertos Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Richard Boothby",
+    "display_artist": "Richard Boothby",
+    "title": "Fantasia In D Major, TWV 40:27 [G.P. Telemann]",
+    "display_title": "Fantasia In D Major, TWV 40:27 [G.P. Telemann]",
+    "track": "Richard Boothby - Fantasia In D Major, TWV 40:27 [G.P. Telemann]",
+    "length": 525,
+    "duration": 525,
+    "started": 1724162702,
+    "type": "track",
+    "track_id": 2940813,
+    "release": "Telemann: Twelve Fantasias For Solo Viola Da Gamba",
+    "art_url": "//cdn-images.audioaddict.com/6/c/1/7/f/4/6c17f450b039dd2aa466d4ed4fb21691.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/1/7/f/4/6c17f450b039dd2aa466d4ed4fb21691.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "American Baroque",
+    "display_artist": "American Baroque",
+    "title": "Concerto No. 2 in D major [G.P. Telemann]",
+    "display_title": "Concerto No. 2 in D major [G.P. Telemann]",
+    "track": "American Baroque - Concerto No. 2 in D major [G.P. Telemann]",
+    "length": 644,
+    "duration": 644,
+    "started": 1724163783,
+    "type": "track",
+    "track_id": 2991388,
+    "release": "Telemann: The Paris Quartets",
+    "art_url": "//cdn-images.audioaddict.com/9/3/6/7/3/5/936735c17fc11183fea6aa5d934b6624.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/6/7/3/5/936735c17fc11183fea6aa5d934b6624.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Musica Antiqua Koln",
+    "display_artist": "Musica Antiqua Koln",
+    "title": "Divertimento In B Flat Major [G.P. Telemann]",
+    "display_title": "Divertimento In B Flat Major [G.P. Telemann]",
+    "track": "Musica Antiqua Koln - Divertimento In B Flat Major [G.P. Telemann]",
+    "length": 553,
+    "duration": 553,
+    "started": 1724164425,
+    "type": "track",
+    "track_id": 933534,
+    "release": "String Concertos",
+    "art_url": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Ingo Goritzki, Burkhard Glaetzner",
+    "display_artist": "Ingo Goritzki, Burkhard Glaetzner",
+    "title": "Sonata No.2 in D Major for two oboes, TWV 40:102 [G.P. Telemann]",
+    "display_title": "Sonata No.2 in D Major for two oboes, TWV 40:102 [G.P. Telemann]",
+    "track": "Ingo Goritzki, Burkhard Glaetzner - Sonata No.2 in D Major for two oboes, TWV 40:102 [G.P. Telemann]",
+    "length": 561,
+    "duration": 561,
+    "started": 1724166341,
+    "type": "track",
+    "track_id": 1030840,
+    "release": "Telemann - Sonatas for Two Oboes",
+    "art_url": "//cdn-images.audioaddict.com/f/3/6/1/e/6/f361e6af8b6980e72ab1c10c1bd45bba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/6/1/e/6/f361e6af8b6980e72ab1c10c1bd45bba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Quartet for flute, violin, viole da gamba (or cello) & continuo No. 6 in E minor (Paris Quartets No. 12), TWV 43:e4 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, viole da gamba (or cello) & continuo No. 6 in E minor (Paris Quartets No. 12), TWV 43:e4 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Quartet for flute, violin, viole da gamba (or cello) & continuo No. 6 in E minor (Paris Quartets No. 12), TWV 43:e4 [G.P. Telemann]",
+    "length": 1236,
+    "duration": 1236,
+    "started": 1724166894,
+    "type": "track",
+    "track_id": 3096555,
+    "release": "Telemann: Paris Quartets",
+    "art_url": "//cdn-images.audioaddict.com/3/8/0/0/a/d/3800ade1cfc712acc153509db533e2b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/0/0/a/d/3800ade1cfc712acc153509db533e2b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "title": "Concerto in B minor, TWV 51-h1, for Transverse Flute, Strings & B.c [G.P. Telemann]",
+    "display_title": "Concerto in B minor, TWV 51-h1, for Transverse Flute, Strings & B.c [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser - Concerto in B minor, TWV 51-h1, for Transverse Flute, Strings & B.c [G.P. Telemann]",
+    "length": 827,
+    "duration": 827,
+    "started": 1724168129,
+    "type": "track",
+    "track_id": 933567,
+    "release": "Telemann - Wind Concertos Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture jointés d'un Suite tragi-comique, for 3 trumpets, timpani, strings & continuo in D major, TWV 55:D22 [G.P. Telemann]",
+    "display_title": "Overture jointés d'un Suite tragi-comique, for 3 trumpets, timpani, strings & continuo in D major, TWV 55:D22 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture jointés d'un Suite tragi-comique, for 3 trumpets, timpani, strings & continuo in D major, TWV 55:D22 [G.P. Telemann]",
+    "length": 821,
+    "duration": 821,
+    "started": 1724168948,
+    "type": "track",
+    "track_id": 2216707,
+    "release": "Complete Overtures Vol. 2 - CD 1",
+    "art_url": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Trio for flute, oboe & continuo in E minor (Tafelmusik II/4), TWV 42:e2 [G.P. Telemann]",
+    "display_title": "Trio for flute, oboe & continuo in E minor (Tafelmusik II/4), TWV 42:e2 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Trio for flute, oboe & continuo in E minor (Tafelmusik II/4), TWV 42:e2 [G.P. Telemann]",
+    "length": 902,
+    "duration": 902,
+    "started": 1724169769,
+    "type": "track",
+    "track_id": 933527,
+    "release": "Musique de Table - CD3",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Overture, suite for trumpet, oboe, strings & continuo in D major (Tafelmusik II - 1), TWV 55:D1 [G.P. Telemann]",
+    "display_title": "Overture, suite for trumpet, oboe, strings & continuo in D major (Tafelmusik II - 1), TWV 55:D1 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Overture, suite for trumpet, oboe, strings & continuo in D major (Tafelmusik II - 1), TWV 55:D1 [G.P. Telemann]",
+    "length": 1300,
+    "duration": 1300,
+    "started": 1724170666,
+    "type": "track",
+    "track_id": 933518,
+    "release": "Musique de Table - CD2",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in D major TWV 55 D4 [G.P. Telemann]",
+    "display_title": "Overture in D major TWV 55 D4 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in D major TWV 55 D4 [G.P. Telemann]",
+    "length": 1430,
+    "duration": 1430,
+    "started": 1724171966,
+    "type": "track",
+    "track_id": 951886,
+    "release": "Telemann - Overtures - CD 1",
+    "art_url": "//cdn-images.audioaddict.com/a/1/9/6/6/7/a19667fde5e6e103c8a0208e0991361e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/9/6/6/7/a19667fde5e6e103c8a0208e0991361e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Elephant House Quartet",
+    "display_artist": "Elephant House Quartet",
+    "title": "Suite No. 5 in A Minor for flute, violin & basso continuo, TWV 42:a3 [G.P. Telemann]",
+    "display_title": "Suite No. 5 in A Minor for flute, violin & basso continuo, TWV 42:a3 [G.P. Telemann]",
+    "track": "Elephant House Quartet - Suite No. 5 in A Minor for flute, violin & basso continuo, TWV 42:a3 [G.P. Telemann]",
+    "length": 1010,
+    "duration": 1010,
+    "started": 1724173392,
+    "type": "track",
+    "track_id": 2954159,
+    "release": "Telemann's Garden",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser",
+    "display_artist": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser",
+    "title": "Concerto for oboe (or flute), strings & continuo in G major, TWV 51:G2 - 1. Andante [G.P. Telemann]",
+    "display_title": "Concerto for oboe (or flute), strings & continuo in G major, TWV 51:G2 - 1. Andante [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, Michael Schneider, Karl Kaiser - Concerto for oboe (or flute), strings & continuo in G major, TWV 51:G2 - 1. Andante [G.P. Telemann]",
+    "length": 162,
+    "duration": 162,
+    "started": 1724177275,
+    "type": "track",
+    "track_id": 2913801,
+    "release": "Telemann - Wind Concertos Volume 03",
+    "art_url": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Holland Baroque Society, Wu Wei",
+    "display_artist": "Holland Baroque Society, Wu Wei",
+    "title": "Sey Tausenmahl Willkommen [G.P. Telemann]",
+    "display_title": "Sey Tausenmahl Willkommen [G.P. Telemann]",
+    "track": "Holland Baroque Society, Wu Wei - Sey Tausenmahl Willkommen [G.P. Telemann]",
+    "length": 187,
+    "duration": 187,
+    "started": 1724181651,
+    "type": "track",
+    "track_id": 2943691,
+    "release": "Silk Baroque",
+    "art_url": "//cdn-images.audioaddict.com/e/5/5/e/c/d/e55ecdcce0fd0f29b917113afb9afc4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/5/e/c/d/e55ecdcce0fd0f29b917113afb9afc4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in D minor TWV 55 d2 [G.P. Telemann]",
+    "display_title": "Overture in D minor TWV 55 d2 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in D minor TWV 55 d2 [G.P. Telemann]",
+    "length": 894,
+    "duration": 894,
+    "started": 1724183600,
+    "type": "track",
+    "track_id": 951889,
+    "release": "Telemann - Overtures - CD 2",
+    "art_url": "//cdn-images.audioaddict.com/d/a/4/8/3/4/da4834af3af522f1e25286d788490fca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/4/8/3/4/da4834af3af522f1e25286d788490fca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Conclusion, sinfonia for oboe, trumpet, strings & continuo in D major (Tafelmusik II/6), TWV 50 - 9 [G.P. Telemann]",
+    "display_title": "Conclusion, sinfonia for oboe, trumpet, strings & continuo in D major (Tafelmusik II/6), TWV 50 - 9 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Conclusion, sinfonia for oboe, trumpet, strings & continuo in D major (Tafelmusik II/6), TWV 50 - 9 [G.P. Telemann]",
+    "length": 397,
+    "duration": 397,
+    "started": 1724184493,
+    "type": "track",
+    "track_id": 924886,
+    "release": "Musique de Table - CD3",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in A minor TWV 55 a4 [G.P. Telemann]",
+    "display_title": "Overture in A minor TWV 55 a4 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in A minor TWV 55 a4 [G.P. Telemann]",
+    "length": 933,
+    "duration": 933,
+    "started": 1724184891,
+    "type": "track",
+    "track_id": 951892,
+    "release": "Telemann - Overtures - CD 3",
+    "art_url": "//cdn-images.audioaddict.com/8/1/5/1/7/e/81517e44af432bb825dcc7023a70175f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/5/1/7/e/81517e44af432bb825dcc7023a70175f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Sonata for 2 violins (or 2 flutes) & continuo in G major (Quartets or Trios No. 1), TWV 42:G3 [G.P. Telemann]",
+    "display_title": "Sonata for 2 violins (or 2 flutes) & continuo in G major (Quartets or Trios No. 1), TWV 42:G3 [G.P. Telemann]",
+    "track": "Parnassi Musici - Sonata for 2 violins (or 2 flutes) & continuo in G major (Quartets or Trios No. 1), TWV 42:G3 [G.P. Telemann]",
+    "length": 481,
+    "duration": 481,
+    "started": 1724185823,
+    "type": "track",
+    "track_id": 1052225,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Trio (Sonata) for 2 violins (or flutes) & continuo in D minor (Quartets or Trios No. 4), TWV 42:d2 [G.P. Telemann]",
+    "display_title": "Trio (Sonata) for 2 violins (or flutes) & continuo in D minor (Quartets or Trios No. 4), TWV 42:d2 [G.P. Telemann]",
+    "track": "Parnassi Musici - Trio (Sonata) for 2 violins (or flutes) & continuo in D minor (Quartets or Trios No. 4), TWV 42:d2 [G.P. Telemann]",
+    "length": 392,
+    "duration": 392,
+    "started": 1724186297,
+    "type": "track",
+    "track_id": 1052227,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Suite for trumpet, strings & continuo in D major, TWV 55:D8 [G.P. Telemann]",
+    "display_title": "Suite for trumpet, strings & continuo in D major, TWV 55:D8 [G.P. Telemann]",
+    "track": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Suite for trumpet, strings & continuo in D major, TWV 55:D8 [G.P. Telemann]",
+    "length": 1406,
+    "duration": 1406,
+    "started": 1724186682,
+    "type": "track",
+    "track_id": 2216714,
+    "release": "Trumpet Concertos (complete) (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl",
+    "title": "Concerto in C minor for Oboe, Strings & B.c., TWV 51-c2 [G.P. Telemann]",
+    "display_title": "Concerto in C minor for Oboe, Strings & B.c., TWV 51-c2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Baumgartl - Concerto in C minor for Oboe, Strings & B.c., TWV 51-c2 [G.P. Telemann]",
+    "length": 434,
+    "duration": 434,
+    "started": 1724190134,
+    "type": "track",
+    "track_id": 933574,
+    "release": "Telemann - Wind Concertos Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/7/a/9/c/307a9c3b836077a68d890d70339922a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, M. Stadler",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, M. Stadler",
+    "title": "Concerto in E minor for oboe, strings & continue, TWV 51-e1 [G.P. Telemann]",
+    "display_title": "Concerto in E minor for oboe, strings & continue, TWV 51-e1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, M. Stadler - Concerto in E minor for oboe, strings & continue, TWV 51-e1 [G.P. Telemann]",
+    "length": 747,
+    "duration": 747,
+    "started": 1724190561,
+    "type": "track",
+    "track_id": 933558,
+    "release": "Telemann - Wind Concertos Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Fantasias (12), for violin, TWV 40:14-25, No.1 in B-flat major [G.P. Telemann]",
+    "display_title": "Fantasias (12), for violin, TWV 40:14-25, No.1 in B-flat major [G.P. Telemann]",
+    "track": "Arthur Grumiaux - Fantasias (12), for violin, TWV 40:14-25, No.1 in B-flat major [G.P. Telemann]",
+    "length": 403,
+    "duration": 403,
+    "started": 1724191306,
+    "type": "track",
+    "track_id": 1049638,
+    "release": "Telemann - Twelve Fantasias For Violin Solo",
+    "art_url": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/7/8/e/0/5778e09ea6ea4260b3a52b00fdf94569.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "American Baroque",
+    "display_artist": "American Baroque",
+    "title": "Sonata No. 2 in G minor [G.P. Telemann]",
+    "display_title": "Sonata No. 2 in G minor [G.P. Telemann]",
+    "track": "American Baroque - Sonata No. 2 in G minor [G.P. Telemann]",
+    "length": 688,
+    "duration": 688,
+    "started": 1724191710,
+    "type": "track",
+    "track_id": 2991390,
+    "release": "Telemann: The Paris Quartets",
+    "art_url": "//cdn-images.audioaddict.com/9/3/6/7/3/5/936735c17fc11183fea6aa5d934b6624.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/6/7/3/5/936735c17fc11183fea6aa5d934b6624.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Holland Baroque",
+    "display_artist": "Holland Baroque",
+    "title": "Quartet in B-Flat Major, TWV 43:B3 \"Concerto polonoise\" (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "display_title": "Quartet in B-Flat Major, TWV 43:B3 \"Concerto polonoise\" (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "track": "Holland Baroque - Quartet in B-Flat Major, TWV 43:B3 \"Concerto polonoise\" (Arr. J. Steenbrink & T. Steenbrink for Strings & Continuo) [G.P. Telemann]",
+    "length": 553,
+    "duration": 553,
+    "started": 1724192398,
+    "type": "track",
+    "track_id": 3096544,
+    "release": "Telemann: Polonoise",
+    "art_url": "//cdn-images.audioaddict.com/5/5/1/9/c/e/5519cec294a4567cfd13005270c7bc4d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/1/9/c/e/5519cec294a4567cfd13005270c7bc4d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken",
+    "display_artist": "Barthold Kuijken",
+    "title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 4 in B major [G.P. Telemann]",
+    "display_title": "Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 4 in B major [G.P. Telemann]",
+    "track": "Barthold Kuijken - Fantasias (12), for flute, TWV 40:2-13: Fantasia No. 4 in B major [G.P. Telemann]",
+    "length": 229,
+    "duration": 229,
+    "started": 1724193505,
+    "type": "track",
+    "track_id": 1245607,
+    "release": "Telemann - Twelve Fantasias for Transverse Flute",
+    "art_url": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/1/9/5/b/76195b55324f3cd1ac205c3378de2209.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "title": "Concerto for 2 flutes, 'bass' (bassoon), strings & continuo in G major, TWV 53-G1 [G.P. Telemann]",
+    "display_title": "Concerto for 2 flutes, 'bass' (bassoon), strings & continuo in G major, TWV 53-G1 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar - Concerto for 2 flutes, 'bass' (bassoon), strings & continuo in G major, TWV 53-G1 [G.P. Telemann]",
+    "length": 626,
+    "duration": 626,
+    "started": 1724195983,
+    "type": "track",
+    "track_id": 933549,
+    "release": "Telemann - Wind Concertos Volume 03",
+    "art_url": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Overture, suite for 2 flutes, strings & continuo in E minor (Tafelmusik I), TWV 55 [G.P. Telemann]",
+    "display_title": "Overture, suite for 2 flutes, strings & continuo in E minor (Tafelmusik I), TWV 55 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Overture, suite for 2 flutes, strings & continuo in E minor (Tafelmusik I), TWV 55 [G.P. Telemann]",
+    "length": 1370,
+    "duration": 1370,
+    "started": 1724196604,
+    "type": "track",
+    "track_id": 933516,
+    "release": "Musique de Table - CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester, Gottfried von der Goltz",
+    "display_artist": "Freiburger Barockorchester, Gottfried von der Goltz",
+    "title": "Ouverture in D-dur [G.P. Telemann]",
+    "display_title": "Ouverture in D-dur [G.P. Telemann]",
+    "track": "Freiburger Barockorchester, Gottfried von der Goltz - Ouverture in D-dur [G.P. Telemann]",
+    "length": 1318,
+    "duration": 1318,
+    "started": 1724197974,
+    "type": "track",
+    "track_id": 933457,
+    "release": "Freiburger Barockorchester Edition CD04 - Telemann",
+    "art_url": "//cdn-images.audioaddict.com/3/3/a/3/0/4/33a30438b3edde63466ce5f6a773b643.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/a/3/0/4/33a30438b3edde63466ce5f6a773b643.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, M. Schneider, U. Hübner",
+    "display_artist": "Camerata Köln, M. Schneider, U. Hübner",
+    "title": "Concerto a 3, for flute, horn & continuo in F major, TWV 42-F14 [G.P. Telemann]",
+    "display_title": "Concerto a 3, for flute, horn & continuo in F major, TWV 42-F14 [G.P. Telemann]",
+    "track": "Camerata Köln, M. Schneider, U. Hübner - Concerto a 3, for flute, horn & continuo in F major, TWV 42-F14 [G.P. Telemann]",
+    "length": 439,
+    "duration": 439,
+    "started": 1724199293,
+    "type": "track",
+    "track_id": 933548,
+    "release": "Telemann - Wind Concertos Volume 03",
+    "art_url": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Gunther Holler, Konrad Hunteler, Georg Fischer, Cappella Coloniensis",
+    "display_artist": "Gunther Holler, Konrad Hunteler, Georg Fischer, Cappella Coloniensis",
+    "title": "Double Concerto For Recorder And Flute In E Minor, TWV 52:E1 [G.P. Telemann]",
+    "display_title": "Double Concerto For Recorder And Flute In E Minor, TWV 52:E1 [G.P. Telemann]",
+    "track": "Gunther Holler, Konrad Hunteler, Georg Fischer, Cappella Coloniensis - Double Concerto For Recorder And Flute In E Minor, TWV 52:E1 [G.P. Telemann]",
+    "length": 895,
+    "duration": 895,
+    "started": 1724200277,
+    "type": "track",
+    "track_id": 3036631,
+    "release": "Telemann: Flute Concerto / Overtures",
+    "art_url": "//cdn-images.audioaddict.com/8/c/a/7/4/c/8ca74c71182a2d650e4104af7718f182.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/a/7/4/c/8ca74c71182a2d650e4104af7718f182.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Sonata for 2 violins (or 2 flutes) & continuo in E minor, TWV 42:e1 [G.P. Telemann]",
+    "display_title": "Sonata for 2 violins (or 2 flutes) & continuo in E minor, TWV 42:e1 [G.P. Telemann]",
+    "track": "Parnassi Musici - Sonata for 2 violins (or 2 flutes) & continuo in E minor, TWV 42:e1 [G.P. Telemann]",
+    "length": 489,
+    "duration": 489,
+    "started": 1724201171,
+    "type": "track",
+    "track_id": 1052224,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Musica Antiqua Koln",
+    "display_artist": "Musica Antiqua Koln",
+    "title": "Concerto Polonois In G Major [G.P. Telemann]",
+    "display_title": "Concerto Polonois In G Major [G.P. Telemann]",
+    "track": "Musica Antiqua Koln - Concerto Polonois In G Major [G.P. Telemann]",
+    "length": 527,
+    "duration": 527,
+    "started": 1724201654,
+    "type": "track",
+    "track_id": 933532,
+    "release": "String Concertos",
+    "art_url": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "display_title": "Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "length": 409,
+    "duration": 409,
+    "started": 1724203605,
+    "type": "track",
+    "track_id": 3097387,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in B flat major TWV 55 B8 'Burlesque' [G.P. Telemann]",
+    "display_title": "Overture in B flat major TWV 55 B8 'Burlesque' [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in B flat major TWV 55 B8 'Burlesque' [G.P. Telemann]",
+    "length": 793,
+    "duration": 793,
+    "started": 1724206635,
+    "type": "track",
+    "track_id": 951904,
+    "release": "Telemann - Overtures - CD 6",
+    "art_url": "//cdn-images.audioaddict.com/5/e/d/3/d/5/5ed3d5af8831a193152a01a604886af7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/d/3/d/5/5ed3d5af8831a193152a01a604886af7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "12 Marches Héroiques 'Heldenmusik', TWV 50: 31-42 [G.P. Telemann]",
+    "display_title": "12 Marches Héroiques 'Heldenmusik', TWV 50: 31-42 [G.P. Telemann]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - 12 Marches Héroiques 'Heldenmusik', TWV 50: 31-42 [G.P. Telemann]",
+    "length": 401,
+    "duration": 401,
+    "started": 1724209388,
+    "type": "track",
+    "track_id": 3025589,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester, Gottfried von der Goltz",
+    "display_artist": "Freiburger Barockorchester, Gottfried von der Goltz",
+    "title": "Ouverture G-dur TWV55 'Bourlesque de Quixotte' [G.P. Telemann]",
+    "display_title": "Ouverture G-dur TWV55 'Bourlesque de Quixotte' [G.P. Telemann]",
+    "track": "Freiburger Barockorchester, Gottfried von der Goltz - Ouverture G-dur TWV55 'Bourlesque de Quixotte' [G.P. Telemann]",
+    "length": 1231,
+    "duration": 1231,
+    "started": 1724209790,
+    "type": "track",
+    "track_id": 933456,
+    "release": "Freiburger Barockorchester Edition CD04 - Telemann",
+    "art_url": "//cdn-images.audioaddict.com/3/3/a/3/0/4/33a30438b3edde63466ce5f6a773b643.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/a/3/0/4/33a30438b3edde63466ce5f6a773b643.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Parnassi Musici",
+    "display_artist": "Parnassi Musici",
+    "title": "Sonata for 2 violins (or 2 flutes) & continuo in D major, TWV 42:D4 [G.P. Telemann]",
+    "display_title": "Sonata for 2 violins (or 2 flutes) & continuo in D major, TWV 42:D4 [G.P. Telemann]",
+    "track": "Parnassi Musici - Sonata for 2 violins (or 2 flutes) & continuo in D major, TWV 42:D4 [G.P. Telemann]",
+    "length": 480,
+    "duration": 480,
+    "started": 1724213515,
+    "type": "track",
+    "track_id": 1052223,
+    "release": "Telemann - Trio Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/d/b/9/c/aedb9c9cdad485e2bcd11df72497ef32.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Concerto for flute, violin, cello, strings & continuo in A major (Tafelmusik I), TWV 53 [G.P. Telemann]",
+    "display_title": "Concerto for flute, violin, cello, strings & continuo in A major (Tafelmusik I), TWV 53 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Concerto for flute, violin, cello, strings & continuo in A major (Tafelmusik I), TWV 53 [G.P. Telemann]",
+    "length": 1213,
+    "duration": 1213,
+    "started": 1724213988,
+    "type": "track",
+    "track_id": 933515,
+    "release": "Musique de Table - CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Musica Antiqua Koln",
+    "display_artist": "Musica Antiqua Koln",
+    "title": "Concerto 'A Sei' In G Major [G.P. Telemann]",
+    "display_title": "Concerto 'A Sei' In G Major [G.P. Telemann]",
+    "track": "Musica Antiqua Koln - Concerto 'A Sei' In G Major [G.P. Telemann]",
+    "length": 560,
+    "duration": 560,
+    "started": 1724215201,
+    "type": "track",
+    "track_id": 933528,
+    "release": "String Concertos",
+    "art_url": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/9/e/e/a/d39eeabf5bc561a642b8ad62f6530e10.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "American Baroque",
+    "display_artist": "American Baroque",
+    "title": "Sonata No. 1 in A major [G.P. Telemann]",
+    "display_title": "Sonata No. 1 in A major [G.P. Telemann]",
+    "track": "American Baroque - Sonata No. 1 in A major [G.P. Telemann]",
+    "length": 715,
+    "duration": 715,
+    "started": 1724216624,
+    "type": "track",
+    "track_id": 2991389,
+    "release": "Telemann: The Paris Quartets",
+    "art_url": "//cdn-images.audioaddict.com/9/3/6/7/3/5/936735c17fc11183fea6aa5d934b6624.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/6/7/3/5/936735c17fc11183fea6aa5d934b6624.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Elephant House Quartet",
+    "display_artist": "Elephant House Quartet",
+    "title": "Recitativo & Arioso from Solo sonata No. 9 in E Minor (from “Essercizii musici”) for viola da gamba & basso continuo, TWV 41:e5 [G.P. Telemann]",
+    "display_title": "Recitativo & Arioso from Solo sonata No. 9 in E Minor (from “Essercizii musici”) for viola da gamba & basso continuo, TWV 41:e5 [G.P. Telemann]",
+    "track": "Elephant House Quartet - Recitativo & Arioso from Solo sonata No. 9 in E Minor (from “Essercizii musici”) for viola da gamba & basso continuo, TWV 41:e5 [G.P. Telemann]",
+    "length": 108,
+    "duration": 108,
+    "started": 1724218514,
+    "type": "track",
+    "track_id": 2954162,
+    "release": "Telemann's Garden",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Mindy Rosenfeld, Stephen Schultz",
+    "display_artist": "Mindy Rosenfeld, Stephen Schultz",
+    "title": "Sonata for 2 flutes (or 2 violins) No. 4 in E minor (Sonates sans basse No. 4), TWV40:104 [G.P. Telemann]",
+    "display_title": "Sonata for 2 flutes (or 2 violins) No. 4 in E minor (Sonates sans basse No. 4), TWV40:104 [G.P. Telemann]",
+    "track": "Mindy Rosenfeld, Stephen Schultz - Sonata for 2 flutes (or 2 violins) No. 4 in E minor (Sonates sans basse No. 4), TWV40:104 [G.P. Telemann]",
+    "length": 769,
+    "duration": 769,
+    "started": 1724219395,
+    "type": "track",
+    "track_id": 2984817,
+    "release": "Teleman: Six Sonatas for two flutes, Op. 2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/f/7/9/1/60f791ec78b0af105435222acb3940e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "display_artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Divertimento in E-flat Major, TWV 50:21 [G.P. Telemann]",
+    "display_title": "Divertimento in E-flat Major, TWV 50:21 [G.P. Telemann]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Divertimento in E-flat Major, TWV 50:21 [G.P. Telemann]",
+    "length": 581,
+    "duration": 581,
+    "started": 1724220165,
+    "type": "track",
+    "track_id": 3087459,
+    "release": "Telemann: Ino",
+    "art_url": "//cdn-images.audioaddict.com/a/f/1/8/1/7/af1817f80bc934f48e32c28c486d2925.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/1/8/1/7/af1817f80bc934f48e32c28c486d2925.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Capella Istropolitana, Richard Edlinger",
+    "display_artist": "Capella Istropolitana, Richard Edlinger",
+    "title": "Overture (Suite) in A Minor for recorder and strings, TWV 55:a2 - 3. Air a l'Italienne [G.P. Telemann]",
+    "display_title": "Overture (Suite) in A Minor for recorder and strings, TWV 55:a2 - 3. Air a l'Italienne [G.P. Telemann]",
+    "track": "Capella Istropolitana, Richard Edlinger - Overture (Suite) in A Minor for recorder and strings, TWV 55:a2 - 3. Air a l'Italienne [G.P. Telemann]",
+    "length": 322,
+    "duration": 322,
+    "started": 1724220747,
+    "type": "track",
+    "track_id": 2912768,
+    "release": "Night Music, Vol. 1 [Disc 4]",
+    "art_url": "//cdn-images.audioaddict.com/1/6/f/c/9/b/16fc9bd00aea03a07a52fabb248152f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/f/c/9/b/16fc9bd00aea03a07a52fabb248152f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar",
+    "title": "Concerto in D major, TWV 53-D1, for Two Flutes, Bassoon, Strings & B.c [G.P. Telemann]",
+    "display_title": "Concerto in D major, TWV 53-D1, for Two Flutes, Bassoon, Strings & B.c [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser, M. Schaar - Concerto in D major, TWV 53-D1, for Two Flutes, Bassoon, Strings & B.c [G.P. Telemann]",
+    "length": 539,
+    "duration": 539,
+    "started": 1724223407,
+    "type": "track",
+    "track_id": 933570,
+    "release": "Telemann - Wind Concertos Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Richard Boothby",
+    "display_artist": "Richard Boothby",
+    "title": "Fantasia In C Minor, TWV 40:26 [G.P. Telemann]",
+    "display_title": "Fantasia In C Minor, TWV 40:26 [G.P. Telemann]",
+    "track": "Richard Boothby - Fantasia In C Minor, TWV 40:26 [G.P. Telemann]",
+    "length": 327,
+    "duration": 327,
+    "started": 1724225098,
+    "type": "track",
+    "track_id": 2940812,
+    "release": "Telemann: Twelve Fantasias For Solo Viola Da Gamba",
+    "art_url": "//cdn-images.audioaddict.com/6/c/1/7/f/4/6c17f450b039dd2aa466d4ed4fb21691.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/1/7/f/4/6c17f450b039dd2aa466d4ed4fb21691.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Suite (Quartet), for flute, violin, viola da gamba (or cello) & continuo No. 2 in B minor (Paris Quartet No. 6), TWV 43:h1 [G.P. Telemann]",
+    "display_title": "Suite (Quartet), for flute, violin, viola da gamba (or cello) & continuo No. 2 in B minor (Paris Quartet No. 6), TWV 43:h1 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Suite (Quartet), for flute, violin, viola da gamba (or cello) & continuo No. 2 in B minor (Paris Quartet No. 6), TWV 43:h1 [G.P. Telemann]",
+    "length": 628,
+    "duration": 628,
+    "started": 1724226333,
+    "type": "track",
+    "track_id": 3096556,
+    "release": "Telemann: Paris Quartets 1-12",
+    "art_url": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Trio for 2 flutes & continuo in D major (Tafelmusik III), TWV 42, D5 [G.P. Telemann]",
+    "display_title": "Trio for 2 flutes & continuo in D major (Tafelmusik III), TWV 42, D5 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Trio for 2 flutes & continuo in D major (Tafelmusik III), TWV 42, D5 [G.P. Telemann]",
+    "length": 549,
+    "duration": 549,
+    "started": 1724226960,
+    "type": "track",
+    "track_id": 933525,
+    "release": "The Complete Tafelmusik - Cd4",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Richard Boothby",
+    "display_artist": "Richard Boothby",
+    "title": "Fantasia In B-Flat Major, TWV 40:30 [G.P. Telemann]",
+    "display_title": "Fantasia In B-Flat Major, TWV 40:30 [G.P. Telemann]",
+    "track": "Richard Boothby - Fantasia In B-Flat Major, TWV 40:30 [G.P. Telemann]",
+    "length": 307,
+    "duration": 307,
+    "started": 1724227507,
+    "type": "track",
+    "track_id": 2940810,
+    "release": "Telemann: Twelve Fantasias For Solo Viola Da Gamba",
+    "art_url": "//cdn-images.audioaddict.com/6/c/1/7/f/4/6c17f450b039dd2aa466d4ed4fb21691.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/1/7/f/4/6c17f450b039dd2aa466d4ed4fb21691.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Concerto for flute, violin, viola da gamba (or cello) & continuo in D major No. 2 (Paris Quartets No. 2), TWV 43:D1 [G.P. Telemann]",
+    "display_title": "Concerto for flute, violin, viola da gamba (or cello) & continuo in D major No. 2 (Paris Quartets No. 2), TWV 43:D1 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Concerto for flute, violin, viola da gamba (or cello) & continuo in D major No. 2 (Paris Quartets No. 2), TWV 43:D1 [G.P. Telemann]",
+    "length": 668,
+    "duration": 668,
+    "started": 1724229074,
+    "type": "track",
+    "track_id": 3096546,
+    "release": "Telemann: Paris Quartets 1-12",
+    "art_url": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/1/b/a/b/221babd58e625bf2fb9656c79b73e4ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in G major TWV 55 G7 [G.P. Telemann]",
+    "display_title": "Overture in G major TWV 55 G7 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in G major TWV 55 G7 [G.P. Telemann]",
+    "length": 1036,
+    "duration": 1036,
+    "started": 1724233023,
+    "type": "track",
+    "track_id": 951914,
+    "release": "Telemann - Overtures - CD 8",
+    "art_url": "//cdn-images.audioaddict.com/b/0/f/0/1/6/b0f0161713eed44b172c3aed1d9c9e96.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/f/0/1/6/b0f0161713eed44b172c3aed1d9c9e96.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in B minor TWV 55 h4 [G.P. Telemann]",
+    "display_title": "Overture in B minor TWV 55 h4 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in B minor TWV 55 h4 [G.P. Telemann]",
+    "length": 1192,
+    "duration": 1192,
+    "started": 1724234059,
+    "type": "track",
+    "track_id": 951896,
+    "release": "Telemann - Overtures - CD 4",
+    "art_url": "//cdn-images.audioaddict.com/1/c/d/a/0/1/1cda01bb763121ebfe77480cb2be6ddc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/d/a/0/1/1cda01bb763121ebfe77480cb2be6ddc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Ingo Goritzki, Burkhard Glaetzner",
+    "display_artist": "Ingo Goritzki, Burkhard Glaetzner",
+    "title": "Sonata No.6 in E Major for two oboes, TWV 40:106 [G.P. Telemann]",
+    "display_title": "Sonata No.6 in E Major for two oboes, TWV 40:106 [G.P. Telemann]",
+    "track": "Ingo Goritzki, Burkhard Glaetzner - Sonata No.6 in E Major for two oboes, TWV 40:106 [G.P. Telemann]",
+    "length": 646,
+    "duration": 646,
+    "started": 1724235251,
+    "type": "track",
+    "track_id": 1030844,
+    "release": "Telemann - Sonatas for Two Oboes",
+    "art_url": "//cdn-images.audioaddict.com/f/3/6/1/e/6/f361e6af8b6980e72ab1c10c1bd45bba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/6/1/e/6/f361e6af8b6980e72ab1c10c1bd45bba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in E minor TWV 55 e7 [G.P. Telemann]",
+    "display_title": "Overture in E minor TWV 55 e7 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in E minor TWV 55 e7 [G.P. Telemann]",
+    "length": 672,
+    "duration": 672,
+    "started": 1724237528,
+    "type": "track",
+    "track_id": 951899,
+    "release": "Telemann - Overtures - CD 4",
+    "art_url": "//cdn-images.audioaddict.com/1/c/d/a/0/1/1cda01bb763121ebfe77480cb2be6ddc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/d/a/0/1/1cda01bb763121ebfe77480cb2be6ddc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Overture in C Major, 'Hamburger Ebb' und Flut' [G.P. Telemann]",
+    "display_title": "Overture in C Major, 'Hamburger Ebb' und Flut' [G.P. Telemann]",
+    "track": "New London Consort, Philip Pickett - Overture in C Major, 'Hamburger Ebb' und Flut' [G.P. Telemann]",
+    "length": 1674,
+    "duration": 1674,
+    "started": 1724238200,
+    "type": "track",
+    "track_id": 933535,
+    "release": "Telemann: Water Music",
+    "art_url": "//cdn-images.audioaddict.com/4/0/7/5/d/c/4075dcd45f390b549a0abafff14b2a36.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/7/5/d/c/4075dcd45f390b549a0abafff14b2a36.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Quartet for flute, oboe, violin & continuo in G major (Tafelmusik I/2), TWV 43 [G.P. Telemann]",
+    "display_title": "Quartet for flute, oboe, violin & continuo in G major (Tafelmusik I/2), TWV 43 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Quartet for flute, oboe, violin & continuo in G major (Tafelmusik I/2), TWV 43 [G.P. Telemann]",
+    "length": 832,
+    "duration": 832,
+    "started": 1724241212,
+    "type": "track",
+    "track_id": 933520,
+    "release": "Musique de Table - CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, L. Baumgartl",
+    "title": "Concerto in G major for Oboe d'amore, Strings & B.c., TWV 51-G3 [G.P. Telemann]",
+    "display_title": "Concerto in G major for Oboe d'amore, Strings & B.c., TWV 51-G3 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, L. Baumgartl - Concerto in G major for Oboe d'amore, Strings & B.c., TWV 51-G3 [G.P. Telemann]",
+    "length": 1004,
+    "duration": 1004,
+    "started": 1724259768,
+    "type": "track",
+    "track_id": 933583,
+    "release": "Telemann - Wind Concertos Volume 08",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, Michael Schneider, Hannes Rux",
+    "display_artist": "Camerata Köln, Michael Schneider, Hannes Rux",
+    "title": "Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "display_title": "Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "track": "Camerata Köln, Michael Schneider, Hannes Rux - Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "length": 429,
+    "duration": 429,
+    "started": 1724260769,
+    "type": "track",
+    "track_id": 933553,
+    "release": "Telemann - Wind Concertos Volume 03",
+    "art_url": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Violin Concerto in A Major, 'Die Relinge' [G.P. Telemann]",
+    "display_title": "Violin Concerto in A Major, 'Die Relinge' [G.P. Telemann]",
+    "track": "New London Consort, Philip Pickett - Violin Concerto in A Major, 'Die Relinge' [G.P. Telemann]",
+    "length": 704,
+    "duration": 704,
+    "started": 1724314356,
+    "type": "track",
+    "track_id": 933537,
+    "release": "Telemann: Water Music",
+    "art_url": "//cdn-images.audioaddict.com/4/0/7/5/d/c/4075dcd45f390b549a0abafff14b2a36.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/7/5/d/c/4075dcd45f390b549a0abafff14b2a36.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Camerata Köln, M. Schneider, H.P. Westermann",
+    "display_artist": "Camerata Köln, M. Schneider, H.P. Westermann",
+    "title": "Concerto for oboe, strings & continuo in F minor, TWV 51-f1 [G.P. Telemann]",
+    "display_title": "Concerto for oboe, strings & continuo in F minor, TWV 51-f1 [G.P. Telemann]",
+    "track": "Camerata Köln, M. Schneider, H.P. Westermann - Concerto for oboe, strings & continuo in F minor, TWV 51-f1 [G.P. Telemann]",
+    "length": 494,
+    "duration": 494,
+    "started": 1724318042,
+    "type": "track",
+    "track_id": 933546,
+    "release": "Telemann - Wind Concertos Volume 02",
+    "art_url": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/4/a/2/e/ff4a2eef479986df94c8e6b645fd8969.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Elephant House Quartet",
+    "display_artist": "Elephant House Quartet",
+    "title": "Fantasia No. 1 in A Major for flute solo, TWV 40:2 [G.P. Telemann]",
+    "display_title": "Fantasia No. 1 in A Major for flute solo, TWV 40:2 [G.P. Telemann]",
+    "track": "Elephant House Quartet - Fantasia No. 1 in A Major for flute solo, TWV 40:2 [G.P. Telemann]",
+    "length": 196,
+    "duration": 196,
+    "started": 1724318533,
+    "type": "track",
+    "track_id": 2954158,
+    "release": "Telemann's Garden",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in C minor TWV 55 - c4 - 1. Ouverture [G.P. Telemann]",
+    "display_title": "Overture in C minor TWV 55 - c4 - 1. Ouverture [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in C minor TWV 55 - c4 - 1. Ouverture [G.P. Telemann]",
+    "length": 249,
+    "duration": 249,
+    "started": 1724320918,
+    "type": "track",
+    "track_id": 951895,
+    "release": "Telemann - Overtures - CD 4",
+    "art_url": "//cdn-images.audioaddict.com/1/c/d/a/0/1/1cda01bb763121ebfe77480cb2be6ddc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/d/a/0/1/1cda01bb763121ebfe77480cb2be6ddc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "display_artist": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt",
+    "title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 4 in G major (Paris Quartets No. 9), TWV 43:G4 [G.P. Telemann]",
+    "display_title": "Quartet for flute, violin, viola da gamba (or cello) & continuo No. 4 in G major (Paris Quartets No. 9), TWV 43:G4 [G.P. Telemann]",
+    "track": "Barthold Kuijken, Sigiswald Kuijken, Wieland Kuijken, Gustav Leonhardt - Quartet for flute, violin, viola da gamba (or cello) & continuo No. 4 in G major (Paris Quartets No. 9), TWV 43:G4 [G.P. Telemann]",
+    "length": 1324,
+    "duration": 1324,
+    "started": 1724321166,
+    "type": "track",
+    "track_id": 3096552,
+    "release": "Telemann: Paris Quartets 1-12 (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/1/2/5/4/5/c/12545c5e033046d9ee8d40d08dff1dbd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/5/4/5/c/12545c5e033046d9ee8d40d08dff1dbd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, Michael Schneider, Martin Stadler",
+    "display_artist": "La Stagione Frankfurt, Michael Schneider, Martin Stadler",
+    "title": "Concerto in A minor, TWV 51:a1, for Oboe, Strings & B.c. - 1. Adagio [G.P. Telemann]",
+    "display_title": "Concerto in A minor, TWV 51:a1, for Oboe, Strings & B.c. - 1. Adagio [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, Michael Schneider, Martin Stadler - Concerto in A minor, TWV 51:a1, for Oboe, Strings & B.c. - 1. Adagio [G.P. Telemann]",
+    "length": 178,
+    "duration": 178,
+    "started": 1724322488,
+    "type": "track",
+    "track_id": 926292,
+    "release": "Telemann - Wind Concertos Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/4/6/f/9/c446f9014f1379d8b9a7f426176838fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "display_artist": "La Stagione Frankfurt, M. Schneider, K. Kaiser",
+    "title": "Concerto in D Major for Tranverse flute, strings & continuo, TWV 51-D2 [G.P. Telemann]",
+    "display_title": "Concerto in D Major for Tranverse flute, strings & continuo, TWV 51-D2 [G.P. Telemann]",
+    "track": "La Stagione Frankfurt, M. Schneider, K. Kaiser - Concerto in D Major for Tranverse flute, strings & continuo, TWV 51-D2 [G.P. Telemann]",
+    "length": 765,
+    "duration": 765,
+    "started": 1724409960,
+    "type": "track",
+    "track_id": 933557,
+    "release": "Telemann - Wind Concertos Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/a/9/0/2/47a902dd65c2801edb6070326caf81ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture in A major TWV 55 A4 [G.P. Telemann]",
+    "display_title": "Overture in A major TWV 55 A4 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture in A major TWV 55 A4 [G.P. Telemann]",
+    "length": 1201,
+    "duration": 1201,
+    "started": 1724418545,
+    "type": "track",
+    "track_id": 951891,
+    "release": "Telemann - Overtures - CD 3",
+    "art_url": "//cdn-images.audioaddict.com/8/1/5/1/7/e/81517e44af432bb825dcc7023a70175f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/5/1/7/e/81517e44af432bb825dcc7023a70175f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Elephant House Quartet",
+    "display_artist": "Elephant House Quartet",
+    "title": "Lentement from Fantasia No. 7 in A Minor for harpsichord solo, TWV 33:19 [G.P. Telemann]",
+    "display_title": "Lentement from Fantasia No. 7 in A Minor for harpsichord solo, TWV 33:19 [G.P. Telemann]",
+    "track": "Elephant House Quartet - Lentement from Fantasia No. 7 in A Minor for harpsichord solo, TWV 33:19 [G.P. Telemann]",
+    "length": 104,
+    "duration": 104,
+    "started": 1724769352,
+    "type": "track",
+    "track_id": 2954161,
+    "release": "Telemann's Garden",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 503,
+    "artist": "Elephant House Quartet",
+    "display_artist": "Elephant House Quartet",
+    "title": "Siciliana from Fantasia No. 9 in B Minor for violin solo, TWV 40:22 [G.P. Telemann]",
+    "display_title": "Siciliana from Fantasia No. 9 in B Minor for violin solo, TWV 40:22 [G.P. Telemann]",
+    "track": "Elephant House Quartet - Siciliana from Fantasia No. 9 in B Minor for violin solo, TWV 40:22 [G.P. Telemann]",
+    "length": 128,
+    "duration": 128,
+    "started": 1725324487,
+    "type": "track",
+    "track_id": 2954163,
+    "release": "Telemann's Garden",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/c/4/c/3acc4cc58b4c56c78578f0890acea073.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

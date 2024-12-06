@@ -1,0 +1,2852 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.4 In C, D.417, \"Tragic\" [F. Schubert]",
+    "display_title": "Symphony No.4 In C, D.417, \"Tragic\" [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.4 In C, D.417, \"Tragic\" [F. Schubert]",
+    "length": 1813,
+    "duration": 1813,
+    "started": 1724036701,
+    "type": "track",
+    "track_id": 2938509,
+    "release": "Schubert: Symphonies [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "display_artist": "Martijn van den Hoek",
+    "title": "Impromptu in C minor Op.90 No.1 - Allegro molto moderato [F. Schubert]",
+    "display_title": "Impromptu in C minor Op.90 No.1 - Allegro molto moderato [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in C minor Op.90 No.1 - Allegro molto moderato [F. Schubert]",
+    "length": 566,
+    "duration": 566,
+    "started": 1724038512,
+    "type": "track",
+    "track_id": 1046754,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 [F. Schubert]",
+    "display_title": "Rosamunde D797 [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 [F. Schubert]",
+    "length": 3526,
+    "duration": 3526,
+    "started": 1724039078,
+    "type": "track",
+    "track_id": 1024035,
+    "release": "SCHUBERT, Franz - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Nadia Labrie",
+    "display_artist": "Nadia Labrie",
+    "title": "Die schöne Müllerin, Op. 25, D. 795: XII. Pause (adapted for Flute and Piano) [F. Schubert]",
+    "display_title": "Die schöne Müllerin, Op. 25, D. 795: XII. Pause (adapted for Flute and Piano) [F. Schubert]",
+    "track": "Nadia Labrie - Die schöne Müllerin, Op. 25, D. 795: XII. Pause (adapted for Flute and Piano) [F. Schubert]",
+    "length": 279,
+    "duration": 279,
+    "started": 1724042596,
+    "type": "track",
+    "track_id": 3015600,
+    "release": "Flute Passion: Schubert",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "display_artist": "Tamara Rumiantsev",
+    "title": "Piano Sonata in C major D279 [F. Schubert]",
+    "display_title": "Piano Sonata in C major D279 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Piano Sonata in C major D279 [F. Schubert]",
+    "length": 1339,
+    "duration": 1339,
+    "started": 1724042875,
+    "type": "track",
+    "track_id": 1046769,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Israel Piano Trio",
+    "display_artist": "Israel Piano Trio",
+    "title": "Piano Trio No.2 in E flat major D929 [F. Schubert]",
+    "display_title": "Piano Trio No.2 in E flat major D929 [F. Schubert]",
+    "track": "Israel Piano Trio - Piano Trio No.2 in E flat major D929 [F. Schubert]",
+    "length": 2871,
+    "duration": 2871,
+    "started": 1724044214,
+    "type": "track",
+    "track_id": 1046782,
+    "release": "Masterworks Disc 15",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.6 In C, D.589, \"Little\" [F. Schubert]",
+    "display_title": "Symphony No.6 In C, D.589, \"Little\" [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.6 In C, D.589, \"Little\" [F. Schubert]",
+    "length": 1875,
+    "duration": 1875,
+    "started": 1724047086,
+    "type": "track",
+    "track_id": 2938511,
+    "release": "Schubert: Symphonies [Disc 3]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "display_artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Schwanengesang, D957 (excerpts) - No.4. Standchen [F. Schubert]",
+    "display_title": "Schwanengesang, D957 (excerpts) - No.4. Standchen [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Schwanengesang, D957 (excerpts) - No.4. Standchen [F. Schubert]",
+    "length": 324,
+    "duration": 324,
+    "started": 1724048959,
+    "type": "track",
+    "track_id": 1049450,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Piano Trio No.1 in B flat, Op.99, D898 [F. Schubert]",
+    "display_title": "Piano Trio No.1 in B flat, Op.99, D898 [F. Schubert]",
+    "track": "Beaux Arts Trio - Piano Trio No.1 in B flat, Op.99, D898 [F. Schubert]",
+    "length": 2140,
+    "duration": 2140,
+    "started": 1724049284,
+    "type": "track",
+    "track_id": 1054565,
+    "release": "Schubert - Complete Trios CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.7, in D major, D.94 [F. Schubert]",
+    "display_title": "String Quartet No.7, in D major, D.94 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.7, in D major, D.94 [F. Schubert]",
+    "length": 1121,
+    "duration": 1121,
+    "started": 1724051422,
+    "type": "track",
+    "track_id": 1040252,
+    "release": "Schubert - String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Brandis Quartet",
+    "display_artist": "Brandis Quartet",
+    "title": "String Quartet in A minor, D804, 'Rosamunde' [F. Schubert]",
+    "display_title": "String Quartet in A minor, D804, 'Rosamunde' [F. Schubert]",
+    "track": "Brandis Quartet - String Quartet in A minor, D804, 'Rosamunde' [F. Schubert]",
+    "length": 2156,
+    "duration": 2156,
+    "started": 1724052533,
+    "type": "track",
+    "track_id": 1054571,
+    "release": "Masterworks Disc 10",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Sharon Quartet",
+    "display_artist": "Sharon Quartet",
+    "title": "String Quartet in G minor D173 [F. Schubert]",
+    "display_title": "String Quartet in G minor D173 [F. Schubert]",
+    "track": "Sharon Quartet - String Quartet in G minor D173 [F. Schubert]",
+    "length": 1406,
+    "duration": 1406,
+    "started": 1724054689,
+    "type": "track",
+    "track_id": 1054574,
+    "release": "Masterworks Disc 13",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "display_artist": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Mass in F major, D105 [F. Schubert]",
+    "display_title": "Mass in F major, D105 [F. Schubert]",
+    "track": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch - Mass in F major, D105 [F. Schubert]",
+    "length": 2866,
+    "duration": 2866,
+    "started": 1724056093,
+    "type": "track",
+    "track_id": 1048914,
+    "release": "Schubert - Sacred Works CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "D. Fischer-Dieskau, F. Araiza, B. Fassbaender, H. Donath, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "display_artist": "D. Fischer-Dieskau, F. Araiza, B. Fassbaender, H. Donath, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Mass in E flat major, D950 [F. Schubert]",
+    "display_title": "Mass in E flat major, D950 [F. Schubert]",
+    "track": "D. Fischer-Dieskau, F. Araiza, B. Fassbaender, H. Donath, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch - Mass in E flat major, D950 [F. Schubert]",
+    "length": 3418,
+    "duration": 3418,
+    "started": 1724058952,
+    "type": "track",
+    "track_id": 1048913,
+    "release": "Schubert - Sacred Works CD7",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Grumiaux Trio",
+    "display_artist": "Grumiaux Trio",
+    "title": "String Trio in B flat, D471 - Allegro - 1. Allegro [F. Schubert]",
+    "display_title": "String Trio in B flat, D471 - Allegro - 1. Allegro [F. Schubert]",
+    "track": "Grumiaux Trio - String Trio in B flat, D471 - Allegro - 1. Allegro [F. Schubert]",
+    "length": 501,
+    "duration": 501,
+    "started": 1724062363,
+    "type": "track",
+    "track_id": 1054543,
+    "release": "Schubert - Complete Trios CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "display_artist": "Alwin Baer",
+    "title": "Zwei Scherzi D593 - Scherzo in D flat major [F. Schubert]",
+    "display_title": "Zwei Scherzi D593 - Scherzo in D flat major [F. Schubert]",
+    "track": "Alwin Baer - Zwei Scherzi D593 - Scherzo in D flat major [F. Schubert]",
+    "length": 325,
+    "duration": 325,
+    "started": 1724066301,
+    "type": "track",
+    "track_id": 1046789,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.1 in E Major, D157 [F. Schubert]",
+    "display_title": "Piano Sonata No.1 in E Major, D157 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.1 in E Major, D157 [F. Schubert]",
+    "length": 1183,
+    "duration": 1183,
+    "started": 1724066627,
+    "type": "track",
+    "track_id": 1054552,
+    "release": "Piano (Disc 28) Schubert Sonatas D 537, 279 & 157",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Bart Van Oort",
+    "display_artist": "Bart Van Oort",
+    "title": "Piano Sonata in A minor D845 [F. Schubert]",
+    "display_title": "Piano Sonata in A minor D845 [F. Schubert]",
+    "track": "Bart Van Oort - Piano Sonata in A minor D845 [F. Schubert]",
+    "length": 2305,
+    "duration": 2305,
+    "started": 1724067807,
+    "type": "track",
+    "track_id": 1046766,
+    "release": "Masterworks Disc 23",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "display_artist": "Claudio Arrau",
+    "title": "Piano Sonata in A major, D959 [F. Schubert]",
+    "display_title": "Piano Sonata in A major, D959 [F. Schubert]",
+    "track": "Claudio Arrau - Piano Sonata in A major, D959 [F. Schubert]",
+    "length": 2536,
+    "duration": 2536,
+    "started": 1724070112,
+    "type": "track",
+    "track_id": 1049602,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "David Kuyken",
+    "display_artist": "David Kuyken",
+    "title": "Piano Sonata in G major D894 [F. Schubert]",
+    "display_title": "Piano Sonata in G major D894 [F. Schubert]",
+    "track": "David Kuyken - Piano Sonata in G major D894 [F. Schubert]",
+    "length": 2383,
+    "duration": 2383,
+    "started": 1724074800,
+    "type": "track",
+    "track_id": 1046780,
+    "release": "Masterworks Disc 21",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "display_artist": "Julia Fischer, Martin Helmchen",
+    "title": "Fantasia in F minor for Piano Duet, D.940, Op.103 [F. Schubert]",
+    "display_title": "Fantasia in F minor for Piano Duet, D.940, Op.103 [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Fantasia in F minor for Piano Duet, D.940, Op.103 [F. Schubert]",
+    "length": 1144,
+    "duration": 1144,
+    "started": 1724077182,
+    "type": "track",
+    "track_id": 3070798,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 2",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "display_artist": "Julia Fischer, Martin Helmchen",
+    "title": "Sonata (Sonatina) for Violin and Piano in G minor, D.408, Op.137, No.3 [F. Schubert]",
+    "display_title": "Sonata (Sonatina) for Violin and Piano in G minor, D.408, Op.137, No.3 [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Sonata (Sonatina) for Violin and Piano in G minor, D.408, Op.137, No.3 [F. Schubert]",
+    "length": 967,
+    "duration": 967,
+    "started": 1724078327,
+    "type": "track",
+    "track_id": 3070801,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 1",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "display_artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "title": "Des Fischers Liebesgluck, D933 [F. Schubert]",
+    "display_title": "Des Fischers Liebesgluck, D933 [F. Schubert]",
+    "track": "Anthony Rolfe Johnson, Graham Johnson - Des Fischers Liebesgluck, D933 [F. Schubert]",
+    "length": 444,
+    "duration": 444,
+    "started": 1724079294,
+    "type": "track",
+    "track_id": 1049077,
+    "release": "Hyperion Schubert Edition Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Piano Trio in one movement in B flat, D28 'Sonata' - Allegro [F. Schubert]",
+    "display_title": "Piano Trio in one movement in B flat, D28 'Sonata' - Allegro [F. Schubert]",
+    "track": "Beaux Arts Trio - Piano Trio in one movement in B flat, D28 'Sonata' - Allegro [F. Schubert]",
+    "length": 510,
+    "duration": 510,
+    "started": 1724081078,
+    "type": "track",
+    "track_id": 1054564,
+    "release": "Schubert - Complete Trios CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Piano Trio No.2 in E flat, Op.100, D929 [F. Schubert]",
+    "display_title": "Piano Trio No.2 in E flat, Op.100, D929 [F. Schubert]",
+    "track": "Beaux Arts Trio - Piano Trio No.2 in E flat, Op.100, D929 [F. Schubert]",
+    "length": 2481,
+    "duration": 2481,
+    "started": 1724081588,
+    "type": "track",
+    "track_id": 1054566,
+    "release": "Schubert - Complete Trios CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "display_artist": "Julia Fischer, Martin Helmchen",
+    "title": "Sonata (Sonatina) for Violin and Piano in A minor, D.385, Op.137, No.2 [F. Schubert]",
+    "display_title": "Sonata (Sonatina) for Violin and Piano in A minor, D.385, Op.137, No.2 [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Sonata (Sonatina) for Violin and Piano in A minor, D.385, Op.137, No.2 [F. Schubert]",
+    "length": 1270,
+    "duration": 1270,
+    "started": 1724084068,
+    "type": "track",
+    "track_id": 3070799,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 1",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "display_artist": "Claudio Arrau",
+    "title": "Four Impromptus, D899 - No.1 in C minor [F. Schubert]",
+    "display_title": "Four Impromptus, D899 - No.1 in C minor [F. Schubert]",
+    "track": "Claudio Arrau - Four Impromptus, D899 - No.1 in C minor [F. Schubert]",
+    "length": 592,
+    "duration": 592,
+    "started": 1724085339,
+    "type": "track",
+    "track_id": 1049601,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "H. Donath, B. Fassbaender, D. Fischer-Dieskau, F. Araiza, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "display_artist": "H. Donath, B. Fassbaender, D. Fischer-Dieskau, F. Araiza, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Mass in A flat major (Missa Solemnis), D678 [F. Schubert]",
+    "display_title": "Mass in A flat major (Missa Solemnis), D678 [F. Schubert]",
+    "track": "H. Donath, B. Fassbaender, D. Fischer-Dieskau, F. Araiza, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch - Mass in A flat major (Missa Solemnis), D678 [F. Schubert]",
+    "length": 2892,
+    "duration": 2892,
+    "started": 1724085930,
+    "type": "track",
+    "track_id": 1048910,
+    "release": "Schubert - Sacred Works CD5",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "display_artist": "Klára Würtz",
+    "title": "Piano Sonata in B major, D575 [F. Schubert]",
+    "display_title": "Piano Sonata in B major, D575 [F. Schubert]",
+    "track": "Klára Würtz - Piano Sonata in B major, D575 [F. Schubert]",
+    "length": 1355,
+    "duration": 1355,
+    "started": 1724088810,
+    "type": "track",
+    "track_id": 1261594,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.7 In E Flat, D. 568 [F. Schubert]",
+    "display_title": "Piano Sonata No.7 In E Flat, D. 568 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.7 In E Flat, D. 568 [F. Schubert]",
+    "length": 1733,
+    "duration": 1733,
+    "started": 1724095115,
+    "type": "track",
+    "track_id": 1054562,
+    "release": "Piano (Disc 27) Schubert Sonatas D 568, 557 & 566",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "display_artist": "Martijn van den Hoek",
+    "title": "Impromptu in B flat major Op.142 No.3 - Andante mit Varationen (Rosamunde) [F. Schubert]",
+    "display_title": "Impromptu in B flat major Op.142 No.3 - Andante mit Varationen (Rosamunde) [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in B flat major Op.142 No.3 - Andante mit Varationen (Rosamunde) [F. Schubert]",
+    "length": 696,
+    "duration": 696,
+    "started": 1724096835,
+    "type": "track",
+    "track_id": 1046753,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "display_artist": "Martijn van den Hoek",
+    "title": "Impromptu in F minor Op.142 No.4 - Allegro vivace [F. Schubert]",
+    "display_title": "Impromptu in F minor Op.142 No.4 - Allegro vivace [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in F minor Op.142 No.4 - Allegro vivace [F. Schubert]",
+    "length": 401,
+    "duration": 401,
+    "started": 1724097532,
+    "type": "track",
+    "track_id": 1046757,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.15, in G, D.887 (Op. Post. 161) [F. Schubert]",
+    "display_title": "String Quartet No.15, in G, D.887 (Op. Post. 161) [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.15, in G, D.887 (Op. Post. 161) [F. Schubert]",
+    "length": 2750,
+    "duration": 2750,
+    "started": 1724097933,
+    "type": "track",
+    "track_id": 1040245,
+    "release": "Schubert - String Quartets CD6",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 06. Chorus of Spirits [F. Schubert]",
+    "display_title": "Rosamunde D797 - 06. Chorus of Spirits [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 06. Chorus of Spirits [F. Schubert]",
+    "length": 192,
+    "duration": 192,
+    "started": 1724101004,
+    "type": "track",
+    "track_id": 921033,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "display_artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Symphony No.10 in D, D.936A (Realised by Brian Newbould) [F. Schubert]",
+    "display_title": "Symphony No.10 in D, D.936A (Realised by Brian Newbould) [F. Schubert]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Symphony No.10 in D, D.936A (Realised by Brian Newbould) [F. Schubert]",
+    "length": 1652,
+    "duration": 1652,
+    "started": 1724101188,
+    "type": "track",
+    "track_id": 2942991,
+    "release": "The Ten Symphonies CD5",
+    "art_url": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Frank Van De Laar",
+    "display_artist": "Frank Van De Laar",
+    "title": "Piano Sonata in D major D850 'Gasteiner' [F. Schubert]",
+    "display_title": "Piano Sonata in D major D850 'Gasteiner' [F. Schubert]",
+    "track": "Frank Van De Laar - Piano Sonata in D major D850 'Gasteiner' [F. Schubert]",
+    "length": 2510,
+    "duration": 2510,
+    "started": 1724102835,
+    "type": "track",
+    "track_id": 1046773,
+    "release": "Masterworks Disc 20",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alfred Brendel",
+    "display_artist": "Alfred Brendel",
+    "title": "6 Moments musicaux, Op.94 D780 [F. Schubert]",
+    "display_title": "6 Moments musicaux, Op.94 D780 [F. Schubert]",
+    "track": "Alfred Brendel - 6 Moments musicaux, Op.94 D780 [F. Schubert]",
+    "length": 1683,
+    "duration": 1683,
+    "started": 1724105344,
+    "type": "track",
+    "track_id": 1054546,
+    "release": "Schubert -The Complete Impromptus CD2",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Arleen Auger, Graham Johnson",
+    "display_artist": "Arleen Auger, Graham Johnson",
+    "title": "Die Verschworenen, D787 'Der hausliche Krieg' - Ich schleiche bang und still 'Romanze' [F. Schubert]",
+    "display_title": "Die Verschworenen, D787 'Der hausliche Krieg' - Ich schleiche bang und still 'Romanze' [F. Schubert]",
+    "track": "Arleen Auger, Graham Johnson - Die Verschworenen, D787 'Der hausliche Krieg' - Ich schleiche bang und still 'Romanze' [F. Schubert]",
+    "length": 188,
+    "duration": 188,
+    "started": 1724107191,
+    "type": "track",
+    "track_id": 1049128,
+    "release": "Hyperion Schubert Edition Volume 09",
+    "art_url": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "display_artist": "Tamara Rumiantsev",
+    "title": "Scherzo in B flat major D593 [F. Schubert]",
+    "display_title": "Scherzo in B flat major D593 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Scherzo in B flat major D593 [F. Schubert]",
+    "length": 238,
+    "duration": 238,
+    "started": 1724107379,
+    "type": "track",
+    "track_id": 1046784,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Israel Piano Trio",
+    "display_artist": "Israel Piano Trio",
+    "title": "Notturno D897 - Adagio [F. Schubert]",
+    "display_title": "Notturno D897 - Adagio [F. Schubert]",
+    "track": "Israel Piano Trio - Notturno D897 - Adagio [F. Schubert]",
+    "length": 583,
+    "duration": 583,
+    "started": 1724107617,
+    "type": "track",
+    "track_id": 1046760,
+    "release": "Masterworks Disc 15",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "display_artist": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Magnificat for soloists in C major, D486 [F. Schubert]",
+    "display_title": "Magnificat for soloists in C major, D486 [F. Schubert]",
+    "track": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch - Magnificat for soloists in C major, D486 [F. Schubert]",
+    "length": 541,
+    "duration": 541,
+    "started": 1724108196,
+    "type": "track",
+    "track_id": 1048909,
+    "release": "Schubert - Sacred Works CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "display_artist": "Tamara Rumiantsev",
+    "title": "Piano Sonata in E major D157 [F. Schubert]",
+    "display_title": "Piano Sonata in E major D157 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Piano Sonata in E major D157 [F. Schubert]",
+    "length": 902,
+    "duration": 902,
+    "started": 1724108729,
+    "type": "track",
+    "track_id": 1046775,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "display_artist": "Martijn van den Hoek",
+    "title": "Impromptu in A flat major Op.142 No.2 - Allegretto [F. Schubert]",
+    "display_title": "Impromptu in A flat major Op.142 No.2 - Allegretto [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in A flat major Op.142 No.2 - Allegretto [F. Schubert]",
+    "length": 474,
+    "duration": 474,
+    "started": 1724109910,
+    "type": "track",
+    "track_id": 1046751,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "10. 12 German Dances, D790",
+    "display_artist": "10. 12 German Dances, D790",
+    "title": "12 German Dances, D790 [F. Schubert]",
+    "display_title": "12 German Dances, D790 [F. Schubert]",
+    "track": "10. 12 German Dances, D790 - 12 German Dances, D790 [F. Schubert]",
+    "length": 636,
+    "duration": 636,
+    "started": 1724110385,
+    "type": "track",
+    "track_id": 1049443,
+    "release": "Schubert -The Complete Impromptus CD2",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Octet",
+    "display_artist": "Berlin Philharmonic Octet",
+    "title": "Octet in F major, D803 [F. Schubert]",
+    "display_title": "Octet in F major, D803 [F. Schubert]",
+    "track": "Berlin Philharmonic Octet - Octet in F major, D803 [F. Schubert]",
+    "length": 3763,
+    "duration": 3763,
+    "started": 1724111020,
+    "type": "track",
+    "track_id": 1054542,
+    "release": "Masterworks Disc 16",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Lynn Harrell, LaSalle Quartet",
+    "display_artist": "Lynn Harrell, LaSalle Quartet",
+    "title": "String Quintet In C, D.956, (Op. post. 163) [F. Schubert]",
+    "display_title": "String Quintet In C, D.956, (Op. post. 163) [F. Schubert]",
+    "track": "Lynn Harrell, LaSalle Quartet - String Quintet In C, D.956, (Op. post. 163) [F. Schubert]",
+    "length": 3064,
+    "duration": 3064,
+    "started": 1724116791,
+    "type": "track",
+    "track_id": 3070804,
+    "release": "Schubert-Quintet (With Lynn Harrell) & Schumann-Piano Quintet (With James Levine) _ LaSalle [Pentone/ DG SACD 5186 227]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/c/a/7/8/9cca782072df88c5b5c28c8dc4fc1ce7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/c/a/7/8/9cca782072df88c5b5c28c8dc4fc1ce7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Frank Van De Laar",
+    "display_artist": "Frank Van De Laar",
+    "title": "Piano Sonata in E minor D566 [F. Schubert]",
+    "display_title": "Piano Sonata in E minor D566 [F. Schubert]",
+    "track": "Frank Van De Laar - Piano Sonata in E minor D566 [F. Schubert]",
+    "length": 1548,
+    "duration": 1548,
+    "started": 1724119856,
+    "type": "track",
+    "track_id": 1046777,
+    "release": "Masterworks Disc 18",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "R. Serkin, J. Laredo, P. Naegele, L. Parnas, J. Levine",
+    "display_artist": "R. Serkin, J. Laredo, P. Naegele, L. Parnas, J. Levine",
+    "title": "Quintet for Piano & Strings in A Major [F. Schubert]",
+    "display_title": "Quintet for Piano & Strings in A Major [F. Schubert]",
+    "track": "R. Serkin, J. Laredo, P. Naegele, L. Parnas, J. Levine - Quintet for Piano & Strings in A Major [F. Schubert]",
+    "length": 2375,
+    "duration": 2375,
+    "started": 1724121404,
+    "type": "track",
+    "track_id": 1040237,
+    "release": "Treasures of Chamber Music - Schubert & Mozart - [Vol.2] (Disc 5)",
+    "art_url": "//cdn-images.audioaddict.com/d/0/7/b/4/a/d07b4a35a5eaebf6ded39541ded3d0ed.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/7/b/4/a/d07b4a35a5eaebf6ded39541ded3d0ed.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch",
+    "display_artist": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Offertory 'Tres sunt, qui testimonium dant in coelo' in A minor, D181 [F. Schubert]",
+    "display_title": "Offertory 'Tres sunt, qui testimonium dant in coelo' in A minor, D181 [F. Schubert]",
+    "track": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch - Offertory 'Tres sunt, qui testimonium dant in coelo' in A minor, D181 [F. Schubert]",
+    "length": 223,
+    "duration": 223,
+    "started": 1724123771,
+    "type": "track",
+    "track_id": 1048920,
+    "release": "Schubert - Sacred Works CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "13 Variations On A Theme By Anselm Httenbrenner, D.576 [F. Schubert]",
+    "display_title": "13 Variations On A Theme By Anselm Httenbrenner, D.576 [F. Schubert]",
+    "track": "Wilhelm Kempff - 13 Variations On A Theme By Anselm Httenbrenner, D.576 [F. Schubert]",
+    "length": 877,
+    "duration": 877,
+    "started": 1724124247,
+    "type": "track",
+    "track_id": 1054550,
+    "release": "Piano (Disc 30) Schubert ''Wanderer-Fantasie'' D 760, Piano Pieces D 946 etc.",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "display_artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Winterreise, Op.89, D911 (excerpts) - No.1. Gute Nacht [F. Schubert]",
+    "display_title": "Winterreise, Op.89, D911 (excerpts) - No.1. Gute Nacht [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Winterreise, Op.89, D911 (excerpts) - No.1. Gute Nacht [F. Schubert]",
+    "length": 271,
+    "duration": 271,
+    "started": 1724125123,
+    "type": "track",
+    "track_id": 1049447,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.8, in B flat major, D.112 (Op. Post.168) [F. Schubert]",
+    "display_title": "String Quartet No.8, in B flat major, D.112 (Op. Post.168) [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.8, in B flat major, D.112 (Op. Post.168) [F. Schubert]",
+    "length": 1610,
+    "duration": 1610,
+    "started": 1724125394,
+    "type": "track",
+    "track_id": 1040253,
+    "release": "Schubert - String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.6, in D major, D.74 [F. Schubert]",
+    "display_title": "String Quartet No.6, in D major, D.74 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.6, in D major, D.74 [F. Schubert]",
+    "length": 1368,
+    "duration": 1368,
+    "started": 1724127321,
+    "type": "track",
+    "track_id": 1040251,
+    "release": "Schubert - String Quartets CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Israel Piano Trio",
+    "display_artist": "Israel Piano Trio",
+    "title": "Sonatensatz D28 [F. Schubert]",
+    "display_title": "Sonatensatz D28 [F. Schubert]",
+    "track": "Israel Piano Trio - Sonatensatz D28 [F. Schubert]",
+    "length": 687,
+    "duration": 687,
+    "started": 1724129797,
+    "type": "track",
+    "track_id": 1046786,
+    "release": "Masterworks Disc 14",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch",
+    "display_artist": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Kyrie in F major, D66 [F. Schubert]",
+    "display_title": "Kyrie in F major, D66 [F. Schubert]",
+    "track": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch - Kyrie in F major, D66 [F. Schubert]",
+    "length": 355,
+    "duration": 355,
+    "started": 1724130479,
+    "type": "track",
+    "track_id": 1048906,
+    "release": "Schubert - Sacred Works CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Grumiaux Trio",
+    "display_artist": "Grumiaux Trio",
+    "title": "String Trio in B flat, D581 [F. Schubert]",
+    "display_title": "String Trio in B flat, D581 [F. Schubert]",
+    "track": "Grumiaux Trio - String Trio in B flat, D581 [F. Schubert]",
+    "length": 1231,
+    "duration": 1231,
+    "started": 1724131729,
+    "type": "track",
+    "track_id": 1054544,
+    "release": "Schubert - Complete Trios CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "display_artist": "Klára Würtz",
+    "title": "Drei Klavierstucke, D946 [F. Schubert]",
+    "display_title": "Drei Klavierstucke, D946 [F. Schubert]",
+    "track": "Klára Würtz - Drei Klavierstucke, D946 [F. Schubert]",
+    "length": 1787,
+    "duration": 1787,
+    "started": 1724132959,
+    "type": "track",
+    "track_id": 1261649,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "display_artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Winterreise, Op.89, D911 (excerpts) - No.5. Der Lindenbaum [F. Schubert]",
+    "display_title": "Winterreise, Op.89, D911 (excerpts) - No.5. Der Lindenbaum [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Winterreise, Op.89, D911 (excerpts) - No.5. Der Lindenbaum [F. Schubert]",
+    "length": 265,
+    "duration": 265,
+    "started": 1724134746,
+    "type": "track",
+    "track_id": 1049448,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 04. Entr'acte Act II [F. Schubert]",
+    "display_title": "Rosamunde D797 - 04. Entr'acte Act II [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 04. Entr'acte Act II [F. Schubert]",
+    "length": 265,
+    "duration": 265,
+    "started": 1724135012,
+    "type": "track",
+    "track_id": 921031,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.5 in A Flat Major, D557 [F. Schubert]",
+    "display_title": "Piano Sonata No.5 in A Flat Major, D557 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.5 in A Flat Major, D557 [F. Schubert]",
+    "length": 724,
+    "duration": 724,
+    "started": 1724135270,
+    "type": "track",
+    "track_id": 1054560,
+    "release": "Piano (Disc 27) Schubert Sonatas D 568, 557 & 566",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "display_artist": "Claudio Arrau",
+    "title": "Four Impromptus, D899 - No.4 in A flat major [F. Schubert]",
+    "display_title": "Four Impromptus, D899 - No.4 in A flat major [F. Schubert]",
+    "track": "Claudio Arrau - Four Impromptus, D899 - No.4 in A flat major [F. Schubert]",
+    "length": 501,
+    "duration": 501,
+    "started": 1724135983,
+    "type": "track",
+    "track_id": 1049432,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Mstislav Rostropovitj, Benjamin Britten",
+    "display_artist": "Mstislav Rostropovitj, Benjamin Britten",
+    "title": "Sonata for arpeggione & piano in A minor 'Arpeggione Sonata', D. 821 [F. Schubert]",
+    "display_title": "Sonata for arpeggione & piano in A minor 'Arpeggione Sonata', D. 821 [F. Schubert]",
+    "track": "Mstislav Rostropovitj, Benjamin Britten - Sonata for arpeggione & piano in A minor 'Arpeggione Sonata', D. 821 [F. Schubert]",
+    "length": 1726,
+    "duration": 1726,
+    "started": 1724136484,
+    "type": "track",
+    "track_id": 1039303,
+    "release": "Decca Legends - Schubert-Arpeggione & Debussy-Cello sonata - Rostropovich & Britten",
+    "art_url": "//cdn-images.audioaddict.com/a/c/8/b/4/4/ac8b44384be60be1f0fafe520a15a3b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/8/b/4/4/ac8b44384be60be1f0fafe520a15a3b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "display_artist": "Claudio Arrau",
+    "title": "Piano Sonata in C major, Op. Posth. 120, D958 [F. Schubert]",
+    "display_title": "Piano Sonata in C major, Op. Posth. 120, D958 [F. Schubert]",
+    "track": "Claudio Arrau - Piano Sonata in C major, Op. Posth. 120, D958 [F. Schubert]",
+    "length": 2019,
+    "duration": 2019,
+    "started": 1724138203,
+    "type": "track",
+    "track_id": 1049604,
+    "release": "Schubert - The Late Piano Sonatas CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.1 In D, D.82 [F. Schubert]",
+    "display_title": "Symphony No.1 In D, D.82 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.1 In D, D.82 [F. Schubert]",
+    "length": 1769,
+    "duration": 1769,
+    "started": 1724140220,
+    "type": "track",
+    "track_id": 2938506,
+    "release": "Schubert: Symphonies [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Brandis Quartet",
+    "display_artist": "Brandis Quartet",
+    "title": "Quartettsatz in C minor D703 [F. Schubert]",
+    "display_title": "Quartettsatz in C minor D703 [F. Schubert]",
+    "track": "Brandis Quartet - Quartettsatz in C minor D703 [F. Schubert]",
+    "length": 524,
+    "duration": 524,
+    "started": 1724141980,
+    "type": "track",
+    "track_id": 1049171,
+    "release": "Masterworks Disc 11",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "display_artist": "Julia Fischer, Martin Helmchen",
+    "title": "Sonata for Violin and Piano in A major 'Duo', D.574 (Op. posth. 162) [F. Schubert]",
+    "display_title": "Sonata for Violin and Piano in A major 'Duo', D.574 (Op. posth. 162) [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Sonata for Violin and Piano in A major 'Duo', D.574 (Op. posth. 162) [F. Schubert]",
+    "length": 1357,
+    "duration": 1357,
+    "started": 1724142502,
+    "type": "track",
+    "track_id": 3070802,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 2",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 09 - Chorus of Shepherds [F. Schubert]",
+    "display_title": "Rosamunde D797 - 09 - Chorus of Shepherds [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 09 - Chorus of Shepherds [F. Schubert]",
+    "length": 250,
+    "duration": 250,
+    "started": 1724143861,
+    "type": "track",
+    "track_id": 921036,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "display_artist": "Klára Würtz",
+    "title": "Piano Sonata in A major, D664 [F. Schubert]",
+    "display_title": "Piano Sonata in A major, D664 [F. Schubert]",
+    "track": "Klára Würtz - Piano Sonata in A major, D664 [F. Schubert]",
+    "length": 1426,
+    "duration": 1426,
+    "started": 1724144107,
+    "type": "track",
+    "track_id": 1261610,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "display_artist": "Alwin Baer",
+    "title": "Piano Sonata in F sharp minor D570/571 [F. Schubert]",
+    "display_title": "Piano Sonata in F sharp minor D570/571 [F. Schubert]",
+    "track": "Alwin Baer - Piano Sonata in F sharp minor D570/571 [F. Schubert]",
+    "length": 1037,
+    "duration": 1037,
+    "started": 1724145533,
+    "type": "track",
+    "track_id": 1046779,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.11 in F minor, D625 [F. Schubert]",
+    "display_title": "Piano Sonata No.11 in F minor, D625 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.11 in F minor, D625 [F. Schubert]",
+    "length": 1351,
+    "duration": 1351,
+    "started": 1724146571,
+    "type": "track",
+    "track_id": 1054553,
+    "release": "Piano (Disc 26) Schubert Sonatas D 664, 625 & 575",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "display_artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Schwanengesang, D957 (excerpts) - No.12. Am Meer [F. Schubert]",
+    "display_title": "Schwanengesang, D957 (excerpts) - No.12. Am Meer [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Schwanengesang, D957 (excerpts) - No.12. Am Meer [F. Schubert]",
+    "length": 232,
+    "duration": 232,
+    "started": 1724147912,
+    "type": "track",
+    "track_id": 1049451,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.4 In A Minor, D.537 [F. Schubert]",
+    "display_title": "Piano Sonata No.4 In A Minor, D.537 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.4 In A Minor, D.537 [F. Schubert]",
+    "length": 1102,
+    "duration": 1102,
+    "started": 1724148144,
+    "type": "track",
+    "track_id": 1054559,
+    "release": "Piano (Disc 28) Schubert Sonatas D 537, 279 & 157",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.5, in B flat major, D.68 [F. Schubert]",
+    "display_title": "String Quartet No.5, in B flat major, D.68 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.5, in B flat major, D.68 [F. Schubert]",
+    "length": 839,
+    "duration": 839,
+    "started": 1724149239,
+    "type": "track",
+    "track_id": 1040250,
+    "release": "Schubert - String Quartets CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Arleen Auger, Graham Johnson",
+    "display_artist": "Arleen Auger, Graham Johnson",
+    "title": "Lambertine, D301 [F. Schubert]",
+    "display_title": "Lambertine, D301 [F. Schubert]",
+    "track": "Arleen Auger, Graham Johnson - Lambertine, D301 [F. Schubert]",
+    "length": 201,
+    "duration": 201,
+    "started": 1724160560,
+    "type": "track",
+    "track_id": 1049132,
+    "release": "Hyperion Schubert Edition Volume 09",
+    "art_url": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "display_artist": "Martijn van den Hoek",
+    "title": "Impromptu in E flat major Op.90 No.2 - Allegro [F. Schubert]",
+    "display_title": "Impromptu in E flat major Op.90 No.2 - Allegro [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in E flat major Op.90 No.2 - Allegro [F. Schubert]",
+    "length": 257,
+    "duration": 257,
+    "started": 1724162274,
+    "type": "track",
+    "track_id": 1046755,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.9, in G minor, D.173 [F. Schubert]",
+    "display_title": "String Quartet No.9, in G minor, D.173 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.9, in G minor, D.173 [F. Schubert]",
+    "length": 1403,
+    "duration": 1403,
+    "started": 1724162531,
+    "type": "track",
+    "track_id": 1040254,
+    "release": "Schubert - String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "display_artist": "Tamara Rumiantsev",
+    "title": "Fantasie in C minor D2e [F. Schubert]",
+    "display_title": "Fantasie in C minor D2e [F. Schubert]",
+    "track": "Tamara Rumiantsev - Fantasie in C minor D2e [F. Schubert]",
+    "length": 430,
+    "duration": 430,
+    "started": 1724164524,
+    "type": "track",
+    "track_id": 1046750,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "display_artist": "Klára Würtz",
+    "title": "Piano Sonata in A minor, D537 [F. Schubert]",
+    "display_title": "Piano Sonata in A minor, D537 [F. Schubert]",
+    "track": "Klára Würtz - Piano Sonata in A minor, D537 [F. Schubert]",
+    "length": 1423,
+    "duration": 1423,
+    "started": 1724164954,
+    "type": "track",
+    "track_id": 1261515,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "display_artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Symphonic Fragment in D, D.615 (Orchestrated by Brian Newbould) [F. Schubert]",
+    "display_title": "Symphonic Fragment in D, D.615 (Orchestrated by Brian Newbould) [F. Schubert]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Symphonic Fragment in D, D.615 (Orchestrated by Brian Newbould) [F. Schubert]",
+    "length": 460,
+    "duration": 460,
+    "started": 1724166376,
+    "type": "track",
+    "track_id": 2942994,
+    "release": "The Ten Symphonies CD6",
+    "art_url": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "display_artist": "Alwin Baer",
+    "title": "Ungarische Melodie D817 [F. Schubert]",
+    "display_title": "Ungarische Melodie D817 [F. Schubert]",
+    "track": "Alwin Baer - Ungarische Melodie D817 [F. Schubert]",
+    "length": 258,
+    "duration": 258,
+    "started": 1724166832,
+    "type": "track",
+    "track_id": 1046787,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.10, in E flat, D.87 [F. Schubert]",
+    "display_title": "String Quartet No.10, in E flat, D.87 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.10, in E flat, D.87 [F. Schubert]",
+    "length": 1506,
+    "duration": 1506,
+    "started": 1724172104,
+    "type": "track",
+    "track_id": 1040241,
+    "release": "Schubert - String Quartets CD4",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Allegretto in C minor, D.915 [F. Schubert]",
+    "display_title": "Allegretto in C minor, D.915 [F. Schubert]",
+    "track": "Wilhelm Kempff - Allegretto in C minor, D.915 [F. Schubert]",
+    "length": 295,
+    "duration": 295,
+    "started": 1724173762,
+    "type": "track",
+    "track_id": 1049371,
+    "release": "Piano (Disc 30) Schubert ''Wanderer-Fantasie'' D 760, Piano Pieces D 946 etc.",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 01. Overture (Die Zauberharfe D644) [F. Schubert]",
+    "display_title": "Rosamunde D797 - 01. Overture (Die Zauberharfe D644) [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 01. Overture (Die Zauberharfe D644) [F. Schubert]",
+    "length": 636,
+    "duration": 636,
+    "started": 1724174931,
+    "type": "track",
+    "track_id": 921028,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Five Piano Pieces 'Sonata in E major' D459 & D459a [F. Schubert]",
+    "display_title": "Five Piano Pieces 'Sonata in E major' D459 & D459a [F. Schubert]",
+    "track": "Wilhelm Kempff - Five Piano Pieces 'Sonata in E major' D459 & D459a [F. Schubert]",
+    "length": 1676,
+    "duration": 1676,
+    "started": 1724175557,
+    "type": "track",
+    "track_id": 1054568,
+    "release": "Piano (Disc 22) Schubert Sonata D 960, Five Piano Pieces",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "display_artist": "Julia Fischer, Martin Helmchen",
+    "title": "Rondo for Violin and Piano in B minor “Rondo Brillant”, D.895, Op.70 -  Andante - Allegro [F. Schubert]",
+    "display_title": "Rondo for Violin and Piano in B minor “Rondo Brillant”, D.895, Op.70 -  Andante - Allegro [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Rondo for Violin and Piano in B minor “Rondo Brillant”, D.895, Op.70 -  Andante - Allegro [F. Schubert]",
+    "length": 872,
+    "duration": 872,
+    "started": 1724177393,
+    "type": "track",
+    "track_id": 3070803,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 1",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Amati Chamber Ensemble",
+    "display_artist": "Amati Chamber Ensemble",
+    "title": "Quintet in A major D667, 'The Trout' [F. Schubert]",
+    "display_title": "Quintet in A major D667, 'The Trout' [F. Schubert]",
+    "track": "Amati Chamber Ensemble - Quintet in A major D667, 'The Trout' [F. Schubert]",
+    "length": 2420,
+    "duration": 2420,
+    "started": 1724178266,
+    "type": "track",
+    "track_id": 1040238,
+    "release": "Masterworks Disc 13",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.18 in G, D.894 [F. Schubert]",
+    "display_title": "Piano Sonata No.18 in G, D.894 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.18 in G, D.894 [F. Schubert]",
+    "length": 1853,
+    "duration": 1853,
+    "started": 1724183065,
+    "type": "track",
+    "track_id": 1054557,
+    "release": "Piano (Disc 24) Schubert Sonatas D 894 & 850",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "Quartet Movement in C minor, D.103 [F. Schubert]",
+    "display_title": "Quartet Movement in C minor, D.103 [F. Schubert]",
+    "track": "Melos Quartet - Quartet Movement in C minor, D.103 [F. Schubert]",
+    "length": 500,
+    "duration": 500,
+    "started": 1724184910,
+    "type": "track",
+    "track_id": 1040235,
+    "release": "Schubert - String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Nadia Labrie",
+    "display_artist": "Nadia Labrie",
+    "title": "Ave Maria! - Ellen’s Gesang III, Op. 52, No. 6, D. 839 (arr. G. Gariboldi) [F. Schubert]",
+    "display_title": "Ave Maria! - Ellen’s Gesang III, Op. 52, No. 6, D. 839 (arr. G. Gariboldi) [F. Schubert]",
+    "track": "Nadia Labrie - Ave Maria! - Ellen’s Gesang III, Op. 52, No. 6, D. 839 (arr. G. Gariboldi) [F. Schubert]",
+    "length": 350,
+    "duration": 350,
+    "started": 1724185408,
+    "type": "track",
+    "track_id": 3015599,
+    "release": "Flute Passion: Schubert",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "display_artist": "Klára Würtz",
+    "title": "'Lebenssturme' - Allegro for piano 4 hands - in A minor D966 [F. Schubert]",
+    "display_title": "'Lebenssturme' - Allegro for piano 4 hands - in A minor D966 [F. Schubert]",
+    "track": "Klára Würtz - 'Lebenssturme' - Allegro for piano 4 hands - in A minor D966 [F. Schubert]",
+    "length": 699,
+    "duration": 699,
+    "started": 1724190969,
+    "type": "track",
+    "track_id": 1000446,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "display_artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "title": "Symphony No.9 In C, D944, 'The Great' [F. Schubert]",
+    "display_title": "Symphony No.9 In C, D944, 'The Great' [F. Schubert]",
+    "track": "Berliner Philharmoniker, Herbert von Karajan - Symphony No.9 In C, D944, 'The Great' [F. Schubert]",
+    "length": 3147,
+    "duration": 3147,
+    "started": 1724191925,
+    "type": "track",
+    "track_id": 1024047,
+    "release": "Karajan - The Complete EMI Recordings CD73",
+    "art_url": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "display_artist": "Alwin Baer",
+    "title": "Piano Sonata in C major D613 [F. Schubert]",
+    "display_title": "Piano Sonata in C major D613 [F. Schubert]",
+    "track": "Alwin Baer - Piano Sonata in C major D613 [F. Schubert]",
+    "length": 983,
+    "duration": 983,
+    "started": 1724196214,
+    "type": "track",
+    "track_id": 1046770,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 07 - Entr'acte Act III Andantino [F. Schubert]",
+    "display_title": "Rosamunde D797 - 07 - Entr'acte Act III Andantino [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 07 - Entr'acte Act III Andantino [F. Schubert]",
+    "length": 462,
+    "duration": 462,
+    "started": 1724197197,
+    "type": "track",
+    "track_id": 921034,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Dresdner Philharmonie, Marek Janowski",
+    "display_artist": "Dresdner Philharmonie, Marek Janowski",
+    "title": "Symphony No.9 in C Major, D.944, 'The Great' [F. Schubert]",
+    "display_title": "Symphony No.9 in C Major, D.944, 'The Great' [F. Schubert]",
+    "track": "Dresdner Philharmonie, Marek Janowski - Symphony No.9 in C Major, D.944, 'The Great' [F. Schubert]",
+    "length": 3319,
+    "duration": 3319,
+    "started": 1724197655,
+    "type": "track",
+    "track_id": 3070806,
+    "release": "Schubert Symphonies - Unfinished & Great",
+    "art_url": "//cdn-images.audioaddict.com/8/9/1/e/0/e/891e0e677013d7fe506f50dd94362c2d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/1/e/0/e/891e0e677013d7fe506f50dd94362c2d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Nadia Labrie",
+    "display_artist": "Nadia Labrie",
+    "title": "Introduction and Variations on Trockne Blumen in E Minor, D. 802: I. Introduction [F. Schubert]",
+    "display_title": "Introduction and Variations on Trockne Blumen in E Minor, D. 802: I. Introduction [F. Schubert]",
+    "track": "Nadia Labrie - Introduction and Variations on Trockne Blumen in E Minor, D. 802: I. Introduction [F. Schubert]",
+    "length": 163,
+    "duration": 163,
+    "started": 1724203806,
+    "type": "track",
+    "track_id": 3015601,
+    "release": "Flute Passion: Schubert",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Philip Langridge, Graham Johnson",
+    "display_artist": "Philip Langridge, Graham Johnson",
+    "title": "Des Fraeuleins Liebeslauschen, D698 [F. Schubert]",
+    "display_title": "Des Fraeuleins Liebeslauschen, D698 [F. Schubert]",
+    "track": "Philip Langridge, Graham Johnson - Des Fraeuleins Liebeslauschen, D698 [F. Schubert]",
+    "length": 304,
+    "duration": 304,
+    "started": 1724203969,
+    "type": "track",
+    "track_id": 1050227,
+    "release": "Hyperion Schubert Edition Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/0/0/d/f/3/a/00df3a7e3d0027d0f1bd27938f7a0fef.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/d/f/3/a/00df3a7e3d0027d0f1bd27938f7a0fef.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "display_artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "title": "Vor meiner Wiege, D927, Op.106, No.3 [F. Schubert]",
+    "display_title": "Vor meiner Wiege, D927, Op.106, No.3 [F. Schubert]",
+    "track": "Anthony Rolfe Johnson, Graham Johnson - Vor meiner Wiege, D927, Op.106, No.3 [F. Schubert]",
+    "length": 339,
+    "duration": 339,
+    "started": 1724204275,
+    "type": "track",
+    "track_id": 1050238,
+    "release": "Hyperion Schubert Edition Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Piece In A D604: Andante [F. Schubert]",
+    "display_title": "Piano Piece In A D604: Andante [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Piece In A D604: Andante [F. Schubert]",
+    "length": 288,
+    "duration": 288,
+    "started": 1724204614,
+    "type": "track",
+    "track_id": 1049370,
+    "release": "Piano (Disc 30) Schubert ''Wanderer-Fantasie'' D 760, Piano Pieces D 946 etc.",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 11 - Ballet [F. Schubert]",
+    "display_title": "Rosamunde D797 - 11 - Ballet [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 11 - Ballet [F. Schubert]",
+    "length": 369,
+    "duration": 369,
+    "started": 1724204903,
+    "type": "track",
+    "track_id": 921038,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 03. Ballet - Andante un poco asai [F. Schubert]",
+    "display_title": "Rosamunde D797 - 03. Ballet - Andante un poco asai [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 03. Ballet - Andante un poco asai [F. Schubert]",
+    "length": 451,
+    "duration": 451,
+    "started": 1724209342,
+    "type": "track",
+    "track_id": 921030,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.2, in C major, D.32 [F. Schubert]",
+    "display_title": "String Quartet No.2, in C major, D.32 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.2, in C major, D.32 [F. Schubert]",
+    "length": 1049,
+    "duration": 1049,
+    "started": 1724210261,
+    "type": "track",
+    "track_id": 1040246,
+    "release": "Schubert - String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Dresdner Philharmonie, Marek Janowski",
+    "display_artist": "Dresdner Philharmonie, Marek Janowski",
+    "title": "Symphony in B Minor, D.759, 'Unfinished' [F. Schubert]",
+    "display_title": "Symphony in B Minor, D.759, 'Unfinished' [F. Schubert]",
+    "track": "Dresdner Philharmonie, Marek Janowski - Symphony in B Minor, D.759, 'Unfinished' [F. Schubert]",
+    "length": 1421,
+    "duration": 1421,
+    "started": 1724211302,
+    "type": "track",
+    "track_id": 3070805,
+    "release": "Schubert Symphonies - Unfinished & Great",
+    "art_url": "//cdn-images.audioaddict.com/8/9/1/e/0/e/891e0e677013d7fe506f50dd94362c2d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/1/e/0/e/891e0e677013d7fe506f50dd94362c2d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.4, in C major, D.46 [F. Schubert]",
+    "display_title": "String Quartet No.4, in C major, D.46 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.4, in C major, D.46 [F. Schubert]",
+    "length": 1309,
+    "duration": 1309,
+    "started": 1724213048,
+    "type": "track",
+    "track_id": 1040249,
+    "release": "Schubert - String Quartets CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "display_artist": "Julia Fischer, Martin Helmchen",
+    "title": "Sonata (Sonatina) for Violin and Piano in D major, D. 384, Op.137, No.1 [F. Schubert]",
+    "display_title": "Sonata (Sonatina) for Violin and Piano in D major, D. 384, Op.137, No.1 [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Sonata (Sonatina) for Violin and Piano in D major, D. 384, Op.137, No.1 [F. Schubert]",
+    "length": 762,
+    "duration": 762,
+    "started": 1724214534,
+    "type": "track",
+    "track_id": 3070800,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 1",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Brandis Quartet",
+    "display_artist": "Brandis Quartet",
+    "title": "String Quartet inG major, D887 [F. Schubert]",
+    "display_title": "String Quartet inG major, D887 [F. Schubert]",
+    "track": "Brandis Quartet - String Quartet inG major, D887 [F. Schubert]",
+    "length": 2643,
+    "duration": 2643,
+    "started": 1724215297,
+    "type": "track",
+    "track_id": 1054573,
+    "release": "Masterworks Disc 11",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Folke Nauta",
+    "display_artist": "Folke Nauta",
+    "title": "Piano Sonata in C minor D958 [F. Schubert]",
+    "display_title": "Piano Sonata in C minor D958 [F. Schubert]",
+    "track": "Folke Nauta - Piano Sonata in C minor D958 [F. Schubert]",
+    "length": 1868,
+    "duration": 1868,
+    "started": 1724220927,
+    "type": "track",
+    "track_id": 1046772,
+    "release": "Masterworks Disc 19",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "display_artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "title": "Der Vater mit dem Kind, D906 [F. Schubert]",
+    "display_title": "Der Vater mit dem Kind, D906 [F. Schubert]",
+    "track": "Anthony Rolfe Johnson, Graham Johnson - Der Vater mit dem Kind, D906 [F. Schubert]",
+    "length": 280,
+    "duration": 280,
+    "started": 1724222796,
+    "type": "track",
+    "track_id": 1049076,
+    "release": "Hyperion Schubert Edition Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "display_artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Symphonic Fragment in D, D.708A (Completed and Orchestrated by Brian Newbould) [F. Schubert]",
+    "display_title": "Symphonic Fragment in D, D.708A (Completed and Orchestrated by Brian Newbould) [F. Schubert]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Symphonic Fragment in D, D.708A (Completed and Orchestrated by Brian Newbould) [F. Schubert]",
+    "length": 1066,
+    "duration": 1066,
+    "started": 1724223076,
+    "type": "track",
+    "track_id": 2942995,
+    "release": "The Ten Symphonies CD4",
+    "art_url": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "display_artist": "Julia Fischer, Martin Helmchen",
+    "title": "Fantasia for Violin and Piano in C major, D.934 (Op. posth. 159) [F. Schubert]",
+    "display_title": "Fantasia for Violin and Piano in C major, D.934 (Op. posth. 159) [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Fantasia for Violin and Piano in C major, D.934 (Op. posth. 159) [F. Schubert]",
+    "length": 1520,
+    "duration": 1520,
+    "started": 1724225786,
+    "type": "track",
+    "track_id": 3070797,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 2",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "display_artist": "Claudio Arrau",
+    "title": "Piano Sonata in B flat major, D960 [F. Schubert]",
+    "display_title": "Piano Sonata in B flat major, D960 [F. Schubert]",
+    "track": "Claudio Arrau - Piano Sonata in B flat major, D960 [F. Schubert]",
+    "length": 2659,
+    "duration": 2659,
+    "started": 1724227750,
+    "type": "track",
+    "track_id": 1049603,
+    "release": "Schubert - The Late Piano Sonatas CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "display_artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Schwanengesang, D957 (excerpts) - No.14. Die Taubenpost [F. Schubert]",
+    "display_title": "Schwanengesang, D957 (excerpts) - No.14. Die Taubenpost [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Schwanengesang, D957 (excerpts) - No.14. Die Taubenpost [F. Schubert]",
+    "length": 223,
+    "duration": 223,
+    "started": 1724230406,
+    "type": "track",
+    "track_id": 1049452,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Bart Van Oort",
+    "display_artist": "Bart Van Oort",
+    "title": "Piano Sonata in E major D459 [F. Schubert]",
+    "display_title": "Piano Sonata in E major D459 [F. Schubert]",
+    "track": "Bart Van Oort - Piano Sonata in E major D459 [F. Schubert]",
+    "length": 1677,
+    "duration": 1677,
+    "started": 1724230629,
+    "type": "track",
+    "track_id": 1046776,
+    "release": "Masterworks Disc 23",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "display_artist": "Martijn van den Hoek",
+    "title": "Impromptu in F minor Op.142 No.1 - Allegro moderato [F. Schubert]",
+    "display_title": "Impromptu in F minor Op.142 No.1 - Allegro moderato [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in F minor Op.142 No.1 - Allegro moderato [F. Schubert]",
+    "length": 768,
+    "duration": 768,
+    "started": 1724234567,
+    "type": "track",
+    "track_id": 1046756,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "display_artist": "Tamara Rumiantsev",
+    "title": "Allegretto in C minor D915 [F. Schubert]",
+    "display_title": "Allegretto in C minor D915 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Allegretto in C minor D915 [F. Schubert]",
+    "length": 259,
+    "duration": 259,
+    "started": 1724241162,
+    "type": "track",
+    "track_id": 1046747,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "display_artist": "Claudio Arrau",
+    "title": "Four Impromptus, D899 - No.2 in E flat major [F. Schubert]",
+    "display_title": "Four Impromptus, D899 - No.2 in E flat major [F. Schubert]",
+    "track": "Claudio Arrau - Four Impromptus, D899 - No.2 in E flat major [F. Schubert]",
+    "length": 341,
+    "duration": 341,
+    "started": 1724241421,
+    "type": "track",
+    "track_id": 1049430,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.6 in E minor, D566 [F. Schubert]",
+    "display_title": "Piano Sonata No.6 in E minor, D566 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.6 in E minor, D566 [F. Schubert]",
+    "length": 969,
+    "duration": 969,
+    "started": 1724244141,
+    "type": "track",
+    "track_id": 1054561,
+    "release": "Piano (Disc 27) Schubert Sonatas D 568, 557 & 566",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "display_artist": "Alwin Baer",
+    "title": "Zwei Scherzi D593 - Scherzo in B flat major [F. Schubert]",
+    "display_title": "Zwei Scherzi D593 - Scherzo in B flat major [F. Schubert]",
+    "track": "Alwin Baer - Zwei Scherzi D593 - Scherzo in B flat major [F. Schubert]",
+    "length": 247,
+    "duration": 247,
+    "started": 1724245105,
+    "type": "track",
+    "track_id": 1046788,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Israel Piano Trio",
+    "display_artist": "Israel Piano Trio",
+    "title": "Piano Trio No.1 in B flat major D898 [F. Schubert]",
+    "display_title": "Piano Trio No.1 in B flat major D898 [F. Schubert]",
+    "track": "Israel Piano Trio - Piano Trio No.1 in B flat major D898 [F. Schubert]",
+    "length": 2558,
+    "duration": 2558,
+    "started": 1724247361,
+    "type": "track",
+    "track_id": 1046781,
+    "release": "Masterworks Disc 14",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Adagio in E flat, Op. Posth. 148 D897 'Notturno' [F. Schubert]",
+    "display_title": "Adagio in E flat, Op. Posth. 148 D897 'Notturno' [F. Schubert]",
+    "track": "Beaux Arts Trio - Adagio in E flat, Op. Posth. 148 D897 'Notturno' [F. Schubert]",
+    "length": 781,
+    "duration": 781,
+    "started": 1724249908,
+    "type": "track",
+    "track_id": 1049401,
+    "release": "Schubert - Complete Trios CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alfred Brendel",
+    "display_artist": "Alfred Brendel",
+    "title": "16 German Dances, D783 [F. Schubert]",
+    "display_title": "16 German Dances, D783 [F. Schubert]",
+    "track": "Alfred Brendel - 16 German Dances, D783 [F. Schubert]",
+    "length": 642,
+    "duration": 642,
+    "started": 1724250687,
+    "type": "track",
+    "track_id": 1049433,
+    "release": "Schubert -The Complete Impromptus CD1",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alfred Brendel",
+    "display_artist": "Alfred Brendel",
+    "title": "3 Klavierstucke, D946 [F. Schubert]",
+    "display_title": "3 Klavierstucke, D946 [F. Schubert]",
+    "track": "Alfred Brendel - 3 Klavierstucke, D946 [F. Schubert]",
+    "length": 1425,
+    "duration": 1425,
+    "started": 1724255737,
+    "type": "track",
+    "track_id": 1054545,
+    "release": "Schubert -The Complete Impromptus CD2",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.5 In B Flat, D.485 [F. Schubert]",
+    "display_title": "Symphony No.5 In B Flat, D.485 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.5 In B Flat, D.485 [F. Schubert]",
+    "length": 1708,
+    "duration": 1708,
+    "started": 1724258837,
+    "type": "track",
+    "track_id": 2938510,
+    "release": "Schubert: Symphonies [Disc 3]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.9 In B, D.575 [F. Schubert]",
+    "display_title": "Piano Sonata No.9 In B, D.575 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.9 In B, D.575 [F. Schubert]",
+    "length": 1497,
+    "duration": 1497,
+    "started": 1724264440,
+    "type": "track",
+    "track_id": 1054563,
+    "release": "Piano (Disc 26) Schubert Sonatas D 664, 625 & 575",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Frank Van De Laar",
+    "display_artist": "Frank Van De Laar",
+    "title": "Piano Sonata in A flat major D557 [F. Schubert]",
+    "display_title": "Piano Sonata in A flat major D557 [F. Schubert]",
+    "track": "Frank Van De Laar - Piano Sonata in A flat major D557 [F. Schubert]",
+    "length": 855,
+    "duration": 855,
+    "started": 1724265935,
+    "type": "track",
+    "track_id": 1046761,
+    "release": "Masterworks Disc 20",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "display_artist": "Martijn van den Hoek",
+    "title": "Impromptu in A flat major Op.90 No.4 - Allegretto [F. Schubert]",
+    "display_title": "Impromptu in A flat major Op.90 No.4 - Allegretto [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in A flat major Op.90 No.4 - Allegretto [F. Schubert]",
+    "length": 477,
+    "duration": 477,
+    "started": 1724271038,
+    "type": "track",
+    "track_id": 1046752,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "display_artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "title": "Symphony No.8 In B Minor, D759, 'Unfinished' [F. Schubert]",
+    "display_title": "Symphony No.8 In B Minor, D759, 'Unfinished' [F. Schubert]",
+    "track": "Berliner Philharmoniker, Herbert von Karajan - Symphony No.8 In B Minor, D759, 'Unfinished' [F. Schubert]",
+    "length": 1572,
+    "duration": 1572,
+    "started": 1724272499,
+    "type": "track",
+    "track_id": 1024045,
+    "release": "Karajan - The Complete EMI Recordings CD73",
+    "art_url": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.13 in A major, D.664 [F. Schubert]",
+    "display_title": "Piano Sonata No.13 in A major, D.664 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.13 in A major, D.664 [F. Schubert]",
+    "length": 1242,
+    "duration": 1242,
+    "started": 1724278210,
+    "type": "track",
+    "track_id": 1054554,
+    "release": "Piano (Disc 26) Schubert Sonatas D 664, 625 & 575",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "display_artist": "Alwin Baer",
+    "title": "Piano Sonata in F minor D625 [F. Schubert]",
+    "display_title": "Piano Sonata in F minor D625 [F. Schubert]",
+    "track": "Alwin Baer - Piano Sonata in F minor D625 [F. Schubert]",
+    "length": 1174,
+    "duration": 1174,
+    "started": 1724279440,
+    "type": "track",
+    "track_id": 1046778,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martin van den Hoek",
+    "display_artist": "Martin van den Hoek",
+    "title": "Fantasie in C major, D760, 'Wanderer Fantasie' [F. Schubert]",
+    "display_title": "Fantasie in C major, D760, 'Wanderer Fantasie' [F. Schubert]",
+    "track": "Martin van den Hoek - Fantasie in C major, D760, 'Wanderer Fantasie' [F. Schubert]",
+    "length": 1295,
+    "duration": 1295,
+    "started": 1724285247,
+    "type": "track",
+    "track_id": 1054578,
+    "release": "Masterworks Disc 27",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.3, in B flat major, D.36 [F. Schubert]",
+    "display_title": "String Quartet No.3, in B flat major, D.36 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.3, in B flat major, D.36 [F. Schubert]",
+    "length": 1590,
+    "duration": 1590,
+    "started": 1724289366,
+    "type": "track",
+    "track_id": 1040248,
+    "release": "Schubert - String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "display_artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Arpeggione Sonata in A minor, D821 [F. Schubert]",
+    "display_title": "Arpeggione Sonata in A minor, D821 [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Arpeggione Sonata in A minor, D821 [F. Schubert]",
+    "length": 1438,
+    "duration": 1438,
+    "started": 1724295901,
+    "type": "track",
+    "track_id": 1054579,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Nadia Labrie",
+    "display_artist": "Nadia Labrie",
+    "title": "Introduction and Variations on Trockne Blumen in E Minor, D. 802 [F. Schubert]",
+    "display_title": "Introduction and Variations on Trockne Blumen in E Minor, D. 802 [F. Schubert]",
+    "track": "Nadia Labrie - Introduction and Variations on Trockne Blumen in E Minor, D. 802 [F. Schubert]",
+    "length": 1276,
+    "duration": 1276,
+    "started": 1724306358,
+    "type": "track",
+    "track_id": 3015602,
+    "release": "Flute Passion: Schubert",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "display_artist": "Claudio Arrau",
+    "title": "Four Impromptus, D899 - No.3 in G flat major [F. Schubert]",
+    "display_title": "Four Impromptus, D899 - No.3 in G flat major [F. Schubert]",
+    "track": "Claudio Arrau - Four Impromptus, D899 - No.3 in G flat major [F. Schubert]",
+    "length": 401,
+    "duration": 401,
+    "started": 1724319419,
+    "type": "track",
+    "track_id": 1049431,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.14 In A Minor, D.784 [F. Schubert]",
+    "display_title": "Piano Sonata No.14 In A Minor, D.784 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.14 In A Minor, D.784 [F. Schubert]",
+    "length": 1106,
+    "duration": 1106,
+    "started": 1724319821,
+    "type": "track",
+    "track_id": 1054555,
+    "release": "Piano (Disc 25) Schubert Sonatas D 845, 840 & 784",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "display_artist": "Melos Quartet",
+    "title": "String Quartet No.1 (in various keys), D.18 [F. Schubert]",
+    "display_title": "String Quartet No.1 (in various keys), D.18 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.1 (in various keys), D.18 [F. Schubert]",
+    "length": 1066,
+    "duration": 1066,
+    "started": 1724321667,
+    "type": "track",
+    "track_id": 1040240,
+    "release": "Schubert - String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Brandis Quartet",
+    "display_artist": "Brandis Quartet",
+    "title": "String Quartet in D minor, D810, 'Der Tod und das Mädchen' [F. Schubert]",
+    "display_title": "String Quartet in D minor, D810, 'Der Tod und das Mädchen' [F. Schubert]",
+    "track": "Brandis Quartet - String Quartet in D minor, D810, 'Der Tod und das Mädchen' [F. Schubert]",
+    "length": 2559,
+    "duration": 2559,
+    "started": 1724334172,
+    "type": "track",
+    "track_id": 1054572,
+    "release": "Masterworks Disc 10",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "display_artist": "Tamara Rumiantsev",
+    "title": "Piano Sonata in E flat major D568 [F. Schubert]",
+    "display_title": "Piano Sonata in E flat major D568 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Piano Sonata in E flat major D568 [F. Schubert]",
+    "length": 1400,
+    "duration": 1400,
+    "started": 1724336725,
+    "type": "track",
+    "track_id": 1046774,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "display_artist": "Alwin Baer",
+    "title": "Sonata Movement in C sharp minor D655 [F. Schubert]",
+    "display_title": "Sonata Movement in C sharp minor D655 [F. Schubert]",
+    "track": "Alwin Baer - Sonata Movement in C sharp minor D655 [F. Schubert]",
+    "length": 265,
+    "duration": 265,
+    "started": 1724346836,
+    "type": "track",
+    "track_id": 1046785,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "display_artist": "Martijn van den Hoek",
+    "title": "Impromptu in G flat major Op.90 No.3 - Andante [F. Schubert]",
+    "display_title": "Impromptu in G flat major Op.90 No.3 - Andante [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in G flat major Op.90 No.3 - Andante [F. Schubert]",
+    "length": 338,
+    "duration": 338,
+    "started": 1724351272,
+    "type": "track",
+    "track_id": 1046758,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.3 In D, D.200 [F. Schubert]",
+    "display_title": "Symphony No.3 In D, D.200 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.3 In D, D.200 [F. Schubert]",
+    "length": 1636,
+    "duration": 1636,
+    "started": 1724351610,
+    "type": "track",
+    "track_id": 2938508,
+    "release": "Schubert: Symphonies [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Arleen Auger, Graham Johnson",
+    "display_artist": "Arleen Auger, Graham Johnson",
+    "title": "Rosamunde, D797, Op.26 - No.5, Romance 'Der Vollmond strahlt' [F. Schubert]",
+    "display_title": "Rosamunde, D797, Op.26 - No.5, Romance 'Der Vollmond strahlt' [F. Schubert]",
+    "track": "Arleen Auger, Graham Johnson - Rosamunde, D797, Op.26 - No.5, Romance 'Der Vollmond strahlt' [F. Schubert]",
+    "length": 230,
+    "duration": 230,
+    "started": 1724353236,
+    "type": "track",
+    "track_id": 1049129,
+    "release": "Hyperion Schubert Edition Volume 09",
+    "art_url": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Elly Ameling, Graham Johnson",
+    "display_artist": "Elly Ameling, Graham Johnson",
+    "title": "Luisens Antwort 'Wohl weinen Gottes Engel', D319 [F. Schubert]",
+    "display_title": "Luisens Antwort 'Wohl weinen Gottes Engel', D319 [F. Schubert]",
+    "track": "Elly Ameling, Graham Johnson - Luisens Antwort 'Wohl weinen Gottes Engel', D319 [F. Schubert]",
+    "length": 231,
+    "duration": 231,
+    "started": 1724371054,
+    "type": "track",
+    "track_id": 1049100,
+    "release": "Hyperion Schubert Edition Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/2/b/6/b/9/1/2b6b91fcc2910fdeace2e0ec703ad140.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/6/b/9/1/2b6b91fcc2910fdeace2e0ec703ad140.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.2 in C, D279 [F. Schubert]",
+    "display_title": "Piano Sonata No.2 in C, D279 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.2 in C, D279 [F. Schubert]",
+    "length": 1125,
+    "duration": 1125,
+    "started": 1724381329,
+    "type": "track",
+    "track_id": 1054558,
+    "release": "Piano (Disc 28) Schubert Sonatas D 537, 279 & 157",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Philip Langridge, Graham Johnson",
+    "display_artist": "Philip Langridge, Graham Johnson",
+    "title": "Alte Liebe rostet nie, D477 [F. Schubert]",
+    "display_title": "Alte Liebe rostet nie, D477 [F. Schubert]",
+    "track": "Philip Langridge, Graham Johnson - Alte Liebe rostet nie, D477 [F. Schubert]",
+    "length": 180,
+    "duration": 180,
+    "started": 1724390468,
+    "type": "track",
+    "track_id": 1049046,
+    "release": "Hyperion Schubert Edition Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/0/0/d/f/3/a/00df3a7e3d0027d0f1bd27938f7a0fef.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/d/f/3/a/00df3a7e3d0027d0f1bd27938f7a0fef.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.17 In D, D.850 [F. Schubert]",
+    "display_title": "Piano Sonata No.17 In D, D.850 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.17 In D, D.850 [F. Schubert]",
+    "length": 2346,
+    "duration": 2346,
+    "started": 1724390649,
+    "type": "track",
+    "track_id": 1054556,
+    "release": "Piano (Disc 24) Schubert Sonatas D 894 & 850",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "display_artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Symphony No.7 in E minor/major, D.729 (Realised by Brian Newbould) [F. Schubert]",
+    "display_title": "Symphony No.7 in E minor/major, D.729 (Realised by Brian Newbould) [F. Schubert]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Symphony No.7 in E minor/major, D.729 (Realised by Brian Newbould) [F. Schubert]",
+    "length": 2297,
+    "duration": 2297,
+    "started": 1724395178,
+    "type": "track",
+    "track_id": 2942992,
+    "release": "The Ten Symphonies CD5",
+    "art_url": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.2 In B Flat, D.125 [F. Schubert]",
+    "display_title": "Symphony No.2 In B Flat, D.125 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.2 In B Flat, D.125 [F. Schubert]",
+    "length": 1753,
+    "duration": 1753,
+    "started": 1724400876,
+    "type": "track",
+    "track_id": 2938507,
+    "release": "Schubert: Symphonies [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "display_artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 02. Entr'acte Act I [F. Schubert]",
+    "display_title": "Rosamunde D797 - 02. Entr'acte Act I [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 02. Entr'acte Act I [F. Schubert]",
+    "length": 445,
+    "duration": 445,
+    "started": 1724402629,
+    "type": "track",
+    "track_id": 921029,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "display_artist": "Wilhelm Kempff",
+    "title": "Two Scherzi, D593 - No. 1 in B flat major: Allegretto [F. Schubert]",
+    "display_title": "Two Scherzi, D593 - No. 1 in B flat major: Allegretto [F. Schubert]",
+    "track": "Wilhelm Kempff - Two Scherzi, D593 - No. 1 in B flat major: Allegretto [F. Schubert]",
+    "length": 260,
+    "duration": 260,
+    "started": 1724485882,
+    "type": "track",
+    "track_id": 1049372,
+    "release": "Piano (Disc 30) Schubert ''Wanderer-Fantasie'' D 760, Piano Pieces D 946 etc.",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 429,
+    "artist": "Elly Ameling, Graham Johnson",
+    "display_artist": "Elly Ameling, Graham Johnson",
+    "title": "Meeres Stille 'Tiefe Stille herrscht im Wasser', D216 (Op. 3/2) [F. Schubert]",
+    "display_title": "Meeres Stille 'Tiefe Stille herrscht im Wasser', D216 (Op. 3/2) [F. Schubert]",
+    "track": "Elly Ameling, Graham Johnson - Meeres Stille 'Tiefe Stille herrscht im Wasser', D216 (Op. 3/2) [F. Schubert]",
+    "length": 190,
+    "duration": 190,
+    "started": 1724594599,
+    "type": "track",
+    "track_id": 1050241,
+    "release": "Hyperion Schubert Edition Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/2/b/6/b/9/1/2b6b91fcc2910fdeace2e0ec703ad140.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/6/b/9/1/2b6b91fcc2910fdeace2e0ec703ad140.png{?size,height,width,quality,pad}"
+    }
+  }
+]

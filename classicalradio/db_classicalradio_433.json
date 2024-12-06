@@ -1,0 +1,1769 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Anna Vinnitskaya, Tobias Willner, Kremerata Baltica, Staatskapelle Dresden",
+    "display_artist": "Anna Vinnitskaya, Tobias Willner, Kremerata Baltica, Staatskapelle Dresden",
+    "title": "Piano Concerto No. 1 in C Minor, Op. 35 [D. Shostakovich]",
+    "display_title": "Piano Concerto No. 1 in C Minor, Op. 35 [D. Shostakovich]",
+    "track": "Anna Vinnitskaya, Tobias Willner, Kremerata Baltica, Staatskapelle Dresden - Piano Concerto No. 1 in C Minor, Op. 35 [D. Shostakovich]",
+    "length": 1297,
+    "duration": 1297,
+    "started": 1724037317,
+    "type": "track",
+    "track_id": 2216569,
+    "release": "Shostakovich: Piano Concertos",
+    "art_url": "//cdn-images.audioaddict.com/3/d/3/d/3/b/3d3d3b9e57dc3455512014d80fd9b134.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/3/d/3/b/3d3d3b9e57dc3455512014d80fd9b134.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Boston Symphony Orchestra, Andris Nelsons",
+    "display_artist": "Boston Symphony Orchestra, Andris Nelsons",
+    "title": "Symphony No.9 In E Flat, Op.70 [D. Shostakovich]",
+    "display_title": "Symphony No.9 In E Flat, Op.70 [D. Shostakovich]",
+    "track": "Boston Symphony Orchestra, Andris Nelsons - Symphony No.9 In E Flat, Op.70 [D. Shostakovich]",
+    "length": 1600,
+    "duration": 1600,
+    "started": 1724038614,
+    "type": "track",
+    "track_id": 2216594,
+    "release": "Andris Nelsons, Boston Symphony Orchestra : Shostakovich: Symphonies Nos. 5, 8 & 9; Suite From \"Hamlet\"",
+    "art_url": "//cdn-images.audioaddict.com/2/e/e/1/a/a/2ee1aaff00daa58c91f5c40f36508c14.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/e/1/a/a/2ee1aaff00daa58c91f5c40f36508c14.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.13 in F sharp major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.13 in F sharp major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.13 in F sharp major [D. Shostakovich]",
+    "length": 613,
+    "duration": 613,
+    "started": 1724040208,
+    "type": "track",
+    "track_id": 2949227,
+    "release": "Shostakovich: 24 Preludes and Fugues (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.8 In C Minor, Op.110 [D. Shostakovich]",
+    "display_title": "String Quartet No.8 In C Minor, Op.110 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.8 In C Minor, Op.110 [D. Shostakovich]",
+    "length": 1183,
+    "duration": 1183,
+    "started": 1724040821,
+    "type": "track",
+    "track_id": 2216587,
+    "release": "Shostakovich - The String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.6 in B minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.6 in B minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.6 in B minor [D. Shostakovich]",
+    "length": 563,
+    "duration": 563,
+    "started": 1724041997,
+    "type": "track",
+    "track_id": 2949243,
+    "release": "Shostakovich: 24 Preludes and Fugues, Op. 87",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Lydia Mordkovitch, Scottish National Orchestra, Neeme Järvi",
+    "display_artist": "Lydia Mordkovitch, Scottish National Orchestra, Neeme Järvi",
+    "title": "Violin Concerto No.1 In A Minor, Op.77 [D. Shostakovich]",
+    "display_title": "Violin Concerto No.1 In A Minor, Op.77 [D. Shostakovich]",
+    "track": "Lydia Mordkovitch, Scottish National Orchestra, Neeme Järvi - Violin Concerto No.1 In A Minor, Op.77 [D. Shostakovich]",
+    "length": 2310,
+    "duration": 2310,
+    "started": 1724042561,
+    "type": "track",
+    "track_id": 2949247,
+    "release": "Shostakovich: Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/9/2/0/b/5/f/920b5fe5f18cc12540b10dcba026360e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/0/b/5/f/920b5fe5f18cc12540b10dcba026360e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Royal Concertgebouw Orchestra, Riccardo Chailly",
+    "display_artist": "Royal Concertgebouw Orchestra, Riccardo Chailly",
+    "title": "Suite for Jazz Orchestra No.2 [D. Shostakovich]",
+    "display_title": "Suite for Jazz Orchestra No.2 [D. Shostakovich]",
+    "track": "Royal Concertgebouw Orchestra, Riccardo Chailly - Suite for Jazz Orchestra No.2 [D. Shostakovich]",
+    "length": 1484,
+    "duration": 1484,
+    "started": 1724044861,
+    "type": "track",
+    "track_id": 3086122,
+    "release": "Shostakovich: The Jazz Album",
+    "art_url": "//cdn-images.audioaddict.com/9/c/1/c/b/2/9c1cb2359dc12de705a7c5009515d32c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/1/c/b/2/9c1cb2359dc12de705a7c5009515d32c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "The Dmitri Ensemble, Graham Ross",
+    "display_artist": "The Dmitri Ensemble, Graham Ross",
+    "title": "String Quartet No.8 in C minor, Op.110 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "display_title": "String Quartet No.8 in C minor, Op.110 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "track": "The Dmitri Ensemble, Graham Ross - String Quartet No.8 in C minor, Op.110 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "length": 1356,
+    "duration": 1356,
+    "started": 1724046345,
+    "type": "track",
+    "track_id": 2216591,
+    "release": "Shostakovich - Chamber Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/2/5/d/a/d/6/25dad60bc44f3f0be75784f616f27d2f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/d/a/d/6/25dad60bc44f3f0be75784f616f27d2f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno",
+    "display_artist": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno",
+    "title": "Scherzo for orchestra in E-flat major, Op. 7 [D. Shostakovich]",
+    "display_title": "Scherzo for orchestra in E-flat major, Op. 7 [D. Shostakovich]",
+    "track": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno - Scherzo for orchestra in E-flat major, Op. 7 [D. Shostakovich]",
+    "length": 237,
+    "duration": 237,
+    "started": 1724047700,
+    "type": "track",
+    "track_id": 2216617,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/b/1/b/9/b/8b1b9b8de2850d45547f0006cacdc0dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/b/1/b/9/b/8b1b9b8de2850d45547f0006cacdc0dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "display_artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "title": "Symphony No.1, Op.10 [D. Shostakovich]",
+    "display_title": "Symphony No.1, Op.10 [D. Shostakovich]",
+    "track": "London Philharmonic Orchestra, Bernard Haitink - Symphony No.1, Op.10 [D. Shostakovich]",
+    "length": 1901,
+    "duration": 1901,
+    "started": 1724048070,
+    "type": "track",
+    "track_id": 2216599,
+    "release": "Shostakovich - The Symphonies CD01",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Pieter Wispelwey, Sinfonietta Cracovia, Jurjen Hempel",
+    "display_artist": "Pieter Wispelwey, Sinfonietta Cracovia, Jurjen Hempel",
+    "title": "Concerto No.2 in G Major, Op.126 [D. Shostakovich]",
+    "display_title": "Concerto No.2 in G Major, Op.126 [D. Shostakovich]",
+    "track": "Pieter Wispelwey, Sinfonietta Cracovia, Jurjen Hempel - Concerto No.2 in G Major, Op.126 [D. Shostakovich]",
+    "length": 2174,
+    "duration": 2174,
+    "started": 1724050102,
+    "type": "track",
+    "track_id": 1026512,
+    "release": "Shostakovich Concerto No. 2 / Britten 3rd Suite",
+    "art_url": "//cdn-images.audioaddict.com/1/a/8/f/4/9/1a8f491bd1ee8c73441c08fed8ff5c18.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/8/f/4/9/1a8f491bd1ee8c73441c08fed8ff5c18.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.15 in D flat major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.15 in D flat major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.15 in D flat major [D. Shostakovich]",
+    "length": 321,
+    "duration": 321,
+    "started": 1724052274,
+    "type": "track",
+    "track_id": 2949229,
+    "release": "Shostakovich: 24 Preludes and Fugues (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Anna Vinnitskaya, Omar Meir Wellber, Kremerata Baltica, Staatskapelle Dresden",
+    "display_artist": "Anna Vinnitskaya, Omar Meir Wellber, Kremerata Baltica, Staatskapelle Dresden",
+    "title": "Piano Concerto No. 2 in F Major, Op. 102 [D. Shostakovich]",
+    "display_title": "Piano Concerto No. 2 in F Major, Op. 102 [D. Shostakovich]",
+    "track": "Anna Vinnitskaya, Omar Meir Wellber, Kremerata Baltica, Staatskapelle Dresden - Piano Concerto No. 2 in F Major, Op. 102 [D. Shostakovich]",
+    "length": 1077,
+    "duration": 1077,
+    "started": 1724052595,
+    "type": "track",
+    "track_id": 2216568,
+    "release": "Shostakovich: Piano Concertos",
+    "art_url": "//cdn-images.audioaddict.com/3/d/3/d/3/b/3d3d3b9e57dc3455512014d80fd9b134.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/3/d/3/b/3d3d3b9e57dc3455512014d80fd9b134.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.4 In D Major, Op.83 [D. Shostakovich]",
+    "display_title": "String Quartet No.4 In D Major, Op.83 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.4 In D Major, Op.83 [D. Shostakovich]",
+    "length": 1466,
+    "duration": 1466,
+    "started": 1724053673,
+    "type": "track",
+    "track_id": 2216583,
+    "release": "Shostakovich - The String Quartets CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "display_artist": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "title": "Symphony No.12 in D minor, Op.112, \"The Year 1917\" [D. Shostakovich]",
+    "display_title": "Symphony No.12 in D minor, Op.112, \"The Year 1917\" [D. Shostakovich]",
+    "track": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink - Symphony No.12 in D minor, Op.112, \"The Year 1917\" [D. Shostakovich]",
+    "length": 2574,
+    "duration": 2574,
+    "started": 1724055131,
+    "type": "track",
+    "track_id": 2216596,
+    "release": "Shostakovich - The Symphonies CD05",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Boston Symphony Orchestra, Andris Nelsons",
+    "display_artist": "Boston Symphony Orchestra, Andris Nelsons",
+    "title": "Symphony No.5 In D Minor, Op.47 [D. Shostakovich]",
+    "display_title": "Symphony No.5 In D Minor, Op.47 [D. Shostakovich]",
+    "track": "Boston Symphony Orchestra, Andris Nelsons - Symphony No.5 In D Minor, Op.47 [D. Shostakovich]",
+    "length": 3002,
+    "duration": 3002,
+    "started": 1724057700,
+    "type": "track",
+    "track_id": 2216592,
+    "release": "Andris Nelsons, Boston Symphony Orchestra : Shostakovich: Symphonies Nos. 5, 8 & 9; Suite From \"Hamlet\"",
+    "art_url": "//cdn-images.audioaddict.com/d/0/a/d/9/e/d0ad9e1585fa9e79b1a0809c74d62c3c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/a/d/9/e/d0ad9e1585fa9e79b1a0809c74d62c3c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.15 In E Flat Minor, Op.144 [D. Shostakovich]",
+    "display_title": "String Quartet No.15 In E Flat Minor, Op.144 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.15 In E Flat Minor, Op.144 [D. Shostakovich]",
+    "length": 2126,
+    "duration": 2126,
+    "started": 1724060698,
+    "type": "track",
+    "track_id": 2216580,
+    "release": "Shostakovich- The String Quartets CD5",
+    "art_url": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "display_artist": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "title": "Symphony No.6 in B minor, Op.54 [D. Shostakovich]",
+    "display_title": "Symphony No.6 in B minor, Op.54 [D. Shostakovich]",
+    "track": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink - Symphony No.6 in B minor, Op.54 [D. Shostakovich]",
+    "length": 1890,
+    "duration": 1890,
+    "started": 1724062822,
+    "type": "track",
+    "track_id": 2216597,
+    "release": "Shostakovich - The Symphonies CD05",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "display_artist": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "title": "Symphony No.11 in G minor, Op.103, \"The Year of 1905\" [D. Shostakovich]",
+    "display_title": "Symphony No.11 in G minor, Op.103, \"The Year of 1905\" [D. Shostakovich]",
+    "track": "Concertgebouw Orchestra of Amsterdam, Bernard Haitink - Symphony No.11 in G minor, Op.103, \"The Year of 1905\" [D. Shostakovich]",
+    "length": 3687,
+    "duration": 3687,
+    "started": 1724067485,
+    "type": "track",
+    "track_id": 2216595,
+    "release": "Shostakovich - The Symphonies CD08",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "The Dmitri Ensemble, Graham Ross",
+    "display_artist": "The Dmitri Ensemble, Graham Ross",
+    "title": "String Quartet No.1 in C major, Op.49 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "display_title": "String Quartet No.1 in C major, Op.49 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "track": "The Dmitri Ensemble, Graham Ross - String Quartet No.1 in C major, Op.49 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "length": 948,
+    "duration": 948,
+    "started": 1724071168,
+    "type": "track",
+    "track_id": 2216589,
+    "release": "Shostakovich - Chamber Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/2/5/d/a/d/6/25dad60bc44f3f0be75784f616f27d2f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/d/a/d/6/25dad60bc44f3f0be75784f616f27d2f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Amsterdam Chamber Music Society",
+    "display_artist": "Amsterdam Chamber Music Society",
+    "title": "Trio for Piano and Strings no 2 in E minor, Op.67 [D. Shostakovich]",
+    "display_title": "Trio for Piano and Strings no 2 in E minor, Op.67 [D. Shostakovich]",
+    "track": "Amsterdam Chamber Music Society - Trio for Piano and Strings no 2 in E minor, Op.67 [D. Shostakovich]",
+    "length": 1514,
+    "duration": 1514,
+    "started": 1724072232,
+    "type": "track",
+    "track_id": 1040276,
+    "release": "Treasures Of Russian Chamber Music CD6",
+    "art_url": "//cdn-images.audioaddict.com/1/0/7/1/c/c/1071cc3ec4508e32cf4b4356b44f6ed0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/7/1/c/c/1071cc3ec4508e32cf4b4356b44f6ed0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.2 In A Major, Op.68 [D. Shostakovich]",
+    "display_title": "String Quartet No.2 In A Major, Op.68 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.2 In A Major, Op.68 [D. Shostakovich]",
+    "length": 1995,
+    "duration": 1995,
+    "started": 1724073745,
+    "type": "track",
+    "track_id": 2216581,
+    "release": "Shostakovich - The String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno",
+    "display_artist": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno",
+    "title": "Five Fragments for orchestra, Op. 42 [D. Shostakovich]",
+    "display_title": "Five Fragments for orchestra, Op. 42 [D. Shostakovich]",
+    "track": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno - Five Fragments for orchestra, Op. 42 [D. Shostakovich]",
+    "length": 660,
+    "duration": 660,
+    "started": 1724075732,
+    "type": "track",
+    "track_id": 2216616,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/0/0/8/d/b/c008db7a684291b63a999f29fc6416b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/0/8/d/b/c008db7a684291b63a999f29fc6416b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Radio-Sinfonie-Orchester Frankfurt, Dmitri Kitaenko",
+    "display_artist": "Radio-Sinfonie-Orchester Frankfurt, Dmitri Kitaenko",
+    "title": "Ballet Suite No.3 [D. Shostakovich]",
+    "display_title": "Ballet Suite No.3 [D. Shostakovich]",
+    "track": "Radio-Sinfonie-Orchester Frankfurt, Dmitri Kitaenko - Ballet Suite No.3 [D. Shostakovich]",
+    "length": 952,
+    "duration": 952,
+    "started": 1724076391,
+    "type": "track",
+    "track_id": 1275366,
+    "release": "Ballet Suites 1, 3; Suites 1, 2 for Jazz Orchestra",
+    "art_url": "//cdn-images.audioaddict.com/f/4/c/6/0/a/f4c60a49c1c457b062ee0710c13e42e5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/4/c/6/0/a/f4c60a49c1c457b062ee0710c13e42e5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "The Gadfly, Op.97 [D. Shostakovich]",
+    "display_title": "The Gadfly, Op.97 [D. Shostakovich]",
+    "track": "Vladimir Ashkenazy - The Gadfly, Op.97 [D. Shostakovich]",
+    "length": 263,
+    "duration": 263,
+    "started": 1724077334,
+    "type": "track",
+    "track_id": 2216621,
+    "release": "Shostakovich: Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Alisa Weilerstein, Symphonieorchester des Bayerischen Rundfunks, Pablo Heras-Casado",
+    "display_artist": "Alisa Weilerstein, Symphonieorchester des Bayerischen Rundfunks, Pablo Heras-Casado",
+    "title": "Cello Concerto No.2, Op.126 [D. Shostakovich]",
+    "display_title": "Cello Concerto No.2, Op.126 [D. Shostakovich]",
+    "track": "Alisa Weilerstein, Symphonieorchester des Bayerischen Rundfunks, Pablo Heras-Casado - Cello Concerto No.2, Op.126 [D. Shostakovich]",
+    "length": 1971,
+    "duration": 1971,
+    "started": 1724077628,
+    "type": "track",
+    "track_id": 2216565,
+    "release": "Shostakovich: Cello Concertos 1 + 2",
+    "art_url": "//cdn-images.audioaddict.com/b/7/c/b/7/5/b7cb75eeed4d82605206af46ba64e030.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/c/b/7/5/b7cb75eeed4d82605206af46ba64e030.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Amsterdam Chamber Music Society",
+    "display_artist": "Amsterdam Chamber Music Society",
+    "title": "Quintet for Piano and Strings in G minor, Op.57 [D. Shostakovich]",
+    "display_title": "Quintet for Piano and Strings in G minor, Op.57 [D. Shostakovich]",
+    "track": "Amsterdam Chamber Music Society - Quintet for Piano and Strings in G minor, Op.57 [D. Shostakovich]",
+    "length": 1827,
+    "duration": 1827,
+    "started": 1724079595,
+    "type": "track",
+    "track_id": 1040275,
+    "release": "Treasures Of Russian Chamber Music CD6",
+    "art_url": "//cdn-images.audioaddict.com/1/0/7/1/c/c/1071cc3ec4508e32cf4b4356b44f6ed0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/7/1/c/c/1071cc3ec4508e32cf4b4356b44f6ed0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.10 in C sharp minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.10 in C sharp minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.10 in C sharp minor [D. Shostakovich]",
+    "length": 408,
+    "duration": 408,
+    "started": 1724084892,
+    "type": "track",
+    "track_id": 2949224,
+    "release": "Shostakovich: 24 Preludes and Fugues, Op. 87",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Boston Symphony Orchestra, Andris Nelsons",
+    "display_artist": "Boston Symphony Orchestra, Andris Nelsons",
+    "title": "Suite From Hamlet, Op.32a [D. Shostakovich]",
+    "display_title": "Suite From Hamlet, Op.32a [D. Shostakovich]",
+    "track": "Boston Symphony Orchestra, Andris Nelsons - Suite From Hamlet, Op.32a [D. Shostakovich]",
+    "length": 853,
+    "duration": 853,
+    "started": 1724085300,
+    "type": "track",
+    "track_id": 2216607,
+    "release": "Andris Nelsons, Boston Symphony Orchestra : Shostakovich: Symphonies Nos. 5, 8 & 9; Suite From \"Hamlet\"",
+    "art_url": "//cdn-images.audioaddict.com/2/e/e/1/a/a/2ee1aaff00daa58c91f5c40f36508c14.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/e/1/a/a/2ee1aaff00daa58c91f5c40f36508c14.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.24 in D minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.24 in D minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.24 in D minor [D. Shostakovich]",
+    "length": 736,
+    "duration": 736,
+    "started": 1724086143,
+    "type": "track",
+    "track_id": 2949239,
+    "release": "Shostakovich: 24 Preludes & Fugues, Op. 87 (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "The Dmitri Ensemble, Graham Ross",
+    "display_artist": "The Dmitri Ensemble, Graham Ross",
+    "title": "String Quartet No.10 in A flat major, Op.118 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "display_title": "String Quartet No.10 in A flat major, Op.118 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "track": "The Dmitri Ensemble, Graham Ross - String Quartet No.10 in A flat major, Op.118 (Arr. Rudolf Barshai) [D. Shostakovich]",
+    "length": 1559,
+    "duration": 1559,
+    "started": 1724086880,
+    "type": "track",
+    "track_id": 2216590,
+    "release": "Shostakovich - Chamber Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/2/5/d/a/d/6/25dad60bc44f3f0be75784f616f27d2f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/d/a/d/6/25dad60bc44f3f0be75784f616f27d2f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Vladimir Ashkenazy, Zsolt-Tihamér Visontay, Mats Lidström",
+    "display_artist": "Vladimir Ashkenazy, Zsolt-Tihamér Visontay, Mats Lidström",
+    "title": "Piano Trio No.1 in C minor, Op.8 [D. Shostakovich]",
+    "display_title": "Piano Trio No.1 in C minor, Op.8 [D. Shostakovich]",
+    "track": "Vladimir Ashkenazy, Zsolt-Tihamér Visontay, Mats Lidström - Piano Trio No.1 in C minor, Op.8 [D. Shostakovich]",
+    "length": 788,
+    "duration": 788,
+    "started": 1724088436,
+    "type": "track",
+    "track_id": 2216570,
+    "release": "Piano Trios 1 & 2; Viola Sonata",
+    "art_url": "//cdn-images.audioaddict.com/3/8/2/9/3/6/382936881a9aea55713be02a5a55dc87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/2/9/3/6/382936881a9aea55713be02a5a55dc87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.8 in F sharp minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.8 in F sharp minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.8 in F sharp minor [D. Shostakovich]",
+    "length": 527,
+    "duration": 527,
+    "started": 1724090167,
+    "type": "track",
+    "track_id": 2949245,
+    "release": "Shostakovich: 24 Preludes and Fugues, Op. 87",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Julia Varady, Dietrich Fischer-Dieskau, Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "display_artist": "Julia Varady, Dietrich Fischer-Dieskau, Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "title": "Symphony No.14, Op.135 [D. Shostakovich]",
+    "display_title": "Symphony No.14, Op.135 [D. Shostakovich]",
+    "track": "Julia Varady, Dietrich Fischer-Dieskau, Concertgebouw Orchestra of Amsterdam, Bernard Haitink - Symphony No.14, Op.135 [D. Shostakovich]",
+    "length": 3002,
+    "duration": 3002,
+    "started": 1724090693,
+    "type": "track",
+    "track_id": 2216598,
+    "release": "Shostakovich - The Symphonies CD10",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Russian National Orchestra, Paavo Järvi",
+    "display_artist": "Russian National Orchestra, Paavo Järvi",
+    "title": "Symphony No.7 in C Major, Op.60 [D. Shostakovich]",
+    "display_title": "Symphony No.7 in C Major, Op.60 [D. Shostakovich]",
+    "track": "Russian National Orchestra, Paavo Järvi - Symphony No.7 in C Major, Op.60 [D. Shostakovich]",
+    "length": 4377,
+    "duration": 4377,
+    "started": 1724093677,
+    "type": "track",
+    "track_id": 2216606,
+    "release": "Symphony No.7",
+    "art_url": "//cdn-images.audioaddict.com/9/2/8/c/6/1/928c6118a1b5464211c2d0b29901ab58.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/8/c/6/1/928c6118a1b5464211c2d0b29901ab58.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.9 In E Flat Major, Op.117 [D. Shostakovich]",
+    "display_title": "String Quartet No.9 In E Flat Major, Op.117 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.9 In E Flat Major, Op.117 [D. Shostakovich]",
+    "length": 1490,
+    "duration": 1490,
+    "started": 1724106601,
+    "type": "track",
+    "track_id": 2216588,
+    "release": "Shostakovich - The String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.2 in A minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.2 in A minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.2 in A minor [D. Shostakovich]",
+    "length": 145,
+    "duration": 145,
+    "started": 1724108084,
+    "type": "track",
+    "track_id": 2949234,
+    "release": "Shostakovich: 24 Preludes and Fugues, Op. 87",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Anna Vinnitskaya, Ivan Rudin",
+    "display_artist": "Anna Vinnitskaya, Ivan Rudin",
+    "title": "Concertino for Two Pianos in A Minor, Op. 94 [D. Shostakovich]",
+    "display_title": "Concertino for Two Pianos in A Minor, Op. 94 [D. Shostakovich]",
+    "track": "Anna Vinnitskaya, Ivan Rudin - Concertino for Two Pianos in A Minor, Op. 94 [D. Shostakovich]",
+    "length": 533,
+    "duration": 533,
+    "started": 1724108375,
+    "type": "track",
+    "track_id": 2216566,
+    "release": "Shostakovich: Piano Concertos",
+    "art_url": "//cdn-images.audioaddict.com/3/d/3/d/3/b/3d3d3b9e57dc3455512014d80fd9b134.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/3/d/3/b/3d3d3b9e57dc3455512014d80fd9b134.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Lydia Mordkovitch, Scottish National Orchestra, Neeme Järvi",
+    "display_artist": "Lydia Mordkovitch, Scottish National Orchestra, Neeme Järvi",
+    "title": "Violin Concerto No.2 In C Sharp Minor, Op.129 [D. Shostakovich]",
+    "display_title": "Violin Concerto No.2 In C Sharp Minor, Op.129 [D. Shostakovich]",
+    "track": "Lydia Mordkovitch, Scottish National Orchestra, Neeme Järvi - Violin Concerto No.2 In C Sharp Minor, Op.129 [D. Shostakovich]",
+    "length": 1852,
+    "duration": 1852,
+    "started": 1724110807,
+    "type": "track",
+    "track_id": 2949248,
+    "release": "Shostakovich: Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/9/2/0/b/5/f/920b5fe5f18cc12540b10dcba026360e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/0/b/5/f/920b5fe5f18cc12540b10dcba026360e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Boston Symphony Orchestra, Andris Nelsons",
+    "display_artist": "Boston Symphony Orchestra, Andris Nelsons",
+    "title": "Symphony No.8 In C Minor, Op.65 [D. Shostakovich]",
+    "display_title": "Symphony No.8 In C Minor, Op.65 [D. Shostakovich]",
+    "track": "Boston Symphony Orchestra, Andris Nelsons - Symphony No.8 In C Minor, Op.65 [D. Shostakovich]",
+    "length": 3999,
+    "duration": 3999,
+    "started": 1724116238,
+    "type": "track",
+    "track_id": 2216593,
+    "release": "Andris Nelsons, Boston Symphony Orchestra : Shostakovich: Symphonies Nos. 5, 8 & 9; Suite From \"Hamlet\"",
+    "art_url": "//cdn-images.audioaddict.com/2/e/e/1/a/a/2ee1aaff00daa58c91f5c40f36508c14.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/e/e/1/a/a/2ee1aaff00daa58c91f5c40f36508c14.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Piano Quintet in G Minor, Op.57",
+    "display_title": "Piano Quintet in G Minor, Op.57",
+    "track": "Michail Lifits, Szymanovski Quartet - Piano Quintet in G Minor, Op.57",
+    "length": 2048,
+    "duration": 2048,
+    "started": 1724120235,
+    "type": "track",
+    "track_id": 2950125,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "WDR Sinfonieorchester Köln, Michail Jurowski",
+    "display_artist": "WDR Sinfonieorchester Köln, Michail Jurowski",
+    "title": "Suite from Katerina Izmailova (Lady Macbeth of the Mtsensk District), Op. 114a [D. Shostakovich]",
+    "display_title": "Suite from Katerina Izmailova (Lady Macbeth of the Mtsensk District), Op. 114a [D. Shostakovich]",
+    "track": "WDR Sinfonieorchester Köln, Michail Jurowski - Suite from Katerina Izmailova (Lady Macbeth of the Mtsensk District), Op. 114a [D. Shostakovich]",
+    "length": 1078,
+    "duration": 1078,
+    "started": 1724122280,
+    "type": "track",
+    "track_id": 3087684,
+    "release": "Shostakovich, D.: Suite From Katerina Izmailova / 2 Fables of Krilov / The Execution of Stepan Razin",
+    "art_url": "//cdn-images.audioaddict.com/c/f/4/a/c/0/cf4ac015f92a3953d78cca0c82bc674e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/4/a/c/0/cf4ac015f92a3953d78cca0c82bc674e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Albion Quartet",
+    "display_artist": "Albion Quartet",
+    "title": "String Quartet No. 3 in F Major, Op. 73 [D. Shostakovich]",
+    "display_title": "String Quartet No. 3 in F Major, Op. 73 [D. Shostakovich]",
+    "track": "Albion Quartet - String Quartet No. 3 in F Major, Op. 73 [D. Shostakovich]",
+    "length": 1959,
+    "duration": 1959,
+    "started": 1724124905,
+    "type": "track",
+    "track_id": 3060884,
+    "release": "Walton; Shostakovich: String Quartets",
+    "art_url": "//cdn-images.audioaddict.com/0/9/a/d/3/3/09ad333bdbaf7763c428aa0866798d90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/9/a/d/3/3/09ad333bdbaf7763c428aa0866798d90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.7 In F Sharp Minor, Op.108 [D. Shostakovich]",
+    "display_title": "String Quartet No.7 In F Sharp Minor, Op.108 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.7 In F Sharp Minor, Op.108 [D. Shostakovich]",
+    "length": 702,
+    "duration": 702,
+    "started": 1724126961,
+    "type": "track",
+    "track_id": 2216586,
+    "release": "Shostakovich - The String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.11 In F Minor, Op.122 [D. Shostakovich]",
+    "display_title": "String Quartet No.11 In F Minor, Op.122 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.11 In F Minor, Op.122 [D. Shostakovich]",
+    "length": 969,
+    "duration": 969,
+    "started": 1724128420,
+    "type": "track",
+    "track_id": 2216576,
+    "release": "Shostakovich - The String Quartets CD4",
+    "art_url": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.17 in A-Flat Major. Largo [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.17 in A-Flat Major. Largo [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.17 in A-Flat Major. Largo [D. Shostakovich]",
+    "length": 155,
+    "duration": 155,
+    "started": 1724130457,
+    "type": "track",
+    "track_id": 2950109,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Royal Concertgebouw Orchestra, Riccardo Chailly",
+    "display_artist": "Royal Concertgebouw Orchestra, Riccardo Chailly",
+    "title": "Tea For Two, song [D. Shostakovich]",
+    "display_title": "Tea For Two, song [D. Shostakovich]",
+    "track": "Royal Concertgebouw Orchestra, Riccardo Chailly - Tea For Two, song [D. Shostakovich]",
+    "length": 212,
+    "duration": 212,
+    "started": 1724130935,
+    "type": "track",
+    "track_id": 3086123,
+    "release": "Shostakovich: The Jazz Album",
+    "art_url": "//cdn-images.audioaddict.com/9/c/1/c/b/2/9c1cb2359dc12de705a7c5009515d32c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/1/c/b/2/9c1cb2359dc12de705a7c5009515d32c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.12 in G sharp minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.12 in G sharp minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.12 in G sharp minor [D. Shostakovich]",
+    "length": 551,
+    "duration": 551,
+    "started": 1724136127,
+    "type": "track",
+    "track_id": 2949226,
+    "release": "Shostakovich: 24 Preludes and Fugues (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.3 in G major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.3 in G major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.3 in G major [D. Shostakovich]",
+    "length": 254,
+    "duration": 254,
+    "started": 1724138191,
+    "type": "track",
+    "track_id": 2949240,
+    "release": "Shostakovich: 24 Preludes and Fugues, Op. 87",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "display_artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "title": "Symphony No.4 in C minor, Op.43 [D. Shostakovich]",
+    "display_title": "Symphony No.4 in C minor, Op.43 [D. Shostakovich]",
+    "track": "London Philharmonic Orchestra, Bernard Haitink - Symphony No.4 in C minor, Op.43 [D. Shostakovich]",
+    "length": 4061,
+    "duration": 4061,
+    "started": 1724140170,
+    "type": "track",
+    "track_id": 2216604,
+    "release": "Shostakovich - The Symphonies CD03",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.5 in D major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.5 in D major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.5 in D major [D. Shostakovich]",
+    "length": 227,
+    "duration": 227,
+    "started": 1724153947,
+    "type": "track",
+    "track_id": 2949242,
+    "release": "Shostakovich: 24 Preludes and Fugues, Op. 87",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Vladimir Ashkenazy, Zsolt-Tihamér Visontay, Mats Lidström",
+    "display_artist": "Vladimir Ashkenazy, Zsolt-Tihamér Visontay, Mats Lidström",
+    "title": "Piano Trio No.2, Op.67 [D. Shostakovich]",
+    "display_title": "Piano Trio No.2, Op.67 [D. Shostakovich]",
+    "track": "Vladimir Ashkenazy, Zsolt-Tihamér Visontay, Mats Lidström - Piano Trio No.2, Op.67 [D. Shostakovich]",
+    "length": 1542,
+    "duration": 1542,
+    "started": 1724154173,
+    "type": "track",
+    "track_id": 2216571,
+    "release": "Piano Trios 1 & 2; Viola Sonata",
+    "art_url": "//cdn-images.audioaddict.com/3/8/2/9/3/6/382936881a9aea55713be02a5a55dc87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/2/9/3/6/382936881a9aea55713be02a5a55dc87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Peter Masseurs, Ronald Brautigam, Royal Concertgebouw Orchestra, Riccardo Chailly",
+    "display_artist": "Peter Masseurs, Ronald Brautigam, Royal Concertgebouw Orchestra, Riccardo Chailly",
+    "title": "Piano Concerto No. 1, for piano, trumpet & strings, in C minor, Op. 35 [D. Shostakovich]",
+    "display_title": "Piano Concerto No. 1, for piano, trumpet & strings, in C minor, Op. 35 [D. Shostakovich]",
+    "track": "Peter Masseurs, Ronald Brautigam, Royal Concertgebouw Orchestra, Riccardo Chailly - Piano Concerto No. 1, for piano, trumpet & strings, in C minor, Op. 35 [D. Shostakovich]",
+    "length": 1323,
+    "duration": 1323,
+    "started": 1724157612,
+    "type": "track",
+    "track_id": 3086120,
+    "release": "Shostakovich: The Jazz Album",
+    "art_url": "//cdn-images.audioaddict.com/9/c/1/c/b/2/9c1cb2359dc12de705a7c5009515d32c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/1/c/b/2/9c1cb2359dc12de705a7c5009515d32c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Alisa Weilerstein, Symphonieorchester des Bayerischen Rundfunks, Pablo Heras-Casado",
+    "display_artist": "Alisa Weilerstein, Symphonieorchester des Bayerischen Rundfunks, Pablo Heras-Casado",
+    "title": "Cello Concerto No.1, Op.107 [D. Shostakovich]",
+    "display_title": "Cello Concerto No.1, Op.107 [D. Shostakovich]",
+    "track": "Alisa Weilerstein, Symphonieorchester des Bayerischen Rundfunks, Pablo Heras-Casado - Cello Concerto No.1, Op.107 [D. Shostakovich]",
+    "length": 1679,
+    "duration": 1679,
+    "started": 1724158935,
+    "type": "track",
+    "track_id": 2216564,
+    "release": "Shostakovich: Cello Concertos 1 + 2",
+    "art_url": "//cdn-images.audioaddict.com/a/2/7/3/3/0/a27330baede4ed64502af6f00cd9e65d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/7/3/3/0/a27330baede4ed64502af6f00cd9e65d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.17 in A flat major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.17 in A flat major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.17 in A flat major [D. Shostakovich]",
+    "length": 350,
+    "duration": 350,
+    "started": 1724162958,
+    "type": "track",
+    "track_id": 2949231,
+    "release": "Shostakovich: 24 Preludes and Fugues (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.10 in C-Sharp Minor. Moderato non troppo [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.10 in C-Sharp Minor. Moderato non troppo [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.10 in C-Sharp Minor. Moderato non troppo [D. Shostakovich]",
+    "length": 131,
+    "duration": 131,
+    "started": 1724164923,
+    "type": "track",
+    "track_id": 2950102,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.19 in E flat major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.19 in E flat major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.19 in E flat major [D. Shostakovich]",
+    "length": 293,
+    "duration": 293,
+    "started": 1724165055,
+    "type": "track",
+    "track_id": 2949233,
+    "release": "Shostakovich: 24 Preludes & Fugues, Op. 87 (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.23 in F Major. Moderato [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.23 in F Major. Moderato [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.23 in F Major. Moderato [D. Shostakovich]",
+    "length": 104,
+    "duration": 104,
+    "started": 1724165349,
+    "type": "track",
+    "track_id": 2950116,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.22 in G minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.22 in G minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.22 in G minor [D. Shostakovich]",
+    "length": 501,
+    "duration": 501,
+    "started": 1724167499,
+    "type": "track",
+    "track_id": 2949237,
+    "release": "Shostakovich: 24 Preludes & Fugues, Op. 87 (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.14 In F Sharp Major Op.142 [D. Shostakovich]",
+    "display_title": "String Quartet No.14 In F Sharp Major Op.142 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.14 In F Sharp Major Op.142 [D. Shostakovich]",
+    "length": 1511,
+    "duration": 1511,
+    "started": 1724175410,
+    "type": "track",
+    "track_id": 2216579,
+    "release": "Shostakovich- The String Quartets CD5",
+    "art_url": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.23 in F major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.23 in F major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.23 in F major [D. Shostakovich]",
+    "length": 417,
+    "duration": 417,
+    "started": 1724182502,
+    "type": "track",
+    "track_id": 2949238,
+    "release": "Shostakovich: 24 Preludes & Fugues, Op. 87 (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Johanna Dömötör, Stuttgarter Kammerorchester, Meesun Hong Coleman",
+    "display_artist": "Johanna Dömötör, Stuttgarter Kammerorchester, Meesun Hong Coleman",
+    "title": "Five Pieces for Flute, Violin & Strings [D. Shostakovich]",
+    "display_title": "Five Pieces for Flute, Violin & Strings [D. Shostakovich]",
+    "track": "Johanna Dömötör, Stuttgarter Kammerorchester, Meesun Hong Coleman - Five Pieces for Flute, Violin & Strings [D. Shostakovich]",
+    "length": 537,
+    "duration": 537,
+    "started": 1724186044,
+    "type": "track",
+    "track_id": 3095426,
+    "release": "Music for Flute and Strings by Strawinsky, Benjamin, Arnold, Shostakovich",
+    "art_url": "//cdn-images.audioaddict.com/f/e/8/a/0/7/fe8a07e631fd4c3166f141f29848dd79.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/e/8/a/0/7/fe8a07e631fd4c3166f141f29848dd79.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Royal Concertgebouw Orchestra, Riccardo Chailly",
+    "display_artist": "Royal Concertgebouw Orchestra, Riccardo Chailly",
+    "title": "Suite for Jazz Orchestra No.1 [D. Shostakovich]",
+    "display_title": "Suite for Jazz Orchestra No.1 [D. Shostakovich]",
+    "track": "Royal Concertgebouw Orchestra, Riccardo Chailly - Suite for Jazz Orchestra No.1 [D. Shostakovich]",
+    "length": 484,
+    "duration": 484,
+    "started": 1724186580,
+    "type": "track",
+    "track_id": 3086121,
+    "release": "Shostakovich: The Jazz Album",
+    "art_url": "//cdn-images.audioaddict.com/9/c/1/c/b/2/9c1cb2359dc12de705a7c5009515d32c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/1/c/b/2/9c1cb2359dc12de705a7c5009515d32c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno",
+    "display_artist": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno",
+    "title": "Theme and Variations for orchestra in B-flat major, Op. 3 [D. Shostakovich]",
+    "display_title": "Theme and Variations for orchestra in B-flat major, Op. 3 [D. Shostakovich]",
+    "track": "Orchestre Philharmonique du Luxembourg, Gustavo Gimeno - Theme and Variations for orchestra in B-flat major, Op. 3 [D. Shostakovich]",
+    "length": 925,
+    "duration": 925,
+    "started": 1724188243,
+    "type": "track",
+    "track_id": 2216619,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/b/1/b/9/b/8b1b9b8de2850d45547f0006cacdc0dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/b/1/b/9/b/8b1b9b8de2850d45547f0006cacdc0dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "display_artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "title": "Symphony No.2 in B major, Op.14, \"To October\" [D. Shostakovich]",
+    "display_title": "Symphony No.2 in B major, Op.14, \"To October\" [D. Shostakovich]",
+    "track": "London Philharmonic Orchestra, Bernard Haitink - Symphony No.2 in B major, Op.14, \"To October\" [D. Shostakovich]",
+    "length": 1266,
+    "duration": 1266,
+    "started": 1724191056,
+    "type": "track",
+    "track_id": 2216602,
+    "release": "Shostakovich - The Symphonies CD02",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.1 in C major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.1 in C major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.1 in C major [D. Shostakovich]",
+    "length": 316,
+    "duration": 316,
+    "started": 1724199257,
+    "type": "track",
+    "track_id": 2949223,
+    "release": "Shostakovich: 24 Preludes and Fugues, Op. 87",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.16 in B flat minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.16 in B flat minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.16 in B flat minor [D. Shostakovich]",
+    "length": 769,
+    "duration": 769,
+    "started": 1724201397,
+    "type": "track",
+    "track_id": 2949230,
+    "release": "Shostakovich: 24 Preludes and Fugues (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "5 Preludes, Op.2C [D. Shostakovich]",
+    "display_title": "5 Preludes, Op.2C [D. Shostakovich]",
+    "track": "Vladimir Ashkenazy - 5 Preludes, Op.2C [D. Shostakovich]",
+    "length": 391,
+    "duration": 391,
+    "started": 1724202218,
+    "type": "track",
+    "track_id": 1049606,
+    "release": "Shostakovich: Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.24 in D Minor. Allegretto [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.24 in D Minor. Allegretto [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.24 in D Minor. Allegretto [D. Shostakovich]",
+    "length": 99,
+    "duration": 99,
+    "started": 1724202609,
+    "type": "track",
+    "track_id": 2950117,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "display_artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "title": "Symphony No.3, Op.20, \"1st of May\" [D. Shostakovich]",
+    "display_title": "Symphony No.3, Op.20, \"1st of May\" [D. Shostakovich]",
+    "track": "London Philharmonic Orchestra, Bernard Haitink - Symphony No.3, Op.20, \"1st of May\" [D. Shostakovich]",
+    "length": 1968,
+    "duration": 1968,
+    "started": 1724211332,
+    "type": "track",
+    "track_id": 2216603,
+    "release": "Shostakovich - The Symphonies CD01",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "display_artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "title": "Symphony No.10 In E Minor, Op.93 [D. Shostakovich]",
+    "display_title": "Symphony No.10 In E Minor, Op.93 [D. Shostakovich]",
+    "track": "London Philharmonic Orchestra, Bernard Haitink - Symphony No.10 In E Minor, Op.93 [D. Shostakovich]",
+    "length": 3293,
+    "duration": 3293,
+    "started": 1724213295,
+    "type": "track",
+    "track_id": 2216600,
+    "release": "Shostakovich - The Symphonies CD02",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.6 In G Major Op.101 [D. Shostakovich]",
+    "display_title": "String Quartet No.6 In G Major Op.101 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.6 In G Major Op.101 [D. Shostakovich]",
+    "length": 1334,
+    "duration": 1334,
+    "started": 1724218885,
+    "type": "track",
+    "track_id": 2216585,
+    "release": "Shostakovich - The String Quartets CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/e/d/f/a/9eedfac9f43bd2116eb1d7c0627198e9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "Adagio (Elegy) for String Quartet [D. Shostakovich]",
+    "display_title": "Adagio (Elegy) for String Quartet [D. Shostakovich]",
+    "track": "Emerson String Quartet - Adagio (Elegy) for String Quartet [D. Shostakovich]",
+    "length": 274,
+    "duration": 274,
+    "started": 1724234218,
+    "type": "track",
+    "track_id": 2216573,
+    "release": "Shostakovich - The String Quartets CD4",
+    "art_url": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.4 in E minor [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.4 in E minor [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.4 in E minor [D. Shostakovich]",
+    "length": 541,
+    "duration": 541,
+    "started": 1724237181,
+    "type": "track",
+    "track_id": 2949241,
+    "release": "Shostakovich: 24 Preludes and Fugues, Op. 87",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.5 in D Major. Allegro vivace [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.5 in D Major. Allegro vivace [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.5 in D Major. Allegro vivace [D. Shostakovich]",
+    "length": 31,
+    "duration": 31,
+    "started": 1724240606,
+    "type": "track",
+    "track_id": 2950120,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "String Quartet No.1 In C Major, Op.49 [D. Shostakovich]",
+    "display_title": "String Quartet No.1 In C Major, Op.49 [D. Shostakovich]",
+    "track": "Emerson String Quartet - String Quartet No.1 In C Major, Op.49 [D. Shostakovich]",
+    "length": 842,
+    "duration": 842,
+    "started": 1724260144,
+    "type": "track",
+    "track_id": 2216574,
+    "release": "Shostakovich - The String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Marius Rintzler, Gentlemen from the Choir of the Concertgebouw Orchestra, Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "display_artist": "Marius Rintzler, Gentlemen from the Choir of the Concertgebouw Orchestra, Concertgebouw Orchestra of Amsterdam, Bernard Haitink",
+    "title": "Symphony No.13, Op.113, \"Babi Yar\" [D. Shostakovich]",
+    "display_title": "Symphony No.13, Op.113, \"Babi Yar\" [D. Shostakovich]",
+    "track": "Marius Rintzler, Gentlemen from the Choir of the Concertgebouw Orchestra, Concertgebouw Orchestra of Amsterdam, Bernard Haitink - Symphony No.13, Op.113, \"Babi Yar\" [D. Shostakovich]",
+    "length": 3870,
+    "duration": 3870,
+    "started": 1724262529,
+    "type": "track",
+    "track_id": 2216605,
+    "release": "Shostakovich - The Symphonies CD09",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.21 in B flat major [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.21 in B flat major [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.21 in B flat major [D. Shostakovich]",
+    "length": 279,
+    "duration": 279,
+    "started": 1724267238,
+    "type": "track",
+    "track_id": 2949236,
+    "release": "Shostakovich: 24 Preludes & Fugues, Op. 87 (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Vladimir Ashkenazy, Ada Meinich",
+    "display_artist": "Vladimir Ashkenazy, Ada Meinich",
+    "title": "Sonata for Viola and Piano, Op.147 [D. Shostakovich]",
+    "display_title": "Sonata for Viola and Piano, Op.147 [D. Shostakovich]",
+    "track": "Vladimir Ashkenazy, Ada Meinich - Sonata for Viola and Piano, Op.147 [D. Shostakovich]",
+    "length": 1974,
+    "duration": 1974,
+    "started": 1724271075,
+    "type": "track",
+    "track_id": 2216572,
+    "release": "Piano Trios 1 & 2; Viola Sonata",
+    "art_url": "//cdn-images.audioaddict.com/3/8/2/9/3/6/382936881a9aea55713be02a5a55dc87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/2/9/3/6/382936881a9aea55713be02a5a55dc87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Radio-Sinfonie-Orchester Frankfurt, Dmitri Kitaenko",
+    "display_artist": "Radio-Sinfonie-Orchester Frankfurt, Dmitri Kitaenko",
+    "title": "Ballet Suite No.1 [D. Shostakovich]",
+    "display_title": "Ballet Suite No.1 [D. Shostakovich]",
+    "track": "Radio-Sinfonie-Orchester Frankfurt, Dmitri Kitaenko - Ballet Suite No.1 [D. Shostakovich]",
+    "length": 836,
+    "duration": 836,
+    "started": 1724283351,
+    "type": "track",
+    "track_id": 1275365,
+    "release": "Ballet Suites 1, 3; Suites 1, 2 for Jazz Orchestra",
+    "art_url": "//cdn-images.audioaddict.com/f/4/c/6/0/a/f4c60a49c1c457b062ee0710c13e42e5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/4/c/6/0/a/f4c60a49c1c457b062ee0710c13e42e5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Piano Sonata No.2 In B Minor, Op.61 [D. Shostakovich]",
+    "display_title": "Piano Sonata No.2 In B Minor, Op.61 [D. Shostakovich]",
+    "track": "Vladimir Ashkenazy - Piano Sonata No.2 In B Minor, Op.61 [D. Shostakovich]",
+    "length": 1652,
+    "duration": 1652,
+    "started": 1724303710,
+    "type": "track",
+    "track_id": 1049611,
+    "release": "Shostakovich: Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "Allegretto (Polka) for String Quartet [D. Shostakovich]",
+    "display_title": "Allegretto (Polka) for String Quartet [D. Shostakovich]",
+    "track": "Emerson String Quartet - Allegretto (Polka) for String Quartet [D. Shostakovich]",
+    "length": 167,
+    "duration": 167,
+    "started": 1724316278,
+    "type": "track",
+    "track_id": 2216615,
+    "release": "Shostakovich - The String Quartets CD4",
+    "art_url": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/3/e/8/b/383e8b0ce41f7575bd6ef16a8b2e5be5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "display_artist": "London Philharmonic Orchestra, Bernard Haitink",
+    "title": "Symphony No.15, Op.141 [D. Shostakovich]",
+    "display_title": "Symphony No.15, Op.141 [D. Shostakovich]",
+    "track": "London Philharmonic Orchestra, Bernard Haitink - Symphony No.15, Op.141 [D. Shostakovich]",
+    "length": 2753,
+    "duration": 2753,
+    "started": 1724348886,
+    "type": "track",
+    "track_id": 2216601,
+    "release": "Shostakovich - The Symphonies CD11",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/d/d/6/9e4dd649ebfdbcc40d2fb7f30f0ae7aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Tatiana Nikolayeva",
+    "display_artist": "Tatiana Nikolayeva",
+    "title": "Preludes & Fugues (24), for piano, Op. 87, No.18 in F [D. Shostakovich]",
+    "display_title": "Preludes & Fugues (24), for piano, Op. 87, No.18 in F [D. Shostakovich]",
+    "track": "Tatiana Nikolayeva - Preludes & Fugues (24), for piano, Op. 87, No.18 in F [D. Shostakovich]",
+    "length": 364,
+    "duration": 364,
+    "started": 1724366741,
+    "type": "track",
+    "track_id": 2949232,
+    "release": "Shostakovich: 24 Preludes & Fugues, Op. 87 (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/1/d/7/3/041d733355943fdeb962f5dd823e78ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.1 in C Major. Moderato [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.1 in C Major. Moderato [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.1 in C Major. Moderato [D. Shostakovich]",
+    "length": 104,
+    "duration": 104,
+    "started": 1724400176,
+    "type": "track",
+    "track_id": 2950101,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.12 in G-Sharp Minor. Allegro non troppo [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.12 in G-Sharp Minor. Allegro non troppo [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.12 in G-Sharp Minor. Allegro non troppo [D. Shostakovich]",
+    "length": 115,
+    "duration": 115,
+    "started": 1724411296,
+    "type": "track",
+    "track_id": 2950104,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.3 in G Major. Andante [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.3 in G Major. Andante [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.3 in G Major. Andante [D. Shostakovich]",
+    "length": 163,
+    "duration": 163,
+    "started": 1724429623,
+    "type": "track",
+    "track_id": 2950118,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.18 in F Minor. Allegretto [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.18 in F Minor. Allegretto [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.18 in F Minor. Allegretto [D. Shostakovich]",
+    "length": 51,
+    "duration": 51,
+    "started": 1724475581,
+    "type": "track",
+    "track_id": 2950110,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Limpid Stream, Op.39",
+    "display_artist": "Limpid Stream, Op.39",
+    "title": "Limpid Stream, Op. 39 - Nocturne [D. Shostakovich]",
+    "display_title": "Limpid Stream, Op. 39 - Nocturne [D. Shostakovich]",
+    "track": "Limpid Stream, Op.39 - Limpid Stream, Op. 39 - Nocturne [D. Shostakovich]",
+    "length": 137,
+    "duration": 137,
+    "started": 1724490405,
+    "type": "track",
+    "track_id": 1049610,
+    "release": "Shostakovich: Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Dances Of The Dolls",
+    "display_artist": "Dances Of The Dolls",
+    "title": "Dances Of The Dolls - Lyric Waltz [D. Shostakovich]",
+    "display_title": "Dances Of The Dolls - Lyric Waltz [D. Shostakovich]",
+    "track": "Dances Of The Dolls - Dances Of The Dolls - Lyric Waltz [D. Shostakovich]",
+    "length": 102,
+    "duration": 102,
+    "started": 1724531693,
+    "type": "track",
+    "track_id": 1049608,
+    "release": "Shostakovich: Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/2/3/1/d/13231dfa47f0862ee3877133cefdb8f0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.2 in A Minor. Allegreto [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.2 in A Minor. Allegreto [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.2 in A Minor. Allegreto [D. Shostakovich]",
+    "length": 56,
+    "duration": 56,
+    "started": 1725550204,
+    "type": "track",
+    "track_id": 2950112,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.20 in C Minor. Allegretto furioso [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.20 in C Minor. Allegretto furioso [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.20 in C Minor. Allegretto furioso [D. Shostakovich]",
+    "length": 43,
+    "duration": 43,
+    "started": 1725950726,
+    "type": "track",
+    "track_id": 2950113,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 433,
+    "artist": "Michail Lifits, Szymanovski Quartet",
+    "display_artist": "Michail Lifits, Szymanovski Quartet",
+    "title": "Twenty-Four Preludes, Op.34, No.21 in B-Flat Major. Allegretto poco moderato [D. Shostakovich]",
+    "display_title": "Twenty-Four Preludes, Op.34, No.21 in B-Flat Major. Allegretto poco moderato [D. Shostakovich]",
+    "track": "Michail Lifits, Szymanovski Quartet - Twenty-Four Preludes, Op.34, No.21 in B-Flat Major. Allegretto poco moderato [D. Shostakovich]",
+    "length": 50,
+    "duration": 50,
+    "started": 1726051537,
+    "type": "track",
+    "track_id": 2950114,
+    "release": "Shostakovich - 24 Preludes, Op. 34; Piano Quintet, Op. 57",
+    "art_url": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/3/d/2/9/8/53d29839196eaf5d61fb6295f923a6cc.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

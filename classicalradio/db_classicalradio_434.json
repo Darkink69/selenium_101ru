@@ -1,0 +1,3726 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Men Går Jag Över Ängarna (Arr. Jarle Storløkken) [L. Strand]",
+    "display_title": "Men Går Jag Över Ängarna (Arr. Jarle Storløkken) [L. Strand]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Men Går Jag Över Ängarna (Arr. Jarle Storløkken) [L. Strand]",
+    "length": 213,
+    "duration": 213,
+    "started": 1724037257,
+    "type": "track",
+    "track_id": 3025599,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "La plus que lente (arr. G. Orvid) [C. Debussy]",
+    "display_title": "La plus que lente (arr. G. Orvid) [C. Debussy]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - La plus que lente (arr. G. Orvid) [C. Debussy]",
+    "length": 265,
+    "duration": 265,
+    "started": 1724037472,
+    "type": "track",
+    "track_id": 2216662,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Concerto for oboe, strings & continuo in E minor, TWV 51:e1 [G.P. Telemann]",
+    "display_title": "Concerto for oboe, strings & continuo in E minor, TWV 51:e1 [G.P. Telemann]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Concerto for oboe, strings & continuo in E minor, TWV 51:e1 [G.P. Telemann]",
+    "length": 663,
+    "duration": 663,
+    "started": 1724037737,
+    "type": "track",
+    "track_id": 3097385,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Konzerthausorchester Berlin, Christian Vásquez",
+    "display_artist": "Pacho Flores, Konzerthausorchester Berlin, Christian Vásquez",
+    "title": "The Well-Tempered Clavier: Book 2, BWV 870-893 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier: Book 2, BWV 870-893 [J.S. Bach]",
+    "track": "Pacho Flores, Konzerthausorchester Berlin, Christian Vásquez - The Well-Tempered Clavier: Book 2, BWV 870-893 [J.S. Bach]",
+    "length": 229,
+    "duration": 229,
+    "started": 1724038400,
+    "type": "track",
+    "track_id": 2931159,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "display_artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "title": "Violin Concerto in G major Op.3 No.3, RV310 (trascr. for trumpet by A. Balsom) [A. Vivaldi]",
+    "display_title": "Violin Concerto in G major Op.3 No.3, RV310 (trascr. for trumpet by A. Balsom) [A. Vivaldi]",
+    "track": "Alison Balsom, Scottish Ensemble, J. Morton - Violin Concerto in G major Op.3 No.3, RV310 (trascr. for trumpet by A. Balsom) [A. Vivaldi]",
+    "length": 468,
+    "duration": 468,
+    "started": 1724038630,
+    "type": "track",
+    "track_id": 2972586,
+    "release": "Italian Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "Concerto No.2. for Solo Trumpet and Strings, MWV IV, 13 [J.M. Molter]",
+    "display_title": "Concerto No.2. for Solo Trumpet and Strings, MWV IV, 13 [J.M. Molter]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - Concerto No.2. for Solo Trumpet and Strings, MWV IV, 13 [J.M. Molter]",
+    "length": 737,
+    "duration": 737,
+    "started": 1724039099,
+    "type": "track",
+    "track_id": 2216687,
+    "release": "Baroque Music For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "24 Caprices, Op. 1 No. 24 in A minor (arr. B. Traubas) [N. Paganini]",
+    "display_title": "24 Caprices, Op. 1 No. 24 in A minor (arr. B. Traubas) [N. Paganini]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - 24 Caprices, Op. 1 No. 24 in A minor (arr. B. Traubas) [N. Paganini]",
+    "length": 309,
+    "duration": 309,
+    "started": 1724039836,
+    "type": "track",
+    "track_id": 2216693,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, R. Friedrich, I Musici",
+    "display_artist": "Håkan Hardenberger, R. Friedrich, I Musici",
+    "title": "Sonata for 2 trumpets & string orchestra in D major [P. Franceschini]",
+    "display_title": "Sonata for 2 trumpets & string orchestra in D major [P. Franceschini]",
+    "track": "Håkan Hardenberger, R. Friedrich, I Musici - Sonata for 2 trumpets & string orchestra in D major [P. Franceschini]",
+    "length": 379,
+    "duration": 379,
+    "started": 1724040142,
+    "type": "track",
+    "track_id": 1244959,
+    "release": "Art of the Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Roland Pöntinen",
+    "display_artist": "Håkan Hardenberger, Roland Pöntinen",
+    "title": "At The Beach [V. Thomson]",
+    "display_title": "At The Beach [V. Thomson]",
+    "track": "Håkan Hardenberger, Roland Pöntinen - At The Beach [V. Thomson]",
+    "length": 287,
+    "duration": 287,
+    "started": 1724040521,
+    "type": "track",
+    "track_id": 1244989,
+    "release": "The Art of The Trumpet (Disc 4/5)",
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, The Parley of Instruments [A. Grossi]",
+    "display_artist": "Crispian Steele-Perkins, The Parley of Instruments [A. Grossi]",
+    "title": "Sonata à 5 for trumpet, strings & continuo, Op.3, No.10 [A. Grossi]",
+    "display_title": "Sonata à 5 for trumpet, strings & continuo, Op.3, No.10 [A. Grossi]",
+    "track": "Crispian Steele-Perkins, The Parley of Instruments [A. Grossi] - Sonata à 5 for trumpet, strings & continuo, Op.3, No.10 [A. Grossi]",
+    "length": 336,
+    "duration": 336,
+    "started": 1724040809,
+    "type": "track",
+    "track_id": 2890948,
+    "release": "The fam'd Italian Masters",
+    "art_url": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Alistair Ross",
+    "display_artist": "Alison Balsom, Alistair Ross",
+    "title": "Aria Variata in A minor (Italian Variations) BWV 989 [J.S. Bach]",
+    "display_title": "Aria Variata in A minor (Italian Variations) BWV 989 [J.S. Bach]",
+    "track": "Alison Balsom, Alistair Ross - Aria Variata in A minor (Italian Variations) BWV 989 [J.S. Bach]",
+    "length": 563,
+    "duration": 563,
+    "started": 1724041145,
+    "type": "track",
+    "track_id": 2216644,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Suite for trumpet, strings & continuo in D major, TWV 55:D8 [G.P. Telemann]",
+    "display_title": "Suite for trumpet, strings & continuo in D major, TWV 55:D8 [G.P. Telemann]",
+    "track": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Suite for trumpet, strings & continuo in D major, TWV 55:D8 [G.P. Telemann]",
+    "length": 1406,
+    "duration": 1406,
+    "started": 1724041709,
+    "type": "track",
+    "track_id": 2216714,
+    "release": "Trumpet Concertos (complete) (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Roland Pöntinen",
+    "display_artist": "Håkan Hardenberger, Roland Pöntinen",
+    "title": "Song Without Words [F. Mendelssohn]",
+    "display_title": "Song Without Words [F. Mendelssohn]",
+    "track": "Håkan Hardenberger, Roland Pöntinen - Song Without Words [F. Mendelssohn]",
+    "length": 132,
+    "duration": 132,
+    "started": 1724043115,
+    "type": "track",
+    "track_id": 1244979,
+    "release": "The Art of The Trumpet (Disc 4/5)",
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Graham Ashton, Leslie Pearson",
+    "display_artist": "Graham Ashton, Leslie Pearson",
+    "title": "Water Piece, suite for trumpet, strings & continuo in D major (spurious arrangement), HWV 341: Water Music (unspec.) Suite in D major, arr. for trumpet & organ by Leslie Pearson [G.F. Handel]",
+    "display_title": "Water Piece, suite for trumpet, strings & continuo in D major (spurious arrangement), HWV 341: Water Music (unspec.) Suite in D major, arr. for trumpet & organ by Leslie Pearson [G.F. Handel]",
+    "track": "Graham Ashton, Leslie Pearson - Water Piece, suite for trumpet, strings & continuo in D major (spurious arrangement), HWV 341: Water Music (unspec.) Suite in D major, arr. for trumpet & organ by Leslie Pearson [G.F. Handel]",
+    "length": 544,
+    "duration": 544,
+    "started": 1724043247,
+    "type": "track",
+    "track_id": 2216672,
+    "release": "Concertos, Sonatas & Suites For Trumpet & Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Frédéric Presle, Jacques Amade",
+    "display_artist": "Frédéric Presle, Jacques Amade",
+    "title": "Concerto pour Orgue et Trumpette en Si b majeur [A. Vivaldi]",
+    "display_title": "Concerto pour Orgue et Trumpette en Si b majeur [A. Vivaldi]",
+    "track": "Frédéric Presle, Jacques Amade - Concerto pour Orgue et Trumpette en Si b majeur [A. Vivaldi]",
+    "length": 487,
+    "duration": 487,
+    "started": 1724043791,
+    "type": "track",
+    "track_id": 2972659,
+    "release": "Vivaldi - Concertos & Sonates",
+    "art_url": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, I Musici",
+    "display_artist": "Håkan Hardenberger, I Musici",
+    "title": "Sonata for trumpet, strings & continuo No. 1 in F major [P. Baldassari]",
+    "display_title": "Sonata for trumpet, strings & continuo No. 1 in F major [P. Baldassari]",
+    "track": "Håkan Hardenberger, I Musici - Sonata for trumpet, strings & continuo No. 1 in F major [P. Baldassari]",
+    "length": 389,
+    "duration": 389,
+    "started": 1724044277,
+    "type": "track",
+    "track_id": 1244951,
+    "release": "Art of the Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "display_artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "title": "Trumpet Concerto in D Major, LMW IX:13 [L. Mozart]",
+    "display_title": "Trumpet Concerto in D Major, LMW IX:13 [L. Mozart]",
+    "track": "Crispian Steele-Perkins, The King’s Consort, Robert King - Trumpet Concerto in D Major, LMW IX:13 [L. Mozart]",
+    "length": 599,
+    "duration": 599,
+    "started": 1724044665,
+    "type": "track",
+    "track_id": 3091647,
+    "release": "Classical Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Sonata \"Sancti Polycarpi\" [H.I.F. von Biber]",
+    "display_title": "Sonata \"Sancti Polycarpi\" [H.I.F. von Biber]",
+    "track": "New London Consort, Philip Pickett - Sonata \"Sancti Polycarpi\" [H.I.F. von Biber]",
+    "length": 298,
+    "duration": 298,
+    "started": 1724045264,
+    "type": "track",
+    "track_id": 2931289,
+    "release": "Biber: Requiem, Etc.; Schmelzer: Trumpet Music [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "Liebesfreud (ar. T. Dokshitser) [F. Kreisler]",
+    "display_title": "Liebesfreud (ar. T. Dokshitser) [F. Kreisler]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - Liebesfreud (ar. T. Dokshitser) [F. Kreisler]",
+    "length": 213,
+    "duration": 213,
+    "started": 1724045561,
+    "type": "track",
+    "track_id": 2216678,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Escualo [A. Piazzolla]",
+    "display_title": "Escualo [A. Piazzolla]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Escualo [A. Piazzolla]",
+    "length": 242,
+    "duration": 242,
+    "started": 1724045775,
+    "type": "track",
+    "track_id": 2216694,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Quentin Thomas",
+    "display_artist": "Alison Balsom, Quentin Thomas",
+    "title": "Elegy, for organ (from A Little Organ Book in Memory of Sir Hubert Parry) [G. Thalben-Ball]",
+    "display_title": "Elegy, for organ (from A Little Organ Book in Memory of Sir Hubert Parry) [G. Thalben-Ball]",
+    "track": "Alison Balsom, Quentin Thomas - Elegy, for organ (from A Little Organ Book in Memory of Sir Hubert Parry) [G. Thalben-Ball]",
+    "length": 227,
+    "duration": 227,
+    "started": 1724046016,
+    "type": "track",
+    "track_id": 2216716,
+    "release": "Music for Trumpet and Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/b/3/d/e/5/bb3de50c168fe8badd3b4a37cd3554cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/3/d/e/5/bb3de50c168fe8badd3b4a37cd3554cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Graham Ashton, Leslie Pearson",
+    "display_artist": "Graham Ashton, Leslie Pearson",
+    "title": "Suite for trumpet & organ to music of J. S. Bach [J.S. Bach]",
+    "display_title": "Suite for trumpet & organ to music of J. S. Bach [J.S. Bach]",
+    "track": "Graham Ashton, Leslie Pearson - Suite for trumpet & organ to music of J. S. Bach [J.S. Bach]",
+    "length": 864,
+    "duration": 864,
+    "started": 1724046243,
+    "type": "track",
+    "track_id": 2216651,
+    "release": "Concertos, Sonatas & Suites For Trumpet & Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "display_artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "title": "Mass in B Minor, BWV 232, Kyrie: No.1 Kyrie eleison - Agnus Dei [J.S. Bach]",
+    "display_title": "Mass in B Minor, BWV 232, Kyrie: No.1 Kyrie eleison - Agnus Dei [J.S. Bach]",
+    "track": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez - Mass in B Minor, BWV 232, Kyrie: No.1 Kyrie eleison - Agnus Dei [J.S. Bach]",
+    "length": 302,
+    "duration": 302,
+    "started": 1724047108,
+    "type": "track",
+    "track_id": 2931162,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "display_artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "title": "Sonatine [B. Martinu]",
+    "display_title": "Sonatine [B. Martinu]",
+    "track": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar - Sonatine [B. Martinu]",
+    "length": 439,
+    "duration": 439,
+    "started": 1724047812,
+    "type": "track",
+    "track_id": 3064720,
+    "release": "The Neoclassical Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Violin Concerto in A Minor, BWV. 1041 - 2. Andante [J.S. Bach]",
+    "display_title": "Violin Concerto in A Minor, BWV. 1041 - 2. Andante [J.S. Bach]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Violin Concerto in A Minor, BWV. 1041 - 2. Andante [J.S. Bach]",
+    "length": 373,
+    "duration": 373,
+    "started": 1724048252,
+    "type": "track",
+    "track_id": 2216649,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte",
+    "display_artist": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte",
+    "title": "Trumpet Concerto No. 4 [M.P. de Monteclair]",
+    "display_title": "Trumpet Concerto No. 4 [M.P. de Monteclair]",
+    "track": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte - Trumpet Concerto No. 4 [M.P. de Monteclair]",
+    "length": 1191,
+    "duration": 1191,
+    "started": 1724048625,
+    "type": "track",
+    "track_id": 2947655,
+    "release": "Monteclair: Trumpet Concertos Nos. 3-6",
+    "art_url": "//cdn-images.audioaddict.com/7/9/5/7/2/9/795729832e6cde698af114a8e7e2da46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/5/7/2/9/795729832e6cde698af114a8e7e2da46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Simon Preston",
+    "display_artist": "Håkan Hardenberger, Simon Preston",
+    "title": "Erbarm dich mein, o Herre Gott, chorale prelude for organ, BWV 721 (BC K107) [J.S. Bach]",
+    "display_title": "Erbarm dich mein, o Herre Gott, chorale prelude for organ, BWV 721 (BC K107) [J.S. Bach]",
+    "track": "Håkan Hardenberger, Simon Preston - Erbarm dich mein, o Herre Gott, chorale prelude for organ, BWV 721 (BC K107) [J.S. Bach]",
+    "length": 211,
+    "duration": 211,
+    "started": 1724049817,
+    "type": "track",
+    "track_id": 1244947,
+    "release": "The Art of the Trumpet (Disc 2/5)",
+    "art_url": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Alina Ibragimova, Alistair Ross, Mark Caudle",
+    "display_artist": "Alison Balsom, Alina Ibragimova, Alistair Ross, Mark Caudle",
+    "title": "Trio Sonata in C major BWV 529 - 1. Allegro [J.S. Bach]",
+    "display_title": "Trio Sonata in C major BWV 529 - 1. Allegro [J.S. Bach]",
+    "track": "Alison Balsom, Alina Ibragimova, Alistair Ross, Mark Caudle - Trio Sonata in C major BWV 529 - 1. Allegro [J.S. Bach]",
+    "length": 822,
+    "duration": 822,
+    "started": 1724050027,
+    "type": "track",
+    "track_id": 2216643,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "display_artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "title": "Trumpet Concerto in E-Flat Major, Hob. VIIe:1 [F.J. Haydn]",
+    "display_title": "Trumpet Concerto in E-Flat Major, Hob. VIIe:1 [F.J. Haydn]",
+    "track": "Crispian Steele-Perkins, The King’s Consort, Robert King - Trumpet Concerto in E-Flat Major, Hob. VIIe:1 [F.J. Haydn]",
+    "length": 870,
+    "duration": 870,
+    "started": 1724050850,
+    "type": "track",
+    "track_id": 3091649,
+    "release": "Classical Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "display_artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "title": "Masques et bergamasques, Op. 112 (Arr. for Trumpet and Piano) [G. Fauré]",
+    "display_title": "Masques et bergamasques, Op. 112 (Arr. for Trumpet and Piano) [G. Fauré]",
+    "track": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar - Masques et bergamasques, Op. 112 (Arr. for Trumpet and Piano) [G. Fauré]",
+    "length": 793,
+    "duration": 793,
+    "started": 1724051719,
+    "type": "track",
+    "track_id": 3064717,
+    "release": "The Neoclassical Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Frédéric Presle, Jacques Amade",
+    "display_artist": "Frédéric Presle, Jacques Amade",
+    "title": "Concerto pour Orgue et Trumpette en La b Majeur [A. Vivaldi]",
+    "display_title": "Concerto pour Orgue et Trumpette en La b Majeur [A. Vivaldi]",
+    "track": "Frédéric Presle, Jacques Amade - Concerto pour Orgue et Trumpette en La b Majeur [A. Vivaldi]",
+    "length": 416,
+    "duration": 416,
+    "started": 1724052512,
+    "type": "track",
+    "track_id": 2972658,
+    "release": "Vivaldi - Concertos & Sonates",
+    "art_url": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom",
+    "display_artist": "Alison Balsom",
+    "title": "King Arthur Suite, Z. 628, Act 1: Overture [H. Purcell]",
+    "display_title": "King Arthur Suite, Z. 628, Act 1: Overture [H. Purcell]",
+    "track": "Alison Balsom - King Arthur Suite, Z. 628, Act 1: Overture [H. Purcell]",
+    "length": 216,
+    "duration": 216,
+    "started": 1724053795,
+    "type": "track",
+    "track_id": 2947651,
+    "release": "Sound the Trumpet - Royal Music of Purcell and Handel",
+    "art_url": "//cdn-images.audioaddict.com/6/7/0/e/8/0/670e800b025cacdd2bb6278a55ad485e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/0/e/8/0/670e800b025cacdd2bb6278a55ad485e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Alina Ibragimova, Alistair Ross, Mark Caudle",
+    "display_artist": "Alison Balsom, Alina Ibragimova, Alistair Ross, Mark Caudle",
+    "title": "Mass in B minor BWV 232 - Agnus Dei [J.S. Bach]",
+    "display_title": "Mass in B minor BWV 232 - Agnus Dei [J.S. Bach]",
+    "track": "Alison Balsom, Alina Ibragimova, Alistair Ross, Mark Caudle - Mass in B minor BWV 232 - Agnus Dei [J.S. Bach]",
+    "length": 299,
+    "duration": 299,
+    "started": 1724054013,
+    "type": "track",
+    "track_id": 2216642,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Timofey Dokshizer, The Chamber Orchestra Of Lyon, Phillippe Fournier",
+    "display_artist": "Timofey Dokshizer, The Chamber Orchestra Of Lyon, Phillippe Fournier",
+    "title": "Adagio in G-Moll [T. Albinoni]",
+    "display_title": "Adagio in G-Moll [T. Albinoni]",
+    "track": "Timofey Dokshizer, The Chamber Orchestra Of Lyon, Phillippe Fournier - Adagio in G-Moll [T. Albinoni]",
+    "length": 472,
+    "duration": 472,
+    "started": 1724054528,
+    "type": "track",
+    "track_id": 2216633,
+    "release": "Baroque Concertos For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/a/9/f/2/c/6a9f2c6beea9791f3a98e07ec9f9a0f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/9/f/2/c/6a9f2c6beea9791f3a98e07ec9f9a0f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "display_artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "title": "Violin Sonata da chiesa in D minor [T. Albinoni]",
+    "display_title": "Violin Sonata da chiesa in D minor [T. Albinoni]",
+    "track": "Alison Balsom, Scottish Ensemble, J. Morton - Violin Sonata da chiesa in D minor [T. Albinoni]",
+    "length": 508,
+    "duration": 508,
+    "started": 1724054995,
+    "type": "track",
+    "track_id": 2216628,
+    "release": "Italian Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Libertango [A. Piazzolla]",
+    "display_title": "Libertango [A. Piazzolla]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Libertango [A. Piazzolla]",
+    "length": 273,
+    "duration": 273,
+    "started": 1724055609,
+    "type": "track",
+    "track_id": 2216695,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "display_artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "title": "Trumpet Concerto No. 1 in E-Flat Major [J.W. Hertel]",
+    "display_title": "Trumpet Concerto No. 1 in E-Flat Major [J.W. Hertel]",
+    "track": "Crispian Steele-Perkins, The King’s Consort, Robert King - Trumpet Concerto No. 1 in E-Flat Major [J.W. Hertel]",
+    "length": 819,
+    "duration": 819,
+    "started": 1724056182,
+    "type": "track",
+    "track_id": 3091645,
+    "release": "Classical Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture jointés d'un Suite tragi-comique, for 3 trumpets, timpani, strings & continuo in D major, TWV 55:D22 [G.P. Telemann]",
+    "display_title": "Overture jointés d'un Suite tragi-comique, for 3 trumpets, timpani, strings & continuo in D major, TWV 55:D22 [G.P. Telemann]",
+    "track": "Collegium Instrumentale Brugense, Patrick Peire - Overture jointés d'un Suite tragi-comique, for 3 trumpets, timpani, strings & continuo in D major, TWV 55:D22 [G.P. Telemann]",
+    "length": 821,
+    "duration": 821,
+    "started": 1724057000,
+    "type": "track",
+    "track_id": 2216707,
+    "release": "Complete Overtures Vol. 2 - CD 1",
+    "art_url": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae",
+    "display_artist": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae",
+    "title": "Trumpet Concerto in D Major, TWV 51:D7 [G.P. Telemann]",
+    "display_title": "Trumpet Concerto in D Major, TWV 51:D7 [G.P. Telemann]",
+    "track": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae - Trumpet Concerto in D Major, TWV 51:D7 [G.P. Telemann]",
+    "length": 500,
+    "duration": 500,
+    "started": 1724057822,
+    "type": "track",
+    "track_id": 2216715,
+    "release": "Konzerte fur Trompete",
+    "art_url": "//cdn-images.audioaddict.com/3/6/2/9/d/1/3629d1259415d3a39d46afe0976b8854.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/2/9/d/1/3629d1259415d3a39d46afe0976b8854.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Tom Poster",
+    "display_artist": "Alison Balsom, Tom Poster",
+    "title": "Concert Etude, Op.49 [A. Goedicke]",
+    "display_title": "Concert Etude, Op.49 [A. Goedicke]",
+    "track": "Alison Balsom, Tom Poster - Concert Etude, Op.49 [A. Goedicke]",
+    "length": 197,
+    "duration": 197,
+    "started": 1724058311,
+    "type": "track",
+    "track_id": 2216671,
+    "release": "Légende: Works for Trumpet and Piano",
+    "art_url": "//cdn-images.audioaddict.com/9/2/8/a/7/7/928a77c26caacd436df11d5270f8a64c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/8/a/7/7/928a77c26caacd436df11d5270f8a64c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis",
+    "display_artist": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis",
+    "title": "Trumpet Concerto in Es-Dur [T. Albinoni]",
+    "display_title": "Trumpet Concerto in Es-Dur [T. Albinoni]",
+    "track": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis - Trumpet Concerto in Es-Dur [T. Albinoni]",
+    "length": 530,
+    "duration": 530,
+    "started": 1724058508,
+    "type": "track",
+    "track_id": 2216631,
+    "release": "Baroque Concertos For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/a/9/f/2/c/6a9f2c6beea9791f3a98e07ec9f9a0f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/9/f/2/c/6a9f2c6beea9791f3a98e07ec9f9a0f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Colm Carey",
+    "display_artist": "Alison Balsom, Colm Carey",
+    "title": "Concerto in C minor BWV 974 after Marcello [J.S. Bach]",
+    "display_title": "Concerto in C minor BWV 974 after Marcello [J.S. Bach]",
+    "track": "Alison Balsom, Colm Carey - Concerto in C minor BWV 974 after Marcello [J.S. Bach]",
+    "length": 605,
+    "duration": 605,
+    "started": 1724059031,
+    "type": "track",
+    "track_id": 2216647,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis",
+    "display_artist": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis",
+    "title": "Trumpet Concerto in C-Dur [T. Albinoni]",
+    "display_title": "Trumpet Concerto in C-Dur [T. Albinoni]",
+    "track": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis - Trumpet Concerto in C-Dur [T. Albinoni]",
+    "length": 609,
+    "duration": 609,
+    "started": 1724059636,
+    "type": "track",
+    "track_id": 2216630,
+    "release": "Baroque Concertos For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/a/9/f/2/c/6a9f2c6beea9791f3a98e07ec9f9a0f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/9/f/2/c/6a9f2c6beea9791f3a98e07ec9f9a0f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Norwegian Chamber Orchestra",
+    "display_artist": "Tine Thing Helseth, Norwegian Chamber Orchestra",
+    "title": "Trumpet Concerto In E Flat [J.B.G. Neruda]",
+    "display_title": "Trumpet Concerto In E Flat [J.B.G. Neruda]",
+    "track": "Tine Thing Helseth, Norwegian Chamber Orchestra - Trumpet Concerto In E Flat [J.B.G. Neruda]",
+    "length": 934,
+    "duration": 934,
+    "started": 1724060238,
+    "type": "track",
+    "track_id": 2216692,
+    "release": "Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/b/4/0/f/5/5/b40f55aa5997370c62e5f057ed77fb66.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/0/f/5/5/b40f55aa5997370c62e5f057ed77fb66.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "Concerto for Trumpet, 2 Oboes, Strings and Continuo in D Major [J.F. Fasch]",
+    "display_title": "Concerto for Trumpet, 2 Oboes, Strings and Continuo in D Major [J.F. Fasch]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - Concerto for Trumpet, 2 Oboes, Strings and Continuo in D Major [J.F. Fasch]",
+    "length": 376,
+    "duration": 376,
+    "started": 1724061173,
+    "type": "track",
+    "track_id": 3067027,
+    "release": "The London Concert",
+    "art_url": "//cdn-images.audioaddict.com/d/4/c/b/a/a/d4cbaae73efb4e2426a3731f622e6602.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/c/b/a/a/d4cbaae73efb4e2426a3731f622e6602.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "Kol nidrei, Op. 47 (arr. S. Nakariakov) [M. Bruch]",
+    "display_title": "Kol nidrei, Op. 47 (arr. S. Nakariakov) [M. Bruch]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - Kol nidrei, Op. 47 (arr. S. Nakariakov) [M. Bruch]",
+    "length": 633,
+    "duration": 633,
+    "started": 1724061551,
+    "type": "track",
+    "track_id": 2216654,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Roland Pöntinen",
+    "display_artist": "Håkan Hardenberger, Roland Pöntinen",
+    "title": "Album Leaf [A. Glazunov]",
+    "display_title": "Album Leaf [A. Glazunov]",
+    "track": "Håkan Hardenberger, Roland Pöntinen - Album Leaf [A. Glazunov]",
+    "length": 241,
+    "duration": 241,
+    "started": 1724062179,
+    "type": "track",
+    "track_id": 1244961,
+    "release": "The Art of The Trumpet (Disc 4/5)",
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Bridal March From Sørfold (Arr. Tine Thing Helseth & Kåre Nordstoga) [Traditional]",
+    "display_title": "Bridal March From Sørfold (Arr. Tine Thing Helseth & Kåre Nordstoga) [Traditional]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Bridal March From Sørfold (Arr. Tine Thing Helseth & Kåre Nordstoga) [Traditional]",
+    "length": 226,
+    "duration": 226,
+    "started": 1724062421,
+    "type": "track",
+    "track_id": 3025592,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Frédéric Presle, Jacques Amade",
+    "display_artist": "Frédéric Presle, Jacques Amade",
+    "title": "Sonate pour Orgue et Trumpette en Si b majeur [A. Vivaldi]",
+    "display_title": "Sonate pour Orgue et Trumpette en Si b majeur [A. Vivaldi]",
+    "track": "Frédéric Presle, Jacques Amade - Sonate pour Orgue et Trumpette en Si b majeur [A. Vivaldi]",
+    "length": 397,
+    "duration": 397,
+    "started": 1724062647,
+    "type": "track",
+    "track_id": 2972662,
+    "release": "Vivaldi - Concertos & Sonates",
+    "art_url": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "display_artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "title": "Violin Concerto in G major Op.3 No.3, RV310 (trascr. A. Balsom) [A. Vivaldi]",
+    "display_title": "Violin Concerto in G major Op.3 No.3, RV310 (trascr. A. Balsom) [A. Vivaldi]",
+    "track": "Alison Balsom, Scottish Ensemble, J. Morton - Violin Concerto in G major Op.3 No.3, RV310 (trascr. A. Balsom) [A. Vivaldi]",
+    "length": 468,
+    "duration": 468,
+    "started": 1724063044,
+    "type": "track",
+    "track_id": 2216721,
+    "release": "Italian Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner",
+    "display_artist": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner",
+    "title": "Trumpet Concerto In D-major [J.W. Hertel]",
+    "display_title": "Trumpet Concerto In D-major [J.W. Hertel]",
+    "track": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner - Trumpet Concerto In D-major [J.W. Hertel]",
+    "length": 607,
+    "duration": 607,
+    "started": 1724063701,
+    "type": "track",
+    "track_id": 1244965,
+    "release": "The Art Of The Trumpet (Disc 3/5)",
+    "art_url": "//cdn-images.audioaddict.com/7/e/4/3/b/9/7e43b9842814b3c760df518c2405d647.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/4/3/b/9/7e43b9842814b3c760df518c2405d647.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "display_artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "title": "Concerto in D major D53 [G. Tartini]",
+    "display_title": "Concerto in D major D53 [G. Tartini]",
+    "track": "Alison Balsom, Scottish Ensemble, J. Morton - Concerto in D major D53 [G. Tartini]",
+    "length": 589,
+    "duration": 589,
+    "started": 1724064308,
+    "type": "track",
+    "track_id": 2216706,
+    "release": "Italian Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Shenandoah (Arr. Jarle Storløkken) [Traditional]",
+    "display_title": "Shenandoah (Arr. Jarle Storløkken) [Traditional]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Shenandoah (Arr. Jarle Storløkken) [Traditional]",
+    "length": 244,
+    "duration": 244,
+    "started": 1724064897,
+    "type": "track",
+    "track_id": 3025601,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Sofðu Unga Ástin Mín (Arr. Jarle Storløkken) [Traditional]",
+    "display_title": "Sofðu Unga Ástin Mín (Arr. Jarle Storløkken) [Traditional]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Sofðu Unga Ástin Mín (Arr. Jarle Storløkken) [Traditional]",
+    "length": 191,
+    "duration": 191,
+    "started": 1724065141,
+    "type": "track",
+    "track_id": 3025602,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "display_artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "title": "Soledad [E. Oscher]",
+    "display_title": "Soledad [E. Oscher]",
+    "track": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez - Soledad [E. Oscher]",
+    "length": 279,
+    "duration": 279,
+    "started": 1724065333,
+    "type": "track",
+    "track_id": 2931165,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Roland Pöntinen",
+    "display_artist": "Håkan Hardenberger, Roland Pöntinen",
+    "title": "My Love Is Like A Red Red Rose [W. Weide]",
+    "display_title": "My Love Is Like A Red Red Rose [W. Weide]",
+    "track": "Håkan Hardenberger, Roland Pöntinen - My Love Is Like A Red Red Rose [W. Weide]",
+    "length": 692,
+    "duration": 692,
+    "started": 1724065614,
+    "type": "track",
+    "track_id": 1244995,
+    "release": "The Art of The Trumpet (Disc 4/5)",
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Ines d'Avena, Jorge López-Escribano, Benedikt Enzler, Reine-Marie Verhagen, Rens Heijnis, Mike Fentross",
+    "display_artist": "Ines d'Avena, Jorge López-Escribano, Benedikt Enzler, Reine-Marie Verhagen, Rens Heijnis, Mike Fentross",
+    "title": "Hark! how the songsters in the grove (from \"Timon of Athens\"), duet for 2 sopranos, Z. 632/2 [H. Purcell]",
+    "display_title": "Hark! how the songsters in the grove (from \"Timon of Athens\"), duet for 2 sopranos, Z. 632/2 [H. Purcell]",
+    "track": "Ines d'Avena, Jorge López-Escribano, Benedikt Enzler, Reine-Marie Verhagen, Rens Heijnis, Mike Fentross - Hark! how the songsters in the grove (from \"Timon of Athens\"), duet for 2 sopranos, Z. 632/2 [H. Purcell]",
+    "length": 181,
+    "duration": 181,
+    "started": 1724066305,
+    "type": "track",
+    "track_id": 2931171,
+    "release": "Tintomara",
+    "art_url": "//cdn-images.audioaddict.com/8/0/a/2/4/c/80a24cb2097b55c316be9fb32ceca49a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/a/2/4/c/80a24cb2097b55c316be9fb32ceca49a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Quentin Thomas",
+    "display_artist": "Alison Balsom, Quentin Thomas",
+    "title": "King Arthur, 'The British Worthy', semi-opera, Z.628, Act 4 [H. Purcell]",
+    "display_title": "King Arthur, 'The British Worthy', semi-opera, Z.628, Act 4 [H. Purcell]",
+    "track": "Alison Balsom, Quentin Thomas - King Arthur, 'The British Worthy', semi-opera, Z.628, Act 4 [H. Purcell]",
+    "length": 332,
+    "duration": 332,
+    "started": 1724067893,
+    "type": "track",
+    "track_id": 2216698,
+    "release": "Music for Trumpet and Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/b/3/d/e/5/bb3de50c168fe8badd3b4a37cd3554cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/3/d/e/5/bb3de50c168fe8badd3b4a37cd3554cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Gammal Fäbodpsalm Från Dalarna [O. Lindberg]",
+    "display_title": "Gammal Fäbodpsalm Från Dalarna [O. Lindberg]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Gammal Fäbodpsalm Från Dalarna [O. Lindberg]",
+    "length": 245,
+    "duration": 245,
+    "started": 1724068225,
+    "type": "track",
+    "track_id": 3025597,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Ralf Benesch, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "display_artist": "Pacho Flores, Ralf Benesch, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "title": "Tarantella II [S. de Murcia]",
+    "display_title": "Tarantella II [S. de Murcia]",
+    "track": "Pacho Flores, Ralf Benesch, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez - Tarantella II [S. de Murcia]",
+    "length": 193,
+    "duration": 193,
+    "started": 1724068471,
+    "type": "track",
+    "track_id": 2931168,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte",
+    "display_artist": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte",
+    "title": "Trumpet Concerto No. 6, \"La paix\" [M.P. de Monteclair]",
+    "display_title": "Trumpet Concerto No. 6, \"La paix\" [M.P. de Monteclair]",
+    "track": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte - Trumpet Concerto No. 6, \"La paix\" [M.P. de Monteclair]",
+    "length": 1248,
+    "duration": 1248,
+    "started": 1724068665,
+    "type": "track",
+    "track_id": 2947657,
+    "release": "Monteclair: Trumpet Concertos Nos. 3-6",
+    "art_url": "//cdn-images.audioaddict.com/7/9/5/7/2/9/795729832e6cde698af114a8e7e2da46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/5/7/2/9/795729832e6cde698af114a8e7e2da46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Tom Poster",
+    "display_artist": "Alison Balsom, Tom Poster",
+    "title": "Someone to Watch Over Me [G. Gershwin]",
+    "display_title": "Someone to Watch Over Me [G. Gershwin]",
+    "track": "Alison Balsom, Tom Poster - Someone to Watch Over Me [G. Gershwin]",
+    "length": 240,
+    "duration": 240,
+    "started": 1724070211,
+    "type": "track",
+    "track_id": 2216669,
+    "release": "Légende: Works for Trumpet and Piano",
+    "art_url": "//cdn-images.audioaddict.com/9/2/8/a/7/7/928a77c26caacd436df11d5270f8a64c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/8/a/7/7/928a77c26caacd436df11d5270f8a64c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "display_artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "title": "A Midsummer Night's Dream Suite (Arr. for Trumpet and Piano) [W. Leigh]",
+    "display_title": "A Midsummer Night's Dream Suite (Arr. for Trumpet and Piano) [W. Leigh]",
+    "track": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar - A Midsummer Night's Dream Suite (Arr. for Trumpet and Piano) [W. Leigh]",
+    "length": 231,
+    "duration": 231,
+    "started": 1724070662,
+    "type": "track",
+    "track_id": 3064715,
+    "release": "The Neoclassical Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Sonata for Piano No.11 in A major, K.331 (300i) - 3. Rondo alla turca [W.A. Mozart]",
+    "display_title": "Sonata for Piano No.11 in A major, K.331 (300i) - 3. Rondo alla turca [W.A. Mozart]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Sonata for Piano No.11 in A major, K.331 (300i) - 3. Rondo alla turca [W.A. Mozart]",
+    "length": 187,
+    "duration": 187,
+    "started": 1724070895,
+    "type": "track",
+    "track_id": 2216691,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "display_artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "title": "Trumpet Concerto in E Major (Original Key) [J.N. Hummel]",
+    "display_title": "Trumpet Concerto in E Major (Original Key) [J.N. Hummel]",
+    "track": "Crispian Steele-Perkins, The King’s Consort, Robert King - Trumpet Concerto in E Major (Original Key) [J.N. Hummel]",
+    "length": 1084,
+    "duration": 1084,
+    "started": 1724071081,
+    "type": "track",
+    "track_id": 3091648,
+    "release": "Classical Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Alistair Ross, Mark Caudle",
+    "display_artist": "Alison Balsom, Alistair Ross, Mark Caudle",
+    "title": "Bist du bei mir from the Anna Magdalena Notebook BWV 508 [J.S. Bach]",
+    "display_title": "Bist du bei mir from the Anna Magdalena Notebook BWV 508 [J.S. Bach]",
+    "track": "Alison Balsom, Alistair Ross, Mark Caudle - Bist du bei mir from the Anna Magdalena Notebook BWV 508 [J.S. Bach]",
+    "length": 161,
+    "duration": 161,
+    "started": 1724072164,
+    "type": "track",
+    "track_id": 2216645,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Frédéric Presle, Jacques Amade",
+    "display_artist": "Frédéric Presle, Jacques Amade",
+    "title": "Concerto pour Orgue et Trumpette en sol mineur [A. Vivaldi]",
+    "display_title": "Concerto pour Orgue et Trumpette en sol mineur [A. Vivaldi]",
+    "track": "Frédéric Presle, Jacques Amade - Concerto pour Orgue et Trumpette en sol mineur [A. Vivaldi]",
+    "length": 286,
+    "duration": 286,
+    "started": 1724073417,
+    "type": "track",
+    "track_id": 2972661,
+    "release": "Vivaldi - Concertos & Sonates",
+    "art_url": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Frédéric Presle, Jacques Amade",
+    "display_artist": "Frédéric Presle, Jacques Amade",
+    "title": "Sonate pour Orgue et Trumpette en Ut majeur [A. Vivaldi]",
+    "display_title": "Sonate pour Orgue et Trumpette en Ut majeur [A. Vivaldi]",
+    "track": "Frédéric Presle, Jacques Amade - Sonate pour Orgue et Trumpette en Ut majeur [A. Vivaldi]",
+    "length": 546,
+    "duration": 546,
+    "started": 1724073703,
+    "type": "track",
+    "track_id": 2972663,
+    "release": "Vivaldi - Concertos & Sonates",
+    "art_url": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Simon Preston",
+    "display_artist": "Håkan Hardenberger, Simon Preston",
+    "title": "Sonata in D major, Op.3, No.9 [J. Loeillet]",
+    "display_title": "Sonata in D major, Op.3, No.9 [J. Loeillet]",
+    "track": "Håkan Hardenberger, Simon Preston - Sonata in D major, Op.3, No.9 [J. Loeillet]",
+    "length": 377,
+    "duration": 377,
+    "started": 1724074250,
+    "type": "track",
+    "track_id": 1244977,
+    "release": "The Art of the Trumpet (Disc 2/5)",
+    "art_url": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Quentin Thomas",
+    "display_artist": "Alison Balsom, Quentin Thomas",
+    "title": "Mein junges Leben hat ein End, variations for keyboard, SwWV 324 [J.P. Sweelinck]",
+    "display_title": "Mein junges Leben hat ein End, variations for keyboard, SwWV 324 [J.P. Sweelinck]",
+    "track": "Alison Balsom, Quentin Thomas - Mein junges Leben hat ein End, variations for keyboard, SwWV 324 [J.P. Sweelinck]",
+    "length": 376,
+    "duration": 376,
+    "started": 1724074626,
+    "type": "track",
+    "track_id": 2216705,
+    "release": "Music for Trumpet and Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/b/3/d/e/5/bb3de50c168fe8badd3b4a37cd3554cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/3/d/e/5/bb3de50c168fe8badd3b4a37cd3554cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom",
+    "display_artist": "Alison Balsom",
+    "title": "Atalanta, HWV 35: Overture [G.F. Händel]",
+    "display_title": "Atalanta, HWV 35: Overture [G.F. Händel]",
+    "track": "Alison Balsom - Atalanta, HWV 35: Overture [G.F. Händel]",
+    "length": 241,
+    "duration": 241,
+    "started": 1724075001,
+    "type": "track",
+    "track_id": 2947652,
+    "release": "Sound the Trumpet - Royal Music of Purcell and Handel",
+    "art_url": "//cdn-images.audioaddict.com/6/7/0/e/8/0/670e800b025cacdd2bb6278a55ad485e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/0/e/8/0/670e800b025cacdd2bb6278a55ad485e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Jorge López-Escribano, Benedikt Enzler, Rens Heijnis, Mike Fentross",
+    "display_artist": "Jorge López-Escribano, Benedikt Enzler, Rens Heijnis, Mike Fentross",
+    "title": "Sound the trumpet, beat the drum (Welcome Ode for James II), for 2 altos, tenors, basses, chorus, strings & continuo, Z. 335 [H. Purcell]",
+    "display_title": "Sound the trumpet, beat the drum (Welcome Ode for James II), for 2 altos, tenors, basses, chorus, strings & continuo, Z. 335 [H. Purcell]",
+    "track": "Jorge López-Escribano, Benedikt Enzler, Rens Heijnis, Mike Fentross - Sound the trumpet, beat the drum (Welcome Ode for James II), for 2 altos, tenors, basses, chorus, strings & continuo, Z. 335 [H. Purcell]",
+    "length": 146,
+    "duration": 146,
+    "started": 1724075243,
+    "type": "track",
+    "track_id": 2931172,
+    "release": "Tintomara",
+    "art_url": "//cdn-images.audioaddict.com/8/0/a/2/4/c/80a24cb2097b55c316be9fb32ceca49a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/a/2/4/c/80a24cb2097b55c316be9fb32ceca49a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Ralf Benesch, Konzerthausorchester Berlin, Christian Vásquez",
+    "display_artist": "Pacho Flores, Ralf Benesch, Konzerthausorchester Berlin, Christian Vásquez",
+    "title": "Soy tu ayer [A.P. Bimbo]",
+    "display_title": "Soy tu ayer [A.P. Bimbo]",
+    "track": "Pacho Flores, Ralf Benesch, Konzerthausorchester Berlin, Christian Vásquez - Soy tu ayer [A.P. Bimbo]",
+    "length": 275,
+    "duration": 275,
+    "started": 1724075588,
+    "type": "track",
+    "track_id": 2931167,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, The Parley of Instruments",
+    "display_artist": "Alison Balsom, The Parley of Instruments",
+    "title": "Sonata à for trumpet & strings, D.12, No.6 [G.M. Jacchini]",
+    "display_title": "Sonata à for trumpet & strings, D.12, No.6 [G.M. Jacchini]",
+    "track": "Alison Balsom, The Parley of Instruments - Sonata à for trumpet & strings, D.12, No.6 [G.M. Jacchini]",
+    "length": 253,
+    "duration": 253,
+    "started": 1724076386,
+    "type": "track",
+    "track_id": 2890943,
+    "release": "The fam'd Italian Masters",
+    "art_url": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "Fantasie brillante (arr. A. Markovich) [J.B. Arban]",
+    "display_title": "Fantasie brillante (arr. A. Markovich) [J.B. Arban]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - Fantasie brillante (arr. A. Markovich) [J.B. Arban]",
+    "length": 441,
+    "duration": 441,
+    "started": 1724076640,
+    "type": "track",
+    "track_id": 2216635,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Graham Ashton, Leslie Pearson",
+    "display_artist": "Graham Ashton, Leslie Pearson",
+    "title": "Concerto a cinque, for oboe, 2 violins, viola, cello & continuo No.11 in B flat major, Op.9/11, T. 9/11 [T. Albinoni]",
+    "display_title": "Concerto a cinque, for oboe, 2 violins, viola, cello & continuo No.11 in B flat major, Op.9/11, T. 9/11 [T. Albinoni]",
+    "track": "Graham Ashton, Leslie Pearson - Concerto a cinque, for oboe, 2 violins, viola, cello & continuo No.11 in B flat major, Op.9/11, T. 9/11 [T. Albinoni]",
+    "length": 469,
+    "duration": 469,
+    "started": 1724078149,
+    "type": "track",
+    "track_id": 2216629,
+    "release": "Concertos, Sonatas & Suites For Trumpet & Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae",
+    "display_artist": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae",
+    "title": "Trumpet Concerto No.2 in D [J.G. von Reutter]",
+    "display_title": "Trumpet Concerto No.2 in D [J.G. von Reutter]",
+    "track": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae - Trumpet Concerto No.2 in D [J.G. von Reutter]",
+    "length": 697,
+    "duration": 697,
+    "started": 1724078619,
+    "type": "track",
+    "track_id": 2216728,
+    "release": "Konzerte fur Trompete",
+    "art_url": "//cdn-images.audioaddict.com/3/6/2/9/d/1/3629d1259415d3a39d46afe0976b8854.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/2/9/d/1/3629d1259415d3a39d46afe0976b8854.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Vårsøg (Arr. Kåre Nordstoga) [H. Sommerro]",
+    "display_title": "Vårsøg (Arr. Kåre Nordstoga) [H. Sommerro]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Vårsøg (Arr. Kåre Nordstoga) [H. Sommerro]",
+    "length": 214,
+    "duration": 214,
+    "started": 1724079305,
+    "type": "track",
+    "track_id": 3025607,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Allen Vizzutti, Laura Vincent Vizzutti",
+    "display_artist": "Allen Vizzutti, Laura Vincent Vizzutti",
+    "title": "Over the Rainbow [H. Arlen]",
+    "display_title": "Over the Rainbow [H. Arlen]",
+    "track": "Allen Vizzutti, Laura Vincent Vizzutti - Over the Rainbow [H. Arlen]",
+    "length": 303,
+    "duration": 303,
+    "started": 1724079519,
+    "type": "track",
+    "track_id": 2216636,
+    "release": "A Trumpeter's Dream",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/a/6/299ba66fb20875997ab6221515377267.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/b/a/6/299ba66fb20875997ab6221515377267.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "7 Canciones populares espanolas [M. de Falla]",
+    "display_title": "7 Canciones populares espanolas [M. de Falla]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - 7 Canciones populares espanolas [M. de Falla]",
+    "length": 697,
+    "duration": 697,
+    "started": 1724079816,
+    "type": "track",
+    "track_id": 2216660,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, The Parley of Instruments",
+    "display_artist": "Crispian Steele-Perkins, The Parley of Instruments",
+    "title": "Il Barcheggio, for 3 voices, trumpet, 2 violins & continuo Sinfonia in D major [A. Stradella]",
+    "display_title": "Il Barcheggio, for 3 voices, trumpet, 2 violins & continuo Sinfonia in D major [A. Stradella]",
+    "track": "Crispian Steele-Perkins, The Parley of Instruments - Il Barcheggio, for 3 voices, trumpet, 2 violins & continuo Sinfonia in D major [A. Stradella]",
+    "length": 367,
+    "duration": 367,
+    "started": 1724080514,
+    "type": "track",
+    "track_id": 2890947,
+    "release": "The fam'd Italian Masters",
+    "art_url": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Concerto for violin, cello, trumpet, strings & continuo in D major, TWV 53:D5 [G.P. Telemann]",
+    "display_title": "Concerto for violin, cello, trumpet, strings & continuo in D major, TWV 53:D5 [G.P. Telemann]",
+    "track": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Concerto for violin, cello, trumpet, strings & continuo in D major, TWV 53:D5 [G.P. Telemann]",
+    "length": 783,
+    "duration": 783,
+    "started": 1724081618,
+    "type": "track",
+    "track_id": 2216712,
+    "release": "Trumpet Concertos (complete) (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Arctic Philharmonic Orchestra, Christian Lindberg",
+    "display_artist": "Pacho Flores, Arctic Philharmonic Orchestra, Christian Lindberg",
+    "title": "Zigeunerweisen op. 20 [P. Sarasate]",
+    "display_title": "Zigeunerweisen op. 20 [P. Sarasate]",
+    "track": "Pacho Flores, Arctic Philharmonic Orchestra, Christian Lindberg - Zigeunerweisen op. 20 [P. Sarasate]",
+    "length": 526,
+    "duration": 526,
+    "started": 1724082393,
+    "type": "track",
+    "track_id": 2931282,
+    "release": "Fractales",
+    "art_url": "//cdn-images.audioaddict.com/5/6/e/d/9/d/56ed9d229aecf77dd2db71828f6ea739.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/e/d/9/d/56ed9d229aecf77dd2db71828f6ea739.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Colm Carey",
+    "display_artist": "Alison Balsom, Colm Carey",
+    "title": "Concerto in D major after Vivaldi, BWV 972 - 1. Allegro [J.S. Bach]",
+    "display_title": "Concerto in D major after Vivaldi, BWV 972 - 1. Allegro [J.S. Bach]",
+    "track": "Alison Balsom, Colm Carey - Concerto in D major after Vivaldi, BWV 972 - 1. Allegro [J.S. Bach]",
+    "length": 484,
+    "duration": 484,
+    "started": 1724082920,
+    "type": "track",
+    "track_id": 2216648,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Simon Preston",
+    "display_artist": "Håkan Hardenberger, Simon Preston",
+    "title": "Suite for trumpet & strings in D major [J. Clarke]",
+    "display_title": "Suite for trumpet & strings in D major [J. Clarke]",
+    "track": "Håkan Hardenberger, Simon Preston - Suite for trumpet & strings in D major [J. Clarke]",
+    "length": 708,
+    "duration": 708,
+    "started": 1724084340,
+    "type": "track",
+    "track_id": 1244953,
+    "release": "The Art of the Trumpet (Disc 2/5)",
+    "art_url": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Camerata Köln, Michael Schneider, Hannes Rux",
+    "display_artist": "Camerata Köln, Michael Schneider, Hannes Rux",
+    "title": "Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "display_title": "Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "track": "Camerata Köln, Michael Schneider, Hannes Rux - Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "length": 429,
+    "duration": 429,
+    "started": 1724085048,
+    "type": "track",
+    "track_id": 933553,
+    "release": "Telemann - Wind Concertos Volume 03",
+    "art_url": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/a/0/b/5/2/1a0b52c7662a232c77e5a523bb64002e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Jörg Strodthoff",
+    "display_artist": "Pacho Flores, Jörg Strodthoff",
+    "title": "Nun komm der Heiden Heiland BWV 659 [J.S. Bach]",
+    "display_title": "Nun komm der Heiden Heiland BWV 659 [J.S. Bach]",
+    "track": "Pacho Flores, Jörg Strodthoff - Nun komm der Heiden Heiland BWV 659 [J.S. Bach]",
+    "length": 278,
+    "duration": 278,
+    "started": 1724085469,
+    "type": "track",
+    "track_id": 2931158,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Norwegian Chamber Orchestra",
+    "display_artist": "Tine Thing Helseth, Norwegian Chamber Orchestra",
+    "title": "Trumpet Concerto In E Flat [J. Haydn]",
+    "display_title": "Trumpet Concerto In E Flat [J. Haydn]",
+    "track": "Tine Thing Helseth, Norwegian Chamber Orchestra - Trumpet Concerto In E Flat [J. Haydn]",
+    "length": 941,
+    "duration": 941,
+    "started": 1724085748,
+    "type": "track",
+    "track_id": 976429,
+    "release": "Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/b/4/0/f/5/5/b40f55aa5997370c62e5f057ed77fb66.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/0/f/5/5/b40f55aa5997370c62e5f057ed77fb66.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Koppången (Arr. Jarle Storløkken) [P. Moraeus]",
+    "display_title": "Koppången (Arr. Jarle Storløkken) [P. Moraeus]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Koppången (Arr. Jarle Storløkken) [P. Moraeus]",
+    "length": 212,
+    "duration": 212,
+    "started": 1724086686,
+    "type": "track",
+    "track_id": 3025598,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, I Musici",
+    "display_artist": "Håkan Hardenberger, I Musici",
+    "title": "Concerto for trumpet, strings & continuo in D minor, SF. 935 (orig. oboe) [A. Marcello]",
+    "display_title": "Concerto for trumpet, strings & continuo in D minor, SF. 935 (orig. oboe) [A. Marcello]",
+    "track": "Håkan Hardenberger, I Musici - Concerto for trumpet, strings & continuo in D minor, SF. 935 (orig. oboe) [A. Marcello]",
+    "length": 583,
+    "duration": 583,
+    "started": 1724086981,
+    "type": "track",
+    "track_id": 1244978,
+    "release": "Art of the Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Sonata À 7 [H.I.F. von Biber]",
+    "display_title": "Sonata À 7 [H.I.F. von Biber]",
+    "track": "New London Consort, Philip Pickett - Sonata À 7 [H.I.F. von Biber]",
+    "length": 349,
+    "duration": 349,
+    "started": 1724087564,
+    "type": "track",
+    "track_id": 2931285,
+    "release": "Biber: Requiem, Etc.; Schmelzer: Trumpet Music [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Frédéric Presle, Philippe Robert, Jacques Amade",
+    "display_artist": "Frédéric Presle, Philippe Robert, Jacques Amade",
+    "title": "Concerto en Ut majeur pour 2 trompettes [A. Vivaldi]",
+    "display_title": "Concerto en Ut majeur pour 2 trompettes [A. Vivaldi]",
+    "track": "Frédéric Presle, Philippe Robert, Jacques Amade - Concerto en Ut majeur pour 2 trompettes [A. Vivaldi]",
+    "length": 416,
+    "duration": 416,
+    "started": 1724087914,
+    "type": "track",
+    "track_id": 2972664,
+    "release": "Vivaldi - Concertos & Sonates",
+    "art_url": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Sonata #7 À 5 [H.I.F. von Biber]",
+    "display_title": "Sonata #7 À 5 [H.I.F. von Biber]",
+    "track": "New London Consort, Philip Pickett - Sonata #7 À 5 [H.I.F. von Biber]",
+    "length": 326,
+    "duration": 326,
+    "started": 1724088329,
+    "type": "track",
+    "track_id": 2931287,
+    "release": "Biber: Requiem, Etc.; Schmelzer: Trumpet Music [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "display_artist": "Crispian Steele-Perkins, The King’s Consort, Robert King",
+    "title": "Trumpet Concerto in C Major, MH 60 [M. Haydn]",
+    "display_title": "Trumpet Concerto in C Major, MH 60 [M. Haydn]",
+    "track": "Crispian Steele-Perkins, The King’s Consort, Robert King - Trumpet Concerto in C Major, MH 60 [M. Haydn]",
+    "length": 603,
+    "duration": 603,
+    "started": 1724088655,
+    "type": "track",
+    "track_id": 3091646,
+    "release": "Classical Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/1/5/4/c/88154c3b7f4c7f4bd3abe1cf862e2af8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments",
+    "display_artist": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments",
+    "title": "Sonata à 5 for 2 trumpets, 2 violins, bass violin & continuo in C major [A. Melani]",
+    "display_title": "Sonata à 5 for 2 trumpets, 2 violins, bass violin & continuo in C major [A. Melani]",
+    "track": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments - Sonata à 5 for 2 trumpets, 2 violins, bass violin & continuo in C major [A. Melani]",
+    "length": 623,
+    "duration": 623,
+    "started": 1724089747,
+    "type": "track",
+    "track_id": 2890945,
+    "release": "The fam'd Italian Masters",
+    "art_url": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Benedikt Enzler, Rens Heijnis, Mike Fentross",
+    "display_artist": "Benedikt Enzler, Rens Heijnis, Mike Fentross",
+    "title": "My dearest, my fairest (from \"Pausanias\"), song, Z. 585/2 [H. Purcell]",
+    "display_title": "My dearest, my fairest (from \"Pausanias\"), song, Z. 585/2 [H. Purcell]",
+    "track": "Benedikt Enzler, Rens Heijnis, Mike Fentross - My dearest, my fairest (from \"Pausanias\"), song, Z. 585/2 [H. Purcell]",
+    "length": 203,
+    "duration": 203,
+    "started": 1724090371,
+    "type": "track",
+    "track_id": 2931170,
+    "release": "Tintomara",
+    "art_url": "//cdn-images.audioaddict.com/8/0/a/2/4/c/80a24cb2097b55c316be9fb32ceca49a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/a/2/4/c/80a24cb2097b55c316be9fb32ceca49a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Roland Pöntinen",
+    "display_artist": "Håkan Hardenberger, Roland Pöntinen",
+    "title": "Slavonic Fantasy [C. Höhne]",
+    "display_title": "Slavonic Fantasy [C. Höhne]",
+    "track": "Håkan Hardenberger, Roland Pöntinen - Slavonic Fantasy [C. Höhne]",
+    "length": 431,
+    "duration": 431,
+    "started": 1724090574,
+    "type": "track",
+    "track_id": 1244967,
+    "release": "The Art of The Trumpet (Disc 4/5)",
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "display_artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "title": "Pulcinella Suite (Arr. for Trumpet and Piano) [I. Stravinsky]",
+    "display_title": "Pulcinella Suite (Arr. for Trumpet and Piano) [I. Stravinsky]",
+    "track": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar - Pulcinella Suite (Arr. for Trumpet and Piano) [I. Stravinsky]",
+    "length": 1316,
+    "duration": 1316,
+    "started": 1724091005,
+    "type": "track",
+    "track_id": 3064718,
+    "release": "The Neoclassical Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/0/f/7/d/c/7/0f7dc78ac300dc8e4f2dd27a2b98e1f1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/7/d/c/7/0f7dc78ac300dc8e4f2dd27a2b98e1f1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "12 Marches Héroiques 'Heldenmusik', TWV 50: 31-42 [G.P. Telemann]",
+    "display_title": "12 Marches Héroiques 'Heldenmusik', TWV 50: 31-42 [G.P. Telemann]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - 12 Marches Héroiques 'Heldenmusik', TWV 50: 31-42 [G.P. Telemann]",
+    "length": 401,
+    "duration": 401,
+    "started": 1724092921,
+    "type": "track",
+    "track_id": 3025589,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Sonata À 6 [H.I.F. von Biber]",
+    "display_title": "Sonata À 6 [H.I.F. von Biber]",
+    "track": "New London Consort, Philip Pickett - Sonata À 6 [H.I.F. von Biber]",
+    "length": 355,
+    "duration": 355,
+    "started": 1724093520,
+    "type": "track",
+    "track_id": 2931284,
+    "release": "Biber: Requiem, Etc.; Schmelzer: Trumpet Music [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner",
+    "display_artist": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner",
+    "title": "Trumpet Concerto In E-major [J.N. Hummel]",
+    "display_title": "Trumpet Concerto In E-major [J.N. Hummel]",
+    "track": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner - Trumpet Concerto In E-major [J.N. Hummel]",
+    "length": 1090,
+    "duration": 1090,
+    "started": 1724093875,
+    "type": "track",
+    "track_id": 1244966,
+    "release": "The Art Of The Trumpet (Disc 3/5)",
+    "art_url": "//cdn-images.audioaddict.com/7/e/4/3/b/9/7e43b9842814b3c760df518c2405d647.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/4/3/b/9/7e43b9842814b3c760df518c2405d647.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae",
+    "display_artist": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae",
+    "title": "Trumpet Concerto in D Major [L. Mozart]",
+    "display_title": "Trumpet Concerto in D Major [L. Mozart]",
+    "track": "Wolfgang Basch, Bamberger Symphoniker, Marc Andreae - Trumpet Concerto in D Major [L. Mozart]",
+    "length": 900,
+    "duration": 900,
+    "started": 1724094965,
+    "type": "track",
+    "track_id": 2216689,
+    "release": "Konzerte fur Trompete",
+    "art_url": "//cdn-images.audioaddict.com/3/6/2/9/d/1/3629d1259415d3a39d46afe0976b8854.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/2/9/d/1/3629d1259415d3a39d46afe0976b8854.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "Sonata A 5 for Trumpet and Strings TV.3 [G. Torelli]",
+    "display_title": "Sonata A 5 for Trumpet and Strings TV.3 [G. Torelli]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - Sonata A 5 for Trumpet and Strings TV.3 [G. Torelli]",
+    "length": 298,
+    "duration": 298,
+    "started": 1724095865,
+    "type": "track",
+    "track_id": 2216719,
+    "release": "Baroque Music For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Concerto for oboe, strings & continuo in F minor, TWV 51:f1 [G.P. Telemann]",
+    "display_title": "Concerto for oboe, strings & continuo in F minor, TWV 51:f1 [G.P. Telemann]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Concerto for oboe, strings & continuo in F minor, TWV 51:f1 [G.P. Telemann]",
+    "length": 463,
+    "duration": 463,
+    "started": 1724096164,
+    "type": "track",
+    "track_id": 3097386,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Sonata À 3 [H.I.F. von Biber]",
+    "display_title": "Sonata À 3 [H.I.F. von Biber]",
+    "track": "New London Consort, Philip Pickett - Sonata À 3 [H.I.F. von Biber]",
+    "length": 408,
+    "duration": 408,
+    "started": 1724096627,
+    "type": "track",
+    "track_id": 2931283,
+    "release": "Biber: Requiem, Etc.; Schmelzer: Trumpet Music [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Roland Pöntinen",
+    "display_artist": "Håkan Hardenberger, Roland Pöntinen",
+    "title": "Quatre Varitions Surun Théme de Domz Scarlotti [M. Bitsch]",
+    "display_title": "Quatre Varitions Surun Théme de Domz Scarlotti [M. Bitsch]",
+    "track": "Håkan Hardenberger, Roland Pöntinen - Quatre Varitions Surun Théme de Domz Scarlotti [M. Bitsch]",
+    "length": 430,
+    "duration": 430,
+    "started": 1724097279,
+    "type": "track",
+    "track_id": 1244950,
+    "release": "The Art of The Trumpet (Disc 4/5)",
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Graham Ashton, Leslie Pearson",
+    "display_artist": "Graham Ashton, Leslie Pearson",
+    "title": "Te Deum, motet for 8 voices, chorus & orchestra, H.146 [M-A. Charpentier]",
+    "display_title": "Te Deum, motet for 8 voices, chorus & orchestra, H.146 [M-A. Charpentier]",
+    "track": "Graham Ashton, Leslie Pearson - Te Deum, motet for 8 voices, chorus & orchestra, H.146 [M-A. Charpentier]",
+    "length": 154,
+    "duration": 154,
+    "started": 1724097708,
+    "type": "track",
+    "track_id": 2216657,
+    "release": "Concertos, Sonatas & Suites For Trumpet & Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Concerto In C Minor, S.Z799: Adagio [A. Marcello]",
+    "display_title": "Concerto In C Minor, S.Z799: Adagio [A. Marcello]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Concerto In C Minor, S.Z799: Adagio [A. Marcello]",
+    "length": 241,
+    "duration": 241,
+    "started": 1724098103,
+    "type": "track",
+    "track_id": 3025593,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "display_artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "title": "Gli Uccelli (Arr. for Trumpet and Piano) [O. Respighi]",
+    "display_title": "Gli Uccelli (Arr. for Trumpet and Piano) [O. Respighi]",
+    "track": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar - Gli Uccelli (Arr. for Trumpet and Piano) [O. Respighi]",
+    "length": 1044,
+    "duration": 1044,
+    "started": 1724098528,
+    "type": "track",
+    "track_id": 3064716,
+    "release": "The Neoclassical Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "Sonata A 5 for Trumpet and Strings TV.7 [H. Purcell]",
+    "display_title": "Sonata A 5 for Trumpet and Strings TV.7 [H. Purcell]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - Sonata A 5 for Trumpet and Strings TV.7 [H. Purcell]",
+    "length": 354,
+    "duration": 354,
+    "started": 1724099573,
+    "type": "track",
+    "track_id": 2216701,
+    "release": "Baroque Music For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Sonata for trumpet, 2 violins, viola & continuo in D major 'Sonate spirituosa', TWV 44:1 [G.P. Telemann]",
+    "display_title": "Sonata for trumpet, 2 violins, viola & continuo in D major 'Sonate spirituosa', TWV 44:1 [G.P. Telemann]",
+    "track": "Otto Sauter, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Sonata for trumpet, 2 violins, viola & continuo in D major 'Sonate spirituosa', TWV 44:1 [G.P. Telemann]",
+    "length": 476,
+    "duration": 476,
+    "started": 1724099927,
+    "type": "track",
+    "track_id": 2216713,
+    "release": "Trumpet Concertos (complete) (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/9/b/6/4/8/d9b648644184678c48fa057628f67ac6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "Orfeo ed Euridice, Act II - Dance of the Blessed Spirits, Melodie (arr. S. Nakariakov) [C.W. Gluck]",
+    "display_title": "Orfeo ed Euridice, Act II - Dance of the Blessed Spirits, Melodie (arr. S. Nakariakov) [C.W. Gluck]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - Orfeo ed Euridice, Act II - Dance of the Blessed Spirits, Melodie (arr. S. Nakariakov) [C.W. Gluck]",
+    "length": 220,
+    "duration": 220,
+    "started": 1724100404,
+    "type": "track",
+    "track_id": 2216670,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Oboe Concerto in G minor (No.3), HWV 287 (possibly spurious) [G.F. Handel]",
+    "display_title": "Oboe Concerto in G minor (No.3), HWV 287 (possibly spurious) [G.F. Handel]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Oboe Concerto in G minor (No.3), HWV 287 (possibly spurious) [G.F. Handel]",
+    "length": 493,
+    "duration": 493,
+    "started": 1724100817,
+    "type": "track",
+    "track_id": 3097382,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, I Musici",
+    "display_artist": "Håkan Hardenberger, I Musici",
+    "title": "Sonata prima, for solo trumpet (or trumpet & continuo) [G. Buonaventura Viviani]",
+    "display_title": "Sonata prima, for solo trumpet (or trumpet & continuo) [G. Buonaventura Viviani]",
+    "track": "Håkan Hardenberger, I Musici - Sonata prima, for solo trumpet (or trumpet & continuo) [G. Buonaventura Viviani]",
+    "length": 305,
+    "duration": 305,
+    "started": 1724101532,
+    "type": "track",
+    "track_id": 1244952,
+    "release": "Art of the Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "display_title": "Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Trumpet Concerto for trumpet, strings & continuo in D major, TWV 51:D7 [G.P. Telemann]",
+    "length": 409,
+    "duration": 409,
+    "started": 1724102312,
+    "type": "track",
+    "track_id": 3097387,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "Concerto in D Major for Trumpet, Two Oboes And Strings [J.F. Fasch]",
+    "display_title": "Concerto in D Major for Trumpet, Two Oboes And Strings [J.F. Fasch]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - Concerto in D Major for Trumpet, Two Oboes And Strings [J.F. Fasch]",
+    "length": 339,
+    "duration": 339,
+    "started": 1724102722,
+    "type": "track",
+    "track_id": 2216667,
+    "release": "Baroque Music For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Variations on Bellini's Norma (Casta Diva) [J-B Arban]",
+    "display_title": "Variations on Bellini's Norma (Casta Diva) [J-B Arban]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Variations on Bellini's Norma (Casta Diva) [J-B Arban]",
+    "length": 386,
+    "duration": 386,
+    "started": 1724103252,
+    "type": "track",
+    "track_id": 2216634,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Elegy For Trumpet And Organ, Op. 27 [Ø. Sommerfeldt]",
+    "display_title": "Elegy For Trumpet And Organ, Op. 27 [Ø. Sommerfeldt]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Elegy For Trumpet And Organ, Op. 27 [Ø. Sommerfeldt]",
+    "length": 200,
+    "duration": 200,
+    "started": 1724103639,
+    "type": "track",
+    "track_id": 3025595,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "Les chemins de l'amour, FP 106 (arr. S. Nakariakov) [F. Poulenc]",
+    "display_title": "Les chemins de l'amour, FP 106 (arr. S. Nakariakov) [F. Poulenc]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - Les chemins de l'amour, FP 106 (arr. S. Nakariakov) [F. Poulenc]",
+    "length": 229,
+    "duration": 229,
+    "started": 1724104659,
+    "type": "track",
+    "track_id": 2216697,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, London Philharmonic Orchestra, Elgar Howarth",
+    "display_artist": "Håkan Hardenberger, London Philharmonic Orchestra, Elgar Howarth",
+    "title": "Trumpet Concerto No. 1 in D [J.M. Molter]",
+    "display_title": "Trumpet Concerto No. 1 in D [J.M. Molter]",
+    "track": "Håkan Hardenberger, London Philharmonic Orchestra, Elgar Howarth - Trumpet Concerto No. 1 in D [J.M. Molter]",
+    "length": 659,
+    "duration": 659,
+    "started": 1724105051,
+    "type": "track",
+    "track_id": 3091650,
+    "release": "Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/1/5/c/0/3/d/15c03d681d8c78e4606efd63aa5756ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/c/0/3/d/15c03d681d8c78e4606efd63aa5756ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sharon Bezaly, Tapiola Sinfonietta, J-J. Kantorow",
+    "display_artist": "Sharon Bezaly, Tapiola Sinfonietta, J-J. Kantorow",
+    "title": "Concertino for Flute and Small Orchestra [C. Gounod]",
+    "display_title": "Concertino for Flute and Small Orchestra [C. Gounod]",
+    "track": "Sharon Bezaly, Tapiola Sinfonietta, J-J. Kantorow - Concertino for Flute and Small Orchestra [C. Gounod]",
+    "length": 311,
+    "duration": 311,
+    "started": 1724105710,
+    "type": "track",
+    "track_id": 1244963,
+    "release": "Aperitif - A french collection",
+    "art_url": "//cdn-images.audioaddict.com/e/f/4/e/f/b/ef4efbca01f0aa20b353bf23446d4adc.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/4/e/f/b/ef4efbca01f0aa20b353bf23446d4adc.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis",
+    "display_artist": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis",
+    "title": "Trumpet Concerto in G-Moll [T. Albinoni]",
+    "display_title": "Trumpet Concerto in G-Moll [T. Albinoni]",
+    "track": "Timofey Dokshizer, Lithuanian Chamber Orchestra, Saulius Sondeckis - Trumpet Concerto in G-Moll [T. Albinoni]",
+    "length": 565,
+    "duration": 565,
+    "started": 1724106021,
+    "type": "track",
+    "track_id": 2216632,
+    "release": "Baroque Concertos For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/a/9/f/2/c/6a9f2c6beea9791f3a98e07ec9f9a0f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/9/f/2/c/6a9f2c6beea9791f3a98e07ec9f9a0f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "Concerto for Trumpet and Orchestra in E Major [J.N. Hummel]",
+    "display_title": "Concerto for Trumpet and Orchestra in E Major [J.N. Hummel]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - Concerto for Trumpet and Orchestra in E Major [J.N. Hummel]",
+    "length": 1126,
+    "duration": 1126,
+    "started": 1724106582,
+    "type": "track",
+    "track_id": 3067025,
+    "release": "The London Concert",
+    "art_url": "//cdn-images.audioaddict.com/d/4/c/b/a/a/d4cbaae73efb4e2426a3731f622e6602.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/c/b/a/a/d4cbaae73efb4e2426a3731f622e6602.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, I Musici",
+    "display_artist": "Håkan Hardenberger, I Musici",
+    "title": "Sonata a 4, for trumpet, 2 violins & bass in D major, WoO 4 [A. Corelli]",
+    "display_title": "Sonata a 4, for trumpet, 2 violins & bass in D major, WoO 4 [A. Corelli]",
+    "track": "Håkan Hardenberger, I Musici - Sonata a 4, for trumpet, 2 violins & bass in D major, WoO 4 [A. Corelli]",
+    "length": 347,
+    "duration": 347,
+    "started": 1724107708,
+    "type": "track",
+    "track_id": 1244954,
+    "release": "Art of the Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Conclusion, sinfonia for oboe, trumpet, strings & continuo in D major (Tafelmusik II/6), TWV 50 - 9 [G.P. Telemann]",
+    "display_title": "Conclusion, sinfonia for oboe, trumpet, strings & continuo in D major (Tafelmusik II/6), TWV 50 - 9 [G.P. Telemann]",
+    "track": "Freiburger Barockorchester - Conclusion, sinfonia for oboe, trumpet, strings & continuo in D major (Tafelmusik II/6), TWV 50 - 9 [G.P. Telemann]",
+    "length": 397,
+    "duration": 397,
+    "started": 1724108054,
+    "type": "track",
+    "track_id": 924886,
+    "release": "Musique de Table - CD3",
+    "art_url": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/7/d/d/b/4/77ddb4cb777e958ac62d0d9159c7fb77.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Camerata Köln, Michael Schneider, Hannes Rux",
+    "display_artist": "Camerata Köln, Michael Schneider, Hannes Rux",
+    "title": "Concerto (Quartetto) in D major for Trumpet, 2 Oboes & B.c., TWV 43:D7 [G.P. Telemann]",
+    "display_title": "Concerto (Quartetto) in D major for Trumpet, 2 Oboes & B.c., TWV 43:D7 [G.P. Telemann]",
+    "track": "Camerata Köln, Michael Schneider, Hannes Rux - Concerto (Quartetto) in D major for Trumpet, 2 Oboes & B.c., TWV 43:D7 [G.P. Telemann]",
+    "length": 784,
+    "duration": 784,
+    "started": 1724110258,
+    "type": "track",
+    "track_id": 933578,
+    "release": "Telemann - Wind Concertos Volume 08",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/a/0/7/582a076db2f66d13a7294222b0bc1ca2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Sonata Pro Tabula [H.I.F. von Biber]",
+    "display_title": "Sonata Pro Tabula [H.I.F. von Biber]",
+    "track": "New London Consort, Philip Pickett - Sonata Pro Tabula [H.I.F. von Biber]",
+    "length": 264,
+    "duration": 264,
+    "started": 1724111810,
+    "type": "track",
+    "track_id": 2931288,
+    "release": "Biber: Requiem, Etc.; Schmelzer: Trumpet Music [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "display_artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "title": "Solomon HWV 67, Act 3 - Sinfonia \"The Arrival Of The Queen Of Sheba\" [G.F. Handel]",
+    "display_title": "Solomon HWV 67, Act 3 - Sinfonia \"The Arrival Of The Queen Of Sheba\" [G.F. Handel]",
+    "track": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez - Solomon HWV 67, Act 3 - Sinfonia \"The Arrival Of The Queen Of Sheba\" [G.F. Handel]",
+    "length": 192,
+    "duration": 192,
+    "started": 1724119641,
+    "type": "track",
+    "track_id": 2931166,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Frédéric Presle, Jacques Amade",
+    "display_artist": "Frédéric Presle, Jacques Amade",
+    "title": "Concerto pour Orgue et Trumpette en Ut majeur [A. Vivaldi]",
+    "display_title": "Concerto pour Orgue et Trumpette en Ut majeur [A. Vivaldi]",
+    "track": "Frédéric Presle, Jacques Amade - Concerto pour Orgue et Trumpette en Ut majeur [A. Vivaldi]",
+    "length": 583,
+    "duration": 583,
+    "started": 1724119833,
+    "type": "track",
+    "track_id": 2972660,
+    "release": "Vivaldi - Concertos & Sonates",
+    "art_url": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "'Trumpet Overture' from The Indian Queen [H. Purcell]",
+    "display_title": "'Trumpet Overture' from The Indian Queen [H. Purcell]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - 'Trumpet Overture' from The Indian Queen [H. Purcell]",
+    "length": 211,
+    "duration": 211,
+    "started": 1724120416,
+    "type": "track",
+    "track_id": 2216700,
+    "release": "Baroque Music For Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/2/e/6/3/c02e638397bcf2a84e309a49ddf0f63e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Graham Ashton, Leslie Pearson",
+    "display_artist": "Graham Ashton, Leslie Pearson",
+    "title": "Flute Concerto, for flute, strings & continuo in G minor, 'La Notte', Op.10/2, RV439 [A. Vivaldi]",
+    "display_title": "Flute Concerto, for flute, strings & continuo in G minor, 'La Notte', Op.10/2, RV439 [A. Vivaldi]",
+    "track": "Graham Ashton, Leslie Pearson - Flute Concerto, for flute, strings & continuo in G minor, 'La Notte', Op.10/2, RV439 [A. Vivaldi]",
+    "length": 464,
+    "duration": 464,
+    "started": 1724122396,
+    "type": "track",
+    "track_id": 2216722,
+    "release": "Concertos, Sonatas & Suites For Trumpet & Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte",
+    "display_artist": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte",
+    "title": "Trumpet Concerto No. 5, \"La guerre\" [M.P. de Monteclair]",
+    "display_title": "Trumpet Concerto No. 5, \"La guerre\" [M.P. de Monteclair]",
+    "track": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte - Trumpet Concerto No. 5, \"La guerre\" [M.P. de Monteclair]",
+    "length": 944,
+    "duration": 944,
+    "started": 1724122861,
+    "type": "track",
+    "track_id": 2947656,
+    "release": "Monteclair: Trumpet Concertos Nos. 3-6",
+    "art_url": "//cdn-images.audioaddict.com/7/9/5/7/2/9/795729832e6cde698af114a8e7e2da46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/5/7/2/9/795729832e6cde698af114a8e7e2da46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Graham Ashton, Gerald Ruddock, Leslie Pearson",
+    "display_artist": "Graham Ashton, Gerald Ruddock, Leslie Pearson",
+    "title": "Sonata for 2 trumpets in C major to music of Henry Purcell [H. Purcell]",
+    "display_title": "Sonata for 2 trumpets in C major to music of Henry Purcell [H. Purcell]",
+    "track": "Graham Ashton, Gerald Ruddock, Leslie Pearson - Sonata for 2 trumpets in C major to music of Henry Purcell [H. Purcell]",
+    "length": 266,
+    "duration": 266,
+    "started": 1724123964,
+    "type": "track",
+    "track_id": 2216699,
+    "release": "Concertos, Sonatas & Suites For Trumpet & Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Våren, Op. 33 No. 2 [E. Grieg]",
+    "display_title": "Våren, Op. 33 No. 2 [E. Grieg]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Våren, Op. 33 No. 2 [E. Grieg]",
+    "length": 283,
+    "duration": 283,
+    "started": 1724124587,
+    "type": "track",
+    "track_id": 3025606,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Colm Carey",
+    "display_artist": "Alison Balsom, Colm Carey",
+    "title": "Concerto in A major BWV 1055 [J.S. Bach]",
+    "display_title": "Concerto in A major BWV 1055 [J.S. Bach]",
+    "track": "Alison Balsom, Colm Carey - Concerto in A major BWV 1055 [J.S. Bach]",
+    "length": 813,
+    "duration": 813,
+    "started": 1724125180,
+    "type": "track",
+    "track_id": 2216646,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "Concerto for Trumpet and Orchestra in E-Flat Major, Hob. VIIe:1 [F.J. Haydn]",
+    "display_title": "Concerto for Trumpet and Orchestra in E-Flat Major, Hob. VIIe:1 [F.J. Haydn]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - Concerto for Trumpet and Orchestra in E-Flat Major, Hob. VIIe:1 [F.J. Haydn]",
+    "length": 885,
+    "duration": 885,
+    "started": 1724127180,
+    "type": "track",
+    "track_id": 3067026,
+    "release": "The London Concert",
+    "art_url": "//cdn-images.audioaddict.com/d/4/c/b/a/a/d4cbaae73efb4e2426a3731f622e6602.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/c/b/a/a/d4cbaae73efb4e2426a3731f622e6602.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "National Brass Ensemble, Eun Sun Kim",
+    "display_artist": "National Brass Ensemble, Eun Sun Kim",
+    "title": "The Ring (after Richard Wagner’s Der Ring des Nibelungen) (Arr. T. Higgins), Die Walküre - Ride of the Valkyries [R. Wagner]",
+    "display_title": "The Ring (after Richard Wagner’s Der Ring des Nibelungen) (Arr. T. Higgins), Die Walküre - Ride of the Valkyries [R. Wagner]",
+    "track": "National Brass Ensemble, Eun Sun Kim - The Ring (after Richard Wagner’s Der Ring des Nibelungen) (Arr. T. Higgins), Die Walküre - Ride of the Valkyries [R. Wagner]",
+    "length": 131,
+    "duration": 131,
+    "started": 1724128255,
+    "type": "track",
+    "track_id": 3070628,
+    "release": "Deified",
+    "art_url": "//cdn-images.audioaddict.com/4/d/5/9/c/9/4d59c972ae849ea70c19685c1bca796f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/5/9/c/9/4d59c972ae849ea70c19685c1bca796f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Ole Edvard Antonsen, Sao Paolo Symphony Orchestra, Lan Shui",
+    "display_artist": "Ole Edvard Antonsen, Sao Paolo Symphony Orchestra, Lan Shui",
+    "title": "Concerto pour trompette et orchestre à cordes [R. Planel]",
+    "display_title": "Concerto pour trompette et orchestre à cordes [R. Planel]",
+    "track": "Ole Edvard Antonsen, Sao Paolo Symphony Orchestra, Lan Shui - Concerto pour trompette et orchestre à cordes [R. Planel]",
+    "length": 918,
+    "duration": 918,
+    "started": 1724128386,
+    "type": "track",
+    "track_id": 2216696,
+    "release": "French Trumpet Concertos",
+    "art_url": "//cdn-images.audioaddict.com/4/9/8/6/f/2/4986f2abedc2af4dfa2c8c13061fd45c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/8/6/f/2/4986f2abedc2af4dfa2c8c13061fd45c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments",
+    "display_artist": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments",
+    "title": "Sonata a 6, for 2 trumpets, strings & continuo in D major [F. Lazzari]",
+    "display_title": "Sonata a 6, for 2 trumpets, strings & continuo in D major [F. Lazzari]",
+    "track": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments - Sonata a 6, for 2 trumpets, strings & continuo in D major [F. Lazzari]",
+    "length": 351,
+    "duration": 351,
+    "started": 1724129305,
+    "type": "track",
+    "track_id": 2890946,
+    "release": "The fam'd Italian Masters",
+    "art_url": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Die Zauberfloete, K.620 'The Magic Flute': Der Hoelle Rache [W.A. Mozart]",
+    "display_title": "Die Zauberfloete, K.620 'The Magic Flute': Der Hoelle Rache [W.A. Mozart]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Die Zauberfloete, K.620 'The Magic Flute': Der Hoelle Rache [W.A. Mozart]",
+    "length": 177,
+    "duration": 177,
+    "started": 1724130265,
+    "type": "track",
+    "track_id": 2216690,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Roland Pöntinen",
+    "display_artist": "Håkan Hardenberger, Roland Pöntinen",
+    "title": "Pluie d'étoiles [E. Waldteufel]",
+    "display_title": "Pluie d'étoiles [E. Waldteufel]",
+    "track": "Håkan Hardenberger, Roland Pöntinen - Pluie d'étoiles [E. Waldteufel]",
+    "length": 337,
+    "duration": 337,
+    "started": 1724130980,
+    "type": "track",
+    "track_id": 1244994,
+    "release": "The Art of The Trumpet (Disc 4/5)",
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Concerto for 3 trumpets, 2 oboes, timpani, strings & continuo in D major, TWV 54:D3 [G.P. Telemann]",
+    "display_title": "Concerto for 3 trumpets, 2 oboes, timpani, strings & continuo in D major, TWV 54:D3 [G.P. Telemann]",
+    "track": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Concerto for 3 trumpets, 2 oboes, timpani, strings & continuo in D major, TWV 54:D3 [G.P. Telemann]",
+    "length": 562,
+    "duration": 562,
+    "started": 1724131897,
+    "type": "track",
+    "track_id": 2216710,
+    "release": "Trumpet Concertos: M. Haydn, Molter, L. Mozart, Telemann, Torelli (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/4/d/b/8/7/d/4db87d5b48d1281b7d6f1f9eb208cfcb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/b/8/7/d/4db87d5b48d1281b7d6f1f9eb208cfcb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard",
+    "title": "Concerto for Trumpet and Orchestra in D Major [L. Mozart]",
+    "display_title": "Concerto for Trumpet and Orchestra in D Major [L. Mozart]",
+    "track": "Wynton Marsalis, English Chamber Orchestra, Raymond Leppard - Concerto for Trumpet and Orchestra in D Major [L. Mozart]",
+    "length": 546,
+    "duration": 546,
+    "started": 1724132997,
+    "type": "track",
+    "track_id": 3067024,
+    "release": "The London Concert",
+    "art_url": "//cdn-images.audioaddict.com/d/4/c/b/a/a/d4cbaae73efb4e2426a3731f622e6602.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/c/b/a/a/d4cbaae73efb4e2426a3731f622e6602.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Bridal March From Østerdalen (Arr. Tine Thing Helseth & Kåre Nordstoga) [Traditional]",
+    "display_title": "Bridal March From Østerdalen (Arr. Tine Thing Helseth & Kåre Nordstoga) [Traditional]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Bridal March From Østerdalen (Arr. Tine Thing Helseth & Kåre Nordstoga) [Traditional]",
+    "length": 239,
+    "duration": 239,
+    "started": 1724133544,
+    "type": "track",
+    "track_id": 3025591,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "display_artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "title": "Oboe Concerto in C minor [B. Marcello]",
+    "display_title": "Oboe Concerto in C minor [B. Marcello]",
+    "track": "Alison Balsom, Scottish Ensemble, J. Morton - Oboe Concerto in C minor [B. Marcello]",
+    "length": 641,
+    "duration": 641,
+    "started": 1724133783,
+    "type": "track",
+    "track_id": 2216684,
+    "release": "Italian Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Fanfares Et Simphonies: Rondeau [J-J Mouret]",
+    "display_title": "Fanfares Et Simphonies: Rondeau [J-J Mouret]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Fanfares Et Simphonies: Rondeau [J-J Mouret]",
+    "length": 95,
+    "duration": 95,
+    "started": 1724134424,
+    "type": "track",
+    "track_id": 3025596,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Quentin Thomas",
+    "display_artist": "Alison Balsom, Quentin Thomas",
+    "title": "Partita for solo violin No. 2 in D minor, BWV 1004: Allemande [J.S. Bach]",
+    "display_title": "Partita for solo violin No. 2 in D minor, BWV 1004: Allemande [J.S. Bach]",
+    "track": "Alison Balsom, Quentin Thomas - Partita for solo violin No. 2 in D minor, BWV 1004: Allemande [J.S. Bach]",
+    "length": 298,
+    "duration": 298,
+    "started": 1724134520,
+    "type": "track",
+    "track_id": 2216650,
+    "release": "Music for Trumpet and Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/b/3/d/e/5/bb3de50c168fe8badd3b4a37cd3554cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/3/d/e/5/bb3de50c168fe8badd3b4a37cd3554cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "display_artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "title": "Violin Concerto in A minor RV356 (trascr. A. Balsom) [A. Vivaldi]",
+    "display_title": "Violin Concerto in A minor RV356 (trascr. A. Balsom) [A. Vivaldi]",
+    "track": "Alison Balsom, Scottish Ensemble, J. Morton - Violin Concerto in A minor RV356 (trascr. A. Balsom) [A. Vivaldi]",
+    "length": 466,
+    "duration": 466,
+    "started": 1724136408,
+    "type": "track",
+    "track_id": 2216720,
+    "release": "Italian Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, I Musici",
+    "display_artist": "Håkan Hardenberger, I Musici",
+    "title": "Sonata a 5, for trumpet, strings & continuo in D major, G.7 [G. Torelli]",
+    "display_title": "Sonata a 5, for trumpet, strings & continuo in D major, G.7 [G. Torelli]",
+    "track": "Håkan Hardenberger, I Musici - Sonata a 5, for trumpet, strings & continuo in D major, G.7 [G. Torelli]",
+    "length": 363,
+    "duration": 363,
+    "started": 1724136874,
+    "type": "track",
+    "track_id": 1244991,
+    "release": "Art of the Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Allen Vizzutti, Laura Vincent Vizzutti",
+    "display_artist": "Allen Vizzutti, Laura Vincent Vizzutti",
+    "title": "Trumpet Concerto No.1 in E-flat Major [J.W. Hertel]",
+    "display_title": "Trumpet Concerto No.1 in E-flat Major [J.W. Hertel]",
+    "track": "Allen Vizzutti, Laura Vincent Vizzutti - Trumpet Concerto No.1 in E-flat Major [J.W. Hertel]",
+    "length": 789,
+    "duration": 789,
+    "started": 1724137441,
+    "type": "track",
+    "track_id": 2216674,
+    "release": "A Trumpeter's Dream",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/a/6/299ba66fb20875997ab6221515377267.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/b/a/6/299ba66fb20875997ab6221515377267.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Academy of St Martin in the Fields, Kenneth Sillito",
+    "display_artist": "Håkan Hardenberger, Academy of St Martin in the Fields, Kenneth Sillito",
+    "title": "Gabriel's Oboe (arr. Tobias Broström) [E. Morricone]",
+    "display_title": "Gabriel's Oboe (arr. Tobias Broström) [E. Morricone]",
+    "track": "Håkan Hardenberger, Academy of St Martin in the Fields, Kenneth Sillito - Gabriel's Oboe (arr. Tobias Broström) [E. Morricone]",
+    "length": 198,
+    "duration": 198,
+    "started": 1724138790,
+    "type": "track",
+    "track_id": 2216688,
+    "release": "Both Sides, Now",
+    "art_url": "//cdn-images.audioaddict.com/a/3/8/2/5/0/a382502d01445122dccf992f92d1c8d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/3/8/2/5/0/a382502d01445122dccf992f92d1c8d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Simon Preston",
+    "display_artist": "Håkan Hardenberger, Simon Preston",
+    "title": "Musique Heroïque (12), marches for 2 instruments & continuo (a.k.a \"Heldenmusik\"), TWV 50:31-42 [G.P. Telemann]",
+    "display_title": "Musique Heroïque (12), marches for 2 instruments & continuo (a.k.a \"Heldenmusik\"), TWV 50:31-42 [G.P. Telemann]",
+    "track": "Håkan Hardenberger, Simon Preston - Musique Heroïque (12), marches for 2 instruments & continuo (a.k.a \"Heldenmusik\"), TWV 50:31-42 [G.P. Telemann]",
+    "length": 1187,
+    "duration": 1187,
+    "started": 1724141586,
+    "type": "track",
+    "track_id": 1244988,
+    "release": "The Art of the Trumpet (Disc 2/5)",
+    "art_url": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Syrinx [C. Debussy]",
+    "display_title": "Syrinx [C. Debussy]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Syrinx [C. Debussy]",
+    "length": 163,
+    "duration": 163,
+    "started": 1724142771,
+    "type": "track",
+    "track_id": 2216661,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Arctic Philharmonic Orchestra, Christian Lindberg",
+    "display_artist": "Pacho Flores, Arctic Philharmonic Orchestra, Christian Lindberg",
+    "title": "Oblivion [A. Piazzolla]",
+    "display_title": "Oblivion [A. Piazzolla]",
+    "track": "Pacho Flores, Arctic Philharmonic Orchestra, Christian Lindberg - Oblivion [A. Piazzolla]",
+    "length": 285,
+    "duration": 285,
+    "started": 1724144828,
+    "type": "track",
+    "track_id": 2931281,
+    "release": "Fractales",
+    "art_url": "//cdn-images.audioaddict.com/5/6/e/d/9/d/56ed9d229aecf77dd2db71828f6ea739.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/e/d/9/d/56ed9d229aecf77dd2db71828f6ea739.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Suite In D Major [J. Clarke]",
+    "display_title": "Suite In D Major [J. Clarke]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Suite In D Major [J. Clarke]",
+    "length": 281,
+    "duration": 281,
+    "started": 1724145110,
+    "type": "track",
+    "track_id": 3025603,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Andante, Gammal faebodpsalm från Dalarna [O. Lindberg]",
+    "display_title": "Andante, Gammal faebodpsalm från Dalarna [O. Lindberg]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Andante, Gammal faebodpsalm från Dalarna [O. Lindberg]",
+    "length": 250,
+    "duration": 250,
+    "started": 1724145391,
+    "type": "track",
+    "track_id": 2216680,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "display_artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "title": "Concerto For Trumpet And Continuo(Arranged By Ivan Jevtic) [G. Tartini]",
+    "display_title": "Concerto For Trumpet And Continuo(Arranged By Ivan Jevtic) [G. Tartini]",
+    "track": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez - Concerto For Trumpet And Continuo(Arranged By Ivan Jevtic) [G. Tartini]",
+    "length": 604,
+    "duration": 604,
+    "started": 1724145642,
+    "type": "track",
+    "track_id": 2931160,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner",
+    "display_artist": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner",
+    "title": "Trumpet Concerto In D-major [J. Stamitz]",
+    "display_title": "Trumpet Concerto In D-major [J. Stamitz]",
+    "track": "Håkan Hardenberger, Academy of St Martin in the Fields, Neville Marriner - Trumpet Concerto In D-major [J. Stamitz]",
+    "length": 949,
+    "duration": 949,
+    "started": 1724147577,
+    "type": "track",
+    "track_id": 1244986,
+    "release": "The Art Of The Trumpet (Disc 3/5)",
+    "art_url": "//cdn-images.audioaddict.com/7/e/4/3/b/9/7e43b9842814b3c760df518c2405d647.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/4/3/b/9/7e43b9842814b3c760df518c2405d647.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Graham Ashton, Leslie Pearson",
+    "display_artist": "Graham Ashton, Leslie Pearson",
+    "title": "Concerto for trumpet & organ in D major [G. Romanino]",
+    "display_title": "Concerto for trumpet & organ in D major [G. Romanino]",
+    "track": "Graham Ashton, Leslie Pearson - Concerto for trumpet & organ in D major [G. Romanino]",
+    "length": 482,
+    "duration": 482,
+    "started": 1724148526,
+    "type": "track",
+    "track_id": 2216704,
+    "release": "Concertos, Sonatas & Suites For Trumpet & Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Simon Preston",
+    "display_artist": "Håkan Hardenberger, Simon Preston",
+    "title": "Adagio, for violin, strings & organ in G minor, T. Mi 26 [R. Giazotto]",
+    "display_title": "Adagio, for violin, strings & organ in G minor, T. Mi 26 [R. Giazotto]",
+    "track": "Håkan Hardenberger, Simon Preston - Adagio, for violin, strings & organ in G minor, T. Mi 26 [R. Giazotto]",
+    "length": 520,
+    "duration": 520,
+    "started": 1724150533,
+    "type": "track",
+    "track_id": 1244960,
+    "release": "The Art of the Trumpet (Disc 2/5)",
+    "art_url": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments",
+    "display_artist": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments",
+    "title": "Double Trumpet Concerto for 2 trumpets, strings & continuo in C major, RV.537 [A. Vivaldi]",
+    "display_title": "Double Trumpet Concerto for 2 trumpets, strings & continuo in C major, RV.537 [A. Vivaldi]",
+    "track": "Crispian Steele-Perkins, Alison Balsom, The Parley of Instruments - Double Trumpet Concerto for 2 trumpets, strings & continuo in C major, RV.537 [A. Vivaldi]",
+    "length": 402,
+    "duration": 402,
+    "started": 1724152465,
+    "type": "track",
+    "track_id": 2890944,
+    "release": "The fam'd Italian Masters",
+    "art_url": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "display_artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "title": "Violin Concerto in A minor RV356 (trascr. for trumpet by A. Balsom) [A. Vivaldi]",
+    "display_title": "Violin Concerto in A minor RV356 (trascr. for trumpet by A. Balsom) [A. Vivaldi]",
+    "track": "Alison Balsom, Scottish Ensemble, J. Morton - Violin Concerto in A minor RV356 (trascr. for trumpet by A. Balsom) [A. Vivaldi]",
+    "length": 466,
+    "duration": 466,
+    "started": 1724153330,
+    "type": "track",
+    "track_id": 2972585,
+    "release": "Italian Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, I Musici",
+    "display_artist": "Håkan Hardenberger, I Musici",
+    "title": "Concerto à cinque, for oboe, 2 violins, viola, cello & continuo No. 3 in B flat major, Op.7, No.3, (T. 7-3) [T. Albinoni]",
+    "display_title": "Concerto à cinque, for oboe, 2 violins, viola, cello & continuo No. 3 in B flat major, Op.7, No.3, (T. 7-3) [T. Albinoni]",
+    "track": "Håkan Hardenberger, I Musici - Concerto à cinque, for oboe, 2 violins, viola, cello & continuo No. 3 in B flat major, Op.7, No.3, (T. 7-3) [T. Albinoni]",
+    "length": 451,
+    "duration": 451,
+    "started": 1724153795,
+    "type": "track",
+    "track_id": 1244946,
+    "release": "Art of the Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, R. Friedrich, I Musici",
+    "display_artist": "Håkan Hardenberger, R. Friedrich, I Musici",
+    "title": "Double Trumpet Concerto for 2 trumpets, strings & continuo in C major, RV 537 [A. Vivaldi]",
+    "display_title": "Double Trumpet Concerto for 2 trumpets, strings & continuo in C major, RV 537 [A. Vivaldi]",
+    "track": "Håkan Hardenberger, R. Friedrich, I Musici - Double Trumpet Concerto for 2 trumpets, strings & continuo in C major, RV 537 [A. Vivaldi]",
+    "length": 424,
+    "duration": 424,
+    "started": 1724154246,
+    "type": "track",
+    "track_id": 1244992,
+    "release": "Art of the Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/0/3/f/a/f003fa04489a4e01ed2a6b53bcf7bf31.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Vocalise, Op.34, No.14 [S. Rachmaninov]",
+    "display_title": "Vocalise, Op.34, No.14 [S. Rachmaninov]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Vocalise, Op.34, No.14 [S. Rachmaninov]",
+    "length": 302,
+    "duration": 302,
+    "started": 1724154669,
+    "type": "track",
+    "track_id": 2216702,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte",
+    "display_artist": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte",
+    "title": "Trumpet Concerto No. 3 [M.P. de Monteclair]",
+    "display_title": "Trumpet Concerto No. 3 [M.P. de Monteclair]",
+    "track": "Gabriele Cassone, Antonio Frige; Ensemble Pian and Forte - Trumpet Concerto No. 3 [M.P. de Monteclair]",
+    "length": 1357,
+    "duration": 1357,
+    "started": 1724154972,
+    "type": "track",
+    "track_id": 2947654,
+    "release": "Monteclair: Trumpet Concertos Nos. 3-6",
+    "art_url": "//cdn-images.audioaddict.com/7/9/5/7/2/9/795729832e6cde698af114a8e7e2da46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/5/7/2/9/795729832e6cde698af114a8e7e2da46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, BBC Scottish Symphony Orchestra, Lawrence Renes",
+    "display_artist": "Alison Balsom, BBC Scottish Symphony Orchestra, Lawrence Renes",
+    "title": "Trumpet Concerto in Ab [A. Arutiunian]",
+    "display_title": "Trumpet Concerto in Ab [A. Arutiunian]",
+    "track": "Alison Balsom, BBC Scottish Symphony Orchestra, Lawrence Renes - Trumpet Concerto in Ab [A. Arutiunian]",
+    "length": 914,
+    "duration": 914,
+    "started": 1724157594,
+    "type": "track",
+    "track_id": 2216637,
+    "release": "Alison Balsom - Seraph",
+    "art_url": "//cdn-images.audioaddict.com/9/a/6/d/6/7/9a6d6762383c571f06b2a509dd1145c0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/6/d/6/7/9a6d6762383c571f06b2a509dd1145c0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "Salut d'amour, Op. 12 (arr. S. Nakariakov) [E. Elgar]",
+    "display_title": "Salut d'amour, Op. 12 (arr. S. Nakariakov) [E. Elgar]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - Salut d'amour, Op. 12 (arr. S. Nakariakov) [E. Elgar]",
+    "length": 183,
+    "duration": 183,
+    "started": 1724158669,
+    "type": "track",
+    "track_id": 2216665,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, The Parley of Instruments",
+    "display_artist": "Alison Balsom, The Parley of Instruments",
+    "title": "Sonata à 5, for trumpet, strings & continuo in D major, G. 7 [G. Torelli]",
+    "display_title": "Sonata à 5, for trumpet, strings & continuo in D major, G. 7 [G. Torelli]",
+    "track": "Alison Balsom, The Parley of Instruments - Sonata à 5, for trumpet, strings & continuo in D major, G. 7 [G. Torelli]",
+    "length": 330,
+    "duration": 330,
+    "started": 1724158853,
+    "type": "track",
+    "track_id": 2890942,
+    "release": "The fam'd Italian Masters",
+    "art_url": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/3/8/2/a/a0382abedb81fcc9ffc594ea75854e1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Ved Rondane, Op. 33 No. 9 [E. Grieg]",
+    "display_title": "Ved Rondane, Op. 33 No. 9 [E. Grieg]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Ved Rondane, Op. 33 No. 9 [E. Grieg]",
+    "length": 144,
+    "duration": 144,
+    "started": 1724159184,
+    "type": "track",
+    "track_id": 3025608,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "display_artist": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner",
+    "title": "Trumpet Concerto - 2. Nocturne [H. Tomasi]",
+    "display_title": "Trumpet Concerto - 2. Nocturne [H. Tomasi]",
+    "track": "Alison Balsom, Gothenburg Symphony Orchestra, Edward Gardiner - Trumpet Concerto - 2. Nocturne [H. Tomasi]",
+    "length": 275,
+    "duration": 275,
+    "started": 1724159328,
+    "type": "track",
+    "track_id": 2216717,
+    "release": "Caprice",
+    "art_url": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/9/b/6/1/d19b614b02427c186136f65b73c500aa.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Simon Preston",
+    "display_artist": "Håkan Hardenberger, Simon Preston",
+    "title": "Ave Maria, Meditation on Prelude No. 1 of Bach, for violin or cello & piano with organ or cello ad lib. [C. Gonoud]",
+    "display_title": "Ave Maria, Meditation on Prelude No. 1 of Bach, for violin or cello & piano with organ or cello ad lib. [C. Gonoud]",
+    "track": "Håkan Hardenberger, Simon Preston - Ave Maria, Meditation on Prelude No. 1 of Bach, for violin or cello & piano with organ or cello ad lib. [C. Gonoud]",
+    "length": 184,
+    "duration": 184,
+    "started": 1724159884,
+    "type": "track",
+    "track_id": 1244962,
+    "release": "The Art of the Trumpet (Disc 2/5)",
+    "art_url": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/8/f/6/2/668f62355cb44cc6b8d67e45d07be3b4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Manu Mellaerts, Steven Devolder, Collegium Instrumentale Brugense, Patrick Peire",
+    "display_artist": "Manu Mellaerts, Steven Devolder, Collegium Instrumentale Brugense, Patrick Peire",
+    "title": "Overture, suite for 2 trumpets, timpani, strings & continuo in D major, TWV 55:D18 [G.P. Telemann]",
+    "display_title": "Overture, suite for 2 trumpets, timpani, strings & continuo in D major, TWV 55:D18 [G.P. Telemann]",
+    "track": "Manu Mellaerts, Steven Devolder, Collegium Instrumentale Brugense, Patrick Peire - Overture, suite for 2 trumpets, timpani, strings & continuo in D major, TWV 55:D18 [G.P. Telemann]",
+    "length": 1157,
+    "duration": 1157,
+    "started": 1724161684,
+    "type": "track",
+    "track_id": 2216709,
+    "release": "Telemann: Complete Overtures, Vol. 1 (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/e/9/b/3/4/0e9b34170b39fb65f445ad4508bed98f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Peer Gynt, Op. 23 No. 2: Solveig's Lullaby [E. Grieg]",
+    "display_title": "Peer Gynt, Op. 23 No. 2: Solveig's Lullaby [E. Grieg]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Peer Gynt, Op. 23 No. 2: Solveig's Lullaby [E. Grieg]",
+    "length": 202,
+    "duration": 202,
+    "started": 1724164691,
+    "type": "track",
+    "track_id": 3025600,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Organ Concerto in F major, Op.4/5, HWV 293 [G.F. Handel]",
+    "display_title": "Organ Concerto in F major, Op.4/5, HWV 293 [G.F. Handel]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Organ Concerto in F major, Op.4/5, HWV 293 [G.F. Handel]",
+    "length": 521,
+    "duration": 521,
+    "started": 1724166460,
+    "type": "track",
+    "track_id": 3097383,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "display_artist": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt",
+    "title": "Hamburger Trauermusik, for 3 trumpets, 2 oboes, strings & continuo, TWV 50:A5 [G.P. Telemann]",
+    "display_title": "Hamburger Trauermusik, for 3 trumpets, 2 oboes, strings & continuo, TWV 50:A5 [G.P. Telemann]",
+    "track": "Otto Sauter, Franz Wagnermeyer, Kenji Tamiya, Krupfälzisches Kammerorchester Mannheim, Nicol Matt - Hamburger Trauermusik, for 3 trumpets, 2 oboes, strings & continuo, TWV 50:A5 [G.P. Telemann]",
+    "length": 589,
+    "duration": 589,
+    "started": 1724166983,
+    "type": "track",
+    "track_id": 2216711,
+    "release": "Trumpet Concertos: M. Haydn, Molter, L. Mozart, Telemann, Torelli (Disc 3)",
+    "art_url": "//cdn-images.audioaddict.com/4/d/b/8/7/d/4db87d5b48d1281b7d6f1f9eb208cfcb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/b/8/7/d/4db87d5b48d1281b7d6f1f9eb208cfcb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Colm Carey",
+    "display_artist": "Alison Balsom, Colm Carey",
+    "title": "Concerto in D major after Vivaldi, BWV 972 [J.S. Bach]",
+    "display_title": "Concerto in D major after Vivaldi, BWV 972 [J.S. Bach]",
+    "track": "Alison Balsom, Colm Carey - Concerto in D major after Vivaldi, BWV 972 [J.S. Bach]",
+    "length": 484,
+    "duration": 484,
+    "started": 1724167557,
+    "type": "track",
+    "track_id": 2972584,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "display_artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "title": "Oboe Concerto In C (Arr. Arthur Benjamin) [D. Cimarosa]",
+    "display_title": "Oboe Concerto In C (Arr. Arthur Benjamin) [D. Cimarosa]",
+    "track": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez - Oboe Concerto In C (Arr. Arthur Benjamin) [D. Cimarosa]",
+    "length": 643,
+    "duration": 643,
+    "started": 1724169145,
+    "type": "track",
+    "track_id": 2931163,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Frédéric Presle, Jacques Amade",
+    "display_artist": "Frédéric Presle, Jacques Amade",
+    "title": "Concerto pour Orgue et Trumpette en Fa majeur [A. Vivaldi]",
+    "display_title": "Concerto pour Orgue et Trumpette en Fa majeur [A. Vivaldi]",
+    "track": "Frédéric Presle, Jacques Amade - Concerto pour Orgue et Trumpette en Fa majeur [A. Vivaldi]",
+    "length": 571,
+    "duration": 571,
+    "started": 1724169788,
+    "type": "track",
+    "track_id": 2972657,
+    "release": "Vivaldi - Concertos & Sonates",
+    "art_url": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/5/b/b/1/bc5bb10ec9ebfff6d37e47bf4cee9404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "New London Consort, Philip Pickett",
+    "display_artist": "New London Consort, Philip Pickett",
+    "title": "Sonata #1 À 8 [H.I.F. von Biber]",
+    "display_title": "Sonata #1 À 8 [H.I.F. von Biber]",
+    "track": "New London Consort, Philip Pickett - Sonata #1 À 8 [H.I.F. von Biber]",
+    "length": 302,
+    "duration": 302,
+    "started": 1724170360,
+    "type": "track",
+    "track_id": 2931286,
+    "release": "Biber: Requiem, Etc.; Schmelzer: Trumpet Music [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/c/5/6/a/5/9c56a5b196ae0895b2be3196120cb320.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Allen Vizzutti, Laura Vincent Vizzutti",
+    "display_artist": "Allen Vizzutti, Laura Vincent Vizzutti",
+    "title": "Carnival of Venice [A. Vizzutti]",
+    "display_title": "Carnival of Venice [A. Vizzutti]",
+    "track": "Allen Vizzutti, Laura Vincent Vizzutti - Carnival of Venice [A. Vizzutti]",
+    "length": 258,
+    "duration": 258,
+    "started": 1724203590,
+    "type": "track",
+    "track_id": 2216724,
+    "release": "A Trumpeter's Dream",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/a/6/299ba66fb20875997ab6221515377267.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/b/a/6/299ba66fb20875997ab6221515377267.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom",
+    "display_artist": "Alison Balsom",
+    "title": "Water Music, Suite in D Major, HWV 349: I. Overture [G.F. Händel]",
+    "display_title": "Water Music, Suite in D Major, HWV 349: I. Overture [G.F. Händel]",
+    "track": "Alison Balsom - Water Music, Suite in D Major, HWV 349: I. Overture [G.F. Händel]",
+    "length": 103,
+    "duration": 103,
+    "started": 1724219797,
+    "type": "track",
+    "track_id": 2947653,
+    "release": "Sound the Trumpet - Royal Music of Purcell and Handel",
+    "art_url": "//cdn-images.audioaddict.com/6/7/0/e/8/0/670e800b025cacdd2bb6278a55ad485e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/0/e/8/0/670e800b025cacdd2bb6278a55ad485e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "display_artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "title": "Concerto For Trumpet And Strings In E Flat (Edition Edition Edward Tarr) [J.B.G. Neruda]",
+    "display_title": "Concerto For Trumpet And Strings In E Flat (Edition Edition Edward Tarr) [J.B.G. Neruda]",
+    "track": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez - Concerto For Trumpet And Strings In E Flat (Edition Edition Edward Tarr) [J.B.G. Neruda]",
+    "length": 948,
+    "duration": 948,
+    "started": 1724245174,
+    "type": "track",
+    "track_id": 2931161,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "display_artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Water Piece, suite for trumpet, strings & continuo in D major (spurious arrangement), HWV 341 [G.F. Handel]",
+    "display_title": "Water Piece, suite for trumpet, strings & continuo in D major (spurious arrangement), HWV 341 [G.F. Handel]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Water Piece, suite for trumpet, strings & continuo in D major (spurious arrangement), HWV 341 [G.F. Handel]",
+    "length": 445,
+    "duration": 445,
+    "started": 1724252908,
+    "type": "track",
+    "track_id": 3097384,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom",
+    "display_artist": "Alison Balsom",
+    "title": "Cello Suite No.2 in D minor BWV 1008 - 4. Sarabande [J.S. Bach]",
+    "display_title": "Cello Suite No.2 in D minor BWV 1008 - 4. Sarabande [J.S. Bach]",
+    "track": "Alison Balsom - Cello Suite No.2 in D minor BWV 1008 - 4. Sarabande [J.S. Bach]",
+    "length": 161,
+    "duration": 161,
+    "started": 1724255038,
+    "type": "track",
+    "track_id": 2216640,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Graham Ashton, Leslie Pearson",
+    "display_artist": "Graham Ashton, Leslie Pearson",
+    "title": "Sonata for viola da gamba, violone & continuo in D major, BuxWV 267 [D. Buxtehude]",
+    "display_title": "Sonata for viola da gamba, violone & continuo in D major, BuxWV 267 [D. Buxtehude]",
+    "track": "Graham Ashton, Leslie Pearson - Sonata for viola da gamba, violone & continuo in D major, BuxWV 267 [D. Buxtehude]",
+    "length": 233,
+    "duration": 233,
+    "started": 1724256072,
+    "type": "track",
+    "track_id": 2216655,
+    "release": "Concertos, Sonatas & Suites For Trumpet & Organ",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/e/d/1/b7fed1e8bce6698eec844c2062065e9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Auf Flügeln Des Gesanges, Op. 34 No. 2 [F. Mendelssohn]",
+    "display_title": "Auf Flügeln Des Gesanges, Op. 34 No. 2 [F. Mendelssohn]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Auf Flügeln Des Gesanges, Op. 34 No. 2 [F. Mendelssohn]",
+    "length": 112,
+    "duration": 112,
+    "started": 1724256306,
+    "type": "track",
+    "track_id": 3025590,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom",
+    "display_artist": "Alison Balsom",
+    "title": "Cello Suite No.2 in D minor BWV 1008 - 7. Gigue [J.S. Bach]",
+    "display_title": "Cello Suite No.2 in D minor BWV 1008 - 7. Gigue [J.S. Bach]",
+    "track": "Alison Balsom - Cello Suite No.2 in D minor BWV 1008 - 7. Gigue [J.S. Bach]",
+    "length": 158,
+    "duration": 158,
+    "started": 1724261076,
+    "type": "track",
+    "track_id": 2216641,
+    "release": "Bach - Works for Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/8/7/8/8/e18788b004b18f9d8612e05c2aaa4e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "display_artist": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar",
+    "title": "Sången, Op. 44: Mellanspel (Arr. for Trumpet and Piano) [W. Stenhammar]",
+    "display_title": "Sången, Op. 44: Mellanspel (Arr. for Trumpet and Piano) [W. Stenhammar]",
+    "track": "Jonathan Freeman-Attwood, Daniel-Ben Pienaar - Sången, Op. 44: Mellanspel (Arr. for Trumpet and Piano) [W. Stenhammar]",
+    "length": 187,
+    "duration": 187,
+    "started": 1724283070,
+    "type": "track",
+    "track_id": 3064719,
+    "release": "The Neoclassical Trumpet",
+    "art_url": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/5/2/d/c/6752dcec64f8ee7ffb3caaa3f52e7d9b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "display_artist": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez",
+    "title": "Premier livre de pieces de clavecin (1735), Le coucou (Arranged By Efrain Oscher) [L-C Daquin]",
+    "display_title": "Premier livre de pieces de clavecin (1735), Le coucou (Arranged By Efrain Oscher) [L-C Daquin]",
+    "track": "Pacho Flores, Konzerthausorchester Berlin, Sabine Erdmann, Christian Vásquez - Premier livre de pieces de clavecin (1735), Le coucou (Arranged By Efrain Oscher) [L-C Daquin]",
+    "length": 110,
+    "duration": 110,
+    "started": 1724294064,
+    "type": "track",
+    "track_id": 2931164,
+    "release": "Cantar",
+    "art_url": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/1/4/5/f/c2145ff2ca240a11cf19b224676fcd90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Trumpet Tune In C Major, ZT 678 [H. Purcell]",
+    "display_title": "Trumpet Tune In C Major, ZT 678 [H. Purcell]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Trumpet Tune In C Major, ZT 678 [H. Purcell]",
+    "length": 75,
+    "duration": 75,
+    "started": 1724300255,
+    "type": "track",
+    "track_id": 3025605,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "display_artist": "Alison Balsom, Scottish Ensemble, J. Morton",
+    "title": "Oboe Concerto in C minor [D. Cimarosa]",
+    "display_title": "Oboe Concerto in C minor [D. Cimarosa]",
+    "track": "Alison Balsom, Scottish Ensemble, J. Morton - Oboe Concerto in C minor [D. Cimarosa]",
+    "length": 589,
+    "duration": 589,
+    "started": 1724338764,
+    "type": "track",
+    "track_id": 2216658,
+    "release": "Italian Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/7/c/d/b/297cdb5331a89b7a81717f686c90d97b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Te Deum, H.146: Prelude [M-An Charpentier]",
+    "display_title": "Te Deum, H.146: Prelude [M-An Charpentier]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Te Deum, H.146: Prelude [M-An Charpentier]",
+    "length": 81,
+    "duration": 81,
+    "started": 1724341933,
+    "type": "track",
+    "track_id": 3025604,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Sergey Nakariakov, Maria Meerovitch",
+    "display_artist": "Sergey Nakariakov, Maria Meerovitch",
+    "title": "Schon Rosmarin (arr. T. Dokshitser) [F. Kreisler]",
+    "display_title": "Schon Rosmarin (arr. T. Dokshitser) [F. Kreisler]",
+    "track": "Sergey Nakariakov, Maria Meerovitch - Schon Rosmarin (arr. T. Dokshitser) [F. Kreisler]",
+    "length": 124,
+    "duration": 124,
+    "started": 1724378059,
+    "type": "track",
+    "track_id": 2216679,
+    "release": "Widmung",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/0/1/06ff01aefc59e4cb6466c2ab996dd24b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "display_artist": "Tine Thing Helseth, Kåre Nordstoga",
+    "title": "Den Första Gång Jag Såg Dig (Arr. Tine Thing Helseth & Kåre Nordstoga) [B. Sjöberg]",
+    "display_title": "Den Första Gång Jag Såg Dig (Arr. Tine Thing Helseth & Kåre Nordstoga) [B. Sjöberg]",
+    "track": "Tine Thing Helseth, Kåre Nordstoga - Den Första Gång Jag Såg Dig (Arr. Tine Thing Helseth & Kåre Nordstoga) [B. Sjöberg]",
+    "length": 163,
+    "duration": 163,
+    "started": 1724402260,
+    "type": "track",
+    "track_id": 3025594,
+    "release": "Magical Memories",
+    "art_url": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/c/7/6/d/f3c76d8485d63240e29c31254242b3e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 434,
+    "artist": "Håkan Hardenberger, Roland Pöntinen",
+    "display_artist": "Håkan Hardenberger, Roland Pöntinen",
+    "title": "Romance [M. Reger]",
+    "display_title": "Romance [M. Reger]",
+    "track": "Håkan Hardenberger, Roland Pöntinen - Romance [M. Reger]",
+    "length": 110,
+    "duration": 110,
+    "started": 1724452633,
+    "type": "track",
+    "track_id": 1244981,
+    "release": "The Art of The Trumpet (Disc 4/5)",
+    "art_url": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/4/1/2/a/3d412aa2feefa2cb3950b3fc3752aa45.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

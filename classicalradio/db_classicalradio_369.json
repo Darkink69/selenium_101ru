@@ -1,0 +1,3878 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Camille Thomas, Daniel Hope, Julien Brocal",
+    "display_artist": "Camille Thomas, Daniel Hope, Julien Brocal",
+    "title": "Cello Sonata in G Minor, Op. 65 [F. Chopin]",
+    "display_title": "Cello Sonata in G Minor, Op. 65 [F. Chopin]",
+    "track": "Camille Thomas, Daniel Hope, Julien Brocal - Cello Sonata in G Minor, Op. 65 [F. Chopin]",
+    "length": 1949,
+    "duration": 1949,
+    "started": 1724036891,
+    "type": "track",
+    "track_id": 3070931,
+    "release": "The Chopin Project : Complete Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/8/d/d/4/2/1/8dd421f4af5c895108d0a9b1ffc55edf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/d/4/2/1/8dd421f4af5c895108d0a9b1ffc55edf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Martha Argerich",
+    "display_artist": "Martha Argerich",
+    "title": "Andante spianato and Grande Polonaise brillante, Op.22 [F. Chopin]",
+    "display_title": "Andante spianato and Grande Polonaise brillante, Op.22 [F. Chopin]",
+    "track": "Martha Argerich - Andante spianato and Grande Polonaise brillante, Op.22 [F. Chopin]",
+    "length": 809,
+    "duration": 809,
+    "started": 1724038841,
+    "type": "track",
+    "track_id": 1040552,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/4/c/3/1/b/0/4c31b049c3a3155d91fbe4d4ca3f4114.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/3/1/b/0/4c31b049c3a3155d91fbe4d4ca3f4114.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.16 in E flat, Op.55 No.2 [F. Chopin]",
+    "display_title": "Nocturne No.16 in E flat, Op.55 No.2 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.16 in E flat, Op.55 No.2 [F. Chopin]",
+    "length": 292,
+    "duration": 292,
+    "started": 1724039643,
+    "type": "track",
+    "track_id": 2908888,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.18 in E, Op.62 No.2 [F. Chopin]",
+    "display_title": "Nocturne No.18 in E, Op.62 No.2 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.18 in E, Op.62 No.2 [F. Chopin]",
+    "length": 358,
+    "duration": 358,
+    "started": 1724039935,
+    "type": "track",
+    "track_id": 2908890,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yundi Li",
+    "display_artist": "Yundi Li",
+    "title": "4 Impromptus - No.3 in G flat major, Op.51 [F. Chopin]",
+    "display_title": "4 Impromptus - No.3 in G flat major, Op.51 [F. Chopin]",
+    "track": "Yundi Li - 4 Impromptus - No.3 in G flat major, Op.51 [F. Chopin]",
+    "length": 313,
+    "duration": 313,
+    "started": 1724040293,
+    "type": "track",
+    "track_id": 1040544,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/0/b/4/0/5/a0b40588aefad98eee7bf8ea168c09f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/b/4/0/5/a0b40588aefad98eee7bf8ea168c09f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.2 in A flat, Op.34 No.1 - 'Valse brillante' [F. Chopin]",
+    "display_title": "Waltz No.2 in A flat, Op.34 No.1 - 'Valse brillante' [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.2 in A flat, Op.34 No.1 - 'Valse brillante' [F. Chopin]",
+    "length": 308,
+    "duration": 308,
+    "started": 1724040761,
+    "type": "track",
+    "track_id": 2221081,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zoltán Kocsis",
+    "display_artist": "Zoltán Kocsis",
+    "title": "Waltz No.5 in A flat, Op.42 - 'Grande valse' [F. Chopin]",
+    "display_title": "Waltz No.5 in A flat, Op.42 - 'Grande valse' [F. Chopin]",
+    "track": "Zoltán Kocsis - Waltz No.5 in A flat, Op.42 - 'Grande valse' [F. Chopin]",
+    "length": 214,
+    "duration": 214,
+    "started": 1724041069,
+    "type": "track",
+    "track_id": 1040606,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "4 Scherzos - No.4 in E major, Op.54 [F. Chopin]",
+    "display_title": "4 Scherzos - No.4 in E major, Op.54 [F. Chopin]",
+    "track": "Maurizio Pollini - 4 Scherzos - No.4 in E major, Op.54 [F. Chopin]",
+    "length": 635,
+    "duration": 635,
+    "started": 1724041281,
+    "type": "track",
+    "track_id": 1040549,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yundi Li",
+    "display_artist": "Yundi Li",
+    "title": "4 Impromptus - No.1 in A flat major, Op.29 [F. Chopin]",
+    "display_title": "4 Impromptus - No.1 in A flat major, Op.29 [F. Chopin]",
+    "track": "Yundi Li - 4 Impromptus - No.1 in A flat major, Op.29 [F. Chopin]",
+    "length": 245,
+    "duration": 245,
+    "started": 1724041918,
+    "type": "track",
+    "track_id": 1040542,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/0/b/4/0/5/a0b40588aefad98eee7bf8ea168c09f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/b/4/0/5/a0b40588aefad98eee7bf8ea168c09f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Bella Davidovich",
+    "display_artist": "Bella Davidovich",
+    "title": "Impromptu No.1 in A flat, Op.29 [F. Chopin]",
+    "display_title": "Impromptu No.1 in A flat, Op.29 [F. Chopin]",
+    "track": "Bella Davidovich - Impromptu No.1 in A flat, Op.29 [F. Chopin]",
+    "length": 231,
+    "duration": 231,
+    "started": 1724042355,
+    "type": "track",
+    "track_id": 1040567,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "4 Scherzos - No.2 in B flat minor, Op.31 [F. Chopin]",
+    "display_title": "4 Scherzos - No.2 in B flat minor, Op.31 [F. Chopin]",
+    "track": "Maurizio Pollini - 4 Scherzos - No.2 in B flat minor, Op.31 [F. Chopin]",
+    "length": 594,
+    "duration": 594,
+    "started": 1724042586,
+    "type": "track",
+    "track_id": 1040547,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy, Vovka Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy, Vovka Ashkenazy",
+    "title": "Introduction, Theme and Variations in D major on a Theme of Moore (in 4 Hands), Op. Posth. [F. Chopin]",
+    "display_title": "Introduction, Theme and Variations in D major on a Theme of Moore (in 4 Hands), Op. Posth. [F. Chopin]",
+    "track": "Vladimir Ashkenazy, Vovka Ashkenazy - Introduction, Theme and Variations in D major on a Theme of Moore (in 4 Hands), Op. Posth. [F. Chopin]",
+    "length": 454,
+    "duration": 454,
+    "started": 1724043374,
+    "type": "track",
+    "track_id": 1040574,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "Marche funebre in C minor, Op. Posth. 72 No.2 [F. Chopin]",
+    "display_title": "Marche funebre in C minor, Op. Posth. 72 No.2 [F. Chopin]",
+    "track": "Anatol Ugorski - Marche funebre in C minor, Op. Posth. 72 No.2 [F. Chopin]",
+    "length": 367,
+    "duration": 367,
+    "started": 1724043822,
+    "type": "track",
+    "track_id": 1040577,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 5 in G-Flat Major (Vivace) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 5 in G-Flat Major (Vivace) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 5 in G-Flat Major (Vivace) [F. Chopin]",
+    "length": 98,
+    "duration": 98,
+    "started": 1724044307,
+    "type": "track",
+    "track_id": 3030512,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Murray Perahia",
+    "display_artist": "Murray Perahia",
+    "title": "Ballade No. 1 in G Minor, Op. 23 [F. Chopin]",
+    "display_title": "Ballade No. 1 in G Minor, Op. 23 [F. Chopin]",
+    "track": "Murray Perahia - Ballade No. 1 in G Minor, Op. 23 [F. Chopin]",
+    "length": 529,
+    "duration": 529,
+    "started": 1724044406,
+    "type": "track",
+    "track_id": 3030504,
+    "release": "Chopin: 4 Ballades & Other Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/3/f/f/8/9/7/3ff8979a7270f9a2108d92c8ef784815.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/f/8/9/7/3ff8979a7270f9a2108d92c8ef784815.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 7 in C-Sharp Minor (Lento) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 7 in C-Sharp Minor (Lento) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 7 in C-Sharp Minor (Lento) [F. Chopin]",
+    "length": 310,
+    "duration": 310,
+    "started": 1724044935,
+    "type": "track",
+    "track_id": 3030526,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yundi Li",
+    "display_artist": "Yundi Li",
+    "title": "4 Impromptus - No.2 in F sharp major, Op.36 [F. Chopin]",
+    "display_title": "4 Impromptus - No.2 in F sharp major, Op.36 [F. Chopin]",
+    "track": "Yundi Li - 4 Impromptus - No.2 in F sharp major, Op.36 [F. Chopin]",
+    "length": 339,
+    "duration": 339,
+    "started": 1724045320,
+    "type": "track",
+    "track_id": 1040543,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/0/b/4/0/5/a0b40588aefad98eee7bf8ea168c09f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/b/4/0/5/a0b40588aefad98eee7bf8ea168c09f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Kun-Woo Paik",
+    "display_artist": "Kun-Woo Paik",
+    "title": "Nocturne No.7 in C sharp minor, Op.27, No.1 [F. Chopin]",
+    "display_title": "Nocturne No.7 in C sharp minor, Op.27, No.1 [F. Chopin]",
+    "track": "Kun-Woo Paik - Nocturne No.7 in C sharp minor, Op.27, No.1 [F. Chopin]",
+    "length": 348,
+    "duration": 348,
+    "started": 1724045660,
+    "type": "track",
+    "track_id": 2928127,
+    "release": "Chopin The Complete Nocturnes",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/4/8/c/3ac48c075d0281adbb7afe02c8e5e9de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/4/8/c/3ac48c075d0281adbb7afe02c8e5e9de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Nikita Magaloff",
+    "display_artist": "Nikita Magaloff",
+    "title": "Mazurka No.38 in F sharp minor Op.59 No.3 [F. Chopin]",
+    "display_title": "Mazurka No.38 in F sharp minor Op.59 No.3 [F. Chopin]",
+    "track": "Nikita Magaloff - Mazurka No.38 in F sharp minor Op.59 No.3 [F. Chopin]",
+    "length": 202,
+    "duration": 202,
+    "started": 1724046009,
+    "type": "track",
+    "track_id": 1040433,
+    "release": "The Best of Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Camille Thomas, Daniel Hope, Julien Brocal",
+    "display_artist": "Camille Thomas, Daniel Hope, Julien Brocal",
+    "title": "Piano Trio in G Minor, Op. 8 [F. Chopin]",
+    "display_title": "Piano Trio in G Minor, Op. 8 [F. Chopin]",
+    "track": "Camille Thomas, Daniel Hope, Julien Brocal - Piano Trio in G Minor, Op. 8 [F. Chopin]",
+    "length": 1788,
+    "duration": 1788,
+    "started": 1724046211,
+    "type": "track",
+    "track_id": 3070932,
+    "release": "The Chopin Project : Complete Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/8/d/d/4/2/1/8dd421f4af5c895108d0a9b1ffc55edf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/d/4/2/1/8dd421f4af5c895108d0a9b1ffc55edf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 10 in A-Flat Major (Vivace assai) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 10 in A-Flat Major (Vivace assai) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 10 in A-Flat Major (Vivace assai) [F. Chopin]",
+    "length": 133,
+    "duration": 133,
+    "started": 1724047998,
+    "type": "track",
+    "track_id": 3030517,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "2 Waltzes, Op. Posth. 69 - No.2 in B minor [F. Chopin]",
+    "display_title": "2 Waltzes, Op. Posth. 69 - No.2 in B minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 2 Waltzes, Op. Posth. 69 - No.2 in B minor [F. Chopin]",
+    "length": 221,
+    "duration": 221,
+    "started": 1724048132,
+    "type": "track",
+    "track_id": 1017390,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op. Posth. 67 - No.4 in A minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op. Posth. 67 - No.4 in A minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op. Posth. 67 - No.4 in A minor [F. Chopin]",
+    "length": 150,
+    "duration": 150,
+    "started": 1724048507,
+    "type": "track",
+    "track_id": 1040386,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Kun-Woo Paik",
+    "display_artist": "Kun-Woo Paik",
+    "title": "Nocturne No.6 in G minor, Op.15, No.3 [F. Chopin]",
+    "display_title": "Nocturne No.6 in G minor, Op.15, No.3 [F. Chopin]",
+    "track": "Kun-Woo Paik - Nocturne No.6 in G minor, Op.15, No.3 [F. Chopin]",
+    "length": 279,
+    "duration": 279,
+    "started": 1724048657,
+    "type": "track",
+    "track_id": 2928126,
+    "release": "Chopin The Complete Nocturnes",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/4/8/c/3ac48c075d0281adbb7afe02c8e5e9de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/4/8/c/3ac48c075d0281adbb7afe02c8e5e9de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Lilya Zilberstein",
+    "display_artist": "Lilya Zilberstein",
+    "title": "Piano Sonata No.1 in C minor, Op.4 [F. Chopin]",
+    "display_title": "Piano Sonata No.1 in C minor, Op.4 [F. Chopin]",
+    "track": "Lilya Zilberstein - Piano Sonata No.1 in C minor, Op.4 [F. Chopin]",
+    "length": 1504,
+    "duration": 1504,
+    "started": 1724048937,
+    "type": "track",
+    "track_id": 1040509,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yundi Li",
+    "display_artist": "Yundi Li",
+    "title": "4 Impromptus - No.4 in C sharp minor, Op. Posth. 66 (Fantaisie - Impromptu) [F. Chopin]",
+    "display_title": "4 Impromptus - No.4 in C sharp minor, Op. Posth. 66 (Fantaisie - Impromptu) [F. Chopin]",
+    "track": "Yundi Li - 4 Impromptus - No.4 in C sharp minor, Op. Posth. 66 (Fantaisie - Impromptu) [F. Chopin]",
+    "length": 296,
+    "duration": 296,
+    "started": 1724050439,
+    "type": "track",
+    "track_id": 1040545,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/0/b/4/0/5/a0b40588aefad98eee7bf8ea168c09f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/b/4/0/5/a0b40588aefad98eee7bf8ea168c09f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "display_artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "title": "Impromptus No.2 in F sharp, Op.36 [F. Chopin]",
+    "display_title": "Impromptus No.2 in F sharp, Op.36 [F. Chopin]",
+    "track": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal - Impromptus No.2 in F sharp, Op.36 [F. Chopin]",
+    "length": 369,
+    "duration": 369,
+    "started": 1724050735,
+    "type": "track",
+    "track_id": 1040571,
+    "release": "Complete Works for Piano and Orchestra CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "Berceuse in D flat major, Op.57 [F. Chopin]",
+    "display_title": "Berceuse in D flat major, Op.57 [F. Chopin]",
+    "track": "Maurizio Pollini - Berceuse in D flat major, Op.57 [F. Chopin]",
+    "length": 270,
+    "duration": 270,
+    "started": 1724051104,
+    "type": "track",
+    "track_id": 1017391,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Krystian Zimerman",
+    "display_artist": "Krystian Zimerman",
+    "title": "Fantaisie in F minor, Op.49 [F. Chopin]",
+    "display_title": "Fantaisie in F minor, Op.49 [F. Chopin]",
+    "track": "Krystian Zimerman - Fantaisie in F minor, Op.49 [F. Chopin]",
+    "length": 840,
+    "duration": 840,
+    "started": 1724051369,
+    "type": "track",
+    "track_id": 1040560,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Martha Argerich",
+    "display_artist": "Martha Argerich",
+    "title": "Polonaise for piano No.6 in A flat major 'Heroique', Op.53, CT. 155 [F. Chopin]",
+    "display_title": "Polonaise for piano No.6 in A flat major 'Heroique', Op.53, CT. 155 [F. Chopin]",
+    "track": "Martha Argerich - Polonaise for piano No.6 in A flat major 'Heroique', Op.53, CT. 155 [F. Chopin]",
+    "length": 392,
+    "duration": 392,
+    "started": 1724052205,
+    "type": "track",
+    "track_id": 1046484,
+    "release": "Best Piano Classics 100 CD1",
+    "art_url": "//cdn-images.audioaddict.com/4/c/3/1/b/0/4c31b049c3a3155d91fbe4d4ca3f4114.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/3/1/b/0/4c31b049c3a3155d91fbe4d4ca3f4114.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Sung-Won Yang & Enrico Pace",
+    "display_artist": "Sung-Won Yang & Enrico Pace",
+    "title": "Nocturne No. 20 In C-sharp Minor, Op. Post.  [F. Chopin]",
+    "display_title": "Nocturne No. 20 In C-sharp Minor, Op. Post.  [F. Chopin]",
+    "track": "Sung-Won Yang & Enrico Pace - Nocturne No. 20 In C-sharp Minor, Op. Post.  [F. Chopin]",
+    "length": 297,
+    "duration": 297,
+    "started": 1724052595,
+    "type": "track",
+    "track_id": 2971029,
+    "release": "Cantique d'Amour",
+    "art_url": "//cdn-images.audioaddict.com/4/7/d/d/e/b/47ddebce48fb6d748b1c9d272603c251.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/d/d/e/b/47ddebce48fb6d748b1c9d272603c251.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Kun-Woo Paik",
+    "display_artist": "Kun-Woo Paik",
+    "title": "Nocturne No.13 In C Minor, Op.48, No.1 [F. Chopin]",
+    "display_title": "Nocturne No.13 In C Minor, Op.48, No.1 [F. Chopin]",
+    "track": "Kun-Woo Paik - Nocturne No.13 In C Minor, Op.48, No.1 [F. Chopin]",
+    "length": 415,
+    "duration": 415,
+    "started": 1724052891,
+    "type": "track",
+    "track_id": 2928125,
+    "release": "Chopin The Complete Nocturnes",
+    "art_url": "//cdn-images.audioaddict.com/3/a/c/4/8/c/3ac48c075d0281adbb7afe02c8e5e9de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/c/4/8/c/3ac48c075d0281adbb7afe02c8e5e9de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.13 in D flat, Op.70 No.3 [F. Chopin]",
+    "display_title": "Waltz No.13 in D flat, Op.70 No.3 [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.13 in D flat, Op.70 No.3 [F. Chopin]",
+    "length": 164,
+    "duration": 164,
+    "started": 1724053306,
+    "type": "track",
+    "track_id": 2221079,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.12 in G, Op.37 No.2 [F. Chopin]",
+    "display_title": "Nocturne No.12 in G, Op.37 No.2 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.12 in G, Op.37 No.2 [F. Chopin]",
+    "length": 357,
+    "duration": 357,
+    "started": 1724053470,
+    "type": "track",
+    "track_id": 2908884,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.10 in B minor, Op.69 No.2 [F. Chopin]",
+    "display_title": "Waltz No.10 in B minor, Op.69 No.2 [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.10 in B minor, Op.69 No.2 [F. Chopin]",
+    "length": 243,
+    "duration": 243,
+    "started": 1724053827,
+    "type": "track",
+    "track_id": 2221076,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.10 in A flat, Op.32 No.2 [F. Chopin]",
+    "display_title": "Nocturne No.10 in A flat, Op.32 No.2 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.10 in A flat, Op.32 No.2 [F. Chopin]",
+    "length": 289,
+    "duration": 289,
+    "started": 1724054070,
+    "type": "track",
+    "track_id": 2908882,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "display_artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "title": "Andante spianato and Grande Polonaise brillante in E flat major, Op.22 [F. Chopin]",
+    "display_title": "Andante spianato and Grande Polonaise brillante in E flat major, Op.22 [F. Chopin]",
+    "track": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal - Andante spianato and Grande Polonaise brillante in E flat major, Op.22 [F. Chopin]",
+    "length": 915,
+    "duration": 915,
+    "started": 1724054358,
+    "type": "track",
+    "track_id": 1040551,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Murray Perahia",
+    "display_artist": "Murray Perahia",
+    "title": "Ballade No. 4 in F Minor, Op. 52 [F. Chopin]",
+    "display_title": "Ballade No. 4 in F Minor, Op. 52 [F. Chopin]",
+    "track": "Murray Perahia - Ballade No. 4 in F Minor, Op. 52 [F. Chopin]",
+    "length": 586,
+    "duration": 586,
+    "started": 1724056186,
+    "type": "track",
+    "track_id": 3030507,
+    "release": "Chopin: 4 Ballades & Other Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/3/f/f/8/9/7/3ff8979a7270f9a2108d92c8ef784815.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/f/8/9/7/3ff8979a7270f9a2108d92c8ef784815.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rafael Orozco",
+    "display_artist": "Rafael Orozco",
+    "title": "Scherzo No.2 in B flat minor, Op.31 [F. Chopin]",
+    "display_title": "Scherzo No.2 in B flat minor, Op.31 [F. Chopin]",
+    "track": "Rafael Orozco - Scherzo No.2 in B flat minor, Op.31 [F. Chopin]",
+    "length": 604,
+    "duration": 604,
+    "started": 1724056773,
+    "type": "track",
+    "track_id": 1040584,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Camille Thomas, Lucas Debargue",
+    "display_artist": "Camille Thomas, Lucas Debargue",
+    "title": "Grand Duo concertant sur des thèmes de 'Robert le Diable' de Meyerbeer, B. 70 [F. Chopin]",
+    "display_title": "Grand Duo concertant sur des thèmes de 'Robert le Diable' de Meyerbeer, B. 70 [F. Chopin]",
+    "track": "Camille Thomas, Lucas Debargue - Grand Duo concertant sur des thèmes de 'Robert le Diable' de Meyerbeer, B. 70 [F. Chopin]",
+    "length": 781,
+    "duration": 781,
+    "started": 1724057377,
+    "type": "track",
+    "track_id": 3070934,
+    "release": "The Chopin Project : Complete Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/8/d/d/4/2/1/8dd421f4af5c895108d0a9b1ffc55edf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/d/4/2/1/8dd421f4af5c895108d0a9b1ffc55edf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yulianna Avdeeva",
+    "display_artist": "Yulianna Avdeeva",
+    "title": "2 Nocturnes, Op. 62 - No. 2 in E Major. Lento [F. Chopin]",
+    "display_title": "2 Nocturnes, Op. 62 - No. 2 in E Major. Lento [F. Chopin]",
+    "track": "Yulianna Avdeeva - 2 Nocturnes, Op. 62 - No. 2 in E Major. Lento [F. Chopin]",
+    "length": 329,
+    "duration": 329,
+    "started": 1724058794,
+    "type": "track",
+    "track_id": 3099117,
+    "release": "Chopin Voyage",
+    "art_url": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 12 in C Minor (Allegro con fuoco) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 12 in C Minor (Allegro con fuoco) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 12 in C Minor (Allegro con fuoco) [F. Chopin]",
+    "length": 155,
+    "duration": 155,
+    "started": 1724059125,
+    "type": "track",
+    "track_id": 3030519,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rafal Blechacz",
+    "display_artist": "Rafal Blechacz",
+    "title": "24 Preludes, Op.28 - No.15 in D flat major [F. Chopin]",
+    "display_title": "24 Preludes, Op.28 - No.15 in D flat major [F. Chopin]",
+    "track": "Rafal Blechacz - 24 Preludes, Op.28 - No.15 in D flat major [F. Chopin]",
+    "length": 294,
+    "duration": 294,
+    "started": 1724059280,
+    "type": "track",
+    "track_id": 1040489,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Murray Perahia",
+    "display_artist": "Murray Perahia",
+    "title": "Ballade No. 3 in A-Flat Major, Op. 47 [F. Chopin]",
+    "display_title": "Ballade No. 3 in A-Flat Major, Op. 47 [F. Chopin]",
+    "track": "Murray Perahia - Ballade No. 3 in A-Flat Major, Op. 47 [F. Chopin]",
+    "length": 414,
+    "duration": 414,
+    "started": 1724059574,
+    "type": "track",
+    "track_id": 3030506,
+    "release": "Chopin: 4 Ballades & Other Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/3/f/f/8/9/7/3ff8979a7270f9a2108d92c8ef784815.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/f/8/9/7/3ff8979a7270f9a2108d92c8ef784815.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yulianna Avdeeva",
+    "display_artist": "Yulianna Avdeeva",
+    "title": "Polonaise-Fantaisie, Op. 61 [F. Chopin]",
+    "display_title": "Polonaise-Fantaisie, Op. 61 [F. Chopin]",
+    "track": "Yulianna Avdeeva - Polonaise-Fantaisie, Op. 61 [F. Chopin]",
+    "length": 783,
+    "duration": 783,
+    "started": 1724059988,
+    "type": "track",
+    "track_id": 3099120,
+    "release": "Chopin Voyage",
+    "art_url": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Martha Argerich",
+    "display_artist": "Martha Argerich",
+    "title": "Scherzo for piano No.3 in C sharp minor, Op.39, CT. 199 [F. Chopin]",
+    "display_title": "Scherzo for piano No.3 in C sharp minor, Op.39, CT. 199 [F. Chopin]",
+    "track": "Martha Argerich - Scherzo for piano No.3 in C sharp minor, Op.39, CT. 199 [F. Chopin]",
+    "length": 423,
+    "duration": 423,
+    "started": 1724060771,
+    "type": "track",
+    "track_id": 1046488,
+    "release": "Les 100 Plus Belles Pages Du Piano (disc 4)",
+    "art_url": "//cdn-images.audioaddict.com/4/c/3/1/b/0/4c31b049c3a3155d91fbe4d4ca3f4114.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/3/1/b/0/4c31b049c3a3155d91fbe4d4ca3f4114.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Polonaise No.6 In A Flat, Op.53 - 'heroic' [F. Chopin]",
+    "display_title": "Polonaise No.6 In A Flat, Op.53 - 'heroic' [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Polonaise No.6 In A Flat, Op.53 - 'heroic' [F. Chopin]",
+    "length": 381,
+    "duration": 381,
+    "started": 1724061727,
+    "type": "track",
+    "track_id": 1046486,
+    "release": "Ultimate Classical Piano Cd4",
+    "art_url": "//cdn-images.audioaddict.com/e/2/c/4/1/2/e2c41230e02a5e89056a92f844ce44a7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/c/4/1/2/e2c41230e02a5e89056a92f844ce44a7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.30 - No.4 in C sharp minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.30 - No.4 in C sharp minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.30 - No.4 in C sharp minor [F. Chopin]",
+    "length": 220,
+    "duration": 220,
+    "started": 1724062106,
+    "type": "track",
+    "track_id": 1040402,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Variations brillantes in B flat major on 'Je vends des scapulaires' from 'Ludovic', Op.12 [F. Chopin]",
+    "display_title": "Variations brillantes in B flat major on 'Je vends des scapulaires' from 'Ludovic', Op.12 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Variations brillantes in B flat major on 'Je vends des scapulaires' from 'Ludovic', Op.12 [F. Chopin]",
+    "length": 493,
+    "duration": 493,
+    "started": 1724062327,
+    "type": "track",
+    "track_id": 1040587,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 10 in B Minor (Allegro con fuoco) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 10 in B Minor (Allegro con fuoco) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 10 in B Minor (Allegro con fuoco) [F. Chopin]",
+    "length": 235,
+    "duration": 235,
+    "started": 1724062994,
+    "type": "track",
+    "track_id": 3030529,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "4 Scherzos - No.1 in B minor, Op.20 [F. Chopin]",
+    "display_title": "4 Scherzos - No.1 in B minor, Op.20 [F. Chopin]",
+    "track": "Maurizio Pollini - 4 Scherzos - No.1 in B minor, Op.20 [F. Chopin]",
+    "length": 574,
+    "duration": 574,
+    "started": 1724063229,
+    "type": "track",
+    "track_id": 1040546,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "3 Polonaises, Op. Posth. 71 - No.3 in F minor [F. Chopin]",
+    "display_title": "3 Polonaises, Op. Posth. 71 - No.3 in F minor [F. Chopin]",
+    "track": "Anatol Ugorski - 3 Polonaises, Op. Posth. 71 - No.3 in F minor [F. Chopin]",
+    "length": 385,
+    "duration": 385,
+    "started": 1724064115,
+    "type": "track",
+    "track_id": 1040467,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 11 in A Minor (Lento - Allegro con brio) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 11 in A Minor (Lento - Allegro con brio) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 11 in A Minor (Lento - Allegro con brio) [F. Chopin]",
+    "length": 225,
+    "duration": 225,
+    "started": 1724064500,
+    "type": "track",
+    "track_id": 3030530,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Mstislav Rostropovich, Martha Argerich",
+    "display_artist": "Mstislav Rostropovich, Martha Argerich",
+    "title": "Cello Sonata in G minor, Op.65 [F. Chopin]",
+    "display_title": "Cello Sonata in G minor, Op.65 [F. Chopin]",
+    "track": "Mstislav Rostropovich, Martha Argerich - Cello Sonata in G minor, Op.65 [F. Chopin]",
+    "length": 1757,
+    "duration": 1757,
+    "started": 1724064725,
+    "type": "track",
+    "track_id": 3044929,
+    "release": "Frédéric Chopin. Chopin Complete Edition (DG 2009)",
+    "art_url": "//cdn-images.audioaddict.com/f/9/2/1/a/7/f921a7ca1fe0ef28a8616faf8d1a0447.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/9/2/1/a/7/f921a7ca1fe0ef28a8616faf8d1a0447.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "4 Scherzos - No.3 in C sharp minor, Op.39 [F. Chopin]",
+    "display_title": "4 Scherzos - No.3 in C sharp minor, Op.39 [F. Chopin]",
+    "track": "Maurizio Pollini - 4 Scherzos - No.3 in C sharp minor, Op.39 [F. Chopin]",
+    "length": 443,
+    "duration": 443,
+    "started": 1724066690,
+    "type": "track",
+    "track_id": 1040548,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Lilya Zilberstein",
+    "display_artist": "Lilya Zilberstein",
+    "title": "Rondo a la Mazur in F major, Op.5 [F. Chopin]",
+    "display_title": "Rondo a la Mazur in F major, Op.5 [F. Chopin]",
+    "track": "Lilya Zilberstein - Rondo a la Mazur in F major, Op.5 [F. Chopin]",
+    "length": 564,
+    "duration": 564,
+    "started": 1724067134,
+    "type": "track",
+    "track_id": 1040580,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Nikita Magaloff",
+    "display_artist": "Nikita Magaloff",
+    "title": "Mazurka No.37 in A flat Op.59 No.2 [F. Chopin]",
+    "display_title": "Mazurka No.37 in A flat Op.59 No.2 [F. Chopin]",
+    "track": "Nikita Magaloff - Mazurka No.37 in A flat Op.59 No.2 [F. Chopin]",
+    "length": 160,
+    "duration": 160,
+    "started": 1724067698,
+    "type": "track",
+    "track_id": 1040432,
+    "release": "The Best of Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.21 in C minor, Op.posth. [F. Chopin]",
+    "display_title": "Nocturne No.21 in C minor, Op.posth. [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.21 in C minor, Op.posth. [F. Chopin]",
+    "length": 168,
+    "duration": 168,
+    "started": 1724067858,
+    "type": "track",
+    "track_id": 2908893,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.3 in B, Op.9 No.3 [F. Chopin]",
+    "display_title": "Nocturne No.3 in B, Op.9 No.3 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.3 in B, Op.9 No.3 [F. Chopin]",
+    "length": 399,
+    "duration": 399,
+    "started": 1724068026,
+    "type": "track",
+    "track_id": 2908894,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.5 in A flat, Op.42 - 'Grande valse' [F. Chopin]",
+    "display_title": "Waltz No.5 in A flat, Op.42 - 'Grande valse' [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.5 in A flat, Op.42 - 'Grande valse' [F. Chopin]",
+    "length": 226,
+    "duration": 226,
+    "started": 1724068425,
+    "type": "track",
+    "track_id": 2221084,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Lilya Zilberstein",
+    "display_artist": "Lilya Zilberstein",
+    "title": "Rondo in C minor, Op.1 [F. Chopin]",
+    "display_title": "Rondo in C minor, Op.1 [F. Chopin]",
+    "track": "Lilya Zilberstein - Rondo in C minor, Op.1 [F. Chopin]",
+    "length": 617,
+    "duration": 617,
+    "started": 1724068652,
+    "type": "track",
+    "track_id": 1040582,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "3 Polonaises, Op. Posth. 71 - No.1 in D minor [F. Chopin]",
+    "display_title": "3 Polonaises, Op. Posth. 71 - No.1 in D minor [F. Chopin]",
+    "track": "Anatol Ugorski - 3 Polonaises, Op. Posth. 71 - No.1 in D minor [F. Chopin]",
+    "length": 346,
+    "duration": 346,
+    "started": 1724069268,
+    "type": "track",
+    "track_id": 1040465,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Nikita Magaloff",
+    "display_artist": "Nikita Magaloff",
+    "title": "24 Preludes, Op.28 - 15. in D flat major 'Raindrop' [F. Chopin]",
+    "display_title": "24 Preludes, Op.28 - 15. in D flat major 'Raindrop' [F. Chopin]",
+    "track": "Nikita Magaloff - 24 Preludes, Op.28 - 15. in D flat major 'Raindrop' [F. Chopin]",
+    "length": 328,
+    "duration": 328,
+    "started": 1724070013,
+    "type": "track",
+    "track_id": 1040479,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Stephen Kovacevich",
+    "display_artist": "Stephen Kovacevich",
+    "title": "Barcarolle in F sharp, Op.60 [F. Chopin]",
+    "display_title": "Barcarolle in F sharp, Op.60 [F. Chopin]",
+    "track": "Stephen Kovacevich - Barcarolle in F sharp, Op.60 [F. Chopin]",
+    "length": 537,
+    "duration": 537,
+    "started": 1724070340,
+    "type": "track",
+    "track_id": 1040556,
+    "release": "The Best of Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "display_artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "title": "Rondo a la Krakowiak in F major, Op.14 [F. Chopin]",
+    "display_title": "Rondo a la Krakowiak in F major, Op.14 [F. Chopin]",
+    "track": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal - Rondo a la Krakowiak in F major, Op.14 [F. Chopin]",
+    "length": 880,
+    "duration": 880,
+    "started": 1724070877,
+    "type": "track",
+    "track_id": 1040579,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "Fugue in A minor, Op. Posth. [F. Chopin]",
+    "display_title": "Fugue in A minor, Op. Posth. [F. Chopin]",
+    "track": "Anatol Ugorski - Fugue in A minor, Op. Posth. [F. Chopin]",
+    "length": 186,
+    "duration": 186,
+    "started": 1724071756,
+    "type": "track",
+    "track_id": 1040563,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "Barcarolle in F sharp major, Op.60 [F. Chopin]",
+    "display_title": "Barcarolle in F sharp major, Op.60 [F. Chopin]",
+    "track": "Maurizio Pollini - Barcarolle in F sharp major, Op.60 [F. Chopin]",
+    "length": 516,
+    "duration": 516,
+    "started": 1724072401,
+    "type": "track",
+    "track_id": 1040555,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Kurt Bauer, Heidi Bung",
+    "display_artist": "Kurt Bauer, Heidi Bung",
+    "title": "Rondo for 2 Pianos in C major, Op. Posth. 73 [F. Chopin]",
+    "display_title": "Rondo for 2 Pianos in C major, Op. Posth. 73 [F. Chopin]",
+    "track": "Kurt Bauer, Heidi Bung - Rondo for 2 Pianos in C major, Op. Posth. 73 [F. Chopin]",
+    "length": 564,
+    "duration": 564,
+    "started": 1724073306,
+    "type": "track",
+    "track_id": 1040581,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "display_artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "title": "Variations in B flat major on 'La ci darem la mano' from Mozart's 'Don Giovanni', Op.2 [F. Chopin]",
+    "display_title": "Variations in B flat major on 'La ci darem la mano' from Mozart's 'Don Giovanni', Op.2 [F. Chopin]",
+    "track": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal - Variations in B flat major on 'La ci darem la mano' from Mozart's 'Don Giovanni', Op.2 [F. Chopin]",
+    "length": 1172,
+    "duration": 1172,
+    "started": 1724073867,
+    "type": "track",
+    "track_id": 1040588,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "'Souvenir de Paganini' - Variations in A major, Op. Posth. [F. Chopin]",
+    "display_title": "'Souvenir de Paganini' - Variations in A major, Op. Posth. [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 'Souvenir de Paganini' - Variations in A major, Op. Posth. [F. Chopin]",
+    "length": 220,
+    "duration": 220,
+    "started": 1724076047,
+    "type": "track",
+    "track_id": 1040532,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Mazurkas, Op.59 - No.1 in A minor [F. Chopin]",
+    "display_title": "3 Mazurkas, Op.59 - No.1 in A minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Mazurkas, Op.59 - No.1 in A minor [F. Chopin]",
+    "length": 270,
+    "duration": 270,
+    "started": 1724076261,
+    "type": "track",
+    "track_id": 1040377,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.6 - No.1 in F sharp minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.6 - No.1 in F sharp minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.6 - No.1 in F sharp minor [F. Chopin]",
+    "length": 196,
+    "duration": 196,
+    "started": 1724076532,
+    "type": "track",
+    "track_id": 1040411,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Bolero in C major, Op.19 [F. Chopin]",
+    "display_title": "Bolero in C major, Op.19 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Bolero in C major, Op.19 [F. Chopin]",
+    "length": 440,
+    "duration": 440,
+    "started": 1724076728,
+    "type": "track",
+    "track_id": 1040558,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 4 in A Minor (Agitato) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 4 in A Minor (Agitato) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 4 in A Minor (Agitato) [F. Chopin]",
+    "length": 109,
+    "duration": 109,
+    "started": 1724077310,
+    "type": "track",
+    "track_id": 3030523,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.3 in A minor, Op.34 No.2 [F. Chopin]",
+    "display_title": "Waltz No.3 in A minor, Op.34 No.2 [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.3 in A minor, Op.34 No.2 [F. Chopin]",
+    "length": 318,
+    "duration": 318,
+    "started": 1724077538,
+    "type": "track",
+    "track_id": 2221082,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rafal Blechacz",
+    "display_artist": "Rafal Blechacz",
+    "title": "24 Preludes, Op.28 - No.17 in A flat major [F. Chopin]",
+    "display_title": "24 Preludes, Op.28 - No.17 in A flat major [F. Chopin]",
+    "track": "Rafal Blechacz - 24 Preludes, Op.28 - No.17 in A flat major [F. Chopin]",
+    "length": 195,
+    "duration": 195,
+    "started": 1724078852,
+    "type": "track",
+    "track_id": 1040491,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.9 in A flat, Op.69 No.1 - 'Farewell' [F. Chopin]",
+    "display_title": "Waltz No.9 in A flat, Op.69 No.1 - 'Farewell' [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.9 in A flat, Op.69 No.1 - 'Farewell' [F. Chopin]",
+    "length": 249,
+    "duration": 249,
+    "started": 1724079047,
+    "type": "track",
+    "track_id": 2221088,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.4 in F, Op.34 No.3 [F. Chopin]",
+    "display_title": "Waltz No.4 in F, Op.34 No.3 [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.4 in F, Op.34 No.3 [F. Chopin]",
+    "length": 132,
+    "duration": 132,
+    "started": 1724079296,
+    "type": "track",
+    "track_id": 2221083,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Murray Perahia",
+    "display_artist": "Murray Perahia",
+    "title": "Ballade No. 2 in F Major, Op. 38 [F. Chopin]",
+    "display_title": "Ballade No. 2 in F Major, Op. 38 [F. Chopin]",
+    "track": "Murray Perahia - Ballade No. 2 in F Major, Op. 38 [F. Chopin]",
+    "length": 399,
+    "duration": 399,
+    "started": 1724079847,
+    "type": "track",
+    "track_id": 3030505,
+    "release": "Chopin: 4 Ballades & Other Piano Works",
+    "art_url": "//cdn-images.audioaddict.com/3/f/f/8/9/7/3ff8979a7270f9a2108d92c8ef784815.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/f/f/8/9/7/3ff8979a7270f9a2108d92c8ef784815.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "Polonaise in B flat major, Op. Posth. [F. Chopin]",
+    "display_title": "Polonaise in B flat major, Op. Posth. [F. Chopin]",
+    "track": "Anatol Ugorski - Polonaise in B flat major, Op. Posth. [F. Chopin]",
+    "length": 197,
+    "duration": 197,
+    "started": 1724080247,
+    "type": "track",
+    "track_id": 1040471,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Gyorgy Cziffra",
+    "display_artist": "Gyorgy Cziffra",
+    "title": "Polonaise No.6 in A flat, Op.53 - 'Heroic' [F. Chopin]",
+    "display_title": "Polonaise No.6 in A flat, Op.53 - 'Heroic' [F. Chopin]",
+    "track": "Gyorgy Cziffra - Polonaise No.6 in A flat, Op.53 - 'Heroic' [F. Chopin]",
+    "length": 404,
+    "duration": 404,
+    "started": 1724081142,
+    "type": "track",
+    "track_id": 1040477,
+    "release": "The Best of Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Sung-Won Yang & Enrico Pace",
+    "display_artist": "Sung-Won Yang & Enrico Pace",
+    "title": "Introduction & Polonaise Brillante In C, Op. 3 (arr. for Cello and Piano) [F. Chopin]",
+    "display_title": "Introduction & Polonaise Brillante In C, Op. 3 (arr. for Cello and Piano) [F. Chopin]",
+    "track": "Sung-Won Yang & Enrico Pace - Introduction & Polonaise Brillante In C, Op. 3 (arr. for Cello and Piano) [F. Chopin]",
+    "length": 604,
+    "duration": 604,
+    "started": 1724081545,
+    "type": "track",
+    "track_id": 2971028,
+    "release": "Cantique d'Amour",
+    "art_url": "//cdn-images.audioaddict.com/4/7/d/d/e/b/47ddebce48fb6d748b1c9d272603c251.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/d/d/e/b/47ddebce48fb6d748b1c9d272603c251.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "3 Polonaises, Op. Posth. 71 - No.2 in B flat major [F. Chopin]",
+    "display_title": "3 Polonaises, Op. Posth. 71 - No.2 in B flat major [F. Chopin]",
+    "track": "Anatol Ugorski - 3 Polonaises, Op. Posth. 71 - No.2 in B flat major [F. Chopin]",
+    "length": 478,
+    "duration": 478,
+    "started": 1724082149,
+    "type": "track",
+    "track_id": 1040466,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yulianna Avdeeva",
+    "display_artist": "Yulianna Avdeeva",
+    "title": "3 Mazurkas, Op. 59 [F. Chopin]",
+    "display_title": "3 Mazurkas, Op. 59 [F. Chopin]",
+    "track": "Yulianna Avdeeva - 3 Mazurkas, Op. 59 [F. Chopin]",
+    "length": 592,
+    "duration": 592,
+    "started": 1724082628,
+    "type": "track",
+    "track_id": 3099118,
+    "release": "Chopin Voyage",
+    "art_url": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 6 in E-Flat Minor (Andante) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 6 in E-Flat Minor (Andante) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 6 in E-Flat Minor (Andante) [F. Chopin]",
+    "length": 220,
+    "duration": 220,
+    "started": 1724083218,
+    "type": "track",
+    "track_id": 3030513,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.4 in F, Op.15 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.4 in F, Op.15 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.4 in F, Op.15 No.1 [F. Chopin]",
+    "length": 261,
+    "duration": 261,
+    "started": 1724083736,
+    "type": "track",
+    "track_id": 2908895,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.19 in E minor, Op.72 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.19 in E minor, Op.72 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.19 in E minor, Op.72 No.1 [F. Chopin]",
+    "length": 248,
+    "duration": 248,
+    "started": 1724083996,
+    "type": "track",
+    "track_id": 2908891,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.2 in E flat, Op.9 No.2 [F. Chopin]",
+    "display_title": "Nocturne No.2 in E flat, Op.9 No.2 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.2 in E flat, Op.9 No.2 [F. Chopin]",
+    "length": 269,
+    "duration": 269,
+    "started": 1724084244,
+    "type": "track",
+    "track_id": 2908892,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Martha Argerich, Montreal Symphony Orchestra, Charles Dutoit",
+    "display_artist": "Martha Argerich, Montreal Symphony Orchestra, Charles Dutoit",
+    "title": "Piano Concerto No.2 In F Minor, Op. 21 [F. Chopin]",
+    "display_title": "Piano Concerto No.2 In F Minor, Op. 21 [F. Chopin]",
+    "track": "Martha Argerich, Montreal Symphony Orchestra, Charles Dutoit - Piano Concerto No.2 In F Minor, Op. 21 [F. Chopin]",
+    "length": 1861,
+    "duration": 1861,
+    "started": 1724084514,
+    "type": "track",
+    "track_id": 3036651,
+    "release": "Chopin: Piano Concertos #1 & 2",
+    "art_url": "//cdn-images.audioaddict.com/3/5/5/4/5/7/3554571630ed69f929ad34b2c231a1dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/5/4/5/7/3554571630ed69f929ad34b2c231a1dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Stephen Kovacevich",
+    "display_artist": "Stephen Kovacevich",
+    "title": "Impromptu No.3 in G flat, Op.51 [F. Chopin]",
+    "display_title": "Impromptu No.3 in G flat, Op.51 [F. Chopin]",
+    "track": "Stephen Kovacevich - Impromptu No.3 in G flat, Op.51 [F. Chopin]",
+    "length": 300,
+    "duration": 300,
+    "started": 1724086472,
+    "type": "track",
+    "track_id": 1040568,
+    "release": "The Best of Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yulianna Avdeeva",
+    "display_artist": "Yulianna Avdeeva",
+    "title": "2 Nocturnes, Op. 62 - No. 1 in B Major. Andante [F. Chopin]",
+    "display_title": "2 Nocturnes, Op. 62 - No. 1 in B Major. Andante [F. Chopin]",
+    "track": "Yulianna Avdeeva - 2 Nocturnes, Op. 62 - No. 1 in B Major. Andante [F. Chopin]",
+    "length": 374,
+    "duration": 374,
+    "started": 1724089057,
+    "type": "track",
+    "track_id": 3099116,
+    "release": "Chopin Voyage",
+    "art_url": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Martha Argerich, Montreal Symphony Orchestra, Charles Dutoit",
+    "display_artist": "Martha Argerich, Montreal Symphony Orchestra, Charles Dutoit",
+    "title": "Piano Concerto No.1 In E Minor, Op. 11 [F. Chopin]",
+    "display_title": "Piano Concerto No.1 In E Minor, Op. 11 [F. Chopin]",
+    "track": "Martha Argerich, Montreal Symphony Orchestra, Charles Dutoit - Piano Concerto No.1 In E Minor, Op. 11 [F. Chopin]",
+    "length": 2281,
+    "duration": 2281,
+    "started": 1724089431,
+    "type": "track",
+    "track_id": 3036650,
+    "release": "Chopin: Piano Concertos #1 & 2",
+    "art_url": "//cdn-images.audioaddict.com/3/5/5/4/5/7/3554571630ed69f929ad34b2c231a1dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/5/4/5/7/3554571630ed69f929ad34b2c231a1dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Piano Sonata No.2 in B Flat Minor, Op.35 [F. Chopin]",
+    "display_title": "Piano Sonata No.2 in B Flat Minor, Op.35 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Piano Sonata No.2 in B Flat Minor, Op.35 [F. Chopin]",
+    "length": 1423,
+    "duration": 1423,
+    "started": 1724091908,
+    "type": "track",
+    "track_id": 1049522,
+    "release": "Favourite Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Mazurka in A minor (Notre Temps No.2, 1841) [F. Chopin]",
+    "display_title": "Mazurka in A minor (Notre Temps No.2, 1841) [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Mazurka in A minor (Notre Temps No.2, 1841) [F. Chopin]",
+    "length": 195,
+    "duration": 195,
+    "started": 1724093329,
+    "type": "track",
+    "track_id": 1040423,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Mazurkas, Op.56 - No.3 in C minor [F. Chopin]",
+    "display_title": "3 Mazurkas, Op.56 - No.3 in C minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Mazurkas, Op.56 - No.3 in C minor [F. Chopin]",
+    "length": 357,
+    "duration": 357,
+    "started": 1724093525,
+    "type": "track",
+    "track_id": 1040376,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.7 in C sharp minor, Op.64 No.2 [F. Chopin]",
+    "display_title": "Waltz No.7 in C sharp minor, Op.64 No.2 [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.7 in C sharp minor, Op.64 No.2 [F. Chopin]",
+    "length": 226,
+    "duration": 226,
+    "started": 1724093883,
+    "type": "track",
+    "track_id": 2221086,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Nikita Magaloff",
+    "display_artist": "Nikita Magaloff",
+    "title": "24 Preludes, Op.28 - 4. in E minor [F. Chopin]",
+    "display_title": "24 Preludes, Op.28 - 4. in E minor [F. Chopin]",
+    "track": "Nikita Magaloff - 24 Preludes, Op.28 - 4. in E minor [F. Chopin]",
+    "length": 153,
+    "duration": 153,
+    "started": 1724094108,
+    "type": "track",
+    "track_id": 1040480,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rafal Blechacz",
+    "display_artist": "Rafal Blechacz",
+    "title": "24 Preludes, Op.28 - No.13 in F sharp major [F. Chopin]",
+    "display_title": "24 Preludes, Op.28 - No.13 in F sharp major [F. Chopin]",
+    "track": "Rafal Blechacz - 24 Preludes, Op.28 - No.13 in F sharp major [F. Chopin]",
+    "length": 193,
+    "duration": 193,
+    "started": 1724094449,
+    "type": "track",
+    "track_id": 1040487,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "Piano Sonata No.2 in B flat minor, Op.35 [F. Chopin]",
+    "display_title": "Piano Sonata No.2 in B flat minor, Op.35 [F. Chopin]",
+    "track": "Maurizio Pollini - Piano Sonata No.2 in B flat minor, Op.35 [F. Chopin]",
+    "length": 1407,
+    "duration": 1407,
+    "started": 1724094643,
+    "type": "track",
+    "track_id": 1040511,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.1 in E flat, Op.18 - 'Grande valse brillante' [F. Chopin]",
+    "display_title": "Waltz No.1 in E flat, Op.18 - 'Grande valse brillante' [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.1 in E flat, Op.18 - 'Grande valse brillante' [F. Chopin]",
+    "length": 327,
+    "duration": 327,
+    "started": 1724096050,
+    "type": "track",
+    "track_id": 2221075,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rafal Blechacz",
+    "display_artist": "Rafal Blechacz",
+    "title": "Prelude in C sharp minor, Op.45 [F. Chopin]",
+    "display_title": "Prelude in C sharp minor, Op.45 [F. Chopin]",
+    "track": "Rafal Blechacz - Prelude in C sharp minor, Op.45 [F. Chopin]",
+    "length": 282,
+    "duration": 282,
+    "started": 1724096932,
+    "type": "track",
+    "track_id": 1040508,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Nikita Magaloff",
+    "display_artist": "Nikita Magaloff",
+    "title": "Mazurka No.36 in A minor Op.59 No.1 [F. Chopin]",
+    "display_title": "Mazurka No.36 in A minor Op.59 No.1 [F. Chopin]",
+    "track": "Nikita Magaloff - Mazurka No.36 in A minor Op.59 No.1 [F. Chopin]",
+    "length": 206,
+    "duration": 206,
+    "started": 1724097619,
+    "type": "track",
+    "track_id": 1040431,
+    "release": "The Best of Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.17 in B, Op.62 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.17 in B, Op.62 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.17 in B, Op.62 No.1 [F. Chopin]",
+    "length": 387,
+    "duration": 387,
+    "started": 1724097825,
+    "type": "track",
+    "track_id": 2908889,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 2 in A Minor (Allegro) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 2 in A Minor (Allegro) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 2 in A Minor (Allegro) [F. Chopin]",
+    "length": 85,
+    "duration": 85,
+    "started": 1724098211,
+    "type": "track",
+    "track_id": 3030509,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau",
+    "display_artist": "Claudio Arrau",
+    "title": "Ballade No.4 in F minor, Op.52 [F. Chopin]",
+    "display_title": "Ballade No.4 in F minor, Op.52 [F. Chopin]",
+    "track": "Claudio Arrau - Ballade No.4 in F minor, Op.52 [F. Chopin]",
+    "length": 725,
+    "duration": 725,
+    "started": 1724098297,
+    "type": "track",
+    "track_id": 1040554,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "2 Polonaises, Op.26 - No.1 in C sharp minor [F. Chopin]",
+    "display_title": "2 Polonaises, Op.26 - No.1 in C sharp minor [F. Chopin]",
+    "track": "Maurizio Pollini - 2 Polonaises, Op.26 - No.1 in C sharp minor [F. Chopin]",
+    "length": 506,
+    "duration": 506,
+    "started": 1724099021,
+    "type": "track",
+    "track_id": 1040461,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "2 Polonaises, Op.40 - No.2 in C minor [F. Chopin]",
+    "display_title": "2 Polonaises, Op.40 - No.2 in C minor [F. Chopin]",
+    "track": "Maurizio Pollini - 2 Polonaises, Op.40 - No.2 in C minor [F. Chopin]",
+    "length": 486,
+    "duration": 486,
+    "started": 1724099527,
+    "type": "track",
+    "track_id": 1040464,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rafal Blechacz",
+    "display_artist": "Rafal Blechacz",
+    "title": "24 Preludes, Op.28 - No.24 in D minor [F. Chopin]",
+    "display_title": "24 Preludes, Op.28 - No.24 in D minor [F. Chopin]",
+    "track": "Rafal Blechacz - 24 Preludes, Op.28 - No.24 in D minor [F. Chopin]",
+    "length": 159,
+    "duration": 159,
+    "started": 1724100013,
+    "type": "track",
+    "track_id": 1040499,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/3/8/9/8/a5389839284fb8cf4313e6fd62213707.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.6 in G minor, Op.15 No.3 [F. Chopin]",
+    "display_title": "Nocturne No.6 in G minor, Op.15 No.3 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.6 in G minor, Op.15 No.3 [F. Chopin]",
+    "length": 266,
+    "duration": 266,
+    "started": 1724100404,
+    "type": "track",
+    "track_id": 2908897,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "Polonaise in B flat minor, Op. Posth. [F. Chopin]",
+    "display_title": "Polonaise in B flat minor, Op. Posth. [F. Chopin]",
+    "track": "Anatol Ugorski - Polonaise in B flat minor, Op. Posth. [F. Chopin]",
+    "length": 404,
+    "duration": 404,
+    "started": 1724100669,
+    "type": "track",
+    "track_id": 1040472,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "display_artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "title": "Impromptus No.3 in G flat, Op.51 [F. Chopin]",
+    "display_title": "Impromptus No.3 in G flat, Op.51 [F. Chopin]",
+    "track": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal - Impromptus No.3 in G flat, Op.51 [F. Chopin]",
+    "length": 380,
+    "duration": 380,
+    "started": 1724104187,
+    "type": "track",
+    "track_id": 1040572,
+    "release": "Complete Works for Piano and Orchestra CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 3 in E Major (Lento ma non troppo) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 3 in E Major (Lento ma non troppo) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 3 in E Major (Lento ma non troppo) [F. Chopin]",
+    "length": 232,
+    "duration": 232,
+    "started": 1724106507,
+    "type": "track",
+    "track_id": 3030510,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.24 - No.4 in B flat minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.24 - No.4 in B flat minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.24 - No.4 in B flat minor [F. Chopin]",
+    "length": 274,
+    "duration": 274,
+    "started": 1724106741,
+    "type": "track",
+    "track_id": 1040398,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Ballade No.3 in A Flat Major, Op.47 [F. Chopin]",
+    "display_title": "Ballade No.3 in A Flat Major, Op.47 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Ballade No.3 in A Flat Major, Op.47 [F. Chopin]",
+    "length": 453,
+    "duration": 453,
+    "started": 1724107015,
+    "type": "track",
+    "track_id": 1049509,
+    "release": "Favourite Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.30 - No.3 in D flat major [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.30 - No.3 in D flat major [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.30 - No.3 in D flat major [F. Chopin]",
+    "length": 159,
+    "duration": 159,
+    "started": 1724107638,
+    "type": "track",
+    "track_id": 1040401,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "Polonaise in G flat major, Op. Posth. [F. Chopin]",
+    "display_title": "Polonaise in G flat major, Op. Posth. [F. Chopin]",
+    "track": "Anatol Ugorski - Polonaise in G flat major, Op. Posth. [F. Chopin]",
+    "length": 494,
+    "duration": 494,
+    "started": 1724108351,
+    "type": "track",
+    "track_id": 1040474,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rafael Orozco",
+    "display_artist": "Rafael Orozco",
+    "title": "Piano Sonata No.2 in B flat minor, Op.35 - 3. Marche funebre (Lento) [F. Chopin]",
+    "display_title": "Piano Sonata No.2 in B flat minor, Op.35 - 3. Marche funebre (Lento) [F. Chopin]",
+    "track": "Rafael Orozco - Piano Sonata No.2 in B flat minor, Op.35 - 3. Marche funebre (Lento) [F. Chopin]",
+    "length": 559,
+    "duration": 559,
+    "started": 1724108846,
+    "type": "track",
+    "track_id": 1040510,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Mikhail Pletnev",
+    "display_artist": "Mikhail Pletnev",
+    "title": "Rondo in E flat major, Op.16 [F. Chopin]",
+    "display_title": "Rondo in E flat major, Op.16 [F. Chopin]",
+    "track": "Mikhail Pletnev - Rondo in E flat major, Op.16 [F. Chopin]",
+    "length": 605,
+    "duration": 605,
+    "started": 1724109684,
+    "type": "track",
+    "track_id": 1040583,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Ballade No.1 in G minor, Op.23 [F. Chopin]",
+    "display_title": "Ballade No.1 in G minor, Op.23 [F. Chopin]",
+    "track": "Adam Harasiewicz - Ballade No.1 in G minor, Op.23 [F. Chopin]",
+    "length": 495,
+    "duration": 495,
+    "started": 1724110290,
+    "type": "track",
+    "track_id": 1004457,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/f/f/1/8/91ff18fb0f69e10ee509546ff74cd993.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/f/f/1/8/91ff18fb0f69e10ee509546ff74cd993.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "display_artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "title": "Fantasy on Polish Airs in A major, Op.13 [F. Chopin]",
+    "display_title": "Fantasy on Polish Airs in A major, Op.13 [F. Chopin]",
+    "track": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal - Fantasy on Polish Airs in A major, Op.13 [F. Chopin]",
+    "length": 860,
+    "duration": 860,
+    "started": 1724110785,
+    "type": "track",
+    "track_id": 1040561,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "Polonaise - Fantaisie in A flat major, Op.61 [F. Chopin]",
+    "display_title": "Polonaise - Fantaisie in A flat major, Op.61 [F. Chopin]",
+    "track": "Maurizio Pollini - Polonaise - Fantaisie in A flat major, Op.61 [F. Chopin]",
+    "length": 794,
+    "duration": 794,
+    "started": 1724111636,
+    "type": "track",
+    "track_id": 1040468,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Mstislav Rostropovich, Martha Argerich",
+    "display_artist": "Mstislav Rostropovich, Martha Argerich",
+    "title": "Introduction and Polonaise brillante in C major for Cello and Piano, Op.3 [F. Chopin]",
+    "display_title": "Introduction and Polonaise brillante in C major for Cello and Piano, Op.3 [F. Chopin]",
+    "track": "Mstislav Rostropovich, Martha Argerich - Introduction and Polonaise brillante in C major for Cello and Piano, Op.3 [F. Chopin]",
+    "length": 497,
+    "duration": 497,
+    "started": 1724119521,
+    "type": "track",
+    "track_id": 1039130,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Waltzes, Op.34 - No.2 in A minor [F. Chopin]",
+    "display_title": "3 Waltzes, Op.34 - No.2 in A minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Waltzes, Op.34 - No.2 in A minor [F. Chopin]",
+    "length": 273,
+    "duration": 273,
+    "started": 1724120184,
+    "type": "track",
+    "track_id": 1040594,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zoltán Kocsis",
+    "display_artist": "Zoltán Kocsis",
+    "title": "Waltz No.15 in E major, Op. Posth. [F. Chopin]",
+    "display_title": "Waltz No.15 in E major, Op. Posth. [F. Chopin]",
+    "track": "Zoltán Kocsis - Waltz No.15 in E major, Op. Posth. [F. Chopin]",
+    "length": 121,
+    "duration": 121,
+    "started": 1724120458,
+    "type": "track",
+    "track_id": 2221093,
+    "release": "Ultimate Chopin CD5",
+    "art_url": "//cdn-images.audioaddict.com/1/8/b/3/2/0/18b320c81eebd76482ab2a9b28b40e91.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/b/3/2/0/18b320c81eebd76482ab2a9b28b40e91.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 4 in C-Sharp Minor (Presto) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 4 in C-Sharp Minor (Presto) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 4 in C-Sharp Minor (Presto) [F. Chopin]",
+    "length": 120,
+    "duration": 120,
+    "started": 1724122200,
+    "type": "track",
+    "track_id": 3030511,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zoltán Kocsis",
+    "display_artist": "Zoltán Kocsis",
+    "title": "Waltz No.7 in C Sharp Minor, Op.64 No.2 [F. Chopin]",
+    "display_title": "Waltz No.7 in C Sharp Minor, Op.64 No.2 [F. Chopin]",
+    "track": "Zoltán Kocsis - Waltz No.7 in C Sharp Minor, Op.64 No.2 [F. Chopin]",
+    "length": 188,
+    "duration": 188,
+    "started": 1724124404,
+    "type": "track",
+    "track_id": 1040608,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yulianna Avdeeva",
+    "display_artist": "Yulianna Avdeeva",
+    "title": "Barcarolle, Op. 60 [F. Chopin]",
+    "display_title": "Barcarolle, Op. 60 [F. Chopin]",
+    "track": "Yulianna Avdeeva - Barcarolle, Op. 60 [F. Chopin]",
+    "length": 491,
+    "duration": 491,
+    "started": 1724124592,
+    "type": "track",
+    "track_id": 3099119,
+    "release": "Chopin Voyage",
+    "art_url": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Camille Thomas, Julien Brocal",
+    "display_artist": "Camille Thomas, Julien Brocal",
+    "title": "Introduction and Polonaise, Op. 3 [F. Chopin]",
+    "display_title": "Introduction and Polonaise, Op. 3 [F. Chopin]",
+    "track": "Camille Thomas, Julien Brocal - Introduction and Polonaise, Op. 3 [F. Chopin]",
+    "length": 561,
+    "duration": 561,
+    "started": 1724126548,
+    "type": "track",
+    "track_id": 3070933,
+    "release": "The Chopin Project : Complete Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/8/d/d/4/2/1/8dd421f4af5c895108d0a9b1ffc55edf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/d/4/2/1/8dd421f4af5c895108d0a9b1ffc55edf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.14 in F sharp minor, Op.48 No.2 [F. Chopin]",
+    "display_title": "Nocturne No.14 in F sharp minor, Op.48 No.2 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.14 in F sharp minor, Op.48 No.2 [F. Chopin]",
+    "length": 438,
+    "duration": 438,
+    "started": 1724127924,
+    "type": "track",
+    "track_id": 2908886,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.7 in C sharp minor, Op.27 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.7 in C sharp minor, Op.27 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.7 in C sharp minor, Op.27 No.1 [F. Chopin]",
+    "length": 311,
+    "duration": 311,
+    "started": 1724128362,
+    "type": "track",
+    "track_id": 2908898,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2 [F. Chopin]",
+    "display_title": "Nocturne No. 8 in D-Flat Major, Op. 27 No. 2 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No. 8 in D-Flat Major, Op. 27 No. 2 [F. Chopin]",
+    "length": 397,
+    "duration": 397,
+    "started": 1724128673,
+    "type": "track",
+    "track_id": 2908880,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "2 Polonaises, Op.40 - No.1 in A major [F. Chopin]",
+    "display_title": "2 Polonaises, Op.40 - No.1 in A major [F. Chopin]",
+    "track": "Maurizio Pollini - 2 Polonaises, Op.40 - No.1 in A major [F. Chopin]",
+    "length": 327,
+    "duration": 327,
+    "started": 1724129456,
+    "type": "track",
+    "track_id": 1040463,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "display_artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "title": "Variations in B flat, Op.2 on 'La ci darem la mano' [F. Chopin]",
+    "display_title": "Variations in B flat, Op.2 on 'La ci darem la mano' [F. Chopin]",
+    "track": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal - Variations in B flat, Op.2 on 'La ci darem la mano' [F. Chopin]",
+    "length": 1166,
+    "duration": 1166,
+    "started": 1724130028,
+    "type": "track",
+    "track_id": 1040589,
+    "release": "Complete Works for Piano and Orchestra CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Stephen Kovacevich",
+    "display_artist": "Stephen Kovacevich",
+    "title": "Polonaise No.7 in A flat, Op.61 Polonaise - Fantaisie [F. Chopin]",
+    "display_title": "Polonaise No.7 in A flat, Op.61 Polonaise - Fantaisie [F. Chopin]",
+    "track": "Stephen Kovacevich - Polonaise No.7 in A flat, Op.61 Polonaise - Fantaisie [F. Chopin]",
+    "length": 827,
+    "duration": 827,
+    "started": 1724131195,
+    "type": "track",
+    "track_id": 1040478,
+    "release": "The Best of Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "3 Nouvelles études, B.130: No. 1 in F Minor (Andantino) [F. Chopin]",
+    "display_title": "3 Nouvelles études, B.130: No. 1 in F Minor (Andantino) [F. Chopin]",
+    "track": "Zlata Chochieva - 3 Nouvelles études, B.130: No. 1 in F Minor (Andantino) [F. Chopin]",
+    "length": 120,
+    "duration": 120,
+    "started": 1724132021,
+    "type": "track",
+    "track_id": 3030532,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "2 Waltzes, Op. Posth. 69 - No.1 in A flat major 'Farewell' [F. Chopin]",
+    "display_title": "2 Waltzes, Op. Posth. 69 - No.1 in A flat major 'Farewell' [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 2 Waltzes, Op. Posth. 69 - No.1 in A flat major 'Farewell' [F. Chopin]",
+    "length": 238,
+    "duration": 238,
+    "started": 1724133480,
+    "type": "track",
+    "track_id": 1017389,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Waltzes, Op.64 - No.2 in C sharp minor [F. Chopin]",
+    "display_title": "3 Waltzes, Op.64 - No.2 in C sharp minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Waltzes, Op.64 - No.2 in C sharp minor [F. Chopin]",
+    "length": 206,
+    "duration": 206,
+    "started": 1724133910,
+    "type": "track",
+    "track_id": 1040597,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Tarantella in A flat major, Op.43 [F. Chopin]",
+    "display_title": "Tarantella in A flat major, Op.43 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Tarantella in A flat major, Op.43 [F. Chopin]",
+    "length": 184,
+    "duration": 184,
+    "started": 1724134117,
+    "type": "track",
+    "track_id": 1040585,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Bella Davidovich",
+    "display_artist": "Bella Davidovich",
+    "title": "Impromptu No.4 in C sharp minor, Op.66 'Fantaisie - Impromptu' [F. Chopin]",
+    "display_title": "Impromptu No.4 in C sharp minor, Op.66 'Fantaisie - Impromptu' [F. Chopin]",
+    "track": "Bella Davidovich - Impromptu No.4 in C sharp minor, Op.66 'Fantaisie - Impromptu' [F. Chopin]",
+    "length": 301,
+    "duration": 301,
+    "started": 1724134509,
+    "type": "track",
+    "track_id": 1040569,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rafael Orozco",
+    "display_artist": "Rafael Orozco",
+    "title": "Berceuse in D flat, Op.57 [F. Chopin]",
+    "display_title": "Berceuse in D flat, Op.57 [F. Chopin]",
+    "track": "Rafael Orozco - Berceuse in D flat, Op.57 [F. Chopin]",
+    "length": 285,
+    "duration": 285,
+    "started": 1724135655,
+    "type": "track",
+    "track_id": 1040557,
+    "release": "The Best of Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/e/c/9/e/60ec9e0409006cd2eebcd69602645954.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.8 in A flat, Op.64 No.3 [F. Chopin]",
+    "display_title": "Waltz No.8 in A flat, Op.64 No.3 [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.8 in A flat, Op.64 No.3 [F. Chopin]",
+    "length": 194,
+    "duration": 194,
+    "started": 1724138788,
+    "type": "track",
+    "track_id": 2221087,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "Polonaise in A flat major, Op. Posth. [F. Chopin]",
+    "display_title": "Polonaise in A flat major, Op. Posth. [F. Chopin]",
+    "track": "Anatol Ugorski - Polonaise in A flat major, Op. Posth. [F. Chopin]",
+    "length": 237,
+    "duration": 237,
+    "started": 1724138981,
+    "type": "track",
+    "track_id": 1040469,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "Polonaise in A flat major, Op.53 'Heroic' [F. Chopin]",
+    "display_title": "Polonaise in A flat major, Op.53 'Heroic' [F. Chopin]",
+    "track": "Maurizio Pollini - Polonaise in A flat major, Op.53 'Heroic' [F. Chopin]",
+    "length": 427,
+    "duration": 427,
+    "started": 1724144477,
+    "type": "track",
+    "track_id": 1040470,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Polonaise in A Major, Op.40, No.1 [F. Chopin]",
+    "display_title": "Polonaise in A Major, Op.40, No.1 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Polonaise in A Major, Op.40, No.1 [F. Chopin]",
+    "length": 313,
+    "duration": 313,
+    "started": 1724149535,
+    "type": "track",
+    "track_id": 1049524,
+    "release": "Favourite Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "Polonaise in G sharp minor, Op. Posth. [F. Chopin]",
+    "display_title": "Polonaise in G sharp minor, Op. Posth. [F. Chopin]",
+    "track": "Anatol Ugorski - Polonaise in G sharp minor, Op. Posth. [F. Chopin]",
+    "length": 426,
+    "duration": 426,
+    "started": 1724149937,
+    "type": "track",
+    "track_id": 1040476,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.11 in G minor, Op.37 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.11 in G minor, Op.37 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.11 in G minor, Op.37 No.1 [F. Chopin]",
+    "length": 347,
+    "duration": 347,
+    "started": 1724152342,
+    "type": "track",
+    "track_id": 2908883,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.15 in F minor, Op.55 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.15 in F minor, Op.55 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.15 in F minor, Op.55 No.1 [F. Chopin]",
+    "length": 280,
+    "duration": 280,
+    "started": 1724152687,
+    "type": "track",
+    "track_id": 2908887,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "Polonaise in F sharp minor, Op.44 [F. Chopin]",
+    "display_title": "Polonaise in F sharp minor, Op.44 [F. Chopin]",
+    "track": "Maurizio Pollini - Polonaise in F sharp minor, Op.44 [F. Chopin]",
+    "length": 656,
+    "duration": 656,
+    "started": 1724152967,
+    "type": "track",
+    "track_id": 1040473,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "display_artist": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal",
+    "title": "Impromptus No.1 in A flat, Op.29 [F. Chopin]",
+    "display_title": "Impromptus No.1 in A flat, Op.29 [F. Chopin]",
+    "track": "Claudio Arrau, London Philharmonic Orchestra, Eliahu Inbal - Impromptus No.1 in A flat, Op.29 [F. Chopin]",
+    "length": 288,
+    "duration": 288,
+    "started": 1724153622,
+    "type": "track",
+    "track_id": 1040570,
+    "release": "Complete Works for Piano and Orchestra CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/8/2/5/0/7882501f929819c1c65b19c0387d299c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.9 in B, Op.32 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.9 in B, Op.32 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.9 in B, Op.32 No.1 [F. Chopin]",
+    "length": 294,
+    "duration": 294,
+    "started": 1724155196,
+    "type": "track",
+    "track_id": 2908899,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Fantaisie - Impromptu in C Sharp Minor, Op.66 [F. Chopin]",
+    "display_title": "Fantaisie - Impromptu in C Sharp Minor, Op.66 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Fantaisie - Impromptu in C Sharp Minor, Op.66 [F. Chopin]",
+    "length": 291,
+    "duration": 291,
+    "started": 1724162659,
+    "type": "track",
+    "track_id": 1049515,
+    "release": "Favourite Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Waltzes, Op.34 - No.1 in A flat major 'Valse brillante' [F. Chopin]",
+    "display_title": "3 Waltzes, Op.34 - No.1 in A flat major 'Valse brillante' [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Waltzes, Op.34 - No.1 in A flat major 'Valse brillante' [F. Chopin]",
+    "length": 301,
+    "duration": 301,
+    "started": 1724162950,
+    "type": "track",
+    "track_id": 1040593,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Barcarolle in F Sharp Major, Op.60 [F. Chopin]",
+    "display_title": "Barcarolle in F Sharp Major, Op.60 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Barcarolle in F Sharp Major, Op.60 [F. Chopin]",
+    "length": 528,
+    "duration": 528,
+    "started": 1724163251,
+    "type": "track",
+    "track_id": 1049510,
+    "release": "Favourite Chopin CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.33 - No.4 in B minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.33 - No.4 in B minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.33 - No.4 in B minor [F. Chopin]",
+    "length": 276,
+    "duration": 276,
+    "started": 1724163781,
+    "type": "track",
+    "track_id": 1040406,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Rotterdam Philharmonic Orchestra, David Zinman",
+    "display_artist": "Rotterdam Philharmonic Orchestra, David Zinman",
+    "title": "Les Sylphides [F. Chopin]",
+    "display_title": "Les Sylphides [F. Chopin]",
+    "track": "Rotterdam Philharmonic Orchestra, David Zinman - Les Sylphides [F. Chopin]",
+    "length": 1652,
+    "duration": 1652,
+    "started": 1724164166,
+    "type": "track",
+    "track_id": 1040576,
+    "release": "Ballet Music CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/b/6/e/7/0/ab6e70eb17041e83e4d331df3e255545.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/6/e/7/0/ab6e70eb17041e83e4d331df3e255545.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "2 Polonaises, Op.26 - No.2 in E flat minor [F. Chopin]",
+    "display_title": "2 Polonaises, Op.26 - No.2 in E flat minor [F. Chopin]",
+    "track": "Maurizio Pollini - 2 Polonaises, Op.26 - No.2 in E flat minor [F. Chopin]",
+    "length": 517,
+    "duration": 517,
+    "started": 1724166718,
+    "type": "track",
+    "track_id": 1040462,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 11 in E-Flat Major (Allegretto) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 11 in E-Flat Major (Allegretto) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 11 in E-Flat Major (Allegretto) [F. Chopin]",
+    "length": 141,
+    "duration": 141,
+    "started": 1724168710,
+    "type": "track",
+    "track_id": 3030518,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Polonaise in A Flat Major, Op.53 [F. Chopin]",
+    "display_title": "Polonaise in A Flat Major, Op.53 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Polonaise in A Flat Major, Op.53 [F. Chopin]",
+    "length": 391,
+    "duration": 391,
+    "started": 1724176365,
+    "type": "track",
+    "track_id": 1049523,
+    "release": "Favourite Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Scherzo No.2 in B Flat Minor, Op.31 [F. Chopin]",
+    "display_title": "Scherzo No.2 in B Flat Minor, Op.31 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Scherzo No.2 in B Flat Minor, Op.31 [F. Chopin]",
+    "length": 575,
+    "duration": 575,
+    "started": 1724176752,
+    "type": "track",
+    "track_id": 1049525,
+    "release": "Favourite Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 6 in G-Sharp Minor (Allegro) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 6 in G-Sharp Minor (Allegro) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 6 in G-Sharp Minor (Allegro) [F. Chopin]",
+    "length": 118,
+    "duration": 118,
+    "started": 1724177328,
+    "type": "track",
+    "track_id": 3030525,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maurizio Pollini",
+    "display_artist": "Maurizio Pollini",
+    "title": "Piano Sonata No.3 in B minor, Op.58 [F. Chopin]",
+    "display_title": "Piano Sonata No.3 in B minor, Op.58 [F. Chopin]",
+    "track": "Maurizio Pollini - Piano Sonata No.3 in B minor, Op.58 [F. Chopin]",
+    "length": 1706,
+    "duration": 1706,
+    "started": 1724184572,
+    "type": "track",
+    "track_id": 1040512,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/9/8/e/c/6898ecbfb9bde4f8c19d92f6d560cbb4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Grande Valse brillante in E flat major, Op.18 [F. Chopin]",
+    "display_title": "Grande Valse brillante in E flat major, Op.18 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Grande Valse brillante in E flat major, Op.18 [F. Chopin]",
+    "length": 291,
+    "duration": 291,
+    "started": 1724188952,
+    "type": "track",
+    "track_id": 1040566,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.6 - No.2 in C sharp minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.6 - No.2 in C sharp minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.6 - No.2 in C sharp minor [F. Chopin]",
+    "length": 150,
+    "duration": 150,
+    "started": 1724189400,
+    "type": "track",
+    "track_id": 1040413,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.17 - No.4 in A minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.17 - No.4 in A minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.17 - No.4 in A minor [F. Chopin]",
+    "length": 255,
+    "duration": 255,
+    "started": 1724189551,
+    "type": "track",
+    "track_id": 1040394,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.5 in F sharp, Op.15 No.2 [F. Chopin]",
+    "display_title": "Nocturne No.5 in F sharp, Op.15 No.2 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.5 in F sharp, Op.15 No.2 [F. Chopin]",
+    "length": 207,
+    "duration": 207,
+    "started": 1724195238,
+    "type": "track",
+    "track_id": 2908896,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Anatol Ugorski",
+    "display_artist": "Anatol Ugorski",
+    "title": "Polonaise in G minor, Op. Posth. [F. Chopin]",
+    "display_title": "Polonaise in G minor, Op. Posth. [F. Chopin]",
+    "track": "Anatol Ugorski - Polonaise in G minor, Op. Posth. [F. Chopin]",
+    "length": 210,
+    "duration": 210,
+    "started": 1724201820,
+    "type": "track",
+    "track_id": 1040475,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/e/1/e/e/fde1eed6fcbd3ae36aca365094bd11b1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "24 Preludes, Op.28 - 15. in D flat major 'Raindrop' [F. Chopin]",
+    "display_title": "24 Preludes, Op.28 - 15. in D flat major 'Raindrop' [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 24 Preludes, Op.28 - 15. in D flat major 'Raindrop' [F. Chopin]",
+    "length": 319,
+    "duration": 319,
+    "started": 1724202547,
+    "type": "track",
+    "track_id": 1049508,
+    "release": "Favourite Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Mazurka in A minor (a Emile Gaillard, 1840) [F. Chopin]",
+    "display_title": "Mazurka in A minor (a Emile Gaillard, 1840) [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Mazurka in A minor (a Emile Gaillard, 1840) [F. Chopin]",
+    "length": 188,
+    "duration": 188,
+    "started": 1724202868,
+    "type": "track",
+    "track_id": 1040422,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.17 - No.3 in A flat major [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.17 - No.3 in A flat major [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.17 - No.3 in A flat major [F. Chopin]",
+    "length": 246,
+    "duration": 246,
+    "started": 1724217618,
+    "type": "track",
+    "track_id": 1040393,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Berceuse in D Flat Major, Op.57 [F. Chopin]",
+    "display_title": "Berceuse in D Flat Major, Op.57 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Berceuse in D Flat Major, Op.57 [F. Chopin]",
+    "length": 301,
+    "duration": 301,
+    "started": 1724217865,
+    "type": "track",
+    "track_id": 1049511,
+    "release": "Favourite Chopin CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/7/7/1/3c97715c264ec7d055ed519bd739a348.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Mazurkas, Op.56 - No.1 in B major [F. Chopin]",
+    "display_title": "3 Mazurkas, Op.56 - No.1 in B major [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Mazurkas, Op.56 - No.1 in B major [F. Chopin]",
+    "length": 237,
+    "duration": 237,
+    "started": 1724218166,
+    "type": "track",
+    "track_id": 1040374,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 1 in C Major (Allegro) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 1 in C Major (Allegro) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 1 in C Major (Allegro) [F. Chopin]",
+    "length": 125,
+    "duration": 125,
+    "started": 1724228711,
+    "type": "track",
+    "track_id": 3030508,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Mazurkas, Op.59 - No.3 in F sharp minor [F. Chopin]",
+    "display_title": "3 Mazurkas, Op.59 - No.3 in F sharp minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Mazurkas, Op.59 - No.3 in F sharp minor [F. Chopin]",
+    "length": 196,
+    "duration": 196,
+    "started": 1724232940,
+    "type": "track",
+    "track_id": 1040379,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Waltz in E flat major, Op. Posth. [F. Chopin]",
+    "display_title": "Waltz in E flat major, Op. Posth. [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Waltz in E flat major, Op. Posth. [F. Chopin]",
+    "length": 183,
+    "duration": 183,
+    "started": 1724233528,
+    "type": "track",
+    "track_id": 1040602,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Mazurkas, Op.59 - No.2 in A flat major [F. Chopin]",
+    "display_title": "3 Mazurkas, Op.59 - No.2 in A flat major [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Mazurkas, Op.59 - No.2 in A flat major [F. Chopin]",
+    "length": 152,
+    "duration": 152,
+    "started": 1724248084,
+    "type": "track",
+    "track_id": 1040378,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Yulianna Avdeeva",
+    "display_artist": "Yulianna Avdeeva",
+    "title": "Sonata No. 3 in B Minor, Op. 58 [F. Chopin]",
+    "display_title": "Sonata No. 3 in B Minor, Op. 58 [F. Chopin]",
+    "track": "Yulianna Avdeeva - Sonata No. 3 in B Minor, Op. 58 [F. Chopin]",
+    "length": 1676,
+    "duration": 1676,
+    "started": 1724248661,
+    "type": "track",
+    "track_id": 3099121,
+    "release": "Chopin Voyage",
+    "art_url": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/e/1/2/7/b7e127fe60ae2c3a336044728ea912ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 5 in E Minor (Vivace) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 5 in E Minor (Vivace) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 5 in E Minor (Vivace) [F. Chopin]",
+    "length": 196,
+    "duration": 196,
+    "started": 1724250338,
+    "type": "track",
+    "track_id": 3030524,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.13 In C Minor, Op.48 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.13 In C Minor, Op.48 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.13 In C Minor, Op.48 No.1 [F. Chopin]",
+    "length": 405,
+    "duration": 405,
+    "started": 1724253206,
+    "type": "track",
+    "track_id": 2908885,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No.1 in B flat minor, Op.9 No.1 [F. Chopin]",
+    "display_title": "Nocturne No.1 in B flat minor, Op.9 No.1 [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No.1 in B flat minor, Op.9 No.1 [F. Chopin]",
+    "length": 336,
+    "duration": 336,
+    "started": 1724254114,
+    "type": "track",
+    "track_id": 2908881,
+    "release": "Chopin: Nocturnes CD1",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 12 in C Minor 'Ocean' (Molto allego con fuoco) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 12 in C Minor 'Ocean' (Molto allego con fuoco) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 12 in C Minor 'Ocean' (Molto allego con fuoco) [F. Chopin]",
+    "length": 154,
+    "duration": 154,
+    "started": 1724256648,
+    "type": "track",
+    "track_id": 3030531,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Allegro de concert in A major, Op.46 [F. Chopin]",
+    "display_title": "Allegro de concert in A major, Op.46 [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Allegro de concert in A major, Op.46 [F. Chopin]",
+    "length": 701,
+    "duration": 701,
+    "started": 1724261330,
+    "type": "track",
+    "track_id": 1040550,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Mazurka in F minor, Op. Posth. 68 No.4 (revised version) [F. Chopin]",
+    "display_title": "Mazurka in F minor, Op. Posth. 68 No.4 (revised version) [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Mazurka in F minor, Op. Posth. 68 No.4 (revised version) [F. Chopin]",
+    "length": 209,
+    "duration": 209,
+    "started": 1724262477,
+    "type": "track",
+    "track_id": 1040429,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 3 in F Major (Allegro) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 3 in F Major (Allegro) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 3 in F Major (Allegro) [F. Chopin]",
+    "length": 120,
+    "duration": 120,
+    "started": 1724268260,
+    "type": "track",
+    "track_id": 3030522,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Introduction and Variations in E major on a German national Air 'Der Schweizerbub', Op. Posth. [F. Chopin]",
+    "display_title": "Introduction and Variations in E major on a German national Air 'Der Schweizerbub', Op. Posth. [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Introduction and Variations in E major on a German national Air 'Der Schweizerbub', Op. Posth. [F. Chopin]",
+    "length": 460,
+    "duration": 460,
+    "started": 1724275888,
+    "type": "track",
+    "track_id": 1040573,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 1 in A-Flat Major 'Aeolian Harp' (Allegro sostenuto) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 1 in A-Flat Major 'Aeolian Harp' (Allegro sostenuto) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 1 in A-Flat Major 'Aeolian Harp' (Allegro sostenuto) [F. Chopin]",
+    "length": 159,
+    "duration": 159,
+    "started": 1724291870,
+    "type": "track",
+    "track_id": 3030520,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 7 in C Major (Vivace) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 7 in C Major (Vivace) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 7 in C Major (Vivace) [F. Chopin]",
+    "length": 93,
+    "duration": 93,
+    "started": 1724311045,
+    "type": "track",
+    "track_id": 3030514,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 8 in F Major (Allegro) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 8 in F Major (Allegro) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 8 in F Major (Allegro) [F. Chopin]",
+    "length": 149,
+    "duration": 149,
+    "started": 1724345786,
+    "type": "track",
+    "track_id": 3030515,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.41 - No.1 in C sharp minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.41 - No.1 in C sharp minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.41 - No.1 in C sharp minor [F. Chopin]",
+    "length": 212,
+    "duration": 212,
+    "started": 1724349740,
+    "type": "track",
+    "track_id": 1040407,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.14 in E minor, Op. Posth. [F. Chopin]",
+    "display_title": "Waltz No.14 in E minor, Op. Posth. [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.14 in E minor, Op. Posth. [F. Chopin]",
+    "length": 193,
+    "duration": 193,
+    "started": 1724354592,
+    "type": "track",
+    "track_id": 2221080,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.6 in D flat, Op.64 No.1 - 'Minute' [F. Chopin]",
+    "display_title": "Waltz No.6 in D flat, Op.64 No.1 - 'Minute' [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.6 in D flat, Op.64 No.1 - 'Minute' [F. Chopin]",
+    "length": 109,
+    "duration": 109,
+    "started": 1724374061,
+    "type": "track",
+    "track_id": 2221085,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 8 in D-Flat Major (Vivace) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 8 in D-Flat Major (Vivace) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 8 in D-Flat Major (Vivace) [F. Chopin]",
+    "length": 75,
+    "duration": 75,
+    "started": 1724397819,
+    "type": "track",
+    "track_id": 3030527,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Mazurkas, Op.50 - No.3 in C sharp minor [F. Chopin]",
+    "display_title": "3 Mazurkas, Op.50 - No.3 in C sharp minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Mazurkas, Op.50 - No.3 in C sharp minor [F. Chopin]",
+    "length": 300,
+    "duration": 300,
+    "started": 1724403512,
+    "type": "track",
+    "track_id": 1040373,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Maria João Pires",
+    "display_artist": "Maria João Pires",
+    "title": "Nocturne No. 20 in C-Sharp Minor, Op. posth. [F. Chopin]",
+    "display_title": "Nocturne No. 20 in C-Sharp Minor, Op. posth. [F. Chopin]",
+    "track": "Maria João Pires - Nocturne No. 20 in C-Sharp Minor, Op. posth. [F. Chopin]",
+    "length": 242,
+    "duration": 242,
+    "started": 1724410468,
+    "type": "track",
+    "track_id": 2908879,
+    "release": "The Nocturnes (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/7/4/e/e/ad74ee8f1b2ec8a900a673013426de46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Adam Harasiewicz",
+    "display_artist": "Adam Harasiewicz",
+    "title": "Waltz No.11 in G flat, Op.70 No.1 [F. Chopin]",
+    "display_title": "Waltz No.11 in G flat, Op.70 No.1 [F. Chopin]",
+    "track": "Adam Harasiewicz - Waltz No.11 in G flat, Op.70 No.1 [F. Chopin]",
+    "length": 123,
+    "duration": 123,
+    "started": 1724415391,
+    "type": "track",
+    "track_id": 2221077,
+    "release": "Chopin - Complete Polonaises, 16 Waltzes CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/a/c/2/3/afac239332ff92f9c13cc679f0612cdf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Polonaise No.3 in A, Op.40 No.1 - 'Military' [F. Chopin]",
+    "display_title": "Polonaise No.3 in A, Op.40 No.1 - 'Military' [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Polonaise No.3 in A, Op.40 No.1 - 'Military' [F. Chopin]",
+    "length": 310,
+    "duration": 310,
+    "started": 1724432744,
+    "type": "track",
+    "track_id": 1046485,
+    "release": "Ultimate Classical Piano CD1",
+    "art_url": "//cdn-images.audioaddict.com/e/2/c/4/1/2/e2c41230e02a5e89056a92f844ce44a7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/c/4/1/2/e2c41230e02a5e89056a92f844ce44a7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Waltz in E minor, Op. Posth. [F. Chopin]",
+    "display_title": "Waltz in E minor, Op. Posth. [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Waltz in E minor, Op. Posth. [F. Chopin]",
+    "length": 157,
+    "duration": 157,
+    "started": 1724476789,
+    "type": "track",
+    "track_id": 1040605,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "3 Mazurkas, Op.50 - No.2 in A flat major [F. Chopin]",
+    "display_title": "3 Mazurkas, Op.50 - No.2 in A flat major [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 3 Mazurkas, Op.50 - No.2 in A flat major [F. Chopin]",
+    "length": 173,
+    "duration": 173,
+    "started": 1724518166,
+    "type": "track",
+    "track_id": 1040372,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "5 Mazurkas, Op.7 - No.2 in A minor [F. Chopin]",
+    "display_title": "5 Mazurkas, Op.7 - No.2 in A minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 5 Mazurkas, Op.7 - No.2 in A minor [F. Chopin]",
+    "length": 196,
+    "duration": 196,
+    "started": 1724601825,
+    "type": "track",
+    "track_id": 1040417,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 10: No. 9 in F Minor (Allegro molto agitato) [F. Chopin]",
+    "display_title": "Etudes, Op. 10: No. 9 in F Minor (Allegro molto agitato) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 10: No. 9 in F Minor (Allegro molto agitato) [F. Chopin]",
+    "length": 119,
+    "duration": 119,
+    "started": 1724624447,
+    "type": "track",
+    "track_id": 3030516,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "3 Nouvelles études, B.130: No. 3 in D-Flat Major (Allegretto) [F. Chopin]",
+    "display_title": "3 Nouvelles études, B.130: No. 3 in D-Flat Major (Allegretto) [F. Chopin]",
+    "track": "Zlata Chochieva - 3 Nouvelles études, B.130: No. 3 in D-Flat Major (Allegretto) [F. Chopin]",
+    "length": 99,
+    "duration": 99,
+    "started": 1724647635,
+    "type": "track",
+    "track_id": 3030534,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op.24 - No.1 in G minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op.24 - No.1 in G minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op.24 - No.1 in G minor [F. Chopin]",
+    "length": 170,
+    "duration": 170,
+    "started": 1724678253,
+    "type": "track",
+    "track_id": 1040395,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Zlata Chochieva",
+    "display_artist": "Zlata Chochieva",
+    "title": "Etudes, Op. 25: No. 2 in F Minor (Presto) [F. Chopin]",
+    "display_title": "Etudes, Op. 25: No. 2 in F Minor (Presto) [F. Chopin]",
+    "track": "Zlata Chochieva - Etudes, Op. 25: No. 2 in F Minor (Presto) [F. Chopin]",
+    "length": 90,
+    "duration": 90,
+    "started": 1724695201,
+    "type": "track",
+    "track_id": 3030521,
+    "release": "Chopin : Etudes (Intégrale)",
+    "art_url": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/c/8/e/c/b0c8ec08dcc1cdf258448ad12e38833a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "Waltz in A flat major, Op.42 'Grande valse' [F. Chopin]",
+    "display_title": "Waltz in A flat major, Op.42 'Grande valse' [F. Chopin]",
+    "track": "Vladimir Ashkenazy - Waltz in A flat major, Op.42 'Grande valse' [F. Chopin]",
+    "length": 204,
+    "duration": 204,
+    "started": 1724720326,
+    "type": "track",
+    "track_id": 1040600,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/1/2/0/3/e412034ea2385722ff30dbaec88cf196.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 369,
+    "artist": "Vladimir Ashkenazy",
+    "display_artist": "Vladimir Ashkenazy",
+    "title": "4 Mazurkas, Op. Posth. 68 - No.2 in A minor [F. Chopin]",
+    "display_title": "4 Mazurkas, Op. Posth. 68 - No.2 in A minor [F. Chopin]",
+    "track": "Vladimir Ashkenazy - 4 Mazurkas, Op. Posth. 68 - No.2 in A minor [F. Chopin]",
+    "length": 191,
+    "duration": 191,
+    "started": 1724861887,
+    "type": "track",
+    "track_id": 1040388,
+    "release": "Chopin - Complete Edition",
+    "art_url": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/8/2/0/6/e982063f85c20bc1c5c4095c2791e4fc.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

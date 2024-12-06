@@ -1,0 +1,2415 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.38 In D, K504, 'Prague' [W.A. Mozart]",
+    "display_title": "Symphony No.38 In D, K504, 'Prague' [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.38 In D, K504, 'Prague' [W.A. Mozart]",
+    "length": 2012,
+    "duration": 2012,
+    "started": 1724036297,
+    "type": "track",
+    "track_id": 975159,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 10]",
+    "art_url": "//cdn-images.audioaddict.com/c/9/0/3/f/0/c903f086f8a1027cdb135518d181770e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/0/3/f/0/c903f086f8a1027cdb135518d181770e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "The Hanover Band, Roy Goodman",
+    "display_artist": "The Hanover Band, Roy Goodman",
+    "title": "Symphony No.4 in C minor, D417, 'Tragic' [F. Schubert]",
+    "display_title": "Symphony No.4 in C minor, D417, 'Tragic' [F. Schubert]",
+    "track": "The Hanover Band, Roy Goodman - Symphony No.4 in C minor, D417, 'Tragic' [F. Schubert]",
+    "length": 1860,
+    "duration": 1860,
+    "started": 1724038307,
+    "type": "track",
+    "track_id": 1024040,
+    "release": "Masterworks Disc 3",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Academy of St Martin-in-the-Fields, Sir Neville Marriner",
+    "display_artist": "Academy of St Martin-in-the-Fields, Sir Neville Marriner",
+    "title": "Symphony No. 40 in G Minor, K550 [W.A. Mozart]",
+    "display_title": "Symphony No. 40 in G Minor, K550 [W.A. Mozart]",
+    "track": "Academy of St Martin-in-the-Fields, Sir Neville Marriner - Symphony No. 40 in G Minor, K550 [W.A. Mozart]",
+    "length": 1611,
+    "duration": 1611,
+    "started": 1724040156,
+    "type": "track",
+    "track_id": 1024217,
+    "release": "Complete Mozart Edition Volume 01 - Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/8/0/c/3/c/1/80c3c1d2af30aa78214316f7945075e3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/c/3/c/1/80c3c1d2af30aa78214316f7945075e3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Russian Philharmonic Orchestra, Dmitrey Yablonsky",
+    "display_artist": "Russian Philharmonic Orchestra, Dmitrey Yablonsky",
+    "title": "Symphony No.7 'Leningrad' [D. Shostakovich]",
+    "display_title": "Symphony No.7 'Leningrad' [D. Shostakovich]",
+    "track": "Russian Philharmonic Orchestra, Dmitrey Yablonsky - Symphony No.7 'Leningrad' [D. Shostakovich]",
+    "length": 4515,
+    "duration": 4515,
+    "started": 1724041766,
+    "type": "track",
+    "track_id": 1051475,
+    "release": "Great Russian Symphonies CD6",
+    "art_url": "//cdn-images.audioaddict.com/4/4/1/4/3/b/44143bf8aab761e98a27b1d2e60ea4f6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/1/4/3/b/44143bf8aab761e98a27b1d2e60ea4f6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Deutsche Kammerakademie Neuss, Johannes Goritzki",
+    "display_artist": "Deutsche Kammerakademie Neuss, Johannes Goritzki",
+    "title": "Symphony Op.35, No.4 in F, G512 [L. Boccherini]",
+    "display_title": "Symphony Op.35, No.4 in F, G512 [L. Boccherini]",
+    "track": "Deutsche Kammerakademie Neuss, Johannes Goritzki - Symphony Op.35, No.4 in F, G512 [L. Boccherini]",
+    "length": 792,
+    "duration": 792,
+    "started": 1724046276,
+    "type": "track",
+    "track_id": 975618,
+    "release": "Luigi Boccherini - Complete Symphonies Vol. 6",
+    "art_url": "//cdn-images.audioaddict.com/e/6/2/a/c/4/e62ac4ac9a939ccb4e1465dbc6c2caf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/2/a/c/4/e62ac4ac9a939ccb4e1465dbc6c2caf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Witold Rowicki",
+    "display_artist": "London Symphony Orchestra, Witold Rowicki",
+    "title": "Symphony No.2 In B Flat, Op.4 [A. Dvorak]",
+    "display_title": "Symphony No.2 In B Flat, Op.4 [A. Dvorak]",
+    "track": "London Symphony Orchestra, Witold Rowicki - Symphony No.2 In B Flat, Op.4 [A. Dvorak]",
+    "length": 3133,
+    "duration": 3133,
+    "started": 1724047062,
+    "type": "track",
+    "track_id": 1023961,
+    "release": "Dvorak - The Early Symphonies Volume 01 CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/3/9/e/4/6/739e46c9ac7ee91a987b940c5a39c72f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/9/e/4/6/739e46c9ac7ee91a987b940c5a39c72f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Failoni Orchestra, Michael Halasz",
+    "display_artist": "Failoni Orchestra, Michael Halasz",
+    "title": "Symphony No.9 'Great' [F. Schubert]",
+    "display_title": "Symphony No.9 'Great' [F. Schubert]",
+    "track": "Failoni Orchestra, Michael Halasz - Symphony No.9 'Great' [F. Schubert]",
+    "length": 3022,
+    "duration": 3022,
+    "started": 1724050196,
+    "type": "track",
+    "track_id": 1024046,
+    "release": "Great Romantic Symphonies CD1",
+    "art_url": "//cdn-images.audioaddict.com/0/1/d/9/d/d/01d9dd238e04970cc0936ec57be42d48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/d/9/d/d/01d9dd238e04970cc0936ec57be42d48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Roy Goodman, Hanover Band",
+    "display_artist": "Roy Goodman, Hanover Band",
+    "title": "Sinfonia (String Symphony) for string orchestra No. 13 in C minor [F. Mendelssohn]",
+    "display_title": "Sinfonia (String Symphony) for string orchestra No. 13 in C minor [F. Mendelssohn]",
+    "track": "Roy Goodman, Hanover Band - Sinfonia (String Symphony) for string orchestra No. 13 in C minor [F. Mendelssohn]",
+    "length": 440,
+    "duration": 440,
+    "started": 1724053213,
+    "type": "track",
+    "track_id": 1283210,
+    "release": "Mendelssohn-Bartholdy - The String Symphonies CD 3",
+    "art_url": "//cdn-images.audioaddict.com/e/5/c/9/1/e/e5c91ef464addbdf89bc6a60644a8ce8.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/5/c/9/1/e/e5c91ef464addbdf89bc6a60644a8ce8.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "display_artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "title": "Symphony No.5 [J. Sibelius]",
+    "display_title": "Symphony No.5 [J. Sibelius]",
+    "track": "Berliner Philharmoniker, Herbert von Karajan - Symphony No.5 [J. Sibelius]",
+    "length": 1931,
+    "duration": 1931,
+    "started": 1724053646,
+    "type": "track",
+    "track_id": 1051473,
+    "release": "Karajan - The Complete EMI Recordings CD76",
+    "art_url": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Deutsche Kammerakademie Neuss, Johannes Goritzki",
+    "display_artist": "Deutsche Kammerakademie Neuss, Johannes Goritzki",
+    "title": "Symphony in C, Op.10, No.4, G.523 [L. Boccherini] [L. Boccherini]",
+    "display_title": "Symphony in C, Op.10, No.4, G.523 [L. Boccherini] [L. Boccherini]",
+    "track": "Deutsche Kammerakademie Neuss, Johannes Goritzki - Symphony in C, Op.10, No.4, G.523 [L. Boccherini] [L. Boccherini]",
+    "length": 1388,
+    "duration": 1388,
+    "started": 1724055575,
+    "type": "track",
+    "track_id": 937240,
+    "release": "Luigi Boccherini - Complete Symphonies Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/e/6/2/a/c/4/e62ac4ac9a939ccb4e1465dbc6c2caf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/2/a/c/4/e62ac4ac9a939ccb4e1465dbc6c2caf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "display_artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "title": "Symphony, Op.3, No.5 In F Major [J.C. Bach]",
+    "display_title": "Symphony, Op.3, No.5 In F Major [J.C. Bach]",
+    "track": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner - Symphony, Op.3, No.5 In F Major [J.C. Bach]",
+    "length": 501,
+    "duration": 501,
+    "started": 1724056953,
+    "type": "track",
+    "track_id": 976303,
+    "release": "J.C. Bach - 6 Sinfonias Op.3 & 6 Piano Concertos Op.13 CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In B - Flat, Op.9 No.1 [J.C. Bach]",
+    "display_title": "Symphony In B - Flat, Op.9 No.1 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In B - Flat, Op.9 No.1 [J.C. Bach]",
+    "length": 564,
+    "duration": 564,
+    "started": 1724057454,
+    "type": "track",
+    "track_id": 934761,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD2",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Insola Orchestra, Laurence Equilbey",
+    "display_artist": "Insola Orchestra, Laurence Equilbey",
+    "title": "Symphony No. 3 in G Minor, Op. 36 [L. Farrenc]",
+    "display_title": "Symphony No. 3 in G Minor, Op. 36 [L. Farrenc]",
+    "track": "Insola Orchestra, Laurence Equilbey - Symphony No. 3 in G Minor, Op. 36 [L. Farrenc]",
+    "length": 2008,
+    "duration": 2008,
+    "started": 1724058018,
+    "type": "track",
+    "track_id": 3039151,
+    "release": "Farrenc: Symphonies Nos 1 & 3 (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/9/0/a/e/e/1/90aee1512a23ac5ad04887f6b1b66e99.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/a/e/e/1/90aee1512a23ac5ad04887f6b1b66e99.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Insola Orchestra, Laurence Equilbey",
+    "display_artist": "Insola Orchestra, Laurence Equilbey",
+    "title": "Symphony No. 1 in C Minor, Op. 32 [L. Farrenc]",
+    "display_title": "Symphony No. 1 in C Minor, Op. 32 [L. Farrenc]",
+    "track": "Insola Orchestra, Laurence Equilbey - Symphony No. 1 in C Minor, Op. 32 [L. Farrenc]",
+    "length": 1883,
+    "duration": 1883,
+    "started": 1724060027,
+    "type": "track",
+    "track_id": 3039150,
+    "release": "Farrenc: Symphonies Nos 1 & 3 (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/9/0/a/e/e/1/90aee1512a23ac5ad04887f6b1b66e99.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/a/e/e/1/90aee1512a23ac5ad04887f6b1b66e99.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Vienna Philharmonic Orchestra, Georg Solti",
+    "display_artist": "Vienna Philharmonic Orchestra, Georg Solti",
+    "title": "Symphony No.2 In C, Op. 61 [R. Schumann]",
+    "display_title": "Symphony No.2 In C, Op. 61 [R. Schumann]",
+    "track": "Vienna Philharmonic Orchestra, Georg Solti - Symphony No.2 In C, Op. 61 [R. Schumann]",
+    "length": 2155,
+    "duration": 2155,
+    "started": 1724061910,
+    "type": "track",
+    "track_id": 3015376,
+    "release": "Schumann: Symphonies [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/d/3/e/9/a/4/d3e9a4c8080d86bbba905c05972e6b8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/e/9/a/4/d3e9a4c8080d86bbba905c05972e6b8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "The Hanover Band, Roy Goodman",
+    "display_artist": "The Hanover Band, Roy Goodman",
+    "title": "Symphony No.8 in B minor, D759 [F. Schubert]",
+    "display_title": "Symphony No.8 in B minor, D759 [F. Schubert]",
+    "track": "The Hanover Band, Roy Goodman - Symphony No.8 in B minor, D759 [F. Schubert]",
+    "length": 1398,
+    "duration": 1398,
+    "started": 1724064066,
+    "type": "track",
+    "track_id": 1024044,
+    "release": "Masterworks Disc 2",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Daniel Barenboim, West-Eastern Divan Orchestra",
+    "display_artist": "Daniel Barenboim, West-Eastern Divan Orchestra",
+    "title": "Symphony No. 7 in A Major, Op. 92 [L. van Beethoven]",
+    "display_title": "Symphony No. 7 in A Major, Op. 92 [L. van Beethoven]",
+    "track": "Daniel Barenboim, West-Eastern Divan Orchestra - Symphony No. 7 in A Major, Op. 92 [L. van Beethoven]",
+    "length": 2281,
+    "duration": 2281,
+    "started": 1724065456,
+    "type": "track",
+    "track_id": 2982938,
+    "release": "Beethoven: Triple Concerto & Symphony No. 7 (Live)",
+    "art_url": "//cdn-images.audioaddict.com/6/a/3/b/4/e/6a3b4eefa0fc3ce025fa187e277ce616.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/3/b/4/e/6a3b4eefa0fc3ce025fa187e277ce616.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Concerto Armonico, Peter Szutz",
+    "display_artist": "Concerto Armonico, Peter Szutz",
+    "title": "Symphony in D major Op 3 No.1 [J.C. Bach]",
+    "display_title": "Symphony in D major Op 3 No.1 [J.C. Bach]",
+    "track": "Concerto Armonico, Peter Szutz - Symphony in D major Op 3 No.1 [J.C. Bach]",
+    "length": 682,
+    "duration": 682,
+    "started": 1724070871,
+    "type": "track",
+    "track_id": 1051451,
+    "release": "Bach Sons CD4 - Johann Christian Bach - Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/9/5/0/1/a/8/9501a8b58139b73d33433c1ed045e13c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/0/1/a/8/9501a8b58139b73d33433c1ed045e13c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "display_artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "title": "Symphony No.8 In F, Op.93 [L. van Beethoven]",
+    "display_title": "Symphony No.8 In F, Op.93 [L. van Beethoven]",
+    "track": "Leipzig Gewandhaus Orchestra, Kurt Masur - Symphony No.8 In F, Op.93 [L. van Beethoven]",
+    "length": 1624,
+    "duration": 1624,
+    "started": 1724071545,
+    "type": "track",
+    "track_id": 1040930,
+    "release": "Beethoven: Complete Works CD03",
+    "art_url": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.5 In B Flat, D.485 [F. Schubert]",
+    "display_title": "Symphony No.5 In B Flat, D.485 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.5 In B Flat, D.485 [F. Schubert]",
+    "length": 1708,
+    "duration": 1708,
+    "started": 1724073168,
+    "type": "track",
+    "track_id": 2938510,
+    "release": "Schubert: Symphonies [Disc 3]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Roberto Benzi",
+    "display_artist": "London Symphony Orchestra, Roberto Benzi",
+    "title": "Symphony in C - Mvt. 1 - 4 [G. Bizet]",
+    "display_title": "Symphony in C - Mvt. 1 - 4 [G. Bizet]",
+    "track": "London Symphony Orchestra, Roberto Benzi - Symphony in C - Mvt. 1 - 4 [G. Bizet]",
+    "length": 440,
+    "duration": 440,
+    "started": 1724074867,
+    "type": "track",
+    "track_id": 920968,
+    "release": "Bizet - Best Of CD2",
+    "art_url": "//cdn-images.audioaddict.com/1/7/c/8/6/8/17c8680b5d9946b23951ec69881a7c22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/c/8/6/8/17c8680b5d9946b23951ec69881a7c22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.30 In D, K202 [W.A. Mozart]",
+    "display_title": "Symphony No.30 In D, K202 [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.30 In D, K202 [W.A. Mozart]",
+    "length": 1221,
+    "duration": 1221,
+    "started": 1724076592,
+    "type": "track",
+    "track_id": 975183,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 5]",
+    "art_url": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "display_artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "title": "Symphony No.5 In C Minor, Op.67 [L. van Beethoven]",
+    "display_title": "Symphony No.5 In C Minor, Op.67 [L. van Beethoven]",
+    "track": "Leipzig Gewandhaus Orchestra, Kurt Masur - Symphony No.5 In C Minor, Op.67 [L. van Beethoven]",
+    "length": 1987,
+    "duration": 1987,
+    "started": 1724077811,
+    "type": "track",
+    "track_id": 1040927,
+    "release": "Beethoven: Complete Works CD04",
+    "art_url": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Gewandhausorchester Leipzig, Kurt Masur",
+    "display_artist": "Gewandhausorchester Leipzig, Kurt Masur",
+    "title": "Symphony No.3 in E, Op.51 [M. Bruch]",
+    "display_title": "Symphony No.3 in E, Op.51 [M. Bruch]",
+    "track": "Gewandhausorchester Leipzig, Kurt Masur - Symphony No.3 in E, Op.51 [M. Bruch]",
+    "length": 1911,
+    "duration": 1911,
+    "started": 1724079796,
+    "type": "track",
+    "track_id": 1051469,
+    "release": "Bruch - The Complete Symphonies CD2",
+    "art_url": "//cdn-images.audioaddict.com/e/c/3/e/5/e/ec3e5e9bcee1f27f6bad7e5906ce294e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/3/e/5/e/ec3e5e9bcee1f27f6bad7e5906ce294e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.8 in B minor, D.759 \"Unfinished\" [F. Schubert]",
+    "display_title": "Symphony No.8 in B minor, D.759 \"Unfinished\" [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.8 in B minor, D.759 \"Unfinished\" [F. Schubert]",
+    "length": 1389,
+    "duration": 1389,
+    "started": 1724081706,
+    "type": "track",
+    "track_id": 2938512,
+    "release": "Schubert: Symphonies [Disc 4]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "San Diego Symphony Orchestra, Yoav Talmi",
+    "display_artist": "San Diego Symphony Orchestra, Yoav Talmi",
+    "title": "Symphony Fantastique [H. Berlioz]",
+    "display_title": "Symphony Fantastique [H. Berlioz]",
+    "track": "San Diego Symphony Orchestra, Yoav Talmi - Symphony Fantastique [H. Berlioz]",
+    "length": 2994,
+    "duration": 2994,
+    "started": 1724083084,
+    "type": "track",
+    "track_id": 1023911,
+    "release": "Great Romantic Symphonies CD5",
+    "art_url": "//cdn-images.audioaddict.com/8/b/b/e/1/d/8bbe1d85d29e483ee9327254ba6f7f21.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/b/b/e/1/d/8bbe1d85d29e483ee9327254ba6f7f21.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In E - Flat, Op.9 No.2 [J.C. Bach]",
+    "display_title": "Symphony In E - Flat, Op.9 No.2 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In E - Flat, Op.9 No.2 [J.C. Bach]",
+    "length": 744,
+    "duration": 744,
+    "started": 1724086068,
+    "type": "track",
+    "track_id": 934766,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD2",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In D, Op.18 No.4 [J.C. Bach]",
+    "display_title": "Symphony In D, Op.18 No.4 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In D, Op.18 No.4 [J.C. Bach]",
+    "length": 616,
+    "duration": 616,
+    "started": 1724086813,
+    "type": "track",
+    "track_id": 934754,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD1",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "display_artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "title": "Symphony, Op.3, No.2 in C major [J.C. Bach]",
+    "display_title": "Symphony, Op.3, No.2 in C major [J.C. Bach]",
+    "track": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner - Symphony, Op.3, No.2 in C major [J.C. Bach]",
+    "length": 545,
+    "duration": 545,
+    "started": 1724087428,
+    "type": "track",
+    "track_id": 976300,
+    "release": "J.C. Bach - 6 Sinfonias Op.3 & 6 Piano Concertos Op.13 CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Czech Philharmonic, Semyon Bychkov",
+    "display_artist": "Czech Philharmonic, Semyon Bychkov",
+    "title": "Symphony No. 1 in D Major “Titan” [G. Mahler]",
+    "display_title": "Symphony No. 1 in D Major “Titan” [G. Mahler]",
+    "track": "Czech Philharmonic, Semyon Bychkov - Symphony No. 1 in D Major “Titan” [G. Mahler]",
+    "length": 3314,
+    "duration": 3314,
+    "started": 1724088760,
+    "type": "track",
+    "track_id": 3077147,
+    "release": " Mahler Symphony No. 1",
+    "art_url": "//cdn-images.audioaddict.com/4/c/c/8/c/8/4cc8c87e96182edd09e36c62c837824e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/c/8/c/8/4cc8c87e96182edd09e36c62c837824e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Czech Philharmonic, Semyon Bychkov",
+    "display_artist": "Czech Philharmonic, Semyon Bychkov",
+    "title": "Symphony No. 8, Op. 88, B. 163 [A. Dvorák]",
+    "display_title": "Symphony No. 8, Op. 88, B. 163 [A. Dvorák]",
+    "track": "Czech Philharmonic, Semyon Bychkov - Symphony No. 8, Op. 88, B. 163 [A. Dvorák]",
+    "length": 2262,
+    "duration": 2262,
+    "started": 1724093695,
+    "type": "track",
+    "track_id": 3098647,
+    "release": "Dvorak: Symphonies 7-9 & Nature, Life and Love Trilogy",
+    "art_url": "//cdn-images.audioaddict.com/d/a/9/2/c/8/da92c8071de73477b214e96f792064a3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/9/2/c/8/da92c8071de73477b214e96f792064a3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Igor Markevitch",
+    "display_artist": "London Symphony Orchestra, Igor Markevitch",
+    "title": "Symphony No.3 in D, Op.29 'Polish' [P.I. Tchaikovsky]",
+    "display_title": "Symphony No.3 in D, Op.29 'Polish' [P.I. Tchaikovsky]",
+    "track": "London Symphony Orchestra, Igor Markevitch - Symphony No.3 in D, Op.29 'Polish' [P.I. Tchaikovsky]",
+    "length": 2843,
+    "duration": 2843,
+    "started": 1724095955,
+    "type": "track",
+    "track_id": 1024057,
+    "release": "Tchaikovsky: Symphonies Nos.1-3 CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/3/b/c/1/b/33bc1b6731dbd75f7cf025430cc521d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/b/c/1/b/33bc1b6731dbd75f7cf025430cc521d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In D, Op.18 No.3 [J.C. Bach]",
+    "display_title": "Symphony In D, Op.18 No.3 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In D, Op.18 No.3 [J.C. Bach]",
+    "length": 723,
+    "duration": 723,
+    "started": 1724098797,
+    "type": "track",
+    "track_id": 934763,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD2",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Neues Bachisches Collegium Musicum, Burkhard Glaetzner",
+    "display_artist": "Neues Bachisches Collegium Musicum, Burkhard Glaetzner",
+    "title": "Symphony in E flat major [J.C.F. Bach]",
+    "display_title": "Symphony in E flat major [J.C.F. Bach]",
+    "track": "Neues Bachisches Collegium Musicum, Burkhard Glaetzner - Symphony in E flat major [J.C.F. Bach]",
+    "length": 777,
+    "duration": 777,
+    "started": 1724099520,
+    "type": "track",
+    "track_id": 1051453,
+    "release": "Bach Sons CD7 - Johann Christopf Friderich Bach - Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/8/8/7/d/8/5/887d85550296aac0409fa280fa355652.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/7/d/8/5/887d85550296aac0409fa280fa355652.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Witold Rowicki",
+    "display_artist": "London Symphony Orchestra, Witold Rowicki",
+    "title": "Symphony No.3 In E Flat, Op.10 [A. Dvorak]",
+    "display_title": "Symphony No.3 In E Flat, Op.10 [A. Dvorak]",
+    "track": "London Symphony Orchestra, Witold Rowicki - Symphony No.3 In E Flat, Op.10 [A. Dvorak]",
+    "length": 2161,
+    "duration": 2161,
+    "started": 1724100291,
+    "type": "track",
+    "track_id": 1023962,
+    "release": "Dvorak - The Early Symphonies Volume 01 CD2",
+    "art_url": "//cdn-images.audioaddict.com/7/3/9/e/4/6/739e46c9ac7ee91a987b940c5a39c72f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/9/e/4/6/739e46c9ac7ee91a987b940c5a39c72f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "New Philharmonia Orchestra, Willfried Boettcher",
+    "display_artist": "New Philharmonia Orchestra, Willfried Boettcher",
+    "title": "Symphony No.1 in C major, J. 50, Op.19 [C.M. Weber]",
+    "display_title": "Symphony No.1 in C major, J. 50, Op.19 [C.M. Weber]",
+    "track": "New Philharmonia Orchestra, Willfried Boettcher - Symphony No.1 in C major, J. 50, Op.19 [C.M. Weber]",
+    "length": 1513,
+    "duration": 1513,
+    "started": 1724102450,
+    "type": "track",
+    "track_id": 1051456,
+    "release": "The Best of Weber CD1",
+    "art_url": "//cdn-images.audioaddict.com/1/2/e/8/8/b/12e88b4ee76ee85d126ef51fba9141cb.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/e/8/8/b/12e88b4ee76ee85d126ef51fba9141cb.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "display_artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "title": "Symphony No.6 In F, Op.68, 'Pastoral' [L. van Beethoven]",
+    "display_title": "Symphony No.6 In F, Op.68, 'Pastoral' [L. van Beethoven]",
+    "track": "Leipzig Gewandhaus Orchestra, Kurt Masur - Symphony No.6 In F, Op.68, 'Pastoral' [L. van Beethoven]",
+    "length": 2659,
+    "duration": 2659,
+    "started": 1724103962,
+    "type": "track",
+    "track_id": 1040928,
+    "release": "Beethoven: Complete Works CD03",
+    "art_url": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Edo de Waart, Rotterdam Philharmonic Orchestra",
+    "display_artist": "Edo de Waart, Rotterdam Philharmonic Orchestra",
+    "title": "Symphony No.1 in D minor, Op.13 [S. Rachmaninoff]",
+    "display_title": "Symphony No.1 in D minor, Op.13 [S. Rachmaninoff]",
+    "track": "Edo de Waart, Rotterdam Philharmonic Orchestra - Symphony No.1 in D minor, Op.13 [S. Rachmaninoff]",
+    "length": 2686,
+    "duration": 2686,
+    "started": 1724106613,
+    "type": "track",
+    "track_id": 1024017,
+    "release": "Rachmaninoff - The 3 Symphonies, The Rock CD1",
+    "art_url": "//cdn-images.audioaddict.com/5/1/2/a/8/e/512a8edf54a11e52214c4e0e9589c72e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/2/a/8/e/512a8edf54a11e52214c4e0e9589c72e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.6 In C, D.589, \"Little\" [F. Schubert]",
+    "display_title": "Symphony No.6 In C, D.589, \"Little\" [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.6 In C, D.589, \"Little\" [F. Schubert]",
+    "length": 1875,
+    "duration": 1875,
+    "started": 1724109801,
+    "type": "track",
+    "track_id": 2938511,
+    "release": "Schubert: Symphonies [Disc 3]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "display_artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "title": "Symphony, Op.3, No.4 in B major [J.C. Bach]",
+    "display_title": "Symphony, Op.3, No.4 in B major [J.C. Bach]",
+    "track": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner - Symphony, Op.3, No.4 in B major [J.C. Bach]",
+    "length": 507,
+    "duration": 507,
+    "started": 1724111674,
+    "type": "track",
+    "track_id": 976302,
+    "release": "J.C. Bach - 6 Sinfonias Op.3 & 6 Piano Concertos Op.13 CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Royal Philharmonic Orchestra, André Previn",
+    "display_artist": "Royal Philharmonic Orchestra, André Previn",
+    "title": "Symphony No.2 in E flat, Op.63 [E. Elgar]",
+    "display_title": "Symphony No.2 in E flat, Op.63 [E. Elgar]",
+    "track": "Royal Philharmonic Orchestra, André Previn - Symphony No.2 in E flat, Op.63 [E. Elgar]",
+    "length": 3242,
+    "duration": 3242,
+    "started": 1724119701,
+    "type": "track",
+    "track_id": 1023974,
+    "release": "Elgar - Complete Symphonies CD2",
+    "art_url": "//cdn-images.audioaddict.com/a/2/d/3/e/5/a2d3e50f525f9f5da076297a1ee06acd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/d/3/e/5/a2d3e50f525f9f5da076297a1ee06acd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Czech Philharmonic, Semyon Bychkov",
+    "display_artist": "Czech Philharmonic, Semyon Bychkov",
+    "title": "Symphony No. 9, Op. 95, B. 178 [A. Dvorák]",
+    "display_title": "Symphony No. 9, Op. 95, B. 178 [A. Dvorák]",
+    "track": "Czech Philharmonic, Semyon Bychkov - Symphony No. 9, Op. 95, B. 178 [A. Dvorák]",
+    "length": 2577,
+    "duration": 2577,
+    "started": 1724124319,
+    "type": "track",
+    "track_id": 3098648,
+    "release": "Dvorak: Symphonies 7-9 & Nature, Life and Love Trilogy",
+    "art_url": "//cdn-images.audioaddict.com/d/a/9/2/c/8/da92c8071de73477b214e96f792064a3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/9/2/c/8/da92c8071de73477b214e96f792064a3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.35 In D, K385, 'Haffner' [W.A. Mozart]",
+    "display_title": "Symphony No.35 In D, K385, 'Haffner' [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.35 In D, K385, 'Haffner' [W.A. Mozart]",
+    "length": 1166,
+    "duration": 1166,
+    "started": 1724126889,
+    "type": "track",
+    "track_id": 975195,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 8]",
+    "art_url": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Boston Symphony Orchestra, Colin Davis",
+    "display_artist": "Boston Symphony Orchestra, Colin Davis",
+    "title": "Symphony No.7 in C, Op.105 [J. Sibelius]",
+    "display_title": "Symphony No.7 in C, Op.105 [J. Sibelius]",
+    "track": "Boston Symphony Orchestra, Colin Davis - Symphony No.7 in C, Op.105 [J. Sibelius]",
+    "length": 1166,
+    "duration": 1166,
+    "started": 1724128055,
+    "type": "track",
+    "track_id": 1051476,
+    "release": "Sibelius - The Complete Symphonies Volume 02 CD1",
+    "art_url": "//cdn-images.audioaddict.com/e/2/2/f/e/f/e22fef81c61ad05ffe92af91f06b2ff0.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/2/2/f/e/f/e22fef81c61ad05ffe92af91f06b2ff0.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Kammerorchester C.P.E. Bach",
+    "display_artist": "Kammerorchester C.P.E. Bach",
+    "title": "Symphony for oboes, horns, strings & b.c. in E flat major Wq179 [C.P.E. Bach]",
+    "display_title": "Symphony for oboes, horns, strings & b.c. in E flat major Wq179 [C.P.E. Bach]",
+    "track": "Kammerorchester C.P.E. Bach - Symphony for oboes, horns, strings & b.c. in E flat major Wq179 [C.P.E. Bach]",
+    "length": 677,
+    "duration": 677,
+    "started": 1724129222,
+    "type": "track",
+    "track_id": 1051446,
+    "release": "Bach Sons CD1 - Carl Philipp Emanuel Bach - Berliner Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/2/b/0/a/4/6/2b0a468cd7c599c990b94afdd1a84f26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/0/a/4/6/2b0a468cd7c599c990b94afdd1a84f26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Polish National Radio Symphony Orchestra, Antoni Wit",
+    "display_artist": "Polish National Radio Symphony Orchestra, Antoni Wit",
+    "title": "Symphony No.6 'Pathetique' [P.I. Tchaikovsky]",
+    "display_title": "Symphony No.6 'Pathetique' [P.I. Tchaikovsky]",
+    "track": "Polish National Radio Symphony Orchestra, Antoni Wit - Symphony No.6 'Pathetique' [P.I. Tchaikovsky]",
+    "length": 2867,
+    "duration": 2867,
+    "started": 1724129891,
+    "type": "track",
+    "track_id": 1024059,
+    "release": "Great Russian Symphonies CD3",
+    "art_url": "//cdn-images.audioaddict.com/a/c/4/5/7/1/ac4571bf2c7bb166cdccfdd4b80cbbb8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/4/5/7/1/ac4571bf2c7bb166cdccfdd4b80cbbb8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "St. Petersburg State Symphony Orchestra, André Anichanov",
+    "display_artist": "St. Petersburg State Symphony Orchestra, André Anichanov",
+    "title": "Symphony No.2, 'Antar' [N. Rimsky-Korsakov]",
+    "display_title": "Symphony No.2, 'Antar' [N. Rimsky-Korsakov]",
+    "track": "St. Petersburg State Symphony Orchestra, André Anichanov - Symphony No.2, 'Antar' [N. Rimsky-Korsakov]",
+    "length": 1713,
+    "duration": 1713,
+    "started": 1724132748,
+    "type": "track",
+    "track_id": 1024021,
+    "release": "Great Russian Symphonies CD7",
+    "art_url": "//cdn-images.audioaddict.com/4/1/7/5/7/2/4175722420e45409a500f7fdb0f51ab7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/7/5/7/2/4175722420e45409a500f7fdb0f51ab7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "National Symphony Orchestra of Ireland, Reinhard Seifrieid",
+    "display_artist": "National Symphony Orchestra of Ireland, Reinhard Seifrieid",
+    "title": "Symphony No.4 'Italian' [F. Mendelssohn]",
+    "display_title": "Symphony No.4 'Italian' [F. Mendelssohn]",
+    "track": "National Symphony Orchestra of Ireland, Reinhard Seifrieid - Symphony No.4 'Italian' [F. Mendelssohn]",
+    "length": 1810,
+    "duration": 1810,
+    "started": 1724134447,
+    "type": "track",
+    "track_id": 1024014,
+    "release": "Great Romantic Symphonies CD4",
+    "art_url": "//cdn-images.audioaddict.com/7/d/f/6/1/a/7df61a64bcc9f8d2176d9e434a7bfef6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/f/6/1/a/7df61a64bcc9f8d2176d9e434a7bfef6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Kammerorchester C.P.E. Bach",
+    "display_artist": "Kammerorchester C.P.E. Bach",
+    "title": "Symphony for flutes, horns, strings & b.c. in F major Wq175 [C.P.E. Bach]",
+    "display_title": "Symphony for flutes, horns, strings & b.c. in F major Wq175 [C.P.E. Bach]",
+    "track": "Kammerorchester C.P.E. Bach - Symphony for flutes, horns, strings & b.c. in F major Wq175 [C.P.E. Bach]",
+    "length": 619,
+    "duration": 619,
+    "started": 1724136256,
+    "type": "track",
+    "track_id": 1051445,
+    "release": "Bach Sons CD1 - Carl Philipp Emanuel Bach - Berliner Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/2/b/0/a/4/6/2b0a468cd7c599c990b94afdd1a84f26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/0/a/4/6/2b0a468cd7c599c990b94afdd1a84f26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "display_artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "title": "Symphony No.4 [J. Sibelius]",
+    "display_title": "Symphony No.4 [J. Sibelius]",
+    "track": "Berliner Philharmoniker, Herbert von Karajan - Symphony No.4 [J. Sibelius]",
+    "length": 2353,
+    "duration": 2353,
+    "started": 1724138479,
+    "type": "track",
+    "track_id": 1051471,
+    "release": "Karajan - The Complete EMI Recordings CD76",
+    "art_url": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Statskepellen Dresden, Wolgang Sawallisch",
+    "display_artist": "Statskepellen Dresden, Wolgang Sawallisch",
+    "title": "Symphony No.2 In B Flat, D125 [F. Schubert]",
+    "display_title": "Symphony No.2 In B Flat, D125 [F. Schubert]",
+    "track": "Statskepellen Dresden, Wolgang Sawallisch - Symphony No.2 In B Flat, D125 [F. Schubert]",
+    "length": 1660,
+    "duration": 1660,
+    "started": 1724141321,
+    "type": "track",
+    "track_id": 1051462,
+    "release": "Schubert - The Complete Symphonies Volume 1 CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/3/5/1/2/d/73512d1c070e681790625361e809a956.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/5/1/2/d/73512d1c070e681790625361e809a956.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.96 in D major 'Miracle' [F.J. Haydn]",
+    "display_title": "Symphony No.96 in D major 'Miracle' [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.96 in D major 'Miracle' [F.J. Haydn]",
+    "length": 1347,
+    "duration": 1347,
+    "started": 1724142980,
+    "type": "track",
+    "track_id": 1043747,
+    "release": "Haydn - The Complete Symphonies (29 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "display_artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "title": "Symphony No.7 In A, Op.92 [L. van Beethoven]",
+    "display_title": "Symphony No.7 In A, Op.92 [L. van Beethoven]",
+    "track": "Leipzig Gewandhaus Orchestra, Kurt Masur - Symphony No.7 In A, Op.92 [L. van Beethoven]",
+    "length": 2179,
+    "duration": 2179,
+    "started": 1724144327,
+    "type": "track",
+    "track_id": 1040929,
+    "release": "Beethoven: Complete Works CD02",
+    "art_url": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Statskepellen Dresden, Wolgang Sawallisch",
+    "display_artist": "Statskepellen Dresden, Wolgang Sawallisch",
+    "title": "Symphony No.1 In D, D82 [F. Schubert]",
+    "display_title": "Symphony No.1 In D, D82 [F. Schubert]",
+    "track": "Statskepellen Dresden, Wolgang Sawallisch - Symphony No.1 In D, D82 [F. Schubert]",
+    "length": 1804,
+    "duration": 1804,
+    "started": 1724146505,
+    "type": "track",
+    "track_id": 1051457,
+    "release": "Schubert - The Complete Symphonies Volume 1 CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/3/5/1/2/d/73512d1c070e681790625361e809a956.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/5/1/2/d/73512d1c070e681790625361e809a956.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Seattle Symphony Orchestra, Gerard Schwarz",
+    "display_artist": "Seattle Symphony Orchestra, Gerard Schwarz",
+    "title": "Scheherazade, Op.35 [N. Rimsky-Korsakov]",
+    "display_title": "Scheherazade, Op.35 [N. Rimsky-Korsakov]",
+    "track": "Seattle Symphony Orchestra, Gerard Schwarz - Scheherazade, Op.35 [N. Rimsky-Korsakov]",
+    "length": 2750,
+    "duration": 2750,
+    "started": 1724151441,
+    "type": "track",
+    "track_id": 1024020,
+    "release": "Great Russian Symphonies CD7",
+    "art_url": "//cdn-images.audioaddict.com/4/1/7/5/7/2/4175722420e45409a500f7fdb0f51ab7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/7/5/7/2/4175722420e45409a500f7fdb0f51ab7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Czech Philharmonic, Semyon Bychkov",
+    "display_artist": "Czech Philharmonic, Semyon Bychkov",
+    "title": "Symphony No. 7, Op. 70, B. 141 [A. Dvorák]",
+    "display_title": "Symphony No. 7, Op. 70, B. 141 [A. Dvorák]",
+    "track": "Czech Philharmonic, Semyon Bychkov - Symphony No. 7, Op. 70, B. 141 [A. Dvorák]",
+    "length": 2276,
+    "duration": 2276,
+    "started": 1724154188,
+    "type": "track",
+    "track_id": 3098646,
+    "release": "Dvorak: Symphonies 7-9 & Nature, Life and Love Trilogy",
+    "art_url": "//cdn-images.audioaddict.com/d/a/9/2/c/8/da92c8071de73477b214e96f792064a3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/a/9/2/c/8/da92c8071de73477b214e96f792064a3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "display_artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "title": "Symphony No.2 In D, Op.36 [L. van Beethoven]",
+    "display_title": "Symphony No.2 In D, Op.36 [L. van Beethoven]",
+    "track": "Leipzig Gewandhaus Orchestra, Kurt Masur - Symphony No.2 In D, Op.36 [L. van Beethoven]",
+    "length": 2228,
+    "duration": 2228,
+    "started": 1724161548,
+    "type": "track",
+    "track_id": 1051464,
+    "release": "Beethoven: Complete Works CD02",
+    "art_url": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Neues Bachisches Collegium Musicum, Burkhard Glaetzner",
+    "display_artist": "Neues Bachisches Collegium Musicum, Burkhard Glaetzner",
+    "title": "Symphony in B flat major [J.C.F. Bach]",
+    "display_title": "Symphony in B flat major [J.C.F. Bach]",
+    "track": "Neues Bachisches Collegium Musicum, Burkhard Glaetzner - Symphony in B flat major [J.C.F. Bach]",
+    "length": 1438,
+    "duration": 1438,
+    "started": 1724163768,
+    "type": "track",
+    "track_id": 1051448,
+    "release": "Bach Sons CD7 - Johann Christopf Friderich Bach - Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/8/8/7/d/8/5/887d85550296aac0409fa280fa355652.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/7/d/8/5/887d85550296aac0409fa280fa355652.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.83 in G minor 'The Hen' [F.J. Haydn]",
+    "display_title": "Symphony No.83 in G minor 'The Hen' [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.83 in G minor 'The Hen' [F.J. Haydn]",
+    "length": 1325,
+    "duration": 1325,
+    "started": 1724172528,
+    "type": "track",
+    "track_id": 1051478,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (24 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.45 in F sharp minor 'Abschied' 'Farewell' [F.J. Haydn]",
+    "display_title": "Symphony No.45 in F sharp minor 'Abschied' 'Farewell' [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.45 in F sharp minor 'Abschied' 'Farewell' [F.J. Haydn]",
+    "length": 1579,
+    "duration": 1579,
+    "started": 1724173851,
+    "type": "track",
+    "track_id": 1017405,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (12 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Arnhem Philharmonic Orchestra, Roberto Benzi",
+    "display_artist": "Arnhem Philharmonic Orchestra, Roberto Benzi",
+    "title": "Symphony in D minor [C. Franck]",
+    "display_title": "Symphony in D minor [C. Franck]",
+    "track": "Arnhem Philharmonic Orchestra, Roberto Benzi - Symphony in D minor [C. Franck]",
+    "length": 2444,
+    "duration": 2444,
+    "started": 1724177999,
+    "type": "track",
+    "track_id": 1023978,
+    "release": "Great Romantic Symphonies CD8",
+    "art_url": "//cdn-images.audioaddict.com/f/0/8/8/c/f/f088cf61fcce749d2e956d3f4c1aa18c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/8/8/c/f/f088cf61fcce749d2e956d3f4c1aa18c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Solistes Européens Luxembourg, Christoph König",
+    "display_artist": "Solistes Européens Luxembourg, Christoph König",
+    "title": "Symphony No.2 In D Major, Op.35 [L. Farrenc]",
+    "display_title": "Symphony No.2 In D Major, Op.35 [L. Farrenc]",
+    "track": "Solistes Européens Luxembourg, Christoph König - Symphony No.2 In D Major, Op.35 [L. Farrenc]",
+    "length": 1955,
+    "duration": 1955,
+    "started": 1724180440,
+    "type": "track",
+    "track_id": 2948223,
+    "release": "Louise Farrenc: Symphonies Nos.2 & 3",
+    "art_url": "//cdn-images.audioaddict.com/4/1/c/9/8/6/41c98693b99c453683b98cd5196e80ce.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/c/9/8/6/41c98693b99c453683b98cd5196e80ce.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "The Hanover Band, Roy Goodman",
+    "display_artist": "The Hanover Band, Roy Goodman",
+    "title": "Symphony No.6 in C major, D589 [F. Schubert]",
+    "display_title": "Symphony No.6 in C major, D589 [F. Schubert]",
+    "track": "The Hanover Band, Roy Goodman - Symphony No.6 in C major, D589 [F. Schubert]",
+    "length": 1985,
+    "duration": 1985,
+    "started": 1724182389,
+    "type": "track",
+    "track_id": 1024042,
+    "release": "Masterworks Disc 3",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Philharmonia Hungarica, Antal Dorati",
+    "display_artist": "Philharmonia Hungarica, Antal Dorati",
+    "title": "Symphony No.100 in G major 'Military' [F.J. Haydn]",
+    "display_title": "Symphony No.100 in G major 'Military' [F.J. Haydn]",
+    "track": "Philharmonia Hungarica, Antal Dorati - Symphony No.100 in G major 'Military' [F.J. Haydn]",
+    "length": 1426,
+    "duration": 1426,
+    "started": 1724184371,
+    "type": "track",
+    "track_id": 1051460,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (30 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "display_artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "title": "Symphony, Op.3, No.6 in G major [J.C. Bach]",
+    "display_title": "Symphony, Op.3, No.6 in G major [J.C. Bach]",
+    "track": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner - Symphony, Op.3, No.6 in G major [J.C. Bach]",
+    "length": 495,
+    "duration": 495,
+    "started": 1724185797,
+    "type": "track",
+    "track_id": 976304,
+    "release": "J.C. Bach - 6 Sinfonias Op.3 & 6 Piano Concertos Op.13 CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Edo de Waart, Rotterdam Philharmonic Orchestra",
+    "display_artist": "Edo de Waart, Rotterdam Philharmonic Orchestra",
+    "title": "Symphony No.3 in A minor, Op.44 [S. Rachmaninoff]",
+    "display_title": "Symphony No.3 in A minor, Op.44 [S. Rachmaninoff]",
+    "track": "Edo de Waart, Rotterdam Philharmonic Orchestra - Symphony No.3 in A minor, Op.44 [S. Rachmaninoff]",
+    "length": 2295,
+    "duration": 2295,
+    "started": 1724186292,
+    "type": "track",
+    "track_id": 1024019,
+    "release": "Rachmaninoff - The 3 Symphonies, The Rock CD2",
+    "art_url": "//cdn-images.audioaddict.com/5/1/2/a/8/e/512a8edf54a11e52214c4e0e9589c72e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/2/a/8/e/512a8edf54a11e52214c4e0e9589c72e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Slovak Philharmonic Orchestra, Michael Halasz",
+    "display_artist": "Slovak Philharmonic Orchestra, Michael Halasz",
+    "title": "Symphony No.8 'Unfinished' [F. Schubert]",
+    "display_title": "Symphony No.8 'Unfinished' [F. Schubert]",
+    "track": "Slovak Philharmonic Orchestra, Michael Halasz - Symphony No.8 'Unfinished' [F. Schubert]",
+    "length": 1563,
+    "duration": 1563,
+    "started": 1724188587,
+    "type": "track",
+    "track_id": 1024043,
+    "release": "Great Romantic Symphonies CD1",
+    "art_url": "//cdn-images.audioaddict.com/0/1/d/9/d/d/01d9dd238e04970cc0936ec57be42d48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/d/9/d/d/01d9dd238e04970cc0936ec57be42d48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Vienna Philharmonic Orchestra, Georg Solti",
+    "display_artist": "Vienna Philharmonic Orchestra, Georg Solti",
+    "title": "Symphony No.3 In E Flat, \"Rhenish\" [R. Schumann]",
+    "display_title": "Symphony No.3 In E Flat, \"Rhenish\" [R. Schumann]",
+    "track": "Vienna Philharmonic Orchestra, Georg Solti - Symphony No.3 In E Flat, \"Rhenish\" [R. Schumann]",
+    "length": 1991,
+    "duration": 1991,
+    "started": 1724190138,
+    "type": "track",
+    "track_id": 3015377,
+    "release": "Schumann: Symphonies [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/d/3/e/9/a/4/d3e9a4c8080d86bbba905c05972e6b8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/e/9/a/4/d3e9a4c8080d86bbba905c05972e6b8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.92 in G major 'Oxford' [F.J. Haydn]",
+    "display_title": "Symphony No.92 in G major 'Oxford' [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.92 in G major 'Oxford' [F.J. Haydn]",
+    "length": 1580,
+    "duration": 1580,
+    "started": 1724192125,
+    "type": "track",
+    "track_id": 1043743,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (27 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.88 in G major [F.J. Haydn]",
+    "display_title": "Symphony No.88 in G major [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.88 in G major [F.J. Haydn]",
+    "length": 1238,
+    "duration": 1238,
+    "started": 1724198079,
+    "type": "track",
+    "track_id": 1017412,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (26 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Witold Rowicki",
+    "display_artist": "London Symphony Orchestra, Witold Rowicki",
+    "title": "Symphony No.4 in D minor, Op.13 [A. Dvorak]",
+    "display_title": "Symphony No.4 in D minor, Op.13 [A. Dvorak]",
+    "track": "London Symphony Orchestra, Witold Rowicki - Symphony No.4 in D minor, Op.13 [A. Dvorak]",
+    "length": 2533,
+    "duration": 2533,
+    "started": 1724199317,
+    "type": "track",
+    "track_id": 1023963,
+    "release": "Dvorak - The Early Symphonies Volume 02 CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/4/5/e/0/4/945e048cd083b645256e7d865525e119.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/5/e/0/4/945e048cd083b645256e7d865525e119.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.36 In C, K425, 'Linz' [W.A. Mozart]",
+    "display_title": "Symphony No.36 In C, K425, 'Linz' [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.36 In C, K425, 'Linz' [W.A. Mozart]",
+    "length": 1872,
+    "duration": 1872,
+    "started": 1724210325,
+    "type": "track",
+    "track_id": 975197,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 9]",
+    "art_url": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Kammerorchester C.P.E. Bach",
+    "display_artist": "Kammerorchester C.P.E. Bach",
+    "title": "Symphony for flutes, horns, strings & b.c. in E minor Wq178 [C.P.E. Bach]",
+    "display_title": "Symphony for flutes, horns, strings & b.c. in E minor Wq178 [C.P.E. Bach]",
+    "track": "Kammerorchester C.P.E. Bach - Symphony for flutes, horns, strings & b.c. in E minor Wq178 [C.P.E. Bach]",
+    "length": 682,
+    "duration": 682,
+    "started": 1724213575,
+    "type": "track",
+    "track_id": 1051444,
+    "release": "Bach Sons CD1 - Carl Philipp Emanuel Bach - Berliner Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/2/b/0/a/4/6/2b0a468cd7c599c990b94afdd1a84f26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/0/a/4/6/2b0a468cd7c599c990b94afdd1a84f26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "National Symphony Orchestra of Ireland, Alexander Anissimov",
+    "display_artist": "National Symphony Orchestra of Ireland, Alexander Anissimov",
+    "title": "Utyos (The Rock), Op.7 [S. Rachmaninov]",
+    "display_title": "Utyos (The Rock), Op.7 [S. Rachmaninov]",
+    "track": "National Symphony Orchestra of Ireland, Alexander Anissimov - Utyos (The Rock), Op.7 [S. Rachmaninov]",
+    "length": 880,
+    "duration": 880,
+    "started": 1724217816,
+    "type": "track",
+    "track_id": 1024016,
+    "release": "Great Russian Symphonies CD8",
+    "art_url": "//cdn-images.audioaddict.com/a/0/7/8/a/a/a078aa3304c8c9285b0f05606ed9599a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/7/8/a/a/a078aa3304c8c9285b0f05606ed9599a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Philharmonia Hungarica, Antal Dorati",
+    "display_artist": "Philharmonia Hungarica, Antal Dorati",
+    "title": "Symphony No.101 in D major 'The Clock' [F.J. Haydn]",
+    "display_title": "Symphony No.101 in D major 'The Clock' [F.J. Haydn]",
+    "track": "Philharmonia Hungarica, Antal Dorati - Symphony No.101 in D major 'The Clock' [F.J. Haydn]",
+    "length": 1769,
+    "duration": 1769,
+    "started": 1724218692,
+    "type": "track",
+    "track_id": 1051461,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (31 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Gewandhausorchester Leipzig, Kurt Masur",
+    "display_artist": "Gewandhausorchester Leipzig, Kurt Masur",
+    "title": "Symphony No.1 in E flat, Op.28 - Mvt. 1 - 4 [M. Bruch]",
+    "display_title": "Symphony No.1 in E flat, Op.28 - Mvt. 1 - 4 [M. Bruch]",
+    "track": "Gewandhausorchester Leipzig, Kurt Masur - Symphony No.1 in E flat, Op.28 - Mvt. 1 - 4 [M. Bruch]",
+    "length": 619,
+    "duration": 619,
+    "started": 1724220461,
+    "type": "track",
+    "track_id": 1051458,
+    "release": "Bruch - The Complete Symphonies CD1",
+    "art_url": "//cdn-images.audioaddict.com/e/c/3/e/5/e/ec3e5e9bcee1f27f6bad7e5906ce294e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/3/e/5/e/ec3e5e9bcee1f27f6bad7e5906ce294e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In E, Op.6 No.5 [J.C. Bach]",
+    "display_title": "Symphony In E, Op.6 No.5 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In E, Op.6 No.5 [J.C. Bach]",
+    "length": 478,
+    "duration": 478,
+    "started": 1724224478,
+    "type": "track",
+    "track_id": 934758,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD1",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "National Symphony Orchestra of Ireland, Reinhard Seifrieid",
+    "display_artist": "National Symphony Orchestra of Ireland, Reinhard Seifrieid",
+    "title": "Symphony No.3 Scottish' [F. Mendelssohn]",
+    "display_title": "Symphony No.3 Scottish' [F. Mendelssohn]",
+    "track": "National Symphony Orchestra of Ireland, Reinhard Seifrieid - Symphony No.3 Scottish' [F. Mendelssohn]",
+    "length": 2250,
+    "duration": 2250,
+    "started": 1724224955,
+    "type": "track",
+    "track_id": 1024013,
+    "release": "Great Romantic Symphonies CD4",
+    "art_url": "//cdn-images.audioaddict.com/7/d/f/6/1/a/7df61a64bcc9f8d2176d9e434a7bfef6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/f/6/1/a/7df61a64bcc9f8d2176d9e434a7bfef6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "display_artist": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner",
+    "title": "Symphony, Op.3, No.3 in E flat major [J.C. Bach]",
+    "display_title": "Symphony, Op.3, No.3 in E flat major [J.C. Bach]",
+    "track": "Simon Preston, Academy Of St Martin In The Fields, Neville Marriner - Symphony, Op.3, No.3 in E flat major [J.C. Bach]",
+    "length": 560,
+    "duration": 560,
+    "started": 1724233088,
+    "type": "track",
+    "track_id": 976301,
+    "release": "J.C. Bach - 6 Sinfonias Op.3 & 6 Piano Concertos Op.13 CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/4/c/b/c/d14cbcdfbdb889195f79963a93bc25f5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.44 in E minor 'Trauer' 'Mourning' [F.J. Haydn]",
+    "display_title": "Symphony No.44 in E minor 'Trauer' 'Mourning' [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.44 in E minor 'Trauer' 'Mourning' [F.J. Haydn]",
+    "length": 1415,
+    "duration": 1415,
+    "started": 1724233649,
+    "type": "track",
+    "track_id": 1017404,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (11 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.1 In D, D.82 [F. Schubert]",
+    "display_title": "Symphony No.1 In D, D.82 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.1 In D, D.82 [F. Schubert]",
+    "length": 1769,
+    "duration": 1769,
+    "started": 1724251412,
+    "type": "track",
+    "track_id": 2938506,
+    "release": "Schubert: Symphonies [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Igor Markevitch",
+    "display_artist": "London Symphony Orchestra, Igor Markevitch",
+    "title": "Symphony No.1 in G minor, Op.13 'Winter Reveries' [P.I. Tchaikovsky]",
+    "display_title": "Symphony No.1 in G minor, Op.13 'Winter Reveries' [P.I. Tchaikovsky]",
+    "track": "London Symphony Orchestra, Igor Markevitch - Symphony No.1 in G minor, Op.13 'Winter Reveries' [P.I. Tchaikovsky]",
+    "length": 2496,
+    "duration": 2496,
+    "started": 1724265607,
+    "type": "track",
+    "track_id": 1024055,
+    "release": "Tchaikovsky: Symphonies Nos.1-3 CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/3/b/c/1/b/33bc1b6731dbd75f7cf025430cc521d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/b/c/1/b/33bc1b6731dbd75f7cf025430cc521d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Imrich Szabo, Slovak Radio Symphony Orchestra, Stephen Gunzenhauser",
+    "display_artist": "Imrich Szabo, Slovak Radio Symphony Orchestra, Stephen Gunzenhauser",
+    "title": "Symphony No.3 'Organ' [C. Saint-Saens]",
+    "display_title": "Symphony No.3 'Organ' [C. Saint-Saens]",
+    "track": "Imrich Szabo, Slovak Radio Symphony Orchestra, Stephen Gunzenhauser - Symphony No.3 'Organ' [C. Saint-Saens]",
+    "length": 2236,
+    "duration": 2236,
+    "started": 1724268103,
+    "type": "track",
+    "track_id": 1024032,
+    "release": "Great Romantic Symphonies CD8",
+    "art_url": "//cdn-images.audioaddict.com/f/0/8/8/c/f/f088cf61fcce749d2e956d3f4c1aa18c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/8/8/c/f/f088cf61fcce749d2e956d3f4c1aa18c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Witold Rowicki",
+    "display_artist": "London Symphony Orchestra, Witold Rowicki",
+    "title": "Symphony No.1 In C Minor, Op.3 'The Bells Of Zlonice' [A. Dvorak]",
+    "display_title": "Symphony No.1 In C Minor, Op.3 'The Bells Of Zlonice' [A. Dvorak]",
+    "track": "London Symphony Orchestra, Witold Rowicki - Symphony No.1 In C Minor, Op.3 'The Bells Of Zlonice' [A. Dvorak]",
+    "length": 3125,
+    "duration": 3125,
+    "started": 1724273973,
+    "type": "track",
+    "track_id": 1023960,
+    "release": "Dvorak - The Early Symphonies Volume 01 CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/3/9/e/4/6/739e46c9ac7ee91a987b940c5a39c72f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/9/e/4/6/739e46c9ac7ee91a987b940c5a39c72f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Polish National Radio Symphony Orchestra, Antoni Wit",
+    "display_artist": "Polish National Radio Symphony Orchestra, Antoni Wit",
+    "title": "Symphony No.1 'Spring' [R. Schumann]",
+    "display_title": "Symphony No.1 'Spring' [R. Schumann]",
+    "track": "Polish National Radio Symphony Orchestra, Antoni Wit - Symphony No.1 'Spring' [R. Schumann]",
+    "length": 1240,
+    "duration": 1240,
+    "started": 1724283306,
+    "type": "track",
+    "track_id": 1024050,
+    "release": "Great Romantic Symphonies CD2",
+    "art_url": "//cdn-images.audioaddict.com/8/8/f/9/4/8/88f948596fa968a8febfd7ed31acafe1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/f/9/4/8/88f948596fa968a8febfd7ed31acafe1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Vienna Philharmonic Orchestra, Karl Bohm",
+    "display_artist": "Vienna Philharmonic Orchestra, Karl Bohm",
+    "title": "Symphony No.3 in E flat, Op.55, 'Eroica' [L. van Beethoven]",
+    "display_title": "Symphony No.3 in E flat, Op.55, 'Eroica' [L. van Beethoven]",
+    "track": "Vienna Philharmonic Orchestra, Karl Bohm - Symphony No.3 in E flat, Op.55, 'Eroica' [L. van Beethoven]",
+    "length": 2987,
+    "duration": 2987,
+    "started": 1724284541,
+    "type": "track",
+    "track_id": 940049,
+    "release": "Beethoven - Symphony No.3 \"Eroica\", Overtures CD1",
+    "art_url": "//cdn-images.audioaddict.com/e/8/8/e/5/6/e88e566a2a0d10727517d642e9129758.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/8/e/5/6/e88e566a2a0d10727517d642e9129758.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Witold Rowicki",
+    "display_artist": "London Symphony Orchestra, Witold Rowicki",
+    "title": "Symphony No.5 in F, Op.76 (24) [A. Dvorak]",
+    "display_title": "Symphony No.5 in F, Op.76 (24) [A. Dvorak]",
+    "track": "London Symphony Orchestra, Witold Rowicki - Symphony No.5 in F, Op.76 (24) [A. Dvorak]",
+    "length": 2230,
+    "duration": 2230,
+    "started": 1724287524,
+    "type": "track",
+    "track_id": 1023964,
+    "release": "Dvorak - The Early Symphonies Volume 02 CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/4/5/e/0/4/945e048cd083b645256e7d865525e119.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/5/e/0/4/945e048cd083b645256e7d865525e119.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Rotterdam Philharmonic Orchestra, Valery Gergiev",
+    "display_artist": "Rotterdam Philharmonic Orchestra, Valery Gergiev",
+    "title": "Symphony No.2 In B Minor [A. Borodin]",
+    "display_title": "Symphony No.2 In B Minor [A. Borodin]",
+    "track": "Rotterdam Philharmonic Orchestra, Valery Gergiev - Symphony No.2 In B Minor [A. Borodin]",
+    "length": 1844,
+    "duration": 1844,
+    "started": 1724289753,
+    "type": "track",
+    "track_id": 1051463,
+    "release": "Borodin: Symphonies #1 & 2",
+    "art_url": "//cdn-images.audioaddict.com/4/5/b/b/7/1/45bb712adeebc5c8400283017a0b80dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/b/b/7/1/45bb712adeebc5c8400283017a0b80dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Witold Rowicki",
+    "display_artist": "London Symphony Orchestra, Witold Rowicki",
+    "title": "Symphony No.6 in D, Op.60 [A. Dvorak]",
+    "display_title": "Symphony No.6 in D, Op.60 [A. Dvorak]",
+    "track": "London Symphony Orchestra, Witold Rowicki - Symphony No.6 in D, Op.60 [A. Dvorak]",
+    "length": 2675,
+    "duration": 2675,
+    "started": 1724291591,
+    "type": "track",
+    "track_id": 1051474,
+    "release": "Dvorak - The Early Symphonies Volume 02 CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/4/5/e/0/4/945e048cd083b645256e7d865525e119.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/5/e/0/4/945e048cd083b645256e7d865525e119.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Philharmonia Hungarica, Antal Dorati",
+    "display_artist": "Philharmonia Hungarica, Antal Dorati",
+    "title": "Symphony No.48 in C major 'Maria Theresia' [F.J. Haydn]",
+    "display_title": "Symphony No.48 in C major 'Maria Theresia' [F.J. Haydn]",
+    "track": "Philharmonia Hungarica, Antal Dorati - Symphony No.48 in C major 'Maria Theresia' [F.J. Haydn]",
+    "length": 1619,
+    "duration": 1619,
+    "started": 1724299534,
+    "type": "track",
+    "track_id": 1051472,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (13 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Pittsburgh Symphony Orchestra, Manfred Honeck",
+    "display_artist": "Pittsburgh Symphony Orchestra, Manfred Honeck",
+    "title": "Symphony No. 5 in E Minor, Op. 64 [P.I. Tchaikovsky]",
+    "display_title": "Symphony No. 5 in E Minor, Op. 64 [P.I. Tchaikovsky]",
+    "track": "Pittsburgh Symphony Orchestra, Manfred Honeck - Symphony No. 5 in E Minor, Op. 64 [P.I. Tchaikovsky]",
+    "length": 2718,
+    "duration": 2718,
+    "started": 1724301152,
+    "type": "track",
+    "track_id": 3080764,
+    "release": "Tchaikovsky: Symphony No. 5 / Schulhoff: Five Pieces for String Quartet",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/9/d/d/3649dd6fb067d1ba8a08f10d9e6c55a7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/4/9/d/d/3649dd6fb067d1ba8a08f10d9e6c55a7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Deutsche Kammerakademie Neuss, Johannes Goritzki",
+    "display_artist": "Deutsche Kammerakademie Neuss, Johannes Goritzki",
+    "title": "Symphony Op.35 No.1 in D, G509 [L. Boccherini]",
+    "display_title": "Symphony Op.35 No.1 in D, G509 [L. Boccherini]",
+    "track": "Deutsche Kammerakademie Neuss, Johannes Goritzki - Symphony Op.35 No.1 in D, G509 [L. Boccherini]",
+    "length": 722,
+    "duration": 722,
+    "started": 1724303870,
+    "type": "track",
+    "track_id": 975613,
+    "release": "Luigi Boccherini - Complete Symphonies Vol. 5",
+    "art_url": "//cdn-images.audioaddict.com/e/6/2/a/c/4/e62ac4ac9a939ccb4e1465dbc6c2caf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/2/a/c/4/e62ac4ac9a939ccb4e1465dbc6c2caf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.25 In G Minor, K183 [W.A. Mozart]",
+    "display_title": "Symphony No.25 In G Minor, K183 [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.25 In G Minor, K183 [W.A. Mozart]",
+    "length": 1673,
+    "duration": 1673,
+    "started": 1724312770,
+    "type": "track",
+    "track_id": 975187,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 6]",
+    "art_url": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Rotterdam Philharmonic Orchestra, Valery Gergiev",
+    "display_artist": "Rotterdam Philharmonic Orchestra, Valery Gergiev",
+    "title": "Symphony No.1 In E Flat [A. Borodin]",
+    "display_title": "Symphony No.1 In E Flat [A. Borodin]",
+    "track": "Rotterdam Philharmonic Orchestra, Valery Gergiev - Symphony No.1 In E Flat [A. Borodin]",
+    "length": 2145,
+    "duration": 2145,
+    "started": 1724319915,
+    "type": "track",
+    "track_id": 1051459,
+    "release": "Borodin: Symphonies #1 & 2",
+    "art_url": "//cdn-images.audioaddict.com/4/5/b/b/7/1/45bb712adeebc5c8400283017a0b80dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/5/b/b/7/1/45bb712adeebc5c8400283017a0b80dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Deutsche Kammerakademie Neuss, Johannes Goritzki",
+    "display_artist": "Deutsche Kammerakademie Neuss, Johannes Goritzki",
+    "title": "Symphony No.4 in D minor, Op.12, G.506 [L. Boccherini] [L. Boccherini]",
+    "display_title": "Symphony No.4 in D minor, Op.12, G.506 [L. Boccherini] [L. Boccherini]",
+    "track": "Deutsche Kammerakademie Neuss, Johannes Goritzki - Symphony No.4 in D minor, Op.12, G.506 [L. Boccherini] [L. Boccherini]",
+    "length": 945,
+    "duration": 945,
+    "started": 1724322044,
+    "type": "track",
+    "track_id": 940070,
+    "release": "Luigi Boccherini - Complete Symphonies Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/e/6/2/a/c/4/e62ac4ac9a939ccb4e1465dbc6c2caf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/2/a/c/4/e62ac4ac9a939ccb4e1465dbc6c2caf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In B - Flat, Op.9 No.3 [J.C. Bach]",
+    "display_title": "Symphony In B - Flat, Op.9 No.3 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In B - Flat, Op.9 No.3 [J.C. Bach]",
+    "length": 333,
+    "duration": 333,
+    "started": 1724327876,
+    "type": "track",
+    "track_id": 934762,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD2",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "London Symphony Orchestra, Igor Markevitch",
+    "display_artist": "London Symphony Orchestra, Igor Markevitch",
+    "title": "Symphony No.2 in C minor, Op.17 'Little Russian' [P.I. Tchaikovsky]",
+    "display_title": "Symphony No.2 in C minor, Op.17 'Little Russian' [P.I. Tchaikovsky]",
+    "track": "London Symphony Orchestra, Igor Markevitch - Symphony No.2 in C minor, Op.17 'Little Russian' [P.I. Tchaikovsky]",
+    "length": 2155,
+    "duration": 2155,
+    "started": 1724332842,
+    "type": "track",
+    "track_id": 1024056,
+    "release": "Tchaikovsky: Symphonies Nos.1-3 CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/3/b/c/1/b/33bc1b6731dbd75f7cf025430cc521d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/b/c/1/b/33bc1b6731dbd75f7cf025430cc521d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In G, Op.6 No.6 [J.C. Bach]",
+    "display_title": "Symphony In G, Op.6 No.6 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In G, Op.6 No.6 [J.C. Bach]",
+    "length": 555,
+    "duration": 555,
+    "started": 1724337215,
+    "type": "track",
+    "track_id": 934760,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD1",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Boston Symphony Orchestra, Colin Davis",
+    "display_artist": "Boston Symphony Orchestra, Colin Davis",
+    "title": "Symphony No.2 in D, Op.43 [J. Sibelius]",
+    "display_title": "Symphony No.2 in D, Op.43 [J. Sibelius]",
+    "track": "Boston Symphony Orchestra, Colin Davis - Symphony No.2 in D, Op.43 [J. Sibelius]",
+    "length": 2707,
+    "duration": 2707,
+    "started": 1724355760,
+    "type": "track",
+    "track_id": 1051465,
+    "release": "Sibelius - The Complete Symphonies Volume 01 CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/a/4/b/e/c/9a4bec6419e72083ed4aed708648db37.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/4/b/e/c/9a4bec6419e72083ed4aed708648db37.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "display_artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "title": "Symphony No.9 In D Minor, Op.125, 'Choral' [L. van Beethoven]",
+    "display_title": "Symphony No.9 In D Minor, Op.125, 'Choral' [L. van Beethoven]",
+    "track": "Leipzig Gewandhaus Orchestra, Kurt Masur - Symphony No.9 In D Minor, Op.125, 'Choral' [L. van Beethoven]",
+    "length": 4169,
+    "duration": 4169,
+    "started": 1724363693,
+    "type": "track",
+    "track_id": 1051480,
+    "release": "Beethoven: Complete Works CD05",
+    "art_url": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "The Hanover Band, Roy Goodman",
+    "display_artist": "The Hanover Band, Roy Goodman",
+    "title": "Symphony No.3 in D major, D200 [F. Schubert]",
+    "display_title": "Symphony No.3 in D major, D200 [F. Schubert]",
+    "track": "The Hanover Band, Roy Goodman - Symphony No.3 in D major, D200 [F. Schubert]",
+    "length": 1366,
+    "duration": 1366,
+    "started": 1724372717,
+    "type": "track",
+    "track_id": 1024038,
+    "release": "Masterworks Disc 2",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Akademie für Alte Musik, Ernst Schlader, Bernhard Forck",
+    "display_artist": "Akademie für Alte Musik, Ernst Schlader, Bernhard Forck",
+    "title": "Clarinet Concerto in A major, K. 622 [W.A. Mozart]",
+    "display_title": "Clarinet Concerto in A major, K. 622 [W.A. Mozart]",
+    "track": "Akademie für Alte Musik, Ernst Schlader, Bernhard Forck - Clarinet Concerto in A major, K. 622 [W.A. Mozart]",
+    "length": 1673,
+    "duration": 1673,
+    "started": 1724374870,
+    "type": "track",
+    "track_id": 3098645,
+    "release": "Mozart: Symphonies Nos. 29 & 33, Clarinet Concerto",
+    "art_url": "//cdn-images.audioaddict.com/d/d/a/9/6/3/dda963ed39b86647c42a7b31eb8ceadf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/a/9/6/3/dda963ed39b86647c42a7b31eb8ceadf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "display_artist": "Leipzig Gewandhaus Orchestra, Kurt Masur",
+    "title": "Symphony No.4 In B Flat, Op.60 [L. van Beethoven]",
+    "display_title": "Symphony No.4 In B Flat, Op.60 [L. van Beethoven]",
+    "track": "Leipzig Gewandhaus Orchestra, Kurt Masur - Symphony No.4 In B Flat, Op.60 [L. van Beethoven]",
+    "length": 2125,
+    "duration": 2125,
+    "started": 1724380459,
+    "type": "track",
+    "track_id": 1040926,
+    "release": "Beethoven: Complete Works CD04",
+    "art_url": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/1/a/b/e/5/81abe547ab7ba006610aa272a912b404.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.41 In C, K551, 'Jupiter' [W.A. Mozart]",
+    "display_title": "Symphony No.41 In C, K551, 'Jupiter' [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.41 In C, K551, 'Jupiter' [W.A. Mozart]",
+    "length": 2124,
+    "duration": 2124,
+    "started": 1724386741,
+    "type": "track",
+    "track_id": 975161,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 11]",
+    "art_url": "//cdn-images.audioaddict.com/c/9/0/3/f/0/c903f086f8a1027cdb135518d181770e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/0/3/f/0/c903f086f8a1027cdb135518d181770e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "The Hanover Band, Roy Goodman",
+    "display_artist": "The Hanover Band, Roy Goodman",
+    "title": "Symphony No.5 in B flat major, D485 [F. Schubert]",
+    "display_title": "Symphony No.5 in B flat major, D485 [F. Schubert]",
+    "track": "The Hanover Band, Roy Goodman - Symphony No.5 in B flat major, D485 [F. Schubert]",
+    "length": 1694,
+    "duration": 1694,
+    "started": 1724398935,
+    "type": "track",
+    "track_id": 1024041,
+    "release": "Masterworks Disc 2",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Wiener Philharmoniker, Karl Bohm",
+    "display_artist": "Wiener Philharmoniker, Karl Bohm",
+    "title": "Symphony No.1 in C major, Op.21 [L. van Beethoven]",
+    "display_title": "Symphony No.1 in C major, Op.21 [L. van Beethoven]",
+    "track": "Wiener Philharmoniker, Karl Bohm - Symphony No.1 in C major, Op.21 [L. van Beethoven]",
+    "length": 1730,
+    "duration": 1730,
+    "started": 1724400627,
+    "type": "track",
+    "track_id": 1040924,
+    "release": "Beethoven: Symphony No.1, Op. 21 & No.2, Op. 36 CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/7/b/0/c/1/97b0c19af01ae6c0e73a7778a2bedf65.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/b/0/c/1/97b0c19af01ae6c0e73a7778a2bedf65.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In D, Op.18 No.6 [J.C. Bach]",
+    "display_title": "Symphony In D, Op.18 No.6 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In D, Op.18 No.6 [J.C. Bach]",
+    "length": 529,
+    "duration": 529,
+    "started": 1724406079,
+    "type": "track",
+    "track_id": 934755,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD1",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Solistes Européens Luxembourg, Christoph König",
+    "display_artist": "Solistes Européens Luxembourg, Christoph König",
+    "title": "Symphony No.3 In G Minor, Op.36 [L. Farrenc]",
+    "display_title": "Symphony No.3 In G Minor, Op.36 [L. Farrenc]",
+    "track": "Solistes Européens Luxembourg, Christoph König - Symphony No.3 In G Minor, Op.36 [L. Farrenc]",
+    "length": 2055,
+    "duration": 2055,
+    "started": 1724423060,
+    "type": "track",
+    "track_id": 2948224,
+    "release": "Louise Farrenc: Symphonies Nos.2 & 3",
+    "art_url": "//cdn-images.audioaddict.com/4/1/c/9/8/6/41c98693b99c453683b98cd5196e80ce.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/c/9/8/6/41c98693b99c453683b98cd5196e80ce.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Netherlands Chamber Orchestra, David Zinman",
+    "display_artist": "Netherlands Chamber Orchestra, David Zinman",
+    "title": "Symphony In E, Op.6 No.3 [J.C. Bach]",
+    "display_title": "Symphony In E, Op.6 No.3 [J.C. Bach]",
+    "track": "Netherlands Chamber Orchestra, David Zinman - Symphony In E, Op.6 No.3 [J.C. Bach]",
+    "length": 425,
+    "duration": 425,
+    "started": 1724425115,
+    "type": "track",
+    "track_id": 934757,
+    "release": "J.C. Bach - Sinfonias, Op. 6, 9, 18 & Overture \"La calamita\" CD1",
+    "art_url": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/2/f/f/7/582ff7e9db582163ae47b2644a3be4d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "National Symphony Orchestra of Ireland, Alexander Anissimov",
+    "display_artist": "National Symphony Orchestra of Ireland, Alexander Anissimov",
+    "title": "Symphony No.2 [S. Rachmaninov]",
+    "display_title": "Symphony No.2 [S. Rachmaninov]",
+    "track": "National Symphony Orchestra of Ireland, Alexander Anissimov - Symphony No.2 [S. Rachmaninov]",
+    "length": 3487,
+    "duration": 3487,
+    "started": 1724428382,
+    "type": "track",
+    "track_id": 1024018,
+    "release": "Great Russian Symphonies CD8",
+    "art_url": "//cdn-images.audioaddict.com/a/0/7/8/a/a/a078aa3304c8c9285b0f05606ed9599a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/7/8/a/a/a078aa3304c8c9285b0f05606ed9599a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Vienna Philharmonic Orchestra, Georg Solti",
+    "display_artist": "Vienna Philharmonic Orchestra, Georg Solti",
+    "title": "Symphony No.4 In D Minor, Op. 120 [R. Schumann]",
+    "display_title": "Symphony No.4 In D Minor, Op. 120 [R. Schumann]",
+    "track": "Vienna Philharmonic Orchestra, Georg Solti - Symphony No.4 In D Minor, Op. 120 [R. Schumann]",
+    "length": 1772,
+    "duration": 1772,
+    "started": 1724435732,
+    "type": "track",
+    "track_id": 3015378,
+    "release": "Schumann: The Symphonies [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/d/3/e/9/a/4/d3e9a4c8080d86bbba905c05972e6b8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/e/9/a/4/d3e9a4c8080d86bbba905c05972e6b8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.9 in C major, D.944 \"The Great\" [F. Schubert]",
+    "display_title": "Symphony No.9 in C major, D.944 \"The Great\" [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.9 in C major, D.944 \"The Great\" [F. Schubert]",
+    "length": 3062,
+    "duration": 3062,
+    "started": 1724450502,
+    "type": "track",
+    "track_id": 2938513,
+    "release": "Schubert: Symphonies [Disc 4]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "display_artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.3 In D, D.200 [F. Schubert]",
+    "display_title": "Symphony No.3 In D, D.200 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.3 In D, D.200 [F. Schubert]",
+    "length": 1636,
+    "duration": 1636,
+    "started": 1724460313,
+    "type": "track",
+    "track_id": 2938508,
+    "release": "Schubert: Symphonies [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.39 In E Flat, K543 [W.A. Mozart]",
+    "display_title": "Symphony No.39 In E Flat, K543 [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.39 In E Flat, K543 [W.A. Mozart]",
+    "length": 1901,
+    "duration": 1901,
+    "started": 1724461938,
+    "type": "track",
+    "track_id": 975160,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 10]",
+    "art_url": "//cdn-images.audioaddict.com/c/9/0/3/f/0/c903f086f8a1027cdb135518d181770e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/0/3/f/0/c903f086f8a1027cdb135518d181770e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Akademie für Alte Musik, Bernhard Forck",
+    "display_artist": "Akademie für Alte Musik, Bernhard Forck",
+    "title": "Symphony No. 33 in B-flat Major, K. 319 [W.A. Mozart]",
+    "display_title": "Symphony No. 33 in B-flat Major, K. 319 [W.A. Mozart]",
+    "track": "Akademie für Alte Musik, Bernhard Forck - Symphony No. 33 in B-flat Major, K. 319 [W.A. Mozart]",
+    "length": 1384,
+    "duration": 1384,
+    "started": 1724469720,
+    "type": "track",
+    "track_id": 3098644,
+    "release": "Mozart: Symphonies Nos. 29 & 33, Clarinet Concerto",
+    "art_url": "//cdn-images.audioaddict.com/d/d/a/9/6/3/dda963ed39b86647c42a7b31eb8ceadf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/a/9/6/3/dda963ed39b86647c42a7b31eb8ceadf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.102 in B flat major [F.J. Haydn]",
+    "display_title": "Symphony No.102 in B flat major [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.102 in B flat major [F.J. Haydn]",
+    "length": 1545,
+    "duration": 1545,
+    "started": 1724507295,
+    "type": "track",
+    "track_id": 1043658,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (31 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.82 in C major 'The Bear' [F.J. Haydn]",
+    "display_title": "Symphony No.82 in C major 'The Bear' [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.82 in C major 'The Bear' [F.J. Haydn]",
+    "length": 1555,
+    "duration": 1555,
+    "started": 1724508841,
+    "type": "track",
+    "track_id": 1051477,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (24 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Akademie für Alte Musik, Bernhard Forck",
+    "display_artist": "Akademie für Alte Musik, Bernhard Forck",
+    "title": "Symphony No. 29 in A Major, K. 201 [W.A. Mozart]",
+    "display_title": "Symphony No. 29 in A Major, K. 201 [W.A. Mozart]",
+    "track": "Akademie für Alte Musik, Bernhard Forck - Symphony No. 29 in A Major, K. 201 [W.A. Mozart]",
+    "length": 1726,
+    "duration": 1726,
+    "started": 1724530198,
+    "type": "track",
+    "track_id": 3098643,
+    "release": "Mozart: Symphonies Nos. 29 & 33, Clarinet Concerto",
+    "art_url": "//cdn-images.audioaddict.com/d/d/a/9/6/3/dda963ed39b86647c42a7b31eb8ceadf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/a/9/6/3/dda963ed39b86647c42a7b31eb8ceadf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.27 In G, K199 [W.A. Mozart]",
+    "display_title": "Symphony No.27 In G, K199 [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.27 In G, K199 [W.A. Mozart]",
+    "length": 1061,
+    "duration": 1061,
+    "started": 1724537802,
+    "type": "track",
+    "track_id": 975181,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 5]",
+    "art_url": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.31 In D, K297, 'Paris' [W.A. Mozart]",
+    "display_title": "Symphony No.31 In D, K297, 'Paris' [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.31 In D, K297, 'Paris' [W.A. Mozart]",
+    "length": 1101,
+    "duration": 1101,
+    "started": 1724538863,
+    "type": "track",
+    "track_id": 975196,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 9]",
+    "art_url": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Concerto Armonico, Peter Szutz",
+    "display_artist": "Concerto Armonico, Peter Szutz",
+    "title": "Symphony in G major Op 6 No.1 [J.C. Bach]",
+    "display_title": "Symphony in G major Op 6 No.1 [J.C. Bach]",
+    "track": "Concerto Armonico, Peter Szutz - Symphony in G major Op 6 No.1 [J.C. Bach]",
+    "length": 1034,
+    "duration": 1034,
+    "started": 1724546272,
+    "type": "track",
+    "track_id": 1051454,
+    "release": "Bach Sons CD4 - Johann Christian Bach - Symphonies",
+    "art_url": "//cdn-images.audioaddict.com/9/5/0/1/a/8/9501a8b58139b73d33433c1ed045e13c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/0/1/a/8/9501a8b58139b73d33433c1ed045e13c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.104 in D major 'London' [F.J. Haydn]",
+    "display_title": "Symphony No.104 in D major 'London' [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.104 in D major 'London' [F.J. Haydn]",
+    "length": 1732,
+    "duration": 1732,
+    "started": 1724554065,
+    "type": "track",
+    "track_id": 1043661,
+    "release": "The Complete Symphonies (Antal Dorati, Philharmonia Hungarica) (32 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "display_artist": "Jaap Ter Linden, Mozart Akademie Amsterdam",
+    "title": "Symphony No.32 In G, K318 [W.A. Mozart]",
+    "display_title": "Symphony No.32 In G, K318 [W.A. Mozart]",
+    "track": "Jaap Ter Linden, Mozart Akademie Amsterdam - Symphony No.32 In G, K318 [W.A. Mozart]",
+    "length": 473,
+    "duration": 473,
+    "started": 1724563712,
+    "type": "track",
+    "track_id": 975192,
+    "release": "Mozart: Complete Works, Vol. 1 - Symphonies [Disc 7]",
+    "art_url": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/b/9/d/3/deb9d32e253cbc281d563d82192d1eaa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Antal Dorati, Philharmonia Hungarica",
+    "display_artist": "Antal Dorati, Philharmonia Hungarica",
+    "title": "Symphony No.85 in B flat major 'La Reine' [F.J. Haydn]",
+    "display_title": "Symphony No.85 in B flat major 'La Reine' [F.J. Haydn]",
+    "track": "Antal Dorati, Philharmonia Hungarica - Symphony No.85 in B flat major 'La Reine' [F.J. Haydn]",
+    "length": 1368,
+    "duration": 1368,
+    "started": 1724659850,
+    "type": "track",
+    "track_id": 1051479,
+    "release": "Haydn - The Complete Symphonies (25 of 33)",
+    "art_url": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/b/8/b/5/88b8b58d539457539de15405ddf67673.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Wiener Philharmoniker, Carl Schuricht",
+    "display_artist": "Wiener Philharmoniker, Carl Schuricht",
+    "title": "Symphony No. 9 in D Minor, WAB 109 [A. Bruckner]",
+    "display_title": "Symphony No. 9 in D Minor, WAB 109 [A. Bruckner]",
+    "track": "Wiener Philharmoniker, Carl Schuricht - Symphony No. 9 in D Minor, WAB 109 [A. Bruckner]",
+    "length": 3380,
+    "duration": 3380,
+    "started": 1725317408,
+    "type": "track",
+    "track_id": 3101268,
+    "release": "Bruckner: Symphonies nos. 3, 8 & 9",
+    "art_url": "//cdn-images.audioaddict.com/0/b/0/4/d/1/0b04d17acfb40f3b178e0cb6b1907008.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/0/4/d/1/0b04d17acfb40f3b178e0cb6b1907008.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Wiener Philharmoniker, Carl Schuricht",
+    "display_artist": "Wiener Philharmoniker, Carl Schuricht",
+    "title": "Symphony No. 8 in C Minor, WAB 108 (1890 Version) [A. Bruckner]",
+    "display_title": "Symphony No. 8 in C Minor, WAB 108 (1890 Version) [A. Bruckner]",
+    "track": "Wiener Philharmoniker, Carl Schuricht - Symphony No. 8 in C Minor, WAB 108 (1890 Version) [A. Bruckner]",
+    "length": 4276,
+    "duration": 4276,
+    "started": 1725320788,
+    "type": "track",
+    "track_id": 3101267,
+    "release": "Bruckner: Symphonies nos. 3, 8 & 9",
+    "art_url": "//cdn-images.audioaddict.com/0/b/0/4/d/1/0b04d17acfb40f3b178e0cb6b1907008.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/0/4/d/1/0b04d17acfb40f3b178e0cb6b1907008.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 395,
+    "artist": "Wiener Philharmoniker, Carl Schuricht",
+    "display_artist": "Wiener Philharmoniker, Carl Schuricht",
+    "title": "Symphony No. 3 in D Minor, WAB 103 \"Wagner Symphony\" (1890 Version) [A. Bruckner]",
+    "display_title": "Symphony No. 3 in D Minor, WAB 103 \"Wagner Symphony\" (1890 Version) [A. Bruckner]",
+    "track": "Wiener Philharmoniker, Carl Schuricht - Symphony No. 3 in D Minor, WAB 103 \"Wagner Symphony\" (1890 Version) [A. Bruckner]",
+    "length": 3317,
+    "duration": 3317,
+    "started": 1725325059,
+    "type": "track",
+    "track_id": 3101266,
+    "release": "Bruckner: Symphonies nos. 3, 8 & 9",
+    "art_url": "//cdn-images.audioaddict.com/0/b/0/4/d/1/0b04d17acfb40f3b178e0cb6b1907008.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/0/4/d/1/0b04d17acfb40f3b178e0cb6b1907008.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

@@ -1,0 +1,3441 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "French Suite No.6, BWV 817 [J.S. Bach]",
+    "display_title": "French Suite No.6, BWV 817 [J.S. Bach]",
+    "track": "Andras Schiff - French Suite No.6, BWV 817 [J.S. Bach]",
+    "length": 933,
+    "duration": 933,
+    "started": 1724036931,
+    "type": "track",
+    "track_id": 1039459,
+    "release": "6 French Suites, etc (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Nun komm der Heiden Heiland, Chorale Prelude BWV 659 (Transcr. by Ferruccio Busoni) [J.S. Bach]",
+    "display_title": "Nun komm der Heiden Heiland, Chorale Prelude BWV 659 (Transcr. by Ferruccio Busoni) [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Nun komm der Heiden Heiland, Chorale Prelude BWV 659 (Transcr. by Ferruccio Busoni) [J.S. Bach]",
+    "length": 304,
+    "duration": 304,
+    "started": 1724037936,
+    "type": "track",
+    "track_id": 2929769,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Alina Ibragimova, Arcangelo, Jonathan Cohen",
+    "display_artist": "Alina Ibragimova, Arcangelo, Jonathan Cohen",
+    "title": "Concerto for harpsichord, strings & continuo No. 1 in D minor, BWV 1052 [J.S. Bach]",
+    "display_title": "Concerto for harpsichord, strings & continuo No. 1 in D minor, BWV 1052 [J.S. Bach]",
+    "track": "Alina Ibragimova, Arcangelo, Jonathan Cohen - Concerto for harpsichord, strings & continuo No. 1 in D minor, BWV 1052 [J.S. Bach]",
+    "length": 1169,
+    "duration": 1169,
+    "started": 1724038240,
+    "type": "track",
+    "track_id": 2931956,
+    "release": "Bach: Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/a/4/d/2/e/a/a4d2ea27a7f7ca8aaac566fc4e4227ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/d/2/e/a/a4d2ea27a7f7ca8aaac566fc4e4227ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Freiburger Barockorchester, Thomas Hengelbrock",
+    "display_artist": "Freiburger Barockorchester, Thomas Hengelbrock",
+    "title": "Concerto for 3 violins, BWV 1064 [J.S. Bach]",
+    "display_title": "Concerto for 3 violins, BWV 1064 [J.S. Bach]",
+    "track": "Freiburger Barockorchester, Thomas Hengelbrock - Concerto for 3 violins, BWV 1064 [J.S. Bach]",
+    "length": 980,
+    "duration": 980,
+    "started": 1724039408,
+    "type": "track",
+    "track_id": 1039428,
+    "release": "Deutsche Harmonia Mundi - 50 years",
+    "art_url": "//cdn-images.audioaddict.com/0/4/3/a/a/2/043aa2e9049d6a7ebec5d7c0d2656a89.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/3/a/a/2/043aa2e9049d6a7ebec5d7c0d2656a89.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arabella Steinbacher, Christoph Koncz, Stuttgarter Kammerorchester",
+    "display_artist": "Arabella Steinbacher, Christoph Koncz, Stuttgarter Kammerorchester",
+    "title": "Concerto for Two Violins, Strings, and Continuo in D Minor, BWV 1043 [J.S. Bach]",
+    "display_title": "Concerto for Two Violins, Strings, and Continuo in D Minor, BWV 1043 [J.S. Bach]",
+    "track": "Arabella Steinbacher, Christoph Koncz, Stuttgarter Kammerorchester - Concerto for Two Violins, Strings, and Continuo in D Minor, BWV 1043 [J.S. Bach]",
+    "length": 867,
+    "duration": 867,
+    "started": 1724040387,
+    "type": "track",
+    "track_id": 3059785,
+    "release": "Bach & Pärt",
+    "art_url": "//cdn-images.audioaddict.com/d/5/e/e/2/2/d5ee22f90c4d7d285e727a58e3b0f37b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/e/e/2/2/d5ee22f90c4d7d285e727a58e3b0f37b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Fugue No. 7 in E-Flat Major, BWV 876 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Fugue No. 7 in E-Flat Major, BWV 876 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Fugue No. 7 in E-Flat Major, BWV 876 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 95,
+    "duration": 95,
+    "started": 1724041255,
+    "type": "track",
+    "track_id": 3024132,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Isabelle Faust, Kristian Bezuidenhout",
+    "display_artist": "Isabelle Faust, Kristian Bezuidenhout",
+    "title": "Sonata for Violin and Harpsichord No.1 In B Minor, BWV 1014 [J.S. Bach]",
+    "display_title": "Sonata for Violin and Harpsichord No.1 In B Minor, BWV 1014 [J.S. Bach]",
+    "track": "Isabelle Faust, Kristian Bezuidenhout - Sonata for Violin and Harpsichord No.1 In B Minor, BWV 1014 [J.S. Bach]",
+    "length": 726,
+    "duration": 726,
+    "started": 1724041351,
+    "type": "track",
+    "track_id": 2929791,
+    "release": "Bach: Sonatas For Violin & Harpsichord (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/a/9/0/b7fa90adccb205a0f1bb461b3bf1b58e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/a/9/0/b7fa90adccb205a0f1bb461b3bf1b58e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "display_artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "title": "Keyboard Concerto No.3 in D major, BWV 1054 [J.S. Bach]",
+    "display_title": "Keyboard Concerto No.3 in D major, BWV 1054 [J.S. Bach]",
+    "track": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti - Keyboard Concerto No.3 in D major, BWV 1054 [J.S. Bach]",
+    "length": 973,
+    "duration": 973,
+    "started": 1724042077,
+    "type": "track",
+    "track_id": 2931963,
+    "release": "Bach: The Keyboard Concertos, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Corti, il pomo d’oro",
+    "display_artist": "Francesco Corti, il pomo d’oro",
+    "title": "Harpsichord Concerto No. 6 in F Major, BWV 1057 [J.S. Bach]",
+    "display_title": "Harpsichord Concerto No. 6 in F Major, BWV 1057 [J.S. Bach]",
+    "track": "Francesco Corti, il pomo d’oro - Harpsichord Concerto No. 6 in F Major, BWV 1057 [J.S. Bach]",
+    "length": 870,
+    "duration": 870,
+    "started": 1724043129,
+    "type": "track",
+    "track_id": 3007665,
+    "release": "Bach Harpsichord Concertos II",
+    "art_url": "//cdn-images.audioaddict.com/8/0/d/b/6/1/80db61adba064386ae5af1e2343e60f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/d/b/6/1/80db61adba064386ae5af1e2343e60f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "display_artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "title": "Triple Concerto in A minor, BWV 1044 [J.S. Bach]",
+    "display_title": "Triple Concerto in A minor, BWV 1044 [J.S. Bach]",
+    "track": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti - Triple Concerto in A minor, BWV 1044 [J.S. Bach]",
+    "length": 1209,
+    "duration": 1209,
+    "started": 1724044000,
+    "type": "track",
+    "track_id": 2931968,
+    "release": "Bach: Keyboard Concertos [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn",
+    "display_artist": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn",
+    "title": "Brandenburg Concerto No. 2 in F major, BWV 1047 (Arr. for Trumpet, Flute, Oboe & Violin) [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 2 in F major, BWV 1047 (Arr. for Trumpet, Flute, Oboe & Violin) [J.S. Bach]",
+    "track": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn - Brandenburg Concerto No. 2 in F major, BWV 1047 (Arr. for Trumpet, Flute, Oboe & Violin) [J.S. Bach]",
+    "length": 663,
+    "duration": 663,
+    "started": 1724045207,
+    "type": "track",
+    "track_id": 3044465,
+    "release": "Bach: Unbuttoned",
+    "art_url": "//cdn-images.audioaddict.com/4/e/6/c/5/f/4e6c5fb6684d97defd69b1eafbd2b100.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/6/c/5/f/4e6c5fb6684d97defd69b1eafbd2b100.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Kuijken Brothers, Robert Kohnen",
+    "display_artist": "Kuijken Brothers, Robert Kohnen",
+    "title": "Musical Offering BWV 1079 - Ricercar a 6 [J.S. Bach]",
+    "display_title": "Musical Offering BWV 1079 - Ricercar a 6 [J.S. Bach]",
+    "track": "Kuijken Brothers, Robert Kohnen - Musical Offering BWV 1079 - Ricercar a 6 [J.S. Bach]",
+    "length": 409,
+    "duration": 409,
+    "started": 1724045871,
+    "type": "track",
+    "track_id": 1039556,
+    "release": "Deutsche Harmonia Mundi - 50 years",
+    "art_url": "//cdn-images.audioaddict.com/c/0/8/b/b/e/c08bbe11cfb705613e20821477b33641.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/8/b/b/e/c08bbe11cfb705613e20821477b33641.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Fugue No. 4 in C-Sharp Minor, BWV 873 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Fugue No. 4 in C-Sharp Minor, BWV 873 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Fugue No. 4 in C-Sharp Minor, BWV 873 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 151,
+    "duration": 151,
+    "started": 1724046280,
+    "type": "track",
+    "track_id": 3024129,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Hilary Hahn",
+    "display_artist": "Hilary Hahn",
+    "title": "Sonata for Violin Solo No. 2 in A Minor, BWV 1003 [J.S. Bach]",
+    "display_title": "Sonata for Violin Solo No. 2 in A Minor, BWV 1003 [J.S. Bach]",
+    "track": "Hilary Hahn - Sonata for Violin Solo No. 2 in A Minor, BWV 1003 [J.S. Bach]",
+    "length": 1513,
+    "duration": 1513,
+    "started": 1724046432,
+    "type": "track",
+    "track_id": 2929762,
+    "release": "Hilary Hahn plays Bach: Violin Sonatas Nos. 1 & 2; Partita No. 1 ",
+    "art_url": "//cdn-images.audioaddict.com/2/b/6/c/0/1/2b6c01c500a6949a2cb82dc2a54153f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/6/c/0/1/2b6c01c500a6949a2cb82dc2a54153f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "display_artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "title": "Brandenburg Concerto No. 6 in B-flat major, BWV 1051 [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 6 in B-flat major, BWV 1051 [J.S. Bach]",
+    "track": "Concerto Italiano, Rinaldo Alessandrini - Brandenburg Concerto No. 6 in B-flat major, BWV 1051 [J.S. Bach]",
+    "length": 913,
+    "duration": 913,
+    "started": 1724047941,
+    "type": "track",
+    "track_id": 2931974,
+    "release": "Brandenburg Concertos (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn",
+    "display_artist": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn",
+    "title": "Brandenburg Concerto No. 4 in G major, BWV 1049 [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 4 in G major, BWV 1049 [J.S. Bach]",
+    "track": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn - Brandenburg Concerto No. 4 in G major, BWV 1049 [J.S. Bach]",
+    "length": 889,
+    "duration": 889,
+    "started": 1724048855,
+    "type": "track",
+    "track_id": 3044466,
+    "release": "Bach: Unbuttoned",
+    "art_url": "//cdn-images.audioaddict.com/4/e/6/c/5/f/4e6c5fb6684d97defd69b1eafbd2b100.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/6/c/5/f/4e6c5fb6684d97defd69b1eafbd2b100.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Piemontesi",
+    "display_artist": "Francesco Piemontesi",
+    "title": "Nun komm der Heiden Heiland, BWV 659 (transcr. Busoni) [J.S. Bach]",
+    "display_title": "Nun komm der Heiden Heiland, BWV 659 (transcr. Busoni) [J.S. Bach]",
+    "track": "Francesco Piemontesi - Nun komm der Heiden Heiland, BWV 659 (transcr. Busoni) [J.S. Bach]",
+    "length": 282,
+    "duration": 282,
+    "started": 1724049745,
+    "type": "track",
+    "track_id": 3016070,
+    "release": "Bach Nostalghia",
+    "art_url": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Canona alla Decima, in Contrapunto alla Terza [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Canona alla Decima, in Contrapunto alla Terza [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Canona alla Decima, in Contrapunto alla Terza [J.S. Bach]",
+    "length": 221,
+    "duration": 221,
+    "started": 1724050028,
+    "type": "track",
+    "track_id": 1039773,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Prelude No. 4 in C-Sharp Minor, BWV 873 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Prelude No. 4 in C-Sharp Minor, BWV 873 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Prelude No. 4 in C-Sharp Minor, BWV 873 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 238,
+    "duration": 238,
+    "started": 1724050250,
+    "type": "track",
+    "track_id": 3024136,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Camerate Koln",
+    "display_artist": "Camerate Koln",
+    "title": "Concerto in A major, 'Oboe d'amor', BWV 1055 [J.S. Bach]",
+    "display_title": "Concerto in A major, 'Oboe d'amor', BWV 1055 [J.S. Bach]",
+    "track": "Camerate Koln - Concerto in A major, 'Oboe d'amor', BWV 1055 [J.S. Bach]",
+    "length": 826,
+    "duration": 826,
+    "started": 1724050489,
+    "type": "track",
+    "track_id": 1039435,
+    "release": "Deutsche Harmonia Mundi - 50 years",
+    "art_url": "//cdn-images.audioaddict.com/0/4/3/a/a/2/043aa2e9049d6a7ebec5d7c0d2656a89.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/3/a/a/2/043aa2e9049d6a7ebec5d7c0d2656a89.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Blandine Verlet",
+    "display_artist": "Blandine Verlet",
+    "title": "Partita for keyboard No.3 in A minor, BWV 827 [J.S. Bach]",
+    "display_title": "Partita for keyboard No.3 in A minor, BWV 827 [J.S. Bach]",
+    "track": "Blandine Verlet - Partita for keyboard No.3 in A minor, BWV 827 [J.S. Bach]",
+    "length": 1059,
+    "duration": 1059,
+    "started": 1724051315,
+    "type": "track",
+    "track_id": 1043029,
+    "release": "Bach: Complete Partitas for Harpsichord(CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/0/3/d/e/e/503dee7b52d5094be20b5a08a3c94047.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/3/d/e/e/503dee7b52d5094be20b5a08a3c94047.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Stefan Temmingh, Axel Wolf, Domen Marincic",
+    "display_artist": "Stefan Temmingh, Axel Wolf, Domen Marincic",
+    "title": "French Suite No. 3 in B minor, BWV 814 (arr. for recorder, viola da gamba and lute) [J.S. Bach]",
+    "display_title": "French Suite No. 3 in B minor, BWV 814 (arr. for recorder, viola da gamba and lute) [J.S. Bach]",
+    "track": "Stefan Temmingh, Axel Wolf, Domen Marincic - French Suite No. 3 in B minor, BWV 814 (arr. for recorder, viola da gamba and lute) [J.S. Bach]",
+    "length": 952,
+    "duration": 952,
+    "started": 1724052374,
+    "type": "track",
+    "track_id": 3016902,
+    "release": "Bach: French & English Suites",
+    "art_url": "//cdn-images.audioaddict.com/d/1/f/2/0/9/d1f2094bdf1e8ad05399938cdbdcb1f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/f/2/0/9/d1f2094bdf1e8ad05399938cdbdcb1f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Camerate Koln",
+    "display_artist": "Camerate Koln",
+    "title": "Concerto in C minor BWV 1060, Double concerto, Oboe & Violin [J.S. Bach]",
+    "display_title": "Concerto in C minor BWV 1060, Double concerto, Oboe & Violin [J.S. Bach]",
+    "track": "Camerate Koln - Concerto in C minor BWV 1060, Double concerto, Oboe & Violin [J.S. Bach]",
+    "length": 813,
+    "duration": 813,
+    "started": 1724053327,
+    "type": "track",
+    "track_id": 1039442,
+    "release": "Deutsche Harmonia Mundi - 50 years",
+    "art_url": "//cdn-images.audioaddict.com/0/4/3/a/a/2/043aa2e9049d6a7ebec5d7c0d2656a89.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/3/a/a/2/043aa2e9049d6a7ebec5d7c0d2656a89.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Jacqueline du Pre, Roy Jesson",
+    "display_artist": "Jacqueline du Pre, Roy Jesson",
+    "title": "Toccata, Adagio & Fugue in C, BWV 564 - Adagio [J.S. Bach]",
+    "display_title": "Toccata, Adagio & Fugue in C, BWV 564 - Adagio [J.S. Bach]",
+    "track": "Jacqueline du Pre, Roy Jesson - Toccata, Adagio & Fugue in C, BWV 564 - Adagio [J.S. Bach]",
+    "length": 290,
+    "duration": 290,
+    "started": 1724054140,
+    "type": "track",
+    "track_id": 2656705,
+    "release": "Jacqueline du Pre - The Complete EMI Recordings - CD17",
+    "art_url": "//cdn-images.audioaddict.com/9/5/3/4/a/5/9534a59e4a4944673199a357d7e06c2f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/3/4/a/5/9534a59e4a4944673199a357d7e06c2f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 11 [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 11 [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 11 [J.S. Bach]",
+    "length": 283,
+    "duration": 283,
+    "started": 1724054421,
+    "type": "track",
+    "track_id": 1039776,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "Prelude & Fugue In C, BWV547 - Fugue [J.S. Bach]",
+    "display_title": "Prelude & Fugue In C, BWV547 - Fugue [J.S. Bach]",
+    "track": "Phantasm - Prelude & Fugue In C, BWV547 - Fugue [J.S. Bach]",
+    "length": 192,
+    "duration": 192,
+    "started": 1724054703,
+    "type": "track",
+    "track_id": 3024103,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Collegium Aureum",
+    "display_artist": "Collegium Aureum",
+    "title": "Overture No.2 in B Minor, BWV1066-1-Overture [J.S. Bach]",
+    "display_title": "Overture No.2 in B Minor, BWV1066-1-Overture [J.S. Bach]",
+    "track": "Collegium Aureum - Overture No.2 in B Minor, BWV1066-1-Overture [J.S. Bach]",
+    "length": 399,
+    "duration": 399,
+    "started": 1724054896,
+    "type": "track",
+    "track_id": 1046282,
+    "release": "J.S Bach - Overtures Nos. 1, 2",
+    "art_url": "//cdn-images.audioaddict.com/3/5/5/b/f/1/355bf1a67f2318449cdb62a030a3fe9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/5/b/f/1/355bf1a67f2318449cdb62a030a3fe9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "display_artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "title": "Cantata BWV 174, 'Ich liebe den Höchsten von ganzem Gemüte' [J.S. Bach]",
+    "display_title": "Cantata BWV 174, 'Ich liebe den Höchsten von ganzem Gemüte' [J.S. Bach]",
+    "track": "Concerto Italiano, Rinaldo Alessandrini - Cantata BWV 174, 'Ich liebe den Höchsten von ganzem Gemüte' [J.S. Bach]",
+    "length": 336,
+    "duration": 336,
+    "started": 1724055295,
+    "type": "track",
+    "track_id": 2931975,
+    "release": "Brandenburg Concertos (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Fugue No. 21 in B-Flat Major, BWV 890 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Fugue No. 21 in B-Flat Major, BWV 890 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Fugue No. 21 in B-Flat Major, BWV 890 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 172,
+    "duration": 172,
+    "started": 1724055631,
+    "type": "track",
+    "track_id": 3024128,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Widerstehe doch der Sunde, BWV 54 (Transcr. by Vikingur Olafsson) [J.S. Bach]",
+    "display_title": "Widerstehe doch der Sunde, BWV 54 (Transcr. by Vikingur Olafsson) [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Widerstehe doch der Sunde, BWV 54 (Transcr. by Vikingur Olafsson) [J.S. Bach]",
+    "length": 266,
+    "duration": 266,
+    "started": 1724055803,
+    "type": "track",
+    "track_id": 2929779,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "French Suite No.3, BWV 814 [J.S. Bach]",
+    "display_title": "French Suite No.3, BWV 814 [J.S. Bach]",
+    "track": "Andras Schiff - French Suite No.3, BWV 814 [J.S. Bach]",
+    "length": 822,
+    "duration": 822,
+    "started": 1724056070,
+    "type": "track",
+    "track_id": 1039457,
+    "release": "6 French Suites, etc (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Hilary Hahn",
+    "display_artist": "Hilary Hahn",
+    "title": "Sonata for Violin Solo No. 1 in G Minor, BWV 1001 [J.S. Bach]",
+    "display_title": "Sonata for Violin Solo No. 1 in G Minor, BWV 1001 [J.S. Bach]",
+    "track": "Hilary Hahn - Sonata for Violin Solo No. 1 in G Minor, BWV 1001 [J.S. Bach]",
+    "length": 1023,
+    "duration": 1023,
+    "started": 1724056892,
+    "type": "track",
+    "track_id": 2929761,
+    "release": "Hilary Hahn plays Bach: Violin Sonatas Nos. 1 & 2; Partita No. 1 ",
+    "art_url": "//cdn-images.audioaddict.com/2/b/6/c/0/1/2b6c01c500a6949a2cb82dc2a54153f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/6/c/0/1/2b6c01c500a6949a2cb82dc2a54153f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Jean-Pierre Rampal, Trevor Pinnock & Roland Pidoux",
+    "display_artist": "Jean-Pierre Rampal, Trevor Pinnock & Roland Pidoux",
+    "title": "Partita in A minor, BWV1013 [J.S. Bach]",
+    "display_title": "Partita in A minor, BWV1013 [J.S. Bach]",
+    "track": "Jean-Pierre Rampal, Trevor Pinnock & Roland Pidoux - Partita in A minor, BWV1013 [J.S. Bach]",
+    "length": 723,
+    "duration": 723,
+    "started": 1724057916,
+    "type": "track",
+    "track_id": 2991119,
+    "release": "Bach: Sonatas for Flute (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/1/6/e/2/6/e/16e26e425e025f584414b3e627581720.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/e/2/6/e/16e26e425e025f584414b3e627581720.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Canon alla Duodecima in Contrapunto alla Quinta [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Canon alla Duodecima in Contrapunto alla Quinta [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Canon alla Duodecima in Contrapunto alla Quinta [J.S. Bach]",
+    "length": 252,
+    "duration": 252,
+    "started": 1724058636,
+    "type": "track",
+    "track_id": 1039771,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Bach Collegium Japan, Masaaki Suzuki",
+    "display_artist": "Bach Collegium Japan, Masaaki Suzuki",
+    "title": "Cantata 106, 'Gottes Zeit ist die allerbeste Zeit' BWV 106 [J.S. Bach]",
+    "display_title": "Cantata 106, 'Gottes Zeit ist die allerbeste Zeit' BWV 106 [J.S. Bach]",
+    "track": "Bach Collegium Japan, Masaaki Suzuki - Cantata 106, 'Gottes Zeit ist die allerbeste Zeit' BWV 106 [J.S. Bach]",
+    "length": 1268,
+    "duration": 1268,
+    "started": 1724058889,
+    "type": "track",
+    "track_id": 1039251,
+    "release": "Complete Cantatas (1.2)",
+    "art_url": "//cdn-images.audioaddict.com/2/6/d/9/8/5/26d98513cf37dd7191605e81693dc9a3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/d/9/8/5/26d98513cf37dd7191605e81693dc9a3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Stephan Schmidt",
+    "display_artist": "Stephan Schmidt",
+    "title": "Fugue for Lute in G minor, BWV 1000 [J.S. Bach]",
+    "display_title": "Fugue for Lute in G minor, BWV 1000 [J.S. Bach]",
+    "track": "Stephan Schmidt - Fugue for Lute in G minor, BWV 1000 [J.S. Bach]",
+    "length": 313,
+    "duration": 313,
+    "started": 1724060155,
+    "type": "track",
+    "track_id": 2931980,
+    "release": "Bach: Lute Works",
+    "art_url": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 1 - Fugue No. 19 In A Major, BWV864 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 1 - Fugue No. 19 In A Major, BWV864 [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 1 - Fugue No. 19 In A Major, BWV864 [J.S. Bach]",
+    "length": 138,
+    "duration": 138,
+    "started": 1724060468,
+    "type": "track",
+    "track_id": 3024106,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "display_artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "title": "Keyboard Concerto No.2 in E major, BWV 1053 [J.S. Bach]",
+    "display_title": "Keyboard Concerto No.2 in E major, BWV 1053 [J.S. Bach]",
+    "track": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti - Keyboard Concerto No.2 in E major, BWV 1053 [J.S. Bach]",
+    "length": 1155,
+    "duration": 1155,
+    "started": 1724060606,
+    "type": "track",
+    "track_id": 2931962,
+    "release": "Bach: The Keyboard Concertos, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Gustav Leonhardt",
+    "display_artist": "Gustav Leonhardt",
+    "title": "The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 846 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 846 [J.S. Bach]",
+    "track": "Gustav Leonhardt - The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 846 [J.S. Bach]",
+    "length": 220,
+    "duration": 220,
+    "started": 1724062045,
+    "type": "track",
+    "track_id": 923534,
+    "release": "Baroque Masterpieces - CD09 - J.S. Bach: The Well-Tempered Clavier (Highlights)",
+    "art_url": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Corti, Andrea Buccarella, il pomo d’oro",
+    "display_artist": "Francesco Corti, Andrea Buccarella, il pomo d’oro",
+    "title": "Concerto for 2 Harpsichords in C Major, BWV 1061 [J.S. Bach]",
+    "display_title": "Concerto for 2 Harpsichords in C Major, BWV 1061 [J.S. Bach]",
+    "track": "Francesco Corti, Andrea Buccarella, il pomo d’oro - Concerto for 2 Harpsichords in C Major, BWV 1061 [J.S. Bach]",
+    "length": 968,
+    "duration": 968,
+    "started": 1724063859,
+    "type": "track",
+    "track_id": 3048580,
+    "release": "Bach Harpsichord Concertos Part III",
+    "art_url": "//cdn-images.audioaddict.com/4/f/3/a/9/0/4f3a90c36405b57f4d6e7cdd6323b7fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/3/a/9/0/4f3a90c36405b57f4d6e7cdd6323b7fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Yo-Yo Ma",
+    "display_artist": "Yo-Yo Ma",
+    "title": "Unaccompanied Cello Suite No. 1 in G Major, BWV 1007 [J.S. Bach]",
+    "display_title": "Unaccompanied Cello Suite No. 1 in G Major, BWV 1007 [J.S. Bach]",
+    "track": "Yo-Yo Ma - Unaccompanied Cello Suite No. 1 in G Major, BWV 1007 [J.S. Bach]",
+    "length": 1037,
+    "duration": 1037,
+    "started": 1724064829,
+    "type": "track",
+    "track_id": 2929708,
+    "release": "Six Evolutions - Bach: Cello Suites",
+    "art_url": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Fugue No. 14 in F-Sharp Minor, BWV 883 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Fugue No. 14 in F-Sharp Minor, BWV 883 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Fugue No. 14 in F-Sharp Minor, BWV 883 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 239,
+    "duration": 239,
+    "started": 1724065860,
+    "type": "track",
+    "track_id": 3024124,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Yo-Yo Ma",
+    "display_artist": "Yo-Yo Ma",
+    "title": "Unaccompanied Cello Suite No. 3 in C Major, BWV 1009 [J.S. Bach]",
+    "display_title": "Unaccompanied Cello Suite No. 3 in C Major, BWV 1009 [J.S. Bach]",
+    "track": "Yo-Yo Ma - Unaccompanied Cello Suite No. 3 in C Major, BWV 1009 [J.S. Bach]",
+    "length": 1221,
+    "duration": 1221,
+    "started": 1724066099,
+    "type": "track",
+    "track_id": 2929710,
+    "release": "Six Evolutions - Bach: Cello Suites",
+    "art_url": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Organ Sonata No. 4, BWV 528 - 2. Andante [Adagio] (Transcr. by August Stradal) [J.S. Bach]",
+    "display_title": "Organ Sonata No. 4, BWV 528 - 2. Andante [Adagio] (Transcr. by August Stradal) [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Organ Sonata No. 4, BWV 528 - 2. Andante [Adagio] (Transcr. by August Stradal) [J.S. Bach]",
+    "length": 326,
+    "duration": 326,
+    "started": 1724067318,
+    "type": "track",
+    "track_id": 2929770,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Concerto for Two Violins in D Minor [J.S. Bach]",
+    "display_title": "Concerto for Two Violins in D Minor [J.S. Bach]",
+    "track": "Arthur Grumiaux - Concerto for Two Violins in D Minor [J.S. Bach]",
+    "length": 942,
+    "duration": 942,
+    "started": 1724067645,
+    "type": "track",
+    "track_id": 1039433,
+    "release": "Ultimate Bach CD3 - Concertos for Violin, 2 Violins, etc.",
+    "art_url": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "display_artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "title": "Keyboard Concerto No.5 in F Minor, BWV 1056 [J.S. Bach]",
+    "display_title": "Keyboard Concerto No.5 in F Minor, BWV 1056 [J.S. Bach]",
+    "track": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti - Keyboard Concerto No.5 in F Minor, BWV 1056 [J.S. Bach]",
+    "length": 586,
+    "duration": 586,
+    "started": 1724068587,
+    "type": "track",
+    "track_id": 2931965,
+    "release": "Bach: The Keyboard Concertos, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "display_artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "title": "Brandenburg Concerto No. 4 in G major, BWV 1049 [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 4 in G major, BWV 1049 [J.S. Bach]",
+    "track": "Concerto Italiano, Rinaldo Alessandrini - Brandenburg Concerto No. 4 in G major, BWV 1049 [J.S. Bach]",
+    "length": 871,
+    "duration": 871,
+    "started": 1724070000,
+    "type": "track",
+    "track_id": 2931972,
+    "release": "Brandenburg Concertos (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Stefan Temmingh, Axel Wolf, Domen Marincic",
+    "display_artist": "Stefan Temmingh, Axel Wolf, Domen Marincic",
+    "title": "English Suite No. 2 in A minor, BWV 807 (arr. for recorder, viola da gamba and lute) [J.S. Bach]",
+    "display_title": "English Suite No. 2 in A minor, BWV 807 (arr. for recorder, viola da gamba and lute) [J.S. Bach]",
+    "track": "Stefan Temmingh, Axel Wolf, Domen Marincic - English Suite No. 2 in A minor, BWV 807 (arr. for recorder, viola da gamba and lute) [J.S. Bach]",
+    "length": 990,
+    "duration": 990,
+    "started": 1724070872,
+    "type": "track",
+    "track_id": 3016901,
+    "release": "Bach: French & English Suites",
+    "art_url": "//cdn-images.audioaddict.com/d/1/f/2/0/9/d1f2094bdf1e8ad05399938cdbdcb1f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/f/2/0/9/d1f2094bdf1e8ad05399938cdbdcb1f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Maxence Larrieu, Rafael Puyana",
+    "display_artist": "Maxence Larrieu, Rafael Puyana",
+    "title": "Sonata for flute & harpsichord in A major, BWV 1032 [J.S. Bach]",
+    "display_title": "Sonata for flute & harpsichord in A major, BWV 1032 [J.S. Bach]",
+    "track": "Maxence Larrieu, Rafael Puyana - Sonata for flute & harpsichord in A major, BWV 1032 [J.S. Bach]",
+    "length": 730,
+    "duration": 730,
+    "started": 1724071988,
+    "type": "track",
+    "track_id": 1026868,
+    "release": "Bach-Flute And Viola Da Gamba Sonatas(CD1)",
+    "art_url": "//cdn-images.audioaddict.com/c/a/3/6/a/b/ca36ab7cc61127d512a143e75b387b40.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/a/3/6/a/b/ca36ab7cc61127d512a143e75b387b40.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2 - Prelude No. 22 B Flat Minor, BWV891 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2 - Prelude No. 22 B Flat Minor, BWV891 [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2 - Prelude No. 22 B Flat Minor, BWV891 [J.S. Bach]",
+    "length": 116,
+    "duration": 116,
+    "started": 1724072719,
+    "type": "track",
+    "track_id": 3024121,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "Italian Concerto BWV 971 [J.S. Bach]",
+    "display_title": "Italian Concerto BWV 971 [J.S. Bach]",
+    "track": "Andras Schiff - Italian Concerto BWV 971 [J.S. Bach]",
+    "length": 743,
+    "duration": 743,
+    "started": 1724073074,
+    "type": "track",
+    "track_id": 1026860,
+    "release": "6 French Suites, etc (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Corti, il pomo d’oro",
+    "display_artist": "Francesco Corti, il pomo d’oro",
+    "title": "Harpsichord Concerto No. 3 in D Major, BWV 1054 [J.S. Bach]",
+    "display_title": "Harpsichord Concerto No. 3 in D Major, BWV 1054 [J.S. Bach]",
+    "track": "Francesco Corti, il pomo d’oro - Harpsichord Concerto No. 3 in D Major, BWV 1054 [J.S. Bach]",
+    "length": 973,
+    "duration": 973,
+    "started": 1724073818,
+    "type": "track",
+    "track_id": 3007663,
+    "release": "Bach Harpsichord Concertos II",
+    "art_url": "//cdn-images.audioaddict.com/8/0/d/b/6/1/80db61adba064386ae5af1e2343e60f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/d/b/6/1/80db61adba064386ae5af1e2343e60f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 7 [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 7 [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 7 [J.S. Bach]",
+    "length": 187,
+    "duration": 187,
+    "started": 1724074792,
+    "type": "track",
+    "track_id": 1039789,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Alina Ibragimova, Arcangelo, Jonathan Cohen",
+    "display_artist": "Alina Ibragimova, Arcangelo, Jonathan Cohen",
+    "title": "Concerto for harpsichord, strings & continuo No. 5 in F minor, BWV 1056 [J.S. Bach]",
+    "display_title": "Concerto for harpsichord, strings & continuo No. 5 in F minor, BWV 1056 [J.S. Bach]",
+    "track": "Alina Ibragimova, Arcangelo, Jonathan Cohen - Concerto for harpsichord, strings & continuo No. 5 in F minor, BWV 1056 [J.S. Bach]",
+    "length": 543,
+    "duration": 543,
+    "started": 1724077299,
+    "type": "track",
+    "track_id": 2931958,
+    "release": "Bach: Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/a/4/d/2/e/a/a4d2ea27a7f7ca8aaac566fc4e4227ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/d/2/e/a/a4d2ea27a7f7ca8aaac566fc4e4227ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "English Chamber Orchestra, Raymond Leppard",
+    "display_artist": "English Chamber Orchestra, Raymond Leppard",
+    "title": "Concerto for Harpsichord - 2. Recorders, Strings, and Continuo No.6 in F, BWV 1057 [J.S. Bach]",
+    "display_title": "Concerto for Harpsichord - 2. Recorders, Strings, and Continuo No.6 in F, BWV 1057 [J.S. Bach]",
+    "track": "English Chamber Orchestra, Raymond Leppard - Concerto for Harpsichord - 2. Recorders, Strings, and Continuo No.6 in F, BWV 1057 [J.S. Bach]",
+    "length": 997,
+    "duration": 997,
+    "started": 1724077843,
+    "type": "track",
+    "track_id": 1039429,
+    "release": "Bach:The Concertos for One and Two Harpsichords(CD1)",
+    "art_url": "//cdn-images.audioaddict.com/8/5/5/a/2/6/855a264db603f83e90702f1c9abe7619.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/5/5/a/2/6/855a264db603f83e90702f1c9abe7619.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Stephan Schmidt",
+    "display_artist": "Stephan Schmidt",
+    "title": "Partita for Lute in E major, BWV 1006a [J.S. Bach]",
+    "display_title": "Partita for Lute in E major, BWV 1006a [J.S. Bach]",
+    "track": "Stephan Schmidt - Partita for Lute in E major, BWV 1006a [J.S. Bach]",
+    "length": 1105,
+    "duration": 1105,
+    "started": 1724078840,
+    "type": "track",
+    "track_id": 2931982,
+    "release": "Bach: Lute Works",
+    "art_url": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 8 [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 8 [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 8 [J.S. Bach]",
+    "length": 294,
+    "duration": 294,
+    "started": 1724080121,
+    "type": "track",
+    "track_id": 1039790,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Corti, Emmanuel Laporte, il pomo d’oro",
+    "display_artist": "Francesco Corti, Emmanuel Laporte, il pomo d’oro",
+    "title": "Concerto for Harpsichord, Oboe and Strings in D Minor, BWV 1059 (reconstructed by F. Corti) [J.S. Bach]",
+    "display_title": "Concerto for Harpsichord, Oboe and Strings in D Minor, BWV 1059 (reconstructed by F. Corti) [J.S. Bach]",
+    "track": "Francesco Corti, Emmanuel Laporte, il pomo d’oro - Concerto for Harpsichord, Oboe and Strings in D Minor, BWV 1059 (reconstructed by F. Corti) [J.S. Bach]",
+    "length": 767,
+    "duration": 767,
+    "started": 1724081387,
+    "type": "track",
+    "track_id": 3048583,
+    "release": "Bach Harpsichord Concertos Part III",
+    "art_url": "//cdn-images.audioaddict.com/4/f/3/a/9/0/4f3a90c36405b57f4d6e7cdd6323b7fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/3/a/9/0/4f3a90c36405b57f4d6e7cdd6323b7fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Blandine Verlet",
+    "display_artist": "Blandine Verlet",
+    "title": "Partita for keyboard No.1 in B flat major, BWV 825 [J.S. Bach]",
+    "display_title": "Partita for keyboard No.1 in B flat major, BWV 825 [J.S. Bach]",
+    "track": "Blandine Verlet - Partita for keyboard No.1 in B flat major, BWV 825 [J.S. Bach]",
+    "length": 1097,
+    "duration": 1097,
+    "started": 1724082156,
+    "type": "track",
+    "track_id": 1403632,
+    "release": "Bach: Complete Partitas for Harpsichord(CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/0/3/d/e/e/503dee7b52d5094be20b5a08a3c94047.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/3/d/e/e/503dee7b52d5094be20b5a08a3c94047.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "French Suite No.4, BWV 815 [J.S. Bach]",
+    "display_title": "French Suite No.4, BWV 815 [J.S. Bach]",
+    "track": "Andras Schiff - French Suite No.4, BWV 815 [J.S. Bach]",
+    "length": 717,
+    "duration": 717,
+    "started": 1724083252,
+    "type": "track",
+    "track_id": 1039458,
+    "release": "6 French Suites, etc (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Stephan Schmidt",
+    "display_artist": "Stephan Schmidt",
+    "title": "Partita for Lute in C minor, BWV 997 [J.S. Bach]",
+    "display_title": "Partita for Lute in C minor, BWV 997 [J.S. Bach]",
+    "track": "Stephan Schmidt - Partita for Lute in C minor, BWV 997 [J.S. Bach]",
+    "length": 1218,
+    "duration": 1218,
+    "started": 1724083967,
+    "type": "track",
+    "track_id": 2931981,
+    "release": "Bach: Lute Works",
+    "art_url": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Gustav Leonhardt",
+    "display_artist": "Gustav Leonhardt",
+    "title": "The Well-Tempered Clavier, Book 2. Prelude and Fuuge BWV 876 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier, Book 2. Prelude and Fuuge BWV 876 [J.S. Bach]",
+    "track": "Gustav Leonhardt - The Well-Tempered Clavier, Book 2. Prelude and Fuuge BWV 876 [J.S. Bach]",
+    "length": 277,
+    "duration": 277,
+    "started": 1724085185,
+    "type": "track",
+    "track_id": 923618,
+    "release": "Baroque Masterpieces - CD09 - J.S. Bach: The Well-Tempered Clavier (Highlights)",
+    "art_url": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Piemontesi",
+    "display_artist": "Francesco Piemontesi",
+    "title": "Flute Sonata in E-flat major, BWV 1031: II. Siciliano (transcr. Kempff) [J.S. Bach]",
+    "display_title": "Flute Sonata in E-flat major, BWV 1031: II. Siciliano (transcr. Kempff) [J.S. Bach]",
+    "track": "Francesco Piemontesi - Flute Sonata in E-flat major, BWV 1031: II. Siciliano (transcr. Kempff) [J.S. Bach]",
+    "length": 196,
+    "duration": 196,
+    "started": 1724085464,
+    "type": "track",
+    "track_id": 3016066,
+    "release": "Bach Nostalghia",
+    "art_url": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Fantasia & Fugue in A Minor, BWV 904 - 1. Fantasia [J.S. Bach]",
+    "display_title": "Fantasia & Fugue in A Minor, BWV 904 - 1. Fantasia [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Fantasia & Fugue in A Minor, BWV 904 - 1. Fantasia [J.S. Bach]",
+    "length": 234,
+    "duration": 234,
+    "started": 1724085660,
+    "type": "track",
+    "track_id": 2929764,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Hilary Hahn",
+    "display_artist": "Hilary Hahn",
+    "title": "Partita for Violin Solo No. 1 in B Minor, BWV 1002 [J.S. Bach]",
+    "display_title": "Partita for Violin Solo No. 1 in B Minor, BWV 1002 [J.S. Bach]",
+    "track": "Hilary Hahn - Partita for Violin Solo No. 1 in B Minor, BWV 1002 [J.S. Bach]",
+    "length": 1984,
+    "duration": 1984,
+    "started": 1724086208,
+    "type": "track",
+    "track_id": 2929760,
+    "release": "Hilary Hahn plays Bach: Violin Sonatas Nos. 1 & 2; Partita No. 1 ",
+    "art_url": "//cdn-images.audioaddict.com/2/b/6/c/0/1/2b6c01c500a6949a2cb82dc2a54153f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/6/c/0/1/2b6c01c500a6949a2cb82dc2a54153f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Piemontesi",
+    "display_artist": "Francesco Piemontesi",
+    "title": "Fugue in E-flat major, BWV 552 (transcr. Busoni) [J.S. Bach]",
+    "display_title": "Fugue in E-flat major, BWV 552 (transcr. Busoni) [J.S. Bach]",
+    "track": "Francesco Piemontesi - Fugue in E-flat major, BWV 552 (transcr. Busoni) [J.S. Bach]",
+    "length": 420,
+    "duration": 420,
+    "started": 1724088192,
+    "type": "track",
+    "track_id": 3016068,
+    "release": "Bach Nostalghia",
+    "art_url": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Sinfonia No. 15 in B Minor, BWV 801 [J.S. Bach]",
+    "display_title": "Sinfonia No. 15 in B Minor, BWV 801 [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Sinfonia No. 15 in B Minor, BWV 801 [J.S. Bach]",
+    "length": 79,
+    "duration": 79,
+    "started": 1724088613,
+    "type": "track",
+    "track_id": 2929777,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "Goldberg Variations - Variations 16 - 20 [J.S. Bach]",
+    "display_title": "Goldberg Variations - Variations 16 - 20 [J.S. Bach]",
+    "track": "Andras Schiff - Goldberg Variations - Variations 16 - 20 [J.S. Bach]",
+    "length": 558,
+    "duration": 558,
+    "started": 1724088692,
+    "type": "track",
+    "track_id": 1039462,
+    "release": "Ultimate Bach CD4 - Goldberg Variations",
+    "art_url": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Carlo Curley",
+    "display_artist": "Carlo Curley",
+    "title": "Toccata And Fugue In D Minor, BWV 565 - Toccata [J.S. Bach]",
+    "display_title": "Toccata And Fugue In D Minor, BWV 565 - Toccata [J.S. Bach]",
+    "track": "Carlo Curley - Toccata And Fugue In D Minor, BWV 565 - Toccata [J.S. Bach]",
+    "length": 193,
+    "duration": 193,
+    "started": 1724089249,
+    "type": "track",
+    "track_id": 1899951,
+    "release": "Ultimate Bach CD 5 - Organ Masterpieces",
+    "art_url": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "display_artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "title": "Keyboard Concerto No.4 in A major, BWV 1055 [J.S. Bach]",
+    "display_title": "Keyboard Concerto No.4 in A major, BWV 1055 [J.S. Bach]",
+    "track": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti - Keyboard Concerto No.4 in A major, BWV 1055 [J.S. Bach]",
+    "length": 821,
+    "duration": 821,
+    "started": 1724089442,
+    "type": "track",
+    "track_id": 2931964,
+    "release": "Bach: The Keyboard Concertos, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "display_artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "title": "Keyboard Concerto No.7 in G Minor, BWV 1058 [J.S. Bach]",
+    "display_title": "Keyboard Concerto No.7 in G Minor, BWV 1058 [J.S. Bach]",
+    "track": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti - Keyboard Concerto No.7 in G Minor, BWV 1058 [J.S. Bach]",
+    "length": 845,
+    "duration": 845,
+    "started": 1724090415,
+    "type": "track",
+    "track_id": 2931967,
+    "release": "Bach: Keyboard Concertos [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music",
+    "display_artist": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music",
+    "title": "Matthäus-Passion, BWV 244 - Erbarme Dich [J.S. Bach]",
+    "display_title": "Matthäus-Passion, BWV 244 - Erbarme Dich [J.S. Bach]",
+    "track": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music - Matthäus-Passion, BWV 244 - Erbarme Dich [J.S. Bach]",
+    "length": 387,
+    "duration": 387,
+    "started": 1724091402,
+    "type": "track",
+    "track_id": 2929820,
+    "release": "Baroque Journey",
+    "art_url": "//cdn-images.audioaddict.com/5/4/9/d/c/d/549dcdd0fac334339f2b29fd66c2f69f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/9/d/c/d/549dcdd0fac334339f2b29fd66c2f69f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Orchestral Suite No. 2 in B minor, BWV 1067 [J.S. Bach]",
+    "display_title": "Orchestral Suite No. 2 in B minor, BWV 1067 [J.S. Bach]",
+    "track": "Freiburger Barockorchester - Orchestral Suite No. 2 in B minor, BWV 1067 [J.S. Bach]",
+    "length": 1358,
+    "duration": 1358,
+    "started": 1724091790,
+    "type": "track",
+    "track_id": 2931977,
+    "release": "J.S. Bach: Ouvertüren",
+    "art_url": "//cdn-images.audioaddict.com/f/f/9/b/0/4/ff9b0466f5e3ccaa5d5b961588011c62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/9/b/0/4/ff9b0466f5e3ccaa5d5b961588011c62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Alina Ibragimova, Arcangelo, Jonathan Cohen",
+    "display_artist": "Alina Ibragimova, Arcangelo, Jonathan Cohen",
+    "title": "Concerto for harpsichord, strings & continuo No. 4 in A major, BWV 1055 [J.S. Bach]",
+    "display_title": "Concerto for harpsichord, strings & continuo No. 4 in A major, BWV 1055 [J.S. Bach]",
+    "track": "Alina Ibragimova, Arcangelo, Jonathan Cohen - Concerto for harpsichord, strings & continuo No. 4 in A major, BWV 1055 [J.S. Bach]",
+    "length": 792,
+    "duration": 792,
+    "started": 1724093148,
+    "type": "track",
+    "track_id": 2931957,
+    "release": "Bach: Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/a/4/d/2/e/a/a4d2ea27a7f7ca8aaac566fc4e4227ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/d/2/e/a/a4d2ea27a7f7ca8aaac566fc4e4227ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 14 - Canon per Augmentationem in contrario motu [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 14 - Canon per Augmentationem in contrario motu [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 14 - Canon per Augmentationem in contrario motu [J.S. Bach]",
+    "length": 413,
+    "duration": 413,
+    "started": 1724093939,
+    "type": "track",
+    "track_id": 1039781,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arabella Steinbacher, Stuttgarter Kammerorchester",
+    "display_artist": "Arabella Steinbacher, Stuttgarter Kammerorchester",
+    "title": "Violin Concerto in E Major, BWV 1042 [J.S. Bach]",
+    "display_title": "Violin Concerto in E Major, BWV 1042 [J.S. Bach]",
+    "track": "Arabella Steinbacher, Stuttgarter Kammerorchester - Violin Concerto in E Major, BWV 1042 [J.S. Bach]",
+    "length": 1018,
+    "duration": 1018,
+    "started": 1724094352,
+    "type": "track",
+    "track_id": 3059787,
+    "release": "Bach & Pärt",
+    "art_url": "//cdn-images.audioaddict.com/d/5/e/e/2/2/d5ee22f90c4d7d285e727a58e3b0f37b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/e/e/2/2/d5ee22f90c4d7d285e727a58e3b0f37b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andrea Oliva, Angela Hewitt",
+    "display_artist": "Andrea Oliva, Angela Hewitt",
+    "title": "Flute Sonata in E major, BWV1035 [J.S. Bach]",
+    "display_title": "Flute Sonata in E major, BWV1035 [J.S. Bach]",
+    "track": "Andrea Oliva, Angela Hewitt - Flute Sonata in E major, BWV1035 [J.S. Bach]",
+    "length": 760,
+    "duration": 760,
+    "started": 1724097201,
+    "type": "track",
+    "track_id": 1039453,
+    "release": "Bach: Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Isabelle Faust, Kristian Bezuidenhout",
+    "display_artist": "Isabelle Faust, Kristian Bezuidenhout",
+    "title": "Sonata for Violin and Harpsichord No.6 In G, BWV 1019 [J.S. Bach]",
+    "display_title": "Sonata for Violin and Harpsichord No.6 In G, BWV 1019 [J.S. Bach]",
+    "track": "Isabelle Faust, Kristian Bezuidenhout - Sonata for Violin and Harpsichord No.6 In G, BWV 1019 [J.S. Bach]",
+    "length": 0,
+    "duration": 0,
+    "started": 1724098729,
+    "type": "track",
+    "track_id": 2929796,
+    "release": "Bach: Sonatas For Violin & Harpsichord [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/4/b/f/b/2/b/4bfb2b93a1ebb86f368742c26ce411a9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/f/b/2/b/4bfb2b93a1ebb86f368742c26ce411a9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Orchestral Suite No. 1 in C major, BWV 1066 [J.S. Bach]",
+    "display_title": "Orchestral Suite No. 1 in C major, BWV 1066 [J.S. Bach]",
+    "track": "Freiburger Barockorchester - Orchestral Suite No. 1 in C major, BWV 1066 [J.S. Bach]",
+    "length": 1533,
+    "duration": 1533,
+    "started": 1724099684,
+    "type": "track",
+    "track_id": 2931976,
+    "release": "J.S. Bach: Ouvertüren (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/f/f/9/b/0/4/ff9b0466f5e3ccaa5d5b961588011c62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/9/b/0/4/ff9b0466f5e3ccaa5d5b961588011c62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andrea Oliva, Angela Hewitt",
+    "display_artist": "Andrea Oliva, Angela Hewitt",
+    "title": "Flute Sonata in B minor, BWV1030 [J.S. Bach]",
+    "display_title": "Flute Sonata in B minor, BWV1030 [J.S. Bach]",
+    "track": "Andrea Oliva, Angela Hewitt - Flute Sonata in B minor, BWV1030 [J.S. Bach]",
+    "length": 1091,
+    "duration": 1091,
+    "started": 1724101295,
+    "type": "track",
+    "track_id": 1039450,
+    "release": "Bach: Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Karl Richter",
+    "display_artist": "Karl Richter",
+    "title": "Toccata and Fugue, for organ in D minor, BWV 565 (BC J37) [J.S. Bach]",
+    "display_title": "Toccata and Fugue, for organ in D minor, BWV 565 (BC J37) [J.S. Bach]",
+    "track": "Karl Richter - Toccata and Fugue, for organ in D minor, BWV 565 (BC J37) [J.S. Bach]",
+    "length": 532,
+    "duration": 532,
+    "started": 1724102482,
+    "type": "track",
+    "track_id": 2273485,
+    "release": "Bach: Toccata & Fugue",
+    "art_url": "//cdn-images.audioaddict.com/b/5/2/2/8/2/b52282ecba3baff27d9d6a26a36d3915.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/2/2/8/2/b52282ecba3baff27d9d6a26a36d3915.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Stephan Schmidt",
+    "display_artist": "Stephan Schmidt",
+    "title": "Suite for Lute in G minor, BWV 995 [J.S. Bach]",
+    "display_title": "Suite for Lute in G minor, BWV 995 [J.S. Bach]",
+    "track": "Stephan Schmidt - Suite for Lute in G minor, BWV 995 [J.S. Bach]",
+    "length": 1377,
+    "duration": 1377,
+    "started": 1724103008,
+    "type": "track",
+    "track_id": 2931986,
+    "release": "Bach: Lute Works",
+    "art_url": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Gustav Leonhardt",
+    "display_artist": "Gustav Leonhardt",
+    "title": "The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 862 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 862 [J.S. Bach]",
+    "track": "Gustav Leonhardt - The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 862 [J.S. Bach]",
+    "length": 220,
+    "duration": 220,
+    "started": 1724104711,
+    "type": "track",
+    "track_id": 923579,
+    "release": "Baroque Masterpieces - CD09 - J.S. Bach: The Well-Tempered Clavier (Highlights)",
+    "art_url": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andrea Oliva, Angela Hewitt",
+    "display_artist": "Andrea Oliva, Angela Hewitt",
+    "title": "Flute Sonata in E flat major, BWV1031 [J.S. Bach]",
+    "display_title": "Flute Sonata in E flat major, BWV1031 [J.S. Bach]",
+    "track": "Andrea Oliva, Angela Hewitt - Flute Sonata in E flat major, BWV1031 [J.S. Bach]",
+    "length": 674,
+    "duration": 674,
+    "started": 1724104932,
+    "type": "track",
+    "track_id": 1039452,
+    "release": "Bach: Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "French Suite No.2, BWV 813 [J.S. Bach]",
+    "display_title": "French Suite No.2, BWV 813 [J.S. Bach]",
+    "track": "Andras Schiff - French Suite No.2, BWV 813 [J.S. Bach]",
+    "length": 885,
+    "duration": 885,
+    "started": 1724106576,
+    "type": "track",
+    "track_id": 1039456,
+    "release": "6 French Suites, etc (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Orchestral Suite No. 4 in D major, BWV 1069 [J.S. Bach]",
+    "display_title": "Orchestral Suite No. 4 in D major, BWV 1069 [J.S. Bach]",
+    "track": "Freiburger Barockorchester - Orchestral Suite No. 4 in D major, BWV 1069 [J.S. Bach]",
+    "length": 1381,
+    "duration": 1381,
+    "started": 1724107461,
+    "type": "track",
+    "track_id": 2931979,
+    "release": "J.S. Bach: Ouvertüren",
+    "art_url": "//cdn-images.audioaddict.com/f/f/9/b/0/4/ff9b0466f5e3ccaa5d5b961588011c62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/9/b/0/4/ff9b0466f5e3ccaa5d5b961588011c62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Bach Collegium Japan, Masaaki Suzuki",
+    "display_artist": "Bach Collegium Japan, Masaaki Suzuki",
+    "title": "Cantata 051, 'Jauchzet Gott in allen Landen' BVW 51 [J.S. Bach]",
+    "display_title": "Cantata 051, 'Jauchzet Gott in allen Landen' BVW 51 [J.S. Bach]",
+    "track": "Bach Collegium Japan, Masaaki Suzuki - Cantata 051, 'Jauchzet Gott in allen Landen' BVW 51 [J.S. Bach]",
+    "length": 1033,
+    "duration": 1033,
+    "started": 1724108979,
+    "type": "track",
+    "track_id": 1039161,
+    "release": "Complete Cantatas (3.30)",
+    "art_url": "//cdn-images.audioaddict.com/1/c/c/d/a/7/1ccda71f7165f4c84416a03ff8a017de.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/c/d/a/7/1ccda71f7165f4c84416a03ff8a017de.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Prelude & Fugue in C Minor (Well-Tempered Clavier, Book I, No. 2), BWV 847 [J.S. Bach]",
+    "display_title": "Prelude & Fugue in C Minor (Well-Tempered Clavier, Book I, No. 2), BWV 847 [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Prelude & Fugue in C Minor (Well-Tempered Clavier, Book I, No. 2), BWV 847 [J.S. Bach]",
+    "length": 182,
+    "duration": 182,
+    "started": 1724110804,
+    "type": "track",
+    "track_id": 2929772,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Karl Richter",
+    "display_artist": "Karl Richter",
+    "title": "Concerto for solo organ No. 2 in A minor (after Vivaldi Op. 3/8, RV 522), BWV 593 (BC J86) [J.S. Bach]",
+    "display_title": "Concerto for solo organ No. 2 in A minor (after Vivaldi Op. 3/8, RV 522), BWV 593 (BC J86) [J.S. Bach]",
+    "track": "Karl Richter - Concerto for solo organ No. 2 in A minor (after Vivaldi Op. 3/8, RV 522), BWV 593 (BC J86) [J.S. Bach]",
+    "length": 704,
+    "duration": 704,
+    "started": 1724110987,
+    "type": "track",
+    "track_id": 2273472,
+    "release": "Bach: Toccata & Fugue",
+    "art_url": "//cdn-images.audioaddict.com/b/5/2/2/8/2/b52282ecba3baff27d9d6a26a36d3915.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/2/2/8/2/b52282ecba3baff27d9d6a26a36d3915.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 6 [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 6 [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 6 [J.S. Bach]",
+    "length": 250,
+    "duration": 250,
+    "started": 1724111689,
+    "type": "track",
+    "track_id": 1039788,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "Goldberg Variations - Variations 11 - 15 [J.S. Bach]",
+    "display_title": "Goldberg Variations - Variations 11 - 15 [J.S. Bach]",
+    "track": "Andras Schiff - Goldberg Variations - Variations 11 - 15 [J.S. Bach]",
+    "length": 846,
+    "duration": 846,
+    "started": 1724119515,
+    "type": "track",
+    "track_id": 1039461,
+    "release": "Ultimate Bach CD4 - Goldberg Variations",
+    "art_url": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music",
+    "display_artist": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music",
+    "title": "Oboe Concerto In D Minor, BWV 1059R [J.S. Bach]",
+    "display_title": "Oboe Concerto In D Minor, BWV 1059R [J.S. Bach]",
+    "track": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music - Oboe Concerto In D Minor, BWV 1059R [J.S. Bach]",
+    "length": 724,
+    "duration": 724,
+    "started": 1724120361,
+    "type": "track",
+    "track_id": 2929812,
+    "release": "Baroque Journey",
+    "art_url": "//cdn-images.audioaddict.com/5/4/9/d/c/d/549dcdd0fac334339f2b29fd66c2f69f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/9/d/c/d/549dcdd0fac334339f2b29fd66c2f69f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Yo-Yo Ma",
+    "display_artist": "Yo-Yo Ma",
+    "title": "Unaccompanied Cello Suite No. 6 in D Major, BWV 1012 [J.S. Bach]",
+    "display_title": "Unaccompanied Cello Suite No. 6 in D Major, BWV 1012 [J.S. Bach]",
+    "track": "Yo-Yo Ma - Unaccompanied Cello Suite No. 6 in D Major, BWV 1012 [J.S. Bach]",
+    "length": 1600,
+    "duration": 1600,
+    "started": 1724124594,
+    "type": "track",
+    "track_id": 2929713,
+    "release": "Six Evolutions - Bach: Cello Suites",
+    "art_url": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Corti, Andrea Buccarella, il pomo d’oro",
+    "display_artist": "Francesco Corti, Andrea Buccarella, il pomo d’oro",
+    "title": "Concerto for 2 Harpsichords in C Minor, BWV 1062 [J.S. Bach]",
+    "display_title": "Concerto for 2 Harpsichords in C Minor, BWV 1062 [J.S. Bach]",
+    "track": "Francesco Corti, Andrea Buccarella, il pomo d’oro - Concerto for 2 Harpsichords in C Minor, BWV 1062 [J.S. Bach]",
+    "length": 794,
+    "duration": 794,
+    "started": 1724126191,
+    "type": "track",
+    "track_id": 3048582,
+    "release": "Bach Harpsichord Concertos Part III",
+    "art_url": "//cdn-images.audioaddict.com/4/f/3/a/9/0/4f3a90c36405b57f4d6e7cdd6323b7fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/3/a/9/0/4f3a90c36405b57f4d6e7cdd6323b7fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Sonata for Violin or Flute and Continuo, No.2 in G, BWV 1021 [J.S. Bach]",
+    "display_title": "Sonata for Violin or Flute and Continuo, No.2 in G, BWV 1021 [J.S. Bach]",
+    "track": "Arthur Grumiaux - Sonata for Violin or Flute and Continuo, No.2 in G, BWV 1021 [J.S. Bach]",
+    "length": 472,
+    "duration": 472,
+    "started": 1724128054,
+    "type": "track",
+    "track_id": 1039798,
+    "release": "Bach-complete violin sonatas(CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/7/9/7/2/4/a79724ec5ba112783bf927c01be5f512.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/7/9/7/2/4/a79724ec5ba112783bf927c01be5f512.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Prelude & Fugue, BWV 855a - 1. Prelude No. 10 in B Minor (Transcr. by Alexander Siloti) [J.S. Bach]",
+    "display_title": "Prelude & Fugue, BWV 855a - 1. Prelude No. 10 in B Minor (Transcr. by Alexander Siloti) [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Prelude & Fugue, BWV 855a - 1. Prelude No. 10 in B Minor (Transcr. by Alexander Siloti) [J.S. Bach]",
+    "length": 180,
+    "duration": 180,
+    "started": 1724128526,
+    "type": "track",
+    "track_id": 2929775,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Hilary Hahn, Los Angeles Chamber Orchestra",
+    "display_artist": "Hilary Hahn, Los Angeles Chamber Orchestra",
+    "title": "Concerto for 2 Harpsichords, Strings, and Continuo in C minor, BWV 1060 [J.S. Bach]",
+    "display_title": "Concerto for 2 Harpsichords, Strings, and Continuo in C minor, BWV 1060 [J.S. Bach]",
+    "track": "Hilary Hahn, Los Angeles Chamber Orchestra - Concerto for 2 Harpsichords, Strings, and Continuo in C minor, BWV 1060 [J.S. Bach]",
+    "length": 785,
+    "duration": 785,
+    "started": 1724129451,
+    "type": "track",
+    "track_id": 1039426,
+    "release": "Bach, Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/0/0/8/9/b/5/0089b58629ec5dc76efa9a857bd92ff7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/8/9/b/5/0089b58629ec5dc76efa9a857bd92ff7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Piemontesi",
+    "display_artist": "Francesco Piemontesi",
+    "title": "Wachet auf, ruft uns die Stimme, BWV 645 (transcr. Busoni) [J.S. Bach]",
+    "display_title": "Wachet auf, ruft uns die Stimme, BWV 645 (transcr. Busoni) [J.S. Bach]",
+    "track": "Francesco Piemontesi - Wachet auf, ruft uns die Stimme, BWV 645 (transcr. Busoni) [J.S. Bach]",
+    "length": 243,
+    "duration": 243,
+    "started": 1724130514,
+    "type": "track",
+    "track_id": 3016071,
+    "release": "Bach Nostalghia",
+    "art_url": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Masaaki Suzuki",
+    "display_artist": "Masaaki Suzuki",
+    "title": "Two-Part Inventions (15), for keyboard, BWV 772-786 (BC L42-56) - Inventio No.6 in E major [J.S. Bach]",
+    "display_title": "Two-Part Inventions (15), for keyboard, BWV 772-786 (BC L42-56) - Inventio No.6 in E major [J.S. Bach]",
+    "track": "Masaaki Suzuki - Two-Part Inventions (15), for keyboard, BWV 772-786 (BC L42-56) - Inventio No.6 in E major [J.S. Bach]",
+    "length": 237,
+    "duration": 237,
+    "started": 1724130758,
+    "type": "track",
+    "track_id": 1039492,
+    "release": "Bach - Inventions and Sinfonias (Suzuki)",
+    "art_url": "//cdn-images.audioaddict.com/c/d/a/0/0/3/cda0030676417d64be50866758a321b8.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/d/a/0/0/3/cda0030676417d64be50866758a321b8.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Fugue No. 5 in D Major, BWV 874 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Fugue No. 5 in D Major, BWV 874 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Fugue No. 5 in D Major, BWV 874 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 107,
+    "duration": 107,
+    "started": 1724130995,
+    "type": "track",
+    "track_id": 3024130,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Prelude & Fughetta in G Major, BWV 902 - 1. Prelude [J.S. Bach]",
+    "display_title": "Prelude & Fughetta in G Major, BWV 902 - 1. Prelude [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Prelude & Fughetta in G Major, BWV 902 - 1. Prelude [J.S. Bach]",
+    "length": 206,
+    "duration": 206,
+    "started": 1724133256,
+    "type": "track",
+    "track_id": 2929771,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Corti, il pomo d’oro",
+    "display_artist": "Francesco Corti, il pomo d’oro",
+    "title": "Concerto for Harpsichord, Flute and Violin, BWV 1044 [J.S. Bach]",
+    "display_title": "Concerto for Harpsichord, Flute and Violin, BWV 1044 [J.S. Bach]",
+    "track": "Francesco Corti, il pomo d’oro - Concerto for Harpsichord, Flute and Violin, BWV 1044 [J.S. Bach]",
+    "length": 1252,
+    "duration": 1252,
+    "started": 1724133462,
+    "type": "track",
+    "track_id": 3007662,
+    "release": "Bach Harpsichord Concertos II",
+    "art_url": "//cdn-images.audioaddict.com/8/0/d/b/6/1/80db61adba064386ae5af1e2343e60f9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/0/d/b/6/1/80db61adba064386ae5af1e2343e60f9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Sinfonia No. 12 in A Major, BWV 798 [J.S. Bach]",
+    "display_title": "Sinfonia No. 12 in A Major, BWV 798 [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Sinfonia No. 12 in A Major, BWV 798 [J.S. Bach]",
+    "length": 83,
+    "duration": 83,
+    "started": 1724135688,
+    "type": "track",
+    "track_id": 2929776,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Camerate Koln",
+    "display_artist": "Camerate Koln",
+    "title": "Concerto in F major after BWV 49 & 169, Oboe [J.S. Bach]",
+    "display_title": "Concerto in F major after BWV 49 & 169, Oboe [J.S. Bach]",
+    "track": "Camerate Koln - Concerto in F major after BWV 49 & 169, Oboe [J.S. Bach]",
+    "length": 1159,
+    "duration": 1159,
+    "started": 1724135884,
+    "type": "track",
+    "track_id": 1039446,
+    "release": "Deutsche Harmonia Mundi - 50 years",
+    "art_url": "//cdn-images.audioaddict.com/0/4/3/a/a/2/043aa2e9049d6a7ebec5d7c0d2656a89.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/3/a/a/2/043aa2e9049d6a7ebec5d7c0d2656a89.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "display_artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "title": "Concerto in G major, BWV 973 (from Vivaldi RV299), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "display_title": "Concerto in G major, BWV 973 (from Vivaldi RV299), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "track": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz - Concerto in G major, BWV 973 (from Vivaldi RV299), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "length": 472,
+    "duration": 472,
+    "started": 1724137043,
+    "type": "track",
+    "track_id": 1039449,
+    "release": "Bach - Handel Harp Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn",
+    "display_artist": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn",
+    "title": "Concerto for 2 Violins in D minor, BWV 1043 (Arr. for Flute, Oboe & Orchestra) [J.S. Bach]",
+    "display_title": "Concerto for 2 Violins in D minor, BWV 1043 (Arr. for Flute, Oboe & Orchestra) [J.S. Bach]",
+    "track": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn - Concerto for 2 Violins in D minor, BWV 1043 (Arr. for Flute, Oboe & Orchestra) [J.S. Bach]",
+    "length": 876,
+    "duration": 876,
+    "started": 1724138449,
+    "type": "track",
+    "track_id": 3044468,
+    "release": "Bach: Unbuttoned",
+    "art_url": "//cdn-images.audioaddict.com/4/e/6/c/5/f/4e6c5fb6684d97defd69b1eafbd2b100.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/6/c/5/f/4e6c5fb6684d97defd69b1eafbd2b100.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Simon Preston",
+    "display_artist": "Simon Preston",
+    "title": "Fugue in G minor, BWV 578 [J.S. Bach]",
+    "display_title": "Fugue in G minor, BWV 578 [J.S. Bach]",
+    "track": "Simon Preston - Fugue in G minor, BWV 578 [J.S. Bach]",
+    "length": 230,
+    "duration": 230,
+    "started": 1724139325,
+    "type": "track",
+    "track_id": 1039621,
+    "release": "Johann Sebastiab Bach - The Organ Works CD6 - Fugues - Passacaglia",
+    "art_url": "//cdn-images.audioaddict.com/7/d/3/1/e/5/7d31e5a9e411db0d640e5fc5c465e3c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/3/1/e/5/7d31e5a9e411db0d640e5fc5c465e3c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Maxence Larrieu, Rafael Puyana",
+    "display_artist": "Maxence Larrieu, Rafael Puyana",
+    "title": "Sonata for flute & harpsichord in B minor, BWV 1030 [J.S. Bach]",
+    "display_title": "Sonata for flute & harpsichord in B minor, BWV 1030 [J.S. Bach]",
+    "track": "Maxence Larrieu, Rafael Puyana - Sonata for flute & harpsichord in B minor, BWV 1030 [J.S. Bach]",
+    "length": 1100,
+    "duration": 1100,
+    "started": 1724139976,
+    "type": "track",
+    "track_id": 1026869,
+    "release": "Bach-Flute And Viola Da Gamba Sonatas(CD1)",
+    "art_url": "//cdn-images.audioaddict.com/c/a/3/6/a/b/ca36ab7cc61127d512a143e75b387b40.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/a/3/6/a/b/ca36ab7cc61127d512a143e75b387b40.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Isabelle Faust, Kristian Bezuidenhout",
+    "display_artist": "Isabelle Faust, Kristian Bezuidenhout",
+    "title": "Sonata for Violin and Harpsichord No.3 In E, BWV 1016 [J.S. Bach]",
+    "display_title": "Sonata for Violin and Harpsichord No.3 In E, BWV 1016 [J.S. Bach]",
+    "track": "Isabelle Faust, Kristian Bezuidenhout - Sonata for Violin and Harpsichord No.3 In E, BWV 1016 [J.S. Bach]",
+    "length": 0,
+    "duration": 0,
+    "started": 1724141076,
+    "type": "track",
+    "track_id": 2929793,
+    "release": "Bach: Sonatas For Violin & Harpsichord (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/b/7/f/a/9/0/b7fa90adccb205a0f1bb461b3bf1b58e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/f/a/9/0/b7fa90adccb205a0f1bb461b3bf1b58e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "display_artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "title": "Brandenburg Concerto No. 3 in G major, BWV 1048 [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 3 in G major, BWV 1048 [J.S. Bach]",
+    "track": "Concerto Italiano, Rinaldo Alessandrini - Brandenburg Concerto No. 3 in G major, BWV 1048 [J.S. Bach]",
+    "length": 597,
+    "duration": 597,
+    "started": 1724142172,
+    "type": "track",
+    "track_id": 2931971,
+    "release": "Brandenburg Concertos (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 1 - Prelude 1 No. 22 In B Flat Minor, BWV867 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 1 - Prelude 1 No. 22 In B Flat Minor, BWV867 [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 1 - Prelude 1 No. 22 In B Flat Minor, BWV867 [J.S. Bach]",
+    "length": 145,
+    "duration": 145,
+    "started": 1724142769,
+    "type": "track",
+    "track_id": 3024108,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Partita for Violin Solo No.3 in E, BWV 1006 [J.S. Bach]",
+    "display_title": "Partita for Violin Solo No.3 in E, BWV 1006 [J.S. Bach]",
+    "track": "Arthur Grumiaux - Partita for Violin Solo No.3 in E, BWV 1006 [J.S. Bach]",
+    "length": 888,
+    "duration": 888,
+    "started": 1724142914,
+    "type": "track",
+    "track_id": 1026865,
+    "release": "Bach-Complete Sonatas And Partitas For Solo Violin(CD2)",
+    "art_url": "//cdn-images.audioaddict.com/2/c/0/f/3/e/2c0f3edb664f25a058227ca7a4dc0443.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/0/f/3/e/2c0f3edb664f25a058227ca7a4dc0443.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Calefax Reed Quintet",
+    "display_artist": "Calefax Reed Quintet",
+    "title": "Canonische Veränderungen über Vom Himmel hoch, BWV 769 (arr. Raaf Hekkema) [J.S. Bach]",
+    "display_title": "Canonische Veränderungen über Vom Himmel hoch, BWV 769 (arr. Raaf Hekkema) [J.S. Bach]",
+    "track": "Calefax Reed Quintet - Canonische Veränderungen über Vom Himmel hoch, BWV 769 (arr. Raaf Hekkema) [J.S. Bach]",
+    "length": 1343,
+    "duration": 1343,
+    "started": 1724146026,
+    "type": "track",
+    "track_id": 3007659,
+    "release": "Bach's Musical Offerings",
+    "art_url": "//cdn-images.audioaddict.com/5/f/7/b/6/0/5f7b6078d9403b8e9a21ca2479feb819.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/7/b/6/0/5f7b6078d9403b8e9a21ca2479feb819.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "French Overture (Partita) BWV 831 [J.S. Bach]",
+    "display_title": "French Overture (Partita) BWV 831 [J.S. Bach]",
+    "track": "Andras Schiff - French Overture (Partita) BWV 831 [J.S. Bach]",
+    "length": 1895,
+    "duration": 1895,
+    "started": 1724147370,
+    "type": "track",
+    "track_id": 1039455,
+    "release": "6 French Suites, etc (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/d/b/7/a/5fdb7a709fe9b3d689c4938b77d55513.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Hilary Hahn, Los Angeles Chamber Orchestra",
+    "display_artist": "Hilary Hahn, Los Angeles Chamber Orchestra",
+    "title": "Violin Concerto No.2 in E, BWV 1042 [J.S. Bach]",
+    "display_title": "Violin Concerto No.2 in E, BWV 1042 [J.S. Bach]",
+    "track": "Hilary Hahn, Los Angeles Chamber Orchestra - Violin Concerto No.2 in E, BWV 1042 [J.S. Bach]",
+    "length": 995,
+    "duration": 995,
+    "started": 1724149264,
+    "type": "track",
+    "track_id": 1026880,
+    "release": "Bach, Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/0/0/8/9/b/5/0089b58629ec5dc76efa9a857bd92ff7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/8/9/b/5/0089b58629ec5dc76efa9a857bd92ff7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Simon Preston",
+    "display_artist": "Simon Preston",
+    "title": "Toccata & Fugue In D Minor, BWV 565 - 1. Fugue [J.S. Bach]",
+    "display_title": "Toccata & Fugue In D Minor, BWV 565 - 1. Fugue [J.S. Bach]",
+    "track": "Simon Preston - Toccata & Fugue In D Minor, BWV 565 - 1. Fugue [J.S. Bach]",
+    "length": 362,
+    "duration": 362,
+    "started": 1724151195,
+    "type": "track",
+    "track_id": 1039728,
+    "release": "Johann Sebastiab Bach - The Organ Works CD5 - Preludes & Fugues (IV)",
+    "art_url": "//cdn-images.audioaddict.com/7/d/3/1/e/5/7d31e5a9e411db0d640e5fc5c465e3c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/3/1/e/5/7d31e5a9e411db0d640e5fc5c465e3c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 1: Prelude No. 12 in F Minor, BWV 857 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 1: Prelude No. 12 in F Minor, BWV 857 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 1: Prelude No. 12 in F Minor, BWV 857 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 135,
+    "duration": 135,
+    "started": 1724154075,
+    "type": "track",
+    "track_id": 3024118,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andrea Oliva, Angela Hewitt",
+    "display_artist": "Andrea Oliva, Angela Hewitt",
+    "title": "Flute Sonata in C major, BWV1033 [J.S. Bach]",
+    "display_title": "Flute Sonata in C major, BWV1033 [J.S. Bach]",
+    "track": "Andrea Oliva, Angela Hewitt - Flute Sonata in C major, BWV1033 [J.S. Bach]",
+    "length": 544,
+    "duration": 544,
+    "started": 1724156081,
+    "type": "track",
+    "track_id": 1039451,
+    "release": "Bach: Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 1: Fugue No. 17 in A-Flat Major, BWV 862 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 1: Fugue No. 17 in A-Flat Major, BWV 862 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 1: Fugue No. 17 in A-Flat Major, BWV 862 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 129,
+    "duration": 129,
+    "started": 1724159958,
+    "type": "track",
+    "track_id": 3024114,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Suite from the Partita No.3 in E Major for Solo Violin, BWV 1006 - 2. Gavotte (Transcr. by Sergey Rachmaninov) [J.S. Bach]",
+    "display_title": "Suite from the Partita No.3 in E Major for Solo Violin, BWV 1006 - 2. Gavotte (Transcr. by Sergey Rachmaninov) [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Suite from the Partita No.3 in E Major for Solo Violin, BWV 1006 - 2. Gavotte (Transcr. by Sergey Rachmaninov) [J.S. Bach]",
+    "length": 168,
+    "duration": 168,
+    "started": 1724160087,
+    "type": "track",
+    "track_id": 2929778,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andrea Oliva, Angela Hewitt",
+    "display_artist": "Andrea Oliva, Angela Hewitt",
+    "title": "Flute Sonata in E minor, BWV1034 [J.S. Bach]",
+    "display_title": "Flute Sonata in E minor, BWV1034 [J.S. Bach]",
+    "track": "Andrea Oliva, Angela Hewitt - Flute Sonata in E minor, BWV1034 [J.S. Bach]",
+    "length": 892,
+    "duration": 892,
+    "started": 1724161389,
+    "type": "track",
+    "track_id": 1039454,
+    "release": "Bach: Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/c/4/0/a/10c40a1575ebba26350437fc76f792b5.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Fantasia & Fugue in A Minor, BWV 904 - 2. Fugue [J.S. Bach]",
+    "display_title": "Fantasia & Fugue in A Minor, BWV 904 - 2. Fugue [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Fantasia & Fugue in A Minor, BWV 904 - 2. Fugue [J.S. Bach]",
+    "length": 314,
+    "duration": 314,
+    "started": 1724162282,
+    "type": "track",
+    "track_id": 2929765,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Stephan Schmidt",
+    "display_artist": "Stephan Schmidt",
+    "title": "Prelude, Fugue and Allegro for Lute in E flat major, BWV 998 [J.S. Bach]",
+    "display_title": "Prelude, Fugue and Allegro for Lute in E flat major, BWV 998 [J.S. Bach]",
+    "track": "Stephan Schmidt - Prelude, Fugue and Allegro for Lute in E flat major, BWV 998 [J.S. Bach]",
+    "length": 765,
+    "duration": 765,
+    "started": 1724163653,
+    "type": "track",
+    "track_id": 2931984,
+    "release": "Bach: Lute Works",
+    "art_url": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "display_artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "title": "Concerto in C major, BWV 976 (from Vivaldi RV265), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "display_title": "Concerto in C major, BWV 976 (from Vivaldi RV265), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "track": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz - Concerto in C major, BWV 976 (from Vivaldi RV265), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "length": 629,
+    "duration": 629,
+    "started": 1724165820,
+    "type": "track",
+    "track_id": 1039441,
+    "release": "Bach - Handel Harp Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Simon Preston",
+    "display_artist": "Simon Preston",
+    "title": "Toccata, Adagio & Fugue in A minor, BWV 564 - 2. Adagio [J.S. Bach]",
+    "display_title": "Toccata, Adagio & Fugue in A minor, BWV 564 - 2. Adagio [J.S. Bach]",
+    "track": "Simon Preston - Toccata, Adagio & Fugue in A minor, BWV 564 - 2. Adagio [J.S. Bach]",
+    "length": 274,
+    "duration": 274,
+    "started": 1724169163,
+    "type": "track",
+    "track_id": 1039734,
+    "release": "Johann Sebastiab Bach - The Organ Works CD4 - Preludes & Fugues (III)",
+    "art_url": "//cdn-images.audioaddict.com/7/d/3/1/e/5/7d31e5a9e411db0d640e5fc5c465e3c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/3/1/e/5/7d31e5a9e411db0d640e5fc5c465e3c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Gustav Leonhardt",
+    "display_artist": "Gustav Leonhardt",
+    "title": "The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 860 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 860 [J.S. Bach]",
+    "track": "Gustav Leonhardt - The Well-Tempered Clavier, Book 1. Prelude and Fugue BWV 860 [J.S. Bach]",
+    "length": 240,
+    "duration": 240,
+    "started": 1724169438,
+    "type": "track",
+    "track_id": 923570,
+    "release": "Baroque Masterpieces - CD09 - J.S. Bach: The Well-Tempered Clavier (Highlights)",
+    "art_url": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Chorale - Wenn wir in hoechsten Noeten sein [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Chorale - Wenn wir in hoechsten Noeten sein [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Chorale - Wenn wir in hoechsten Noeten sein [J.S. Bach]",
+    "length": 195,
+    "duration": 195,
+    "started": 1724169679,
+    "type": "track",
+    "track_id": 1039774,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Concerto for Violin and Oboe in D Minor [J.S. Bach]",
+    "display_title": "Concerto for Violin and Oboe in D Minor [J.S. Bach]",
+    "track": "Arthur Grumiaux - Concerto for Violin and Oboe in D Minor [J.S. Bach]",
+    "length": 873,
+    "duration": 873,
+    "started": 1724175907,
+    "type": "track",
+    "track_id": 1039434,
+    "release": "Ultimate Bach CD3 - Concertos for Violin, 2 Violins, etc.",
+    "art_url": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Sonata for Violin or Flute and Continuo, No.3 in F, BWV 1022 Anh.II 154 [J.S. Bach]",
+    "display_title": "Sonata for Violin or Flute and Continuo, No.3 in F, BWV 1022 Anh.II 154 [J.S. Bach]",
+    "track": "Arthur Grumiaux - Sonata for Violin or Flute and Continuo, No.3 in F, BWV 1022 Anh.II 154 [J.S. Bach]",
+    "length": 512,
+    "duration": 512,
+    "started": 1724176778,
+    "type": "track",
+    "track_id": 1039799,
+    "release": "Bach-complete violin sonatas(CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/7/9/7/2/4/a79724ec5ba112783bf927c01be5f512.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/7/9/7/2/4/a79724ec5ba112783bf927c01be5f512.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Yo-Yo Ma",
+    "display_artist": "Yo-Yo Ma",
+    "title": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008 [J.S. Bach]",
+    "display_title": "Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008 [J.S. Bach]",
+    "track": "Yo-Yo Ma - Unaccompanied Cello Suite No. 2 in D Minor, BWV 1008 [J.S. Bach]",
+    "length": 1145,
+    "duration": 1145,
+    "started": 1724178789,
+    "type": "track",
+    "track_id": 2929709,
+    "release": "Six Evolutions - Bach: Cello Suites",
+    "art_url": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Isabelle Faust, Kristian Bezuidenhout",
+    "display_artist": "Isabelle Faust, Kristian Bezuidenhout",
+    "title": "Sonata for Violin and Harpsichord No.4 In C Minor, BWV 1017 [J.S. Bach]",
+    "display_title": "Sonata for Violin and Harpsichord No.4 In C Minor, BWV 1017 [J.S. Bach]",
+    "track": "Isabelle Faust, Kristian Bezuidenhout - Sonata for Violin and Harpsichord No.4 In C Minor, BWV 1017 [J.S. Bach]",
+    "length": 0,
+    "duration": 0,
+    "started": 1724179927,
+    "type": "track",
+    "track_id": 2929794,
+    "release": "Bach: Sonatas For Violin & Harpsichord [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/4/b/f/b/2/b/4bfb2b93a1ebb86f368742c26ce411a9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/f/b/2/b/4bfb2b93a1ebb86f368742c26ce411a9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Gustav Leonhardt",
+    "display_artist": "Gustav Leonhardt",
+    "title": "The Well-Tempered Clavier, Book 2. Prelude and Fugue BWV 881 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier, Book 2. Prelude and Fugue BWV 881 [J.S. Bach]",
+    "track": "Gustav Leonhardt - The Well-Tempered Clavier, Book 2. Prelude and Fugue BWV 881 [J.S. Bach]",
+    "length": 339,
+    "duration": 339,
+    "started": 1724180903,
+    "type": "track",
+    "track_id": 923628,
+    "release": "Baroque Masterpieces - CD09 - J.S. Bach: The Well-Tempered Clavier (Highlights)",
+    "art_url": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/e/4/2/1/eee421446c85f61b5d136929973bad22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Freiburger Barockorchester",
+    "display_artist": "Freiburger Barockorchester",
+    "title": "Orchestral Suite No. 3 in D major, BWV 1068 [J.S. Bach]",
+    "display_title": "Orchestral Suite No. 3 in D major, BWV 1068 [J.S. Bach]",
+    "track": "Freiburger Barockorchester - Orchestral Suite No. 3 in D major, BWV 1068 [J.S. Bach]",
+    "length": 1345,
+    "duration": 1345,
+    "started": 1724182021,
+    "type": "track",
+    "track_id": 2931978,
+    "release": "J.S. Bach: Ouvertüren (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/f/f/9/b/0/4/ff9b0466f5e3ccaa5d5b961588011c62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/9/b/0/4/ff9b0466f5e3ccaa5d5b961588011c62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "Chorale Prelude BWV653b 'An Wasserflüssen Babylon' [J.S. Bach]",
+    "display_title": "Chorale Prelude BWV653b 'An Wasserflüssen Babylon' [J.S. Bach]",
+    "track": "Phantasm - Chorale Prelude BWV653b 'An Wasserflüssen Babylon' [J.S. Bach]",
+    "length": 191,
+    "duration": 191,
+    "started": 1724186401,
+    "type": "track",
+    "track_id": 3024096,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "display_artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "title": "Keyboard Concerto No.1 in D Minor, BWV 1052 [J.S. Bach]",
+    "display_title": "Keyboard Concerto No.1 in D Minor, BWV 1052 [J.S. Bach]",
+    "track": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti - Keyboard Concerto No.1 in D Minor, BWV 1052 [J.S. Bach]",
+    "length": 1366,
+    "duration": 1366,
+    "started": 1724186593,
+    "type": "track",
+    "track_id": 2931961,
+    "release": "Bach: Keyboard Concertos [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 10 [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 10 [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 10 [J.S. Bach]",
+    "length": 182,
+    "duration": 182,
+    "started": 1724187959,
+    "type": "track",
+    "track_id": 1039775,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Anne Sofie von Otter et. al, English Baroque Soloists, , The Monteverdi Choir, The London Oratory Junior Choir, J.E. Gardiner",
+    "display_artist": "Anne Sofie von Otter et. al, English Baroque Soloists, , The Monteverdi Choir, The London Oratory Junior Choir, J.E. Gardiner",
+    "title": "St. Matthew Passion, BWV 244, Part 2-1 [J.S. Bach]",
+    "display_title": "St. Matthew Passion, BWV 244, Part 2-1 [J.S. Bach]",
+    "track": "Anne Sofie von Otter et. al, English Baroque Soloists, , The Monteverdi Choir, The London Oratory Junior Choir, J.E. Gardiner - St. Matthew Passion, BWV 244, Part 2-1 [J.S. Bach]",
+    "length": 2986,
+    "duration": 2986,
+    "started": 1724188392,
+    "type": "track",
+    "track_id": 1039769,
+    "release": "J.S. Bach - St. Matthew Passion CD2",
+    "art_url": "//cdn-images.audioaddict.com/2/6/2/1/4/0/26214035dbb3ac22e49344c4a2063bcc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/2/1/4/0/26214035dbb3ac22e49344c4a2063bcc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Partita for Violin Solo No.2 in D minor, BWV 1004 [J.S. Bach]",
+    "display_title": "Partita for Violin Solo No.2 in D minor, BWV 1004 [J.S. Bach]",
+    "track": "Arthur Grumiaux - Partita for Violin Solo No.2 in D minor, BWV 1004 [J.S. Bach]",
+    "length": 1486,
+    "duration": 1486,
+    "started": 1724191376,
+    "type": "track",
+    "track_id": 1026864,
+    "release": "Bach-Complete Sonatas And Partitas For Solo Violin(CD2)",
+    "art_url": "//cdn-images.audioaddict.com/2/c/0/f/3/e/2c0f3edb664f25a058227ca7a4dc0443.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/0/f/3/e/2c0f3edb664f25a058227ca7a4dc0443.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arthur Grumiaux",
+    "display_artist": "Arthur Grumiaux",
+    "title": "Sonata for Violin or Flute and Continuo, No.4 in E minor, BWV 1023 [J.S. Bach]",
+    "display_title": "Sonata for Violin or Flute and Continuo, No.4 in E minor, BWV 1023 [J.S. Bach]",
+    "track": "Arthur Grumiaux - Sonata for Violin or Flute and Continuo, No.4 in E minor, BWV 1023 [J.S. Bach]",
+    "length": 757,
+    "duration": 757,
+    "started": 1724192862,
+    "type": "track",
+    "track_id": 1039800,
+    "release": "Bach-complete violin sonatas(CD2)",
+    "art_url": "//cdn-images.audioaddict.com/a/7/9/7/2/4/a79724ec5ba112783bf927c01be5f512.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/7/9/7/2/4/a79724ec5ba112783bf927c01be5f512.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "Clavier-Übung III - Fugue In E Flat Major, BWV552 / 2 'St Anne' [J.S. Bach]",
+    "display_title": "Clavier-Übung III - Fugue In E Flat Major, BWV552 / 2 'St Anne' [J.S. Bach]",
+    "track": "Phantasm - Clavier-Übung III - Fugue In E Flat Major, BWV552 / 2 'St Anne' [J.S. Bach]",
+    "length": 332,
+    "duration": 332,
+    "started": 1724193616,
+    "type": "track",
+    "track_id": 3024100,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Karl Richter",
+    "display_artist": "Karl Richter",
+    "title": "Wachet auf, ruft uns die Stimme, chorale prelude for organ (Schübler Chorale No. 1), BWV 645 (BC K22) [J.S. Bach]",
+    "display_title": "Wachet auf, ruft uns die Stimme, chorale prelude for organ (Schübler Chorale No. 1), BWV 645 (BC K22) [J.S. Bach]",
+    "track": "Karl Richter - Wachet auf, ruft uns die Stimme, chorale prelude for organ (Schübler Chorale No. 1), BWV 645 (BC K22) [J.S. Bach]",
+    "length": 353,
+    "duration": 353,
+    "started": 1724196772,
+    "type": "track",
+    "track_id": 2273487,
+    "release": "Bach: Toccata & Fugue",
+    "art_url": "//cdn-images.audioaddict.com/b/5/2/2/8/2/b52282ecba3baff27d9d6a26a36d3915.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/2/2/8/2/b52282ecba3baff27d9d6a26a36d3915.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Carlo Curley",
+    "display_artist": "Carlo Curley",
+    "title": "Toccata And Fugue In D Minor, BWV 565 - Fugue [J.S. Bach]",
+    "display_title": "Toccata And Fugue In D Minor, BWV 565 - Fugue [J.S. Bach]",
+    "track": "Carlo Curley - Toccata And Fugue In D Minor, BWV 565 - Fugue [J.S. Bach]",
+    "length": 401,
+    "duration": 401,
+    "started": 1724197118,
+    "type": "track",
+    "track_id": 1899950,
+    "release": "Ultimate Bach CD 5 - Organ Masterpieces",
+    "art_url": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Calefax Reed Quintet, Arthur Klaassens",
+    "display_artist": "Calefax Reed Quintet, Arthur Klaassens",
+    "title": "14 Canons, BWV 1087 (arr. Raaf Hekkema) [J.S. Bach]",
+    "display_title": "14 Canons, BWV 1087 (arr. Raaf Hekkema) [J.S. Bach]",
+    "track": "Calefax Reed Quintet, Arthur Klaassens - 14 Canons, BWV 1087 (arr. Raaf Hekkema) [J.S. Bach]",
+    "length": 267,
+    "duration": 267,
+    "started": 1724198918,
+    "type": "track",
+    "track_id": 3007660,
+    "release": "Bach's Musical Offerings",
+    "art_url": "//cdn-images.audioaddict.com/5/f/7/b/6/0/5f7b6078d9403b8e9a21ca2479feb819.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/7/b/6/0/5f7b6078d9403b8e9a21ca2479feb819.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "display_artist": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti",
+    "title": "Keyboard Concerto No.6 in F major, BWV 1057 [J.S. Bach]",
+    "display_title": "Keyboard Concerto No.6 in F major, BWV 1057 [J.S. Bach]",
+    "track": "Angela Hewitt, Australian Chamber Orchestra, Richard Tognetti - Keyboard Concerto No.6 in F major, BWV 1057 [J.S. Bach]",
+    "length": 993,
+    "duration": 993,
+    "started": 1724200991,
+    "type": "track",
+    "track_id": 2931966,
+    "release": "Bach: The Keyboard Concertos, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/a/8/2/f/3ba82f513c0528dfcc5bcff270bd4b49.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Hilary Hahn, Los Angeles Chamber Orchestra",
+    "display_artist": "Hilary Hahn, Los Angeles Chamber Orchestra",
+    "title": "Violin Concerto No.1 in A minor, BWV 1041 [J.S. Bach]",
+    "display_title": "Violin Concerto No.1 in A minor, BWV 1041 [J.S. Bach]",
+    "track": "Hilary Hahn, Los Angeles Chamber Orchestra - Violin Concerto No.1 in A minor, BWV 1041 [J.S. Bach]",
+    "length": 814,
+    "duration": 814,
+    "started": 1724203045,
+    "type": "track",
+    "track_id": 1026879,
+    "release": "Bach, Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/0/0/8/9/b/5/0089b58629ec5dc76efa9a857bd92ff7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/8/9/b/5/0089b58629ec5dc76efa9a857bd92ff7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "display_artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "title": "Concerto in F major, BWV 978 (from Vivaldi RV310), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "display_title": "Concerto in F major, BWV 978 (from Vivaldi RV310), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "track": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz - Concerto in F major, BWV 978 (from Vivaldi RV310), Arr. for harp and orchestra by N. Zabaleta [J.S. Bach]",
+    "length": 486,
+    "duration": 486,
+    "started": 1724204644,
+    "type": "track",
+    "track_id": 1039447,
+    "release": "Bach - Handel Harp Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Prelude No. 5 in D Major, BWV 874 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Prelude No. 5 in D Major, BWV 874 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Prelude No. 5 in D Major, BWV 874 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 256,
+    "duration": 256,
+    "started": 1724206268,
+    "type": "track",
+    "track_id": 3024137,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Corti, Andrea Buccarella, il pomo d’oro",
+    "display_artist": "Francesco Corti, Andrea Buccarella, il pomo d’oro",
+    "title": "Concerto for 2 Harpsichords in C Minor, BWV 1060 [J.S. Bach]",
+    "display_title": "Concerto for 2 Harpsichords in C Minor, BWV 1060 [J.S. Bach]",
+    "track": "Francesco Corti, Andrea Buccarella, il pomo d’oro - Concerto for 2 Harpsichords in C Minor, BWV 1060 [J.S. Bach]",
+    "length": 822,
+    "duration": 822,
+    "started": 1724206524,
+    "type": "track",
+    "track_id": 3048581,
+    "release": "Bach Harpsichord Concertos Part III",
+    "art_url": "//cdn-images.audioaddict.com/4/f/3/a/9/0/4f3a90c36405b57f4d6e7cdd6323b7fc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/f/3/a/9/0/4f3a90c36405b57f4d6e7cdd6323b7fc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Yo-Yo Ma",
+    "display_artist": "Yo-Yo Ma",
+    "title": "Unaccompanied Cello Suite No. 5 in C Minor, BWV 1011 [J.S. Bach]",
+    "display_title": "Unaccompanied Cello Suite No. 5 in C Minor, BWV 1011 [J.S. Bach]",
+    "track": "Yo-Yo Ma - Unaccompanied Cello Suite No. 5 in C Minor, BWV 1011 [J.S. Bach]",
+    "length": 1498,
+    "duration": 1498,
+    "started": 1724210776,
+    "type": "track",
+    "track_id": 2929712,
+    "release": "Six Evolutions - Bach: Cello Suites",
+    "art_url": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/c/2/8/b/24c28b1c44dd1a05404546925193a541.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Alina Ibragimova, Arcangelo, Jonathan Cohen",
+    "display_artist": "Alina Ibragimova, Arcangelo, Jonathan Cohen",
+    "title": "Concerto for violin, strings & continuo No. 2 in E major, BWV 1042 [J.S. Bach]",
+    "display_title": "Concerto for violin, strings & continuo No. 2 in E major, BWV 1042 [J.S. Bach]",
+    "track": "Alina Ibragimova, Arcangelo, Jonathan Cohen - Concerto for violin, strings & continuo No. 2 in E major, BWV 1042 [J.S. Bach]",
+    "length": 896,
+    "duration": 896,
+    "started": 1724212268,
+    "type": "track",
+    "track_id": 2931960,
+    "release": "Bach: Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/a/4/d/2/e/a/a4d2ea27a7f7ca8aaac566fc4e4227ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/d/2/e/a/a4d2ea27a7f7ca8aaac566fc4e4227ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn",
+    "display_artist": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn",
+    "title": "Brandenburg Concerto No. 5 in D major, BWV 1050 (Arr. for Flute, Violin & Harpsichord) [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 5 in D major, BWV 1050 (Arr. for Flute, Violin & Harpsichord) [J.S. Bach]",
+    "track": "Ana de la Vega, Ramón Ortega Quero, Alexander Sitkovetsky, Johannes Berger, Cyrus Allyar, Württembergisches Kammerorchester Heilbronn - Brandenburg Concerto No. 5 in D major, BWV 1050 (Arr. for Flute, Violin & Harpsichord) [J.S. Bach]",
+    "length": 1231,
+    "duration": 1231,
+    "started": 1724213165,
+    "type": "track",
+    "track_id": 3044467,
+    "release": "Bach: Unbuttoned",
+    "art_url": "//cdn-images.audioaddict.com/4/e/6/c/5/f/4e6c5fb6684d97defd69b1eafbd2b100.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/6/c/5/f/4e6c5fb6684d97defd69b1eafbd2b100.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus I [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus I [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus I [J.S. Bach]",
+    "length": 184,
+    "duration": 184,
+    "started": 1724214396,
+    "type": "track",
+    "track_id": 1039792,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Collegium Aureum",
+    "display_artist": "Collegium Aureum",
+    "title": "Overture No.1 in C Major, BWV1066-1-Overture [J.S. Bach]",
+    "display_title": "Overture No.1 in C Major, BWV1066-1-Overture [J.S. Bach]",
+    "track": "Collegium Aureum - Overture No.1 in C Major, BWV1066-1-Overture [J.S. Bach]",
+    "length": 409,
+    "duration": 409,
+    "started": 1724215234,
+    "type": "track",
+    "track_id": 1046281,
+    "release": "J.S Bach - Overtures Nos. 1, 2",
+    "art_url": "//cdn-images.audioaddict.com/3/5/5/b/f/1/355bf1a67f2318449cdb62a030a3fe9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/5/b/f/1/355bf1a67f2318449cdb62a030a3fe9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Arabella Steinbacher, Stuttgarter Kammerorchester",
+    "display_artist": "Arabella Steinbacher, Stuttgarter Kammerorchester",
+    "title": "Violin Concerto in A Minor, BWV 1041 [J.S. Bach]",
+    "display_title": "Violin Concerto in A Minor, BWV 1041 [J.S. Bach]",
+    "track": "Arabella Steinbacher, Stuttgarter Kammerorchester - Violin Concerto in A Minor, BWV 1041 [J.S. Bach]",
+    "length": 810,
+    "duration": 810,
+    "started": 1724217206,
+    "type": "track",
+    "track_id": 3059786,
+    "release": "Bach & Pärt",
+    "art_url": "//cdn-images.audioaddict.com/d/5/e/e/2/2/d5ee22f90c4d7d285e727a58e3b0f37b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/e/e/2/2/d5ee22f90c4d7d285e727a58e3b0f37b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Hilary Hahn, Los Angeles Chamber Orchestra",
+    "display_artist": "Hilary Hahn, Los Angeles Chamber Orchestra",
+    "title": "Concerto for 2 Violins, Strings, and Continuo in D minor, BWV 1043 [J.S. Bach]",
+    "display_title": "Concerto for 2 Violins, Strings, and Continuo in D minor, BWV 1043 [J.S. Bach]",
+    "track": "Hilary Hahn, Los Angeles Chamber Orchestra - Concerto for 2 Violins, Strings, and Continuo in D minor, BWV 1043 [J.S. Bach]",
+    "length": 864,
+    "duration": 864,
+    "started": 1724218015,
+    "type": "track",
+    "track_id": 1039427,
+    "release": "Bach, Violin Concertos",
+    "art_url": "//cdn-images.audioaddict.com/0/0/8/9/b/5/0089b58629ec5dc76efa9a857bd92ff7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/8/9/b/5/0089b58629ec5dc76efa9a857bd92ff7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Pygmalion, Raphaël Pichon",
+    "display_artist": "Pygmalion, Raphaël Pichon",
+    "title": "Wir Müssen Durch Viel Trübsal, BWV 146 - Sinfonia [J.S. Bach]",
+    "display_title": "Wir Müssen Durch Viel Trübsal, BWV 146 - Sinfonia [J.S. Bach]",
+    "track": "Pygmalion, Raphaël Pichon - Wir Müssen Durch Viel Trübsal, BWV 146 - Sinfonia [J.S. Bach]",
+    "length": 429,
+    "duration": 429,
+    "started": 1724220446,
+    "type": "track",
+    "track_id": 3041734,
+    "release": "Bach & Handel",
+    "art_url": "//cdn-images.audioaddict.com/7/d/6/f/4/f/7d6f4f6d11e8bdda15c9c84feb1f0ac5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/6/f/4/f/7d6f4f6d11e8bdda15c9c84feb1f0ac5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "display_artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "title": "Brandenburg Concerto No. 1 in F major, BWV 1046 [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 1 in F major, BWV 1046 [J.S. Bach]",
+    "track": "Concerto Italiano, Rinaldo Alessandrini - Brandenburg Concerto No. 1 in F major, BWV 1046 [J.S. Bach]",
+    "length": 782,
+    "duration": 782,
+    "started": 1724220875,
+    "type": "track",
+    "track_id": 2931969,
+    "release": "Brandenburg Concertos (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Invention No. 15 in B Minor, BWV 786 [J.S. Bach]",
+    "display_title": "Invention No. 15 in B Minor, BWV 786 [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Invention No. 15 in B Minor, BWV 786 [J.S. Bach]",
+    "length": 71,
+    "duration": 71,
+    "started": 1724221773,
+    "type": "track",
+    "track_id": 2929768,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Prelude & Fugue in E Minor (Well-Tempered Clavier, Book I, No. 10), BWV 855 [J.S. Bach]",
+    "display_title": "Prelude & Fugue in E Minor (Well-Tempered Clavier, Book I, No. 10), BWV 855 [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Prelude & Fugue in E Minor (Well-Tempered Clavier, Book I, No. 10), BWV 855 [J.S. Bach]",
+    "length": 199,
+    "duration": 199,
+    "started": 1724223354,
+    "type": "track",
+    "track_id": 2929774,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Andras Schiff",
+    "display_artist": "Andras Schiff",
+    "title": "Goldberg Variations - Aria - Variations 1 - 5 [J.S. Bach]",
+    "display_title": "Goldberg Variations - Aria - Variations 1 - 5 [J.S. Bach]",
+    "track": "Andras Schiff - Goldberg Variations - Aria - Variations 1 - 5 [J.S. Bach]",
+    "length": 700,
+    "duration": 700,
+    "started": 1724223555,
+    "type": "track",
+    "track_id": 1039460,
+    "release": "Ultimate Bach CD4 - Goldberg Variations",
+    "art_url": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/2/1/c/f/9a21cf7423f21e2b8e950eebeaa882a4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Pieter-Jan Belder, Musica Amphion",
+    "display_artist": "Pieter-Jan Belder, Musica Amphion",
+    "title": "Concerto In C For 3 Harpsichords, BWV 1064 [J.S. Bach]",
+    "display_title": "Concerto In C For 3 Harpsichords, BWV 1064 [J.S. Bach]",
+    "track": "Pieter-Jan Belder, Musica Amphion - Concerto In C For 3 Harpsichords, BWV 1064 [J.S. Bach]",
+    "length": 953,
+    "duration": 953,
+    "started": 1724224253,
+    "type": "track",
+    "track_id": 1039438,
+    "release": "Bach Edition - Concertos For 2 & 3 Harpsichords [Disc 8]",
+    "art_url": "//cdn-images.audioaddict.com/1/7/7/c/1/8/177c18863197fe812bb997749a9af66d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/7/c/1/8/177c18863197fe812bb997749a9af66d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "display_artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "title": "Brandenburg Concerto No. 2 in F major, BWV 1047 [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 2 in F major, BWV 1047 [J.S. Bach]",
+    "track": "Concerto Italiano, Rinaldo Alessandrini - Brandenburg Concerto No. 2 in F major, BWV 1047 [J.S. Bach]",
+    "length": 671,
+    "duration": 671,
+    "started": 1724231067,
+    "type": "track",
+    "track_id": 2931970,
+    "release": "Brandenburg Concertos (CD1)",
+    "art_url": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Bach Collegium Japan, Masaaki Suzuki",
+    "display_artist": "Bach Collegium Japan, Masaaki Suzuki",
+    "title": "Cantata 023, 'Du wahrer Gott und Davids Sohn' BWV 23 [J.S. Bach]",
+    "display_title": "Cantata 023, 'Du wahrer Gott und Davids Sohn' BWV 23 [J.S. Bach]",
+    "track": "Bach Collegium Japan, Masaaki Suzuki - Cantata 023, 'Du wahrer Gott und Davids Sohn' BWV 23 [J.S. Bach]",
+    "length": 973,
+    "duration": 973,
+    "started": 1724231739,
+    "type": "track",
+    "track_id": 1039119,
+    "release": "Complete Cantatas (1.8)",
+    "art_url": "//cdn-images.audioaddict.com/2/0/0/9/b/a/2009ba8c95cdd5103005d2fbd4788039.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/0/9/b/a/2009ba8c95cdd5103005d2fbd4788039.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Bach Collegium Japan, Masaaki Suzuki",
+    "display_artist": "Bach Collegium Japan, Masaaki Suzuki",
+    "title": "Cantata 001, 'Wie schon leuchtet der Morgenstern' BWV 1 [J.S. Bach]",
+    "display_title": "Cantata 001, 'Wie schon leuchtet der Morgenstern' BWV 1 [J.S. Bach]",
+    "track": "Bach Collegium Japan, Masaaki Suzuki - Cantata 001, 'Wie schon leuchtet der Morgenstern' BWV 1 [J.S. Bach]",
+    "length": 1815,
+    "duration": 1815,
+    "started": 1724232712,
+    "type": "track",
+    "track_id": 1039084,
+    "release": "Complete Cantatas (4.34)",
+    "art_url": "//cdn-images.audioaddict.com/e/c/6/4/6/f/ec646f580d27e0c3b4f28b98a1b0d05b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/c/6/4/6/f/ec646f580d27e0c3b4f28b98a1b0d05b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Fugue No. 16 in G Minor BWV 885 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Fugue No. 16 in G Minor BWV 885 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Fugue No. 16 in G Minor BWV 885 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 177,
+    "duration": 177,
+    "started": 1724236067,
+    "type": "track",
+    "track_id": 3024125,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Emerson String Quartet",
+    "display_artist": "Emerson String Quartet",
+    "title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 4 [J.S. Bach]",
+    "display_title": "The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 4 [J.S. Bach]",
+    "track": "Emerson String Quartet - The Art of Fugue BWV 1080 (for String Quartet) - Contrapunctus 4 [J.S. Bach]",
+    "length": 210,
+    "duration": 210,
+    "started": 1724236244,
+    "type": "track",
+    "track_id": 1039786,
+    "release": "Die Kunst der Fuge - The Art of Fugue BWV 1080 ((für Streichquartett - for String Quartet)",
+    "art_url": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/4/7/8/f/2f478fc47a8526ab71240c1aa68ccf26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Invention No. 12 in A Major, BWV 783 [J.S. Bach]",
+    "display_title": "Invention No. 12 in A Major, BWV 783 [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Invention No. 12 in A Major, BWV 783 [J.S. Bach]",
+    "length": 79,
+    "duration": 79,
+    "started": 1724246393,
+    "type": "track",
+    "track_id": 2929767,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Fugue No. 1 in C Major, BWV 870 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Fugue No. 1 in C Major, BWV 870 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Fugue No. 1 in C Major, BWV 870 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 115,
+    "duration": 115,
+    "started": 1724249383,
+    "type": "track",
+    "track_id": 3024122,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Ich ruf zu dir Herr Jesu Christ, Chorale Prelude BWV 639 (Transcr. by Ferruccio Busoni) [J.S. Bach]",
+    "display_title": "Ich ruf zu dir Herr Jesu Christ, Chorale Prelude BWV 639 (Transcr. by Ferruccio Busoni) [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Ich ruf zu dir Herr Jesu Christ, Chorale Prelude BWV 639 (Transcr. by Ferruccio Busoni) [J.S. Bach]",
+    "length": 188,
+    "duration": 188,
+    "started": 1724251235,
+    "type": "track",
+    "track_id": 2929766,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Víkingur Ólafsson",
+    "display_artist": "Víkingur Ólafsson",
+    "title": "Concerto in D Minor, BWV 974 [J.S. Bach]",
+    "display_title": "Concerto in D Minor, BWV 974 [J.S. Bach]",
+    "track": "Víkingur Ólafsson - Concerto in D Minor, BWV 974 [J.S. Bach]",
+    "length": 598,
+    "duration": 598,
+    "started": 1724262162,
+    "type": "track",
+    "track_id": 2929763,
+    "release": "Johann Sebastian Bach",
+    "art_url": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/0/0/9/0/b60090ba555523adf4b5f5d5fa1f1d39.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "Chorale Prelude BWV737 'Vater Unser Im Himmelreich' [J.S. Bach]",
+    "display_title": "Chorale Prelude BWV737 'Vater Unser Im Himmelreich' [J.S. Bach]",
+    "track": "Phantasm - Chorale Prelude BWV737 'Vater Unser Im Himmelreich' [J.S. Bach]",
+    "length": 126,
+    "duration": 126,
+    "started": 1724274512,
+    "type": "track",
+    "track_id": 3024098,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Pieter-Jan Belder, Musica Amphion",
+    "display_artist": "Pieter-Jan Belder, Musica Amphion",
+    "title": "Concerto In D Minor For 3 Harpsichords, BWV 1063 [J.S. Bach]",
+    "display_title": "Concerto In D Minor For 3 Harpsichords, BWV 1063 [J.S. Bach]",
+    "track": "Pieter-Jan Belder, Musica Amphion - Concerto In D Minor For 3 Harpsichords, BWV 1063 [J.S. Bach]",
+    "length": 805,
+    "duration": 805,
+    "started": 1724293444,
+    "type": "track",
+    "track_id": 1039444,
+    "release": "Bach Edition - Concertos For 2 & 3 Harpsichords [Disc 8]",
+    "art_url": "//cdn-images.audioaddict.com/1/7/7/c/1/8/177c18863197fe812bb997749a9af66d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/7/7/c/1/8/177c18863197fe812bb997749a9af66d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2 - Fugue No. 17 In B-Flat Major, BWV886 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2 - Fugue No. 17 In B-Flat Major, BWV886 [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2 - Fugue No. 17 In B-Flat Major, BWV886 [J.S. Bach]",
+    "length": 140,
+    "duration": 140,
+    "started": 1724305052,
+    "type": "track",
+    "track_id": 3024119,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "display_artist": "Concerto Italiano, Rinaldo Alessandrini",
+    "title": "Brandenburg Concerto No. 5 in D major, BWV 1050 [J.S. Bach]",
+    "display_title": "Brandenburg Concerto No. 5 in D major, BWV 1050 [J.S. Bach]",
+    "track": "Concerto Italiano, Rinaldo Alessandrini - Brandenburg Concerto No. 5 in D major, BWV 1050 [J.S. Bach]",
+    "length": 1220,
+    "duration": 1220,
+    "started": 1724314815,
+    "type": "track",
+    "track_id": 2931973,
+    "release": "Brandenburg Concertos (CD2)",
+    "art_url": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/f/c/3/a/5cfc3ad1e66e70a1a27974e5c08ac4dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Stephan Schmidt",
+    "display_artist": "Stephan Schmidt",
+    "title": "Prelude for Lute in C minor, BWV 999 [J.S. Bach]",
+    "display_title": "Prelude for Lute in C minor, BWV 999 [J.S. Bach]",
+    "track": "Stephan Schmidt - Prelude for Lute in C minor, BWV 999 [J.S. Bach]",
+    "length": 114,
+    "duration": 114,
+    "started": 1724337032,
+    "type": "track",
+    "track_id": 2931983,
+    "release": "Bach: Lute Works",
+    "art_url": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/0/4/a/7/2504a7f5269a8b9542ad1e06faffe109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Francesco Piemontesi",
+    "display_artist": "Francesco Piemontesi",
+    "title": "Kommst du nun, Jesu, vom Himmel herunter, BWV 650 (transcr. Maximilian Schnaus) [J.S. Bach]",
+    "display_title": "Kommst du nun, Jesu, vom Himmel herunter, BWV 650 (transcr. Maximilian Schnaus) [J.S. Bach]",
+    "track": "Francesco Piemontesi - Kommst du nun, Jesu, vom Himmel herunter, BWV 650 (transcr. Maximilian Schnaus) [J.S. Bach]",
+    "length": 187,
+    "duration": 187,
+    "started": 1724340900,
+    "type": "track",
+    "track_id": 3016069,
+    "release": "Bach Nostalghia",
+    "art_url": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/5/0/8/0/b/05080bf787a29742e2f31cd5b7299c81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 2: Fugue No. 19 in A Major, BWV 888 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 2: Fugue No. 19 in A Major, BWV 888 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 2: Fugue No. 19 in A Major, BWV 888 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 90,
+    "duration": 90,
+    "started": 1724444341,
+    "type": "track",
+    "track_id": 3024126,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 1: Fugue No. 23 in B Major, BWV 868 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 1: Fugue No. 23 in B Major, BWV 868 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 1: Fugue No. 23 in B Major, BWV 868 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 128,
+    "duration": 128,
+    "started": 1724562239,
+    "type": "track",
+    "track_id": 3024115,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music",
+    "display_artist": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music",
+    "title": "Orchestral Suite #2 In B Minor, BWV 1067 - 7. Badinerie [J.S. Bach]",
+    "display_title": "Orchestral Suite #2 In B Minor, BWV 1067 - 7. Badinerie [J.S. Bach]",
+    "track": "Lucie Horsch, Bojan Čičić, Academy Of Ancient Music - Orchestral Suite #2 In B Minor, BWV 1067 - 7. Badinerie [J.S. Bach]",
+    "length": 89,
+    "duration": 89,
+    "started": 1724637282,
+    "type": "track",
+    "track_id": 2929821,
+    "release": "Baroque Journey",
+    "art_url": "//cdn-images.audioaddict.com/5/4/9/d/c/d/549dcdd0fac334339f2b29fd66c2f69f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/9/d/c/d/549dcdd0fac334339f2b29fd66c2f69f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 1: Fugue No. 11 in F Major, BWV 856 (Arr. for Viol Consort) [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 1: Fugue No. 11 in F Major, BWV 856 (Arr. for Viol Consort) [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 1: Fugue No. 11 in F Major, BWV 856 (Arr. for Viol Consort) [J.S. Bach]",
+    "length": 98,
+    "duration": 98,
+    "started": 1724668643,
+    "type": "track",
+    "track_id": 3024112,
+    "release": "J.S. Bach: The Well-Tempered Consort – II",
+    "art_url": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/9/a/f/2/2a9af27a7a6d9046dd974b6f769f1407.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 362,
+    "artist": "Phantasm",
+    "display_artist": "Phantasm",
+    "title": "The Well-Tempered Clavier Book 1 -Fugue No. 9 In E Major, BWV854 [J.S. Bach]",
+    "display_title": "The Well-Tempered Clavier Book 1 -Fugue No. 9 In E Major, BWV854 [J.S. Bach]",
+    "track": "Phantasm - The Well-Tempered Clavier Book 1 -Fugue No. 9 In E Major, BWV854 [J.S. Bach]",
+    "length": 76,
+    "duration": 76,
+    "started": 1725278880,
+    "type": "track",
+    "track_id": 3024111,
+    "release": "The Well-Tempered Consort - 1",
+    "art_url": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/8/d/0/3/d68d031e81399d1bd7b65ac730a1e1e6.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

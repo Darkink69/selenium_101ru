@@ -1,0 +1,3422 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Breuninger, Berthaud & Triendl",
+    "display_artist": "Breuninger, Berthaud & Triendl",
+    "title": "Scharwenka Piano Trio, Op. 121",
+    "display_title": "Scharwenka Piano Trio, Op. 121",
+    "track": "Breuninger, Berthaud & Triendl - Scharwenka Piano Trio, Op. 121",
+    "length": 1024,
+    "duration": 1024,
+    "started": 1724036709,
+    "type": "track",
+    "track_id": 3080589,
+    "release": "Scharwenka: Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/a/2/6/8/2/4/a26824d2b284b58911fe9dc2c40ce366.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/6/8/2/4/a26824d2b284b58911fe9dc2c40ce366.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Haydn: Piano Trio, Hob. XV29 (Beaux Arts Trio)",
+    "display_title": "Haydn: Piano Trio, Hob. XV29 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Haydn: Piano Trio, Hob. XV29 (Beaux Arts Trio)",
+    "length": 1019,
+    "duration": 1019,
+    "started": 1724037734,
+    "type": "track",
+    "track_id": 400259,
+    "release": "Haydn: Piano Trios, Hob. XV: 28, 29, 30 & 31",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Hartley Trio",
+    "display_artist": "Hartley Trio",
+    "title": "Spohr: Piano Trio 4, Op. 133 ",
+    "display_title": "Spohr: Piano Trio 4, Op. 133 ",
+    "track": "Hartley Trio - Spohr: Piano Trio 4, Op. 133 ",
+    "length": 1644,
+    "duration": 1644,
+    "started": 1724038753,
+    "type": "track",
+    "track_id": 400414,
+    "release": "Spohr: Piano Trios Nos. 2 and 4",
+    "art_url": "//cdn-images.audioaddict.com/5/9/a/c/7/f/59ac7f17ecd2dedf6dd37a08f42363c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/a/c/7/f/59ac7f17ecd2dedf6dd37a08f42363c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Hohenstaufen Ensemble",
+    "display_artist": "Hohenstaufen Ensemble",
+    "title": "Kahn: Piano Trio 4, Op. 72",
+    "display_title": "Kahn: Piano Trio 4, Op. 72",
+    "track": "Hohenstaufen Ensemble - Kahn: Piano Trio 4, Op. 72",
+    "length": 1910,
+    "duration": 1910,
+    "started": 1724040395,
+    "type": "track",
+    "track_id": 3080587,
+    "release": "Kahn: Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/4/e/9/5/d/9/4e95d9aab51e2332c47f4f43ba1ae0e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/9/5/d/9/4e95d9aab51e2332c47f4f43ba1ae0e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Borodin Trio",
+    "display_artist": "Borodin Trio",
+    "title": "Debussy: Piano Trio 1 (Borodin Trio)",
+    "display_title": "Debussy: Piano Trio 1 (Borodin Trio)",
+    "track": "Borodin Trio - Debussy: Piano Trio 1 (Borodin Trio)",
+    "length": 1691,
+    "duration": 1691,
+    "started": 1724042305,
+    "type": "track",
+    "track_id": 400172,
+    "release": "Debussy, Martin, Turina: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/4/4/b/e/f/944bef321b0b2c36052bbf7e652c21df.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/4/b/e/f/944bef321b0b2c36052bbf7e652c21df.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Ireland: 'Phantasie' Piano Trio ",
+    "display_title": "Ireland: 'Phantasie' Piano Trio ",
+    "track": "Gould Piano Trio - Ireland: 'Phantasie' Piano Trio ",
+    "length": 688,
+    "duration": 688,
+    "started": 1724043994,
+    "type": "track",
+    "track_id": 400270,
+    "release": "Ireland: Piano Trios, Cavatina, Berceuse, Bagatelle & The Holy Boy",
+    "art_url": "//cdn-images.audioaddict.com/f/1/a/1/6/e/f1a16ef82fde6cfa6302e50e4b9f36a4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/a/1/6/e/f1a16ef82fde6cfa6302e50e4b9f36a4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Opus 8 Trio",
+    "display_artist": "Opus 8 Trio",
+    "title": "Raff: Piano Trio 2, Op. 112",
+    "display_title": "Raff: Piano Trio 2, Op. 112",
+    "track": "Opus 8 Trio - Raff: Piano Trio 2, Op. 112",
+    "length": 1924,
+    "duration": 1924,
+    "started": 1724044679,
+    "type": "track",
+    "track_id": 2867314,
+    "release": "Raff: Piano Trios 2 & 3",
+    "art_url": "//cdn-images.audioaddict.com/a/5/f/2/6/0/a5f26053d929d2a95696cb43b1108bf5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/f/2/6/0/a5f26053d929d2a95696cb43b1108bf5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trío Arbós",
+    "display_artist": "Trío Arbós",
+    "title": "Pedrell: Nocturne-Trio, Op. 55",
+    "display_title": "Pedrell: Nocturne-Trio, Op. 55",
+    "track": "Trío Arbós - Pedrell: Nocturne-Trio, Op. 55",
+    "length": 451,
+    "duration": 451,
+    "started": 1724046603,
+    "type": "track",
+    "track_id": 3039447,
+    "release": "Spanish Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/e/7/b/a/8/ae7ba83e6abd8b1b1d6c8043d82736ec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/7/b/a/8/ae7ba83e6abd8b1b1d6c8043d82736ec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Haydn Piano Trio 38, Hob. XV24",
+    "display_title": "Haydn Piano Trio 38, Hob. XV24",
+    "track": "Beaux Arts Trio - Haydn Piano Trio 38, Hob. XV24",
+    "length": 820,
+    "duration": 820,
+    "started": 1724047049,
+    "type": "track",
+    "track_id": 400252,
+    "release": "Haydn Piano Trios Nos. 38, 39 (Gypsy), 40, and 43",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Boston Symphony Chamber Players",
+    "display_artist": "Boston Symphony Chamber Players",
+    "title": "Smetana: Piano Trio 1, Op. 15 (Boston Sym. Chamber Players)",
+    "display_title": "Smetana: Piano Trio 1, Op. 15 (Boston Sym. Chamber Players)",
+    "track": "Boston Symphony Chamber Players - Smetana: Piano Trio 1, Op. 15 (Boston Sym. Chamber Players)",
+    "length": 1717,
+    "duration": 1717,
+    "started": 1724047865,
+    "type": "track",
+    "track_id": 400406,
+    "release": "Antonin Dvorak/Bedrich Smetana",
+    "art_url": "//cdn-images.audioaddict.com/5/c/7/1/8/b/5c718b3f409edf39ab587fb3cf83a74e.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/7/1/8/b/5c718b3f409edf39ab587fb3cf83a74e.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Bratchkova, Orvieto & Dispa",
+    "display_artist": "Bratchkova, Orvieto & Dispa",
+    "title": "Dietrich: Piano Trio 2, Op. 14",
+    "display_title": "Dietrich: Piano Trio 2, Op. 14",
+    "track": "Bratchkova, Orvieto & Dispa - Dietrich: Piano Trio 2, Op. 14",
+    "length": 2081,
+    "duration": 2081,
+    "started": 1724049582,
+    "type": "track",
+    "track_id": 400179,
+    "release": "Dietrich: Complete Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/1/6/f/5/8/0/16f580d37002a539865342a4f694e5d7.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/f/5/8/0/16f580d37002a539865342a4f694e5d7.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Scharwenka: Piano Trio 2, Op. 112",
+    "display_title": "Scharwenka: Piano Trio 2, Op. 112",
+    "track": "Trio Parnassus - Scharwenka: Piano Trio 2, Op. 112",
+    "length": 1543,
+    "duration": 1543,
+    "started": 1724051662,
+    "type": "track",
+    "track_id": 879436,
+    "release": "Scharwenka: Piano Trios, Op. 110 & Op. 112 & Cello Sonata, Op. 116",
+    "art_url": "//cdn-images.audioaddict.com/b/6/c/6/f/e/b6c6fefae17874e8861ffd0ac831d478.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/c/6/f/e/b6c6fefae17874e8861ffd0ac831d478.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Cohen, Höbarth, Coin",
+    "display_artist": "Cohen, Höbarth, Coin",
+    "title": "Haydn: Piano Trio 36, Hob. XV22 ",
+    "display_title": "Haydn: Piano Trio 36, Hob. XV22 ",
+    "track": "Cohen, Höbarth, Coin - Haydn: Piano Trio 36, Hob. XV22 ",
+    "length": 1267,
+    "duration": 1267,
+    "started": 1724053192,
+    "type": "track",
+    "track_id": 400248,
+    "release": "Haydn Trios No 35-37, ",
+    "art_url": "//cdn-images.audioaddict.com/d/0/7/2/7/c/d0727ca5bcce86dfe6cd4480782b6cb9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/7/2/7/c/d0727ca5bcce86dfe6cd4480782b6cb9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Opus 8 Trio",
+    "display_artist": "Opus 8 Trio",
+    "title": "Raff: Piano Trio 3, Op. 155",
+    "display_title": "Raff: Piano Trio 3, Op. 155",
+    "track": "Opus 8 Trio - Raff: Piano Trio 3, Op. 155",
+    "length": 1945,
+    "duration": 1945,
+    "started": 1724054458,
+    "type": "track",
+    "track_id": 2867315,
+    "release": "Raff: Piano Trios 2 & 3",
+    "art_url": "//cdn-images.audioaddict.com/a/5/f/2/6/0/a5f26053d929d2a95696cb43b1108bf5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/f/2/6/0/a5f26053d929d2a95696cb43b1108bf5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Gade: Piano Trio, Op. 42",
+    "display_title": "Gade: Piano Trio, Op. 42",
+    "track": "Trio Parnassus - Gade: Piano Trio, Op. 42",
+    "length": 1212,
+    "duration": 1212,
+    "started": 1724056404,
+    "type": "track",
+    "track_id": 879379,
+    "release": "Gade: Complete Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/3/c/e/e/2/f/3cee2f1bb65db5a6c009b169edf4b5e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/e/e/2/f/3cee2f1bb65db5a6c009b169edf4b5e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Nota Bene",
+    "display_artist": "Trio Nota Bene",
+    "title": "Honegger Piano Trio in F Minor",
+    "display_title": "Honegger Piano Trio in F Minor",
+    "track": "Trio Nota Bene - Honegger Piano Trio in F Minor",
+    "length": 242,
+    "duration": 242,
+    "started": 1724057610,
+    "type": "track",
+    "track_id": 2867312,
+    "release": "Raff, Bloch, Honegger & F. Martin: Piano Trios ",
+    "art_url": "//cdn-images.audioaddict.com/e/a/3/f/6/8/ea3f68241c34c64581f8701be4efedbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/3/f/6/8/ea3f68241c34c64581f8701be4efedbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Borodin Trio",
+    "display_artist": "Borodin Trio",
+    "title": "Hummel: Piano Trio 7, Op. 96 ",
+    "display_title": "Hummel: Piano Trio 7, Op. 96 ",
+    "track": "Borodin Trio - Hummel: Piano Trio 7, Op. 96 ",
+    "length": 1210,
+    "duration": 1210,
+    "started": 1724057853,
+    "type": "track",
+    "track_id": 400268,
+    "release": "Hummel: Piano Trio Nos. 1, 5 & 7",
+    "art_url": "//cdn-images.audioaddict.com/b/0/7/2/e/d/b072edc5f636007742f64dc61e4554c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/7/2/e/d/b072edc5f636007742f64dc61e4554c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Prunyi, Kiss, Onczay",
+    "display_artist": "Prunyi, Kiss, Onczay",
+    "title": "Berwald: Piano Trio 1 (Prunyi, Kiss, Onczay)",
+    "display_title": "Berwald: Piano Trio 1 (Prunyi, Kiss, Onczay)",
+    "track": "Prunyi, Kiss, Onczay - Berwald: Piano Trio 1 (Prunyi, Kiss, Onczay)",
+    "length": 1181,
+    "duration": 1181,
+    "started": 1724059063,
+    "type": "track",
+    "track_id": 400115,
+    "release": "Berwald: Piano Trios 1-3",
+    "art_url": "//cdn-images.audioaddict.com/f/4/e/3/8/7/f4e387317d241c1a3ee36f58d56ce654.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/4/e/3/8/7/f4e387317d241c1a3ee36f58d56ce654.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Rawlins Trio",
+    "display_artist": "Rawlins Trio",
+    "title": "Risher: Four Miniatures for Piano Trio ",
+    "display_title": "Risher: Four Miniatures for Piano Trio ",
+    "track": "Rawlins Trio - Risher: Four Miniatures for Piano Trio ",
+    "length": 726,
+    "duration": 726,
+    "started": 1724060236,
+    "type": "track",
+    "track_id": 400356,
+    "release": "American Discoveries",
+    "art_url": "//cdn-images.audioaddict.com/1/4/a/2/7/5/14a275000ad4d5900d747fde608b98d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/a/2/7/5/14a275000ad4d5900d747fde608b98d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Nota Bene",
+    "display_artist": "Trio Nota Bene",
+    "title": "Raff: Piano Trio 1, Op. 102",
+    "display_title": "Raff: Piano Trio 1, Op. 102",
+    "track": "Trio Nota Bene - Raff: Piano Trio 1, Op. 102",
+    "length": 1731,
+    "duration": 1731,
+    "started": 1724060955,
+    "type": "track",
+    "track_id": 2867313,
+    "release": "Swiss Perspective",
+    "art_url": "//cdn-images.audioaddict.com/2/b/d/7/5/c/2bd75c3290f2f996c87c61dbfeaf37da.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/d/7/5/c/2bd75c3290f2f996c87c61dbfeaf37da.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Sitkovetsky Trio",
+    "display_artist": "Sitkovetsky Trio",
+    "title": "Allegretto in B-Flat Major, WoO 39",
+    "display_title": "Allegretto in B-Flat Major, WoO 39",
+    "track": "Sitkovetsky Trio - Allegretto in B-Flat Major, WoO 39",
+    "length": 373,
+    "duration": 373,
+    "started": 1724062686,
+    "type": "track",
+    "track_id": 3013101,
+    "release": "Beethoven: Piano Trios, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/2/0/8/9/c/4/2089c453618a13c181d07085bca3ae15.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/8/9/c/4/2089c453618a13c181d07085bca3ae15.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Joachim Trio",
+    "display_artist": "Joachim Trio",
+    "title": "Florent Schmitt: Tres Lent For Piano Trio",
+    "display_title": "Florent Schmitt: Tres Lent For Piano Trio",
+    "track": "Joachim Trio - Florent Schmitt: Tres Lent For Piano Trio",
+    "length": 185,
+    "duration": 185,
+    "started": 1724063060,
+    "type": "track",
+    "track_id": 400194,
+    "release": "Debussy - Ravel - Schmitt: French Piano Trios Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/d/f/c/b/a/7/dfcba7a1f840b535d3221abe1727c3cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/c/b/a/7/dfcba7a1f840b535d3221abe1727c3cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Hélios",
+    "display_artist": "Trio Hélios",
+    "title": "Boulanger: D'un matin de printemps",
+    "display_title": "Boulanger: D'un matin de printemps",
+    "track": "Trio Hélios - Boulanger: D'un matin de printemps",
+    "length": 289,
+    "duration": 289,
+    "started": 1724063241,
+    "type": "track",
+    "track_id": 3080582,
+    "release": "Un matin de printemps",
+    "art_url": "//cdn-images.audioaddict.com/7/3/c/a/d/1/73cad14aa3c759543ec03873e79083b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/c/a/d/1/73cad14aa3c759543ec03873e79083b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Haydn Piano Trio 43, Hob. XV27",
+    "display_title": "Haydn Piano Trio 43, Hob. XV27",
+    "track": "Beaux Arts Trio - Haydn Piano Trio 43, Hob. XV27",
+    "length": 1044,
+    "duration": 1044,
+    "started": 1724063530,
+    "type": "track",
+    "track_id": 400257,
+    "release": "Haydn Piano Trios Nos. 38, 39 (Gypsy), 40, and 43",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gobel-Trio Berlin",
+    "display_artist": "Gobel-Trio Berlin",
+    "title": "Schumann: Piano Trio 2, Op. 80 (Göbel-Trio Berlin)",
+    "display_title": "Schumann: Piano Trio 2, Op. 80 (Göbel-Trio Berlin)",
+    "track": "Gobel-Trio Berlin - Schumann: Piano Trio 2, Op. 80 (Göbel-Trio Berlin)",
+    "length": 1599,
+    "duration": 1599,
+    "started": 1724064574,
+    "type": "track",
+    "track_id": 400379,
+    "release": "Schumann: Piano Trios 2 & 3",
+    "art_url": "//cdn-images.audioaddict.com/c/c/7/4/4/2/cc74420738ecbb4d29bad5096c92cfa8.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/7/4/4/2/cc74420738ecbb4d29bad5096c92cfa8.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Haydn Piano Trio 40, Hob. XV26",
+    "display_title": "Haydn Piano Trio 40, Hob. XV26",
+    "track": "Beaux Arts Trio - Haydn Piano Trio 40, Hob. XV26",
+    "length": 1067,
+    "duration": 1067,
+    "started": 1724066161,
+    "type": "track",
+    "track_id": 400256,
+    "release": "Haydn Piano Trios Nos. 38, 39 (Gypsy), 40, and 43",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Pangea",
+    "display_artist": "Trio Pangea",
+    "title": "Delgado: Piano Trio \"Camoniano\"",
+    "display_title": "Delgado: Piano Trio \"Camoniano\"",
+    "track": "Trio Pangea - Delgado: Piano Trio \"Camoniano\"",
+    "length": 565,
+    "duration": 565,
+    "started": 1724067223,
+    "type": "track",
+    "track_id": 2978376,
+    "release": "Portuguese Piano Trios, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/5/a/5/e/d/3/5a5ed38630c2550646ef514bee46cb7c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/a/5/e/d/3/5a5ed38630c2550646ef514bee46cb7c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Altenberg Trio Wien",
+    "display_artist": "Altenberg Trio Wien",
+    "title": "Pfitzner: Piano Trio 1, Op. 8",
+    "display_title": "Pfitzner: Piano Trio 1, Op. 8",
+    "track": "Altenberg Trio Wien - Pfitzner: Piano Trio 1, Op. 8",
+    "length": 2825,
+    "duration": 2825,
+    "started": 1724067786,
+    "type": "track",
+    "track_id": 400338,
+    "release": "Schönberg: Verklarte Nacht - Pfitzner: Piano Trio",
+    "art_url": "//cdn-images.audioaddict.com/e/8/5/9/6/c/e8596c91665c2ee7c4da7558633bcde8.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/5/9/6/c/e8596c91665c2ee7c4da7558633bcde8.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Bosphorus Trio",
+    "display_artist": "Bosphorus Trio",
+    "title": "Balci: Piano Trio",
+    "display_title": "Balci: Piano Trio",
+    "track": "Bosphorus Trio - Balci: Piano Trio",
+    "length": 1359,
+    "duration": 1359,
+    "started": 1724070597,
+    "type": "track",
+    "track_id": 3080585,
+    "release": "Turkish Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/8/2/8/3/f/98283f3af3cd8e212e36331902edcc86.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/2/8/3/f/98283f3af3cd8e212e36331902edcc86.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Cascades",
+    "display_artist": "Trio Cascades",
+    "title": "Onslow: Piano Trio 1, Op. 27",
+    "display_title": "Onslow: Piano Trio 1, Op. 27",
+    "track": "Trio Cascades - Onslow: Piano Trio 1, Op. 27",
+    "length": 1627,
+    "duration": 1627,
+    "started": 1724071956,
+    "type": "track",
+    "track_id": 400327,
+    "release": "Onslow, G.: Piano Trios (Complete), Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/f/1/d/1/6/0/f1d160f3254f91b57df57842ec695a31.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/d/1/6/0/f1d160f3254f91b57df57842ec695a31.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Tre Musici",
+    "display_artist": "Tre Musici",
+    "title": "Henriques: Bornetrio, Op. 31",
+    "display_title": "Henriques: Bornetrio, Op. 31",
+    "track": "Tre Musici - Henriques: Bornetrio, Op. 31",
+    "length": 1108,
+    "duration": 1108,
+    "started": 1724073585,
+    "type": "track",
+    "track_id": 1217199,
+    "release": "Danish Golden Age Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/5/2/4/9/f/0/5249f001ae46d5f252cb762486caa332.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/4/9/f/0/5249f001ae46d5f252cb762486caa332.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Hummel: Piano Trio 2",
+    "display_title": "Hummel: Piano Trio 2",
+    "track": "Gould Piano Trio - Hummel: Piano Trio 2",
+    "length": 336,
+    "duration": 336,
+    "started": 1724074683,
+    "type": "track",
+    "track_id": 942935,
+    "release": "Hummel: Piano Trios Nos. 2, 3, 6 & 7",
+    "art_url": "//cdn-images.audioaddict.com/b/5/0/a/8/d/b50a8da9da3809c39ece98d1e06c9298.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/0/a/8/d/b50a8da9da3809c39ece98d1e06c9298.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Lom Trio",
+    "display_artist": "Lom Trio",
+    "title": "Breton: Four Spanish Pieces for Piano Trio ",
+    "display_title": "Breton: Four Spanish Pieces for Piano Trio ",
+    "track": "Lom Trio - Breton: Four Spanish Pieces for Piano Trio ",
+    "length": 1123,
+    "duration": 1123,
+    "started": 1724076480,
+    "type": "track",
+    "track_id": 400134,
+    "release": "Breton: Four Spanish Pieces; Piano Trio in E Major",
+    "art_url": "//cdn-images.audioaddict.com/9/4/a/f/2/4/94af24df3de54b50338117a794490203.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/a/f/2/4/94af24df3de54b50338117a794490203.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Constantin von Sternberg - Piano Trio 3 in C Major, Op. 104",
+    "display_title": "Constantin von Sternberg - Piano Trio 3 in C Major, Op. 104",
+    "track": "Brahms Trio - Constantin von Sternberg - Piano Trio 3 in C Major, Op. 104",
+    "length": 837,
+    "duration": 837,
+    "started": 1724077627,
+    "type": "track",
+    "track_id": 3023724,
+    "release": "History of the Russian Piano Trio, Vol. 5",
+    "art_url": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Rawlins Trio",
+    "display_artist": "Rawlins Trio",
+    "title": "Horatio Parker: Piano Trio 1, Op. 35 (Rawlins Trio)",
+    "display_title": "Horatio Parker: Piano Trio 1, Op. 35 (Rawlins Trio)",
+    "track": "Rawlins Trio - Horatio Parker: Piano Trio 1, Op. 35 (Rawlins Trio)",
+    "length": 1230,
+    "duration": 1230,
+    "started": 1724078750,
+    "type": "track",
+    "track_id": 400266,
+    "release": "Three American Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/1/4/a/2/7/5/14a275000ad4d5900d747fde608b98d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/a/2/7/5/14a275000ad4d5900d747fde608b98d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gobel-Trio Berlin",
+    "display_artist": "Gobel-Trio Berlin",
+    "title": "Bruch: Piano Trio, Op. 5",
+    "display_title": "Bruch: Piano Trio, Op. 5",
+    "track": "Gobel-Trio Berlin - Bruch: Piano Trio, Op. 5",
+    "length": 1076,
+    "duration": 1076,
+    "started": 1724079978,
+    "type": "track",
+    "track_id": 879356,
+    "release": "Göbel Trio Play Bruch, Hiller & Widor",
+    "art_url": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Breuninger, Berthaud & Triendl",
+    "display_artist": "Breuninger, Berthaud & Triendl",
+    "title": "Scharwenka: Piano Trio, Op. 105",
+    "display_title": "Scharwenka: Piano Trio, Op. 105",
+    "track": "Breuninger, Berthaud & Triendl - Scharwenka: Piano Trio, Op. 105",
+    "length": 817,
+    "duration": 817,
+    "started": 1724081048,
+    "type": "track",
+    "track_id": 3080590,
+    "release": "Scharwenka: Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/a/2/6/8/2/4/a26824d2b284b58911fe9dc2c40ce366.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/6/8/2/4/a26824d2b284b58911fe9dc2c40ce366.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gobel-Trio Berlin",
+    "display_artist": "Gobel-Trio Berlin",
+    "title": "Rheinberger: Piano Trio 3, Op. 121",
+    "display_title": "Rheinberger: Piano Trio 3, Op. 121",
+    "track": "Gobel-Trio Berlin - Rheinberger: Piano Trio 3, Op. 121",
+    "length": 2031,
+    "duration": 2031,
+    "started": 1724083072,
+    "type": "track",
+    "track_id": 400352,
+    "release": "Rheinberger: Piano Trios Nos. 1 & 3",
+    "art_url": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Arriaga",
+    "display_artist": "Trio Arriaga",
+    "title": "Roberto Gerhard: Piano Trio",
+    "display_title": "Roberto Gerhard: Piano Trio",
+    "track": "Trio Arriaga - Roberto Gerhard: Piano Trio",
+    "length": 1475,
+    "duration": 1475,
+    "started": 1724086450,
+    "type": "track",
+    "track_id": 879428,
+    "release": "Gerhard, Montsalvatge & Cassado: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/4/e/2/9/e/94e29e865a514001387ef06dfc5efdf6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/e/2/9/e/94e29e865a514001387ef06dfc5efdf6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Lom Trio",
+    "display_artist": "Lom Trio",
+    "title": "Breton: Piano Trio 1 ",
+    "display_title": "Breton: Piano Trio 1 ",
+    "track": "Lom Trio - Breton: Piano Trio 1 ",
+    "length": 2090,
+    "duration": 2090,
+    "started": 1724088485,
+    "type": "track",
+    "track_id": 400136,
+    "release": "Breton: Four Spanish Pieces; Piano Trio in E Major",
+    "art_url": "//cdn-images.audioaddict.com/9/4/a/f/2/4/94af24df3de54b50338117a794490203.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/a/f/2/4/94af24df3de54b50338117a794490203.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Rawlins Trio",
+    "display_artist": "Rawlins Trio",
+    "title": "Wilson: 'From My Youth' for Piano Trio, Op. 5 ",
+    "display_title": "Wilson: 'From My Youth' for Piano Trio, Op. 5 ",
+    "track": "Rawlins Trio - Wilson: 'From My Youth' for Piano Trio, Op. 5 ",
+    "length": 368,
+    "duration": 368,
+    "started": 1724090575,
+    "type": "track",
+    "track_id": 400458,
+    "release": "American Discoveries",
+    "art_url": "//cdn-images.audioaddict.com/1/4/a/2/7/5/14a275000ad4d5900d747fde608b98d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/4/a/2/7/5/14a275000ad4d5900d747fde608b98d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Sergey Youferov - Piano Trio in C Minor, Op. 52",
+    "display_title": "Sergey Youferov - Piano Trio in C Minor, Op. 52",
+    "track": "Brahms Trio - Sergey Youferov - Piano Trio in C Minor, Op. 52",
+    "length": 1928,
+    "duration": 1928,
+    "started": 1724090941,
+    "type": "track",
+    "track_id": 3023725,
+    "release": "History of the Russian Piano Trio, Vol. 5",
+    "art_url": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Bekova Sisters",
+    "display_artist": "Bekova Sisters",
+    "title": "Franck: Piano Trio 4, Op. 2 ",
+    "display_title": "Franck: Piano Trio 4, Op. 2 ",
+    "track": "Bekova Sisters - Franck: Piano Trio 4, Op. 2 ",
+    "length": 1151,
+    "duration": 1151,
+    "started": 1724092867,
+    "type": "track",
+    "track_id": 400206,
+    "release": "Franck: Piano Trios, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/a/1/b/e/6/1/a1be61da68395e5f1bd175191a6dc0ce.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/b/e/6/1/a1be61da68395e5f1bd175191a6dc0ce.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Bosphorus Trio",
+    "display_artist": "Bosphorus Trio",
+    "title": "Baran: Transformations",
+    "display_title": "Baran: Transformations",
+    "track": "Bosphorus Trio - Baran: Transformations",
+    "length": 1188,
+    "duration": 1188,
+    "started": 1724095701,
+    "type": "track",
+    "track_id": 3080579,
+    "release": "Turkish Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/8/2/8/3/f/98283f3af3cd8e212e36331902edcc86.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/2/8/3/f/98283f3af3cd8e212e36331902edcc86.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trío Arbós",
+    "display_artist": "Trío Arbós",
+    "title": "Malats: Piano Trio",
+    "display_title": "Malats: Piano Trio",
+    "track": "Trío Arbós - Malats: Piano Trio",
+    "length": 1351,
+    "duration": 1351,
+    "started": 1724096889,
+    "type": "track",
+    "track_id": 3039446,
+    "release": "Spanish Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/e/7/b/a/8/ae7ba83e6abd8b1b1d6c8043d82736ec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/7/b/a/8/ae7ba83e6abd8b1b1d6c8043d82736ec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Bosphorus Trio",
+    "display_artist": "Bosphorus Trio",
+    "title": "Tüzün: Piano Trio",
+    "display_title": "Tüzün: Piano Trio",
+    "track": "Bosphorus Trio - Tüzün: Piano Trio",
+    "length": 393,
+    "duration": 393,
+    "started": 1724098234,
+    "type": "track",
+    "track_id": 3080583,
+    "release": "Turkish Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/8/2/8/3/f/98283f3af3cd8e212e36331902edcc86.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/2/8/3/f/98283f3af3cd8e212e36331902edcc86.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Vladimir Dyck - Piano Trio in C Minor, Op. 25",
+    "display_title": "Vladimir Dyck - Piano Trio in C Minor, Op. 25",
+    "track": "Brahms Trio - Vladimir Dyck - Piano Trio in C Minor, Op. 25",
+    "length": 1889,
+    "duration": 1889,
+    "started": 1724098628,
+    "type": "track",
+    "track_id": 3023726,
+    "release": "History of the Russian Piano Trio, Vol. 5",
+    "art_url": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Berlin Gobel Trio",
+    "display_artist": "Berlin Gobel Trio",
+    "title": "Onslow: Piano Trio 8, Op. 26",
+    "display_title": "Onslow: Piano Trio 8, Op. 26",
+    "track": "Berlin Gobel Trio - Onslow: Piano Trio 8, Op. 26",
+    "length": 1793,
+    "duration": 1793,
+    "started": 1724100516,
+    "type": "track",
+    "track_id": 400330,
+    "release": "Czerny & Onslow: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/1/3/9/8/0/9139804aba0599bd9af0467dc160bdd4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/3/9/8/0/9139804aba0599bd9af0467dc160bdd4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Arriaga",
+    "display_artist": "Trio Arriaga",
+    "title": "Gaspar Cassado: Piano Trio",
+    "display_title": "Gaspar Cassado: Piano Trio",
+    "track": "Trio Arriaga - Gaspar Cassado: Piano Trio",
+    "length": 986,
+    "duration": 986,
+    "started": 1724102307,
+    "type": "track",
+    "track_id": 879381,
+    "release": "Gerhard, Montsalvatge & Cassado: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/4/e/2/9/e/94e29e865a514001387ef06dfc5efdf6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/e/2/9/e/94e29e865a514001387ef06dfc5efdf6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "London Fortepiano Trio",
+    "display_artist": "London Fortepiano Trio",
+    "title": "Beethoven: Piano Trio Op.1 No.2",
+    "display_title": "Beethoven: Piano Trio Op.1 No.2",
+    "track": "London Fortepiano Trio - Beethoven: Piano Trio Op.1 No.2",
+    "length": 1994,
+    "duration": 1994,
+    "started": 1724103290,
+    "type": "track",
+    "track_id": 400106,
+    "release": "Beethoven Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/6/8/b/5/f/f/68b5ff79d20001698fc9243291f434dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/b/5/f/f/68b5ff79d20001698fc9243291f434dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Stanford: Piano Trio 3, Op. 158 ",
+    "display_title": "Stanford: Piano Trio 3, Op. 158 ",
+    "track": "Gould Piano Trio - Stanford: Piano Trio 3, Op. 158 ",
+    "length": 1264,
+    "duration": 1264,
+    "started": 1724105284,
+    "type": "track",
+    "track_id": 400420,
+    "release": "Stanford: Clarinet Sonata; Piano Trio No. 3",
+    "art_url": "//cdn-images.audioaddict.com/2/5/c/d/2/4/25cd242e01a69f712abd7a3e674fb940.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/c/d/2/4/25cd242e01a69f712abd7a3e674fb940.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Paul Pabst: Piano Trio in A major",
+    "display_title": "Paul Pabst: Piano Trio in A major",
+    "track": "Brahms Trio - Paul Pabst: Piano Trio in A major",
+    "length": 1386,
+    "duration": 1386,
+    "started": 1724106549,
+    "type": "track",
+    "track_id": 3016613,
+    "release": "Tchaikovsky & Pabst: History of the Russian Piano Trio, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/1/5/6/8/4/5/15684516e424ee44dee5b274ea269776.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/6/8/4/5/15684516e424ee44dee5b274ea269776.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Posnak, Zazofsky, Harbough",
+    "display_artist": "Posnak, Zazofsky, Harbough",
+    "title": "Cadman: Piano Trio 1, Op. 56 ",
+    "display_title": "Cadman: Piano Trio 1, Op. 56 ",
+    "track": "Posnak, Zazofsky, Harbough - Cadman: Piano Trio 1, Op. 56 ",
+    "length": 1471,
+    "duration": 1471,
+    "started": 1724118865,
+    "type": "track",
+    "track_id": 400145,
+    "release": "American Classics - Charles Wakefield Cadman",
+    "art_url": "//cdn-images.audioaddict.com/4/3/d/d/b/9/43ddb9ed440b70336fd29c7642117872.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/d/d/b/9/43ddb9ed440b70336fd29c7642117872.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Hummel: Piano Trio 6",
+    "display_title": "Hummel: Piano Trio 6",
+    "track": "Gould Piano Trio - Hummel: Piano Trio 6",
+    "length": 473,
+    "duration": 473,
+    "started": 1724120335,
+    "type": "track",
+    "track_id": 942937,
+    "release": "Hummel: Piano Trios Nos. 2, 3, 6 & 7",
+    "art_url": "//cdn-images.audioaddict.com/d/0/4/e/0/9/d04e09360525f3435dcbdaeae1f32034.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/4/e/0/9/d04e09360525f3435dcbdaeae1f32034.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Tarara, Hong & De Solaun",
+    "display_artist": "Tarara, Hong & De Solaun",
+    "title": "Enescu: Piano Trio 2 in A minor",
+    "display_title": "Enescu: Piano Trio 2 in A minor",
+    "track": "Tarara, Hong & De Solaun - Enescu: Piano Trio 2 in A minor",
+    "length": 1268,
+    "duration": 1268,
+    "started": 1724123280,
+    "type": "track",
+    "track_id": 3060092,
+    "release": "Enescu: Piano Quartet 1 in D major, Op. 16 & Piano Trio 2 in A minor A Minor",
+    "art_url": "//cdn-images.audioaddict.com/4/c/b/1/7/c/4cb17c744cb576c47a8761240bfcad8e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/b/1/7/c/4cb17c744cb576c47a8761240bfcad8e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Grasbeck, Kuusisto, Ylonen",
+    "display_artist": "Grasbeck, Kuusisto, Ylonen",
+    "title": "Sibelius: Piano Trio JS208 (Grasbeck, Kuusisto, Ylonen)",
+    "display_title": "Sibelius: Piano Trio JS208 (Grasbeck, Kuusisto, Ylonen)",
+    "track": "Grasbeck, Kuusisto, Ylonen - Sibelius: Piano Trio JS208 (Grasbeck, Kuusisto, Ylonen)",
+    "length": 968,
+    "duration": 968,
+    "started": 1724124544,
+    "type": "track",
+    "track_id": 400399,
+    "release": "Sibelius: Complete Piano trios, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Grasbeck, Kuusisto, Ylonen",
+    "display_artist": "Grasbeck, Kuusisto, Ylonen",
+    "title": "Sibelius: Piano Trio JS209 (Grasbeck, Kuusisto, Ylonen)",
+    "display_title": "Sibelius: Piano Trio JS209 (Grasbeck, Kuusisto, Ylonen)",
+    "track": "Grasbeck, Kuusisto, Ylonen - Sibelius: Piano Trio JS209 (Grasbeck, Kuusisto, Ylonen)",
+    "length": 2171,
+    "duration": 2171,
+    "started": 1724126581,
+    "type": "track",
+    "track_id": 400401,
+    "release": "Sibelius: Complete Piano trios, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Spirale Trio",
+    "display_artist": "Spirale Trio",
+    "title": "Van der Roost: Rikudim ",
+    "display_title": "Van der Roost: Rikudim ",
+    "track": "Spirale Trio - Van der Roost: Rikudim ",
+    "length": 572,
+    "duration": 572,
+    "started": 1724128780,
+    "type": "track",
+    "track_id": 400444,
+    "release": "Spirale Piano Trio",
+    "art_url": "//cdn-images.audioaddict.com/1/3/1/f/c/7/131fc796e58b286b52997b9d20fb29af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/1/f/c/7/131fc796e58b286b52997b9d20fb29af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Fauré: Piano Trio 1, Op. 120 (Beaux Arts Trio)",
+    "display_title": "Fauré: Piano Trio 1, Op. 120 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Fauré: Piano Trio 1, Op. 120 (Beaux Arts Trio)",
+    "length": 1282,
+    "duration": 1282,
+    "started": 1724129353,
+    "type": "track",
+    "track_id": 400192,
+    "release": "Fauré: Piano Quartet, Trio",
+    "art_url": "//cdn-images.audioaddict.com/8/d/6/0/8/e/8d608e230e4e0ca0ba02520f0544f1d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/6/0/8/e/8d608e230e4e0ca0ba02520f0544f1d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Jacqueline du Pre, Pinchas Zukerman, Daniel Barenboim",
+    "display_artist": "Jacqueline du Pre, Pinchas Zukerman, Daniel Barenboim",
+    "title": "Piano Trio in B flat, WoO 39 - Allegretto [L. van Beethoven]",
+    "display_title": "Piano Trio in B flat, WoO 39 - Allegretto [L. van Beethoven]",
+    "track": "Jacqueline du Pre, Pinchas Zukerman, Daniel Barenboim - Piano Trio in B flat, WoO 39 - Allegretto [L. van Beethoven]",
+    "length": 290,
+    "duration": 290,
+    "started": 1724130628,
+    "type": "track",
+    "track_id": 936144,
+    "release": "Jacqueline du Pre - The Complete EMI Recordings - CD09",
+    "art_url": "//cdn-images.audioaddict.com/f/8/5/f/c/4/f85fc4e09af707bb62b6f917d647cb92.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/5/f/c/4/f85fc4e09af707bb62b6f917d647cb92.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Wass, Liebeck, Chausbian",
+    "display_artist": "Wass, Liebeck, Chausbian",
+    "title": "Bridge: Piano Trio 1 (Wass, Liebeck, Chausbian)",
+    "display_title": "Bridge: Piano Trio 1 (Wass, Liebeck, Chausbian)",
+    "track": "Wass, Liebeck, Chausbian - Bridge: Piano Trio 1 (Wass, Liebeck, Chausbian)",
+    "length": 1005,
+    "duration": 1005,
+    "started": 1724130912,
+    "type": "track",
+    "track_id": 400140,
+    "release": "Frank Bridge: Piano Trio No. 2; Phantasie Trio; Miniatures",
+    "art_url": "//cdn-images.audioaddict.com/2/4/b/5/a/9/24b5a9136ac7d96467ca5686d3cbd570.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/b/5/a/9/24b5a9136ac7d96467ca5686d3cbd570.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Amade",
+    "display_artist": "Trio Amade",
+    "title": "Colon: Tango for Violin, Cello and Piano",
+    "display_title": "Colon: Tango for Violin, Cello and Piano",
+    "track": "Trio Amade - Colon: Tango for Violin, Cello and Piano",
+    "length": 374,
+    "duration": 374,
+    "started": 1724131912,
+    "type": "track",
+    "track_id": 400159,
+    "release": "Copland: Vitebsk - Bernstein: Piano Trio - Piazzolla: Las Cuatros Estaciones Portenas - Collon: N",
+    "art_url": "//cdn-images.audioaddict.com/8/5/b/2/6/1/85b261879ddee0950fada04c6fd4d1bb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/5/b/2/6/1/85b261879ddee0950fada04c6fd4d1bb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Mozart: Piano Trio 2, K496 (Beaux Arts Trio)",
+    "display_title": "Mozart: Piano Trio 2, K496 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Mozart: Piano Trio 2, K496 (Beaux Arts Trio)",
+    "length": 1630,
+    "duration": 1630,
+    "started": 1724133758,
+    "type": "track",
+    "track_id": 400315,
+    "release": "Mozart: Piano Trios 1-6",
+    "art_url": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Streicher Trio",
+    "display_artist": "Streicher Trio",
+    "title": "Louise Farrenc: Piano Trio in E minor, Op. 45",
+    "display_title": "Louise Farrenc: Piano Trio in E minor, Op. 45",
+    "track": "Streicher Trio - Louise Farrenc: Piano Trio in E minor, Op. 45",
+    "length": 1602,
+    "duration": 1602,
+    "started": 1724135388,
+    "type": "track",
+    "track_id": 879403,
+    "release": "Schumann, C.: Piano Trio in G Minor / Farrenc: Piano Trio in E Minor",
+    "art_url": "//cdn-images.audioaddict.com/5/f/b/d/8/3/5fbd832a403f1df5dcbbebd9d5c10cfe.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/b/d/8/3/5fbd832a403f1df5dcbbebd9d5c10cfe.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Altenberg Trio Wien",
+    "display_artist": "Altenberg Trio Wien",
+    "title": "Juon: Legend For Piano Trio, Op. 83",
+    "display_title": "Juon: Legend For Piano Trio, Op. 83",
+    "track": "Altenberg Trio Wien - Juon: Legend For Piano Trio, Op. 83",
+    "length": 1490,
+    "duration": 1490,
+    "started": 1724136990,
+    "type": "track",
+    "track_id": 400277,
+    "release": "Juon: The Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/f/0/b/c/0/e/f0bc0e14b6fa4a592375f83d88f9bc33.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/b/c/0/e/f0bc0e14b6fa4a592375f83d88f9bc33.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Bargiel: Piano Trio 3, Op. 37",
+    "display_title": "Bargiel: Piano Trio 3, Op. 37",
+    "track": "Trio Parnassus - Bargiel: Piano Trio 3, Op. 37",
+    "length": 2183,
+    "duration": 2183,
+    "started": 1724138471,
+    "type": "track",
+    "track_id": 879350,
+    "release": "Bargiel: Complete Piano Trios, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/7/a/2/1/b/7/7a21b76f99863b5441236c10593836b9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/2/1/b/7/7a21b76f99863b5441236c10593836b9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Suk Trio",
+    "display_artist": "Suk Trio",
+    "title": "Beethoven Piano Trio 6, Op. 70, No. 2 (Suk Trio)",
+    "display_title": "Beethoven Piano Trio 6, Op. 70, No. 2 (Suk Trio)",
+    "track": "Suk Trio - Beethoven Piano Trio 6, Op. 70, No. 2 (Suk Trio)",
+    "length": 1823,
+    "duration": 1823,
+    "started": 1724140653,
+    "type": "track",
+    "track_id": 400097,
+    "release": "Beethoven Piano Trios 5 (Op.70, No.1) & 6 (Op.70, No.2)",
+    "art_url": "//cdn-images.audioaddict.com/a/6/b/0/1/f/a6b01f8c99c691b4dca0b382ad70dd76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/b/0/1/f/a6b01f8c99c691b4dca0b382ad70dd76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gingher, Shin, Hayek",
+    "display_artist": "Gingher, Shin, Hayek",
+    "title": "Czerny: Sonatina for Piano Trio 3",
+    "display_title": "Czerny: Sonatina for Piano Trio 3",
+    "track": "Gingher, Shin, Hayek - Czerny: Sonatina for Piano Trio 3",
+    "length": 488,
+    "duration": 488,
+    "started": 1724142476,
+    "type": "track",
+    "track_id": 2978388,
+    "release": "Czerny: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/8/6/6/f/a/a866faf5825335ee5a4147a6e1ad471e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/6/6/f/a/a866faf5825335ee5a4147a6e1ad471e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Haydn: Piano Trio, Hob. XV30 (Beaux Arts Trio)",
+    "display_title": "Haydn: Piano Trio, Hob. XV30 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Haydn: Piano Trio, Hob. XV30 (Beaux Arts Trio)",
+    "length": 1075,
+    "duration": 1075,
+    "started": 1724142964,
+    "type": "track",
+    "track_id": 400261,
+    "release": "Haydn: Piano Trios, Hob. XV: 28, 29, 30 & 31",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Angell Trio",
+    "display_artist": "Angell Trio",
+    "title": "Martinu: Piano Trio 2 ",
+    "display_title": "Martinu: Piano Trio 2 ",
+    "track": "Angell Trio - Martinu: Piano Trio 2 ",
+    "length": 933,
+    "duration": 933,
+    "started": 1724144406,
+    "type": "track",
+    "track_id": 400306,
+    "release": "Martinů: The Three Piano Trios, Duo No. 2 for Violin and Cello",
+    "art_url": "//cdn-images.audioaddict.com/6/6/c/d/9/c/66cd9c09fcfb3b4619511b2a1d003819.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/c/d/9/c/66cd9c09fcfb3b4619511b2a1d003819.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Berlin Gobel Trio",
+    "display_artist": "Berlin Gobel Trio",
+    "title": "Beriot: Piano Trio 2, Op. 58",
+    "display_title": "Beriot: Piano Trio 2, Op. 58",
+    "track": "Berlin Gobel Trio - Beriot: Piano Trio 2, Op. 58",
+    "length": 1104,
+    "duration": 1104,
+    "started": 1724147496,
+    "type": "track",
+    "track_id": 400110,
+    "release": "Loewe: Grand Trio, Op. 12 - Beriot: Piano Trio No. 2, Op. 58",
+    "art_url": "//cdn-images.audioaddict.com/5/5/6/8/5/3/556853c579510c24daf3e897632c4160.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/6/8/5/3/556853c579510c24daf3e897632c4160.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Wass, Liebeck, Chausbian",
+    "display_artist": "Wass, Liebeck, Chausbian",
+    "title": "Bridge: Miniatures For Piano Trio (Wass, Liebeck, Chausbian)",
+    "display_title": "Bridge: Miniatures For Piano Trio (Wass, Liebeck, Chausbian)",
+    "track": "Wass, Liebeck, Chausbian - Bridge: Miniatures For Piano Trio (Wass, Liebeck, Chausbian)",
+    "length": 1472,
+    "duration": 1472,
+    "started": 1724148592,
+    "type": "track",
+    "track_id": 400138,
+    "release": "Frank Bridge: Piano Trio No. 2; Phantasie Trio; Miniatures",
+    "art_url": "//cdn-images.audioaddict.com/2/4/b/5/a/9/24b5a9136ac7d96467ca5686d3cbd570.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/b/5/a/9/24b5a9136ac7d96467ca5686d3cbd570.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Macalester Trio",
+    "display_artist": "Macalester Trio",
+    "title": "Chaminade Piano Trio 1, Op. 11",
+    "display_title": "Chaminade Piano Trio 1, Op. 11",
+    "track": "Macalester Trio - Chaminade Piano Trio 1, Op. 11",
+    "length": 1393,
+    "duration": 1393,
+    "started": 1724150060,
+    "type": "track",
+    "track_id": 400147,
+    "release": "Chamber Works by Women Composers, CD2",
+    "art_url": "//cdn-images.audioaddict.com/2/8/1/a/c/a/281aca014cdddd6d5eed7b2188cf2bf2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/1/a/c/a/281aca014cdddd6d5eed7b2188cf2bf2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Lalo: Piano Trio 2",
+    "display_title": "Lalo: Piano Trio 2",
+    "track": "Trio Parnassus - Lalo: Piano Trio 2",
+    "length": 1574,
+    "duration": 1574,
+    "started": 1724151453,
+    "type": "track",
+    "track_id": 879399,
+    "release": "Lalo: Complete Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/4/a/8/c/9/d/4a8c9d7f850542663a197bcd03f0bb02.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/a/8/c/9/d/4a8c9d7f850542663a197bcd03f0bb02.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Jose Miguel Gomez & Juan Carlos Garvayo",
+    "display_artist": "Jose Miguel Gomez & Juan Carlos Garvayo",
+    "title": "Román: Epojé, Op. 50",
+    "display_title": "Román: Epojé, Op. 50",
+    "track": "Jose Miguel Gomez & Juan Carlos Garvayo - Román: Epojé, Op. 50",
+    "length": 359,
+    "duration": 359,
+    "started": 1724153018,
+    "type": "track",
+    "track_id": 3039448,
+    "release": "Alejandro Román: Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/6/3/d/d/b/5/63ddb550dc4b0738623d79e0954057eb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/3/d/d/b/5/63ddb550dc4b0738623d79e0954057eb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Mozart: Piano Trio 5, K548 (Beaux Arts Trio)",
+    "display_title": "Mozart: Piano Trio 5, K548 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Mozart: Piano Trio 5, K548 (Beaux Arts Trio)",
+    "length": 1296,
+    "duration": 1296,
+    "started": 1724153375,
+    "type": "track",
+    "track_id": 400323,
+    "release": "Mozart: Piano Trios 1-6",
+    "art_url": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Orion Ensemble",
+    "display_artist": "Orion Ensemble",
+    "title": "Leonard Leutscher: Piano Trio",
+    "display_title": "Leonard Leutscher: Piano Trio",
+    "track": "Orion Ensemble - Leonard Leutscher: Piano Trio",
+    "length": 1407,
+    "duration": 1407,
+    "started": 1724154670,
+    "type": "track",
+    "track_id": 2968981,
+    "release": "Ballade",
+    "art_url": "//cdn-images.audioaddict.com/e/a/5/1/3/6/ea51366441ac8c8e13bfdf9c008d5fd9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/5/1/3/6/ea51366441ac8c8e13bfdf9c008d5fd9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Patrick Cohen, Erich Höbarth & Christophe Coin",
+    "display_artist": "Patrick Cohen, Erich Höbarth & Christophe Coin",
+    "title": "Haydn Piano Trio 25 (Cohen, Höbarth, Coin)",
+    "display_title": "Haydn Piano Trio 25 (Cohen, Höbarth, Coin)",
+    "track": "Patrick Cohen, Erich Höbarth & Christophe Coin - Haydn Piano Trio 25 (Cohen, Höbarth, Coin)",
+    "length": 1275,
+    "duration": 1275,
+    "started": 1724156077,
+    "type": "track",
+    "track_id": 400234,
+    "release": "Haydn Trios Vol. 1 - HM 1988",
+    "art_url": "//cdn-images.audioaddict.com/6/8/8/5/4/b/68854b65c6b5a3ac0333cbcb3a3226ed.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/8/5/4/b/68854b65c6b5a3ac0333cbcb3a3226ed.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Yuval Trio",
+    "display_artist": "Yuval Trio",
+    "title": "Brahms: Piano Trio 2, Op. 87 (Yuval Trio)",
+    "display_title": "Brahms: Piano Trio 2, Op. 87 (Yuval Trio)",
+    "track": "Yuval Trio - Brahms: Piano Trio 2, Op. 87 (Yuval Trio)",
+    "length": 1745,
+    "duration": 1745,
+    "started": 1724157351,
+    "type": "track",
+    "track_id": 400130,
+    "release": "Brahms: Piano Trios 2 & 3",
+    "art_url": "//cdn-images.audioaddict.com/4/e/b/0/1/5/4eb015bc55cd4d4f600d352adc1a69e1.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/b/0/1/5/4eb015bc55cd4d4f600d352adc1a69e1.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Hummel: Piano Trio 3",
+    "display_title": "Hummel: Piano Trio 3",
+    "track": "Gould Piano Trio - Hummel: Piano Trio 3",
+    "length": 432,
+    "duration": 432,
+    "started": 1724159085,
+    "type": "track",
+    "track_id": 942936,
+    "release": "Hummel: Piano Trios Nos. 2, 3, 6 & 7",
+    "art_url": "//cdn-images.audioaddict.com/d/0/4/e/0/9/d04e09360525f3435dcbdaeae1f32034.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/4/e/0/9/d04e09360525f3435dcbdaeae1f32034.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Ravensburg Beethoven Trio",
+    "display_artist": "Ravensburg Beethoven Trio",
+    "title": "Marschner: Piano Trio 2, Op. 11",
+    "display_title": "Marschner: Piano Trio 2, Op. 11",
+    "track": "Ravensburg Beethoven Trio - Marschner: Piano Trio 2, Op. 11",
+    "length": 1871,
+    "duration": 1871,
+    "started": 1724159952,
+    "type": "track",
+    "track_id": 942940,
+    "release": "Marschner: Piano Trios Nos. 2",
+    "art_url": "//cdn-images.audioaddict.com/7/c/0/2/a/f/7c02af42e7192fffcb72b24300ccd98b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/0/2/a/f/7c02af42e7192fffcb72b24300ccd98b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Hohenstaufen Ensemble",
+    "display_artist": "Hohenstaufen Ensemble",
+    "title": "Kahn: Serenade in F Minor, Op. 73",
+    "display_title": "Kahn: Serenade in F Minor, Op. 73",
+    "track": "Hohenstaufen Ensemble - Kahn: Serenade in F Minor, Op. 73",
+    "length": 643,
+    "duration": 643,
+    "started": 1724161821,
+    "type": "track",
+    "track_id": 3080588,
+    "release": "Kahn: Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/4/e/9/5/d/9/4e95d9aab51e2332c47f4f43ba1ae0e6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/9/5/d/9/4e95d9aab51e2332c47f4f43ba1ae0e6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Barta, Kasík, Talich",
+    "display_artist": "Barta, Kasík, Talich",
+    "title": "Chopin: Piano Trio 1, Op. 8 (Barta, Kasík, Talich)",
+    "display_title": "Chopin: Piano Trio 1, Op. 8 (Barta, Kasík, Talich)",
+    "track": "Barta, Kasík, Talich - Chopin: Piano Trio 1, Op. 8 (Barta, Kasík, Talich)",
+    "length": 1493,
+    "duration": 1493,
+    "started": 1724162465,
+    "type": "track",
+    "track_id": 400155,
+    "release": "Chopin: Cello Sonata; Grand Duo Concertante; Introduction and Polonaise brillant; Piano Trio",
+    "art_url": "//cdn-images.audioaddict.com/3/6/8/f/5/6/368f562cdc482cfb40ec5ef8d6b225ed.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/8/f/5/6/368f562cdc482cfb40ec5ef8d6b225ed.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Grasbeck, Kuusisto, Ylonen",
+    "display_artist": "Grasbeck, Kuusisto, Ylonen",
+    "title": "Sibelius: Pieces for Piano Trio (Grasbeck, Kuusisto, Ylonen)",
+    "display_title": "Sibelius: Pieces for Piano Trio (Grasbeck, Kuusisto, Ylonen)",
+    "track": "Grasbeck, Kuusisto, Ylonen - Sibelius: Pieces for Piano Trio (Grasbeck, Kuusisto, Ylonen)",
+    "length": 2402,
+    "duration": 2402,
+    "started": 1724165430,
+    "type": "track",
+    "track_id": 400404,
+    "release": "Sibelius: Complete Piano trios, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Bowen Piano Trio, Op. 118",
+    "display_title": "Bowen Piano Trio, Op. 118",
+    "track": "Gould Piano Trio - Bowen Piano Trio, Op. 118",
+    "length": 599,
+    "duration": 599,
+    "started": 1724167832,
+    "type": "track",
+    "track_id": 942926,
+    "release": "Bowen: Phantasy Quintet - Piano Trios - Clarinet Sonata",
+    "art_url": "//cdn-images.audioaddict.com/2/5/c/d/2/4/25cd242e01a69f712abd7a3e674fb940.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/c/d/2/4/25cd242e01a69f712abd7a3e674fb940.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "New Arts Trio",
+    "display_artist": "New Arts Trio",
+    "title": "Arensky: Piano Trio 1, Op. 32 (New Arts Trio)",
+    "display_title": "Arensky: Piano Trio 1, Op. 32 (New Arts Trio)",
+    "track": "New Arts Trio - Arensky: Piano Trio 1, Op. 32 (New Arts Trio)",
+    "length": 1793,
+    "duration": 1793,
+    "started": 1724169258,
+    "type": "track",
+    "track_id": 400079,
+    "release": "Arensky Piano Trio 1",
+    "art_url": "//cdn-images.audioaddict.com/2/d/c/5/d/c/2dc5dc22d324d9c54fa5fc4007369275.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/c/5/d/c/2dc5dc22d324d9c54fa5fc4007369275.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Joachim Trio",
+    "display_artist": "Joachim Trio",
+    "title": "Dvorak: Piano Trio, Op. 65 (Joachim Trio)",
+    "display_title": "Dvorak: Piano Trio, Op. 65 (Joachim Trio)",
+    "track": "Joachim Trio - Dvorak: Piano Trio, Op. 65 (Joachim Trio)",
+    "length": 2521,
+    "duration": 2521,
+    "started": 1724171041,
+    "type": "track",
+    "track_id": 400183,
+    "release": "Dvorak: Piano Trios Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/a/1/3/7/c/d/a137cdbf43bac6305bf0870a633f64aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/3/7/c/d/a137cdbf43bac6305bf0870a633f64aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Piano Trio No. 3 in C Major, Op. 104: I. Allegro con spirito",
+    "display_title": "Piano Trio No. 3 in C Major, Op. 104: I. Allegro con spirito",
+    "track": "Brahms Trio - Piano Trio No. 3 in C Major, Op. 104: I. Allegro con spirito",
+    "length": 837,
+    "duration": 837,
+    "started": 1724173561,
+    "type": "track",
+    "track_id": 3031398,
+    "release": "History of the Russian Piano Trio, Vol. 5",
+    "art_url": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Lazar, Botelho, Ernst",
+    "display_artist": "Lazar, Botelho, Ernst",
+    "title": "Deussen: Piano Trio 1 ",
+    "display_title": "Deussen: Piano Trio 1 ",
+    "track": "Lazar, Botelho, Ernst - Deussen: Piano Trio 1 ",
+    "length": 832,
+    "duration": 832,
+    "started": 1724175998,
+    "type": "track",
+    "track_id": 400174,
+    "release": "Deussen, N.B.: 2 Pieces / Piano Trio / Kenessey, S. De: Sunburst / Beating Down / Anderson, B.: Trio, \"Dream\" / Net Work ",
+    "art_url": "//cdn-images.audioaddict.com/c/9/9/b/e/1/c99be17d9a1e0a94f017b39dea02bb96.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/9/b/e/1/c99be17d9a1e0a94f017b39dea02bb96.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Mozart: Piano Trio 6, K564 (Beaux Arts Trio)",
+    "display_title": "Mozart: Piano Trio 6, K564 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Mozart: Piano Trio 6, K564 (Beaux Arts Trio)",
+    "length": 1048,
+    "duration": 1048,
+    "started": 1724176825,
+    "type": "track",
+    "track_id": 400325,
+    "release": "Mozart: Piano Trios 1-6",
+    "art_url": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Suk Trio",
+    "display_artist": "Suk Trio",
+    "title": "Beethoven: Piano Trio 5, Op.70, No.1 (Suk Trio)",
+    "display_title": "Beethoven: Piano Trio 5, Op.70, No.1 (Suk Trio)",
+    "track": "Suk Trio - Beethoven: Piano Trio 5, Op.70, No.1 (Suk Trio)",
+    "length": 1407,
+    "duration": 1407,
+    "started": 1724177874,
+    "type": "track",
+    "track_id": 400095,
+    "release": "Beethoven Piano Trios 5 (Op.70, No.1) & 6 (Op.70, No.2)",
+    "art_url": "//cdn-images.audioaddict.com/a/6/b/0/1/f/a6b01f8c99c691b4dca0b382ad70dd76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/b/0/1/f/a6b01f8c99c691b4dca0b382ad70dd76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Moscow Rachmaninov Trio",
+    "display_artist": "Moscow Rachmaninov Trio",
+    "title": "Glinka: Piano Trio Pathétique ",
+    "display_title": "Glinka: Piano Trio Pathétique ",
+    "track": "Moscow Rachmaninov Trio - Glinka: Piano Trio Pathétique ",
+    "length": 876,
+    "duration": 876,
+    "started": 1724179281,
+    "type": "track",
+    "track_id": 400216,
+    "release": "Glinka & Tchaikovsky: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/b/4/e/2/e/ab4e2e64963a04b54e99ae47902841ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/4/e/2/e/ab4e2e64963a04b54e99ae47902841ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gobel-Trio Berlin",
+    "display_artist": "Gobel-Trio Berlin",
+    "title": "Rheinberger: Piano Trio 1, Op. 34",
+    "display_title": "Rheinberger: Piano Trio 1, Op. 34",
+    "track": "Gobel-Trio Berlin - Rheinberger: Piano Trio 1, Op. 34",
+    "length": 2362,
+    "duration": 2362,
+    "started": 1724180143,
+    "type": "track",
+    "track_id": 400349,
+    "release": "Rheinberger: Piano Trios Nos. 1 & 3",
+    "art_url": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Haydn-Trio, Wien",
+    "display_artist": "Haydn-Trio, Wien",
+    "title": "Schubert: Sonata in B flat major for Piano, Violin und Violoncello (D28) - Allegro",
+    "display_title": "Schubert: Sonata in B flat major for Piano, Violin und Violoncello (D28) - Allegro",
+    "track": "Haydn-Trio, Wien - Schubert: Sonata in B flat major for Piano, Violin und Violoncello (D28) - Allegro",
+    "length": 428,
+    "duration": 428,
+    "started": 1724182505,
+    "type": "track",
+    "track_id": 400375,
+    "release": "Schubert Piano Trio 2, Op. 100",
+    "art_url": "//cdn-images.audioaddict.com/5/b/7/d/1/0/5b7d10b635e3cf2c4fc9497dde79a6f1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/7/d/1/0/5b7d10b635e3cf2c4fc9497dde79a6f1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Moscow Rachmaninov Trio",
+    "display_artist": "Moscow Rachmaninov Trio",
+    "title": "Arensky: Piano Trio 2, Op. 73",
+    "display_title": "Arensky: Piano Trio 2, Op. 73",
+    "track": "Moscow Rachmaninov Trio - Arensky: Piano Trio 2, Op. 73",
+    "length": 1731,
+    "duration": 1731,
+    "started": 1724182930,
+    "type": "track",
+    "track_id": 400081,
+    "release": "Arensky Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/1/d/5/3/d/9/1d53d90a720fa859d15f750ae7897360.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/d/5/3/d/9/1d53d90a720fa859d15f750ae7897360.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Cohen, Höbarth, Coin",
+    "display_artist": "Cohen, Höbarth, Coin",
+    "title": "Haydn: Piano Trio 32, Hob. XV18 (Cohen, Hoebarth, Coin)",
+    "display_title": "Haydn: Piano Trio 32, Hob. XV18 (Cohen, Hoebarth, Coin)",
+    "track": "Cohen, Höbarth, Coin - Haydn: Piano Trio 32, Hob. XV18 (Cohen, Hoebarth, Coin)",
+    "length": 1137,
+    "duration": 1137,
+    "started": 1724188155,
+    "type": "track",
+    "track_id": 400240,
+    "release": "Haydn - Trios 32-34 pour Pianoforte, Violon & Violoncelle - HM 1990",
+    "art_url": "//cdn-images.audioaddict.com/d/0/7/2/7/c/d0727ca5bcce86dfe6cd4480782b6cb9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/7/2/7/c/d0727ca5bcce86dfe6cd4480782b6cb9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Godard: Piano Trio 2, Op. 72",
+    "display_title": "Godard: Piano Trio 2, Op. 72",
+    "track": "Trio Parnassus - Godard: Piano Trio 2, Op. 72",
+    "length": 1796,
+    "duration": 1796,
+    "started": 1724189291,
+    "type": "track",
+    "track_id": 879388,
+    "release": "Godard: Complete Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/1/b/6/b/a/6/1b6ba651a3080244f6a0ec77630f9743.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/6/b/a/6/1b6ba651a3080244f6a0ec77630f9743.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Hartley Trio",
+    "display_artist": "Hartley Trio",
+    "title": "Spohr: Piano Trio 3, Op. 124 ",
+    "display_title": "Spohr: Piano Trio 3, Op. 124 ",
+    "track": "Hartley Trio - Spohr: Piano Trio 3, Op. 124 ",
+    "length": 1973,
+    "duration": 1973,
+    "started": 1724194122,
+    "type": "track",
+    "track_id": 400410,
+    "release": "Spohr Piano Trios 3 & 5",
+    "art_url": "//cdn-images.audioaddict.com/4/0/d/2/a/5/40d2a5763a9c7c96352e72d9807d88ab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/d/2/a/5/40d2a5763a9c7c96352e72d9807d88ab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Mozart: Piano Trio 4, K542 (Beaux Arts Trio)",
+    "display_title": "Mozart: Piano Trio 4, K542 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Mozart: Piano Trio 4, K542 (Beaux Arts Trio)",
+    "length": 1153,
+    "duration": 1153,
+    "started": 1724196094,
+    "type": "track",
+    "track_id": 400321,
+    "release": "Mozart: Piano Trios 1-6",
+    "art_url": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Piano Trio in C Minor, Op. 52: I. Moderato - Allegro",
+    "display_title": "Piano Trio in C Minor, Op. 52: I. Moderato - Allegro",
+    "track": "Brahms Trio - Piano Trio in C Minor, Op. 52: I. Moderato - Allegro",
+    "length": 1928,
+    "duration": 1928,
+    "started": 1724197247,
+    "type": "track",
+    "track_id": 3031403,
+    "release": "History of the Russian Piano Trio, Vol. 5",
+    "art_url": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Mozart: Piano Trio 1, K254 (Beaux Arts Trio)",
+    "display_title": "Mozart: Piano Trio 1, K254 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Mozart: Piano Trio 1, K254 (Beaux Arts Trio)",
+    "length": 1247,
+    "duration": 1247,
+    "started": 1724199172,
+    "type": "track",
+    "track_id": 400314,
+    "release": "Mozart: Piano Trios 1-6",
+    "art_url": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Kalichstein, Laredo, Robinson",
+    "display_artist": "Kalichstein, Laredo, Robinson",
+    "title": "Part: Adagio For Piano Trio (Kalichstein, Laredo, Robinson)",
+    "display_title": "Part: Adagio For Piano Trio (Kalichstein, Laredo, Robinson)",
+    "track": "Kalichstein, Laredo, Robinson - Part: Adagio For Piano Trio (Kalichstein, Laredo, Robinson)",
+    "length": 391,
+    "duration": 391,
+    "started": 1724203165,
+    "type": "track",
+    "track_id": 400335,
+    "release": "Legacies",
+    "art_url": "//cdn-images.audioaddict.com/a/8/0/9/4/c/a8094c3662b635bbc3c72eb094f52aeb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/0/9/4/c/a8094c3662b635bbc3c72eb094f52aeb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Ravensburg Beethoven Trio",
+    "display_artist": "Ravensburg Beethoven Trio",
+    "title": "Marschner: Piano Trio 5, Op. 138",
+    "display_title": "Marschner: Piano Trio 5, Op. 138",
+    "track": "Ravensburg Beethoven Trio - Marschner: Piano Trio 5, Op. 138",
+    "length": 2371,
+    "duration": 2371,
+    "started": 1724207939,
+    "type": "track",
+    "track_id": 942941,
+    "release": "Marschner: Piano Trios Nos. 2 & 5",
+    "art_url": "//cdn-images.audioaddict.com/7/c/0/2/a/f/7c02af42e7192fffcb72b24300ccd98b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/0/2/a/f/7c02af42e7192fffcb72b24300ccd98b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "The Macalester Trio",
+    "display_artist": "The Macalester Trio",
+    "title": "Clara Schumann Piano Trio 1, Op. 17 (MacalesterTrio)",
+    "display_title": "Clara Schumann Piano Trio 1, Op. 17 (MacalesterTrio)",
+    "track": "The Macalester Trio - Clara Schumann Piano Trio 1, Op. 17 (MacalesterTrio)",
+    "length": 1731,
+    "duration": 1731,
+    "started": 1724213831,
+    "type": "track",
+    "track_id": 400157,
+    "release": "Chamber Works by Women Composers, CD1",
+    "art_url": "//cdn-images.audioaddict.com/2/8/1/a/c/a/281aca014cdddd6d5eed7b2188cf2bf2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/1/a/c/a/281aca014cdddd6d5eed7b2188cf2bf2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Haydn: Piano Trio, Hob. XV28 (Beaux Arts Trio)",
+    "display_title": "Haydn: Piano Trio, Hob. XV28 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Haydn: Piano Trio, Hob. XV28 (Beaux Arts Trio)",
+    "length": 1052,
+    "duration": 1052,
+    "started": 1724215555,
+    "type": "track",
+    "track_id": 400258,
+    "release": "Haydn: Piano Trios, Hob. XV: 28, 29, 30 & 31",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Tunnell Trio",
+    "display_artist": "Tunnell Trio",
+    "title": "Hurlstone Piano Trio 1 (Tunnell Trio)",
+    "display_title": "Hurlstone Piano Trio 1 (Tunnell Trio)",
+    "track": "Tunnell Trio - Hurlstone Piano Trio 1 (Tunnell Trio)",
+    "length": 1648,
+    "duration": 1648,
+    "started": 1724216606,
+    "type": "track",
+    "track_id": 400269,
+    "release": "William Hurlstone: Piano Concerto; Variations; Piano Quartet; Piano Trio",
+    "art_url": "//cdn-images.audioaddict.com/2/7/3/9/4/8/273948d601d088d7dc69f61cd65a7965.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/3/9/4/8/273948d601d088d7dc69f61cd65a7965.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Arensky Trio",
+    "display_artist": "Arensky Trio",
+    "title": "Herzogenberg: Piano Trio 2, Op. 36 ",
+    "display_title": "Herzogenberg: Piano Trio 2, Op. 36 ",
+    "track": "Arensky Trio - Herzogenberg: Piano Trio 2, Op. 36 ",
+    "length": 1902,
+    "duration": 1902,
+    "started": 1724218241,
+    "type": "track",
+    "track_id": 400264,
+    "release": "Herzogenberg: Piano Trios, Op. 24/Op.36",
+    "art_url": "//cdn-images.audioaddict.com/1/2/6/8/b/3/1268b31742ad6cd13a83dec33527a822.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/6/8/b/3/1268b31742ad6cd13a83dec33527a822.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Berlin Gobel Trio",
+    "display_artist": "Berlin Gobel Trio",
+    "title": "Loewe: Piano Trio, Op. 12",
+    "display_title": "Loewe: Piano Trio, Op. 12",
+    "track": "Berlin Gobel Trio - Loewe: Piano Trio, Op. 12",
+    "length": 2310,
+    "duration": 2310,
+    "started": 1724220142,
+    "type": "track",
+    "track_id": 400300,
+    "release": "Loewe: Grand Trio, Op. 12 - Beriot: Piano Trio No. 2, Op. 58",
+    "art_url": "//cdn-images.audioaddict.com/5/5/6/8/5/3/556853c579510c24daf3e897632c4160.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/6/8/5/3/556853c579510c24daf3e897632c4160.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Suk Trios",
+    "display_artist": "Suk Trios",
+    "title": "Suk: Elegy for Piano Trio, Op. 23 (Suk Trio)",
+    "display_title": "Suk: Elegy for Piano Trio, Op. 23 (Suk Trio)",
+    "track": "Suk Trios - Suk: Elegy for Piano Trio, Op. 23 (Suk Trio)",
+    "length": 383,
+    "duration": 383,
+    "started": 1724222437,
+    "type": "track",
+    "track_id": 400427,
+    "release": "Dvorak Trio 4, Suk Trio",
+    "art_url": "//cdn-images.audioaddict.com/a/6/b/0/1/f/a6b01f8c99c691b4dca0b382ad70dd76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/b/0/1/f/a6b01f8c99c691b4dca0b382ad70dd76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Tre Musici",
+    "display_artist": "Tre Musici",
+    "title": "Langgaard: Fjeldblomster",
+    "display_title": "Langgaard: Fjeldblomster",
+    "track": "Tre Musici - Langgaard: Fjeldblomster",
+    "length": 448,
+    "duration": 448,
+    "started": 1724222821,
+    "type": "track",
+    "track_id": 1217200,
+    "release": "Danish Golden Age Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/5/2/4/9/f/0/5249f001ae46d5f252cb762486caa332.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/4/9/f/0/5249f001ae46d5f252cb762486caa332.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Grasbeck, Kuusisto, Ylonen",
+    "display_artist": "Grasbeck, Kuusisto, Ylonen",
+    "title": "Sibelius: Piano Trio JS207 (Grasbeck, Kuusisto, Ylonen)",
+    "display_title": "Sibelius: Piano Trio JS207 (Grasbeck, Kuusisto, Ylonen)",
+    "track": "Grasbeck, Kuusisto, Ylonen - Sibelius: Piano Trio JS207 (Grasbeck, Kuusisto, Ylonen)",
+    "length": 1362,
+    "duration": 1362,
+    "started": 1724223254,
+    "type": "track",
+    "track_id": 400396,
+    "release": "Sibelius: Complete Piano trios, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Mirecourt Trio",
+    "display_artist": "Mirecourt Trio",
+    "title": "Lloyd Rodgers: Piano Trio 1",
+    "display_title": "Lloyd Rodgers: Piano Trio 1",
+    "track": "Mirecourt Trio - Lloyd Rodgers: Piano Trio 1",
+    "length": 1037,
+    "duration": 1037,
+    "started": 1724228511,
+    "type": "track",
+    "track_id": 879401,
+    "release": "Trio America, Vol. 4 - Music by Otto Leuning - Piano Trios by Ellington - Benjamin - Dukelsky - Rogers",
+    "art_url": "//cdn-images.audioaddict.com/b/1/a/8/a/f/b1a8aff58edf4210025dc2b1e1e5db2c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/1/a/8/a/f/b1a8aff58edf4210025dc2b1e1e5db2c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Bosphorus Trio",
+    "display_artist": "Bosphorus Trio",
+    "title": "Alnar: Piano Trio",
+    "display_title": "Alnar: Piano Trio",
+    "track": "Bosphorus Trio - Alnar: Piano Trio",
+    "length": 1188,
+    "duration": 1188,
+    "started": 1724239296,
+    "type": "track",
+    "track_id": 3080584,
+    "release": "Turkish Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/8/2/8/3/f/98283f3af3cd8e212e36331902edcc86.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/2/8/3/f/98283f3af3cd8e212e36331902edcc86.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Haydn Trio Eisenstadt",
+    "display_artist": "Haydn Trio Eisenstadt",
+    "title": "Kats-Chernin: Calliope Dreaming",
+    "display_title": "Kats-Chernin: Calliope Dreaming",
+    "track": "Haydn Trio Eisenstadt - Kats-Chernin: Calliope Dreaming",
+    "length": 423,
+    "duration": 423,
+    "started": 1724240481,
+    "type": "track",
+    "track_id": 3100025,
+    "release": "Haydn Trio Eisenstadt",
+    "art_url": "//cdn-images.audioaddict.com/5/e/9/2/a/1/5e92a1ce9fade5eef89b63b08452a302.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/9/2/a/1/5e92a1ce9fade5eef89b63b08452a302.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Stanford: Piano Trio 1",
+    "display_title": "Stanford: Piano Trio 1",
+    "track": "Gould Piano Trio - Stanford: Piano Trio 1",
+    "length": 627,
+    "duration": 627,
+    "started": 1724242109,
+    "type": "track",
+    "track_id": 942943,
+    "release": "Stanford: Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/2/5/c/d/2/4/25cd242e01a69f712abd7a3e674fb940.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/c/d/2/4/25cd242e01a69f712abd7a3e674fb940.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Ahn Trio",
+    "display_artist": "Ahn Trio",
+    "title": "Villa-Lobos: Piano Trio 1, A.042 (Ahn Trio)",
+    "display_title": "Villa-Lobos: Piano Trio 1, A.042 (Ahn Trio)",
+    "track": "Ahn Trio - Villa-Lobos: Piano Trio 1, A.042 (Ahn Trio)",
+    "length": 1433,
+    "duration": 1433,
+    "started": 1724244003,
+    "type": "track",
+    "track_id": 400446,
+    "release": "Paris Rio",
+    "art_url": "//cdn-images.audioaddict.com/b/9/d/9/b/0/b9d9b05600359b21e7e83cfcdbbc9110.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/d/9/b/0/b9d9b05600359b21e7e83cfcdbbc9110.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Hélios",
+    "display_artist": "Trio Hélios",
+    "title": "Fibich: Piano Trio 2, Op. 27 ",
+    "display_title": "Fibich: Piano Trio 2, Op. 27 ",
+    "track": "Trio Hélios - Fibich: Piano Trio 2, Op. 27 ",
+    "length": 1017,
+    "duration": 1017,
+    "started": 1724245435,
+    "type": "track",
+    "track_id": 3080580,
+    "release": "Bohemia",
+    "art_url": "//cdn-images.audioaddict.com/1/3/4/6/c/8/1346c8e312c27236ca9552307c9bd395.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/4/6/c/8/1346c8e312c27236ca9552307c9bd395.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Rachmaninoff Piano Trio 2, Op. 9",
+    "display_title": "Rachmaninoff Piano Trio 2, Op. 9",
+    "track": "Beaux Arts Trio - Rachmaninoff Piano Trio 2, Op. 9",
+    "length": 1106,
+    "duration": 1106,
+    "started": 1724246453,
+    "type": "track",
+    "track_id": 400343,
+    "release": "The 'Elegiac' Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/8/4/2/6/f/7/8426f7508072b5e6fcbcd6bedc102a56.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/2/6/f/7/8426f7508072b5e6fcbcd6bedc102a56.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Moscow Rachmaninov Trio",
+    "display_artist": "Moscow Rachmaninov Trio",
+    "title": "Gretchaninov: Piano Trio 2, Op. 128",
+    "display_title": "Gretchaninov: Piano Trio 2, Op. 128",
+    "track": "Moscow Rachmaninov Trio - Gretchaninov: Piano Trio 2, Op. 128",
+    "length": 1085,
+    "duration": 1085,
+    "started": 1724250118,
+    "type": "track",
+    "track_id": 400226,
+    "release": "Gretchaninov: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/8/a/a/3a98aad3af7b0f76d7b91d4b84caedd7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/9/8/a/a/3a98aad3af7b0f76d7b91d4b84caedd7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gobel-Trio Berlin",
+    "display_artist": "Gobel-Trio Berlin",
+    "title": "Hiller: Serenade for Piano Trio, Op. 64",
+    "display_title": "Hiller: Serenade for Piano Trio, Op. 64",
+    "track": "Gobel-Trio Berlin - Hiller: Serenade for Piano Trio, Op. 64",
+    "length": 1513,
+    "duration": 1513,
+    "started": 1724251199,
+    "type": "track",
+    "track_id": 879391,
+    "release": "Göbel Trio Play Bruch, Hiller & Widor",
+    "art_url": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Cohen, Höbarth, Coin",
+    "display_artist": "Cohen, Höbarth, Coin",
+    "title": "Haydn: Piano Trio 35, Hob. XV21 (Cohen, Hoebarth, Coin)",
+    "display_title": "Haydn: Piano Trio 35, Hob. XV21 (Cohen, Hoebarth, Coin)",
+    "track": "Cohen, Höbarth, Coin - Haydn: Piano Trio 35, Hob. XV21 (Cohen, Hoebarth, Coin)",
+    "length": 1218,
+    "duration": 1218,
+    "started": 1724261922,
+    "type": "track",
+    "track_id": 400246,
+    "release": "Haydn Trios No 35-37, ",
+    "art_url": "//cdn-images.audioaddict.com/d/0/7/2/7/c/d0727ca5bcce86dfe6cd4480782b6cb9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/7/2/7/c/d0727ca5bcce86dfe6cd4480782b6cb9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Hummel: Piano Trio 5",
+    "display_title": "Hummel: Piano Trio 5",
+    "track": "Gould Piano Trio - Hummel: Piano Trio 5",
+    "length": 1553,
+    "duration": 1553,
+    "started": 1724263135,
+    "type": "track",
+    "track_id": 2978383,
+    "release": "Hummel: Piano Trios, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/5/6/d/c/a/3/56dca3d4c0abfd580c0b581428444a22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/d/c/a/3/56dca3d4c0abfd580c0b581428444a22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Hochelaga",
+    "display_artist": "Trio Hochelaga",
+    "title": "Dubois: Cantilene Nuptiale",
+    "display_title": "Dubois: Cantilene Nuptiale",
+    "track": "Trio Hochelaga - Dubois: Cantilene Nuptiale",
+    "length": 192,
+    "duration": 192,
+    "started": 1724267721,
+    "type": "track",
+    "track_id": 879363,
+    "release": "Dubois: Piano Trios Nos. 1-2 - Promenade Sentimentale - Cantilene",
+    "art_url": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Piano Trio in C Minor, Op. 25: I. Largo molto sostenuto - Allegro ma non troppo",
+    "display_title": "Piano Trio in C Minor, Op. 25: I. Largo molto sostenuto - Allegro ma non troppo",
+    "track": "Brahms Trio - Piano Trio in C Minor, Op. 25: I. Largo molto sostenuto - Allegro ma non troppo",
+    "length": 1889,
+    "duration": 1889,
+    "started": 1724267911,
+    "type": "track",
+    "track_id": 3031404,
+    "release": "History of the Russian Piano Trio, Vol. 5",
+    "art_url": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/3/f/6/7/433f67d4c37987e3eab40d04ada4ab87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Lazar, Botelho, Ernst",
+    "display_artist": "Lazar, Botelho, Ernst",
+    "title": "Beth Anderson: Trio In D-Maj., \"Dream\"",
+    "display_title": "Beth Anderson: Trio In D-Maj., \"Dream\"",
+    "track": "Lazar, Botelho, Ernst - Beth Anderson: Trio In D-Maj., \"Dream\"",
+    "length": 507,
+    "duration": 507,
+    "started": 1724269800,
+    "type": "track",
+    "track_id": 400121,
+    "release": "Deussen, N.B.: 2 Pieces - Piano Trio - Kenessey, S. De: Sunburst - Beating Down - Anderson, B.: Trio, \"Dream\" - Net Work",
+    "art_url": "//cdn-images.audioaddict.com/6/c/7/4/8/7/6c7487fbacc67bc35a30a9f7235e02c7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/7/4/8/7/6c7487fbacc67bc35a30a9f7235e02c7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Chausson: Piano Trio 1, Op. 3 (Beaux Arts Trio)",
+    "display_title": "Chausson: Piano Trio 1, Op. 3 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Chausson: Piano Trio 1, Op. 3 (Beaux Arts Trio)",
+    "length": 1882,
+    "duration": 1882,
+    "started": 1724273095,
+    "type": "track",
+    "track_id": 400153,
+    "release": "Ravel & Chausson Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/e/4/e/9/6/8/e4e96852ce75ca20e16f6736d5f8381e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/e/9/6/8/e4e96852ce75ca20e16f6736d5f8381e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gobel-Trio Berlin",
+    "display_artist": "Gobel-Trio Berlin",
+    "title": "Widor: Quatre Pieces en Piano Trio",
+    "display_title": "Widor: Quatre Pieces en Piano Trio",
+    "track": "Gobel-Trio Berlin - Widor: Quatre Pieces en Piano Trio",
+    "length": 973,
+    "duration": 973,
+    "started": 1724274976,
+    "type": "track",
+    "track_id": 879450,
+    "release": "Göbel Trio Play Bruch, Hiller & Widor",
+    "art_url": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/4/2/4/7/c242470d57daab1ca340c471f0a40068.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Moscow Trio",
+    "display_artist": "Moscow Trio",
+    "title": "Rimski-Korsakov: Piano Trio 1 ",
+    "display_title": "Rimski-Korsakov: Piano Trio 1 ",
+    "track": "Moscow Trio - Rimski-Korsakov: Piano Trio 1 ",
+    "length": 2713,
+    "duration": 2713,
+    "started": 1724275943,
+    "type": "track",
+    "track_id": 400354,
+    "release": "Russian Trios, Vol. 2: Rimski-Korsakov, Borodin",
+    "art_url": "//cdn-images.audioaddict.com/9/e/a/6/e/2/9ea6e2bb0880248b33639db7a86fc326.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/a/6/e/2/9ea6e2bb0880248b33639db7a86fc326.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Bax: Piano Trio 1 (Gould Trio)",
+    "display_title": "Bax: Piano Trio 1 (Gould Trio)",
+    "track": "Gould Piano Trio - Bax: Piano Trio 1 (Gould Trio)",
+    "length": 1270,
+    "duration": 1270,
+    "started": 1724280960,
+    "type": "track",
+    "track_id": 400084,
+    "release": "Bax: Clarinet Sonatas; Piano Trio; Trio in One Movement",
+    "art_url": "//cdn-images.audioaddict.com/2/5/c/d/2/4/25cd242e01a69f712abd7a3e674fb940.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/c/d/2/4/25cd242e01a69f712abd7a3e674fb940.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Haydn-Trio, Wien",
+    "display_artist": "Haydn-Trio, Wien",
+    "title": "Beethoven: Piano Trio 4, Op. 11 (Haydn-Trio, Wien)",
+    "display_title": "Beethoven: Piano Trio 4, Op. 11 (Haydn-Trio, Wien)",
+    "track": "Haydn-Trio, Wien - Beethoven: Piano Trio 4, Op. 11 (Haydn-Trio, Wien)",
+    "length": 1276,
+    "duration": 1276,
+    "started": 1724282225,
+    "type": "track",
+    "track_id": 400092,
+    "release": "Beethoven: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/f/d/4/6/b/6/fd46b691d3bb0c90e9f9d3e5386cc361.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/4/6/b/6/fd46b691d3bb0c90e9f9d3e5386cc361.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Artur Rubinstein",
+    "display_artist": "Artur Rubinstein",
+    "title": "Tchaikovsky: Piano Trio, Op.50",
+    "display_title": "Tchaikovsky: Piano Trio, Op.50",
+    "track": "Artur Rubinstein - Tchaikovsky: Piano Trio, Op.50",
+    "length": 2479,
+    "duration": 2479,
+    "started": 1724283490,
+    "type": "track",
+    "track_id": 400433,
+    "release": "Tchaikovsky/Mendelssohn: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/2/7/1/1/5/c/27115cda4d5b0c7af2a5302d5a0c3739.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/1/1/5/c/27115cda4d5b0c7af2a5302d5a0c3739.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Moscow Trio",
+    "display_artist": "Moscow Trio",
+    "title": "Borodin: Piano Trio 1 \"Unfinished\" ",
+    "display_title": "Borodin: Piano Trio 1 \"Unfinished\" ",
+    "track": "Moscow Trio - Borodin: Piano Trio 1 \"Unfinished\" ",
+    "length": 1325,
+    "duration": 1325,
+    "started": 1724285955,
+    "type": "track",
+    "track_id": 400125,
+    "release": "Russian Trios, Vol. 2: Rimski-Korsakov, Borodin",
+    "art_url": "//cdn-images.audioaddict.com/9/e/a/6/e/2/9ea6e2bb0880248b33639db7a86fc326.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/a/6/e/2/9ea6e2bb0880248b33639db7a86fc326.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Panta Rhei",
+    "display_artist": "Trio Panta Rhei",
+    "title": "Pritsker: Piano Trio, Op. 239",
+    "display_title": "Pritsker: Piano Trio, Op. 239",
+    "track": "Trio Panta Rhei - Pritsker: Piano Trio, Op. 239",
+    "length": 269,
+    "duration": 269,
+    "started": 1724288909,
+    "type": "track",
+    "track_id": 879425,
+    "release": "Piano Trios: Bernstein - Schnyder - Gershwin - Kapustin - Pritsker",
+    "art_url": "//cdn-images.audioaddict.com/8/f/9/3/5/a/8f935a86f941757df3c61238afdd0198.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/9/3/5/a/8f935a86f941757df3c61238afdd0198.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Anton Rubinstein: Piano Trio 2, Op. 15",
+    "display_title": "Anton Rubinstein: Piano Trio 2, Op. 15",
+    "track": "Brahms Trio - Anton Rubinstein: Piano Trio 2, Op. 15",
+    "length": 1852,
+    "duration": 1852,
+    "started": 1724289174,
+    "type": "track",
+    "track_id": 3016617,
+    "release": "History of the Russian Piano Trio, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/6/f/8/f/a/e/6f8fae7a427c78742a328d875d602810.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/8/f/a/e/6f8fae7a427c78742a328d875d602810.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Abegg Trio",
+    "display_artist": "Abegg Trio",
+    "title": "Beethoven: 10 Variations for Piano Trio, Op.121a",
+    "display_title": "Beethoven: 10 Variations for Piano Trio, Op.121a",
+    "track": "Abegg Trio - Beethoven: 10 Variations for Piano Trio, Op.121a",
+    "length": 989,
+    "duration": 989,
+    "started": 1724291025,
+    "type": "track",
+    "track_id": 400088,
+    "release": "Beethoven, Piano Trios (Disk 3)",
+    "art_url": "//cdn-images.audioaddict.com/e/3/1/b/0/2/e31b021849ed53114ed9b7e616086362.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/1/b/0/2/e31b021849ed53114ed9b7e616086362.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Hochelaga",
+    "display_artist": "Trio Hochelaga",
+    "title": "Dubois: Piano Trio 2",
+    "display_title": "Dubois: Piano Trio 2",
+    "track": "Trio Hochelaga - Dubois: Piano Trio 2",
+    "length": 1477,
+    "duration": 1477,
+    "started": 1724295698,
+    "type": "track",
+    "track_id": 879365,
+    "release": "Dubois: Piano Trios 1 & 2",
+    "art_url": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Bekova Sisters",
+    "display_artist": "Bekova Sisters",
+    "title": "Franck: Piano Trio 2, Op. 1, No. 2 ",
+    "display_title": "Franck: Piano Trio 2, Op. 1, No. 2 ",
+    "track": "Bekova Sisters - Franck: Piano Trio 2, Op. 1, No. 2 ",
+    "length": 1463,
+    "duration": 1463,
+    "started": 1724297175,
+    "type": "track",
+    "track_id": 400202,
+    "release": "Franck: Piano Trios Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/a/1/b/e/6/1/a1be61da68395e5f1bd175191a6dc0ce.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/b/e/6/1/a1be61da68395e5f1bd175191a6dc0ce.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "London Fortepiano Trio",
+    "display_artist": "London Fortepiano Trio",
+    "title": "Beethoven Piano Trio Op.1 No.1 (London Fortepiano Trio)",
+    "display_title": "Beethoven Piano Trio Op.1 No.1 (London Fortepiano Trio)",
+    "track": "London Fortepiano Trio - Beethoven Piano Trio Op.1 No.1 (London Fortepiano Trio)",
+    "length": 1913,
+    "duration": 1913,
+    "started": 1724298636,
+    "type": "track",
+    "track_id": 400104,
+    "release": "Beethoven Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/6/8/b/5/f/f/68b5ff79d20001698fc9243291f434dd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/b/5/f/f/68b5ff79d20001698fc9243291f434dd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Cohen, Höbarth, Coin",
+    "display_artist": "Cohen, Höbarth, Coin",
+    "title": "Haydn: Piano Trio 37, Hob. XV23 (Cohen, Hoebarth, Coin)",
+    "display_title": "Haydn: Piano Trio 37, Hob. XV23 (Cohen, Hoebarth, Coin)",
+    "track": "Cohen, Höbarth, Coin - Haydn: Piano Trio 37, Hob. XV23 (Cohen, Hoebarth, Coin)",
+    "length": 1236,
+    "duration": 1236,
+    "started": 1724303750,
+    "type": "track",
+    "track_id": 400250,
+    "release": "Haydn Trios No 35-37, ",
+    "art_url": "//cdn-images.audioaddict.com/d/0/7/2/7/c/d0727ca5bcce86dfe6cd4480782b6cb9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/7/2/7/c/d0727ca5bcce86dfe6cd4480782b6cb9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Gade: Movement for Piano Trio in B-Flat Major",
+    "display_title": "Gade: Movement for Piano Trio in B-Flat Major",
+    "track": "Trio Parnassus - Gade: Movement for Piano Trio in B-Flat Major",
+    "length": 766,
+    "duration": 766,
+    "started": 1724304981,
+    "type": "track",
+    "track_id": 879373,
+    "release": "Gade: Complete Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/3/c/e/e/2/f/3cee2f1bb65db5a6c009b169edf4b5e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/e/e/2/f/3cee2f1bb65db5a6c009b169edf4b5e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Berlin Philharmonic Piano Trio",
+    "display_artist": "Berlin Philharmonic Piano Trio",
+    "title": "Suk: Piano Trio 1, Op. 2 (Berlin Philharmonic Piano Trio)",
+    "display_title": "Suk: Piano Trio 1, Op. 2 (Berlin Philharmonic Piano Trio)",
+    "track": "Berlin Philharmonic Piano Trio - Suk: Piano Trio 1, Op. 2 (Berlin Philharmonic Piano Trio)",
+    "length": 980,
+    "duration": 980,
+    "started": 1724309049,
+    "type": "track",
+    "track_id": 400429,
+    "release": "Music of Suk and Dvorak",
+    "art_url": "//cdn-images.audioaddict.com/d/1/c/3/8/2/d1c3829986a2f2988ea4618ffd1f9fc2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/c/3/8/2/d1c3829986a2f2988ea4618ffd1f9fc2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Kalichstein, Laredo, Robinson",
+    "display_artist": "Kalichstein, Laredo, Robinson",
+    "title": "Mendelssohn: Piano Trio 2, Op. 66 (Kalichstein Laredo Robinson)",
+    "display_title": "Mendelssohn: Piano Trio 2, Op. 66 (Kalichstein Laredo Robinson)",
+    "track": "Kalichstein, Laredo, Robinson - Mendelssohn: Piano Trio 2, Op. 66 (Kalichstein Laredo Robinson)",
+    "length": 1768,
+    "duration": 1768,
+    "started": 1724310020,
+    "type": "track",
+    "track_id": 400312,
+    "release": "Mendelssohn: The Two Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/8/0/9/4/c/a8094c3662b635bbc3c72eb094f52aeb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/0/9/4/c/a8094c3662b635bbc3c72eb094f52aeb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Solisti",
+    "display_artist": "Trio Solisti",
+    "title": "Schoenfield: Café Music for Piano Trio ",
+    "display_title": "Schoenfield: Café Music for Piano Trio ",
+    "track": "Trio Solisti - Schoenfield: Café Music for Piano Trio ",
+    "length": 1009,
+    "duration": 1009,
+    "started": 1724311787,
+    "type": "track",
+    "track_id": 400368,
+    "release": "Café Music",
+    "art_url": "//cdn-images.audioaddict.com/9/2/d/e/3/7/92de373920cde294c87f2ea2990ecb46.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/d/e/3/7/92de373920cde294c87f2ea2990ecb46.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Arensky Trio",
+    "display_artist": "Arensky Trio",
+    "title": "Gernsheim: Piano Trio 1, Op. 28",
+    "display_title": "Gernsheim: Piano Trio 1, Op. 28",
+    "track": "Arensky Trio - Gernsheim: Piano Trio 1, Op. 28",
+    "length": 2118,
+    "duration": 2118,
+    "started": 1724312789,
+    "type": "track",
+    "track_id": 400212,
+    "release": "Gernsheim: Klaviertrios",
+    "art_url": "//cdn-images.audioaddict.com/0/f/a/0/6/6/0fa0664659c20aa7712488cdeb624e80.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/a/0/6/6/0fa0664659c20aa7712488cdeb624e80.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Mozart: Piano Trio 3, K502 (Beaux Arts Trio)",
+    "display_title": "Mozart: Piano Trio 3, K502 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Mozart: Piano Trio 3, K502 (Beaux Arts Trio)",
+    "length": 1414,
+    "duration": 1414,
+    "started": 1724316636,
+    "type": "track",
+    "track_id": 400318,
+    "release": "Mozart: Piano Trios 1-6",
+    "art_url": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/2/e/c/2/a92ec27e62b0c01475ed5d4f6a0145b3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gingher, Shin, Hayek",
+    "display_artist": "Gingher, Shin, Hayek",
+    "title": "Czerny: Piano Trio Brillant 1",
+    "display_title": "Czerny: Piano Trio Brillant 1",
+    "track": "Gingher, Shin, Hayek - Czerny: Piano Trio Brillant 1",
+    "length": 1354,
+    "duration": 1354,
+    "started": 1724318050,
+    "type": "track",
+    "track_id": 2978384,
+    "release": "Czerny: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/8/6/6/f/a/a866faf5825335ee5a4147a6e1ad471e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/6/6/f/a/a866faf5825335ee5a4147a6e1ad471e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Mullova, Previn, Schiff",
+    "display_artist": "Mullova, Previn, Schiff",
+    "title": "Beethoven: \"Archduke\" Trio, Op. 97 (Mullova, Previn, Schiff)",
+    "display_title": "Beethoven: \"Archduke\" Trio, Op. 97 (Mullova, Previn, Schiff)",
+    "track": "Mullova, Previn, Schiff - Beethoven: \"Archduke\" Trio, Op. 97 (Mullova, Previn, Schiff)",
+    "length": 2271,
+    "duration": 2271,
+    "started": 1724319405,
+    "type": "track",
+    "track_id": 400100,
+    "release": "Beethoven Op 97 \"Archduke\", Brahms Op 8, Trios",
+    "art_url": "//cdn-images.audioaddict.com/0/d/2/e/2/e/0d2e2ef4df03f52b604e25caeb778370.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/2/e/2/e/0d2e2ef4df03f52b604e25caeb778370.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gingher, Shin, Hayek",
+    "display_artist": "Gingher, Shin, Hayek",
+    "title": "Czerny: Sonatina for Piano Trio 1",
+    "display_title": "Czerny: Sonatina for Piano Trio 1",
+    "track": "Gingher, Shin, Hayek - Czerny: Sonatina for Piano Trio 1",
+    "length": 600,
+    "duration": 600,
+    "started": 1724321675,
+    "type": "track",
+    "track_id": 2978386,
+    "release": "Czerny: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/8/6/6/f/a/a866faf5825335ee5a4147a6e1ad471e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/6/6/f/a/a866faf5825335ee5a4147a6e1ad471e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Monticello Trio",
+    "display_artist": "Monticello Trio",
+    "title": "Strauss: Piano Trio 1, Op. 37 (Monticello Trio)",
+    "display_title": "Strauss: Piano Trio 1, Op. 37 (Monticello Trio)",
+    "track": "Monticello Trio - Strauss: Piano Trio 1, Op. 37 (Monticello Trio)",
+    "length": 1083,
+    "duration": 1083,
+    "started": 1724324976,
+    "type": "track",
+    "track_id": 400422,
+    "release": "Strauss: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/5/6/b/c/d/b/56bcdb0c7206aa29ff9e01e60ba6c886.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/b/c/d/b/56bcdb0c7206aa29ff9e01e60ba6c886.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "Alexander Alyabyev: Piano Trio in A Minor",
+    "display_title": "Alexander Alyabyev: Piano Trio in A Minor",
+    "track": "Brahms Trio - Alexander Alyabyev: Piano Trio in A Minor",
+    "length": 1134,
+    "duration": 1134,
+    "started": 1724330536,
+    "type": "track",
+    "track_id": 3016616,
+    "release": "History of the Russian Piano Trio, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/6/f/8/f/a/e/6f8fae7a427c78742a328d875d602810.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/f/8/f/a/e/6f8fae7a427c78742a328d875d602810.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Hochelaga",
+    "display_artist": "Trio Hochelaga",
+    "title": "Dubois: Promenade sentimentale",
+    "display_title": "Dubois: Promenade sentimentale",
+    "track": "Trio Hochelaga - Dubois: Promenade sentimentale",
+    "length": 363,
+    "duration": 363,
+    "started": 1724339853,
+    "type": "track",
+    "track_id": 879366,
+    "release": "Dubois: Piano Trios Nos. 1-2 - Promenade Sentimentale - Cantilene",
+    "art_url": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Brahms Trio",
+    "display_artist": "Brahms Trio",
+    "title": "César Cui: À Argenteau, Op.40 (Farniente)",
+    "display_title": "César Cui: À Argenteau, Op.40 (Farniente)",
+    "track": "Brahms Trio - César Cui: À Argenteau, Op.40 (Farniente)",
+    "length": 364,
+    "duration": 364,
+    "started": 1724340789,
+    "type": "track",
+    "track_id": 3016615,
+    "release": "History of the Russian Piano Trio, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/f/7/c/9/f/d/f7c9fda09b35778d536e882ea3cdffb6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/c/9/f/d/f7c9fda09b35778d536e882ea3cdffb6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gingher, Shin, Hayek",
+    "display_artist": "Gingher, Shin, Hayek",
+    "title": "Czerny: Sonatina for Piano Trio 2",
+    "display_title": "Czerny: Sonatina for Piano Trio 2",
+    "track": "Gingher, Shin, Hayek - Czerny: Sonatina for Piano Trio 2",
+    "length": 533,
+    "duration": 533,
+    "started": 1724342704,
+    "type": "track",
+    "track_id": 2978387,
+    "release": "Czerny: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/8/6/6/f/a/a866faf5825335ee5a4147a6e1ad471e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/6/6/f/a/a866faf5825335ee5a4147a6e1ad471e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Godard: Piano Trio 1, Op. 32",
+    "display_title": "Godard: Piano Trio 1, Op. 32",
+    "track": "Trio Parnassus - Godard: Piano Trio 1, Op. 32",
+    "length": 1455,
+    "duration": 1455,
+    "started": 1724347363,
+    "type": "track",
+    "track_id": 879385,
+    "release": "Godard: Complete Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/1/b/6/b/a/6/1b6ba651a3080244f6a0ec77630f9743.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/6/b/a/6/1b6ba651a3080244f6a0ec77630f9743.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Göbel Trio Berlin",
+    "display_artist": "Göbel Trio Berlin",
+    "title": "Reger: Piano Trio in B minor, Op. 2",
+    "display_title": "Reger: Piano Trio in B minor, Op. 2",
+    "track": "Göbel Trio Berlin - Reger: Piano Trio in B minor, Op. 2",
+    "length": 1637,
+    "duration": 1637,
+    "started": 1724348808,
+    "type": "track",
+    "track_id": 2876279,
+    "release": "Reger: The Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/5/f/b/8/2/b/5fb82b692d570300e88973ed462e5684.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/b/8/2/b/5fb82b692d570300e88973ed462e5684.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Hochelaga",
+    "display_artist": "Trio Hochelaga",
+    "title": "Dubois: Piano Trio 1",
+    "display_title": "Dubois: Piano Trio 1",
+    "track": "Trio Hochelaga - Dubois: Piano Trio 1",
+    "length": 1580,
+    "duration": 1580,
+    "started": 1724350430,
+    "type": "track",
+    "track_id": 879364,
+    "release": "Dubois: Piano Trios 1 & 2",
+    "art_url": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Munich Dvorak Trio",
+    "display_artist": "Munich Dvorak Trio",
+    "title": "Dvorak: Piano Trio 1, Op. 21 (Munich Dvorak Trio)",
+    "display_title": "Dvorak: Piano Trio 1, Op. 21 (Munich Dvorak Trio)",
+    "track": "Munich Dvorak Trio - Dvorak: Piano Trio 1, Op. 21 (Munich Dvorak Trio)",
+    "length": 1843,
+    "duration": 1843,
+    "started": 1724352011,
+    "type": "track",
+    "track_id": 400181,
+    "release": "Dvorak: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/6/4/0/2/2/e/64022e7bb75cc8a9b8825bbb4d743b48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/0/2/2/e/64022e7bb75cc8a9b8825bbb4d743b48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Rubinstein, Szeryng, Fournier",
+    "display_artist": "Rubinstein, Szeryng, Fournier",
+    "title": "Schubert: Piano Trio 1, Op. 99 (Rubinstein, Szeryng, Fournier)",
+    "display_title": "Schubert: Piano Trio 1, Op. 99 (Rubinstein, Szeryng, Fournier)",
+    "track": "Rubinstein, Szeryng, Fournier - Schubert: Piano Trio 1, Op. 99 (Rubinstein, Szeryng, Fournier)",
+    "length": 2272,
+    "duration": 2272,
+    "started": 1724355793,
+    "type": "track",
+    "track_id": 400371,
+    "release": "Schumann/Schubert: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/c/8/ab31c8ba8db80daa664dec9756f28ade.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/c/8/ab31c8ba8db80daa664dec9756f28ade.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Mullova, Previn, Schiff",
+    "display_artist": "Mullova, Previn, Schiff",
+    "title": "Brahms Piano Trio 1, Op. 8 (Mullova, Previn, Schiff)",
+    "display_title": "Brahms Piano Trio 1, Op. 8 (Mullova, Previn, Schiff)",
+    "track": "Mullova, Previn, Schiff - Brahms Piano Trio 1, Op. 8 (Mullova, Previn, Schiff)",
+    "length": 2217,
+    "duration": 2217,
+    "started": 1724358064,
+    "type": "track",
+    "track_id": 400128,
+    "release": "Beethoven Op 97 \"Archduke\", Brahms Op 8, Trios",
+    "art_url": "//cdn-images.audioaddict.com/0/d/2/e/2/e/0d2e2ef4df03f52b604e25caeb778370.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/d/2/e/2/e/0d2e2ef4df03f52b604e25caeb778370.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gryphon Trio",
+    "display_artist": "Gryphon Trio",
+    "title": "Lalo: Piano Trio 3, Op. 26 ",
+    "display_title": "Lalo: Piano Trio 3, Op. 26 ",
+    "track": "Gryphon Trio - Lalo: Piano Trio 3, Op. 26 ",
+    "length": 1786,
+    "duration": 1786,
+    "started": 1724360280,
+    "type": "track",
+    "track_id": 400297,
+    "release": "Mendelssohn, Lalo: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/8/8/7/7/4/6/8877466ea91a5d126279e8f804d2f341.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/7/7/4/6/8877466ea91a5d126279e8f804d2f341.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gould Piano Trio",
+    "display_artist": "Gould Piano Trio",
+    "title": "Hummel: Piano Trio 4",
+    "display_title": "Hummel: Piano Trio 4",
+    "track": "Gould Piano Trio - Hummel: Piano Trio 4",
+    "length": 972,
+    "duration": 972,
+    "started": 1724366264,
+    "type": "track",
+    "track_id": 2978382,
+    "release": "Hummel: Piano Trios, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/5/6/d/c/a/3/56dca3d4c0abfd580c0b581428444a22.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/6/d/c/a/3/56dca3d4c0abfd580c0b581428444a22.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Haydn Trio Eisenstadt",
+    "display_artist": "Haydn Trio Eisenstadt",
+    "title": "Ndodana-Breen: Nguni Dances 1",
+    "display_title": "Ndodana-Breen: Nguni Dances 1",
+    "track": "Haydn Trio Eisenstadt - Ndodana-Breen: Nguni Dances 1",
+    "length": 250,
+    "duration": 250,
+    "started": 1724367350,
+    "type": "track",
+    "track_id": 3100026,
+    "release": "Haydn Trio Eisenstadt",
+    "art_url": "//cdn-images.audioaddict.com/5/e/9/2/a/1/5e92a1ce9fade5eef89b63b08452a302.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/9/2/a/1/5e92a1ce9fade5eef89b63b08452a302.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Hélios",
+    "display_artist": "Trio Hélios",
+    "title": "Boulanger: D'un soir triste",
+    "display_title": "Boulanger: D'un soir triste",
+    "track": "Trio Hélios - Boulanger: D'un soir triste",
+    "length": 640,
+    "duration": 640,
+    "started": 1724370134,
+    "type": "track",
+    "track_id": 3080581,
+    "release": "Un matin de printemps",
+    "art_url": "//cdn-images.audioaddict.com/7/3/c/a/d/1/73cad14aa3c759543ec03873e79083b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/c/a/d/1/73cad14aa3c759543ec03873e79083b0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Grasbeck, Kuusisto, Ylonen",
+    "display_artist": "Grasbeck, Kuusisto, Ylonen",
+    "title": "Sibelius: Piano Trio JS206 (Grasbeck, Kuusisto, Ylonen)",
+    "display_title": "Sibelius: Piano Trio JS206 (Grasbeck, Kuusisto, Ylonen)",
+    "track": "Grasbeck, Kuusisto, Ylonen - Sibelius: Piano Trio JS206 (Grasbeck, Kuusisto, Ylonen)",
+    "length": 1283,
+    "duration": 1283,
+    "started": 1724370775,
+    "type": "track",
+    "track_id": 400394,
+    "release": "Sibelius: Complete Piano trios, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Saint-Saëns: Piano Trio 1, Op. 18 (Beaux Arts Trio)",
+    "display_title": "Saint-Saëns: Piano Trio 1, Op. 18 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Saint-Saëns: Piano Trio 1, Op. 18 (Beaux Arts Trio)",
+    "length": 1798,
+    "duration": 1798,
+    "started": 1724375616,
+    "type": "track",
+    "track_id": 400364,
+    "release": "Saint-Saëns, Fauré Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/8/d/6/0/8/e/8d608e230e4e0ca0ba02520f0544f1d6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/6/0/8/e/8d608e230e4e0ca0ba02520f0544f1d6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Deakin Trio",
+    "display_artist": "Deakin Trio",
+    "title": "Parry: Piano Trio 1 ",
+    "display_title": "Parry: Piano Trio 1 ",
+    "track": "Deakin Trio - Parry: Piano Trio 1 ",
+    "length": 1610,
+    "duration": 1610,
+    "started": 1724381986,
+    "type": "track",
+    "track_id": 400332,
+    "release": "Parry: Quartet in A-flat; Trio in E-minor",
+    "art_url": "//cdn-images.audioaddict.com/a/7/8/0/8/6/a78086b3c81eea87ed2bc8d0df54f036.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/7/8/0/8/6/a78086b3c81eea87ed2bc8d0df54f036.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Moscow Rachmaninov Trio",
+    "display_artist": "Moscow Rachmaninov Trio",
+    "title": "Gretchaninov: Piano Trio 1, Op. 38",
+    "display_title": "Gretchaninov: Piano Trio 1, Op. 38",
+    "track": "Moscow Rachmaninov Trio - Gretchaninov: Piano Trio 1, Op. 38",
+    "length": 1615,
+    "duration": 1615,
+    "started": 1724394992,
+    "type": "track",
+    "track_id": 400224,
+    "release": "Gretchaninov: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/8/a/a/3a98aad3af7b0f76d7b91d4b84caedd7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/9/8/a/a/3a98aad3af7b0f76d7b91d4b84caedd7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Grasbeck, Kuusisto, Ylonen",
+    "display_artist": "Grasbeck, Kuusisto, Ylonen",
+    "title": "Sibelius Piano Trio JS205 (Grasbeck, Kuusisto, Ylonen)",
+    "display_title": "Sibelius Piano Trio JS205 (Grasbeck, Kuusisto, Ylonen)",
+    "track": "Grasbeck, Kuusisto, Ylonen - Sibelius Piano Trio JS205 (Grasbeck, Kuusisto, Ylonen)",
+    "length": 619,
+    "duration": 619,
+    "started": 1724396605,
+    "type": "track",
+    "track_id": 400392,
+    "release": "Sibelius: Complete Piano trios, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/5/d/5/0/4e5d5052873edcecd55838623353341a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Gaudier Ensemble",
+    "display_artist": "Gaudier Ensemble",
+    "title": "Berwald: Piano Trio 2",
+    "display_title": "Berwald: Piano Trio 2",
+    "track": "Gaudier Ensemble - Berwald: Piano Trio 2",
+    "length": 1321,
+    "duration": 1321,
+    "started": 1724401884,
+    "type": "track",
+    "track_id": 942925,
+    "release": "Berwald: Chamber Music, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/9/9/0/9/1/d/99091ddce3401095d75d3ac6012fe8dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/0/9/1/d/99091ddce3401095d75d3ac6012fe8dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Foerster Trio",
+    "display_artist": "Foerster Trio",
+    "title": "Foerster: Piano Trio 1, Op. 8",
+    "display_title": "Foerster: Piano Trio 1, Op. 8",
+    "track": "Foerster Trio - Foerster: Piano Trio 1, Op. 8",
+    "length": 1601,
+    "duration": 1601,
+    "started": 1724403206,
+    "type": "track",
+    "track_id": 400196,
+    "release": "Foerster: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/9/7/6/8/8/1/9768813aff97ea24a07e8a2d7cfb71df.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/6/8/8/1/9768813aff97ea24a07e8a2d7cfb71df.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Haydn Trio Eisenstadt",
+    "display_artist": "Haydn Trio Eisenstadt",
+    "title": "Ndodana-Breen: Nguni Dances 2",
+    "display_title": "Ndodana-Breen: Nguni Dances 2",
+    "track": "Haydn Trio Eisenstadt - Ndodana-Breen: Nguni Dances 2",
+    "length": 156,
+    "duration": 156,
+    "started": 1724409645,
+    "type": "track",
+    "track_id": 3100027,
+    "release": "Haydn Trio Eisenstadt",
+    "art_url": "//cdn-images.audioaddict.com/5/e/9/2/a/1/5e92a1ce9fade5eef89b63b08452a302.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/9/2/a/1/5e92a1ce9fade5eef89b63b08452a302.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Beaux Arts Trio",
+    "display_artist": "Beaux Arts Trio",
+    "title": "Haydn: Piano Trio, Hob. XV31 (Beaux Arts Trio)",
+    "display_title": "Haydn: Piano Trio, Hob. XV31 (Beaux Arts Trio)",
+    "track": "Beaux Arts Trio - Haydn: Piano Trio, Hob. XV31 (Beaux Arts Trio)",
+    "length": 786,
+    "duration": 786,
+    "started": 1724414349,
+    "type": "track",
+    "track_id": 400262,
+    "release": "Haydn: Piano Trios, Hob. XV: 28, 29, 30 & 31",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/9/8/f/d/2998fde1cb5b187ee333232bbbb002c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Pohjola Trio",
+    "display_artist": "Pohjola Trio",
+    "title": "Kuula: Piano Trio 1, Op. 7",
+    "display_title": "Kuula: Piano Trio 1, Op. 7",
+    "track": "Pohjola Trio - Kuula: Piano Trio 1, Op. 7",
+    "length": 3344,
+    "duration": 3344,
+    "started": 1724415135,
+    "type": "track",
+    "track_id": 942938,
+    "release": "Finnish Chamber Music",
+    "art_url": "//cdn-images.audioaddict.com/4/2/e/a/1/6/42ea16aaa9e79912fca2c57574d12ccf.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/e/a/1/6/42ea16aaa9e79912fca2c57574d12ccf.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Hochelaga",
+    "display_artist": "Trio Hochelaga",
+    "title": "Dubois: Canon",
+    "display_title": "Dubois: Canon",
+    "track": "Trio Hochelaga - Dubois: Canon",
+    "length": 113,
+    "duration": 113,
+    "started": 1724420090,
+    "type": "track",
+    "track_id": 879362,
+    "release": "Dubois: Piano Trios Nos. 1-2 - Promenade Sentimentale - Cantilene",
+    "art_url": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/f/c/5/d/8efc5d60cfba576204c1501e5865d330.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Lalo: Piano Trio 1, Op. 7",
+    "display_title": "Lalo: Piano Trio 1, Op. 7",
+    "track": "Trio Parnassus - Lalo: Piano Trio 1, Op. 7",
+    "length": 1263,
+    "duration": 1263,
+    "started": 1724421525,
+    "type": "track",
+    "track_id": 879398,
+    "release": "Lalo: Complete Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/4/a/8/c/9/d/4a8c9d7f850542663a197bcd03f0bb02.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/a/8/c/9/d/4a8c9d7f850542663a197bcd03f0bb02.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Damocles Trio",
+    "display_artist": "Damocles Trio",
+    "title": "Turina: Piano Trio 2, Op. 76 ",
+    "display_title": "Turina: Piano Trio 2, Op. 76 ",
+    "track": "Damocles Trio - Turina: Piano Trio 2, Op. 76 ",
+    "length": 869,
+    "duration": 869,
+    "started": 1724422777,
+    "type": "track",
+    "track_id": 400442,
+    "release": "Joaquín Turina: Trios and Quartet for Piano and Strings",
+    "art_url": "//cdn-images.audioaddict.com/5/1/3/8/1/1/5138116778da6c63c9d61679d415c935.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/3/8/1/1/5138116778da6c63c9d61679d415c935.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Yuval Trio",
+    "display_artist": "Yuval Trio",
+    "title": "Brahms: Piano Trio 3, Op. 101 (Yuval Trio)",
+    "display_title": "Brahms: Piano Trio 3, Op. 101 (Yuval Trio)",
+    "track": "Yuval Trio - Brahms: Piano Trio 3, Op. 101 (Yuval Trio)",
+    "length": 1349,
+    "duration": 1349,
+    "started": 1724423646,
+    "type": "track",
+    "track_id": 400132,
+    "release": "Brahms: Piano Trios 2 & 3",
+    "art_url": "//cdn-images.audioaddict.com/3/e/6/2/0/d/3e620d2fba44b81a7c09a87858647783.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/e/6/2/0/d/3e620d2fba44b81a7c09a87858647783.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Trio Parnassus",
+    "display_artist": "Trio Parnassus",
+    "title": "Rheinberger: Piano Trio 2, Op. 112",
+    "display_title": "Rheinberger: Piano Trio 2, Op. 112",
+    "track": "Trio Parnassus - Rheinberger: Piano Trio 2, Op. 112",
+    "length": 1328,
+    "duration": 1328,
+    "started": 1724427889,
+    "type": "track",
+    "track_id": 1217201,
+    "release": "Rheinberger: Complete Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/a/c/f/2/e/1/acf2e1bf7607ac4435c0793a0dcc731f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/f/2/e/1/acf2e1bf7607ac4435c0793a0dcc731f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Artur Rubinstein",
+    "display_artist": "Artur Rubinstein",
+    "title": "Mendelssohn Piano Trio 1, Op. 49",
+    "display_title": "Mendelssohn Piano Trio 1, Op. 49",
+    "track": "Artur Rubinstein - Mendelssohn Piano Trio 1, Op. 49",
+    "length": 1622,
+    "duration": 1622,
+    "started": 1724512774,
+    "type": "track",
+    "track_id": 400310,
+    "release": "Tchaikovsky/Mendelssohn: Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/3/2/d/c/8/4/32dc84bbbb14963f869b84dab4ee7bec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/d/c/8/4/32dc84bbbb14963f869b84dab4ee7bec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 15,
+    "channel_id": 372,
+    "artist": "Tzigane Piano Trio",
+    "display_artist": "Tzigane Piano Trio",
+    "title": "Chaminade: Ritournelle For Piano Trio",
+    "display_title": "Chaminade: Ritournelle For Piano Trio",
+    "track": "Tzigane Piano Trio - Chaminade: Ritournelle For Piano Trio",
+    "length": 191,
+    "duration": 191,
+    "started": 1725755229,
+    "type": "track",
+    "track_id": 400151,
+    "release": "Chaminade: The 2 Piano Trios",
+    "art_url": "//cdn-images.audioaddict.com/5/c/b/8/b/5/5cb8b58a823cbed234b429ed52c03a99.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/b/8/b/5/5cb8b58a823cbed234b429ed52c03a99.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

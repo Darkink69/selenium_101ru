@@ -1,0 +1,21 @@
+[
+  {
+    "network_id": 15,
+    "channel_id": 430,
+    "artist": "Anonymous 4 & Andrew Lawrence-King",
+    "display_artist": "Anonymous 4 & Andrew Lawrence-King",
+    "title": "The Reel Of Tullochgorum [Trad. Scottish]",
+    "display_title": "The Reel Of Tullochgorum [Trad. Scottish]",
+    "track": "Anonymous 4 & Andrew Lawrence-King - The Reel Of Tullochgorum [Trad. Scottish]",
+    "length": 228,
+    "duration": 228,
+    "started": 1704993934,
+    "type": "track",
+    "track_id": 2956046,
+    "release": "Wolcum Yule - Celtic & British Songs & Carols",
+    "art_url": "//cdn-images.audioaddict.com/1/2/a/b/7/1/12ab717589a0dd8b46483f47fbe50eda.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/a/b/7/1/12ab717589a0dd8b46483f47fbe50eda.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]
