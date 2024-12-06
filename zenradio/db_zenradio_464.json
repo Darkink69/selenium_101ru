@@ -1,0 +1,3441 @@
+[
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Reiki Attunement",
+    "display_artist": "Reiki Attunement",
+    "title": "White Light",
+    "display_title": "White Light",
+    "track": "Reiki Attunement - White Light",
+    "length": 307,
+    "duration": 307,
+    "started": 1726221053,
+    "type": "track",
+    "track_id": 377112,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/f/e/2/a/8/1fe2a8bfd59bd81b0db18a623b4c66e0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/e/2/a/8/1fe2a8bfd59bd81b0db18a623b4c66e0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Patrick Bernard",
+    "display_artist": "Patrick Bernard",
+    "title": "Meeting of our Higher Selves",
+    "display_title": "Meeting of our Higher Selves",
+    "track": "Patrick Bernard - Meeting of our Higher Selves",
+    "length": 448,
+    "duration": 448,
+    "started": 1726221356,
+    "type": "track",
+    "track_id": 350339,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/6/2/e/5/0/e62e50c09358c70dbaddcff1c8602794.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/2/e/5/0/e62e50c09358c70dbaddcff1c8602794.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mathieu Age",
+    "display_artist": "Mathieu Age",
+    "title": "Reiki musique (Bols tibétains)",
+    "display_title": "Reiki musique (Bols tibétains)",
+    "track": "Mathieu Age - Reiki musique (Bols tibétains)",
+    "length": 174,
+    "duration": 174,
+    "started": 1726221804,
+    "type": "track",
+    "track_id": 3062452,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/2/a/6/0/e/22a60e3a25e5e239040acf99e1db569a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/a/6/0/e/22a60e3a25e5e239040acf99e1db569a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida",
+    "display_artist": "Anuvida",
+    "title": "Entering the Mystery",
+    "display_title": "Entering the Mystery",
+    "track": "Anuvida - Entering the Mystery",
+    "length": 638,
+    "duration": 638,
+    "started": 1726221979,
+    "type": "track",
+    "track_id": 2924197,
+    "release": "Reiki Touch of Love",
+    "art_url": "//cdn-images.audioaddict.com/f/f/7/c/0/e/ff7c0ee84b5dd1e33394014e0b34bb4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/7/c/0/e/ff7c0ee84b5dd1e33394014e0b34bb4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Forever in my Dreams",
+    "display_title": "Forever in my Dreams",
+    "track": "Andreas - Forever in my Dreams",
+    "length": 306,
+    "duration": 306,
+    "started": 1726222615,
+    "type": "track",
+    "track_id": 2922593,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall & Juliana",
+    "display_artist": "Niall & Juliana",
+    "title": "Angelic Lullaby",
+    "display_title": "Angelic Lullaby",
+    "track": "Niall & Juliana - Angelic Lullaby",
+    "length": 302,
+    "duration": 302,
+    "started": 1726222916,
+    "type": "track",
+    "track_id": 2924244,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/e/0/e/e/6ce0eef04d63d984eeb147a21a3a559c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/e/0/e/e/6ce0eef04d63d984eeb147a21a3a559c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Piotr Janeczek (Ashaneen)",
+    "display_artist": "Piotr Janeczek (Ashaneen)",
+    "title": "Sunrise Meditation (Special Anniversary Mix)",
+    "display_title": "Sunrise Meditation (Special Anniversary Mix)",
+    "track": "Piotr Janeczek (Ashaneen) - Sunrise Meditation (Special Anniversary Mix)",
+    "length": 2013,
+    "duration": 2013,
+    "started": 1726223220,
+    "type": "track",
+    "track_id": 2931115,
+    "release": "Sunrise Meditation (Special Anniversary Edition)",
+    "art_url": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Healing Colours",
+    "display_title": "Healing Colours",
+    "track": "Andreas - Healing Colours",
+    "length": 308,
+    "duration": 308,
+    "started": 1726225230,
+    "type": "track",
+    "track_id": 2922594,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Positive Energy",
+    "display_title": "Positive Energy",
+    "track": "Mrm Team - Positive Energy",
+    "length": 396,
+    "duration": 396,
+    "started": 1726225534,
+    "type": "track",
+    "track_id": 2924239,
+    "release": "Music for Yoga & Meditation, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/f/2/3/8/1/e/f2381e85ea57d76f46c125668eee33d4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/2/3/8/1/e/f2381e85ea57d76f46c125668eee33d4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Wychazel",
+    "display_artist": "Wychazel",
+    "title": "Return to Awareness",
+    "display_title": "Return to Awareness",
+    "track": "Wychazel - Return to Awareness",
+    "length": 202,
+    "duration": 202,
+    "started": 1726225929,
+    "type": "track",
+    "track_id": 3066463,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Patrick Bernard",
+    "display_artist": "Patrick Bernard",
+    "title": "Infinite Divine Radiance",
+    "display_title": "Infinite Divine Radiance",
+    "track": "Patrick Bernard - Infinite Divine Radiance",
+    "length": 452,
+    "duration": 452,
+    "started": 1726226127,
+    "type": "track",
+    "track_id": 354141,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/6/2/e/5/0/e62e50c09358c70dbaddcff1c8602794.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/2/e/5/0/e62e50c09358c70dbaddcff1c8602794.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Wychazel",
+    "display_artist": "Wychazel",
+    "title": "Deepest Calm",
+    "display_title": "Deepest Calm",
+    "track": "Wychazel - Deepest Calm",
+    "length": 376,
+    "duration": 376,
+    "started": 1726226580,
+    "type": "track",
+    "track_id": 2924264,
+    "release": "Reiki Masterclass",
+    "art_url": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Reiki Song (Spa Music)",
+    "display_title": "Reiki Song (Spa Music)",
+    "track": "Tranquility Spa Universe - Reiki Song (Spa Music)",
+    "length": 181,
+    "duration": 181,
+    "started": 1726226955,
+    "type": "track",
+    "track_id": 2920882,
+    "release": "The Best of Spa Music: 50 Relaxing Tracks Pure Nature, Healing, Inner Peace, Total Relaxation, Ultimate Wellness Center Sounds, Sleep & Massage",
+    "art_url": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Nadama & Shastro",
+    "display_artist": "Nadama & Shastro",
+    "title": "Gratefulness",
+    "display_title": "Gratefulness",
+    "track": "Nadama & Shastro - Gratefulness",
+    "length": 827,
+    "duration": 827,
+    "started": 1726227136,
+    "type": "track",
+    "track_id": 789271,
+    "release": "Reiki Offering",
+    "art_url": "//cdn-images.audioaddict.com/5/d/1/2/2/3/5d122300ad26a513c24fef42be98ce9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/d/1/2/2/3/5d122300ad26a513c24fef42be98ce9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Deep Breath",
+    "display_title": "Deep Breath",
+    "track": "Mrm Team - Deep Breath",
+    "length": 350,
+    "duration": 350,
+    "started": 1726227962,
+    "type": "track",
+    "track_id": 2924234,
+    "release": "Music for Yoga & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Piotr Janeczek (Ashaneen)",
+    "display_artist": "Piotr Janeczek (Ashaneen)",
+    "title": "Sunrise Meditation (Original Mix)",
+    "display_title": "Sunrise Meditation (Original Mix)",
+    "track": "Piotr Janeczek (Ashaneen) - Sunrise Meditation (Original Mix)",
+    "length": 2824,
+    "duration": 2824,
+    "started": 1726451786,
+    "type": "track",
+    "track_id": 3066477,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Dream Colours",
+    "display_title": "Dream Colours",
+    "track": "Andreas - Dream Colours",
+    "length": 325,
+    "duration": 325,
+    "started": 1726454607,
+    "type": "track",
+    "track_id": 2922592,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Reiki Truth",
+    "display_title": "Reiki Truth",
+    "track": "Llewellyn - Reiki Truth",
+    "length": 302,
+    "duration": 302,
+    "started": 1726454927,
+    "type": "track",
+    "track_id": 2909021,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/8/2/c/e/9b82ce11afa96099c52b930de3883831.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/8/2/c/e/9b82ce11afa96099c52b930de3883831.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "A New Beginning (From Pilates)",
+    "display_title": "A New Beginning (From Pilates)",
+    "track": "Llewellyn - A New Beginning (From Pilates)",
+    "length": 181,
+    "duration": 181,
+    "started": 1726455230,
+    "type": "track",
+    "track_id": 2924230,
+    "release": "Reiki Healing Journey, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/f/7/d/b/a/6/f7dba63f2fb8ed83aa222bbbdfe57186.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/d/b/a/6/f7dba63f2fb8ed83aa222bbbdfe57186.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Reiki Starlight Part 1",
+    "display_title": "Reiki Starlight Part 1",
+    "track": "Llewellyn - Reiki Starlight Part 1",
+    "length": 1516,
+    "duration": 1516,
+    "started": 1726455412,
+    "type": "track",
+    "track_id": 2922621,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/6/f/8/3/8/76f838311efc74997f239be0131e163b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/f/8/3/8/76f838311efc74997f239be0131e163b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Ajad",
+    "display_artist": "Ajad",
+    "title": "Dolphins in Music",
+    "display_title": "Dolphins in Music",
+    "track": "Ajad - Dolphins in Music",
+    "length": 3620,
+    "duration": 3620,
+    "started": 1726456928,
+    "type": "track",
+    "track_id": 317192,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/c/9/9/2/2/2c99221f309f29f5f03d6e865596f556.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/9/9/2/2/2c99221f309f29f5f03d6e865596f556.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Water",
+    "display_title": "Water",
+    "track": "Mrm Team - Water",
+    "length": 253,
+    "duration": 253,
+    "started": 1726460549,
+    "type": "track",
+    "track_id": 2928078,
+    "release": "Music for Yoga & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/5/1/8/1/5/3/518153207a3e69ec12ba31ee8096f965.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/8/1/5/3/518153207a3e69ec12ba31ee8096f965.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Healing Circle",
+    "display_title": "Healing Circle",
+    "track": "Deuter - Healing Circle",
+    "length": 727,
+    "duration": 727,
+    "started": 1726460802,
+    "type": "track",
+    "track_id": 2922608,
+    "release": "Reiki - Hands of Light",
+    "art_url": "//cdn-images.audioaddict.com/6/b/3/f/e/9/6b3fe9ea282d4b945675c9beee7b61f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/3/f/e/9/6b3fe9ea282d4b945675c9beee7b61f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Loving Touch",
+    "display_title": "Loving Touch",
+    "track": "Deuter - Loving Touch",
+    "length": 612,
+    "duration": 612,
+    "started": 1726461527,
+    "type": "track",
+    "track_id": 126094,
+    "release": "Venus Rising",
+    "art_url": "//cdn-images.audioaddict.com/4/b/f/1/a/e/4bf1ae4e9c8dfa45d2c02401e43892d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/f/1/a/e/4bf1ae4e9c8dfa45d2c02401e43892d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Magic of Colour",
+    "display_title": "Magic of Colour",
+    "track": "Andreas - Magic of Colour",
+    "length": 303,
+    "duration": 303,
+    "started": 1726462132,
+    "type": "track",
+    "track_id": 2922595,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Piotr Janeczek (Ashaneen)",
+    "display_artist": "Piotr Janeczek (Ashaneen)",
+    "title": "Sunrise Meditation (Special Anniversary Ocean Mix)",
+    "display_title": "Sunrise Meditation (Special Anniversary Ocean Mix)",
+    "track": "Piotr Janeczek (Ashaneen) - Sunrise Meditation (Special Anniversary Ocean Mix)",
+    "length": 2101,
+    "duration": 2101,
+    "started": 1726462430,
+    "type": "track",
+    "track_id": 2931116,
+    "release": "Sunrise Meditation (Special Anniversary Edition)",
+    "art_url": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Reiki Attunement",
+    "display_artist": "Reiki Attunement",
+    "title": "Reiki Gold",
+    "display_title": "Reiki Gold",
+    "track": "Reiki Attunement - Reiki Gold",
+    "length": 298,
+    "duration": 298,
+    "started": 1726464528,
+    "type": "track",
+    "track_id": 378013,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/f/3/e/0/e9f3e033b329596deb50c416a573425f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/f/3/e/0/e9f3e033b329596deb50c416a573425f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida & Nik Tyndall",
+    "display_artist": "Anuvida & Nik Tyndall",
+    "title": "Sacred Mountain",
+    "display_title": "Sacred Mountain",
+    "track": "Anuvida & Nik Tyndall - Sacred Mountain",
+    "length": 304,
+    "duration": 304,
+    "started": 1726464827,
+    "type": "track",
+    "track_id": 2924206,
+    "release": "Reiki Essence",
+    "art_url": "//cdn-images.audioaddict.com/7/e/0/c/d/d/7e0cddc5c872e0558bcb2f04a6992f59.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/0/c/d/d/7e0cddc5c872e0558bcb2f04a6992f59.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Wychazel",
+    "display_artist": "Wychazel",
+    "title": "Inner Peace",
+    "display_title": "Inner Peace",
+    "track": "Wychazel - Inner Peace",
+    "length": 380,
+    "duration": 380,
+    "started": 1726465130,
+    "type": "track",
+    "track_id": 2924265,
+    "release": "Reiki Masterclass",
+    "art_url": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Healing Senses",
+    "display_title": "Healing Senses",
+    "track": "Parijat - Healing Senses",
+    "length": 508,
+    "duration": 508,
+    "started": 1726465508,
+    "type": "track",
+    "track_id": 359948,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/7/7/a/7/2077a7cbe3363277bb8910df182f5d75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/7/7/a/7/2077a7cbe3363277bb8910df182f5d75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Ajad",
+    "display_artist": "Ajad",
+    "title": "Music for Love, Reiki and Meditation",
+    "display_title": "Music for Love, Reiki and Meditation",
+    "track": "Ajad - Music for Love, Reiki and Meditation",
+    "length": 3592,
+    "duration": 3592,
+    "started": 1726466015,
+    "type": "track",
+    "track_id": 2924193,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/5/f/2/0/8/35f20864d304b5b5fbab0e7f9c2b4682.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/5/f/2/0/8/35f20864d304b5b5fbab0e7f9c2b4682.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Forgiving",
+    "display_title": "Forgiving",
+    "track": "Parijat - Forgiving",
+    "length": 479,
+    "duration": 479,
+    "started": 1726469608,
+    "type": "track",
+    "track_id": 364296,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/9/e/c/f/9a9ecf86e5b7659e039995ca45c5f900.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/9/e/c/f/9a9ecf86e5b7659e039995ca45c5f900.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Heart Chakra (Anahata)",
+    "display_title": "Heart Chakra (Anahata)",
+    "track": "Llewellyn - Heart Chakra (Anahata)",
+    "length": 119,
+    "duration": 119,
+    "started": 1726470086,
+    "type": "track",
+    "track_id": 2559008,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/9/3/9/3/e/39393ecf01936289416888a46c7bbe12.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/3/9/3/e/39393ecf01936289416888a46c7bbe12.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Window of Love",
+    "display_title": "Window of Love",
+    "track": "Llewellyn - Window of Love",
+    "length": 301,
+    "duration": 301,
+    "started": 1726470205,
+    "type": "track",
+    "track_id": 3066455,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/3/7/7/0/e93770624a7c1a8fc1152364d7ba7ca6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/3/7/7/0/e93770624a7c1a8fc1152364d7ba7ca6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Reiki Attunement",
+    "display_artist": "Reiki Attunement",
+    "title": "Crystals Child",
+    "display_title": "Crystals Child",
+    "track": "Reiki Attunement - Crystals Child",
+    "length": 648,
+    "duration": 648,
+    "started": 1726470501,
+    "type": "track",
+    "track_id": 493821,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/f/3/e/0/e9f3e033b329596deb50c416a573425f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/f/3/e/0/e9f3e033b329596deb50c416a573425f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Reiki Healing",
+    "display_title": "Reiki Healing",
+    "track": "Niall - Reiki Healing",
+    "length": 307,
+    "duration": 307,
+    "started": 1726471149,
+    "type": "track",
+    "track_id": 2924248,
+    "release": "Reiki Healing Music",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/2/0/5/fdb205f5a525bba45ca4196df62fd369.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/2/0/5/fdb205f5a525bba45ca4196df62fd369.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Green Gassho",
+    "display_title": "Green Gassho",
+    "track": "Llewellyn - Green Gassho",
+    "length": 303,
+    "duration": 303,
+    "started": 1726471456,
+    "type": "track",
+    "track_id": 49753,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/d/c/7/b/5/3dc7b54df2ee3e7440f0b1f6afd36c8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/c/7/b/5/3dc7b54df2ee3e7440f0b1f6afd36c8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Reiki Stillness and Rest",
+    "display_title": "Reiki Stillness and Rest",
+    "track": "Llewellyn - Reiki Stillness and Rest",
+    "length": 304,
+    "duration": 304,
+    "started": 1726472054,
+    "type": "track",
+    "track_id": 2909020,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Rain Sounds",
+    "display_artist": "Rain Sounds",
+    "title": "Reiki Healing Music",
+    "display_title": "Reiki Healing Music",
+    "track": "Rain Sounds - Reiki Healing Music",
+    "length": 367,
+    "duration": 367,
+    "started": 1726472663,
+    "type": "track",
+    "track_id": 2920866,
+    "release": "Healing Rain - Rain & Nature Sounds Relaxation Meditation Deep Sleep Ambient Music for Spa, Massage, Total Relax, Yoga, Mindfulness Meditation, Healing and Well-being with Sound of Rain",
+    "art_url": "//cdn-images.audioaddict.com/5/c/2/7/5/b/5c275bb8e08c751d7f27291516933620.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/2/7/5/b/5c275bb8e08c751d7f27291516933620.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Beyond the Stream",
+    "display_title": "Beyond the Stream",
+    "track": "Andreas - Beyond the Stream",
+    "length": 307,
+    "duration": 307,
+    "started": 1726473030,
+    "type": "track",
+    "track_id": 2924194,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Wychazel",
+    "display_artist": "Wychazel",
+    "title": "Insight & Compassion",
+    "display_title": "Insight & Compassion",
+    "track": "Wychazel - Insight & Compassion",
+    "length": 562,
+    "duration": 562,
+    "started": 1726473333,
+    "type": "track",
+    "track_id": 2924267,
+    "release": "Reiki Masterclass",
+    "art_url": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Calming",
+    "display_title": "Calming",
+    "track": "Mrm Team - Calming",
+    "length": 384,
+    "duration": 384,
+    "started": 1726474345,
+    "type": "track",
+    "track_id": 2928072,
+    "release": "Music for Yoga & Meditation, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Kamal",
+    "display_artist": "Kamal",
+    "title": "Desiderata",
+    "display_title": "Desiderata",
+    "track": "Kamal - Desiderata",
+    "length": 558,
+    "duration": 558,
+    "started": 1726474726,
+    "type": "track",
+    "track_id": 68245,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/d/a/c/2/f1dac29eccc35da7d62ee553b85706f2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/d/a/c/2/f1dac29eccc35da7d62ee553b85706f2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Awaken Angels",
+    "display_title": "Awaken Angels",
+    "track": "Andreas - Awaken Angels",
+    "length": 311,
+    "duration": 311,
+    "started": 1726475285,
+    "type": "track",
+    "track_id": 2922590,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "Equilibrium",
+    "display_title": "Equilibrium",
+    "track": "George Raphael - Equilibrium",
+    "length": 494,
+    "duration": 494,
+    "started": 1726475591,
+    "type": "track",
+    "track_id": 2924215,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Star Shine (reprise)",
+    "display_title": "Star Shine (reprise)",
+    "track": "Andreas - Star Shine (reprise)",
+    "length": 304,
+    "duration": 304,
+    "started": 1726476086,
+    "type": "track",
+    "track_id": 2922597,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "The Healing Moon",
+    "display_title": "The Healing Moon",
+    "track": "George Raphael - The Healing Moon",
+    "length": 441,
+    "duration": 441,
+    "started": 1726476387,
+    "type": "track",
+    "track_id": 2924222,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/5/f/c/f/2/d/5fcf2de01d3151fc34877d2c5c866dd2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/c/f/2/d/5fcf2de01d3151fc34877d2c5c866dd2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Aeoliah & Mike Rowland",
+    "display_artist": "Aeoliah & Mike Rowland",
+    "title": "Twin Flames Rising",
+    "display_title": "Twin Flames Rising",
+    "track": "Aeoliah & Mike Rowland - Twin Flames Rising",
+    "length": 251,
+    "duration": 251,
+    "started": 1726476829,
+    "type": "track",
+    "track_id": 325452,
+    "release": "The Reiki Effect",
+    "art_url": "//cdn-images.audioaddict.com/2/4/f/9/3/5/24f9358bf07b6367d87402bca93a7cbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/f/9/3/5/24f9358bf07b6367d87402bca93a7cbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Waves Of Light",
+    "display_title": "Waves Of Light",
+    "track": "Deuter - Waves Of Light",
+    "length": 639,
+    "duration": 639,
+    "started": 1726477080,
+    "type": "track",
+    "track_id": 2879892,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/b/f/1/a/e/4bf1ae4e9c8dfa45d2c02401e43892d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/f/1/a/e/4bf1ae4e9c8dfa45d2c02401e43892d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida & Nik Tyndall",
+    "display_artist": "Anuvida & Nik Tyndall",
+    "title": "Point of Departure",
+    "display_title": "Point of Departure",
+    "track": "Anuvida & Nik Tyndall - Point of Departure",
+    "length": 597,
+    "duration": 597,
+    "started": 1726477719,
+    "type": "track",
+    "track_id": 2924205,
+    "release": "Reiki Healing Hands",
+    "art_url": "//cdn-images.audioaddict.com/3/2/7/2/d/f/3272df48c5487aa8a6eadd536351e63b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/7/2/d/f/3272df48c5487aa8a6eadd536351e63b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Flowing",
+    "display_title": "Flowing",
+    "track": "Deuter - Flowing",
+    "length": 330,
+    "duration": 330,
+    "started": 1726478316,
+    "type": "track",
+    "track_id": 2924212,
+    "release": "Reiki Wellness",
+    "art_url": "//cdn-images.audioaddict.com/f/7/d/e/6/c/f7de6c45e2802e570d1007a354dda784.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/d/e/6/c/f7de6c45e2802e570d1007a354dda784.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Aeoliah & Mike Rowland/Mike Rowland",
+    "display_artist": "Aeoliah & Mike Rowland/Mike Rowland",
+    "title": "Radiance",
+    "display_title": "Radiance",
+    "track": "Aeoliah & Mike Rowland/Mike Rowland - Radiance",
+    "length": 772,
+    "duration": 772,
+    "started": 1726478644,
+    "type": "track",
+    "track_id": 2924190,
+    "release": "The Reiki Effect 2",
+    "art_url": "//cdn-images.audioaddict.com/6/5/9/1/6/7/65916725ca9d612a7b7673142c65f29f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/5/9/1/6/7/65916725ca9d612a7b7673142c65f29f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Shajan",
+    "display_artist": "Shajan",
+    "title": "Spheres of the Angels",
+    "display_title": "Spheres of the Angels",
+    "track": "Shajan - Spheres of the Angels",
+    "length": 904,
+    "duration": 904,
+    "started": 1726479415,
+    "type": "track",
+    "track_id": 2924261,
+    "release": "The Healing Touch - Music for Reiki & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/d/5/9/2/4/1/d59241639f18bd0dd9e416c2574ede31.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/9/2/4/1/d59241639f18bd0dd9e416c2574ede31.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Patrick Bernard",
+    "display_artist": "Patrick Bernard",
+    "title": "Reiki Servant of God Force",
+    "display_title": "Reiki Servant of God Force",
+    "track": "Patrick Bernard - Reiki Servant of God Force",
+    "length": 446,
+    "duration": 446,
+    "started": 1726480316,
+    "type": "track",
+    "track_id": 350576,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/b/0/9/3/9/bb093969ab0deaefd824d37ad7b51c98.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/0/9/3/9/bb093969ab0deaefd824d37ad7b51c98.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Nadama & Shastro",
+    "display_artist": "Nadama & Shastro",
+    "title": "Spirit of Reiki",
+    "display_title": "Spirit of Reiki",
+    "track": "Nadama & Shastro - Spirit of Reiki",
+    "length": 601,
+    "duration": 601,
+    "started": 1726480762,
+    "type": "track",
+    "track_id": 787521,
+    "release": "Reiki Offering",
+    "art_url": "//cdn-images.audioaddict.com/4/a/4/c/d/1/4a4cd121285436fbe64e09af2ef751e4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/a/4/c/d/1/4a4cd121285436fbe64e09af2ef751e4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Wychazel",
+    "display_artist": "Wychazel",
+    "title": "Inner Strength",
+    "display_title": "Inner Strength",
+    "track": "Wychazel - Inner Strength",
+    "length": 761,
+    "duration": 761,
+    "started": 1726481661,
+    "type": "track",
+    "track_id": 2924266,
+    "release": "Reiki Masterclass",
+    "art_url": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Nadama & Shastro",
+    "display_artist": "Nadama & Shastro",
+    "title": "Offering",
+    "display_title": "Offering",
+    "track": "Nadama & Shastro - Offering",
+    "length": 628,
+    "duration": 628,
+    "started": 1726482418,
+    "type": "track",
+    "track_id": 1573,
+    "release": "Reiki Offering",
+    "art_url": "//cdn-images.audioaddict.com/2/4/5/0/a/5/2450a589218bc833a4bbb877495660a1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/5/0/a/5/2450a589218bc833a4bbb877495660a1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Peter Kater",
+    "display_artist": "Peter Kater",
+    "title": "Root Chakra",
+    "display_title": "Root Chakra",
+    "track": "Peter Kater - Root Chakra",
+    "length": 552,
+    "duration": 552,
+    "started": 1726483045,
+    "type": "track",
+    "track_id": 315101,
+    "release": "Light Body",
+    "art_url": "//cdn-images.audioaddict.com/2/d/9/8/3/9/2d983952722acd1ce56a5311acb1f752.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/d/9/8/3/9/2d983952722acd1ce56a5311acb1f752.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Shajan",
+    "display_artist": "Shajan",
+    "title": "Cosmic Balance",
+    "display_title": "Cosmic Balance",
+    "track": "Shajan - Cosmic Balance",
+    "length": 885,
+    "duration": 885,
+    "started": 1726483593,
+    "type": "track",
+    "track_id": 838136,
+    "release": "The Healing Touch - Music for Reiki & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/d/5/9/2/4/1/d59241639f18bd0dd9e416c2574ede31.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/9/2/4/1/d59241639f18bd0dd9e416c2574ede31.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Patrick Bernard",
+    "display_artist": "Patrick Bernard",
+    "title": "Hands of Sacred Light",
+    "display_title": "Hands of Sacred Light",
+    "track": "Patrick Bernard - Hands of Sacred Light",
+    "length": 459,
+    "duration": 459,
+    "started": 1726484476,
+    "type": "track",
+    "track_id": 350410,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/b/0/9/3/9/bb093969ab0deaefd824d37ad7b51c98.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/0/9/3/9/bb093969ab0deaefd824d37ad7b51c98.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Aeoliah & Mike Rowland",
+    "display_artist": "Aeoliah & Mike Rowland",
+    "title": "The Healing Heart",
+    "display_title": "The Healing Heart",
+    "track": "Aeoliah & Mike Rowland - The Healing Heart",
+    "length": 168,
+    "duration": 168,
+    "started": 1726484936,
+    "type": "track",
+    "track_id": 326708,
+    "release": "The Reiki Effect",
+    "art_url": "//cdn-images.audioaddict.com/2/4/f/9/3/5/24f9358bf07b6367d87402bca93a7cbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/f/9/3/5/24f9358bf07b6367d87402bca93a7cbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Kamal",
+    "display_artist": "Kamal",
+    "title": "Dreamcatcher",
+    "display_title": "Dreamcatcher",
+    "track": "Kamal - Dreamcatcher",
+    "length": 547,
+    "duration": 547,
+    "started": 1726485104,
+    "type": "track",
+    "track_id": 59392,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/1/4/5/1/2/b145127a719b6243c0cd6eb16874b42f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/1/4/5/1/2/b145127a719b6243c0cd6eb16874b42f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Just for Today I will respect",
+    "display_title": "Just for Today I will respect",
+    "track": "Llewellyn - Just for Today I will respect",
+    "length": 304,
+    "duration": 304,
+    "started": 1726485652,
+    "type": "track",
+    "track_id": 11369,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/d/c/7/b/5/3dc7b54df2ee3e7440f0b1f6afd36c8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/c/7/b/5/3dc7b54df2ee3e7440f0b1f6afd36c8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Rivers of Zen",
+    "display_title": "Rivers of Zen",
+    "track": "Yellow Brick Cinema - Rivers of Zen",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1726485950,
+    "type": "track",
+    "track_id": 3066475,
+    "release": "Relaxing Zen & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Oceans of Wonder",
+    "display_title": "Oceans of Wonder",
+    "track": "Yellow Brick Cinema - Oceans of Wonder",
+    "length": 3620,
+    "duration": 3620,
+    "started": 1726489554,
+    "type": "track",
+    "track_id": 3066472,
+    "release": "Relaxing Zen & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Just For Today I Will Not Anger",
+    "display_title": "Just For Today I Will Not Anger",
+    "track": "Llewellyn - Just For Today I Will Not Anger",
+    "length": 299,
+    "duration": 299,
+    "started": 1726493175,
+    "type": "track",
+    "track_id": 9288,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/4/2/b/8/0/242b80b4b7825c8f717524790ca2f2ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/2/b/8/0/242b80b4b7825c8f717524790ca2f2ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Reiki Starlight Part 2",
+    "display_title": "Reiki Starlight Part 2",
+    "track": "Llewellyn - Reiki Starlight Part 2",
+    "length": 1530,
+    "duration": 1530,
+    "started": 1726493473,
+    "type": "track",
+    "track_id": 2922622,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/6/f/8/3/8/76f838311efc74997f239be0131e163b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/f/8/3/8/76f838311efc74997f239be0131e163b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Free Spirit",
+    "display_title": "Free Spirit",
+    "track": "Mrm Team - Free Spirit",
+    "length": 230,
+    "duration": 230,
+    "started": 1726495003,
+    "type": "track",
+    "track_id": 2924236,
+    "release": "Music for Yoga & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Blessing",
+    "display_title": "Blessing",
+    "track": "Deuter - Blessing",
+    "length": 384,
+    "duration": 384,
+    "started": 1726495230,
+    "type": "track",
+    "track_id": 308446,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/5/5/3/3/f/75533f689b7f25e55167bd29209d2031.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/5/3/3/f/75533f689b7f25e55167bd29209d2031.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Reiki Healing Music Ensemble",
+    "display_title": "Reiki Healing Music Ensemble",
+    "track": "Tranquility Spa Universe - Reiki Healing Music Ensemble",
+    "length": 250,
+    "duration": 250,
+    "started": 1726495611,
+    "type": "track",
+    "track_id": 3066461,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Reiki Healing Waves",
+    "display_title": "Reiki Healing Waves",
+    "track": "Parijat - Reiki Healing Waves",
+    "length": 493,
+    "duration": 493,
+    "started": 1726495861,
+    "type": "track",
+    "track_id": 2924251,
+    "release": "Reiki Healing Waves",
+    "art_url": "//cdn-images.audioaddict.com/5/b/3/1/c/8/5b31c854245ce6f9c559e394d44c3de3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/3/1/c/8/5b31c854245ce6f9c559e394d44c3de3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Kamal",
+    "display_artist": "Kamal",
+    "title": "Enchanted Worlds",
+    "display_title": "Enchanted Worlds",
+    "track": "Kamal - Enchanted Worlds",
+    "length": 708,
+    "duration": 708,
+    "started": 1726496731,
+    "type": "track",
+    "track_id": 42451,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/f/7/1/3/7/bf7137b6fcd576cbe185ceb115a2a0ec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/f/7/1/3/7/bf7137b6fcd576cbe185ceb115a2a0ec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Return to Yourself",
+    "display_title": "Return to Yourself",
+    "track": "Parijat - Return to Yourself",
+    "length": 495,
+    "duration": 495,
+    "started": 1726497439,
+    "type": "track",
+    "track_id": 357940,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Peter Kater",
+    "display_artist": "Peter Kater",
+    "title": "Crown Chakra",
+    "display_title": "Crown Chakra",
+    "track": "Peter Kater - Crown Chakra",
+    "length": 435,
+    "duration": 435,
+    "started": 1726497927,
+    "type": "track",
+    "track_id": 314018,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/6/1/1/b/4/c611b44a5d3a11d687825db7f1ed38d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/1/1/b/4/c611b44a5d3a11d687825db7f1ed38d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Kamal",
+    "display_artist": "Kamal",
+    "title": "The Yearning",
+    "display_title": "The Yearning",
+    "track": "Kamal - The Yearning",
+    "length": 505,
+    "duration": 505,
+    "started": 1726498361,
+    "type": "track",
+    "track_id": 70772,
+    "release": "Reiki- Whale Dreaming",
+    "art_url": "//cdn-images.audioaddict.com/7/9/0/d/c/a/790dcaa713908790afca9edb7eb8cf9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/0/d/c/a/790dcaa713908790afca9edb7eb8cf9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Reiki Attunement",
+    "display_artist": "Reiki Attunement",
+    "title": "Just for Today I will not Anger",
+    "display_title": "Just for Today I will not Anger",
+    "track": "Reiki Attunement - Just for Today I will not Anger",
+    "length": 298,
+    "duration": 298,
+    "started": 1726498864,
+    "type": "track",
+    "track_id": 377626,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/f/3/e/0/e9f3e033b329596deb50c416a573425f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/f/3/e/0/e9f3e033b329596deb50c416a573425f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Hearts Awakening",
+    "display_title": "Hearts Awakening",
+    "track": "Parijat - Hearts Awakening",
+    "length": 420,
+    "duration": 420,
+    "started": 1726499162,
+    "type": "track",
+    "track_id": 359638,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Aeoliah & Mike Rowland",
+    "display_artist": "Aeoliah & Mike Rowland",
+    "title": "A Summer's Day",
+    "display_title": "A Summer's Day",
+    "track": "Aeoliah & Mike Rowland - A Summer's Day",
+    "length": 662,
+    "duration": 662,
+    "started": 1726500727,
+    "type": "track",
+    "track_id": 329884,
+    "release": "The Reiki Effect",
+    "art_url": "//cdn-images.audioaddict.com/2/4/f/9/3/5/24f9358bf07b6367d87402bca93a7cbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/f/9/3/5/24f9358bf07b6367d87402bca93a7cbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Reiki River (The Journey Ends)",
+    "display_title": "Reiki River (The Journey Ends)",
+    "track": "Niall - Reiki River (The Journey Ends)",
+    "length": 320,
+    "duration": 320,
+    "started": 1726502446,
+    "type": "track",
+    "track_id": 2924250,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Ajad",
+    "display_artist": "Ajad",
+    "title": "Night of Love",
+    "display_title": "Night of Love",
+    "track": "Ajad - Night of Love",
+    "length": 3604,
+    "duration": 3604,
+    "started": 1726502765,
+    "type": "track",
+    "track_id": 304828,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/3/e/7/b/e/e3e7be622365055fc7b577600ce60616.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/e/7/b/e/e3e7be622365055fc7b577600ce60616.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida & Nik Tyndall",
+    "display_artist": "Anuvida & Nik Tyndall",
+    "title": "Feel Your Body Float",
+    "display_title": "Feel Your Body Float",
+    "track": "Anuvida & Nik Tyndall - Feel Your Body Float",
+    "length": 452,
+    "duration": 452,
+    "started": 1726509190,
+    "type": "track",
+    "track_id": 2924202,
+    "release": "Reiki Essence",
+    "art_url": "//cdn-images.audioaddict.com/7/e/0/c/d/d/7e0cddc5c872e0558bcb2f04a6992f59.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/0/c/d/d/7e0cddc5c872e0558bcb2f04a6992f59.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Wychazel",
+    "display_artist": "Wychazel",
+    "title": "Renewal",
+    "display_title": "Renewal",
+    "track": "Wychazel - Renewal",
+    "length": 922,
+    "duration": 922,
+    "started": 1726509640,
+    "type": "track",
+    "track_id": 2924268,
+    "release": "Reiki Masterclass",
+    "art_url": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Spa Music Relaxation Meditation",
+    "display_artist": "Spa Music Relaxation Meditation",
+    "title": "Healing Hands (Reiki Music)",
+    "display_title": "Healing Hands (Reiki Music)",
+    "track": "Spa Music Relaxation Meditation - Healing Hands (Reiki Music)",
+    "length": 245,
+    "duration": 245,
+    "started": 1726510558,
+    "type": "track",
+    "track_id": 2920834,
+    "release": "101 Spa Songs Zen Massage Relaxation – Chillax Amazing New Age Music",
+    "art_url": "//cdn-images.audioaddict.com/a/4/9/4/1/3/a49413c7ecde497e5bb75392ee057803.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/9/4/1/3/a49413c7ecde497e5bb75392ee057803.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Chris Conway & Llewellyn",
+    "display_artist": "Chris Conway & Llewellyn",
+    "title": "Dance of the Flame - Fire",
+    "display_title": "Dance of the Flame - Fire",
+    "track": "Chris Conway & Llewellyn - Dance of the Flame - Fire",
+    "length": 908,
+    "duration": 908,
+    "started": 1726510803,
+    "type": "track",
+    "track_id": 2924208,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/c/b/3/c/86cb3ccab5b20d27e00444967b8a81ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/c/b/3/c/86cb3ccab5b20d27e00444967b8a81ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Water Meadows",
+    "display_title": "Water Meadows",
+    "track": "Niall - Water Meadows",
+    "length": 316,
+    "duration": 316,
+    "started": 1726511708,
+    "type": "track",
+    "track_id": 2922638,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Wychazel",
+    "display_artist": "Wychazel",
+    "title": "Emergence & Growth",
+    "display_title": "Emergence & Growth",
+    "track": "Wychazel - Emergence & Growth",
+    "length": 202,
+    "duration": 202,
+    "started": 1726512327,
+    "type": "track",
+    "track_id": 3066462,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida",
+    "display_artist": "Anuvida",
+    "title": "Blissful Arrival",
+    "display_title": "Blissful Arrival",
+    "track": "Anuvida - Blissful Arrival",
+    "length": 399,
+    "duration": 399,
+    "started": 1726512525,
+    "type": "track",
+    "track_id": 2924196,
+    "release": "Reiki Touch of Love",
+    "art_url": "//cdn-images.audioaddict.com/b/8/8/a/7/7/b88a77bf35e35951bd503a73209effed.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/8/a/7/7/b88a77bf35e35951bd503a73209effed.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Serenity Music Academy",
+    "display_artist": "Serenity Music Academy",
+    "title": "Reiki Breathe",
+    "display_title": "Reiki Breathe",
+    "track": "Serenity Music Academy - Reiki Breathe",
+    "length": 210,
+    "duration": 210,
+    "started": 1726512925,
+    "type": "track",
+    "track_id": 2924258,
+    "release": "Time to Reiki: Deep Relaxation Music, Balancing Zen Meditation, Hands of Healing Light, Spa Massage, Acupuncture, Therapeutic Touch, Chakras",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/d/4/b/1c1d4bea280be3de40e3ff32d032c873.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/d/4/b/1c1d4bea280be3de40e3ff32d032c873.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Peter Kater",
+    "display_artist": "Peter Kater",
+    "title": "Intuitive Chakra",
+    "display_title": "Intuitive Chakra",
+    "track": "Peter Kater - Intuitive Chakra",
+    "length": 528,
+    "duration": 528,
+    "started": 1726513134,
+    "type": "track",
+    "track_id": 2924254,
+    "release": "Light Body",
+    "art_url": "//cdn-images.audioaddict.com/5/0/d/3/b/f/50d3bfaac106b30027117c894e60a45a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/d/3/b/f/50d3bfaac106b30027117c894e60a45a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall & Juliana",
+    "display_artist": "Niall & Juliana",
+    "title": "Guardian Angels",
+    "display_title": "Guardian Angels",
+    "track": "Niall & Juliana - Guardian Angels",
+    "length": 310,
+    "duration": 310,
+    "started": 1726513657,
+    "type": "track",
+    "track_id": 2909048,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/3/7/c/9/b/437c9b4488459e9d237a5641ef43af62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/7/c/9/b/437c9b4488459e9d237a5641ef43af62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "The Golden Path",
+    "display_title": "The Golden Path",
+    "track": "George Raphael - The Golden Path",
+    "length": 462,
+    "duration": 462,
+    "started": 1726514270,
+    "type": "track",
+    "track_id": 2924221,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/5/f/c/f/2/d/5fcf2de01d3151fc34877d2c5c866dd2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/c/f/2/d/5fcf2de01d3151fc34877d2c5c866dd2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Reiki Starlight",
+    "display_artist": "Reiki Starlight",
+    "title": "Reiki Starlight Part 1",
+    "display_title": "Reiki Starlight Part 1",
+    "track": "Reiki Starlight - Reiki Starlight Part 1",
+    "length": 1516,
+    "duration": 1516,
+    "started": 1726515522,
+    "type": "track",
+    "track_id": 377303,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/e/c/4/6/d/aec46de876206e3145fdfbf7555eef1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/c/4/6/d/aec46de876206e3145fdfbf7555eef1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Patrick Bernard",
+    "display_artist": "Patrick Bernard",
+    "title": "Holistic Intention",
+    "display_title": "Holistic Intention",
+    "track": "Patrick Bernard - Holistic Intention",
+    "length": 451,
+    "duration": 451,
+    "started": 1726517040,
+    "type": "track",
+    "track_id": 620125,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/5/d/0/7/e/a5d07ed842dda49f867261c3b501e52f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/5/d/0/7/e/a5d07ed842dda49f867261c3b501e52f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Aeoliah & Mike Rowland",
+    "display_artist": "Aeoliah & Mike Rowland",
+    "title": "Heart of the Future",
+    "display_title": "Heart of the Future",
+    "track": "Aeoliah & Mike Rowland - Heart of the Future",
+    "length": 462,
+    "duration": 462,
+    "started": 1726517993,
+    "type": "track",
+    "track_id": 328448,
+    "release": "The Reiki Effect",
+    "art_url": "//cdn-images.audioaddict.com/2/4/f/9/3/5/24f9358bf07b6367d87402bca93a7cbf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/f/9/3/5/24f9358bf07b6367d87402bca93a7cbf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Patrick Bernard",
+    "display_artist": "Patrick Bernard",
+    "title": "Distance Healing",
+    "display_title": "Distance Healing",
+    "track": "Patrick Bernard - Distance Healing",
+    "length": 440,
+    "duration": 440,
+    "started": 1726518455,
+    "type": "track",
+    "track_id": 354494,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/b/0/9/3/9/bb093969ab0deaefd824d37ad7b51c98.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/0/9/3/9/bb093969ab0deaefd824d37ad7b51c98.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall & Juliana",
+    "display_artist": "Niall & Juliana",
+    "title": "Gilded Angel Voices",
+    "display_title": "Gilded Angel Voices",
+    "track": "Niall & Juliana - Gilded Angel Voices",
+    "length": 308,
+    "duration": 308,
+    "started": 1726518895,
+    "type": "track",
+    "track_id": 2924246,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/e/0/e/e/6ce0eef04d63d984eeb147a21a3a559c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/e/0/e/e/6ce0eef04d63d984eeb147a21a3a559c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Best Relaxing SPA Music",
+    "display_artist": "Best Relaxing SPA Music",
+    "title": "Reiki (Massage Therapy)",
+    "display_title": "Reiki (Massage Therapy)",
+    "track": "Best Relaxing SPA Music - Reiki (Massage Therapy)",
+    "length": 217,
+    "duration": 217,
+    "started": 1726521301,
+    "type": "track",
+    "track_id": 2920803,
+    "release": "101 Spa Songs Zen Massage Relaxation – Chillax Amazing New Age Music",
+    "art_url": "//cdn-images.audioaddict.com/a/4/9/4/1/3/a49413c7ecde497e5bb75392ee057803.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/9/4/1/3/a49413c7ecde497e5bb75392ee057803.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Chris Conway & Llewellyn",
+    "display_artist": "Chris Conway & Llewellyn",
+    "title": "Magical Earth - Earth",
+    "display_title": "Magical Earth - Earth",
+    "track": "Chris Conway & Llewellyn - Magical Earth - Earth",
+    "length": 908,
+    "duration": 908,
+    "started": 1726521519,
+    "type": "track",
+    "track_id": 2924209,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/c/b/3/c/86cb3ccab5b20d27e00444967b8a81ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/c/b/3/c/86cb3ccab5b20d27e00444967b8a81ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Nadama & Shastro",
+    "display_artist": "Nadama & Shastro",
+    "title": "Communion",
+    "display_title": "Communion",
+    "track": "Nadama & Shastro - Communion",
+    "length": 430,
+    "duration": 430,
+    "started": 1726522424,
+    "type": "track",
+    "track_id": 57401,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/1/8/9/a/2/5189a2a4ca635b3b6f5b640861c4c721.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/8/9/a/2/5189a2a4ca635b3b6f5b640861c4c721.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Amber Breeze",
+    "display_title": "Amber Breeze",
+    "track": "Niall - Amber Breeze",
+    "length": 307,
+    "duration": 307,
+    "started": 1726522854,
+    "type": "track",
+    "track_id": 2924242,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Spiritual Retreat",
+    "display_title": "Spiritual Retreat",
+    "track": "Mrm Team - Spiritual Retreat",
+    "length": 332,
+    "duration": 332,
+    "started": 1726523161,
+    "type": "track",
+    "track_id": 2924241,
+    "release": "Music for Yoga & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "The Source",
+    "display_title": "The Source",
+    "track": "Deuter - The Source",
+    "length": 379,
+    "duration": 379,
+    "started": 1726523493,
+    "type": "track",
+    "track_id": 102603,
+    "release": "Earth Blue",
+    "art_url": "//cdn-images.audioaddict.com/7/f/e/6/b/5/7fe6b5aab92742e231c2cb93bbdc8aaf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/f/e/6/b/5/7fe6b5aab92742e231c2cb93bbdc8aaf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Sound of Invisible Water",
+    "display_title": "Sound of Invisible Water",
+    "track": "Deuter - Sound of Invisible Water",
+    "length": 569,
+    "duration": 569,
+    "started": 1726523872,
+    "type": "track",
+    "track_id": 2924214,
+    "release": "Reiki Healing",
+    "art_url": "//cdn-images.audioaddict.com/6/7/0/f/8/7/670f8739f8d5342cd8b97794d49b19a7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/7/0/f/8/7/670f8739f8d5342cd8b97794d49b19a7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida & Nik Tyndall",
+    "display_artist": "Anuvida & Nik Tyndall",
+    "title": "Tao of Heaven",
+    "display_title": "Tao of Heaven",
+    "track": "Anuvida & Nik Tyndall - Tao of Heaven",
+    "length": 817,
+    "duration": 817,
+    "started": 1726525759,
+    "type": "track",
+    "track_id": 2924207,
+    "release": "Reiki Healing Hands",
+    "art_url": "//cdn-images.audioaddict.com/3/2/7/2/d/f/3272df48c5487aa8a6eadd536351e63b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/7/2/d/f/3272df48c5487aa8a6eadd536351e63b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall & Juliana",
+    "display_artist": "Niall & Juliana",
+    "title": "Angel Wings",
+    "display_title": "Angel Wings",
+    "track": "Niall & Juliana - Angel Wings",
+    "length": 299,
+    "duration": 299,
+    "started": 1726526577,
+    "type": "track",
+    "track_id": 2909535,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/3/7/c/9/b/437c9b4488459e9d237a5641ef43af62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/7/c/9/b/437c9b4488459e9d237a5641ef43af62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall & Juliana",
+    "display_artist": "Niall & Juliana",
+    "title": "Angels Gather",
+    "display_title": "Angels Gather",
+    "track": "Niall & Juliana - Angels Gather",
+    "length": 313,
+    "duration": 313,
+    "started": 1726527477,
+    "type": "track",
+    "track_id": 2909045,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/3/7/c/9/b/437c9b4488459e9d237a5641ef43af62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/7/c/9/b/437c9b4488459e9d237a5641ef43af62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "Love's Threshold",
+    "display_title": "Love's Threshold",
+    "track": "George Raphael - Love's Threshold",
+    "length": 398,
+    "duration": 398,
+    "started": 1726527790,
+    "type": "track",
+    "track_id": 2924229,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Reiki Attunement",
+    "display_artist": "Reiki Attunement",
+    "title": "Archangel Michael",
+    "display_title": "Archangel Michael",
+    "track": "Reiki Attunement - Archangel Michael",
+    "length": 731,
+    "duration": 731,
+    "started": 1726529515,
+    "type": "track",
+    "track_id": 377542,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/f/3/e/0/e9f3e033b329596deb50c416a573425f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/f/3/e/0/e9f3e033b329596deb50c416a573425f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall & Juliana",
+    "display_artist": "Niall & Juliana",
+    "title": "Closing the Gates",
+    "display_title": "Closing the Gates",
+    "track": "Niall & Juliana - Closing the Gates",
+    "length": 305,
+    "duration": 305,
+    "started": 1726530246,
+    "type": "track",
+    "track_id": 2909047,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/3/7/c/9/b/437c9b4488459e9d237a5641ef43af62.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/7/c/9/b/437c9b4488459e9d237a5641ef43af62.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Willow Pool",
+    "display_title": "Willow Pool",
+    "track": "Niall - Willow Pool",
+    "length": 306,
+    "duration": 306,
+    "started": 1726531151,
+    "type": "track",
+    "track_id": 2922640,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "Rebirth",
+    "display_title": "Rebirth",
+    "track": "George Raphael - Rebirth",
+    "length": 307,
+    "duration": 307,
+    "started": 1726531457,
+    "type": "track",
+    "track_id": 2924217,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "Lotus Flower",
+    "display_title": "Lotus Flower",
+    "track": "George Raphael - Lotus Flower",
+    "length": 390,
+    "duration": 390,
+    "started": 1726531760,
+    "type": "track",
+    "track_id": 2924228,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/5/f/c/f/2/d/5fcf2de01d3151fc34877d2c5c866dd2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/c/f/2/d/5fcf2de01d3151fc34877d2c5c866dd2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "The Mountain Court",
+    "display_title": "The Mountain Court",
+    "track": "Yellow Brick Cinema - The Mountain Court",
+    "length": 3624,
+    "duration": 3624,
+    "started": 1726532150,
+    "type": "track",
+    "track_id": 3066476,
+    "release": "Relaxing Zen & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Illumination of the Heart",
+    "display_title": "Illumination of the Heart",
+    "track": "Deuter - Illumination of the Heart",
+    "length": 581,
+    "duration": 581,
+    "started": 1726539805,
+    "type": "track",
+    "track_id": 55018,
+    "release": "Reiki - Hands of Light",
+    "art_url": "//cdn-images.audioaddict.com/4/b/f/1/a/e/4bf1ae4e9c8dfa45d2c02401e43892d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/f/1/a/e/4bf1ae4e9c8dfa45d2c02401e43892d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida",
+    "display_artist": "Anuvida",
+    "title": "Heart of Light",
+    "display_title": "Heart of Light",
+    "track": "Anuvida - Heart of Light",
+    "length": 727,
+    "duration": 727,
+    "started": 1726540379,
+    "type": "track",
+    "track_id": 2924198,
+    "release": "Reiki Touch of Love",
+    "art_url": "//cdn-images.audioaddict.com/f/f/7/c/0/e/ff7c0ee84b5dd1e33394014e0b34bb4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/f/7/c/0/e/ff7c0ee84b5dd1e33394014e0b34bb4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Colours of Hope",
+    "display_title": "Colours of Hope",
+    "track": "Andreas - Colours of Hope",
+    "length": 312,
+    "duration": 312,
+    "started": 1726541107,
+    "type": "track",
+    "track_id": 2922591,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Angels Gather",
+    "display_title": "Angels Gather",
+    "track": "Niall - Angels Gather",
+    "length": 582,
+    "duration": 582,
+    "started": 1726541414,
+    "type": "track",
+    "track_id": 2924243,
+    "release": "Reiki Healing Music",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/2/0/5/fdb205f5a525bba45ca4196df62fd369.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/2/0/5/fdb205f5a525bba45ca4196df62fd369.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Shajan",
+    "display_artist": "Shajan",
+    "title": "Circle of Life",
+    "display_title": "Circle of Life",
+    "track": "Shajan - Circle of Life",
+    "length": 933,
+    "duration": 933,
+    "started": 1726541992,
+    "type": "track",
+    "track_id": 2924259,
+    "release": "The Healing Touch - Music for Reiki & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/d/5/9/2/4/1/d59241639f18bd0dd9e416c2574ede31.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/9/2/4/1/d59241639f18bd0dd9e416c2574ede31.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Ajad",
+    "display_artist": "Ajad",
+    "title": "Music and Angels",
+    "display_title": "Music and Angels",
+    "track": "Ajad - Music and Angels",
+    "length": 3614,
+    "duration": 3614,
+    "started": 1726542923,
+    "type": "track",
+    "track_id": 2924192,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/a/7/9/de4a7947e13e7505be67759b027fb494.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/4/a/7/9/de4a7947e13e7505be67759b027fb494.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Magic Forest",
+    "display_title": "Magic Forest",
+    "track": "Mrm Team - Magic Forest",
+    "length": 334,
+    "duration": 334,
+    "started": 1726546537,
+    "type": "track",
+    "track_id": 2928076,
+    "release": "Music for Yoga & Meditation, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Ballad of Moonlight",
+    "display_title": "Ballad of Moonlight",
+    "track": "Yellow Brick Cinema - Ballad of Moonlight",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1726547627,
+    "type": "track",
+    "track_id": 3064484,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Serenity Music Academy",
+    "display_artist": "Serenity Music Academy",
+    "title": "Reiki Attunement",
+    "display_title": "Reiki Attunement",
+    "track": "Serenity Music Academy - Reiki Attunement",
+    "length": 207,
+    "duration": 207,
+    "started": 1726551231,
+    "type": "track",
+    "track_id": 2924257,
+    "release": "Time to Reiki: Deep Relaxation Music, Balancing Zen Meditation, Hands of Healing Light, Spa Massage, Acupuncture, Therapeutic Touch, Chakras",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/d/4/b/1c1d4bea280be3de40e3ff32d032c873.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/d/4/b/1c1d4bea280be3de40e3ff32d032c873.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida & Nik Tyndall",
+    "display_artist": "Anuvida & Nik Tyndall",
+    "title": "A Dream In the Sky",
+    "display_title": "A Dream In the Sky",
+    "track": "Anuvida & Nik Tyndall - A Dream In the Sky",
+    "length": 524,
+    "duration": 524,
+    "started": 1726551438,
+    "type": "track",
+    "track_id": 2924200,
+    "release": "Reiki Essence",
+    "art_url": "//cdn-images.audioaddict.com/7/e/0/c/d/d/7e0cddc5c872e0558bcb2f04a6992f59.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/0/c/d/d/7e0cddc5c872e0558bcb2f04a6992f59.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Light",
+    "display_title": "Light",
+    "track": "Mrm Team - Light",
+    "length": 201,
+    "duration": 201,
+    "started": 1726552987,
+    "type": "track",
+    "track_id": 2924237,
+    "release": "Music for Yoga & Meditation, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/f/2/3/8/1/e/f2381e85ea57d76f46c125668eee33d4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/2/3/8/1/e/f2381e85ea57d76f46c125668eee33d4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Serenity Music Academy",
+    "display_artist": "Serenity Music Academy",
+    "title": "Calming Effect",
+    "display_title": "Calming Effect",
+    "track": "Serenity Music Academy - Calming Effect",
+    "length": 218,
+    "duration": 218,
+    "started": 1726554183,
+    "type": "track",
+    "track_id": 2924256,
+    "release": "Time to Reiki: Deep Relaxation Music, Balancing Zen Meditation, Hands of Healing Light, Spa Massage, Acupuncture, Therapeutic Touch, Chakras",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/d/4/b/1c1d4bea280be3de40e3ff32d032c873.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/d/4/b/1c1d4bea280be3de40e3ff32d032c873.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Ajad",
+    "display_artist": "Ajad",
+    "title": "Music From The Heart (Oceans)",
+    "display_title": "Music From The Heart (Oceans)",
+    "track": "Ajad - Music From The Heart (Oceans)",
+    "length": 3621,
+    "duration": 3621,
+    "started": 1726555673,
+    "type": "track",
+    "track_id": 2924191,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/5/1/8/c/3/1518c3998e74cecaad6fd562acfa74bf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/1/8/c/3/1518c3998e74cecaad6fd562acfa74bf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "Meditations",
+    "display_title": "Meditations",
+    "track": "George Raphael - Meditations",
+    "length": 546,
+    "duration": 546,
+    "started": 1726559289,
+    "type": "track",
+    "track_id": 2924216,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida & Nik Tyndall",
+    "display_artist": "Anuvida & Nik Tyndall",
+    "title": "Like the Ocean",
+    "display_title": "Like the Ocean",
+    "track": "Anuvida & Nik Tyndall - Like the Ocean",
+    "length": 625,
+    "duration": 625,
+    "started": 1726564525,
+    "type": "track",
+    "track_id": 2924204,
+    "release": "Reiki Healing Hands",
+    "art_url": "//cdn-images.audioaddict.com/3/2/7/2/d/f/3272df48c5487aa8a6eadd536351e63b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/7/2/d/f/3272df48c5487aa8a6eadd536351e63b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Wonder of Love",
+    "display_title": "Wonder of Love",
+    "track": "Andreas - Wonder of Love",
+    "length": 305,
+    "duration": 305,
+    "started": 1726567247,
+    "type": "track",
+    "track_id": 2924195,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "The Gift of Myself",
+    "display_title": "The Gift of Myself",
+    "track": "Llewellyn - The Gift of Myself",
+    "length": 305,
+    "duration": 305,
+    "started": 1726567548,
+    "type": "track",
+    "track_id": 2909022,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Hidden Pathways",
+    "display_title": "Hidden Pathways",
+    "track": "Llewellyn - Hidden Pathways",
+    "length": 307,
+    "duration": 307,
+    "started": 1726567853,
+    "type": "track",
+    "track_id": 57005,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/d/c/4/3/1/b/dc431b1b2b66920520707f3c7c65f20e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/4/3/1/b/dc431b1b2b66920520707f3c7c65f20e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Water Sprites",
+    "display_title": "Water Sprites",
+    "track": "Niall - Water Sprites",
+    "length": 306,
+    "duration": 306,
+    "started": 1726570314,
+    "type": "track",
+    "track_id": 2922639,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Calm and Peaceful",
+    "display_title": "Calm and Peaceful",
+    "track": "Mrm Team - Calm and Peaceful",
+    "length": 357,
+    "duration": 357,
+    "started": 1726570621,
+    "type": "track",
+    "track_id": 2924233,
+    "release": "Music for Yoga & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "Reflection",
+    "display_title": "Reflection",
+    "track": "George Raphael - Reflection",
+    "length": 529,
+    "duration": 529,
+    "started": 1726571891,
+    "type": "track",
+    "track_id": 2924218,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida & Nik Tyndall",
+    "display_artist": "Anuvida & Nik Tyndall",
+    "title": "Healing Essence",
+    "display_title": "Healing Essence",
+    "track": "Anuvida & Nik Tyndall - Healing Essence",
+    "length": 594,
+    "duration": 594,
+    "started": 1726577520,
+    "type": "track",
+    "track_id": 2924203,
+    "release": "Reiki Essence",
+    "art_url": "//cdn-images.audioaddict.com/7/e/0/c/d/d/7e0cddc5c872e0558bcb2f04a6992f59.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/0/c/d/d/7e0cddc5c872e0558bcb2f04a6992f59.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall & Juliana",
+    "display_artist": "Niall & Juliana",
+    "title": "Elysian Meadows",
+    "display_title": "Elysian Meadows",
+    "track": "Niall & Juliana - Elysian Meadows",
+    "length": 304,
+    "duration": 304,
+    "started": 1726579021,
+    "type": "track",
+    "track_id": 2924245,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/e/0/e/e/6ce0eef04d63d984eeb147a21a3a559c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/e/0/e/e/6ce0eef04d63d984eeb147a21a3a559c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Just for Today I will be grateful",
+    "display_title": "Just for Today I will be grateful",
+    "track": "Llewellyn - Just for Today I will be grateful",
+    "length": 305,
+    "duration": 305,
+    "started": 1726581347,
+    "type": "track",
+    "track_id": 7778,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/d/c/7/b/5/3dc7b54df2ee3e7440f0b1f6afd36c8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/c/7/b/5/3dc7b54df2ee3e7440f0b1f6afd36c8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Four",
+    "display_title": "Four",
+    "track": "Deuter - Four",
+    "length": 414,
+    "duration": 414,
+    "started": 1726581649,
+    "type": "track",
+    "track_id": 2800156,
+    "release": "Reiki Healing",
+    "art_url": "//cdn-images.audioaddict.com/2/2/2/6/8/d/22268d8b92dd6ca78acad9e7552f3b1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/2/6/8/d/22268d8b92dd6ca78acad9e7552f3b1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Heavenly Retreat",
+    "display_title": "Heavenly Retreat",
+    "track": "Llewellyn - Heavenly Retreat",
+    "length": 306,
+    "duration": 306,
+    "started": 1726582061,
+    "type": "track",
+    "track_id": 25501,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/b/6/f/3/1/b/b6f31b5829f451c2688625c1619c03cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/6/f/3/1/b/b6f31b5829f451c2688625c1619c03cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Language of Silence",
+    "display_title": "Language of Silence",
+    "track": "Deuter - Language of Silence",
+    "length": 610,
+    "duration": 610,
+    "started": 1726582367,
+    "type": "track",
+    "track_id": 3066451,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/2/2/6/8/d/22268d8b92dd6ca78acad9e7552f3b1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/2/6/8/d/22268d8b92dd6ca78acad9e7552f3b1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Drops of Peace",
+    "display_title": "Drops of Peace",
+    "track": "Niall - Drops of Peace",
+    "length": 306,
+    "duration": 306,
+    "started": 1726585527,
+    "type": "track",
+    "track_id": 2922635,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "The Unwinding",
+    "display_title": "The Unwinding",
+    "track": "Parijat - The Unwinding",
+    "length": 422,
+    "duration": 422,
+    "started": 1726587004,
+    "type": "track",
+    "track_id": 362930,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida & Nik Tyndall",
+    "display_artist": "Anuvida & Nik Tyndall",
+    "title": "Empty Sky",
+    "display_title": "Empty Sky",
+    "track": "Anuvida & Nik Tyndall - Empty Sky",
+    "length": 465,
+    "duration": 465,
+    "started": 1726587424,
+    "type": "track",
+    "track_id": 2924201,
+    "release": "Reiki Healing Hands",
+    "art_url": "//cdn-images.audioaddict.com/3/2/7/2/d/f/3272df48c5487aa8a6eadd536351e63b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/7/2/d/f/3272df48c5487aa8a6eadd536351e63b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Peter Kater",
+    "display_artist": "Peter Kater",
+    "title": "Throat Chakra",
+    "display_title": "Throat Chakra",
+    "track": "Peter Kater - Throat Chakra",
+    "length": 378,
+    "duration": 378,
+    "started": 1726587890,
+    "type": "track",
+    "track_id": 313936,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/6/1/1/b/4/c611b44a5d3a11d687825db7f1ed38d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/1/1/b/4/c611b44a5d3a11d687825db7f1ed38d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Serenity Music Academy",
+    "display_artist": "Serenity Music Academy",
+    "title": "Atmosphere of the Angels",
+    "display_title": "Atmosphere of the Angels",
+    "track": "Serenity Music Academy - Atmosphere of the Angels",
+    "length": 207,
+    "duration": 207,
+    "started": 1726591926,
+    "type": "track",
+    "track_id": 2924255,
+    "release": "Time to Reiki: Deep Relaxation Music, Balancing Zen Meditation, Hands of Healing Light, Spa Massage, Acupuncture, Therapeutic Touch, Chakras",
+    "art_url": "//cdn-images.audioaddict.com/1/c/1/d/4/b/1c1d4bea280be3de40e3ff32d032c873.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/c/1/d/4/b/1c1d4bea280be3de40e3ff32d032c873.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "The Day Awakes",
+    "display_title": "The Day Awakes",
+    "track": "Niall - The Day Awakes",
+    "length": 306,
+    "duration": 306,
+    "started": 1726593617,
+    "type": "track",
+    "track_id": 2922637,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "The Journeys End",
+    "display_title": "The Journeys End",
+    "track": "Llewellyn - The Journeys End",
+    "length": 302,
+    "duration": 302,
+    "started": 1726598367,
+    "type": "track",
+    "track_id": 2924232,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/d/c/7/b/5/3dc7b54df2ee3e7440f0b1f6afd36c8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/c/7/b/5/3dc7b54df2ee3e7440f0b1f6afd36c8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Reiki Starlight",
+    "display_artist": "Reiki Starlight",
+    "title": "Reiki Starlight Part 2",
+    "display_title": "Reiki Starlight Part 2",
+    "track": "Reiki Starlight - Reiki Starlight Part 2",
+    "length": 1530,
+    "duration": 1530,
+    "started": 1726598667,
+    "type": "track",
+    "track_id": 517832,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/e/c/4/6/d/aec46de876206e3145fdfbf7555eef1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/e/c/4/6/d/aec46de876206e3145fdfbf7555eef1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Heart Chakra (From Journey to the Temple)",
+    "display_title": "Heart Chakra (From Journey to the Temple)",
+    "track": "Llewellyn - Heart Chakra (From Journey to the Temple)",
+    "length": 180,
+    "duration": 180,
+    "started": 1726600197,
+    "type": "track",
+    "track_id": 2924231,
+    "release": "Reiki Healing Journey, Vol. 1",
+    "art_url": "//cdn-images.audioaddict.com/b/5/9/0/0/e/b5900ea7876778abbca42cf304d21dc9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/9/0/0/e/b5900ea7876778abbca42cf304d21dc9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Song of a Dream",
+    "display_title": "Song of a Dream",
+    "track": "Deuter - Song of a Dream",
+    "length": 342,
+    "duration": 342,
+    "started": 1726600377,
+    "type": "track",
+    "track_id": 2924213,
+    "release": "Reiki Healing",
+    "art_url": "//cdn-images.audioaddict.com/2/2/2/6/8/d/22268d8b92dd6ca78acad9e7552f3b1a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/2/6/8/d/22268d8b92dd6ca78acad9e7552f3b1a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Nadama & Shastro",
+    "display_artist": "Nadama & Shastro",
+    "title": "Touching Silence",
+    "display_title": "Touching Silence",
+    "track": "Nadama & Shastro - Touching Silence",
+    "length": 583,
+    "duration": 583,
+    "started": 1726600717,
+    "type": "track",
+    "track_id": 19913,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/1/8/9/a/2/5189a2a4ca635b3b6f5b640861c4c721.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/8/9/a/2/5189a2a4ca635b3b6f5b640861c4c721.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Healing the Heart",
+    "display_title": "Healing the Heart",
+    "track": "Parijat - Healing the Heart",
+    "length": 434,
+    "duration": 434,
+    "started": 1726601299,
+    "type": "track",
+    "track_id": 359424,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Wychazel",
+    "display_artist": "Wychazel",
+    "title": "Self Belief",
+    "display_title": "Self Belief",
+    "track": "Wychazel - Self Belief",
+    "length": 724,
+    "duration": 724,
+    "started": 1726604692,
+    "type": "track",
+    "track_id": 2924269,
+    "release": "Reiki Masterclass",
+    "art_url": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/5/b/f/d/085bfd87b13cf663642ae4d9759324e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Blue Haze",
+    "display_title": "Blue Haze",
+    "track": "Niall - Blue Haze",
+    "length": 306,
+    "duration": 306,
+    "started": 1726607655,
+    "type": "track",
+    "track_id": 2922634,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Misty Reflections",
+    "display_title": "Misty Reflections",
+    "track": "Niall - Misty Reflections",
+    "length": 306,
+    "duration": 306,
+    "started": 1726607962,
+    "type": "track",
+    "track_id": 3066459,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/2/0/5/fdb205f5a525bba45ca4196df62fd369.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/2/0/5/fdb205f5a525bba45ca4196df62fd369.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "George Raphael",
+    "display_artist": "George Raphael",
+    "title": "Spirit Mover",
+    "display_title": "Spirit Mover",
+    "track": "George Raphael - Spirit Mover",
+    "length": 449,
+    "duration": 449,
+    "started": 1726608269,
+    "type": "track",
+    "track_id": 2924220,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/d/2/e/4/69d2e4e46f58ee35f3b828d8609716cb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Magic Flute",
+    "display_title": "Magic Flute",
+    "track": "Mrm Team - Magic Flute",
+    "length": 167,
+    "duration": 167,
+    "started": 1726612763,
+    "type": "track",
+    "track_id": 2924238,
+    "release": "Music for Yoga & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Tranquility",
+    "display_title": "Tranquility",
+    "track": "Llewellyn - Tranquility",
+    "length": 306,
+    "duration": 306,
+    "started": 1726612930,
+    "type": "track",
+    "track_id": 8103,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/6/9/6/6/1/b/69661b492e29a7d75c895856c84deb30.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/6/6/1/b/69661b492e29a7d75c895856c84deb30.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Sanctuary",
+    "display_title": "Sanctuary",
+    "track": "Llewellyn - Sanctuary",
+    "length": 301,
+    "duration": 301,
+    "started": 1726613237,
+    "type": "track",
+    "track_id": 17970,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/6/9/6/6/1/b/69661b492e29a7d75c895856c84deb30.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/6/6/1/b/69661b492e29a7d75c895856c84deb30.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Anuvida",
+    "display_artist": "Anuvida",
+    "title": "Just Being",
+    "display_title": "Just Being",
+    "track": "Anuvida - Just Being",
+    "length": 705,
+    "duration": 705,
+    "started": 1726613755,
+    "type": "track",
+    "track_id": 2924199,
+    "release": "Reiki Touch of Love",
+    "art_url": "//cdn-images.audioaddict.com/b/8/8/a/7/7/b88a77bf35e35951bd503a73209effed.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/8/8/a/7/7/b88a77bf35e35951bd503a73209effed.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Spiritual Cleansing",
+    "display_title": "Spiritual Cleansing",
+    "track": "Mrm Team - Spiritual Cleansing",
+    "length": 557,
+    "duration": 557,
+    "started": 1726615619,
+    "type": "track",
+    "track_id": 2924240,
+    "release": "Music for Yoga & Meditation, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Evening Meditation",
+    "display_title": "Evening Meditation",
+    "track": "Mrm Team - Evening Meditation",
+    "length": 277,
+    "duration": 277,
+    "started": 1726617026,
+    "type": "track",
+    "track_id": 2924235,
+    "release": "Music for Yoga & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/3/a/d/f/8a3adf12c8f5e29c55befed1cd999cdb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Mystic Voyage",
+    "display_title": "Mystic Voyage",
+    "track": "Deuter - Mystic Voyage",
+    "length": 521,
+    "duration": 521,
+    "started": 1726617303,
+    "type": "track",
+    "track_id": 64635,
+    "release": "Reiki - Hands of Light",
+    "art_url": "//cdn-images.audioaddict.com/4/b/f/1/a/e/4bf1ae4e9c8dfa45d2c02401e43892d7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/f/1/a/e/4bf1ae4e9c8dfa45d2c02401e43892d7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Echo of Stars",
+    "display_title": "Echo of Stars",
+    "track": "Yellow Brick Cinema - Echo of Stars",
+    "length": 3621,
+    "duration": 3621,
+    "started": 1726617822,
+    "type": "track",
+    "track_id": 2931244,
+    "release": "Relaxing Zen & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/a/b/9/1/baab91f47153af98b83ee5410426882f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Return to Your Body",
+    "display_title": "Return to Your Body",
+    "track": "Parijat - Return to Your Body",
+    "length": 378,
+    "duration": 378,
+    "started": 1726622444,
+    "type": "track",
+    "track_id": 2924252,
+    "release": "Reiki Healing Waves",
+    "art_url": "//cdn-images.audioaddict.com/5/b/3/1/c/8/5b31c854245ce6f9c559e394d44c3de3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/3/1/c/8/5b31c854245ce6f9c559e394d44c3de3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Yellow Kanji",
+    "display_title": "Yellow Kanji",
+    "track": "Llewellyn - Yellow Kanji",
+    "length": 300,
+    "duration": 300,
+    "started": 1726640978,
+    "type": "track",
+    "track_id": 506669,
+    "release": "Reiki Gold",
+    "art_url": "//cdn-images.audioaddict.com/2/4/2/b/8/0/242b80b4b7825c8f717524790ca2f2ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/4/2/b/8/0/242b80b4b7825c8f717524790ca2f2ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Reiki Gold",
+    "display_title": "Reiki Gold",
+    "track": "Llewellyn - Reiki Gold",
+    "length": 3313,
+    "duration": 3313,
+    "started": 1726641278,
+    "type": "track",
+    "track_id": 54972,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/c/4/3/1/b/dc431b1b2b66920520707f3c7c65f20e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/4/3/1/b/dc431b1b2b66920520707f3c7c65f20e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Reiki Sleep",
+    "display_title": "Reiki Sleep",
+    "track": "Llewellyn - Reiki Sleep",
+    "length": 2602,
+    "duration": 2602,
+    "started": 1726641580,
+    "type": "track",
+    "track_id": 506676,
+    "release": "Reiki Sleep",
+    "art_url": "//cdn-images.audioaddict.com/3/9/3/9/3/e/39393ecf01936289416888a46c7bbe12.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/3/9/3/e/39393ecf01936289416888a46c7bbe12.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Chris Conway & Llewellyn",
+    "display_artist": "Chris Conway & Llewellyn",
+    "title": "Sea of Dreams - Water",
+    "display_title": "Sea of Dreams - Water",
+    "track": "Chris Conway & Llewellyn - Sea of Dreams - Water",
+    "length": 899,
+    "duration": 899,
+    "started": 1726649311,
+    "type": "track",
+    "track_id": 2924210,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/c/b/3/c/86cb3ccab5b20d27e00444967b8a81ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/c/b/3/c/86cb3ccab5b20d27e00444967b8a81ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Chris Conway & Llewellyn",
+    "display_artist": "Chris Conway & Llewellyn",
+    "title": "The Wind of Enlightenment - Air",
+    "display_title": "The Wind of Enlightenment - Air",
+    "track": "Chris Conway & Llewellyn - The Wind of Enlightenment - Air",
+    "length": 942,
+    "duration": 942,
+    "started": 1726653310,
+    "type": "track",
+    "track_id": 2924211,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/c/b/3/c/86cb3ccab5b20d27e00444967b8a81ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/c/b/3/c/86cb3ccab5b20d27e00444967b8a81ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Reiki Love and Peace",
+    "display_title": "Reiki Love and Peace",
+    "track": "Llewellyn - Reiki Love and Peace",
+    "length": 306,
+    "duration": 306,
+    "started": 1726656031,
+    "type": "track",
+    "track_id": 2909019,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "A Place of Light",
+    "display_title": "A Place of Light",
+    "track": "Llewellyn - A Place of Light",
+    "length": 302,
+    "duration": 302,
+    "started": 1726656336,
+    "type": "track",
+    "track_id": 2909010,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Shajan",
+    "display_artist": "Shajan",
+    "title": "Natural Healing",
+    "display_title": "Natural Healing",
+    "track": "Shajan - Natural Healing",
+    "length": 885,
+    "duration": 885,
+    "started": 1726658704,
+    "type": "track",
+    "track_id": 2924260,
+    "release": "The Healing Touch - Music for Reiki & Meditation, Vol. 2",
+    "art_url": "//cdn-images.audioaddict.com/d/5/9/2/4/1/d59241639f18bd0dd9e416c2574ede31.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/5/9/2/4/1/d59241639f18bd0dd9e416c2574ede31.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Andreas",
+    "display_artist": "Andreas",
+    "title": "Above Our Sky",
+    "display_title": "Above Our Sky",
+    "track": "Andreas - Above Our Sky",
+    "length": 307,
+    "duration": 307,
+    "started": 1726662920,
+    "type": "track",
+    "track_id": 2922589,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/f/1/1/e/2af11e9ffe780b9d5d4ccc619125266a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Floating Leaves",
+    "display_title": "Floating Leaves",
+    "track": "Niall - Floating Leaves",
+    "length": 308,
+    "duration": 308,
+    "started": 1726672455,
+    "type": "track",
+    "track_id": 2922636,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/9/0/e/6/0/a90e6033b036f884db38a149b2ae8920.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Shamanic Healing",
+    "display_title": "Shamanic Healing",
+    "track": "Deuter - Shamanic Healing",
+    "length": 657,
+    "duration": 657,
+    "started": 1726672763,
+    "type": "track",
+    "track_id": 2658652,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/b/3/f/e/9/6b3fe9ea282d4b945675c9beee7b61f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/3/f/e/9/6b3fe9ea282d4b945675c9beee7b61f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Reiki Healing Music 2308",
+    "display_title": "Reiki Healing Music 2308",
+    "track": "Yellow Brick Cinema - Reiki Healing Music 2308",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1726690875,
+    "type": "track",
+    "track_id": 3066473,
+    "release": "Calm Waters",
+    "art_url": "//cdn-images.audioaddict.com/7/3/5/f/9/b/735f9b83d43a0425ceaec56c447b2b7c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/5/f/9/b/735f9b83d43a0425ceaec56c447b2b7c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Reiki Healing Ends",
+    "display_title": "Reiki Healing Ends",
+    "track": "Niall - Reiki Healing Ends",
+    "length": 613,
+    "duration": 613,
+    "started": 1726783300,
+    "type": "track",
+    "track_id": 2924247,
+    "release": "Reiki Healing Music",
+    "art_url": "//cdn-images.audioaddict.com/2/b/1/1/2/8/2b11284b69ff499b829829f80685e436.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/1/1/2/8/2b11284b69ff499b829829f80685e436.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "In the Hands of Time",
+    "display_title": "In the Hands of Time",
+    "track": "Niall - In the Hands of Time",
+    "length": 306,
+    "duration": 306,
+    "started": 1726836058,
+    "type": "track",
+    "track_id": 3066457,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/b/1/1/2/8/2b11284b69ff499b829829f80685e436.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/1/1/2/8/2b11284b69ff499b829829f80685e436.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Crown Of Love",
+    "display_title": "Crown Of Love",
+    "track": "Llewellyn - Crown Of Love",
+    "length": 306,
+    "duration": 306,
+    "started": 1726836704,
+    "type": "track",
+    "track_id": 53432,
+    "release": "Reiki",
+    "art_url": "//cdn-images.audioaddict.com/d/c/4/3/1/b/dc431b1b2b66920520707f3c7c65f20e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/4/3/1/b/dc431b1b2b66920520707f3c7c65f20e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 464,
+    "artist": "Llewellyn",
+    "display_artist": "Llewellyn",
+    "title": "Pathway to Home (Reprise)",
+    "display_title": "Pathway to Home (Reprise)",
+    "track": "Llewellyn - Pathway to Home (Reprise)",
+    "length": 299,
+    "duration": 299,
+    "started": 1726894335,
+    "type": "track",
+    "track_id": 2909017,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/6/8/c/e/e/268ceefd2ddf36a7154b8c6170b78d46.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

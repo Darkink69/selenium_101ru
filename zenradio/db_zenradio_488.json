@@ -1,0 +1,4087 @@
+[
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Celestial Heartbeat",
+    "display_title": "Celestial Heartbeat",
+    "track": "Yellow Brick Cinema - Celestial Heartbeat",
+    "length": 3615,
+    "duration": 3615,
+    "started": 1726220018,
+    "type": "track",
+    "track_id": 3064359,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/d/e/a/c/d/bdeacdf2bc8f9146a8a4a9301cf81a72.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/e/a/c/d/bdeacdf2bc8f9146a8a4a9301cf81a72.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nadama",
+    "display_artist": "Nadama",
+    "title": "Bathing In the Light",
+    "display_title": "Bathing In the Light",
+    "track": "Nadama - Bathing In the Light",
+    "length": 505,
+    "duration": 505,
+    "started": 1726223629,
+    "type": "track",
+    "track_id": 2990605,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/e/8/8/0/a/8e880af8b0df6bcf6bd30796481f1bd9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/8/8/0/a/8e880af8b0df6bcf6bd30796481f1bd9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Deep Healing Guitar Music",
+    "display_title": "Deep Healing Guitar Music",
+    "track": "Yellow Brick Cinema - Deep Healing Guitar Music",
+    "length": 1200,
+    "duration": 1200,
+    "started": 1726224129,
+    "type": "track",
+    "track_id": 2990149,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/3/6/8/4/0/836840b0edc21bed3d4c7275fedf6551.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/6/8/4/0/836840b0edc21bed3d4c7275fedf6551.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Peder B. Helland",
+    "display_artist": "Peder B. Helland",
+    "title": "Early in the Morning",
+    "display_title": "Early in the Morning",
+    "track": "Peder B. Helland - Early in the Morning",
+    "length": 635,
+    "duration": 635,
+    "started": 1726225328,
+    "type": "track",
+    "track_id": 3062375,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "oh, the joy.",
+    "display_artist": "oh, the joy.",
+    "title": "Time Traveling",
+    "display_title": "Time Traveling",
+    "track": "oh, the joy. - Time Traveling",
+    "length": 206,
+    "duration": 206,
+    "started": 1726225963,
+    "type": "track",
+    "track_id": 3062235,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/3/3/c/3/3/133c33bb3ccabeda1c5f2d2933d7a7cf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/3/c/3/3/133c33bb3ccabeda1c5f2d2933d7a7cf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Elise Magnefold",
+    "display_artist": "Elise Magnefold",
+    "title": "Soul Connect",
+    "display_title": "Soul Connect",
+    "track": "Elise Magnefold - Soul Connect",
+    "length": 196,
+    "duration": 196,
+    "started": 1726226168,
+    "type": "track",
+    "track_id": 3044662,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/5/2/0/c/3/6520c31c1444ebb560e9b6b56d2c6d68.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/5/2/0/c/3/6520c31c1444ebb560e9b6b56d2c6d68.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Patrick Bernard",
+    "display_artist": "Patrick Bernard",
+    "title": "Distance Healing",
+    "display_title": "Distance Healing",
+    "track": "Patrick Bernard - Distance Healing",
+    "length": 443,
+    "duration": 443,
+    "started": 1726226362,
+    "type": "track",
+    "track_id": 2608678,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/3/e/e/9/d/03ee9d6d867027c16e3acdf1814f4696.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/e/e/9/d/03ee9d6d867027c16e3acdf1814f4696.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Sounds of Nature Kingdom",
+    "display_artist": "Sounds of Nature Kingdom",
+    "title": "Time for Relaxation",
+    "display_title": "Time for Relaxation",
+    "track": "Sounds of Nature Kingdom - Time for Relaxation",
+    "length": 237,
+    "duration": 237,
+    "started": 1726226803,
+    "type": "track",
+    "track_id": 2920871,
+    "release": "Relaxing Guitar Songs with Nature Music: Stress Free Therapy, Deep Sleep, Zen Massage, Yoga Exercises, Pure Meditation Music Ambient",
+    "art_url": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Eleonora Feldt",
+    "display_artist": "Eleonora Feldt",
+    "title": "Allt finns kvar",
+    "display_title": "Allt finns kvar",
+    "track": "Eleonora Feldt - Allt finns kvar",
+    "length": 239,
+    "duration": 239,
+    "started": 1726227040,
+    "type": "track",
+    "track_id": 3075179,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/a/0/1/2/7/aa012758609d0895338856d5fa3f21cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/0/1/2/7/aa012758609d0895338856d5fa3f21cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Anti Stress Music Zone",
+    "display_artist": "Anti Stress Music Zone",
+    "title": "Stress Buster (Oriental Ocarina Flute)",
+    "display_title": "Stress Buster (Oriental Ocarina Flute)",
+    "track": "Anti Stress Music Zone - Stress Buster (Oriental Ocarina Flute)",
+    "length": 285,
+    "duration": 285,
+    "started": 1726227278,
+    "type": "track",
+    "track_id": 2921995,
+    "release": "Best 30 Nature Sounds for Stress Relief: Healing Music for Your Body and Soul, Better Mental Health, Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/8/e/9/8/1/2/8e98128cdf31763d2da58655b088c07e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/9/8/1/2/8e98128cdf31763d2da58655b088c07e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Patrick Kelly",
+    "display_artist": "Patrick Kelly",
+    "title": "After the Storm",
+    "display_title": "After the Storm",
+    "track": "Patrick Kelly - After the Storm",
+    "length": 573,
+    "duration": 573,
+    "started": 1726227564,
+    "type": "track",
+    "track_id": 49979,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/6/1/f/5/1/f61f511e842fe94b29baec8c31e685f4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/1/f/5/1/f61f511e842fe94b29baec8c31e685f4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Majestic Sleep",
+    "display_artist": "Majestic Sleep",
+    "title": "When the Sun Is Out",
+    "display_title": "When the Sun Is Out",
+    "track": "Majestic Sleep - When the Sun Is Out",
+    "length": 218,
+    "duration": 218,
+    "started": 1726451850,
+    "type": "track",
+    "track_id": 3082446,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/2/4/8/5/7/a24857ec00bb151068824689ff3e39e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/4/8/5/7/a24857ec00bb151068824689ff3e39e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Relaxed Mind",
+    "display_artist": "Relaxed Mind",
+    "title": "Sunset",
+    "display_title": "Sunset",
+    "track": "Relaxed Mind - Sunset",
+    "length": 346,
+    "duration": 346,
+    "started": 1726452067,
+    "type": "track",
+    "track_id": 3085007,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "New Age Anti Stress Universe",
+    "display_artist": "New Age Anti Stress Universe",
+    "title": "Pregressive Relaxation",
+    "display_title": "Pregressive Relaxation",
+    "track": "New Age Anti Stress Universe - Pregressive Relaxation",
+    "length": 258,
+    "duration": 258,
+    "started": 1726452414,
+    "type": "track",
+    "track_id": 2922045,
+    "release": "Totally Stress Free – Soothing Sounds of Nature, Breathing Techniques for Calm Down, Peaceful Contemplation",
+    "art_url": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "EON NOIRE",
+    "display_artist": "EON NOIRE",
+    "title": "Mindset",
+    "display_title": "Mindset",
+    "track": "EON NOIRE - Mindset",
+    "length": 193,
+    "duration": 193,
+    "started": 1726452671,
+    "type": "track",
+    "track_id": 3064375,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/5/b/2/c/cb5b2cfcad486fa491087f5f65cbb0b5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/5/b/2/c/cb5b2cfcad486fa491087f5f65cbb0b5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Celtic Chillout Relaxation Academy",
+    "display_artist": "Celtic Chillout Relaxation Academy",
+    "title": "Summer Day",
+    "display_title": "Summer Day",
+    "track": "Celtic Chillout Relaxation Academy - Summer Day",
+    "length": 239,
+    "duration": 239,
+    "started": 1726452863,
+    "type": "track",
+    "track_id": 2922016,
+    "release": "Top of 2018: Spa Best Selection, Relaxation, Deep Breathing, Anti-Stress Music",
+    "art_url": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Body Scan Meditation",
+    "display_title": "Body Scan Meditation",
+    "track": "Calming Music Sanctuary - Body Scan Meditation",
+    "length": 242,
+    "duration": 242,
+    "started": 1726453103,
+    "type": "track",
+    "track_id": 2922000,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Christopher Lloyd Clarke",
+    "display_artist": "Christopher Lloyd Clarke",
+    "title": "A Pure Embrace",
+    "display_title": "A Pure Embrace",
+    "track": "Christopher Lloyd Clarke - A Pure Embrace",
+    "length": 982,
+    "duration": 982,
+    "started": 1726453346,
+    "type": "track",
+    "track_id": 3075176,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/c/9/7/2/cec972d14feee1f60c4c43287e61a42e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/c/9/7/2/cec972d14feee1f60c4c43287e61a42e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Majestic Sleep",
+    "display_artist": "Majestic Sleep",
+    "title": "Small but Nice",
+    "display_title": "Small but Nice",
+    "track": "Majestic Sleep - Small but Nice",
+    "length": 198,
+    "duration": 198,
+    "started": 1726455087,
+    "type": "track",
+    "track_id": 3064380,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/b/a/7/7/cfba77befcd7137a7446002e17484cce.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/b/a/7/7/cfba77befcd7137a7446002e17484cce.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Portrait of Nature",
+    "display_artist": "Portrait of Nature",
+    "title": "A Portrait",
+    "display_title": "A Portrait",
+    "track": "Portrait of Nature - A Portrait",
+    "length": 165,
+    "duration": 165,
+    "started": 1726455286,
+    "type": "track",
+    "track_id": 3062389,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/0/5/c/3/3/f05c33d06e0a7abf1a40d1c4bc8be6bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/5/c/3/3/f05c33d06e0a7abf1a40d1c4bc8be6bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "oh, the joy.",
+    "display_artist": "oh, the joy.",
+    "title": "Peacefully",
+    "display_title": "Peacefully",
+    "track": "oh, the joy. - Peacefully",
+    "length": 197,
+    "duration": 197,
+    "started": 1726455450,
+    "type": "track",
+    "track_id": 3044690,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/d/a/0/4/e/ada04efe58fe3b82ddbc348db36a2ce8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/a/0/4/e/ada04efe58fe3b82ddbc348db36a2ce8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Shamanic Drumming World",
+    "display_artist": "Shamanic Drumming World",
+    "title": "Anti-Stress Music",
+    "display_title": "Anti-Stress Music",
+    "track": "Shamanic Drumming World - Anti-Stress Music",
+    "length": 229,
+    "duration": 229,
+    "started": 1726455647,
+    "type": "track",
+    "track_id": 2916329,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/0/d/c/a/9/c0dca994dcebeb8531a818c42c398634.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/d/c/a/9/c0dca994dcebeb8531a818c42c398634.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Portrait of Nature",
+    "display_artist": "Portrait of Nature",
+    "title": "Organic Peace",
+    "display_title": "Organic Peace",
+    "track": "Portrait of Nature - Organic Peace",
+    "length": 216,
+    "duration": 216,
+    "started": 1726455875,
+    "type": "track",
+    "track_id": 3062391,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/0/5/c/3/3/f05c33d06e0a7abf1a40d1c4bc8be6bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/5/c/3/3/f05c33d06e0a7abf1a40d1c4bc8be6bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Prabin Dangol",
+    "display_artist": "Prabin Dangol",
+    "title": "Heal Anxiety & Stress",
+    "display_title": "Heal Anxiety & Stress",
+    "track": "Prabin Dangol - Heal Anxiety & Stress",
+    "length": 3648,
+    "duration": 3648,
+    "started": 1726456091,
+    "type": "track",
+    "track_id": 3075182,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/7/6/b/f/6c76bf45aeab279a5cd44d0a2f85871a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/7/6/b/f/6c76bf45aeab279a5cd44d0a2f85871a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Piano Music for Relaxation",
+    "display_title": "Piano Music for Relaxation",
+    "track": "Yellow Brick Cinema - Piano Music for Relaxation",
+    "length": 1200,
+    "duration": 1200,
+    "started": 1726459739,
+    "type": "track",
+    "track_id": 2929976,
+    "release": "Sounds of Bliss",
+    "art_url": "//cdn-images.audioaddict.com/8/3/6/8/4/0/836840b0edc21bed3d4c7275fedf6551.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/6/8/4/0/836840b0edc21bed3d4c7275fedf6551.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Anti Stress Music",
+    "display_title": "Anti Stress Music",
+    "track": "Tranquility Spa Universe - Anti Stress Music",
+    "length": 208,
+    "duration": 208,
+    "started": 1726460938,
+    "type": "track",
+    "track_id": 2922058,
+    "release": "The Best of Spa Music: 50 Relaxing Tracks Pure Nature, Healing, Inner Peace, Total Relaxation, Ultimate Wellness Center Sounds, Sleep & Massage",
+    "art_url": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Christopher Lloyd Clarke",
+    "display_artist": "Christopher Lloyd Clarke",
+    "title": "Adrift (Volume 2)",
+    "display_title": "Adrift (Volume 2)",
+    "track": "Christopher Lloyd Clarke - Adrift (Volume 2)",
+    "length": 1017,
+    "duration": 1017,
+    "started": 1726461144,
+    "type": "track",
+    "track_id": 3075177,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/c/9/7/2/cec972d14feee1f60c4c43287e61a42e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/c/9/7/2/cec972d14feee1f60c4c43287e61a42e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "New Age Anti Stress Universe",
+    "display_artist": "New Age Anti Stress Universe",
+    "title": "Well-Being Is Freedom",
+    "display_title": "Well-Being Is Freedom",
+    "track": "New Age Anti Stress Universe - Well-Being Is Freedom",
+    "length": 246,
+    "duration": 246,
+    "started": 1726462158,
+    "type": "track",
+    "track_id": 2922047,
+    "release": "Totally Stress Free – Soothing Sounds of Nature, Breathing Techniques for Calm Down, Peaceful Contemplation",
+    "art_url": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "JEllis",
+    "display_artist": "JEllis",
+    "title": "Set Free",
+    "display_title": "Set Free",
+    "track": "JEllis - Set Free",
+    "length": 168,
+    "duration": 168,
+    "started": 1726463081,
+    "type": "track",
+    "track_id": 2902032,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/9/0/9/8/3/c9098363d712bb9b65cfa66f39596175.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/0/9/8/3/c9098363d712bb9b65cfa66f39596175.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nessa Wright",
+    "display_artist": "Nessa Wright",
+    "title": "Incipiency",
+    "display_title": "Incipiency",
+    "track": "Nessa Wright - Incipiency",
+    "length": 163,
+    "duration": 163,
+    "started": 1726463249,
+    "type": "track",
+    "track_id": 3091847,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/c/1/8/4/1/dc184102013081d41c5569381a44fc93.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/1/8/4/1/dc184102013081d41c5569381a44fc93.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "EON NOIRE",
+    "display_artist": "EON NOIRE",
+    "title": "Centered",
+    "display_title": "Centered",
+    "track": "EON NOIRE - Centered",
+    "length": 183,
+    "duration": 183,
+    "started": 1726463412,
+    "type": "track",
+    "track_id": 3064374,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/5/b/2/c/cb5b2cfcad486fa491087f5f65cbb0b5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/5/b/2/c/cb5b2cfcad486fa491087f5f65cbb0b5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Healing the Heart",
+    "display_title": "Healing the Heart",
+    "track": "Parijat - Healing the Heart",
+    "length": 434,
+    "duration": 434,
+    "started": 1726463594,
+    "type": "track",
+    "track_id": 359424,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Benefits of Meditation",
+    "display_title": "Benefits of Meditation",
+    "track": "Calming Music Sanctuary - Benefits of Meditation",
+    "length": 225,
+    "duration": 225,
+    "started": 1726464028,
+    "type": "track",
+    "track_id": 2921999,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Stress Relief",
+    "display_artist": "Stress Relief",
+    "title": "No Problems",
+    "display_title": "No Problems",
+    "track": "Stress Relief - No Problems",
+    "length": 198,
+    "duration": 198,
+    "started": 1726464254,
+    "type": "track",
+    "track_id": 2922056,
+    "release": "Stress Relief Music - Songs for No Stress, Antistress Sounds of Nature",
+    "art_url": "//cdn-images.audioaddict.com/d/7/0/6/2/a/d7062adb9af03afbb3ad700e7b673779.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/0/6/2/a/d7062adb9af03afbb3ad700e7b673779.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Sounds of Nature Kingdom",
+    "display_artist": "Sounds of Nature Kingdom",
+    "title": "Daily Reflections",
+    "display_title": "Daily Reflections",
+    "track": "Sounds of Nature Kingdom - Daily Reflections",
+    "length": 181,
+    "duration": 181,
+    "started": 1726464452,
+    "type": "track",
+    "track_id": 2922051,
+    "release": "Relaxing Guitar Songs with Nature Music: Stress Free Therapy, Deep Sleep, Zen Massage, Yoga Exercises, Pure Meditation Music Ambient",
+    "art_url": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Moments of Clarity",
+    "display_artist": "Moments of Clarity",
+    "title": "Over the Skies",
+    "display_title": "Over the Skies",
+    "track": "Moments of Clarity - Over the Skies",
+    "length": 223,
+    "duration": 223,
+    "started": 1726464634,
+    "type": "track",
+    "track_id": 3015567,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/c/0/5/a/6/5c05a6ad89fd3eca7e757c9a8fc69abd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/0/5/a/6/5c05a6ad89fd3eca7e757c9a8fc69abd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Celtic Chillout Relaxation Academy",
+    "display_artist": "Celtic Chillout Relaxation Academy",
+    "title": "Top Of 2018",
+    "display_title": "Top Of 2018",
+    "track": "Celtic Chillout Relaxation Academy - Top Of 2018",
+    "length": 211,
+    "duration": 211,
+    "started": 1726464854,
+    "type": "track",
+    "track_id": 2922017,
+    "release": "Top of 2018: Spa Best Selection, Relaxation, Deep Breathing, Anti-Stress Music",
+    "art_url": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Dear Gravity",
+    "display_artist": "Dear Gravity",
+    "title": "Comity",
+    "display_title": "Comity",
+    "track": "Dear Gravity - Comity",
+    "length": 322,
+    "duration": 322,
+    "started": 1726465066,
+    "type": "track",
+    "track_id": 3044804,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/5/c/b/d/1/75cbd1ea7f358ad76aed1dd80bb56f36.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/c/b/d/1/75cbd1ea7f358ad76aed1dd80bb56f36.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Music to Relax in Free Time",
+    "display_artist": "Music to Relax in Free Time",
+    "title": "Yoga Stormy Night",
+    "display_title": "Yoga Stormy Night",
+    "track": "Music to Relax in Free Time - Yoga Stormy Night",
+    "length": 213,
+    "duration": 213,
+    "started": 1726465385,
+    "type": "track",
+    "track_id": 2909529,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/c/7/9/8/b/cc798b3eb2c2681979103ff76e1114af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/7/9/8/b/cc798b3eb2c2681979103ff76e1114af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Peder B. Helland",
+    "display_artist": "Peder B. Helland",
+    "title": "Forever",
+    "display_title": "Forever",
+    "track": "Peder B. Helland - Forever",
+    "length": 529,
+    "duration": 529,
+    "started": 1726465598,
+    "type": "track",
+    "track_id": 3062376,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/b/5/7/0/5/ab57057a1b1b7f4e9c4d3ba7cb533b01.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/5/7/0/5/ab57057a1b1b7f4e9c4d3ba7cb533b01.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Lukas Termena",
+    "display_artist": "Lukas Termena",
+    "title": "My World (Meditation)",
+    "display_title": "My World (Meditation)",
+    "track": "Lukas Termena - My World (Meditation)",
+    "length": 955,
+    "duration": 955,
+    "started": 1726466126,
+    "type": "track",
+    "track_id": 2966195,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/5/1/a/e/4/151ae4170dad85dc80c06bfd57389238.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/1/a/e/4/151ae4170dad85dc80c06bfd57389238.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calm Pregnancy Music Academy",
+    "display_artist": "Calm Pregnancy Music Academy",
+    "title": "Music to Help You Sleep",
+    "display_title": "Music to Help You Sleep",
+    "track": "Calm Pregnancy Music Academy - Music to Help You Sleep",
+    "length": 216,
+    "duration": 216,
+    "started": 1726467083,
+    "type": "track",
+    "track_id": 2921998,
+    "release": "50 Prenatal Yoga Music – Pregnancy Music for Delivery and Labor, Future Baby and Future Mom, Hypnotherapy Birthing",
+    "art_url": "//cdn-images.audioaddict.com/7/4/4/0/1/1/74401172b7eec08e526b5cb9964c1f69.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/4/0/1/1/74401172b7eec08e526b5cb9964c1f69.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Music and Pure Nature Sounds (Meditation)",
+    "display_title": "Music and Pure Nature Sounds (Meditation)",
+    "track": "Tranquility Spa Universe - Music and Pure Nature Sounds (Meditation)",
+    "length": 245,
+    "duration": 245,
+    "started": 1726467296,
+    "type": "track",
+    "track_id": 2920881,
+    "release": "The Best of Spa Music: 50 Relaxing Tracks Pure Nature, Healing, Inner Peace, Total Relaxation, Ultimate Wellness Center Sounds, Sleep & Massage",
+    "art_url": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "oh, the joy.",
+    "display_artist": "oh, the joy.",
+    "title": "new dawn",
+    "display_title": "new dawn",
+    "track": "oh, the joy. - new dawn",
+    "length": 207,
+    "duration": 207,
+    "started": 1726467543,
+    "type": "track",
+    "track_id": 3076861,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/0/5/7/1/4/005714cec058dc6a69aa1a49641f9f5d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/5/7/1/4/005714cec058dc6a69aa1a49641f9f5d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Healing Mood",
+    "display_title": "Healing Mood",
+    "track": "Mrm Team - Healing Mood",
+    "length": 260,
+    "duration": 260,
+    "started": 1726467988,
+    "type": "track",
+    "track_id": 2928074,
+    "release": "Music for Yoga & Meditation, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Moments of Clarity",
+    "display_artist": "Moments of Clarity",
+    "title": "Heaven’s Shore",
+    "display_title": "Heaven’s Shore",
+    "track": "Moments of Clarity - Heaven’s Shore",
+    "length": 212,
+    "duration": 212,
+    "started": 1726468459,
+    "type": "track",
+    "track_id": 3015564,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/1/f/f/1/8/61ff18a9a8f3824fa42ff11277943dd2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/1/f/f/1/8/61ff18a9a8f3824fa42ff11277943dd2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Etheral Gust",
+    "display_artist": "Etheral Gust",
+    "title": "Unspoken Words",
+    "display_title": "Unspoken Words",
+    "track": "Etheral Gust - Unspoken Words",
+    "length": 304,
+    "duration": 304,
+    "started": 1726468918,
+    "type": "track",
+    "track_id": 3064376,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/a/2/8/0/9/5a2809377213f198fac4a6404b488826.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/a/2/8/0/9/5a2809377213f198fac4a6404b488826.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Music Guys",
+    "display_artist": "Mindfulness Music Guys",
+    "title": "Music for Studying",
+    "display_title": "Music for Studying",
+    "track": "Mindfulness Music Guys - Music for Studying",
+    "length": 122,
+    "duration": 122,
+    "started": 1726469222,
+    "type": "track",
+    "track_id": 2913647,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Sat-Chit",
+    "display_artist": "Sat-Chit",
+    "title": "Elimina Energías Negativas • 417 Hz",
+    "display_title": "Elimina Energías Negativas • 417 Hz",
+    "track": "Sat-Chit - Elimina Energías Negativas • 417 Hz",
+    "length": 412,
+    "duration": 412,
+    "started": 1726469343,
+    "type": "track",
+    "track_id": 3082452,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/f/5/5/5/b/1f555be82b1e9197a7bc4b9e999bd425.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/5/5/5/b/1f555be82b1e9197a7bc4b9e999bd425.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "LUUNA",
+    "display_artist": "LUUNA",
+    "title": "Presonus",
+    "display_title": "Presonus",
+    "track": "LUUNA - Presonus",
+    "length": 207,
+    "duration": 207,
+    "started": 1726469756,
+    "type": "track",
+    "track_id": 3030640,
+    "release": "Presonus - Single",
+    "art_url": "//cdn-images.audioaddict.com/9/6/c/9/c/b/96c9cb0821794ff1e9af37909635d12c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/c/9/c/b/96c9cb0821794ff1e9af37909635d12c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Helios Relaxing Space",
+    "display_artist": "Helios Relaxing Space",
+    "title": "Becalming",
+    "display_title": "Becalming",
+    "track": "Helios Relaxing Space - Becalming",
+    "length": 416,
+    "duration": 416,
+    "started": 1726469953,
+    "type": "track",
+    "track_id": 3091841,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/4/e/0/5/6/84e05612567629f653cf5949d81f5906.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/e/0/5/6/84e05612567629f653cf5949d81f5906.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Jay Belshaw",
+    "display_artist": "Jay Belshaw",
+    "title": "Kaikoura",
+    "display_title": "Kaikoura",
+    "track": "Jay Belshaw - Kaikoura",
+    "length": 195,
+    "duration": 195,
+    "started": 1726470533,
+    "type": "track",
+    "track_id": 3087814,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/d/0/0/9/4/bd0094df8c655034ec5b909d895ce2f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/0/0/9/4/bd0094df8c655034ec5b909d895ce2f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nature Healing Society",
+    "display_artist": "Nature Healing Society",
+    "title": "Nr Four Best Mornings Music Last Twelve Months",
+    "display_title": "Nr Four Best Mornings Music Last Twelve Months",
+    "track": "Nature Healing Society - Nr Four Best Mornings Music Last Twelve Months",
+    "length": 422,
+    "duration": 422,
+    "started": 1726470728,
+    "type": "track",
+    "track_id": 3064383,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/4/b/c/9/f14bc98081f77c87417dd3f2bcfd491f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/4/b/c/9/f14bc98081f77c87417dd3f2bcfd491f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Medwyn Goodall",
+    "display_artist": "Medwyn Goodall",
+    "title": "The Healing Waters",
+    "display_title": "The Healing Waters",
+    "track": "Medwyn Goodall - The Healing Waters",
+    "length": 1411,
+    "duration": 1411,
+    "started": 1726471147,
+    "type": "track",
+    "track_id": 791911,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/7/0/f/2/f/f70f2f7162597f81add8b6ad2556dbb9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/0/f/2/f/f70f2f7162597f81add8b6ad2556dbb9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Fridrik Karlsson",
+    "display_artist": "Fridrik Karlsson",
+    "title": "Crystal Clear",
+    "display_title": "Crystal Clear",
+    "track": "Fridrik Karlsson - Crystal Clear",
+    "length": 812,
+    "duration": 812,
+    "started": 1726472558,
+    "type": "track",
+    "track_id": 3015558,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/0/e/2/0/1/00e2012dfa5178f8473b750773de06fd.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/e/2/0/1/00e2012dfa5178f8473b750773de06fd.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Sensitize",
+    "display_artist": "Sensitize",
+    "title": "Shinrin-Yoku",
+    "display_title": "Shinrin-Yoku",
+    "track": "Sensitize - Shinrin-Yoku",
+    "length": 294,
+    "duration": 294,
+    "started": 1726473370,
+    "type": "track",
+    "track_id": 3062394,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/9/4/3/a/6/9943a69fe598183213ebaff61f60d53d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/9/4/3/a/6/9943a69fe598183213ebaff61f60d53d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Majestic Sleep",
+    "display_artist": "Majestic Sleep",
+    "title": "Promise of Sleep",
+    "display_title": "Promise of Sleep",
+    "track": "Majestic Sleep - Promise of Sleep",
+    "length": 170,
+    "duration": 170,
+    "started": 1726473664,
+    "type": "track",
+    "track_id": 3082445,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/2/4/8/5/7/a24857ec00bb151068824689ff3e39e9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/4/8/5/7/a24857ec00bb151068824689ff3e39e9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Healing Tree Music",
+    "display_artist": "Healing Tree Music",
+    "title": "Peaceful harp music #6 (30min)",
+    "display_title": "Peaceful harp music #6 (30min)",
+    "track": "Healing Tree Music - Peaceful harp music #6 (30min)",
+    "length": 1873,
+    "duration": 1873,
+    "started": 1726473834,
+    "type": "track",
+    "track_id": 2929971,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/6/c/d/1/b/c6cd1b586ba42276fdf72c4b8c42d37b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/c/d/1/b/c6cd1b586ba42276fdf72c4b8c42d37b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Christopher Lloyd Clarke",
+    "display_artist": "Christopher Lloyd Clarke",
+    "title": "Adrift",
+    "display_title": "Adrift",
+    "track": "Christopher Lloyd Clarke - Adrift",
+    "length": 1052,
+    "duration": 1052,
+    "started": 1726475708,
+    "type": "track",
+    "track_id": 3075166,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/c/9/7/2/cec972d14feee1f60c4c43287e61a42e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/c/9/7/2/cec972d14feee1f60c4c43287e61a42e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Progressive Muscle Relaxation",
+    "display_title": "Progressive Muscle Relaxation",
+    "track": "Calming Music Sanctuary - Progressive Muscle Relaxation",
+    "length": 271,
+    "duration": 271,
+    "started": 1726476756,
+    "type": "track",
+    "track_id": 2922013,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Music to Relax in Free Time",
+    "display_artist": "Music to Relax in Free Time",
+    "title": "Sensual Massage (Relaxing Music)",
+    "display_title": "Sensual Massage (Relaxing Music)",
+    "track": "Music to Relax in Free Time - Sensual Massage (Relaxing Music)",
+    "length": 206,
+    "duration": 206,
+    "started": 1726477028,
+    "type": "track",
+    "track_id": 2909588,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/c/7/9/8/b/cc798b3eb2c2681979103ff76e1114af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/7/9/8/b/cc798b3eb2c2681979103ff76e1114af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Increase Energy and Focus",
+    "display_title": "Increase Energy and Focus",
+    "track": "Calming Music Sanctuary - Increase Energy and Focus",
+    "length": 264,
+    "duration": 264,
+    "started": 1726477233,
+    "type": "track",
+    "track_id": 2922004,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Warmer Sommerabend",
+    "display_title": "Warmer Sommerabend",
+    "track": "Deuter - Warmer Sommerabend",
+    "length": 999,
+    "duration": 999,
+    "started": 1726477969,
+    "type": "track",
+    "track_id": 2879922,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/4/7/6/4/2/0476424a8d02f02c1da671fc91e79ab0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/7/6/4/2/0476424a8d02f02c1da671fc91e79ab0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Dear Gravity",
+    "display_artist": "Dear Gravity",
+    "title": "Repose",
+    "display_title": "Repose",
+    "track": "Dear Gravity - Repose",
+    "length": 179,
+    "duration": 179,
+    "started": 1726479231,
+    "type": "track",
+    "track_id": 3044808,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/5/c/b/d/1/75cbd1ea7f358ad76aed1dd80bb56f36.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/c/b/d/1/75cbd1ea7f358ad76aed1dd80bb56f36.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Music to Relax in Free Time",
+    "display_artist": "Music to Relax in Free Time",
+    "title": "Natural Zen Fire",
+    "display_title": "Natural Zen Fire",
+    "track": "Music to Relax in Free Time - Natural Zen Fire",
+    "length": 202,
+    "duration": 202,
+    "started": 1726479694,
+    "type": "track",
+    "track_id": 2909587,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/c/7/9/8/b/cc798b3eb2c2681979103ff76e1114af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/7/9/8/b/cc798b3eb2c2681979103ff76e1114af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "At Dusk",
+    "display_artist": "At Dusk",
+    "title": "Gaia (Ambient Sleep Edit)",
+    "display_title": "Gaia (Ambient Sleep Edit)",
+    "track": "At Dusk - Gaia (Ambient Sleep Edit)",
+    "length": 236,
+    "duration": 236,
+    "started": 1726479895,
+    "type": "track",
+    "track_id": 3075175,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/3/b/7/8/c/83b78c71125fe5ec9e9be47491bce240.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/b/7/8/c/83b78c71125fe5ec9e9be47491bce240.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Irish Celtic Spirit of Relaxation Academy",
+    "display_artist": "Irish Celtic Spirit of Relaxation Academy",
+    "title": "Awaken the Mind",
+    "display_title": "Awaken the Mind",
+    "track": "Irish Celtic Spirit of Relaxation Academy - Awaken the Mind",
+    "length": 212,
+    "duration": 212,
+    "started": 1726480132,
+    "type": "track",
+    "track_id": 2922025,
+    "release": "Top of 2018: Spa Best Selection, Relaxation, Deep Breathing, Anti-Stress Music",
+    "art_url": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Meditation Music Spa Maestro",
+    "display_artist": "Mindfulness Meditation Music Spa Maestro",
+    "title": "Calm Sounds for Sleep",
+    "display_title": "Calm Sounds for Sleep",
+    "track": "Mindfulness Meditation Music Spa Maestro - Calm Sounds for Sleep",
+    "length": 216,
+    "duration": 216,
+    "started": 1726480340,
+    "type": "track",
+    "track_id": 2922028,
+    "release": "111 Anti-stress Relaxing Music: Mindfulness Meditation, Nature Sounds, Yoga, Reiki, Spa Massage, Healing White Noise",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Peder B. Helland",
+    "display_artist": "Peder B. Helland",
+    "title": "Happy Times",
+    "display_title": "Happy Times",
+    "track": "Peder B. Helland - Happy Times",
+    "length": 685,
+    "duration": 685,
+    "started": 1726480556,
+    "type": "track",
+    "track_id": 3064388,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Relaxed Mind",
+    "display_artist": "Relaxed Mind",
+    "title": "In a Dream",
+    "display_title": "In a Dream",
+    "track": "Relaxed Mind - In a Dream",
+    "length": 445,
+    "duration": 445,
+    "started": 1726481241,
+    "type": "track",
+    "track_id": 3082449,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Peder B. Helland",
+    "display_artist": "Peder B. Helland",
+    "title": "Sunny Mornings",
+    "display_title": "Sunny Mornings",
+    "track": "Peder B. Helland - Sunny Mornings",
+    "length": 616,
+    "duration": 616,
+    "started": 1726481686,
+    "type": "track",
+    "track_id": 3062380,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Richard Bone",
+    "display_artist": "Richard Bone",
+    "title": "The New Mystic",
+    "display_title": "The New Mystic",
+    "track": "Richard Bone - The New Mystic",
+    "length": 437,
+    "duration": 437,
+    "started": 1726482303,
+    "type": "track",
+    "track_id": 2909544,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/2/7/7/c/0/a277c0167ec48f635976233a3ee74a85.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/7/7/c/0/a277c0167ec48f635976233a3ee74a85.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Native American Music Consort",
+    "display_artist": "Native American Music Consort",
+    "title": "Moon Shadows",
+    "display_title": "Moon Shadows",
+    "track": "Native American Music Consort - Moon Shadows",
+    "length": 211,
+    "duration": 211,
+    "started": 1726483744,
+    "type": "track",
+    "track_id": 2916101,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/1/4/0/4/9b1404cc917fcdd3678689f1a86091c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/1/4/0/4/9b1404cc917fcdd3678689f1a86091c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Meditation (Calm & Peace)",
+    "display_title": "Meditation (Calm & Peace)",
+    "track": "Tranquility Spa Universe - Meditation (Calm & Peace)",
+    "length": 226,
+    "duration": 226,
+    "started": 1726483954,
+    "type": "track",
+    "track_id": 2920880,
+    "release": "The Best of Spa Music: 50 Relaxing Tracks Pure Nature, Healing, Inner Peace, Total Relaxation, Ultimate Wellness Center Sounds, Sleep & Massage",
+    "art_url": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Majestic Sleep",
+    "display_artist": "Majestic Sleep",
+    "title": "Moon Shimmer",
+    "display_title": "Moon Shimmer",
+    "track": "Majestic Sleep - Moon Shimmer",
+    "length": 152,
+    "duration": 152,
+    "started": 1726484990,
+    "type": "track",
+    "track_id": 3064379,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/8/7/1/e/a/1871eaebe03fdc38e8f9bdf1ce9c1a5f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/7/1/e/a/1871eaebe03fdc38e8f9bdf1ce9c1a5f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Zen Life Relax",
+    "display_artist": "Zen Life Relax",
+    "title": "639 Hz Harmonize Relationships: Heal Old Negative Energy & Attract Love",
+    "display_title": "639 Hz Harmonize Relationships: Heal Old Negative Energy & Attract Love",
+    "track": "Zen Life Relax - 639 Hz Harmonize Relationships: Heal Old Negative Energy & Attract Love",
+    "length": 1871,
+    "duration": 1871,
+    "started": 1726485142,
+    "type": "track",
+    "track_id": 2990608,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/3/a/a/f/3/13aaf303c3da9196e556d4d98ccab460.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/a/a/f/3/13aaf303c3da9196e556d4d98ccab460.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "BodyMindZone",
+    "display_artist": "BodyMindZone",
+    "title": "Tranquil Massage",
+    "display_title": "Tranquil Massage",
+    "track": "BodyMindZone - Tranquil Massage",
+    "length": 3606,
+    "duration": 3606,
+    "started": 1726490622,
+    "type": "track",
+    "track_id": 3063416,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/d/7/6/5/f/dd765fc628fba3304d15553309a154dc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/7/6/5/f/dd765fc628fba3304d15553309a154dc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Galaxy’s Heartbeat",
+    "display_title": "Galaxy’s Heartbeat",
+    "track": "Yellow Brick Cinema - Galaxy’s Heartbeat",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1726494229,
+    "type": "track",
+    "track_id": 2920890,
+    "release": "Relaxing Spa",
+    "art_url": "//cdn-images.audioaddict.com/4/3/4/b/2/9/434b29060c7fe2cd179ee4813ce188c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/4/b/2/9/434b29060c7fe2cd179ee4813ce188c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nature Healing Society",
+    "display_artist": "Nature Healing Society",
+    "title": "Top One Best Mornings Music Last Twelve Months",
+    "display_title": "Top One Best Mornings Music Last Twelve Months",
+    "track": "Nature Healing Society - Top One Best Mornings Music Last Twelve Months",
+    "length": 398,
+    "duration": 398,
+    "started": 1726497833,
+    "type": "track",
+    "track_id": 3064385,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/1/4/b/c/9/f14bc98081f77c87417dd3f2bcfd491f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/1/4/b/c/9/f14bc98081f77c87417dd3f2bcfd491f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Positive Emotions",
+    "display_title": "Positive Emotions",
+    "track": "Calming Music Sanctuary - Positive Emotions",
+    "length": 254,
+    "duration": 254,
+    "started": 1726498231,
+    "type": "track",
+    "track_id": 2922009,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Inhale and Exhale",
+    "display_title": "Inhale and Exhale",
+    "track": "Calming Music Sanctuary - Inhale and Exhale",
+    "length": 243,
+    "duration": 243,
+    "started": 1726498486,
+    "type": "track",
+    "track_id": 2922005,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Anugama",
+    "display_artist": "Anugama",
+    "title": "Relaxation Ocean (With Alpha Relax Waves)",
+    "display_title": "Relaxation Ocean (With Alpha Relax Waves)",
+    "track": "Anugama - Relaxation Ocean (With Alpha Relax Waves)",
+    "length": 1474,
+    "duration": 1474,
+    "started": 1726498729,
+    "type": "track",
+    "track_id": 2943908,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/9/d/d/d/c49ddd2ff7700c3d548457eb12cd465c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/4/9/d/d/d/c49ddd2ff7700c3d548457eb12cd465c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Meditation Music Spa Maestro",
+    "display_artist": "Mindfulness Meditation Music Spa Maestro",
+    "title": "Boost Energy",
+    "display_title": "Boost Energy",
+    "track": "Mindfulness Meditation Music Spa Maestro - Boost Energy",
+    "length": 245,
+    "duration": 245,
+    "started": 1726500366,
+    "type": "track",
+    "track_id": 2922027,
+    "release": "111 Anti-stress Relaxing Music: Mindfulness Meditation, Nature Sounds, Yoga, Reiki, Spa Massage, Healing White Noise",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Soothing Relaxation",
+    "display_artist": "Soothing Relaxation",
+    "title": "Relaxing Piano Music ★96 (Short)",
+    "display_title": "Relaxing Piano Music ★96 (Short)",
+    "track": "Soothing Relaxation - Relaxing Piano Music ★96 (Short)",
+    "length": 464,
+    "duration": 464,
+    "started": 1726501062,
+    "type": "track",
+    "track_id": 3082455,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/f/e/b/a/a/efebaa772e9daedd57777be4ba4613a1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/e/b/a/a/efebaa772e9daedd57777be4ba4613a1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Altum Somnum",
+    "display_artist": "Altum Somnum",
+    "title": "Morning Bliss",
+    "display_title": "Morning Bliss",
+    "track": "Altum Somnum - Morning Bliss",
+    "length": 203,
+    "duration": 203,
+    "started": 1726501526,
+    "type": "track",
+    "track_id": 3064365,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/9/a/3/5/a49a355dd07c5f2d5b6946ab6be19951.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/9/a/3/5/a49a355dd07c5f2d5b6946ab6be19951.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Sounds of Nature Kingdom",
+    "display_artist": "Sounds of Nature Kingdom",
+    "title": "Secrets of Asian Garden",
+    "display_title": "Secrets of Asian Garden",
+    "track": "Sounds of Nature Kingdom - Secrets of Asian Garden",
+    "length": 193,
+    "duration": 193,
+    "started": 1726502438,
+    "type": "track",
+    "track_id": 2922053,
+    "release": "Relaxing Guitar Songs with Nature Music: Stress Free Therapy, Deep Sleep, Zen Massage, Yoga Exercises, Pure Meditation Music Ambient",
+    "art_url": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Borrtex & Hazy",
+    "display_artist": "Borrtex & Hazy",
+    "title": "Breathe",
+    "display_title": "Breathe",
+    "track": "Borrtex & Hazy - Breathe",
+    "length": 204,
+    "duration": 204,
+    "started": 1726502632,
+    "type": "track",
+    "track_id": 3062321,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/3/3/2/2/6/1332265b26126aef954c6f84b35de4c0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/3/2/2/6/1332265b26126aef954c6f84b35de4c0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Deep Sleep Music Maestro",
+    "display_artist": "Deep Sleep Music Maestro",
+    "title": "Keep Calm (Soothing Music)",
+    "display_title": "Keep Calm (Soothing Music)",
+    "track": "Deep Sleep Music Maestro - Keep Calm (Soothing Music)",
+    "length": 274,
+    "duration": 274,
+    "started": 1726503262,
+    "type": "track",
+    "track_id": 2922022,
+    "release": "Keep Calm: Soothing Music for Relax – Sounds for Trouble Sleeping, Healing Insomnia, Nature Sounds, Meditation & SPA Dreaming",
+    "art_url": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Relaxing Piano Meditation",
+    "display_title": "Relaxing Piano Meditation",
+    "track": "Yellow Brick Cinema - Relaxing Piano Meditation",
+    "length": 1200,
+    "duration": 1200,
+    "started": 1726503536,
+    "type": "track",
+    "track_id": 2929977,
+    "release": "Sounds of Bliss",
+    "art_url": "//cdn-images.audioaddict.com/8/3/6/8/4/0/836840b0edc21bed3d4c7275fedf6551.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/6/8/4/0/836840b0edc21bed3d4c7275fedf6551.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Aetherium",
+    "display_artist": "Aetherium",
+    "title": "Music for Guided Meditation",
+    "display_title": "Music for Guided Meditation",
+    "track": "Aetherium - Music for Guided Meditation",
+    "length": 2257,
+    "duration": 2257,
+    "started": 1726504735,
+    "type": "track",
+    "track_id": 2943904,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/5/b/2/c/a/b5b2ca2aca892b8c2e0618f5e0d6169d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/5/b/2/c/a/b5b2ca2aca892b8c2e0618f5e0d6169d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Floating Through Nights",
+    "display_title": "Floating Through Nights",
+    "track": "Blue Wave Studio - Floating Through Nights",
+    "length": 522,
+    "duration": 522,
+    "started": 1726506992,
+    "type": "track",
+    "track_id": 3044796,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/c/b/0/d/86cb0dd77544b902e823b447350bf3a0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/c/b/0/d/86cb0dd77544b902e823b447350bf3a0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Buddha Garden (Background Music)",
+    "display_title": "Buddha Garden (Background Music)",
+    "track": "Tranquility Spa Universe - Buddha Garden (Background Music)",
+    "length": 216,
+    "duration": 216,
+    "started": 1726507514,
+    "type": "track",
+    "track_id": 2922059,
+    "release": "The Best of Spa Music: 50 Relaxing Tracks Pure Nature, Healing, Inner Peace, Total Relaxation, Ultimate Wellness Center Sounds, Sleep & Massage",
+    "art_url": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Sounds of Nature Kingdom",
+    "display_artist": "Sounds of Nature Kingdom",
+    "title": "Gentle Birds Chirping",
+    "display_title": "Gentle Birds Chirping",
+    "track": "Sounds of Nature Kingdom - Gentle Birds Chirping",
+    "length": 204,
+    "duration": 204,
+    "started": 1726507730,
+    "type": "track",
+    "track_id": 2922052,
+    "release": "Relaxing Guitar Songs with Nature Music: Stress Free Therapy, Deep Sleep, Zen Massage, Yoga Exercises, Pure Meditation Music Ambient",
+    "art_url": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Relax And Release",
+    "display_title": "Relax And Release",
+    "track": "David Arkenstone - Relax And Release",
+    "length": 510,
+    "duration": 510,
+    "started": 1726507933,
+    "type": "track",
+    "track_id": 3015552,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/9/b/8/4/0/69b840d1c1604e1a7885eb124f580e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/b/8/4/0/69b840d1c1604e1a7885eb124f580e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Eleonora Feldt",
+    "display_artist": "Eleonora Feldt",
+    "title": "Sinsemellan",
+    "display_title": "Sinsemellan",
+    "track": "Eleonora Feldt - Sinsemellan",
+    "length": 211,
+    "duration": 211,
+    "started": 1726508660,
+    "type": "track",
+    "track_id": 3075181,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/b/3/5/7/7/2b3577c2313c223ebd98f17afbddf282.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/3/5/7/7/2b3577c2313c223ebd98f17afbddf282.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Dayonas Dream",
+    "display_artist": "Dayonas Dream",
+    "title": "Ethereal",
+    "display_title": "Ethereal",
+    "track": "Dayonas Dream - Ethereal",
+    "length": 172,
+    "duration": 172,
+    "started": 1726508872,
+    "type": "track",
+    "track_id": 3083928,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/6/6/7/0/9/366709e8ca06a9b1afc15396c0a2d2d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/6/6/7/0/9/366709e8ca06a9b1afc15396c0a2d2d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Eleonora Feldt",
+    "display_artist": "Eleonora Feldt",
+    "title": "Tillbakalutande",
+    "display_title": "Tillbakalutande",
+    "track": "Eleonora Feldt - Tillbakalutande",
+    "length": 163,
+    "duration": 163,
+    "started": 1726509655,
+    "type": "track",
+    "track_id": 3082345,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/8/8/8/2/a/a8882af9844c5197db52ad4c3fa37703.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/8/8/8/2/a/a8882af9844c5197db52ad4c3fa37703.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Study Music",
+    "display_artist": "Study Music",
+    "title": "Anti Stress Music",
+    "display_title": "Anti Stress Music",
+    "track": "Study Music - Anti Stress Music",
+    "length": 330,
+    "duration": 330,
+    "started": 1726509817,
+    "type": "track",
+    "track_id": 2922057,
+    "release": "Top 30 Pieces of Calm New Age - Music to Effective Study, Better Concentration While Learning, Relaxation and Meditation Sounds of Nature",
+    "art_url": "//cdn-images.audioaddict.com/6/8/d/9/b/2/68d9b24d5b7783dc7e8db3759b13ea74.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/d/9/b/2/68d9b24d5b7783dc7e8db3759b13ea74.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Healing",
+    "display_title": "Healing",
+    "track": "Parijat - Healing",
+    "length": 316,
+    "duration": 316,
+    "started": 1726511066,
+    "type": "track",
+    "track_id": 3041909,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/5/9/4/6/c/c5946c483fbb9d463cbe5879757157d4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/9/4/6/c/c5946c483fbb9d463cbe5879757157d4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Relaxing Exercises",
+    "display_title": "Relaxing Exercises",
+    "track": "Calming Music Sanctuary - Relaxing Exercises",
+    "length": 204,
+    "duration": 204,
+    "started": 1726511382,
+    "type": "track",
+    "track_id": 2990603,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/a/9/3/5/6/0a935689136220a6cd4d4320f0d3eb43.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/9/3/5/6/0a935689136220a6cd4d4320f0d3eb43.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Dear Gravity",
+    "display_artist": "Dear Gravity",
+    "title": "Quiesce",
+    "display_title": "Quiesce",
+    "track": "Dear Gravity - Quiesce",
+    "length": 266,
+    "duration": 266,
+    "started": 1726511585,
+    "type": "track",
+    "track_id": 3044807,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/5/c/b/d/1/75cbd1ea7f358ad76aed1dd80bb56f36.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/c/b/d/1/75cbd1ea7f358ad76aed1dd80bb56f36.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Peder B. Helland",
+    "display_artist": "Peder B. Helland",
+    "title": "Sunny Days",
+    "display_title": "Sunny Days",
+    "track": "Peder B. Helland - Sunny Days",
+    "length": 619,
+    "duration": 619,
+    "started": 1726512019,
+    "type": "track",
+    "track_id": 3062379,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Lukas Termena",
+    "display_artist": "Lukas Termena",
+    "title": "Moment of Peace",
+    "display_title": "Moment of Peace",
+    "track": "Lukas Termena - Moment of Peace",
+    "length": 401,
+    "duration": 401,
+    "started": 1726512637,
+    "type": "track",
+    "track_id": 2966642,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/5/1/a/e/4/151ae4170dad85dc80c06bfd57389238.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/1/a/e/4/151ae4170dad85dc80c06bfd57389238.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Deep Sleep Music Maestro",
+    "display_artist": "Deep Sleep Music Maestro",
+    "title": "Chakra Meditation Balancing",
+    "display_title": "Chakra Meditation Balancing",
+    "track": "Deep Sleep Music Maestro - Chakra Meditation Balancing",
+    "length": 201,
+    "duration": 201,
+    "started": 1726513040,
+    "type": "track",
+    "track_id": 2922018,
+    "release": "Keep Calm: Soothing Music for Relax – Sounds for Trouble Sleeping, Healing Insomnia, Nature Sounds, Meditation & SPA Dreaming",
+    "art_url": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Lukas Termena",
+    "display_artist": "Lukas Termena",
+    "title": "Ocean Secrets",
+    "display_title": "Ocean Secrets",
+    "track": "Lukas Termena - Ocean Secrets",
+    "length": 366,
+    "duration": 366,
+    "started": 1726513410,
+    "type": "track",
+    "track_id": 2966643,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/5/1/a/e/4/151ae4170dad85dc80c06bfd57389238.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/5/1/a/e/4/151ae4170dad85dc80c06bfd57389238.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "oh, the joy.",
+    "display_artist": "oh, the joy.",
+    "title": "open mind",
+    "display_title": "open mind",
+    "track": "oh, the joy. - open mind",
+    "length": 218,
+    "duration": 218,
+    "started": 1726514179,
+    "type": "track",
+    "track_id": 3082457,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/0/5/7/1/4/005714cec058dc6a69aa1a49641f9f5d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/5/7/1/4/005714cec058dc6a69aa1a49641f9f5d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Elise Magnefold",
+    "display_artist": "Elise Magnefold",
+    "title": "A Message of Hope",
+    "display_title": "A Message of Hope",
+    "track": "Elise Magnefold - A Message of Hope",
+    "length": 206,
+    "duration": 206,
+    "started": 1726515013,
+    "type": "track",
+    "track_id": 3062440,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/f/1/c/0/9/1f1c0994c9eb8b1a5a6f22dc98f306d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/1/c/0/9/1f1c0994c9eb8b1a5a6f22dc98f306d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Carl Lord",
+    "display_artist": "Carl Lord",
+    "title": "Piercing the Darkness",
+    "display_title": "Piercing the Darkness",
+    "track": "Carl Lord - Piercing the Darkness",
+    "length": 221,
+    "duration": 221,
+    "started": 1726515444,
+    "type": "track",
+    "track_id": 3015549,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/0/d/9/9/5/40d995e25deafb9925da520785d66474.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/d/9/9/5/40d995e25deafb9925da520785d66474.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Positive Mood",
+    "display_title": "Positive Mood",
+    "track": "Calming Music Sanctuary - Positive Mood",
+    "length": 210,
+    "duration": 210,
+    "started": 1726515873,
+    "type": "track",
+    "track_id": 2922010,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Meditation Music Spa Maestro",
+    "display_artist": "Mindfulness Meditation Music Spa Maestro",
+    "title": "Healing Power Natural Sounds",
+    "display_title": "Healing Power Natural Sounds",
+    "track": "Mindfulness Meditation Music Spa Maestro - Healing Power Natural Sounds",
+    "length": 241,
+    "duration": 241,
+    "started": 1726516083,
+    "type": "track",
+    "track_id": 2922032,
+    "release": "111 Anti-stress Relaxing Music: Mindfulness Meditation, Nature Sounds, Yoga, Reiki, Spa Massage, Healing White Noise",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Meditation Music Spa Maestro",
+    "display_artist": "Mindfulness Meditation Music Spa Maestro",
+    "title": "Heart Touching Thoughts",
+    "display_title": "Heart Touching Thoughts",
+    "track": "Mindfulness Meditation Music Spa Maestro - Heart Touching Thoughts",
+    "length": 245,
+    "duration": 245,
+    "started": 1726516324,
+    "type": "track",
+    "track_id": 2922034,
+    "release": "111 Anti-stress Relaxing Music: Mindfulness Meditation, Nature Sounds, Yoga, Reiki, Spa Massage, Healing White Noise",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Kamal",
+    "display_artist": "Kamal",
+    "title": "Meeresleuchten",
+    "display_title": "Meeresleuchten",
+    "track": "Kamal - Meeresleuchten",
+    "length": 651,
+    "duration": 651,
+    "started": 1726516569,
+    "type": "track",
+    "track_id": 25930,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/1/4/5/1/2/b145127a719b6243c0cd6eb16874b42f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/1/4/5/1/2/b145127a719b6243c0cd6eb16874b42f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Dan Gibson's Solitudes",
+    "display_artist": "Dan Gibson's Solitudes",
+    "title": "First Star in the Sky",
+    "display_title": "First Star in the Sky",
+    "track": "Dan Gibson's Solitudes - First Star in the Sky",
+    "length": 440,
+    "duration": 440,
+    "started": 1726517219,
+    "type": "track",
+    "track_id": 3091838,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/c/9/3/4/d/5c934daf01826e9d41fa5b37c8daaf3e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/9/3/4/d/5c934daf01826e9d41fa5b37c8daaf3e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Song of Solitude",
+    "display_title": "Song of Solitude",
+    "track": "Yellow Brick Cinema - Song of Solitude",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1726517659,
+    "type": "track",
+    "track_id": 2920894,
+    "release": "Relaxing Spa",
+    "art_url": "//cdn-images.audioaddict.com/4/3/4/b/2/9/434b29060c7fe2cd179ee4813ce188c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/4/b/2/9/434b29060c7fe2cd179ee4813ce188c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Music Guys",
+    "display_artist": "Mindfulness Music Guys",
+    "title": "Chill Music to Study Skills",
+    "display_title": "Chill Music to Study Skills",
+    "track": "Mindfulness Music Guys - Chill Music to Study Skills",
+    "length": 213,
+    "duration": 213,
+    "started": 1726521258,
+    "type": "track",
+    "track_id": 2922037,
+    "release": "Stimulate Your Brain: Calm Music for Studying and Reading, Deep Concentration, Focus on Learning",
+    "art_url": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nature Healing Society",
+    "display_artist": "Nature Healing Society",
+    "title": "Autumn Music Vol. Nine",
+    "display_title": "Autumn Music Vol. Nine",
+    "track": "Nature Healing Society - Autumn Music Vol. Nine",
+    "length": 301,
+    "duration": 301,
+    "started": 1726521471,
+    "type": "track",
+    "track_id": 3064382,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/a/d/6/1/e/6ad61e7a583273dc7bb35c41c69f3249.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/a/d/6/1/e/6ad61e7a583273dc7bb35c41c69f3249.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nature Healing Society",
+    "display_artist": "Nature Healing Society",
+    "title": "432hz Ancient Morning Healing Frequency",
+    "display_title": "432hz Ancient Morning Healing Frequency",
+    "track": "Nature Healing Society - 432hz Ancient Morning Healing Frequency",
+    "length": 428,
+    "duration": 428,
+    "started": 1726521772,
+    "type": "track",
+    "track_id": 3063033,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/d/d/c/2/1/3ddc21d096f52a69e6bbee10bc04fa1b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/d/c/2/1/3ddc21d096f52a69e6bbee10bc04fa1b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Colors of Night",
+    "display_title": "Colors of Night",
+    "track": "Blue Wave Studio - Colors of Night",
+    "length": 675,
+    "duration": 675,
+    "started": 1726522201,
+    "type": "track",
+    "track_id": 3063021,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/a/6/3/7/0/3a63702efc3b835bc5ab165f19deccf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/6/3/7/0/3a63702efc3b835bc5ab165f19deccf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Mystical Tranquility",
+    "display_title": "Mystical Tranquility",
+    "track": "Blue Wave Studio - Mystical Tranquility",
+    "length": 645,
+    "duration": 645,
+    "started": 1726522875,
+    "type": "track",
+    "track_id": 3044798,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/a/6/3/7/0/3a63702efc3b835bc5ab165f19deccf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/6/3/7/0/3a63702efc3b835bc5ab165f19deccf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Relaxing Spa Music Zone",
+    "display_artist": "Relaxing Spa Music Zone",
+    "title": "Smooth Lullaby",
+    "display_title": "Smooth Lullaby",
+    "track": "Relaxing Spa Music Zone - Smooth Lullaby",
+    "length": 213,
+    "duration": 213,
+    "started": 1726523520,
+    "type": "track",
+    "track_id": 2922048,
+    "release": "Top of 2018: Spa Best Selection, Relaxation, Deep Breathing, Anti-Stress Music",
+    "art_url": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Christopher Lloyd Clarke",
+    "display_artist": "Christopher Lloyd Clarke",
+    "title": "All Loving Angel",
+    "display_title": "All Loving Angel",
+    "track": "Christopher Lloyd Clarke - All Loving Angel",
+    "length": 972,
+    "duration": 972,
+    "started": 1726523936,
+    "type": "track",
+    "track_id": 3075178,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/b/a/8/b/8/2ba8b801ac2c1825bd334afbfd5e51c1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/b/a/8/b/8/2ba8b801ac2c1825bd334afbfd5e51c1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Carl Lord",
+    "display_artist": "Carl Lord",
+    "title": "Prayerful",
+    "display_title": "Prayerful",
+    "track": "Carl Lord - Prayerful",
+    "length": 183,
+    "duration": 183,
+    "started": 1726524904,
+    "type": "track",
+    "track_id": 3015550,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/0/d/9/9/5/40d995e25deafb9925da520785d66474.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/0/d/9/9/5/40d995e25deafb9925da520785d66474.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Healing Senses",
+    "display_title": "Healing Senses",
+    "track": "Parijat - Healing Senses",
+    "length": 508,
+    "duration": 508,
+    "started": 1726525087,
+    "type": "track",
+    "track_id": 359948,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/0/7/7/a/7/2077a7cbe3363277bb8910df182f5d75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/0/7/7/a/7/2077a7cbe3363277bb8910df182f5d75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Joseph Alphane",
+    "display_artist": "Joseph Alphane",
+    "title": "Oxygen",
+    "display_title": "Oxygen",
+    "track": "Joseph Alphane - Oxygen",
+    "length": 164,
+    "duration": 164,
+    "started": 1726525959,
+    "type": "track",
+    "track_id": 3064378,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/f/6/5/9/f/af659fc467eed3cec93ec17bc5f16001.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/6/5/9/f/af659fc467eed3cec93ec17bc5f16001.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Music Guys",
+    "display_artist": "Mindfulness Music Guys",
+    "title": "Homework Music",
+    "display_title": "Homework Music",
+    "track": "Mindfulness Music Guys - Homework Music",
+    "length": 214,
+    "duration": 214,
+    "started": 1726526497,
+    "type": "track",
+    "track_id": 2922038,
+    "release": "Stimulate Your Brain: Calm Music for Studying and Reading, Deep Concentration, Focus on Learning",
+    "art_url": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Deep Sleep Music Maestro",
+    "display_artist": "Deep Sleep Music Maestro",
+    "title": "Nature Sound Connection (Relaxing Flute)",
+    "display_title": "Nature Sound Connection (Relaxing Flute)",
+    "track": "Deep Sleep Music Maestro - Nature Sound Connection (Relaxing Flute)",
+    "length": 192,
+    "duration": 192,
+    "started": 1726526710,
+    "type": "track",
+    "track_id": 2922023,
+    "release": "Keep Calm: Soothing Music for Relax – Sounds for Trouble Sleeping, Healing Insomnia, Nature Sounds, Meditation & SPA Dreaming",
+    "art_url": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Perfect Brain Fitness",
+    "display_title": "Perfect Brain Fitness",
+    "track": "Calming Music Sanctuary - Perfect Brain Fitness",
+    "length": 211,
+    "duration": 211,
+    "started": 1726527537,
+    "type": "track",
+    "track_id": 2922008,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Joseph Alphane",
+    "display_artist": "Joseph Alphane",
+    "title": "Light In the Dark",
+    "display_title": "Light In the Dark",
+    "track": "Joseph Alphane - Light In the Dark",
+    "length": 155,
+    "duration": 155,
+    "started": 1726527749,
+    "type": "track",
+    "track_id": 3064377,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/f/6/5/9/f/af659fc467eed3cec93ec17bc5f16001.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/f/6/5/9/f/af659fc467eed3cec93ec17bc5f16001.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Stress Management",
+    "display_title": "Stress Management",
+    "track": "Calming Music Sanctuary - Stress Management",
+    "length": 197,
+    "duration": 197,
+    "started": 1726527903,
+    "type": "track",
+    "track_id": 2922014,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Majestic Sleep",
+    "display_artist": "Majestic Sleep",
+    "title": "Vast Surroundings",
+    "display_title": "Vast Surroundings",
+    "track": "Majestic Sleep - Vast Surroundings",
+    "length": 193,
+    "duration": 193,
+    "started": 1726528100,
+    "type": "track",
+    "track_id": 3064381,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/b/a/7/7/cfba77befcd7137a7446002e17484cce.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/b/a/7/7/cfba77befcd7137a7446002e17484cce.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Anti Stress Music Zone",
+    "display_artist": "Anti Stress Music Zone",
+    "title": "Stress Management",
+    "display_title": "Stress Management",
+    "track": "Anti Stress Music Zone - Stress Management",
+    "length": 196,
+    "duration": 196,
+    "started": 1726528710,
+    "type": "track",
+    "track_id": 2921996,
+    "release": "Zen Music: My Way of Relaxing - Healing Sounds of Nature to De-Stress, Relax & Rest, Nice Soothing Music to Feel Better",
+    "art_url": "//cdn-images.audioaddict.com/7/5/8/2/a/c/7582ac097aba1f2a8d2c655e2d3daae7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/8/2/a/c/7582ac097aba1f2a8d2c655e2d3daae7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Deep Sleep Music Maestro",
+    "display_artist": "Deep Sleep Music Maestro",
+    "title": "Dalailama (Meditation Music)",
+    "display_title": "Dalailama (Meditation Music)",
+    "track": "Deep Sleep Music Maestro - Dalailama (Meditation Music)",
+    "length": 207,
+    "duration": 207,
+    "started": 1726528906,
+    "type": "track",
+    "track_id": 2922019,
+    "release": "Keep Calm: Soothing Music for Relax – Sounds for Trouble Sleeping, Healing Insomnia, Nature Sounds, Meditation & SPA Dreaming",
+    "art_url": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "New Age Anti Stress Universe",
+    "display_artist": "New Age Anti Stress Universe",
+    "title": "Enjoy Nature and Creativity",
+    "display_title": "Enjoy Nature and Creativity",
+    "track": "New Age Anti Stress Universe - Enjoy Nature and Creativity",
+    "length": 221,
+    "duration": 221,
+    "started": 1726529114,
+    "type": "track",
+    "track_id": 2922042,
+    "release": "Totally Stress Free – Soothing Sounds of Nature, Breathing Techniques for Calm Down, Peaceful Contemplation",
+    "art_url": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Elise Magnefold",
+    "display_artist": "Elise Magnefold",
+    "title": "Little Things",
+    "display_title": "Little Things",
+    "track": "Elise Magnefold - Little Things",
+    "length": 190,
+    "duration": 190,
+    "started": 1726529695,
+    "type": "track",
+    "track_id": 3062284,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/f/1/c/0/9/1f1c0994c9eb8b1a5a6f22dc98f306d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/1/c/0/9/1f1c0994c9eb8b1a5a6f22dc98f306d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Zen Life Relax",
+    "display_artist": "Zen Life Relax",
+    "title": "Power of Presence",
+    "display_title": "Power of Presence",
+    "track": "Zen Life Relax - Power of Presence",
+    "length": 1885,
+    "duration": 1885,
+    "started": 1726529884,
+    "type": "track",
+    "track_id": 2990609,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/7/2/5/8/f/27258fec46bec26bf49379c23c6f8e90.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/2/5/8/f/27258fec46bec26bf49379c23c6f8e90.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Patrick O'Hearn",
+    "display_artist": "Patrick O'Hearn",
+    "title": "A Lovely Place to Be",
+    "display_title": "A Lovely Place to Be",
+    "track": "Patrick O'Hearn - A Lovely Place to Be",
+    "length": 528,
+    "duration": 528,
+    "started": 1726531766,
+    "type": "track",
+    "track_id": 825092,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/3/8/e/9/6/f38e963cd2d8240651a715a8aac23b42.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/8/e/9/6/f38e963cd2d8240651a715a8aac23b42.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Meditation Music Spa Maestro",
+    "display_artist": "Mindfulness Meditation Music Spa Maestro",
+    "title": "Hot Stones Bliss",
+    "display_title": "Hot Stones Bliss",
+    "track": "Mindfulness Meditation Music Spa Maestro - Hot Stones Bliss",
+    "length": 230,
+    "duration": 230,
+    "started": 1726532510,
+    "type": "track",
+    "track_id": 2922036,
+    "release": "111 Anti-stress Relaxing Music: Mindfulness Meditation, Nature Sounds, Yoga, Reiki, Spa Massage, Healing White Noise",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Eleonora Feldt",
+    "display_artist": "Eleonora Feldt",
+    "title": "Ljusa Drömmar",
+    "display_title": "Ljusa Drömmar",
+    "track": "Eleonora Feldt - Ljusa Drömmar",
+    "length": 159,
+    "duration": 159,
+    "started": 1726532741,
+    "type": "track",
+    "track_id": 3075180,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/4/8/5/2/6/548526d116506ee08a55e59b7ecb3521.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/4/8/5/2/6/548526d116506ee08a55e59b7ecb3521.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Magnetic Moments",
+    "display_title": "Magnetic Moments",
+    "track": "Calming Music Sanctuary - Magnetic Moments",
+    "length": 199,
+    "duration": 199,
+    "started": 1726533130,
+    "type": "track",
+    "track_id": 2922006,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Arush Mandal",
+    "display_artist": "Arush Mandal",
+    "title": "Path to Sleep",
+    "display_title": "Path to Sleep",
+    "track": "Arush Mandal - Path to Sleep",
+    "length": 184,
+    "duration": 184,
+    "started": 1726533329,
+    "type": "track",
+    "track_id": 3064368,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/7/4/5/a/d/4745ad365657cdbcbb791c5380e3f1fa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/7/4/5/a/d/4745ad365657cdbcbb791c5380e3f1fa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Meditation Music Spa Maestro",
+    "display_artist": "Mindfulness Meditation Music Spa Maestro",
+    "title": "Finding Bliss",
+    "display_title": "Finding Bliss",
+    "track": "Mindfulness Meditation Music Spa Maestro - Finding Bliss",
+    "length": 185,
+    "duration": 185,
+    "started": 1726535112,
+    "type": "track",
+    "track_id": 2922031,
+    "release": "111 Anti-stress Relaxing Music: Mindfulness Meditation, Nature Sounds, Yoga, Reiki, Spa Massage, Healing White Noise",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Elise Magnefold",
+    "display_artist": "Elise Magnefold",
+    "title": "Believe You Can",
+    "display_title": "Believe You Can",
+    "track": "Elise Magnefold - Believe You Can",
+    "length": 211,
+    "duration": 211,
+    "started": 1726535297,
+    "type": "track",
+    "track_id": 3062441,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/f/1/c/0/9/1f1c0994c9eb8b1a5a6f22dc98f306d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/1/c/0/9/1f1c0994c9eb8b1a5a6f22dc98f306d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Deep Space Journey",
+    "display_title": "Deep Space Journey",
+    "track": "Blue Wave Studio - Deep Space Journey",
+    "length": 660,
+    "duration": 660,
+    "started": 1726535508,
+    "type": "track",
+    "track_id": 3044794,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/c/7/3/5/9/cc73591084517d3b1a66b3f3f2104442.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/c/7/3/5/9/cc73591084517d3b1a66b3f3f2104442.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "EON NOIRE",
+    "display_artist": "EON NOIRE",
+    "title": "Redemption",
+    "display_title": "Redemption",
+    "track": "EON NOIRE - Redemption",
+    "length": 157,
+    "duration": 157,
+    "started": 1726536168,
+    "type": "track",
+    "track_id": 3066309,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/5/b/2/c/cb5b2cfcad486fa491087f5f65cbb0b5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/5/b/2/c/cb5b2cfcad486fa491087f5f65cbb0b5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Dream With Waterfall",
+    "display_title": "Dream With Waterfall",
+    "track": "Blue Wave Studio - Dream With Waterfall",
+    "length": 477,
+    "duration": 477,
+    "started": 1726536324,
+    "type": "track",
+    "track_id": 3081721,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/1/f/a/b/2/21fab2ab742f0bb4ff853e04840a5de1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/1/f/a/b/2/21fab2ab742f0bb4ff853e04840a5de1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Kollen",
+    "display_artist": "Kollen",
+    "title": "Volante (Piano Mix)",
+    "display_title": "Volante (Piano Mix)",
+    "track": "Kollen - Volante (Piano Mix)",
+    "length": 216,
+    "duration": 216,
+    "started": 1726536800,
+    "type": "track",
+    "track_id": 3062447,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/1/7/9/5/1/5179510e427afa667c950f7e55d22114.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/7/9/5/1/5179510e427afa667c950f7e55d22114.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Sleeping Stars",
+    "display_title": "Sleeping Stars",
+    "track": "Blue Wave Studio - Sleeping Stars",
+    "length": 662,
+    "duration": 662,
+    "started": 1726539074,
+    "type": "track",
+    "track_id": 3044799,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/c/b/0/d/86cb0dd77544b902e823b447350bf3a0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/c/b/0/d/86cb0dd77544b902e823b447350bf3a0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Poemme",
+    "display_artist": "Poemme",
+    "title": "Watchful Chickadee",
+    "display_title": "Watchful Chickadee",
+    "track": "Poemme - Watchful Chickadee",
+    "length": 491,
+    "duration": 491,
+    "started": 1726539736,
+    "type": "track",
+    "track_id": 2977086,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/2/2/8/7/0/f228702971b1853842d8b8a38e483113.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/2/2/8/7/0/f228702971b1853842d8b8a38e483113.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Solarsoul & Vasily Dvortsov",
+    "display_artist": "Solarsoul & Vasily Dvortsov",
+    "title": "Secret Night",
+    "display_title": "Secret Night",
+    "track": "Solarsoul & Vasily Dvortsov - Secret Night",
+    "length": 220,
+    "duration": 220,
+    "started": 1726540222,
+    "type": "track",
+    "track_id": 3089078,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/f/9/c/c/7/cf9cc7dff9f9b3a3aaa4cb6ea5e1d69c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/f/9/c/c/7/cf9cc7dff9f9b3a3aaa4cb6ea5e1d69c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Peder B. Helland",
+    "display_artist": "Peder B. Helland",
+    "title": "Peaceful Day",
+    "display_title": "Peaceful Day",
+    "track": "Peder B. Helland - Peaceful Day",
+    "length": 535,
+    "duration": 535,
+    "started": 1726540442,
+    "type": "track",
+    "track_id": 3082448,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/e/4/3/6/f/5e436febc9b2712b74fc89577cfe9fb1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Divinioso",
+    "display_artist": "Divinioso",
+    "title": "Crystal Rainbow",
+    "display_title": "Crystal Rainbow",
+    "track": "Divinioso - Crystal Rainbow",
+    "length": 219,
+    "duration": 219,
+    "started": 1726541987,
+    "type": "track",
+    "track_id": 3064372,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/d/4/1/b/cbd41bedb6988e6d81fdff80fdec00cc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/d/4/1/b/cbd41bedb6988e6d81fdff80fdec00cc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Be Still",
+    "display_title": "Be Still",
+    "track": "David Arkenstone - Be Still",
+    "length": 431,
+    "duration": 431,
+    "started": 1726542201,
+    "type": "track",
+    "track_id": 3062343,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/3/e/3/9/d/43e39d7d82ed080c9d8462d59109095c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/e/3/9/d/43e39d7d82ed080c9d8462d59109095c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Pranayama Training",
+    "display_title": "Pranayama Training",
+    "track": "Calming Music Sanctuary - Pranayama Training",
+    "length": 211,
+    "duration": 211,
+    "started": 1726542633,
+    "type": "track",
+    "track_id": 2922012,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Amaranth Cove",
+    "display_artist": "Amaranth Cove",
+    "title": "Envision",
+    "display_title": "Envision",
+    "track": "Amaranth Cove - Envision",
+    "length": 159,
+    "duration": 159,
+    "started": 1726542844,
+    "type": "track",
+    "track_id": 3064366,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/3/1/3/e/cb313e1bd2989b18a650e2847eb586e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/3/1/3/e/cb313e1bd2989b18a650e2847eb586e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "David Wahler",
+    "display_artist": "David Wahler",
+    "title": "Ginkgo Creek",
+    "display_title": "Ginkgo Creek",
+    "track": "David Wahler - Ginkgo Creek",
+    "length": 446,
+    "duration": 446,
+    "started": 1726544243,
+    "type": "track",
+    "track_id": 3062351,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/2/f/0/7/f/62f07f0ac6de9a5680629daa3d41ac5f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/2/f/0/7/f/62f07f0ac6de9a5680629daa3d41ac5f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "With the Winds",
+    "display_title": "With the Winds",
+    "track": "Yellow Brick Cinema - With the Winds",
+    "length": 3606,
+    "duration": 3606,
+    "started": 1726544685,
+    "type": "track",
+    "track_id": 3064361,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/d/e/a/c/d/bdeacdf2bc8f9146a8a4a9301cf81a72.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/e/a/c/d/bdeacdf2bc8f9146a8a4a9301cf81a72.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Meditative Mind",
+    "display_artist": "Meditative Mind",
+    "title": "963Hz + 852Hz + 639Hz - Activate Pineal Gland - Open Third Eye - Heal Heart Chakra",
+    "display_title": "963Hz + 852Hz + 639Hz - Activate Pineal Gland - Open Third Eye - Heal Heart Chakra",
+    "track": "Meditative Mind - 963Hz + 852Hz + 639Hz - Activate Pineal Gland - Open Third Eye - Heal Heart Chakra",
+    "length": 4270,
+    "duration": 4270,
+    "started": 1726548290,
+    "type": "track",
+    "track_id": 2943924,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/7/9/f/2/2879f2981035c89ddc4fffcf8cc1ca46.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/7/9/f/2/2879f2981035c89ddc4fffcf8cc1ca46.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Kamal",
+    "display_artist": "Kamal",
+    "title": "Spreading Out The Energy",
+    "display_title": "Spreading Out The Energy",
+    "track": "Kamal - Spreading Out The Energy",
+    "length": 455,
+    "duration": 455,
+    "started": 1726552561,
+    "type": "track",
+    "track_id": 2773113,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/a/2/8/8/5/aa288523a0c911cd22705f6d607c2a71.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/a/2/8/8/5/aa288523a0c911cd22705f6d607c2a71.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Peter Kater",
+    "display_artist": "Peter Kater",
+    "title": "Inocente (Sleep Of Trust)",
+    "display_title": "Inocente (Sleep Of Trust)",
+    "track": "Peter Kater - Inocente (Sleep Of Trust)",
+    "length": 330,
+    "duration": 330,
+    "started": 1726553015,
+    "type": "track",
+    "track_id": 38633,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/3/e/1/c/3/13e1c31bf789b7011e4b840738b8e031.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/e/1/c/3/13e1c31bf789b7011e4b840738b8e031.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "New Age Anti Stress Universe",
+    "display_artist": "New Age Anti Stress Universe",
+    "title": "Lost in Serenity",
+    "display_title": "Lost in Serenity",
+    "track": "New Age Anti Stress Universe - Lost in Serenity",
+    "length": 223,
+    "duration": 223,
+    "started": 1726553347,
+    "type": "track",
+    "track_id": 2922044,
+    "release": "Totally Stress Free – Soothing Sounds of Nature, Breathing Techniques for Calm Down, Peaceful Contemplation",
+    "art_url": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Zen & Massage",
+    "display_title": "Zen & Massage",
+    "track": "Tranquility Spa Universe - Zen & Massage",
+    "length": 264,
+    "duration": 264,
+    "started": 1726553793,
+    "type": "track",
+    "track_id": 2920887,
+    "release": "The Best of Spa Music: 50 Relaxing Tracks Pure Nature, Healing, Inner Peace, Total Relaxation, Ultimate Wellness Center Sounds, Sleep & Massage",
+    "art_url": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Relaxed Mind",
+    "display_artist": "Relaxed Mind",
+    "title": "Oceans of Magic",
+    "display_title": "Oceans of Magic",
+    "track": "Relaxed Mind - Oceans of Magic",
+    "length": 433,
+    "duration": 433,
+    "started": 1726554056,
+    "type": "track",
+    "track_id": 3082450,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Angels Gather",
+    "display_title": "Angels Gather",
+    "track": "Niall - Angels Gather",
+    "length": 582,
+    "duration": 582,
+    "started": 1726554490,
+    "type": "track",
+    "track_id": 2924243,
+    "release": "Reiki Healing Music",
+    "art_url": "//cdn-images.audioaddict.com/f/d/b/2/0/5/fdb205f5a525bba45ca4196df62fd369.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/b/2/0/5/fdb205f5a525bba45ca4196df62fd369.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Native American Music Consort",
+    "display_artist": "Native American Music Consort",
+    "title": "Dances with Wolves",
+    "display_title": "Dances with Wolves",
+    "track": "Native American Music Consort - Dances with Wolves",
+    "length": 226,
+    "duration": 226,
+    "started": 1726555067,
+    "type": "track",
+    "track_id": 2916029,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/1/4/0/4/9b1404cc917fcdd3678689f1a86091c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/1/4/0/4/9b1404cc917fcdd3678689f1a86091c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Powerful Relaxation Practices",
+    "display_title": "Powerful Relaxation Practices",
+    "track": "Calming Music Sanctuary - Powerful Relaxation Practices",
+    "length": 199,
+    "duration": 199,
+    "started": 1726555293,
+    "type": "track",
+    "track_id": 2922011,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Native American Music Consort",
+    "display_artist": "Native American Music Consort",
+    "title": "Quiet Night 2",
+    "display_title": "Quiet Night 2",
+    "track": "Native American Music Consort - Quiet Night 2",
+    "length": 204,
+    "duration": 204,
+    "started": 1726555494,
+    "type": "track",
+    "track_id": 2916135,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/1/4/0/4/9b1404cc917fcdd3678689f1a86091c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/1/4/0/4/9b1404cc917fcdd3678689f1a86091c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Relaxed Mind",
+    "display_artist": "Relaxed Mind",
+    "title": "Temple of Peace",
+    "display_title": "Temple of Peace",
+    "track": "Relaxed Mind - Temple of Peace",
+    "length": 470,
+    "duration": 470,
+    "started": 1726556446,
+    "type": "track",
+    "track_id": 3082451,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "The Here And Now",
+    "display_title": "The Here And Now",
+    "track": "David Arkenstone - The Here And Now",
+    "length": 468,
+    "duration": 468,
+    "started": 1726557120,
+    "type": "track",
+    "track_id": 3062346,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/9/b/8/4/0/69b840d1c1604e1a7885eb124f580e08.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/b/8/4/0/69b840d1c1604e1a7885eb124f580e08.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calm Pregnancy Music Academy",
+    "display_artist": "Calm Pregnancy Music Academy",
+    "title": "Expecting a Miracle",
+    "display_title": "Expecting a Miracle",
+    "track": "Calm Pregnancy Music Academy - Expecting a Miracle",
+    "length": 232,
+    "duration": 232,
+    "started": 1726557588,
+    "type": "track",
+    "track_id": 2921997,
+    "release": "50 Prenatal Yoga Music – Pregnancy Music for Delivery and Labor, Future Baby and Future Mom, Hypnotherapy Birthing",
+    "art_url": "//cdn-images.audioaddict.com/4/2/8/6/3/1/4286315e047256de2ba8dbf937100445.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/8/6/3/1/4286315e047256de2ba8dbf937100445.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Christopher Lloyd Clarke",
+    "display_artist": "Christopher Lloyd Clarke",
+    "title": "Daydreams",
+    "display_title": "Daydreams",
+    "track": "Christopher Lloyd Clarke - Daydreams",
+    "length": 1980,
+    "duration": 1980,
+    "started": 1726557820,
+    "type": "track",
+    "track_id": 126653,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/f/7/a/8/f/8f7a8fd4f5cf54d944f4370aa0b0677b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/7/a/8/f/8f7a8fd4f5cf54d944f4370aa0b0677b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Portrait of Nature",
+    "display_artist": "Portrait of Nature",
+    "title": "Watercolor",
+    "display_title": "Watercolor",
+    "track": "Portrait of Nature - Watercolor",
+    "length": 247,
+    "duration": 247,
+    "started": 1726559794,
+    "type": "track",
+    "track_id": 3062392,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/0/5/c/3/3/f05c33d06e0a7abf1a40d1c4bc8be6bc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/0/5/c/3/3/f05c33d06e0a7abf1a40d1c4bc8be6bc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Zen Life Relax",
+    "display_artist": "Zen Life Relax",
+    "title": "639 Hz - Relaxing Water Stream",
+    "display_title": "639 Hz - Relaxing Water Stream",
+    "track": "Zen Life Relax - 639 Hz - Relaxing Water Stream",
+    "length": 1871,
+    "duration": 1871,
+    "started": 1726560037,
+    "type": "track",
+    "track_id": 2990607,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/3/a/a/f/3/13aaf303c3da9196e556d4d98ccab460.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/a/a/f/3/13aaf303c3da9196e556d4d98ccab460.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "oh, the joy.",
+    "display_artist": "oh, the joy.",
+    "title": "Floating Through Skies",
+    "display_title": "Floating Through Skies",
+    "track": "oh, the joy. - Floating Through Skies",
+    "length": 194,
+    "duration": 194,
+    "started": 1726561907,
+    "type": "track",
+    "track_id": 3044691,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/0/b/4/f/b/a0b4fbeb2e0cc7ccae67697e05d966e0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/0/b/4/f/b/a0b4fbeb2e0cc7ccae67697e05d966e0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Dan Gibson's Solitudes",
+    "display_artist": "Dan Gibson's Solitudes",
+    "title": "Midnight Blue",
+    "display_title": "Midnight Blue",
+    "track": "Dan Gibson's Solitudes - Midnight Blue",
+    "length": 445,
+    "duration": 445,
+    "started": 1726562338,
+    "type": "track",
+    "track_id": 3091839,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/c/9/3/4/d/5c934daf01826e9d41fa5b37c8daaf3e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/9/3/4/d/5c934daf01826e9d41fa5b37c8daaf3e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "The Best of Spa Music",
+    "display_title": "The Best of Spa Music",
+    "track": "Tranquility Spa Universe - The Best of Spa Music",
+    "length": 216,
+    "duration": 216,
+    "started": 1726565578,
+    "type": "track",
+    "track_id": 2920886,
+    "release": "The Best of Spa Music: 50 Relaxing Tracks Pure Nature, Healing, Inner Peace, Total Relaxation, Ultimate Wellness Center Sounds, Sleep & Massage",
+    "art_url": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/6/1/3/b/f8613b28199aa1a075fe13959b0431d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Moments of Clarity",
+    "display_artist": "Moments of Clarity",
+    "title": "Matterhorn Mountain",
+    "display_title": "Matterhorn Mountain",
+    "track": "Moments of Clarity - Matterhorn Mountain",
+    "length": 214,
+    "duration": 214,
+    "started": 1726565793,
+    "type": "track",
+    "track_id": 3015566,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/1/f/f/1/8/61ff18a9a8f3824fa42ff11277943dd2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/1/f/f/1/8/61ff18a9a8f3824fa42ff11277943dd2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Helios Relaxing Space",
+    "display_artist": "Helios Relaxing Space",
+    "title": "Starry Night (No sounds of nature)",
+    "display_title": "Starry Night (No sounds of nature)",
+    "track": "Helios Relaxing Space - Starry Night (No sounds of nature)",
+    "length": 226,
+    "duration": 226,
+    "started": 1726566004,
+    "type": "track",
+    "track_id": 3091842,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/0/b/5/3/f/30b53ffa3d6c699137386c3a3fa19770.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/b/5/3/f/30b53ffa3d6c699137386c3a3fa19770.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Healing Tree Music",
+    "display_artist": "Healing Tree Music",
+    "title": "Relaxing piano music #5 (30min)",
+    "display_title": "Relaxing piano music #5 (30min)",
+    "track": "Healing Tree Music - Relaxing piano music #5 (30min)",
+    "length": 1815,
+    "duration": 1815,
+    "started": 1726566232,
+    "type": "track",
+    "track_id": 2929973,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/8/e/7/d/918e7db3c01961a8e05f7d4fa28b9a47.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/8/e/7/d/918e7db3c01961a8e05f7d4fa28b9a47.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Comfortable Zone",
+    "display_title": "Comfortable Zone",
+    "track": "Calming Music Sanctuary - Comfortable Zone",
+    "length": 212,
+    "duration": 212,
+    "started": 1726568046,
+    "type": "track",
+    "track_id": 2922002,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "Hearts Awakening",
+    "display_title": "Hearts Awakening",
+    "track": "Parijat - Hearts Awakening",
+    "length": 420,
+    "duration": 420,
+    "started": 1726568600,
+    "type": "track",
+    "track_id": 359638,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/d/b/c/c/d/ddbccd3d315ae89f151848efcb9571ca.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Native American Music Consort",
+    "display_artist": "Native American Music Consort",
+    "title": "Better Concentration",
+    "display_title": "Better Concentration",
+    "track": "Native American Music Consort - Better Concentration",
+    "length": 212,
+    "duration": 212,
+    "started": 1726569019,
+    "type": "track",
+    "track_id": 2916010,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/b/2/f/c/3/6b2fc32ff0b8d132287e08b7648ad5c8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/2/f/c/3/6b2fc32ff0b8d132287e08b7648ad5c8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Sounds of Nature Kingdom",
+    "display_artist": "Sounds of Nature Kingdom",
+    "title": "Sweet Emotions",
+    "display_title": "Sweet Emotions",
+    "track": "Sounds of Nature Kingdom - Sweet Emotions",
+    "length": 192,
+    "duration": 192,
+    "started": 1726569231,
+    "type": "track",
+    "track_id": 2920870,
+    "release": "Relaxing Guitar Songs with Nature Music: Stress Free Therapy, Deep Sleep, Zen Massage, Yoga Exercises, Pure Meditation Music Ambient",
+    "art_url": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/e/3/9/9/e/6e399ebf0213f1dc3b9e7bb8891335af.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Relaxed Mind",
+    "display_artist": "Relaxed Mind",
+    "title": "Rest Day",
+    "display_title": "Rest Day",
+    "track": "Relaxed Mind - Rest Day",
+    "length": 371,
+    "duration": 371,
+    "started": 1726569423,
+    "type": "track",
+    "track_id": 3087831,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/e/d/7/c/98ed7cc8971424157dd59e5d199a38e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Longer Shades",
+    "display_title": "Longer Shades",
+    "track": "Blue Wave Studio - Longer Shades",
+    "length": 605,
+    "duration": 605,
+    "started": 1726569795,
+    "type": "track",
+    "track_id": 3076629,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/0/f/e/3/3/90fe33e6ba8f8b3b5b0b393c591aab06.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/f/e/3/3/90fe33e6ba8f8b3b5b0b393c591aab06.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "oh, the joy.",
+    "display_artist": "oh, the joy.",
+    "title": "Gentle Slumber",
+    "display_title": "Gentle Slumber",
+    "track": "oh, the joy. - Gentle Slumber",
+    "length": 192,
+    "duration": 192,
+    "started": 1726570603,
+    "type": "track",
+    "track_id": 3062276,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/7/c/0/9/1/07c091859c3b4964e4f3be2c27b8f811.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/c/0/9/1/07c091859c3b4964e4f3be2c27b8f811.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Music Guys",
+    "display_artist": "Mindfulness Music Guys",
+    "title": "Stress Free",
+    "display_title": "Stress Free",
+    "track": "Mindfulness Music Guys - Stress Free",
+    "length": 163,
+    "duration": 163,
+    "started": 1726570791,
+    "type": "track",
+    "track_id": 2922039,
+    "release": "Stimulate Your Brain: Calm Music for Studying and Reading, Deep Concentration, Focus on Learning",
+    "art_url": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Healing Tree Music",
+    "display_artist": "Healing Tree Music",
+    "title": "Ocean waves relaxing sleep music #1 (30min)",
+    "display_title": "Ocean waves relaxing sleep music #1 (30min)",
+    "track": "Healing Tree Music - Ocean waves relaxing sleep music #1 (30min)",
+    "length": 1861,
+    "duration": 1861,
+    "started": 1726570954,
+    "type": "track",
+    "track_id": 2929970,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/6/3/0/1/3/163013f96e2163fa0d1a0fcb1ab6b7d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/3/0/1/3/163013f96e2163fa0d1a0fcb1ab6b7d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Magical Garden",
+    "display_title": "Magical Garden",
+    "track": "Tranquility Spa Universe - Magical Garden",
+    "length": 212,
+    "duration": 212,
+    "started": 1726572814,
+    "type": "track",
+    "track_id": 2922062,
+    "release": "Top of 2018: Spa Best Selection, Relaxation, Deep Breathing, Anti-Stress Music",
+    "art_url": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Deep Sleep Music Maestro",
+    "display_artist": "Deep Sleep Music Maestro",
+    "title": "Spring Birds Tweet (Sparrow)",
+    "display_title": "Spring Birds Tweet (Sparrow)",
+    "track": "Deep Sleep Music Maestro - Spring Birds Tweet (Sparrow)",
+    "length": 182,
+    "duration": 182,
+    "started": 1726573247,
+    "type": "track",
+    "track_id": 2922024,
+    "release": "Keep Calm: Soothing Music for Relax – Sounds for Trouble Sleeping, Healing Insomnia, Nature Sounds, Meditation & SPA Dreaming",
+    "art_url": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Tranquility Spa Universe",
+    "display_artist": "Tranquility Spa Universe",
+    "title": "Irish Chillout",
+    "display_title": "Irish Chillout",
+    "track": "Tranquility Spa Universe - Irish Chillout",
+    "length": 212,
+    "duration": 212,
+    "started": 1726573584,
+    "type": "track",
+    "track_id": 2922061,
+    "release": "Top of 2018: Spa Best Selection, Relaxation, Deep Breathing, Anti-Stress Music",
+    "art_url": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindland",
+    "display_artist": "Mindland",
+    "title": "Moments",
+    "display_title": "Moments",
+    "track": "Mindland - Moments",
+    "length": 199,
+    "duration": 199,
+    "started": 1726577759,
+    "type": "track",
+    "track_id": 3062456,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/3/3/b/1/c/b33b1c2416094e13f449f4541362703e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/3/b/1/c/b33b1c2416094e13f449f4541362703e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Music Guys",
+    "display_artist": "Mindfulness Music Guys",
+    "title": "Concentration Music for Reading",
+    "display_title": "Concentration Music for Reading",
+    "track": "Mindfulness Music Guys - Concentration Music for Reading",
+    "length": 229,
+    "duration": 229,
+    "started": 1726579150,
+    "type": "track",
+    "track_id": 2913641,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Amaranth Cove",
+    "display_artist": "Amaranth Cove",
+    "title": "No Good Byes",
+    "display_title": "No Good Byes",
+    "track": "Amaranth Cove - No Good Byes",
+    "length": 165,
+    "duration": 165,
+    "started": 1726579379,
+    "type": "track",
+    "track_id": 2977553,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/3/1/3/e/cb313e1bd2989b18a650e2847eb586e8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/3/1/3/e/cb313e1bd2989b18a650e2847eb586e8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Deep Sleep Music Maestro",
+    "display_artist": "Deep Sleep Music Maestro",
+    "title": "Dream Catcher",
+    "display_title": "Dream Catcher",
+    "track": "Deep Sleep Music Maestro - Dream Catcher",
+    "length": 170,
+    "duration": 170,
+    "started": 1726579940,
+    "type": "track",
+    "track_id": 2922020,
+    "release": "Keep Calm: Soothing Music for Relax – Sounds for Trouble Sleeping, Healing Insomnia, Nature Sounds, Meditation & SPA Dreaming",
+    "art_url": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nature Healing Society",
+    "display_artist": "Nature Healing Society",
+    "title": "432Hz Harmonious Horizons",
+    "display_title": "432Hz Harmonious Horizons",
+    "track": "Nature Healing Society - 432Hz Harmonious Horizons",
+    "length": 331,
+    "duration": 331,
+    "started": 1726581541,
+    "type": "track",
+    "track_id": 3091845,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/0/d/4/d/b/c0d4db6772bbb7f3e088563f2afde077.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/d/4/d/b/c0d4db6772bbb7f3e088563f2afde077.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Jay Belshaw",
+    "display_artist": "Jay Belshaw",
+    "title": "Manakau",
+    "display_title": "Manakau",
+    "track": "Jay Belshaw - Manakau",
+    "length": 191,
+    "duration": 191,
+    "started": 1726581870,
+    "type": "track",
+    "track_id": 3087815,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/8/d/5/4/7/98d547ab428f424e093210d82bcddb30.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/8/d/5/4/7/98d547ab428f424e093210d82bcddb30.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Zen Life Relax",
+    "display_artist": "Zen Life Relax",
+    "title": "432Hz Healing Tone - Deep Energy Cleanse & Relaxation",
+    "display_title": "432Hz Healing Tone - Deep Energy Cleanse & Relaxation",
+    "track": "Zen Life Relax - 432Hz Healing Tone - Deep Energy Cleanse & Relaxation",
+    "length": 2017,
+    "duration": 2017,
+    "started": 1726582062,
+    "type": "track",
+    "track_id": 2931248,
+    "release": "432 Hz Miracle Tone: Ancient Healing Frequency Music",
+    "art_url": "//cdn-images.audioaddict.com/a/b/1/d/1/0/ab1d105427706f408491ad9f1e07a162.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/1/d/1/0/ab1d105427706f408491ad9f1e07a162.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mark Hutson",
+    "display_artist": "Mark Hutson",
+    "title": "Relaxing Ambient Piano Music For Deep Sleeping Relaxing Stress Relief Spa And Massage (High Quality)",
+    "display_title": "Relaxing Ambient Piano Music For Deep Sleeping Relaxing Stress Relief Spa And Massage (High Quality)",
+    "track": "Mark Hutson - Relaxing Ambient Piano Music For Deep Sleeping Relaxing Stress Relief Spa And Massage (High Quality)",
+    "length": 1968,
+    "duration": 1968,
+    "started": 1726584073,
+    "type": "track",
+    "track_id": 2966652,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/0/6/2/5/d/90625d6ba18b6a125e83c3c0d2a160a3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/0/6/2/5/d/90625d6ba18b6a125e83c3c0d2a160a3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Parijat",
+    "display_artist": "Parijat",
+    "title": "May Love Embrace You",
+    "display_title": "May Love Embrace You",
+    "track": "Parijat - May Love Embrace You",
+    "length": 411,
+    "duration": 411,
+    "started": 1726586042,
+    "type": "track",
+    "track_id": 3064357,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/5/9/4/6/c/c5946c483fbb9d463cbe5879757157d4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/9/4/6/c/c5946c483fbb9d463cbe5879757157d4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "New Age Anti Stress Universe",
+    "display_artist": "New Age Anti Stress Universe",
+    "title": "State of Consciousness",
+    "display_title": "State of Consciousness",
+    "track": "New Age Anti Stress Universe - State of Consciousness",
+    "length": 221,
+    "duration": 221,
+    "started": 1726586451,
+    "type": "track",
+    "track_id": 2922046,
+    "release": "Totally Stress Free – Soothing Sounds of Nature, Breathing Techniques for Calm Down, Peaceful Contemplation",
+    "art_url": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/b/3/b/2/8fb3b2ffa6a6ca985a96b30a989369ae.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Celtic Chillout Relaxation Academy",
+    "display_artist": "Celtic Chillout Relaxation Academy",
+    "title": "Rain Hipnose",
+    "display_title": "Rain Hipnose",
+    "track": "Celtic Chillout Relaxation Academy - Rain Hipnose",
+    "length": 217,
+    "duration": 217,
+    "started": 1726587081,
+    "type": "track",
+    "track_id": 2922015,
+    "release": "Top of 2018: Spa Best Selection, Relaxation, Deep Breathing, Anti-Stress Music",
+    "art_url": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/2/3/3/7/e/b2337e025b8b75e48ca4b5709814cb50.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Calming Flute Music",
+    "display_title": "Calming Flute Music",
+    "track": "Yellow Brick Cinema - Calming Flute Music",
+    "length": 1200,
+    "duration": 1200,
+    "started": 1726589353,
+    "type": "track",
+    "track_id": 2931243,
+    "release": "Sounds of Bliss",
+    "art_url": "//cdn-images.audioaddict.com/8/3/6/8/4/0/836840b0edc21bed3d4c7275fedf6551.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/6/8/4/0/836840b0edc21bed3d4c7275fedf6551.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Meditation Music Spa Maestro",
+    "display_artist": "Mindfulness Meditation Music Spa Maestro",
+    "title": "High in the Mountains",
+    "display_title": "High in the Mountains",
+    "track": "Mindfulness Meditation Music Spa Maestro - High in the Mountains",
+    "length": 180,
+    "duration": 180,
+    "started": 1726590743,
+    "type": "track",
+    "track_id": 2922035,
+    "release": "111 Anti-stress Relaxing Music: Mindfulness Meditation, Nature Sounds, Yoga, Reiki, Spa Massage, Healing White Noise",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Boost Your Energy",
+    "display_title": "Boost Your Energy",
+    "track": "Calming Music Sanctuary - Boost Your Energy",
+    "length": 269,
+    "duration": 269,
+    "started": 1726593002,
+    "type": "track",
+    "track_id": 2922001,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "We Dream of Eden",
+    "display_artist": "We Dream of Eden",
+    "title": "Into Your Hands",
+    "display_title": "Into Your Hands",
+    "track": "We Dream of Eden - Into Your Hands",
+    "length": 204,
+    "duration": 204,
+    "started": 1726593271,
+    "type": "track",
+    "track_id": 3082456,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/1/1/e/f/9111ef8fe75e06eb28daea253cb03b18.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/1/1/e/f/9111ef8fe75e06eb28daea253cb03b18.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Calming Music Sanctuary",
+    "display_artist": "Calming Music Sanctuary",
+    "title": "Deep Breathing",
+    "display_title": "Deep Breathing",
+    "track": "Calming Music Sanctuary - Deep Breathing",
+    "length": 213,
+    "duration": 213,
+    "started": 1726593472,
+    "type": "track",
+    "track_id": 2922003,
+    "release": "Music to Relaxation Techniques & Stress Relief: Guided Imagery, Wellbeing, Ambient Therapy, Yoga Meditation Exercises, Self-Esteem",
+    "art_url": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/3/d/4/1/7c3d41ab4d7607a18ede39a66e76a522.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Peder B. Helland",
+    "display_artist": "Peder B. Helland",
+    "title": "A Long Time Ago",
+    "display_title": "A Long Time Ago",
+    "track": "Peder B. Helland - A Long Time Ago",
+    "length": 410,
+    "duration": 410,
+    "started": 1726599191,
+    "type": "track",
+    "track_id": 2943885,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/4/7/1/2/8/747128047c052be0863fe96adaea5900.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/4/7/1/2/8/747128047c052be0863fe96adaea5900.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Gentleness",
+    "display_title": "Gentleness",
+    "track": "Blue Wave Studio - Gentleness",
+    "length": 552,
+    "duration": 552,
+    "started": 1726599829,
+    "type": "track",
+    "track_id": 3076627,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/7/c/3/f/d/b7c3fd1f5bd321dd347f3e42e149e19a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/7/c/3/f/d/b7c3fd1f5bd321dd347f3e42e149e19a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Lilly of the Riverlands",
+    "display_title": "Lilly of the Riverlands",
+    "track": "Yellow Brick Cinema - Lilly of the Riverlands",
+    "length": 3605,
+    "duration": 3605,
+    "started": 1726602556,
+    "type": "track",
+    "track_id": 2920892,
+    "release": "Relaxing Spa",
+    "art_url": "//cdn-images.audioaddict.com/4/3/4/b/2/9/434b29060c7fe2cd179ee4813ce188c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/4/b/2/9/434b29060c7fe2cd179ee4813ce188c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Heart of the Winds",
+    "display_title": "Heart of the Winds",
+    "track": "Yellow Brick Cinema - Heart of the Winds",
+    "length": 3606,
+    "duration": 3606,
+    "started": 1726606159,
+    "type": "track",
+    "track_id": 2990606,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/2/a/8/0/c/a2a80cf814de8d30528ed29e55a3bedc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/2/a/8/0/c/a2a80cf814de8d30528ed29e55a3bedc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Mindfulness Music Guys",
+    "display_artist": "Mindfulness Music Guys",
+    "title": "Music to Mind Power",
+    "display_title": "Music to Mind Power",
+    "track": "Mindfulness Music Guys - Music to Mind Power",
+    "length": 165,
+    "duration": 165,
+    "started": 1726651290,
+    "type": "track",
+    "track_id": 2913649,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/0/c/1/f/0/30c1f081f3a2065df966878f9d83c57f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nessa Wright",
+    "display_artist": "Nessa Wright",
+    "title": "Sedative",
+    "display_title": "Sedative",
+    "track": "Nessa Wright - Sedative",
+    "length": 170,
+    "duration": 170,
+    "started": 1726660215,
+    "type": "track",
+    "track_id": 3091775,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/f/a/6/5/b/5fa65b4a6acae29eb5ff105210160a78.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/a/6/5/b/5fa65b4a6acae29eb5ff105210160a78.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Celinia",
+    "display_artist": "Celinia",
+    "title": "Dreaming (Ethereal Piano)",
+    "display_title": "Dreaming (Ethereal Piano)",
+    "track": "Celinia - Dreaming (Ethereal Piano)",
+    "length": 185,
+    "duration": 185,
+    "started": 1726683678,
+    "type": "track",
+    "track_id": 3064370,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/7/d/9/c/d/97d9cdaa69a2570ec81532f105de3440.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/7/d/9/c/d/97d9cdaa69a2570ec81532f105de3440.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Nessa Wright",
+    "display_artist": "Nessa Wright",
+    "title": "Limitless",
+    "display_title": "Limitless",
+    "track": "Nessa Wright - Limitless",
+    "length": 192,
+    "duration": 192,
+    "started": 1726700808,
+    "type": "track",
+    "track_id": 3091848,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/f/a/6/5/b/5fa65b4a6acae29eb5ff105210160a78.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/a/6/5/b/5fa65b4a6acae29eb5ff105210160a78.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 488,
+    "artist": "Laponia",
+    "display_artist": "Laponia",
+    "title": "Sarek",
+    "display_title": "Sarek",
+    "track": "Laponia - Sarek",
+    "length": 130,
+    "duration": 130,
+    "started": 1726789199,
+    "type": "track",
+    "track_id": 3062449,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/c/0/c/2/4/3c0c2414dc0cfbd8f21bb8da366eb5b0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/0/c/2/4/3c0c2414dc0cfbd8f21bb8da366eb5b0.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

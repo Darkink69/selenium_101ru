@@ -1,0 +1,2263 @@
+[
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Cosmic Storms",
+    "display_title": "Cosmic Storms",
+    "track": "Yellow Brick Cinema - Cosmic Storms",
+    "length": 3606,
+    "duration": 3606,
+    "started": 1726220259,
+    "type": "track",
+    "track_id": 2931406,
+    "release": "Relaxing Tibetan Meditation",
+    "art_url": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Monastery Garden",
+    "display_title": "Monastery Garden",
+    "track": "Niall - Monastery Garden",
+    "length": 321,
+    "duration": 321,
+    "started": 1726223863,
+    "type": "track",
+    "track_id": 2931386,
+    "release": "Tibet - Spiritual Journeys of the World",
+    "art_url": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Phil Thornton",
+    "display_artist": "Phil Thornton",
+    "title": "Mandala Equilibrium",
+    "display_title": "Mandala Equilibrium",
+    "track": "Phil Thornton - Mandala Equilibrium",
+    "length": 241,
+    "duration": 241,
+    "started": 1726224185,
+    "type": "track",
+    "track_id": 3093776,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Gomer Edwin Evans",
+    "display_artist": "Gomer Edwin Evans",
+    "title": "Your Himalayan Tantra",
+    "display_title": "Your Himalayan Tantra",
+    "track": "Gomer Edwin Evans - Your Himalayan Tantra",
+    "length": 596,
+    "duration": 596,
+    "started": 1726224426,
+    "type": "track",
+    "track_id": 3093761,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "Spirit of Buddhist Meditation",
+    "display_title": "Spirit of Buddhist Meditation",
+    "track": "Tibetan Meditation Academy - Spirit of Buddhist Meditation",
+    "length": 217,
+    "duration": 217,
+    "started": 1726225018,
+    "type": "track",
+    "track_id": 3065964,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/b/2/3/6/1/fb2361110b8e7383671ccd3cd8d4860a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/b/2/3/6/1/fb2361110b8e7383671ccd3cd8d4860a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Shaman's Vision",
+    "display_title": "Shaman's Vision",
+    "track": "David Arkenstone - Shaman's Vision",
+    "length": 513,
+    "duration": 513,
+    "started": 1726225234,
+    "type": "track",
+    "track_id": 2931358,
+    "release": "Deep Sleep",
+    "art_url": "//cdn-images.audioaddict.com/7/3/1/7/9/e/73179e9bc04e7cbdd4588afc3c0d0040.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/1/7/9/e/73179e9bc04e7cbdd4588afc3c0d0040.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Tibetan Dream Journey",
+    "display_title": "Tibetan Dream Journey",
+    "track": "Nawang Khechog - Tibetan Dream Journey",
+    "length": 548,
+    "duration": 548,
+    "started": 1726225748,
+    "type": "track",
+    "track_id": 2931382,
+    "release": "Tibetan Dream Journey",
+    "art_url": "//cdn-images.audioaddict.com/d/b/b/7/7/9/dbb7792a1f82da51e45b0c021adbec01.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/b/b/7/7/9/dbb7792a1f82da51e45b0c021adbec01.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tenzin Choegyal",
+    "display_artist": "Tenzin Choegyal",
+    "title": "Snow Lion",
+    "display_title": "Snow Lion",
+    "track": "Tenzin Choegyal - Snow Lion",
+    "length": 443,
+    "duration": 443,
+    "started": 1726226290,
+    "type": "track",
+    "track_id": 2931395,
+    "release": "Tibet: Awakened Heart",
+    "art_url": "//cdn-images.audioaddict.com/a/d/1/3/7/7/ad137785b1e68b736d6616e666b41245.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/1/3/7/7/ad137785b1e68b736d6616e666b41245.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Paradiso & Rasamayi",
+    "display_artist": "Paradiso & Rasamayi",
+    "title": "Love",
+    "display_title": "Love",
+    "track": "Paradiso & Rasamayi - Love",
+    "length": 323,
+    "duration": 323,
+    "started": 1726226729,
+    "type": "track",
+    "track_id": 3093775,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/0/1/7/3a90177b4f2aed54a32132b176ee7219.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/9/0/1/7/3a90177b4f2aed54a32132b176ee7219.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Fabrice Tonnellier",
+    "display_artist": "Fabrice Tonnellier",
+    "title": "Chakra sacral - la source sacrée",
+    "display_title": "Chakra sacral - la source sacrée",
+    "track": "Fabrice Tonnellier - Chakra sacral - la source sacrée",
+    "length": 531,
+    "duration": 531,
+    "started": 1726227048,
+    "type": "track",
+    "track_id": 3093757,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/3/0/d/5/4/230d54a75230acfbdfef7352e1903f54.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/0/d/5/4/230d54a75230acfbdfef7352e1903f54.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Sat-Chit",
+    "display_artist": "Sat-Chit",
+    "title": "Namaste",
+    "display_title": "Namaste",
+    "track": "Sat-Chit - Namaste",
+    "length": 379,
+    "duration": 379,
+    "started": 1726227577,
+    "type": "track",
+    "track_id": 3093784,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/e/2/d/8/e/9e2d8e56570119612beeed4e48e01b7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/2/d/8/e/9e2d8e56570119612beeed4e48e01b7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "Peace Prayer",
+    "display_title": "Peace Prayer",
+    "track": "Jeff Beal & Nawang Khechog - Peace Prayer",
+    "length": 425,
+    "duration": 425,
+    "started": 1726227958,
+    "type": "track",
+    "track_id": 2931367,
+    "release": "Tibet - Cry of the Snow Lion (Soundtrack from the Motion Picture)",
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Spiritual Moment",
+    "display_artist": "Spiritual Moment",
+    "title": "Ultra Sleep Tibetan Music",
+    "display_title": "Ultra Sleep Tibetan Music",
+    "track": "Spiritual Moment - Ultra Sleep Tibetan Music",
+    "length": 2842,
+    "duration": 2842,
+    "started": 1726449305,
+    "type": "track",
+    "track_id": 3093790,
+    "release": "Ultra Sleep Tibetan Music",
+    "art_url": "//cdn-images.audioaddict.com/6/c/c/e/4/b/6cce4beea6ed37829a92ddf0f72ccac3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/c/e/4/b/6cce4beea6ed37829a92ddf0f72ccac3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Sat-Chit",
+    "display_artist": "Sat-Chit",
+    "title": "Paz en el Alma",
+    "display_title": "Paz en el Alma",
+    "track": "Sat-Chit - Paz en el Alma",
+    "length": 475,
+    "duration": 475,
+    "started": 1726452147,
+    "type": "track",
+    "track_id": 3093785,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/e/2/d/8/e/9e2d8e56570119612beeed4e48e01b7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/2/d/8/e/9e2d8e56570119612beeed4e48e01b7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Gomer Edwin Evans",
+    "display_artist": "Gomer Edwin Evans",
+    "title": "Himalaya Peace",
+    "display_title": "Himalaya Peace",
+    "track": "Gomer Edwin Evans - Himalaya Peace",
+    "length": 969,
+    "duration": 969,
+    "started": 1726452721,
+    "type": "track",
+    "track_id": 2931362,
+    "release": "The Spirit of Tibet: Music for Meditation",
+    "art_url": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "Relaxation of Body and Mind",
+    "display_title": "Relaxation of Body and Mind",
+    "track": "Tibetan Meditation Academy - Relaxation of Body and Mind",
+    "length": 231,
+    "duration": 231,
+    "started": 1726453689,
+    "type": "track",
+    "track_id": 2931402,
+    "release": "The Source of Healing: Tibetan Music for Meditation, Zen Peaceful Mind, Sacred Spiritual Moments & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Song of Peace",
+    "display_title": "Song of Peace",
+    "track": "Niall - Song of Peace",
+    "length": 617,
+    "duration": 617,
+    "started": 1726453921,
+    "type": "track",
+    "track_id": 3065954,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Phil Thornton",
+    "display_artist": "Phil Thornton",
+    "title": "Resolution",
+    "display_title": "Resolution",
+    "track": "Phil Thornton - Resolution",
+    "length": 528,
+    "duration": 528,
+    "started": 1726454537,
+    "type": "track",
+    "track_id": 2931392,
+    "release": "Tibetan Meditation",
+    "art_url": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Mark Hutson",
+    "display_artist": "Mark Hutson",
+    "title": "Relaxing Ambient Oriental Music For Deep Sleeping Relaxing Stress Relief Spa Massage (High Quality)",
+    "display_title": "Relaxing Ambient Oriental Music For Deep Sleeping Relaxing Stress Relief Spa Massage (High Quality)",
+    "track": "Mark Hutson - Relaxing Ambient Oriental Music For Deep Sleeping Relaxing Stress Relief Spa Massage (High Quality)",
+    "length": 1807,
+    "duration": 1807,
+    "started": 1726455062,
+    "type": "track",
+    "track_id": 2931372,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/d/d/f/8/c/7ddf8cef594c03d5451f99f455a6116a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/d/d/f/8/c/7ddf8cef594c03d5451f99f455a6116a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Phil Thornton",
+    "display_artist": "Phil Thornton",
+    "title": "Lotus Dance",
+    "display_title": "Lotus Dance",
+    "track": "Phil Thornton - Lotus Dance",
+    "length": 595,
+    "duration": 595,
+    "started": 1726456868,
+    "type": "track",
+    "track_id": 2931391,
+    "release": "Tibetan Meditation",
+    "art_url": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Steven Halpern & Jorge Alfano",
+    "display_artist": "Steven Halpern & Jorge Alfano",
+    "title": "Breath of Bamboo 432 Hz",
+    "display_title": "Breath of Bamboo 432 Hz",
+    "track": "Steven Halpern & Jorge Alfano - Breath of Bamboo 432 Hz",
+    "length": 450,
+    "duration": 450,
+    "started": 1726457464,
+    "type": "track",
+    "track_id": 3065959,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/f/d/c/4/3/dfdc43c18fa786e85dee603a54e5d950.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/f/d/c/4/3/dfdc43c18fa786e85dee603a54e5d950.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "Healing Through Kindness",
+    "display_title": "Healing Through Kindness",
+    "track": "Tibetan Meditation Academy - Healing Through Kindness",
+    "length": 220,
+    "duration": 220,
+    "started": 1726457910,
+    "type": "track",
+    "track_id": 3093789,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Throat Chakra: Blue (Song Birds & Flutes)",
+    "display_title": "Throat Chakra: Blue (Song Birds & Flutes)",
+    "track": "Massage Tribe - Throat Chakra: Blue (Song Birds & Flutes)",
+    "length": 252,
+    "duration": 252,
+    "started": 1726458129,
+    "type": "track",
+    "track_id": 2931377,
+    "release": "Tibetan Bowls, Bells & Flutes: For Massage, Chakra & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/8/8/2/9/3/2/8829328d6d18c2ba847bdb601f655205.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/2/9/3/2/8829328d6d18c2ba847bdb601f655205.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Music Niall",
+    "display_artist": "Tibetan Music Niall",
+    "title": "Tibetan Bell of Hope",
+    "display_title": "Tibetan Bell of Hope",
+    "track": "Tibetan Music Niall - Tibetan Bell of Hope",
+    "length": 430,
+    "duration": 430,
+    "started": 1726458595,
+    "type": "track",
+    "track_id": 3065966,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/7/0/9/9/9670991b3438fb5fcbd7fce36a3d6e9d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/7/0/9/9/9670991b3438fb5fcbd7fce36a3d6e9d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Five-Peak Wisdom Mountain",
+    "display_title": "Five-Peak Wisdom Mountain",
+    "track": "Nawang Khechog - Five-Peak Wisdom Mountain",
+    "length": 317,
+    "duration": 317,
+    "started": 1726459025,
+    "type": "track",
+    "track_id": 3093767,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/e/6/7/c/7/4e67c7e2e82b1f801bf9ba0524dc90bd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/6/7/c/7/4e67c7e2e82b1f801bf9ba0524dc90bd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "Long Life Chant",
+    "display_title": "Long Life Chant",
+    "track": "Jeff Beal & Nawang Khechog - Long Life Chant",
+    "length": 394,
+    "duration": 394,
+    "started": 1726459339,
+    "type": "track",
+    "track_id": 2931366,
+    "release": "Tibet - Cry of the Snow Lion (Soundtrack from the Motion Picture)",
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Buddhism Academy",
+    "display_artist": "Buddhism Academy",
+    "title": "Tibetan Chants and Om",
+    "display_title": "Tibetan Chants and Om",
+    "track": "Buddhism Academy - Tibetan Chants and Om",
+    "length": 206,
+    "duration": 206,
+    "started": 1726459735,
+    "type": "track",
+    "track_id": 3093752,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/e/1/e/3c9e1e74c1c050a7e7de0813d7278e81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/e/1/e/3c9e1e74c1c050a7e7de0813d7278e81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Karunesh",
+    "display_artist": "Karunesh",
+    "title": "Ancient Voices",
+    "display_title": "Ancient Voices",
+    "track": "Karunesh - Ancient Voices",
+    "length": 317,
+    "duration": 317,
+    "started": 1726459941,
+    "type": "track",
+    "track_id": 52011,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/a/d/6/1/f/7ad61f7a8cbaf04d81814d12bf259991.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/a/d/6/1/f/7ad61f7a8cbaf04d81814d12bf259991.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Gomer Edwin Evans",
+    "display_artist": "Gomer Edwin Evans",
+    "title": "Holy Words in Sanskrit",
+    "display_title": "Holy Words in Sanskrit",
+    "track": "Gomer Edwin Evans - Holy Words in Sanskrit",
+    "length": 546,
+    "duration": 546,
+    "started": 1726460257,
+    "type": "track",
+    "track_id": 2931363,
+    "release": "The Spirit of Tibet: Music for Meditation",
+    "art_url": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Rajendra Teredesai",
+    "display_artist": "Rajendra Teredesai",
+    "title": "Jeevatma",
+    "display_title": "Jeevatma",
+    "track": "Rajendra Teredesai - Jeevatma",
+    "length": 385,
+    "duration": 385,
+    "started": 1726460802,
+    "type": "track",
+    "track_id": 3093781,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/8/f/a/c/c/e8facc1558061a53fd8c71eb1dd7806f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/f/a/c/c/e8facc1558061a53fd8c71eb1dd7806f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "The Sacred Path",
+    "display_title": "The Sacred Path",
+    "track": "Tibetan Meditation Academy - The Sacred Path",
+    "length": 220,
+    "duration": 220,
+    "started": 1726461182,
+    "type": "track",
+    "track_id": 2931403,
+    "release": "The Source of Healing: Tibetan Music for Meditation, Zen Peaceful Mind, Sacred Spiritual Moments & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Buddhism Academy",
+    "display_artist": "Buddhism Academy",
+    "title": "Spiritual Purification",
+    "display_title": "Spiritual Purification",
+    "track": "Buddhism Academy - Spiritual Purification",
+    "length": 219,
+    "duration": 219,
+    "started": 1726461402,
+    "type": "track",
+    "track_id": 3093751,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/e/1/e/3c9e1e74c1c050a7e7de0813d7278e81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/e/1/e/3c9e1e74c1c050a7e7de0813d7278e81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Rajendra Teredesai",
+    "display_artist": "Rajendra Teredesai",
+    "title": "Ekatmaan",
+    "display_title": "Ekatmaan",
+    "track": "Rajendra Teredesai - Ekatmaan",
+    "length": 454,
+    "duration": 454,
+    "started": 1726461621,
+    "type": "track",
+    "track_id": 3093780,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/8/f/a/c/c/e8facc1558061a53fd8c71eb1dd7806f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/f/a/c/c/e8facc1558061a53fd8c71eb1dd7806f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Gomer Edwin Evans",
+    "display_artist": "Gomer Edwin Evans",
+    "title": "Tibet",
+    "display_title": "Tibet",
+    "track": "Gomer Edwin Evans - Tibet",
+    "length": 489,
+    "duration": 489,
+    "started": 1726462071,
+    "type": "track",
+    "track_id": 2931365,
+    "release": "The Spirit of Tibet: Music for Meditation",
+    "art_url": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Om Mani Padme Hoong",
+    "display_title": "Om Mani Padme Hoong",
+    "track": "Nawang Khechog - Om Mani Padme Hoong",
+    "length": 384,
+    "duration": 384,
+    "started": 1726462555,
+    "type": "track",
+    "track_id": 3093769,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Terry Oldfield",
+    "display_artist": "Terry Oldfield",
+    "title": "Loving Touch",
+    "display_title": "Loving Touch",
+    "track": "Terry Oldfield - Loving Touch",
+    "length": 671,
+    "duration": 671,
+    "started": 1726462936,
+    "type": "track",
+    "track_id": 2931398,
+    "release": "Reiki Harmony - EP",
+    "art_url": "//cdn-images.audioaddict.com/5/2/9/1/e/8/5291e83fdeda18eb1bbbbdb25a662214.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/9/1/e/8/5291e83fdeda18eb1bbbbdb25a662214.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tenzin Choegyal",
+    "display_artist": "Tenzin Choegyal",
+    "title": "Awakened Heart",
+    "display_title": "Awakened Heart",
+    "track": "Tenzin Choegyal - Awakened Heart",
+    "length": 455,
+    "duration": 455,
+    "started": 1726463603,
+    "type": "track",
+    "track_id": 2931393,
+    "release": "Tibet: Awakened Heart",
+    "art_url": "//cdn-images.audioaddict.com/a/d/1/3/7/7/ad137785b1e68b736d6616e666b41245.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/1/3/7/7/ad137785b1e68b736d6616e666b41245.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Paradiso & Rasamayi",
+    "display_artist": "Paradiso & Rasamayi",
+    "title": "Gratitude",
+    "display_title": "Gratitude",
+    "track": "Paradiso & Rasamayi - Gratitude",
+    "length": 492,
+    "duration": 492,
+    "started": 1726464054,
+    "type": "track",
+    "track_id": 3093774,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/4/c/a/d/7/44cad78f40c8af64fd2708595d876de6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/c/a/d/7/44cad78f40c8af64fd2708595d876de6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Tibetan Freedom Through Nonviolence and Compassion",
+    "display_title": "Tibetan Freedom Through Nonviolence and Compassion",
+    "track": "Nawang Khechog - Tibetan Freedom Through Nonviolence and Compassion",
+    "length": 354,
+    "duration": 354,
+    "started": 1726464861,
+    "type": "track",
+    "track_id": 3065951,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Crown Chakra: White (Tibetan Flute & Nature Sounds)",
+    "display_title": "Crown Chakra: White (Tibetan Flute & Nature Sounds)",
+    "track": "Massage Tribe - Crown Chakra: White (Tibetan Flute & Nature Sounds)",
+    "length": 219,
+    "duration": 219,
+    "started": 1726465212,
+    "type": "track",
+    "track_id": 2931375,
+    "release": "Tibetan Bowls, Bells & Flutes: For Massage, Chakra & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Buddhism Academy",
+    "display_artist": "Buddhism Academy",
+    "title": "Inner Peace & Tibetan Music",
+    "display_title": "Inner Peace & Tibetan Music",
+    "track": "Buddhism Academy - Inner Peace & Tibetan Music",
+    "length": 242,
+    "duration": 242,
+    "started": 1726465430,
+    "type": "track",
+    "track_id": 3093750,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/e/1/e/3c9e1e74c1c050a7e7de0813d7278e81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/e/1/e/3c9e1e74c1c050a7e7de0813d7278e81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Dean Evenson",
+    "display_artist": "Dean Evenson",
+    "title": "Mystic Mountain",
+    "display_title": "Mystic Mountain",
+    "track": "Dean Evenson - Mystic Mountain",
+    "length": 532,
+    "duration": 532,
+    "started": 1726466051,
+    "type": "track",
+    "track_id": 62266,
+    "release": "Ascension to Tibet",
+    "art_url": "//cdn-images.audioaddict.com/b/4/d/8/8/6/b4d886116ea01a85abf6d0e52afd1af2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/d/8/8/6/b4d886116ea01a85abf6d0e52afd1af2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "Tibetan Relaxation",
+    "display_title": "Tibetan Relaxation",
+    "track": "Tibetan Meditation Academy - Tibetan Relaxation",
+    "length": 236,
+    "duration": 236,
+    "started": 1726466584,
+    "type": "track",
+    "track_id": 2931404,
+    "release": "The Source of Healing: Tibetan Music for Meditation, Zen Peaceful Mind, Sacred Spiritual Moments & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Terry Oldfield",
+    "display_artist": "Terry Oldfield",
+    "title": "Call Of The Deep",
+    "display_title": "Call Of The Deep",
+    "track": "Terry Oldfield - Call Of The Deep",
+    "length": 333,
+    "duration": 333,
+    "started": 1726466820,
+    "type": "track",
+    "track_id": 2931397,
+    "release": "Healing Sound Journey",
+    "art_url": "//cdn-images.audioaddict.com/2/2/e/1/1/9/22e119da0d506f966444872981645eaf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/e/1/1/9/22e119da0d506f966444872981645eaf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Gomer Edwin Evans",
+    "display_artist": "Gomer Edwin Evans",
+    "title": "The Melody from the Soul to the Heart",
+    "display_title": "The Melody from the Soul to the Heart",
+    "track": "Gomer Edwin Evans - The Melody from the Soul to the Heart",
+    "length": 606,
+    "duration": 606,
+    "started": 1726467150,
+    "type": "track",
+    "track_id": 2931364,
+    "release": "The Spirit of Tibet: Music for Meditation",
+    "art_url": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/8/c/3/e/0/78c3e0351e5d92635028a1f6d5742871.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Prophecy",
+    "display_title": "Prophecy",
+    "track": "Nawang Khechog - Prophecy",
+    "length": 267,
+    "duration": 267,
+    "started": 1726467755,
+    "type": "track",
+    "track_id": 3093770,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/b/b/7/7/9/dbb7792a1f82da51e45b0c021adbec01.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/b/b/7/7/9/dbb7792a1f82da51e45b0c021adbec01.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "Hitchhiking to Lhasa",
+    "display_title": "Hitchhiking to Lhasa",
+    "track": "Jeff Beal & Nawang Khechog - Hitchhiking to Lhasa",
+    "length": 119,
+    "duration": 119,
+    "started": 1726468022,
+    "type": "track",
+    "track_id": 3065941,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Himalayan Caravan",
+    "display_title": "Himalayan Caravan",
+    "track": "David Arkenstone - Himalayan Caravan",
+    "length": 348,
+    "duration": 348,
+    "started": 1726468141,
+    "type": "track",
+    "track_id": 3065968,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/9/3/e/f/f/693eff60039746deb27fb273fb4df126.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/3/e/f/f/693eff60039746deb27fb273fb4df126.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Dean Evenson",
+    "display_artist": "Dean Evenson",
+    "title": "Tantra Love",
+    "display_title": "Tantra Love",
+    "track": "Dean Evenson - Tantra Love",
+    "length": 313,
+    "duration": 313,
+    "started": 1726468728,
+    "type": "track",
+    "track_id": 304805,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/9/0/e/5/1/190e5143c3f788386ecba1f96adb2f8f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/9/0/e/5/1/190e5143c3f788386ecba1f96adb2f8f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Voice of the Valley",
+    "display_title": "Voice of the Valley",
+    "track": "Yellow Brick Cinema - Voice of the Valley",
+    "length": 3604,
+    "duration": 3604,
+    "started": 1726469042,
+    "type": "track",
+    "track_id": 2931409,
+    "release": "Relaxing Tibetan Meditation",
+    "art_url": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Morning Sun Anthem",
+    "display_title": "Morning Sun Anthem",
+    "track": "Yellow Brick Cinema - Morning Sun Anthem",
+    "length": 3600,
+    "duration": 3600,
+    "started": 1726472645,
+    "type": "track",
+    "track_id": 2931407,
+    "release": "Relaxing Tibetan Meditation",
+    "art_url": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Nirvana",
+    "display_title": "Nirvana",
+    "track": "David Arkenstone - Nirvana",
+    "length": 382,
+    "duration": 382,
+    "started": 1726476245,
+    "type": "track",
+    "track_id": 2931355,
+    "release": "Spirit of Tibet",
+    "art_url": "//cdn-images.audioaddict.com/6/9/3/e/f/f/693eff60039746deb27fb273fb4df126.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/3/e/f/f/693eff60039746deb27fb273fb4df126.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Gomer Edwin Evans",
+    "display_artist": "Gomer Edwin Evans",
+    "title": "From the Mountain of Wisdom",
+    "display_title": "From the Mountain of Wisdom",
+    "track": "Gomer Edwin Evans - From the Mountain of Wisdom",
+    "length": 600,
+    "duration": 600,
+    "started": 1726476624,
+    "type": "track",
+    "track_id": 3093758,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/0/8/3/3/6/50833699b0a0573f905135cb31f9b0ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/0/8/3/3/6/50833699b0a0573f905135cb31f9b0ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Fabrice Tonnellier",
+    "display_artist": "Fabrice Tonnellier",
+    "title": "Chakra du plexus - soleil radieux",
+    "display_title": "Chakra du plexus - soleil radieux",
+    "track": "Fabrice Tonnellier - Chakra du plexus - soleil radieux",
+    "length": 400,
+    "duration": 400,
+    "started": 1726477219,
+    "type": "track",
+    "track_id": 3065971,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/3/0/d/5/4/230d54a75230acfbdfef7352e1903f54.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/0/d/5/4/230d54a75230acfbdfef7352e1903f54.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Deep Sleep Music Maestro",
+    "display_artist": "Deep Sleep Music Maestro",
+    "title": "Tibetan Thunderstorm (Relaxing Meditation)",
+    "display_title": "Tibetan Thunderstorm (Relaxing Meditation)",
+    "track": "Deep Sleep Music Maestro - Tibetan Thunderstorm (Relaxing Meditation)",
+    "length": 221,
+    "duration": 221,
+    "started": 1726477617,
+    "type": "track",
+    "track_id": 2929147,
+    "release": "Keep Calm: Soothing Music for Relax – Sounds for Trouble Sleeping, Healing Insomnia, Nature Sounds, Meditation & SPA Dreaming",
+    "art_url": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/5/7/2/b/9f572b362958688ff97785c0db00090f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Changeless States (Healing Tibetan Bowls)",
+    "display_title": "Changeless States (Healing Tibetan Bowls)",
+    "track": "Massage Tribe - Changeless States (Healing Tibetan Bowls)",
+    "length": 186,
+    "duration": 186,
+    "started": 1726478303,
+    "type": "track",
+    "track_id": 2931374,
+    "release": "Tibetan Bowls, Bells & Flutes: For Massage, Chakra & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "The Mandala",
+    "display_title": "The Mandala",
+    "track": "Jeff Beal & Nawang Khechog - The Mandala",
+    "length": 342,
+    "duration": 342,
+    "started": 1726478488,
+    "type": "track",
+    "track_id": 2931369,
+    "release": "Tibet - Cry of the Snow Lion (Soundtrack from the Motion Picture)",
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Phil Thornton",
+    "display_artist": "Phil Thornton",
+    "title": "Temple Valley",
+    "display_title": "Temple Valley",
+    "track": "Phil Thornton - Temple Valley",
+    "length": 465,
+    "duration": 465,
+    "started": 1726480354,
+    "type": "track",
+    "track_id": 3065958,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "Buddhist Prayer for Peace",
+    "display_title": "Buddhist Prayer for Peace",
+    "track": "Tibetan Meditation Academy - Buddhist Prayer for Peace",
+    "length": 220,
+    "duration": 220,
+    "started": 1726480819,
+    "type": "track",
+    "track_id": 2931401,
+    "release": "The Source of Healing: Tibetan Music for Meditation, Zen Peaceful Mind, Sacred Spiritual Moments & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Finding Within the Way Out of Suffering",
+    "display_title": "Finding Within the Way Out of Suffering",
+    "track": "Nawang Khechog - Finding Within the Way Out of Suffering",
+    "length": 228,
+    "duration": 228,
+    "started": 1726481039,
+    "type": "track",
+    "track_id": 2931380,
+    "release": "Tibetan Dream Journey",
+    "art_url": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tenzin Choegyal",
+    "display_artist": "Tenzin Choegyal",
+    "title": "Dakini Vachaspati",
+    "display_title": "Dakini Vachaspati",
+    "track": "Tenzin Choegyal - Dakini Vachaspati",
+    "length": 582,
+    "duration": 582,
+    "started": 1726481262,
+    "type": "track",
+    "track_id": 2931394,
+    "release": "Tibet: Awakened Heart",
+    "art_url": "//cdn-images.audioaddict.com/a/d/1/3/7/7/ad137785b1e68b736d6616e666b41245.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/1/3/7/7/ad137785b1e68b736d6616e666b41245.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Zen Sem Blues",
+    "display_title": "Zen Sem Blues",
+    "track": "Nawang Khechog - Zen Sem Blues",
+    "length": 181,
+    "duration": 181,
+    "started": 1726482277,
+    "type": "track",
+    "track_id": 3065953,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Fabrice Tonnellier",
+    "display_artist": "Fabrice Tonnellier",
+    "title": "Chakra frontal - méditation",
+    "display_title": "Chakra frontal - méditation",
+    "track": "Fabrice Tonnellier - Chakra frontal - méditation",
+    "length": 449,
+    "duration": 449,
+    "started": 1726482455,
+    "type": "track",
+    "track_id": 3065972,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/3/0/d/5/4/230d54a75230acfbdfef7352e1903f54.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/0/d/5/4/230d54a75230acfbdfef7352e1903f54.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Roof of the World",
+    "display_title": "Roof of the World",
+    "track": "David Arkenstone - Roof of the World",
+    "length": 334,
+    "duration": 334,
+    "started": 1726483782,
+    "type": "track",
+    "track_id": 2931356,
+    "release": "Spirit of Tibet",
+    "art_url": "//cdn-images.audioaddict.com/e/4/8/1/5/2/e481525d6df8eb5545cb766da8040c7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/8/1/5/2/e481525d6df8eb5545cb766da8040c7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "The Perfection of Wisdom",
+    "display_title": "The Perfection of Wisdom",
+    "track": "Nawang Khechog - The Perfection of Wisdom",
+    "length": 405,
+    "duration": 405,
+    "started": 1726484817,
+    "type": "track",
+    "track_id": 3093772,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/8/d/e/2/d/e8de2d2a2c1467ea5278e419ca75a7af.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/d/e/2/d/e8de2d2a2c1467ea5278e419ca75a7af.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Welcome to Tibet",
+    "display_title": "Welcome to Tibet",
+    "track": "Niall - Welcome to Tibet",
+    "length": 647,
+    "duration": 647,
+    "started": 1726490303,
+    "type": "track",
+    "track_id": 2931389,
+    "release": "Tibet - Spiritual Journeys of the World",
+    "art_url": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Aligned: Feeling Secure & Capable (13-Minute Healing Meditation)",
+    "display_title": "Aligned: Feeling Secure & Capable (13-Minute Healing Meditation)",
+    "track": "Massage Tribe - Aligned: Feeling Secure & Capable (13-Minute Healing Meditation)",
+    "length": 830,
+    "duration": 830,
+    "started": 1726492754,
+    "type": "track",
+    "track_id": 2931373,
+    "release": "Tibetan Bowls, Bells & Flutes: For Massage, Chakra & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Buddhism Academy",
+    "display_artist": "Buddhism Academy",
+    "title": "Tibetan Music: Spiritual Connection",
+    "display_title": "Tibetan Music: Spiritual Connection",
+    "track": "Buddhism Academy - Tibetan Music: Spiritual Connection",
+    "length": 205,
+    "duration": 205,
+    "started": 1726493580,
+    "type": "track",
+    "track_id": 3093753,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/c/9/e/1/e/3c9e1e74c1c050a7e7de0813d7278e81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/9/e/1/e/3c9e1e74c1c050a7e7de0813d7278e81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Gift of Touch: Reiki (Light Winds, Flute & Bowls)",
+    "display_title": "Gift of Touch: Reiki (Light Winds, Flute & Bowls)",
+    "track": "Massage Tribe - Gift of Touch: Reiki (Light Winds, Flute & Bowls)",
+    "length": 173,
+    "duration": 173,
+    "started": 1726494803,
+    "type": "track",
+    "track_id": 3093765,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "First Attunement (Healing Tibetan Bowls & Flute)",
+    "display_title": "First Attunement (Healing Tibetan Bowls & Flute)",
+    "track": "Massage Tribe - First Attunement (Healing Tibetan Bowls & Flute)",
+    "length": 205,
+    "duration": 205,
+    "started": 1726496104,
+    "type": "track",
+    "track_id": 3065946,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Rocking With Nonviolence and Peace",
+    "display_title": "Rocking With Nonviolence and Peace",
+    "track": "Nawang Khechog - Rocking With Nonviolence and Peace",
+    "length": 402,
+    "duration": 402,
+    "started": 1726497612,
+    "type": "track",
+    "track_id": 2931381,
+    "release": "Tibetan Dream Journey",
+    "art_url": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Walking into the Himalaya to Meditate",
+    "display_title": "Walking into the Himalaya to Meditate",
+    "track": "Nawang Khechog - Walking into the Himalaya to Meditate",
+    "length": 322,
+    "duration": 322,
+    "started": 1726499034,
+    "type": "track",
+    "track_id": 2931384,
+    "release": "Tibetan Meditation Music",
+    "art_url": "//cdn-images.audioaddict.com/e/8/d/e/2/d/e8de2d2a2c1467ea5278e419ca75a7af.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/d/e/2/d/e8de2d2a2c1467ea5278e419ca75a7af.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Dean Evenson",
+    "display_artist": "Dean Evenson",
+    "title": "Om Mane Padme Hum",
+    "display_title": "Om Mane Padme Hum",
+    "track": "Dean Evenson - Om Mane Padme Hum",
+    "length": 329,
+    "duration": 329,
+    "started": 1726499353,
+    "type": "track",
+    "track_id": 3093755,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/4/d/8/8/6/b4d886116ea01a85abf6d0e52afd1af2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/d/8/8/6/b4d886116ea01a85abf6d0e52afd1af2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Dean Evenson",
+    "display_artist": "Dean Evenson",
+    "title": "Conjunction",
+    "display_title": "Conjunction",
+    "track": "Dean Evenson - Conjunction",
+    "length": 393,
+    "duration": 393,
+    "started": 1726500006,
+    "type": "track",
+    "track_id": 3093754,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/4/d/8/8/6/b4d886116ea01a85abf6d0e52afd1af2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/4/d/8/8/6/b4d886116ea01a85abf6d0e52afd1af2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "Finding Peace Within",
+    "display_title": "Finding Peace Within",
+    "track": "Tibetan Meditation Academy - Finding Peace Within",
+    "length": 226,
+    "duration": 226,
+    "started": 1726500401,
+    "type": "track",
+    "track_id": 3093788,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Karl Maddison",
+    "display_artist": "Karl Maddison",
+    "title": "Ritual of Truth",
+    "display_title": "Ritual of Truth",
+    "track": "Karl Maddison - Ritual of Truth",
+    "length": 279,
+    "duration": 279,
+    "started": 1726500626,
+    "type": "track",
+    "track_id": 2931371,
+    "release": "On the Road to Tibet",
+    "art_url": "//cdn-images.audioaddict.com/9/f/6/c/0/6/9f6c06acafce675c9a23167f377c121e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/6/c/0/6/9f6c06acafce675c9a23167f377c121e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "Altar of the Earth",
+    "display_title": "Altar of the Earth",
+    "track": "Jeff Beal & Nawang Khechog - Altar of the Earth",
+    "length": 116,
+    "duration": 116,
+    "started": 1726501254,
+    "type": "track",
+    "track_id": 3065939,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Phil Thornton",
+    "display_artist": "Phil Thornton",
+    "title": "A Welcome Return",
+    "display_title": "A Welcome Return",
+    "track": "Phil Thornton - A Welcome Return",
+    "length": 571,
+    "duration": 571,
+    "started": 1726501370,
+    "type": "track",
+    "track_id": 2931390,
+    "release": "Tibetan Meditation",
+    "art_url": "//cdn-images.audioaddict.com/9/e/4/a/0/2/9e4a02014f66dc7c92e3caa11821f58d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/4/a/0/2/9e4a02014f66dc7c92e3caa11821f58d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "May All Be Kind to Each Other",
+    "display_title": "May All Be Kind to Each Other",
+    "track": "Nawang Khechog - May All Be Kind to Each Other",
+    "length": 369,
+    "duration": 369,
+    "started": 1726502061,
+    "type": "track",
+    "track_id": 3093768,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/4/2/5/b/6c425b14259d0d7d41208b898219e942.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Mindfulness Meditation Music Spa Maestro",
+    "display_artist": "Mindfulness Meditation Music Spa Maestro",
+    "title": "Music for Deep Sleep",
+    "display_title": "Music for Deep Sleep",
+    "track": "Mindfulness Meditation Music Spa Maestro - Music for Deep Sleep",
+    "length": 239,
+    "duration": 239,
+    "started": 1726502429,
+    "type": "track",
+    "track_id": 2931378,
+    "release": "111 Anti-stress Relaxing Music: Mindfulness Meditation, Nature Sounds, Yoga, Reiki, Spa Massage, Healing White Noise",
+    "art_url": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/3/1/3/9/ab31393506e13e8b97e4e5b72a505e87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "The Prophecy",
+    "display_title": "The Prophecy",
+    "track": "Jeff Beal & Nawang Khechog - The Prophecy",
+    "length": 78,
+    "duration": 78,
+    "started": 1726502668,
+    "type": "track",
+    "track_id": 3065943,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Terry Oldfield",
+    "display_artist": "Terry Oldfield",
+    "title": "Awakening Heart",
+    "display_title": "Awakening Heart",
+    "track": "Terry Oldfield - Awakening Heart",
+    "length": 764,
+    "duration": 764,
+    "started": 1726503194,
+    "type": "track",
+    "track_id": 2931396,
+    "release": "Reiki Harmony - EP",
+    "art_url": "//cdn-images.audioaddict.com/5/2/9/1/e/8/5291e83fdeda18eb1bbbbdb25a662214.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/9/1/e/8/5291e83fdeda18eb1bbbbdb25a662214.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Rajendra Teredasai",
+    "display_artist": "Rajendra Teredasai",
+    "title": "Bhakti Dhyana",
+    "display_title": "Bhakti Dhyana",
+    "track": "Rajendra Teredasai - Bhakti Dhyana",
+    "length": 438,
+    "duration": 438,
+    "started": 1726506207,
+    "type": "track",
+    "track_id": 3093779,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/3/1/e/c/9131ec137284c42abb56b5ca34b1357b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/3/1/e/c/9131ec137284c42abb56b5ca34b1357b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Spiritual Cleansing",
+    "display_title": "Spiritual Cleansing",
+    "track": "Mrm Team - Spiritual Cleansing",
+    "length": 557,
+    "duration": 557,
+    "started": 1726509292,
+    "type": "track",
+    "track_id": 2924240,
+    "release": "Music for Yoga & Meditation, Vol. 3",
+    "art_url": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/c/e/7/d/8/bce7d8b29eda8b994fbe90f16ea02dc4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Anugama",
+    "display_artist": "Anugama",
+    "title": "The Empty Sky",
+    "display_title": "The Empty Sky",
+    "track": "Anugama - The Empty Sky",
+    "length": 398,
+    "duration": 398,
+    "started": 1726511567,
+    "type": "track",
+    "track_id": 3080,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/c/4/4/1/d/0c441d59c3c1dddf3fc1c7307cdb2ff6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/4/4/1/d/0c441d59c3c1dddf3fc1c7307cdb2ff6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Wisdom and Compassion",
+    "display_title": "Wisdom and Compassion",
+    "track": "Nawang Khechog - Wisdom and Compassion",
+    "length": 188,
+    "duration": 188,
+    "started": 1726511962,
+    "type": "track",
+    "track_id": 3065952,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/2/8/2/7/1/9282718e40d4261f5c7ea68aaf402af4.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/2/8/2/7/1/9282718e40d4261f5c7ea68aaf402af4.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Rajendra Teredesai",
+    "display_artist": "Rajendra Teredesai",
+    "title": "Vedanta",
+    "display_title": "Vedanta",
+    "track": "Rajendra Teredesai - Vedanta",
+    "length": 420,
+    "duration": 420,
+    "started": 1726512148,
+    "type": "track",
+    "track_id": 3093782,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/8/f/a/c/c/e8facc1558061a53fd8c71eb1dd7806f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/8/f/a/c/c/e8facc1558061a53fd8c71eb1dd7806f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "The Celebration",
+    "display_title": "The Celebration",
+    "track": "Jeff Beal & Nawang Khechog - The Celebration",
+    "length": 203,
+    "duration": 203,
+    "started": 1726512563,
+    "type": "track",
+    "track_id": 2931368,
+    "release": "Tibet - Cry of the Snow Lion (Soundtrack from the Motion Picture)",
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Dharma Practice (Echoing Flutes)",
+    "display_title": "Dharma Practice (Echoing Flutes)",
+    "track": "Massage Tribe - Dharma Practice (Echoing Flutes)",
+    "length": 147,
+    "duration": 147,
+    "started": 1726513496,
+    "type": "track",
+    "track_id": 3093764,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Terry Oldfield",
+    "display_artist": "Terry Oldfield",
+    "title": "Tears for Tibet",
+    "display_title": "Tears for Tibet",
+    "track": "Terry Oldfield - Tears for Tibet",
+    "length": 1526,
+    "duration": 1526,
+    "started": 1726514195,
+    "type": "track",
+    "track_id": 2931400,
+    "release": "Tears for Tibet",
+    "art_url": "//cdn-images.audioaddict.com/3/2/f/2/6/7/32f267638f70cbb73c580265a66c6ff8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/2/f/2/6/7/32f267638f70cbb73c580265a66c6ff8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Gomer Edwin Evans",
+    "display_artist": "Gomer Edwin Evans",
+    "title": "To Listen, to Pray - And to Love",
+    "display_title": "To Listen, to Pray - And to Love",
+    "track": "Gomer Edwin Evans - To Listen, to Pray - And to Love",
+    "length": 585,
+    "duration": 585,
+    "started": 1726515720,
+    "type": "track",
+    "track_id": 3093760,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/8/8/b/a/2/488ba230b14f556cf3de583eaae27d87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/8/8/b/a/2/488ba230b14f556cf3de583eaae27d87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Sat-Chit",
+    "display_artist": "Sat-Chit",
+    "title": "Limpieza Energética",
+    "display_title": "Limpieza Energética",
+    "track": "Sat-Chit - Limpieza Energética",
+    "length": 435,
+    "duration": 435,
+    "started": 1726521045,
+    "type": "track",
+    "track_id": 3093783,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/e/2/d/8/e/9e2d8e56570119612beeed4e48e01b7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/2/d/8/e/9e2d8e56570119612beeed4e48e01b7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Midnight Fires",
+    "display_title": "Midnight Fires",
+    "track": "David Arkenstone - Midnight Fires",
+    "length": 398,
+    "duration": 398,
+    "started": 1726521988,
+    "type": "track",
+    "track_id": 2931354,
+    "release": "Spirit of Tibet",
+    "art_url": "//cdn-images.audioaddict.com/e/4/8/1/5/2/e481525d6df8eb5545cb766da8040c7b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/8/1/5/2/e481525d6df8eb5545cb766da8040c7b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Gomer Edwin Evans",
+    "display_artist": "Gomer Edwin Evans",
+    "title": "Singing Bowls from the Heavens",
+    "display_title": "Singing Bowls from the Heavens",
+    "track": "Gomer Edwin Evans - Singing Bowls from the Heavens",
+    "length": 924,
+    "duration": 924,
+    "started": 1726523038,
+    "type": "track",
+    "track_id": 3093759,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/8/8/b/a/2/488ba230b14f556cf3de583eaae27d87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/8/8/b/a/2/488ba230b14f556cf3de583eaae27d87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Root Chakra: Red (Wind Ushers in Flutes & Bowls)",
+    "display_title": "Root Chakra: Red (Wind Ushers in Flutes & Bowls)",
+    "track": "Massage Tribe - Root Chakra: Red (Wind Ushers in Flutes & Bowls)",
+    "length": 219,
+    "duration": 219,
+    "started": 1726524351,
+    "type": "track",
+    "track_id": 3065947,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/8/2/9/3/2/8829328d6d18c2ba847bdb601f655205.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/2/9/3/2/8829328d6d18c2ba847bdb601f655205.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Bell of Hope",
+    "display_title": "Bell of Hope",
+    "track": "Niall - Bell of Hope",
+    "length": 430,
+    "duration": 430,
+    "started": 1726524568,
+    "type": "track",
+    "track_id": 2931385,
+    "release": "Tibet - Spiritual Journeys of the World",
+    "art_url": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Sacred Journey",
+    "display_title": "Sacred Journey",
+    "track": "David Arkenstone - Sacred Journey",
+    "length": 676,
+    "duration": 676,
+    "started": 1726528229,
+    "type": "track",
+    "track_id": 2931357,
+    "release": "Deep Sleep",
+    "art_url": "//cdn-images.audioaddict.com/7/3/1/7/9/e/73179e9bc04e7cbdd4588afc3c0d0040.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/3/1/7/9/e/73179e9bc04e7cbdd4588afc3c0d0040.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "The Sacred Roads",
+    "display_title": "The Sacred Roads",
+    "track": "Yellow Brick Cinema - The Sacred Roads",
+    "length": 3610,
+    "duration": 3610,
+    "started": 1726531194,
+    "type": "track",
+    "track_id": 2931408,
+    "release": "Relaxing Tibetan Meditation",
+    "art_url": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "Cry of the Snow Lion",
+    "display_title": "Cry of the Snow Lion",
+    "track": "Jeff Beal & Nawang Khechog - Cry of the Snow Lion",
+    "length": 267,
+    "duration": 267,
+    "started": 1726534802,
+    "type": "track",
+    "track_id": 3065940,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Terry Oldfield",
+    "display_artist": "Terry Oldfield",
+    "title": "Om Shanti",
+    "display_title": "Om Shanti",
+    "track": "Terry Oldfield - Om Shanti",
+    "length": 786,
+    "duration": 786,
+    "started": 1726535381,
+    "type": "track",
+    "track_id": 2931399,
+    "release": "Reiki Harmony - EP",
+    "art_url": "//cdn-images.audioaddict.com/5/2/9/1/e/8/5291e83fdeda18eb1bbbbdb25a662214.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/9/1/e/8/5291e83fdeda18eb1bbbbdb25a662214.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "Peace, Joy and Liberation",
+    "display_title": "Peace, Joy and Liberation",
+    "track": "Tibetan Meditation Academy - Peace, Joy and Liberation",
+    "length": 196,
+    "duration": 196,
+    "started": 1726536708,
+    "type": "track",
+    "track_id": 3065963,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/8/d/6/2/6/88d626bfefde2702335997648e7560a9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/d/6/2/6/88d626bfefde2702335997648e7560a9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Temple Trance",
+    "display_title": "Temple Trance",
+    "track": "Deuter - Temple Trance",
+    "length": 1509,
+    "duration": 1509,
+    "started": 1726538949,
+    "type": "track",
+    "track_id": 2931361,
+    "release": "Sattva Temple Trance",
+    "art_url": "//cdn-images.audioaddict.com/8/8/5/1/b/2/8851b2f6c530e483d3685b93174bab9e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/5/1/b/2/8851b2f6c530e483d3685b93174bab9e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Fabrice Tonnellier",
+    "display_artist": "Fabrice Tonnellier",
+    "title": "Chakra racine - kundalini",
+    "display_title": "Chakra racine - kundalini",
+    "track": "Fabrice Tonnellier - Chakra racine - kundalini",
+    "length": 420,
+    "duration": 420,
+    "started": 1726540451,
+    "type": "track",
+    "track_id": 3065938,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/3/0/d/5/4/230d54a75230acfbdfef7352e1903f54.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/3/0/d/5/4/230d54a75230acfbdfef7352e1903f54.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Phil Thornton",
+    "display_artist": "Phil Thornton",
+    "title": "Chant of Souls",
+    "display_title": "Chant of Souls",
+    "track": "Phil Thornton - Chant of Souls",
+    "length": 517,
+    "duration": 517,
+    "started": 1726546607,
+    "type": "track",
+    "track_id": 3065955,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/8/9/b/d/a/389bda836ea90b4a5499f7aa14a41448.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "David Arkenstone",
+    "display_artist": "David Arkenstone",
+    "title": "Wheels of Prayer",
+    "display_title": "Wheels of Prayer",
+    "track": "David Arkenstone - Wheels of Prayer",
+    "length": 394,
+    "duration": 394,
+    "started": 1726556597,
+    "type": "track",
+    "track_id": 3065970,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/9/3/e/f/f/693eff60039746deb27fb273fb4df126.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/9/3/e/f/f/693eff60039746deb27fb273fb4df126.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Monastery Path (Thunder Echoes with Flute Melody)",
+    "display_title": "Monastery Path (Thunder Echoes with Flute Melody)",
+    "track": "Massage Tribe - Monastery Path (Thunder Echoes with Flute Melody)",
+    "length": 156,
+    "duration": 156,
+    "started": 1726560295,
+    "type": "track",
+    "track_id": 3093766,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Niall",
+    "display_artist": "Niall",
+    "title": "Niall's Temple",
+    "display_title": "Niall's Temple",
+    "track": "Niall - Niall's Temple",
+    "length": 410,
+    "duration": 410,
+    "started": 1726562109,
+    "type": "track",
+    "track_id": 2931387,
+    "release": "Tibet - Spiritual Journeys of the World",
+    "art_url": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/d/6/c/5/12d6c555659dc1b354a7aed8c9a53b66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Tibetan Meditation Academy",
+    "display_artist": "Tibetan Meditation Academy",
+    "title": "Transforming Problems into Happiness",
+    "display_title": "Transforming Problems into Happiness",
+    "track": "Tibetan Meditation Academy - Transforming Problems into Happiness",
+    "length": 225,
+    "duration": 225,
+    "started": 1726562967,
+    "type": "track",
+    "track_id": 2931405,
+    "release": "The Source of Healing: Tibetan Music for Meditation, Zen Peaceful Mind, Sacred Spiritual Moments & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/3/f/f/1/d03ff11f02fa68a6e76db70b346830e1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "Under the Wings of Blessing",
+    "display_title": "Under the Wings of Blessing",
+    "track": "Nawang Khechog - Under the Wings of Blessing",
+    "length": 389,
+    "duration": 389,
+    "started": 1726565855,
+    "type": "track",
+    "track_id": 2931383,
+    "release": "Tibetan Meditation Music",
+    "art_url": "//cdn-images.audioaddict.com/0/4/f/f/7/7/04ff777ba09b1e5357c35be68fb92e1d.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/f/f/7/7/04ff777ba09b1e5357c35be68fb92e1d.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Karmic Connection (Gongs, Flutes & Chimes)",
+    "display_title": "Karmic Connection (Gongs, Flutes & Chimes)",
+    "track": "Massage Tribe - Karmic Connection (Gongs, Flutes & Chimes)",
+    "length": 375,
+    "duration": 375,
+    "started": 1726571365,
+    "type": "track",
+    "track_id": 2931376,
+    "release": "Tibetan Bowls, Bells & Flutes: For Massage, Chakra & Reiki",
+    "art_url": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/e/0/9/9/4/ce0994df0fec3f0d195ea5f847579949.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Phil Thornton & Steven Cragg",
+    "display_artist": "Phil Thornton & Steven Cragg",
+    "title": "Prayer on the Wind",
+    "display_title": "Prayer on the Wind",
+    "track": "Phil Thornton & Steven Cragg - Prayer on the Wind",
+    "length": 230,
+    "duration": 230,
+    "started": 1726571739,
+    "type": "track",
+    "track_id": 3093777,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/8/4/f/4/2/f84f4272bb4ff847ea927e04c1e0779a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/4/f/4/2/f84f4272bb4ff847ea927e04c1e0779a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "Mindfulness",
+    "display_title": "Mindfulness",
+    "track": "Jeff Beal & Nawang Khechog - Mindfulness",
+    "length": 98,
+    "duration": 98,
+    "started": 1726573269,
+    "type": "track",
+    "track_id": 3093762,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Deuter",
+    "display_artist": "Deuter",
+    "title": "Circles of Light",
+    "display_title": "Circles of Light",
+    "track": "Deuter - Circles of Light",
+    "length": 2273,
+    "duration": 2273,
+    "started": 1726581634,
+    "type": "track",
+    "track_id": 2931360,
+    "release": "Sattva Temple Trance",
+    "art_url": "//cdn-images.audioaddict.com/8/8/5/1/b/2/8851b2f6c530e483d3685b93174bab9e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/5/1/b/2/8851b2f6c530e483d3685b93174bab9e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "BodyMindZone",
+    "display_artist": "BodyMindZone",
+    "title": "Tibetan Temple",
+    "display_title": "Tibetan Temple",
+    "track": "BodyMindZone - Tibetan Temple",
+    "length": 3669,
+    "duration": 3669,
+    "started": 1726583907,
+    "type": "track",
+    "track_id": 3065936,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/c/a/5/8/e/aca58e707557b0581bcf44632fe53133.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/a/5/8/e/aca58e707557b0581bcf44632fe53133.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Dean Evenson",
+    "display_artist": "Dean Evenson",
+    "title": "Sunrise",
+    "display_title": "Sunrise",
+    "track": "Dean Evenson - Sunrise",
+    "length": 279,
+    "duration": 279,
+    "started": 1726587576,
+    "type": "track",
+    "track_id": 3093756,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/d/a/6/2/f/6da62f64208f3fb4776245a54e20edb5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/d/a/6/2/f/6da62f64208f3fb4776245a54e20edb5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Nawang Khechog",
+    "display_artist": "Nawang Khechog",
+    "title": "The Great Arya Tara",
+    "display_title": "The Great Arya Tara",
+    "track": "Nawang Khechog - The Great Arya Tara",
+    "length": 310,
+    "duration": 310,
+    "started": 1726587855,
+    "type": "track",
+    "track_id": 3093771,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/5/6/5/e/a/9565ea53a9301cc6d7e69b8b5033fd44.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/5/6/5/e/a/9565ea53a9301cc6d7e69b8b5033fd44.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Galaxy’s Heartbeat",
+    "display_title": "Galaxy’s Heartbeat",
+    "track": "Yellow Brick Cinema - Galaxy’s Heartbeat",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1726589136,
+    "type": "track",
+    "track_id": 2920890,
+    "release": "Relaxing Spa",
+    "art_url": "//cdn-images.audioaddict.com/4/3/4/b/2/9/434b29060c7fe2cd179ee4813ce188c6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/4/b/2/9/434b29060c7fe2cd179ee4813ce188c6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Jeff Beal & Nawang Khechog",
+    "display_artist": "Jeff Beal & Nawang Khechog",
+    "title": "Pilgrimage",
+    "display_title": "Pilgrimage",
+    "track": "Jeff Beal & Nawang Khechog - Pilgrimage",
+    "length": 107,
+    "duration": 107,
+    "started": 1726686813,
+    "type": "track",
+    "track_id": 3065942,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/8/1/f/6/2c81f68b6b468e045da8954e23d7daab.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 489,
+    "artist": "Massage Tribe",
+    "display_artist": "Massage Tribe",
+    "title": "Chakras & Tones (Centering with Flutes, Bells & Bowls)",
+    "display_title": "Chakras & Tones (Centering with Flutes, Bells & Bowls)",
+    "track": "Massage Tribe - Chakras & Tones (Centering with Flutes, Bells & Bowls)",
+    "length": 187,
+    "duration": 187,
+    "started": 1726698634,
+    "type": "track",
+    "track_id": 3065945,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/8/2/9/3/2/8829328d6d18c2ba847bdb601f655205.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/2/9/3/2/8829328d6d18c2ba847bdb601f655205.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]

@@ -1,0 +1,4562 @@
+[
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dragon Orchestra",
+    "display_artist": "Dragon Orchestra",
+    "title": "Garden of Angels",
+    "display_title": "Garden of Angels",
+    "track": "Dragon Orchestra - Garden of Angels",
+    "length": 445,
+    "duration": 445,
+    "started": 1726221294,
+    "type": "track",
+    "track_id": 2923049,
+    "release": "A Day at the Spa: Tai Chi (Chinese Garden)",
+    "art_url": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ricky Sadha",
+    "display_artist": "Ricky Sadha",
+    "title": "Sunrise Melody",
+    "display_title": "Sunrise Melody",
+    "track": "Ricky Sadha - Sunrise Melody",
+    "length": 351,
+    "duration": 351,
+    "started": 1726221738,
+    "type": "track",
+    "track_id": 2930724,
+    "release": "Tranquility in Bali. My Secret  Places",
+    "art_url": "//cdn-images.audioaddict.com/7/1/c/1/b/2/71c1b21b49b60e467dfbef1cf4fea786.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/c/1/b/2/71c1b21b49b60e467dfbef1cf4fea786.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Portrait of a Xiang Town",
+    "display_title": "Portrait of a Xiang Town",
+    "track": "Shi Zhi-You - Portrait of a Xiang Town",
+    "length": 317,
+    "duration": 317,
+    "started": 1726222089,
+    "type": "track",
+    "track_id": 2913008,
+    "release": "Riverside Towns, Misty Rain",
+    "art_url": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Queen Of The Blossoms (The Green-Sepaled Plum Blossom)",
+    "display_title": "Queen Of The Blossoms (The Green-Sepaled Plum Blossom)",
+    "track": "Shi Zhi-You - Queen Of The Blossoms (The Green-Sepaled Plum Blossom)",
+    "length": 497,
+    "duration": 497,
+    "started": 1726222401,
+    "type": "track",
+    "track_id": 2913137,
+    "release": "Plum Blossom",
+    "art_url": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Nest Lake",
+    "display_title": "Nest Lake",
+    "track": "Shi Zhi-You - Nest Lake",
+    "length": 335,
+    "duration": 335,
+    "started": 1726222897,
+    "type": "track",
+    "track_id": 2913062,
+    "release": "Zen Landscape",
+    "art_url": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan, Chun-Lin Yang",
+    "display_artist": "Zhang Fu-Quan, Chun-Lin Yang",
+    "title": "Kalavinka",
+    "display_title": "Kalavinka",
+    "track": "Zhang Fu-Quan, Chun-Lin Yang - Kalavinka",
+    "length": 480,
+    "duration": 480,
+    "started": 1726223229,
+    "type": "track",
+    "track_id": 2913043,
+    "release": "Flying Devata -- Dunhuang",
+    "art_url": "//cdn-images.audioaddict.com/1/1/3/3/f/9/1133f9321f8af6bfd5c8afd240deed99.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/1/3/3/f/9/1133f9321f8af6bfd5c8afd240deed99.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Xiu-Lan & Quyang Qian",
+    "display_artist": "Yang Xiu-Lan & Quyang Qian",
+    "title": "Innocent Times",
+    "display_title": "Innocent Times",
+    "track": "Yang Xiu-Lan & Quyang Qian - Innocent Times",
+    "length": 367,
+    "duration": 367,
+    "started": 1726223710,
+    "type": "track",
+    "track_id": 2913033,
+    "release": "An Invitation to Tea",
+    "art_url": "//cdn-images.audioaddict.com/e/6/b/3/5/3/e6b353d14ea35d4dd610272d18ace0b8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/b/3/5/3/e6b353d14ea35d4dd610272d18ace0b8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Intoxicating Colors of Tea",
+    "display_title": "Intoxicating Colors of Tea",
+    "track": "Zhang Wei-Liang - Intoxicating Colors of Tea",
+    "length": 479,
+    "duration": 479,
+    "started": 1726224074,
+    "type": "track",
+    "track_id": 2913003,
+    "release": "Taste Zen in Tea",
+    "art_url": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shanghai Film Symphony Orchestra, WANG Yong-ji",
+    "display_artist": "Shanghai Film Symphony Orchestra, WANG Yong-ji",
+    "title": "Sigh in Grief",
+    "display_title": "Sigh in Grief",
+    "track": "Shanghai Film Symphony Orchestra, WANG Yong-ji - Sigh in Grief",
+    "length": 520,
+    "duration": 520,
+    "started": 1726224550,
+    "type": "track",
+    "track_id": 2930473,
+    "release": "Chinese Taoist Music. Three Purities",
+    "art_url": "//cdn-images.audioaddict.com/a/d/c/b/0/8/adcb083d6cfa0e3c648470e533834963.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/c/b/0/8/adcb083d6cfa0e3c648470e533834963.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Jasmine Yin-hao Tea",
+    "display_title": "Jasmine Yin-hao Tea",
+    "track": "Zhang Fu-Quan - Jasmine Yin-hao Tea",
+    "length": 344,
+    "duration": 344,
+    "started": 1726225066,
+    "type": "track",
+    "track_id": 2913067,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "display_artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "title": "The Dance Between Wind And Pines",
+    "display_title": "The Dance Between Wind And Pines",
+    "track": "Ping Yuan & Yang Chun-Lin & Hao Han - The Dance Between Wind And Pines",
+    "length": 334,
+    "duration": 334,
+    "started": 1726225405,
+    "type": "track",
+    "track_id": 2913155,
+    "release": "Waves Of Pine",
+    "art_url": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Tiny and Dainty",
+    "display_title": "Tiny and Dainty",
+    "track": "Zhang Fu-Quan & Hao Han - Tiny and Dainty",
+    "length": 339,
+    "duration": 339,
+    "started": 1726225736,
+    "type": "track",
+    "track_id": 2913089,
+    "release": "Tea & Pot",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "A sentimental",
+    "display_title": "A sentimental",
+    "track": "Huang Jiang Qin - A sentimental",
+    "length": 332,
+    "duration": 332,
+    "started": 1726226071,
+    "type": "track",
+    "track_id": 2923053,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/1/e/7/7/6/01e77604ce440e74fb6eb9d226861c2f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/e/7/7/6/01e77604ce440e74fb6eb9d226861c2f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Tea Song of Dongting Lake",
+    "display_title": "Tea Song of Dongting Lake",
+    "track": "Zhang Fu-Quan & Hao Han - Tea Song of Dongting Lake",
+    "length": 447,
+    "duration": 447,
+    "started": 1726226403,
+    "type": "track",
+    "track_id": 2913045,
+    "release": "Chinese Tea Ballads",
+    "art_url": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Osmanthus Lungching Tea",
+    "display_title": "Osmanthus Lungching Tea",
+    "track": "Zhang Fu-Quan - Osmanthus Lungching Tea",
+    "length": 345,
+    "duration": 345,
+    "started": 1726226849,
+    "type": "track",
+    "track_id": 2913053,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Remembrance of a Dream",
+    "display_title": "Remembrance of a Dream",
+    "track": "Zhang Wei-Liang - Remembrance of a Dream",
+    "length": 359,
+    "duration": 359,
+    "started": 1726227190,
+    "type": "track",
+    "track_id": 2913069,
+    "release": "Poetics of Tea",
+    "art_url": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Peony (Li Bai)",
+    "display_title": "Peony (Li Bai)",
+    "track": "Shi Zhi-You - Peony (Li Bai)",
+    "length": 436,
+    "duration": 436,
+    "started": 1726227626,
+    "type": "track",
+    "track_id": 2913144,
+    "release": "Flower Goddess I",
+    "art_url": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Flower",
+    "display_title": "Flower",
+    "track": "Masakazu Yoshizawa - Flower",
+    "length": 383,
+    "duration": 383,
+    "started": 1726451866,
+    "type": "track",
+    "track_id": 2912988,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates",
+    "display_artist": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates",
+    "title": "Follow The Spring Of Wu Tai Shan",
+    "display_title": "Follow The Spring Of Wu Tai Shan",
+    "track": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates - Follow The Spring Of Wu Tai Shan",
+    "length": 460,
+    "duration": 460,
+    "started": 1726452588,
+    "type": "track",
+    "track_id": 2930484,
+    "release": "Buddha and Bonsai Volume 4",
+    "art_url": "//cdn-images.audioaddict.com/5/9/9/f/5/2/599f528f44fd94533308e80510106c4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/9/f/5/2/599f528f44fd94533308e80510106c4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Bai-ji-guan",
+    "display_title": "Bai-ji-guan",
+    "track": "Zhang Fu-Quan - Bai-ji-guan",
+    "length": 430,
+    "duration": 430,
+    "started": 1726453042,
+    "type": "track",
+    "track_id": 2913083,
+    "release": "Oolong Tea",
+    "art_url": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Verdant Message",
+    "display_title": "Verdant Message",
+    "track": "Zhang Fu-Quan & Hao Han - Verdant Message",
+    "length": 484,
+    "duration": 484,
+    "started": 1726453472,
+    "type": "track",
+    "track_id": 2913020,
+    "release": "Tea & Pot",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Cloud-fog Tea, in Mt. Lu",
+    "display_title": "Cloud-fog Tea, in Mt. Lu",
+    "track": "Zhang Fu-Quan - Cloud-fog Tea, in Mt. Lu",
+    "length": 498,
+    "duration": 498,
+    "started": 1726453957,
+    "type": "track",
+    "track_id": 2912966,
+    "release": "Tea Travel",
+    "art_url": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Dreamer",
+    "display_title": "Dreamer",
+    "track": "Huang Jiang Qin - Dreamer",
+    "length": 321,
+    "duration": 321,
+    "started": 1726454792,
+    "type": "track",
+    "track_id": 2923056,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Forgot to Speak",
+    "display_title": "Forgot to Speak",
+    "track": "Zhang Wei-Liang - Forgot to Speak",
+    "length": 382,
+    "duration": 382,
+    "started": 1726455108,
+    "type": "track",
+    "track_id": 2913015,
+    "release": "Poetics of Tea",
+    "art_url": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "display_artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "title": "Moonlight Rain",
+    "display_title": "Moonlight Rain",
+    "track": "Shi Zhi-You & Yang Chun-Lin & Hao Han - Moonlight Rain",
+    "length": 293,
+    "duration": 293,
+    "started": 1726455823,
+    "type": "track",
+    "track_id": 2913116,
+    "release": "Bamboo In The Wind",
+    "art_url": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Twilight",
+    "display_title": "Twilight",
+    "track": "Masakazu Yoshizawa - Twilight",
+    "length": 91,
+    "duration": 91,
+    "started": 1726456113,
+    "type": "track",
+    "track_id": 2913096,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Perpetual peace",
+    "display_title": "Perpetual peace",
+    "track": "Dan Gibson, Daniel May - Perpetual peace",
+    "length": 385,
+    "duration": 385,
+    "started": 1726456201,
+    "type": "track",
+    "track_id": 2915047,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Stone Garden",
+    "display_title": "Stone Garden",
+    "track": "Masakazu Yoshizawa - Stone Garden",
+    "length": 313,
+    "duration": 313,
+    "started": 1726456586,
+    "type": "track",
+    "track_id": 2913063,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Camellia (Bai Ju-Yi)",
+    "display_title": "Camellia (Bai Ju-Yi)",
+    "track": "Yang Chun-Lin - Camellia (Bai Ju-Yi)",
+    "length": 537,
+    "duration": 537,
+    "started": 1726456898,
+    "type": "track",
+    "track_id": 2913151,
+    "release": "Flower Goddess II",
+    "art_url": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "display_artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "title": "Wine Of Sunset",
+    "display_title": "Wine Of Sunset",
+    "track": "Shi Zhi-You & Yang Chun-Lin & Hao Han - Wine Of Sunset",
+    "length": 340,
+    "duration": 340,
+    "started": 1726457433,
+    "type": "track",
+    "track_id": 2913156,
+    "release": "Bamboo In The Wind",
+    "art_url": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Fishing by the River",
+    "display_title": "Fishing by the River",
+    "track": "Shi Zhi-You - Fishing by the River",
+    "length": 340,
+    "duration": 340,
+    "started": 1726457769,
+    "type": "track",
+    "track_id": 2912969,
+    "release": "Zen Landscape",
+    "art_url": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Rouge",
+    "display_title": "Rouge",
+    "track": "Huang Jiang Qin - Rouge",
+    "length": 240,
+    "duration": 240,
+    "started": 1726458107,
+    "type": "track",
+    "track_id": 2923064,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Fairy By The Moonlight (The Vermilion Plum Blossom)",
+    "display_title": "Fairy By The Moonlight (The Vermilion Plum Blossom)",
+    "track": "Shi Zhi-You - Fairy By The Moonlight (The Vermilion Plum Blossom)",
+    "length": 439,
+    "duration": 439,
+    "started": 1726458347,
+    "type": "track",
+    "track_id": 2913125,
+    "release": "Plum Blossom",
+    "art_url": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Swallow To Return",
+    "display_title": "Swallow To Return",
+    "track": "Huang Jiang Qin - Swallow To Return",
+    "length": 253,
+    "duration": 253,
+    "started": 1726458783,
+    "type": "track",
+    "track_id": 2923068,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Dusk",
+    "display_title": "Dusk",
+    "track": "Masakazu Yoshizawa - Dusk",
+    "length": 61,
+    "duration": 61,
+    "started": 1726459387,
+    "type": "track",
+    "track_id": 2913107,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dragon Orchestra",
+    "display_artist": "Dragon Orchestra",
+    "title": "Chinese Impressions",
+    "display_title": "Chinese Impressions",
+    "track": "Dragon Orchestra - Chinese Impressions",
+    "length": 359,
+    "duration": 359,
+    "started": 1726459446,
+    "type": "track",
+    "track_id": 2923048,
+    "release": "A Day at the Spa: Tai Chi (Chinese Garden)",
+    "art_url": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Xiu-Lan & Quyang Qian",
+    "display_artist": "Yang Xiu-Lan & Quyang Qian",
+    "title": "Over the Water",
+    "display_title": "Over the Water",
+    "track": "Yang Xiu-Lan & Quyang Qian - Over the Water",
+    "length": 368,
+    "duration": 368,
+    "started": 1726459805,
+    "type": "track",
+    "track_id": 2913087,
+    "release": "An Invitation to Tea",
+    "art_url": "//cdn-images.audioaddict.com/e/6/b/3/5/3/e6b353d14ea35d4dd610272d18ace0b8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/b/3/5/3/e6b353d14ea35d4dd610272d18ace0b8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin & Mu Yi & Hao Han",
+    "display_artist": "Yang Chun-Lin & Mu Yi & Hao Han",
+    "title": "A Humble Heart",
+    "display_title": "A Humble Heart",
+    "track": "Yang Chun-Lin & Mu Yi & Hao Han - A Humble Heart",
+    "length": 406,
+    "duration": 406,
+    "started": 1726460173,
+    "type": "track",
+    "track_id": 2913166,
+    "release": "Bamboo Dreams",
+    "art_url": "//cdn-images.audioaddict.com/a/d/9/6/b/d/ad96bdb5fd349e8334968b43f726f3c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/9/6/b/d/ad96bdb5fd349e8334968b43f726f3c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Variation Of Dream Of Lovers",
+    "display_title": "Variation Of Dream Of Lovers",
+    "track": "Huang Jiang Qin - Variation Of Dream Of Lovers",
+    "length": 285,
+    "duration": 285,
+    "started": 1726460577,
+    "type": "track",
+    "track_id": 2923071,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Willows after Thunder Rain",
+    "display_title": "Willows after Thunder Rain",
+    "track": "Shi Zhi-You - Willows after Thunder Rain",
+    "length": 375,
+    "duration": 375,
+    "started": 1726461200,
+    "type": "track",
+    "track_id": 2913046,
+    "release": "Zen Landscape",
+    "art_url": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Image Of Majesty (The Buddha-Seated Waterlily)",
+    "display_title": "Image Of Majesty (The Buddha-Seated Waterlily)",
+    "track": "Shi Zhi-You - Image Of Majesty (The Buddha-Seated Waterlily)",
+    "length": 440,
+    "duration": 440,
+    "started": 1726461573,
+    "type": "track",
+    "track_id": 2913143,
+    "release": "Waterlily",
+    "art_url": "//cdn-images.audioaddict.com/6/6/a/8/9/f/66a89fcd94fb52b1ba4cda81ec10a993.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/a/8/9/f/66a89fcd94fb52b1ba4cda81ec10a993.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Pin Yuan & Hou Mu-Ren",
+    "display_artist": "Pin Yuan & Hou Mu-Ren",
+    "title": "I am a Piece of Cloud",
+    "display_title": "I am a Piece of Cloud",
+    "track": "Pin Yuan & Hou Mu-Ren - I am a Piece of Cloud",
+    "length": 337,
+    "duration": 337,
+    "started": 1726462014,
+    "type": "track",
+    "track_id": 2913085,
+    "release": "Drunk in Tea",
+    "art_url": "//cdn-images.audioaddict.com/9/3/8/1/f/9/9381f906ca982670edb22045536f28ec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/8/1/f/9/9381f906ca982670edb22045536f28ec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Fragrance Of The Country-Fujian Orchids",
+    "display_title": "Fragrance Of The Country-Fujian Orchids",
+    "track": "Yang Chun-Lin - Fragrance Of The Country-Fujian Orchids",
+    "length": 557,
+    "duration": 557,
+    "started": 1726462678,
+    "type": "track",
+    "track_id": 2913113,
+    "release": "Orchid",
+    "art_url": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Scents of Colors",
+    "display_title": "Scents of Colors",
+    "track": "Zhang Wei-Liang - Scents of Colors",
+    "length": 414,
+    "duration": 414,
+    "started": 1726463236,
+    "type": "track",
+    "track_id": 2913001,
+    "release": "Poetics of Tea",
+    "art_url": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ricky Sadha",
+    "display_artist": "Ricky Sadha",
+    "title": "Rice Terrace Stream",
+    "display_title": "Rice Terrace Stream",
+    "track": "Ricky Sadha - Rice Terrace Stream",
+    "length": 351,
+    "duration": 351,
+    "started": 1726464491,
+    "type": "track",
+    "track_id": 2930722,
+    "release": "Tranquility in Bali. My Secret  Places",
+    "art_url": "//cdn-images.audioaddict.com/7/1/c/1/b/2/71c1b21b49b60e467dfbef1cf4fea786.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/c/1/b/2/71c1b21b49b60e467dfbef1cf4fea786.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Pin Yuan & Hou Mu-Ren",
+    "display_artist": "Pin Yuan & Hou Mu-Ren",
+    "title": "Drunk in Tea",
+    "display_title": "Drunk in Tea",
+    "track": "Pin Yuan & Hou Mu-Ren - Drunk in Tea",
+    "length": 313,
+    "duration": 313,
+    "started": 1726464842,
+    "type": "track",
+    "track_id": 2912956,
+    "release": "Drunk in Tea",
+    "art_url": "//cdn-images.audioaddict.com/9/3/8/1/f/9/9381f906ca982670edb22045536f28ec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/8/1/f/9/9381f906ca982670edb22045536f28ec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Dance Music About Tea Plucking",
+    "display_title": "Dance Music About Tea Plucking",
+    "track": "Zhang Fu-Quan & Hao Han - Dance Music About Tea Plucking",
+    "length": 492,
+    "duration": 492,
+    "started": 1726465152,
+    "type": "track",
+    "track_id": 2912987,
+    "release": "Chinese Tea Ballads",
+    "art_url": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Wang Sen-Di",
+    "display_artist": "Wang Sen-Di",
+    "title": "Melody Of Contemplation",
+    "display_title": "Melody Of Contemplation",
+    "track": "Wang Sen-Di - Melody Of Contemplation",
+    "length": 458,
+    "duration": 458,
+    "started": 1726465645,
+    "type": "track",
+    "track_id": 2923073,
+    "release": "Asian Zen Spa - 25 Relaxing Tracks",
+    "art_url": "//cdn-images.audioaddict.com/e/a/4/c/4/f/ea4c4f35fc3d96d1ad3737eb08a19c6d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/4/c/4/f/ea4c4f35fc3d96d1ad3737eb08a19c6d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Carefree Dreamer",
+    "display_title": "Carefree Dreamer",
+    "track": "Zhang Fu-Quan & Hao Han - Carefree Dreamer",
+    "length": 448,
+    "duration": 448,
+    "started": 1726466103,
+    "type": "track",
+    "track_id": 2912995,
+    "release": "Tea & Pot",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Feng Shui",
+    "display_title": "Feng Shui",
+    "track": "Masakazu Yoshizawa - Feng Shui",
+    "length": 342,
+    "duration": 342,
+    "started": 1726466551,
+    "type": "track",
+    "track_id": 2913025,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Bi-Luo-chun Tea, in Tungting",
+    "display_title": "Bi-Luo-chun Tea, in Tungting",
+    "track": "Zhang Fu-Quan - Bi-Luo-chun Tea, in Tungting",
+    "length": 383,
+    "duration": 383,
+    "started": 1726467350,
+    "type": "track",
+    "track_id": 2913031,
+    "release": "Tea",
+    "art_url": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Chloe Chua, Singapore Symphony Orchestra, Rodolfo Barráez",
+    "display_artist": "Chloe Chua, Singapore Symphony Orchestra, Rodolfo Barráez",
+    "title": "Butterfly Lovers Violin Concerto - I. Adagio cantabile [He Zhang Hao, Chen Gang]",
+    "display_title": "Butterfly Lovers Violin Concerto - I. Adagio cantabile [He Zhang Hao, Chen Gang]",
+    "track": "Chloe Chua, Singapore Symphony Orchestra, Rodolfo Barráez - Butterfly Lovers Violin Concerto - I. Adagio cantabile [He Zhang Hao, Chen Gang]",
+    "length": 331,
+    "duration": 331,
+    "started": 1726467733,
+    "type": "track",
+    "track_id": 3098862,
+    "release": "Butterfly Lovers Concerto & Paganini",
+    "art_url": "//cdn-images.audioaddict.com/6/0/4/6/8/5/604685b7f27c03aa42dff991ab8cbb34.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/0/4/6/8/5/604685b7f27c03aa42dff991ab8cbb34.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates",
+    "display_artist": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates",
+    "title": "Kôan Of The Steer And His Sheppard",
+    "display_title": "Kôan Of The Steer And His Sheppard",
+    "track": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates - Kôan Of The Steer And His Sheppard",
+    "length": 343,
+    "duration": 343,
+    "started": 1726468065,
+    "type": "track",
+    "track_id": 2930482,
+    "release": "Buddha and Bonsai Volume 4",
+    "art_url": "//cdn-images.audioaddict.com/5/9/9/f/5/2/599f528f44fd94533308e80510106c4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/9/f/5/2/599f528f44fd94533308e80510106c4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Temple Dream",
+    "display_title": "Temple Dream",
+    "track": "Zhang Wei-Liang - Temple Dream",
+    "length": 329,
+    "duration": 329,
+    "started": 1726468404,
+    "type": "track",
+    "track_id": 2913035,
+    "release": "Tea Drops",
+    "art_url": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Tea Beauties",
+    "display_title": "Tea Beauties",
+    "track": "Zhang Wei-Liang - Tea Beauties",
+    "length": 374,
+    "duration": 374,
+    "started": 1726468731,
+    "type": "track",
+    "track_id": 2913019,
+    "release": "Tea Drops",
+    "art_url": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "红蜻蜓",
+    "display_title": "红蜻蜓",
+    "track": "Huang Jiang Qin - 红蜻蜓",
+    "length": 208,
+    "duration": 208,
+    "started": 1726469103,
+    "type": "track",
+    "track_id": 3097320,
+    "release": "Charm Flowers Passes",
+    "art_url": "//cdn-images.audioaddict.com/b/e/9/6/5/b/be965bea7a475da993212fbb6accfd87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/9/6/5/b/be965bea7a475da993212fbb6accfd87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Magnolia Cloud-fog Tea",
+    "display_title": "Magnolia Cloud-fog Tea",
+    "track": "Zhang Fu-Quan - Magnolia Cloud-fog Tea",
+    "length": 343,
+    "duration": 343,
+    "started": 1726469305,
+    "type": "track",
+    "track_id": 2913086,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "The Natural Way",
+    "display_title": "The Natural Way",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - The Natural Way",
+    "length": 443,
+    "duration": 443,
+    "started": 1726469644,
+    "type": "track",
+    "track_id": 2913108,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan",
+    "display_artist": "Ping Yuan",
+    "title": "Xi-shuang-ban-na - The Land of Hope and Wonder",
+    "display_title": "Xi-shuang-ban-na - The Land of Hope and Wonder",
+    "track": "Ping Yuan - Xi-shuang-ban-na - The Land of Hope and Wonder",
+    "length": 301,
+    "duration": 301,
+    "started": 1726470087,
+    "type": "track",
+    "track_id": 3097322,
+    "release": "Sound from the Cloudland",
+    "art_url": "//cdn-images.audioaddict.com/b/9/3/8/5/3/b938531c470e66231b8ffb16f7f6d594.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/3/8/5/3/b938531c470e66231b8ffb16f7f6d594.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Moon Falling to West Lake",
+    "display_title": "Moon Falling to West Lake",
+    "track": "Zhang Wei-Liang - Moon Falling to West Lake",
+    "length": 447,
+    "duration": 447,
+    "started": 1726470388,
+    "type": "track",
+    "track_id": 2912962,
+    "release": "Tea Drops",
+    "art_url": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin & Mu Yi & Hao Han",
+    "display_artist": "Yang Chun-Lin & Mu Yi & Hao Han",
+    "title": "Heart-Touching Sound Of Bamboo",
+    "display_title": "Heart-Touching Sound Of Bamboo",
+    "track": "Yang Chun-Lin & Mu Yi & Hao Han - Heart-Touching Sound Of Bamboo",
+    "length": 378,
+    "duration": 378,
+    "started": 1726470831,
+    "type": "track",
+    "track_id": 2913114,
+    "release": "Bamboo Dreams",
+    "art_url": "//cdn-images.audioaddict.com/a/d/9/6/b/d/ad96bdb5fd349e8334968b43f726f3c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/9/6/b/d/ad96bdb5fd349e8334968b43f726f3c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Dong-ding Tea, in Taiwan",
+    "display_title": "Dong-ding Tea, in Taiwan",
+    "track": "Zhang Fu-Quan - Dong-ding Tea, in Taiwan",
+    "length": 391,
+    "duration": 391,
+    "started": 1726471206,
+    "type": "track",
+    "track_id": 2913050,
+    "release": "Tea",
+    "art_url": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Autumn Moon at Dong-Ting Lake",
+    "display_title": "Autumn Moon at Dong-Ting Lake",
+    "track": "Shi Zhi-You - Autumn Moon at Dong-Ting Lake",
+    "length": 357,
+    "duration": 357,
+    "started": 1726471597,
+    "type": "track",
+    "track_id": 2912985,
+    "release": "Riverside Towns, Misty Rain",
+    "art_url": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Apart In The Booth",
+    "display_title": "Apart In The Booth",
+    "track": "Huang Jiang Qin - Apart In The Booth",
+    "length": 271,
+    "duration": 271,
+    "started": 1726471952,
+    "type": "track",
+    "track_id": 2923055,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Flowers on the River",
+    "display_title": "Flowers on the River",
+    "track": "Shi Zhi-You - Flowers on the River",
+    "length": 369,
+    "duration": 369,
+    "started": 1726472220,
+    "type": "track",
+    "track_id": 2912989,
+    "release": "Zen Landscape",
+    "art_url": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "A Beautiful Lady From Empty Valleys-Winter Orchids",
+    "display_title": "A Beautiful Lady From Empty Valleys-Winter Orchids",
+    "track": "Yang Chun-Lin - A Beautiful Lady From Empty Valleys-Winter Orchids",
+    "length": 588,
+    "duration": 588,
+    "started": 1726472586,
+    "type": "track",
+    "track_id": 2913148,
+    "release": "Orchid",
+    "art_url": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "Dream of a butterfly",
+    "display_title": "Dream of a butterfly",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - Dream of a butterfly",
+    "length": 292,
+    "duration": 292,
+    "started": 1726473171,
+    "type": "track",
+    "track_id": 2913109,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ricky Sadha",
+    "display_artist": "Ricky Sadha",
+    "title": "Sunset After",
+    "display_title": "Sunset After",
+    "track": "Ricky Sadha - Sunset After",
+    "length": 351,
+    "duration": 351,
+    "started": 1726473463,
+    "type": "track",
+    "track_id": 2930725,
+    "release": "Tranquility in Bali. My Secret  Places",
+    "art_url": "//cdn-images.audioaddict.com/7/1/c/1/b/2/71c1b21b49b60e467dfbef1cf4fea786.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/1/c/1/b/2/71c1b21b49b60e467dfbef1cf4fea786.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Chrysanthemum Puerth Tea",
+    "display_title": "Chrysanthemum Puerth Tea",
+    "track": "Zhang Fu-Quan - Chrysanthemum Puerth Tea",
+    "length": 341,
+    "duration": 341,
+    "started": 1726473813,
+    "type": "track",
+    "track_id": 2913103,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Attractions of the Riverside",
+    "display_title": "Attractions of the Riverside",
+    "track": "Shi Zhi-You - Attractions of the Riverside",
+    "length": 282,
+    "duration": 282,
+    "started": 1726474518,
+    "type": "track",
+    "track_id": 2913093,
+    "release": "Riverside Towns, Misty Rain",
+    "art_url": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Gardenia Puto Tea",
+    "display_title": "Gardenia Puto Tea",
+    "track": "Zhang Fu-Quan - Gardenia Puto Tea",
+    "length": 427,
+    "duration": 427,
+    "started": 1726475584,
+    "type": "track",
+    "track_id": 2913099,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Homecoming",
+    "display_title": "Homecoming",
+    "track": "Huang Jiang Qin - Homecoming",
+    "length": 290,
+    "duration": 290,
+    "started": 1726476006,
+    "type": "track",
+    "track_id": 2923057,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "display_artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "title": "In And Out Of A Dream",
+    "display_title": "In And Out Of A Dream",
+    "track": "Ping Yuan & Yang Chun-Lin & Hao Han - In And Out Of A Dream",
+    "length": 379,
+    "duration": 379,
+    "started": 1726476583,
+    "type": "track",
+    "track_id": 2913159,
+    "release": "Waves Of Pine",
+    "art_url": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Daffodil (Er-Huang And Nu-Ying)",
+    "display_title": "Daffodil (Er-Huang And Nu-Ying)",
+    "track": "Yang Chun-Lin - Daffodil (Er-Huang And Nu-Ying)",
+    "length": 505,
+    "duration": 505,
+    "started": 1726477381,
+    "type": "track",
+    "track_id": 2913158,
+    "release": "Flower Goddess II",
+    "art_url": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "Natural Sound",
+    "display_title": "Natural Sound",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - Natural Sound",
+    "length": 58,
+    "duration": 58,
+    "started": 1726478169,
+    "type": "track",
+    "track_id": 2912971,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Essence of the Green",
+    "display_title": "Essence of the Green",
+    "track": "Zhang Wei-Liang - Essence of the Green",
+    "length": 455,
+    "duration": 455,
+    "started": 1726478227,
+    "type": "track",
+    "track_id": 2912965,
+    "release": "Taste Zen in Tea",
+    "art_url": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "display_artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "title": "Friends Of Winter",
+    "display_title": "Friends Of Winter",
+    "track": "Ping Yuan & Yang Chun-Lin & Hao Han - Friends Of Winter",
+    "length": 357,
+    "duration": 357,
+    "started": 1726478683,
+    "type": "track",
+    "track_id": 2913141,
+    "release": "Waves Of Pine",
+    "art_url": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Chen Da-Wei",
+    "display_artist": "Chen Da-Wei",
+    "title": "Misty Mountain Peaks",
+    "display_title": "Misty Mountain Peaks",
+    "track": "Chen Da-Wei - Misty Mountain Peaks",
+    "length": 344,
+    "duration": 344,
+    "started": 1726479036,
+    "type": "track",
+    "track_id": 2923072,
+    "release": "Asian Zen Spa - 25 Relaxing Tracks",
+    "art_url": "//cdn-images.audioaddict.com/e/a/4/c/4/f/ea4c4f35fc3d96d1ad3737eb08a19c6d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/4/c/4/f/ea4c4f35fc3d96d1ad3737eb08a19c6d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shanghai Film Symphony Orchestra, WANG Yong-ji",
+    "display_artist": "Shanghai Film Symphony Orchestra, WANG Yong-ji",
+    "title": "Three Purities",
+    "display_title": "Three Purities",
+    "track": "Shanghai Film Symphony Orchestra, WANG Yong-ji - Three Purities",
+    "length": 495,
+    "duration": 495,
+    "started": 1726479707,
+    "type": "track",
+    "track_id": 2930471,
+    "release": "Chinese Taoist Music. Three Purities",
+    "art_url": "//cdn-images.audioaddict.com/a/d/c/b/0/8/adcb083d6cfa0e3c648470e533834963.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/c/b/0/8/adcb083d6cfa0e3c648470e533834963.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Hibiscus Blossom (Shi Man-Qing)",
+    "display_title": "Hibiscus Blossom (Shi Man-Qing)",
+    "track": "Yang Chun-Lin - Hibiscus Blossom (Shi Man-Qing)",
+    "length": 538,
+    "duration": 538,
+    "started": 1726480196,
+    "type": "track",
+    "track_id": 2913142,
+    "release": "Flower Goddess II",
+    "art_url": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Wild Beauty By County Fences (Wild Chrysanthemum)",
+    "display_title": "Wild Beauty By County Fences (Wild Chrysanthemum)",
+    "track": "Yang Chun-Lin - Wild Beauty By County Fences (Wild Chrysanthemum)",
+    "length": 528,
+    "duration": 528,
+    "started": 1726481042,
+    "type": "track",
+    "track_id": 2913120,
+    "release": "Chrysanthemum",
+    "art_url": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin & Mu Yi & Hao Han",
+    "display_artist": "Yang Chun-Lin & Mu Yi & Hao Han",
+    "title": "Bamboo Watching",
+    "display_title": "Bamboo Watching",
+    "track": "Yang Chun-Lin & Mu Yi & Hao Han - Bamboo Watching",
+    "length": 451,
+    "duration": 451,
+    "started": 1726482031,
+    "type": "track",
+    "track_id": 2913131,
+    "release": "Bamboo Dreams",
+    "art_url": "//cdn-images.audioaddict.com/a/d/9/6/b/d/ad96bdb5fd349e8334968b43f726f3c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/9/6/b/d/ad96bdb5fd349e8334968b43f726f3c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Reunion of Joy",
+    "display_title": "Reunion of Joy",
+    "track": "Dan Gibson, Daniel May - Reunion of Joy",
+    "length": 81,
+    "duration": 81,
+    "started": 1726482478,
+    "type": "track",
+    "track_id": 2915046,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Tea Song of the Xiang River",
+    "display_title": "Tea Song of the Xiang River",
+    "track": "Zhang Fu-Quan & Hao Han - Tea Song of the Xiang River",
+    "length": 315,
+    "duration": 315,
+    "started": 1726482560,
+    "type": "track",
+    "track_id": 2912974,
+    "release": "Chinese Tea Ballads",
+    "art_url": "//cdn-images.audioaddict.com/8/4/d/f/c/9/84dfc93384b65e2f370b88eddbefd8b9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/d/f/c/9/84dfc93384b65e2f370b88eddbefd8b9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Mao-chien Tea, in Hsinyang",
+    "display_title": "Mao-chien Tea, in Hsinyang",
+    "track": "Zhang Fu-Quan - Mao-chien Tea, in Hsinyang",
+    "length": 386,
+    "duration": 386,
+    "started": 1726482875,
+    "type": "track",
+    "track_id": 2913028,
+    "release": "Tea Travel",
+    "art_url": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "Big Peng",
+    "display_title": "Big Peng",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - Big Peng",
+    "length": 290,
+    "duration": 290,
+    "started": 1726483262,
+    "type": "track",
+    "track_id": 2913077,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Listen to the Spring",
+    "display_title": "Listen to the Spring",
+    "track": "Zhang Wei-Liang - Listen to the Spring",
+    "length": 357,
+    "duration": 357,
+    "started": 1726483552,
+    "type": "track",
+    "track_id": 2912996,
+    "release": "Tea Drops",
+    "art_url": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Older Allure",
+    "display_title": "Older Allure",
+    "track": "Zhang Fu-Quan & Hao Han - Older Allure",
+    "length": 410,
+    "duration": 410,
+    "started": 1726483906,
+    "type": "track",
+    "track_id": 2913068,
+    "release": "Tea & Pot",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "Tao as the Central Factor",
+    "display_title": "Tao as the Central Factor",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - Tao as the Central Factor",
+    "length": 168,
+    "duration": 168,
+    "started": 1726484317,
+    "type": "track",
+    "track_id": 2913010,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/0/b/1/d/0/4/0b1d04f1454481deeee1520796b14ea7.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/1/d/0/4/0b1d04f1454481deeee1520796b14ea7.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Twins Lying On One Sepal (The Plum Blossom Couple)",
+    "display_title": "Twins Lying On One Sepal (The Plum Blossom Couple)",
+    "track": "Shi Zhi-You - Twins Lying On One Sepal (The Plum Blossom Couple)",
+    "length": 524,
+    "duration": 524,
+    "started": 1726485903,
+    "type": "track",
+    "track_id": 2913164,
+    "release": "Plum Blossom",
+    "art_url": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Spring Tea, in Fukien",
+    "display_title": "Spring Tea, in Fukien",
+    "track": "Zhang Fu-Quan - Spring Tea, in Fukien",
+    "length": 292,
+    "duration": 292,
+    "started": 1726486428,
+    "type": "track",
+    "track_id": 2913070,
+    "release": "Tea",
+    "art_url": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Moon",
+    "display_title": "Moon",
+    "track": "Masakazu Yoshizawa - Moon",
+    "length": 354,
+    "duration": 354,
+    "started": 1726486718,
+    "type": "track",
+    "track_id": 2913007,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "display_artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "title": "Waves Of Pine",
+    "display_title": "Waves Of Pine",
+    "track": "Ping Yuan & Yang Chun-Lin & Hao Han - Waves Of Pine",
+    "length": 339,
+    "duration": 339,
+    "started": 1726487068,
+    "type": "track",
+    "track_id": 2913129,
+    "release": "Waves Of Pine",
+    "art_url": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "The Sweet Love",
+    "display_title": "The Sweet Love",
+    "track": "Huang Jiang Qin - The Sweet Love",
+    "length": 303,
+    "duration": 303,
+    "started": 1726487403,
+    "type": "track",
+    "track_id": 2923069,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "An Evening Palace Banquet",
+    "display_title": "An Evening Palace Banquet",
+    "track": "Shi Zhi-You - An Evening Palace Banquet",
+    "length": 427,
+    "duration": 427,
+    "started": 1726488592,
+    "type": "track",
+    "track_id": 2913057,
+    "release": "Treasured Paintings of Ancient China",
+    "art_url": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dragon Orchestra",
+    "display_artist": "Dragon Orchestra",
+    "title": "Zen",
+    "display_title": "Zen",
+    "track": "Dragon Orchestra - Zen",
+    "length": 419,
+    "duration": 419,
+    "started": 1726489014,
+    "type": "track",
+    "track_id": 2923052,
+    "release": "A Day at the Spa: Tai Chi (Chinese Garden)",
+    "art_url": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dragon Orchestra",
+    "display_artist": "Dragon Orchestra",
+    "title": "Silk Road",
+    "display_title": "Silk Road",
+    "track": "Dragon Orchestra - Silk Road",
+    "length": 374,
+    "duration": 374,
+    "started": 1726489434,
+    "type": "track",
+    "track_id": 2923051,
+    "release": "A Day at the Spa: Tai Chi (Chinese Garden)",
+    "art_url": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Amisdt the cherry blossoms",
+    "display_title": "Amisdt the cherry blossoms",
+    "track": "Dan Gibson, Daniel May - Amisdt the cherry blossoms",
+    "length": 416,
+    "duration": 416,
+    "started": 1726490878,
+    "type": "track",
+    "track_id": 2915043,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "display_artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "title": "Ghostly Shadows",
+    "display_title": "Ghostly Shadows",
+    "track": "Ping Yuan & Yang Chun-Lin & Hao Han - Ghostly Shadows",
+    "length": 330,
+    "duration": 330,
+    "started": 1726491295,
+    "type": "track",
+    "track_id": 2913168,
+    "release": "Waves Of Pine",
+    "art_url": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "The Milky Way",
+    "display_title": "The Milky Way",
+    "track": "Masakazu Yoshizawa - The Milky Way",
+    "length": 316,
+    "duration": 316,
+    "started": 1726491623,
+    "type": "track",
+    "track_id": 2913106,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Hornsey Pa",
+    "display_title": "Hornsey Pa",
+    "track": "Huang Jiang Qin - Hornsey Pa",
+    "length": 255,
+    "duration": 255,
+    "started": 1726491933,
+    "type": "track",
+    "track_id": 2923059,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dragon Orchestra",
+    "display_artist": "Dragon Orchestra",
+    "title": "Lotus Garden",
+    "display_title": "Lotus Garden",
+    "track": "Dragon Orchestra - Lotus Garden",
+    "length": 376,
+    "duration": 376,
+    "started": 1726492856,
+    "type": "track",
+    "track_id": 2751726,
+    "release": "A Day at the Spa: Tai Chi (Chinese Garden)",
+    "art_url": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Pin Yuan & Hou Mu-Ren",
+    "display_artist": "Pin Yuan & Hou Mu-Ren",
+    "title": "The Draker, the More Beautiful",
+    "display_title": "The Draker, the More Beautiful",
+    "track": "Pin Yuan & Hou Mu-Ren - The Draker, the More Beautiful",
+    "length": 286,
+    "duration": 286,
+    "started": 1726493587,
+    "type": "track",
+    "track_id": 2912983,
+    "release": "Drunk in Tea",
+    "art_url": "//cdn-images.audioaddict.com/9/3/8/1/f/9/9381f906ca982670edb22045536f28ec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/8/1/f/9/9381f906ca982670edb22045536f28ec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Long-jing Tea, in Xihu",
+    "display_title": "Long-jing Tea, in Xihu",
+    "track": "Zhang Fu-Quan - Long-jing Tea, in Xihu",
+    "length": 403,
+    "duration": 403,
+    "started": 1726493870,
+    "type": "track",
+    "track_id": 2912961,
+    "release": "Tea",
+    "art_url": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Origin Of Fragrance-Spring Orchids",
+    "display_title": "Origin Of Fragrance-Spring Orchids",
+    "track": "Yang Chun-Lin - Origin Of Fragrance-Spring Orchids",
+    "length": 582,
+    "duration": 582,
+    "started": 1726494272,
+    "type": "track",
+    "track_id": 2913128,
+    "release": "Orchid",
+    "art_url": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Goddess Of The Moon (White Chrysanthemum)",
+    "display_title": "Goddess Of The Moon (White Chrysanthemum)",
+    "track": "Yang Chun-Lin - Goddess Of The Moon (White Chrysanthemum)",
+    "length": 477,
+    "duration": 477,
+    "started": 1726495300,
+    "type": "track",
+    "track_id": 2913153,
+    "release": "Chrysanthemum",
+    "art_url": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shanghai Film Symphony Orchestra, WANG Yong-ji",
+    "display_artist": "Shanghai Film Symphony Orchestra, WANG Yong-ji",
+    "title": "Traveling in Empty Space",
+    "display_title": "Traveling in Empty Space",
+    "track": "Shanghai Film Symphony Orchestra, WANG Yong-ji - Traveling in Empty Space",
+    "length": 288,
+    "duration": 288,
+    "started": 1726495775,
+    "type": "track",
+    "track_id": 2930474,
+    "release": "Chinese Taoist Music. Welcoming Guests from Heaven",
+    "art_url": "//cdn-images.audioaddict.com/d/3/5/a/3/a/d35a3af724a9be6802912c799a03f258.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/5/a/3/a/d35a3af724a9be6802912c799a03f258.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ren Yun",
+    "display_artist": "Ren Yun",
+    "title": "Respect",
+    "display_title": "Respect",
+    "track": "Ren Yun - Respect",
+    "length": 728,
+    "duration": 728,
+    "started": 1726496063,
+    "type": "track",
+    "track_id": 2913000,
+    "release": "Cha Tao The Way Of Tea",
+    "art_url": "//cdn-images.audioaddict.com/e/0/3/f/b/e/e03fbef007f0dc4ca30d09851431d2fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/3/f/b/e/e03fbef007f0dc4ca30d09851431d2fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "No nothing at all",
+    "display_title": "No nothing at all",
+    "track": "Zhang Wei-Liang - No nothing at all",
+    "length": 374,
+    "duration": 374,
+    "started": 1726496788,
+    "type": "track",
+    "track_id": 2913091,
+    "release": "Taste Zen in Tea",
+    "art_url": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Light as Rosy Clouds",
+    "display_title": "Light as Rosy Clouds",
+    "track": "Zhang Fu-Quan & Hao Han - Light as Rosy Clouds",
+    "length": 306,
+    "duration": 306,
+    "started": 1726497163,
+    "type": "track",
+    "track_id": 2912960,
+    "release": "Tea & Pot",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Omei Flower Tea, in Mt. Omei",
+    "display_title": "Omei Flower Tea, in Mt. Omei",
+    "track": "Zhang Fu-Quan - Omei Flower Tea, in Mt. Omei",
+    "length": 421,
+    "duration": 421,
+    "started": 1726497469,
+    "type": "track",
+    "track_id": 2913094,
+    "release": "Tea Travel",
+    "art_url": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Supreme Fragrance In The World-Baosui Orchids",
+    "display_title": "Supreme Fragrance In The World-Baosui Orchids",
+    "track": "Yang Chun-Lin - Supreme Fragrance In The World-Baosui Orchids",
+    "length": 581,
+    "duration": 581,
+    "started": 1726498515,
+    "type": "track",
+    "track_id": 2913163,
+    "release": "Orchid",
+    "art_url": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Ma Lin",
+    "display_title": "Ma Lin",
+    "track": "Shi Zhi-You - Ma Lin",
+    "length": 402,
+    "duration": 402,
+    "started": 1726499967,
+    "type": "track",
+    "track_id": 2913027,
+    "release": "Colors of Seasons",
+    "art_url": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Taitai Mao-chien Tea",
+    "display_title": "Taitai Mao-chien Tea",
+    "track": "Zhang Fu-Quan - Taitai Mao-chien Tea",
+    "length": 408,
+    "duration": 408,
+    "started": 1726500364,
+    "type": "track",
+    "track_id": 2913018,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Snow",
+    "display_title": "Snow",
+    "track": "Huang Jiang Qin - Snow",
+    "length": 233,
+    "duration": 233,
+    "started": 1726500772,
+    "type": "track",
+    "track_id": 2923066,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/1/e/7/7/6/01e77604ce440e74fb6eb9d226861c2f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/e/7/7/6/01e77604ce440e74fb6eb9d226861c2f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "River of Fragrance",
+    "display_title": "River of Fragrance",
+    "track": "Zhang Wei-Liang - River of Fragrance",
+    "length": 402,
+    "duration": 402,
+    "started": 1726501001,
+    "type": "track",
+    "track_id": 2912984,
+    "release": "Taste Zen in Tea",
+    "art_url": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan, Chun-Lin Yang",
+    "display_artist": "Zhang Fu-Quan, Chun-Lin Yang",
+    "title": "The Sheng Player",
+    "display_title": "The Sheng Player",
+    "track": "Zhang Fu-Quan, Chun-Lin Yang - The Sheng Player",
+    "length": 507,
+    "duration": 507,
+    "started": 1726501404,
+    "type": "track",
+    "track_id": 2912991,
+    "release": "Flying Devata -- Dunhuang",
+    "art_url": "//cdn-images.audioaddict.com/1/1/3/3/f/9/1133f9321f8af6bfd5c8afd240deed99.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/1/3/3/f/9/1133f9321f8af6bfd5c8afd240deed99.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "World of Transparence",
+    "display_title": "World of Transparence",
+    "track": "Zhang Fu-Quan & Hao Han - World of Transparence",
+    "length": 365,
+    "duration": 365,
+    "started": 1726501911,
+    "type": "track",
+    "track_id": 2913037,
+    "release": "Tea & Pot",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Autumn Blossoms at Pu Pond",
+    "display_title": "Autumn Blossoms at Pu Pond",
+    "track": "Shi Zhi-You - Autumn Blossoms at Pu Pond",
+    "length": 362,
+    "duration": 362,
+    "started": 1726502277,
+    "type": "track",
+    "track_id": 2913040,
+    "release": "Riverside Towns, Misty Rain",
+    "art_url": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Extreme Beauty (The Yellow Plum Blossom)",
+    "display_title": "Extreme Beauty (The Yellow Plum Blossom)",
+    "track": "Shi Zhi-You - Extreme Beauty (The Yellow Plum Blossom)",
+    "length": 492,
+    "duration": 492,
+    "started": 1726502634,
+    "type": "track",
+    "track_id": 2913140,
+    "release": "Plum Blossom",
+    "art_url": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Starry Sky",
+    "display_title": "Starry Sky",
+    "track": "Zhang Fu-Quan & Hao Han - Starry Sky",
+    "length": 417,
+    "duration": 417,
+    "started": 1726503986,
+    "type": "track",
+    "track_id": 2912982,
+    "release": "Tea & Pot",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Xiu-Lan & Quyang Qian",
+    "display_artist": "Yang Xiu-Lan & Quyang Qian",
+    "title": "Please",
+    "display_title": "Please",
+    "track": "Yang Xiu-Lan & Quyang Qian - Please",
+    "length": 279,
+    "duration": 279,
+    "started": 1726506341,
+    "type": "track",
+    "track_id": 2912978,
+    "release": "An Invitation to Tea",
+    "art_url": "//cdn-images.audioaddict.com/e/6/b/3/5/3/e6b353d14ea35d4dd610272d18ace0b8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/b/3/5/3/e6b353d14ea35d4dd610272d18ace0b8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "Music of the Earth",
+    "display_title": "Music of the Earth",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - Music of the Earth",
+    "length": 129,
+    "duration": 129,
+    "started": 1726507978,
+    "type": "track",
+    "track_id": 2913061,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Phoenix-daffodil Tea, in Kwangtung",
+    "display_title": "Phoenix-daffodil Tea, in Kwangtung",
+    "track": "Zhang Fu-Quan - Phoenix-daffodil Tea, in Kwangtung",
+    "length": 311,
+    "duration": 311,
+    "started": 1726508107,
+    "type": "track",
+    "track_id": 2912977,
+    "release": "Tea",
+    "art_url": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Hollyhock Blossom (Lady Li)",
+    "display_title": "Hollyhock Blossom (Lady Li)",
+    "track": "Yang Chun-Lin - Hollyhock Blossom (Lady Li)",
+    "length": 498,
+    "duration": 498,
+    "started": 1726508419,
+    "type": "track",
+    "track_id": 2913115,
+    "release": "Flower Goddess II",
+    "art_url": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "As Free as the Clouds",
+    "display_title": "As Free as the Clouds",
+    "track": "Zhang Wei-Liang - As Free as the Clouds",
+    "length": 423,
+    "duration": 423,
+    "started": 1726508971,
+    "type": "track",
+    "track_id": 2913074,
+    "release": "Taste Zen in Tea",
+    "art_url": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Icy Flesh and Jade Bones",
+    "display_title": "Icy Flesh and Jade Bones",
+    "track": "Zhang Wei-Liang - Icy Flesh and Jade Bones",
+    "length": 331,
+    "duration": 331,
+    "started": 1726509394,
+    "type": "track",
+    "track_id": 2913052,
+    "release": "Poetics of Tea",
+    "art_url": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "display_artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "title": "A Pine Upon A Mirror",
+    "display_title": "A Pine Upon A Mirror",
+    "track": "Ping Yuan & Yang Chun-Lin & Hao Han - A Pine Upon A Mirror",
+    "length": 330,
+    "duration": 330,
+    "started": 1726510073,
+    "type": "track",
+    "track_id": 2913169,
+    "release": "Waves Of Pine",
+    "art_url": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shanghai Film Symphony Orchestra, WANG Yong-ji",
+    "display_artist": "Shanghai Film Symphony Orchestra, WANG Yong-ji",
+    "title": "Maitraya Bodhisattva Song",
+    "display_title": "Maitraya Bodhisattva Song",
+    "track": "Shanghai Film Symphony Orchestra, WANG Yong-ji - Maitraya Bodhisattva Song",
+    "length": 546,
+    "duration": 546,
+    "started": 1726510918,
+    "type": "track",
+    "track_id": 2930472,
+    "release": "Chinese Taoist Music. Welcoming Guests from Heaven",
+    "art_url": "//cdn-images.audioaddict.com/d/3/5/a/3/a/d35a3af724a9be6802912c799a03f258.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/5/a/3/a/d35a3af724a9be6802912c799a03f258.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan, Chun-Lin Yang",
+    "display_artist": "Zhang Fu-Quan, Chun-Lin Yang",
+    "title": "Celestial Music From Bell Tower",
+    "display_title": "Celestial Music From Bell Tower",
+    "track": "Zhang Fu-Quan, Chun-Lin Yang - Celestial Music From Bell Tower",
+    "length": 565,
+    "duration": 565,
+    "started": 1726511458,
+    "type": "track",
+    "track_id": 2913058,
+    "release": "Flying Devata -- Dunhuang",
+    "art_url": "//cdn-images.audioaddict.com/1/1/3/3/f/9/1133f9321f8af6bfd5c8afd240deed99.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/1/3/3/f/9/1133f9321f8af6bfd5c8afd240deed99.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Pearl-orchid Ta-fang Tea",
+    "display_title": "Pearl-orchid Ta-fang Tea",
+    "track": "Zhang Fu-Quan - Pearl-orchid Ta-fang Tea",
+    "length": 302,
+    "duration": 302,
+    "started": 1726512024,
+    "type": "track",
+    "track_id": 2912963,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Milk Tea, in Mongolia",
+    "display_title": "Milk Tea, in Mongolia",
+    "track": "Zhang Fu-Quan - Milk Tea, in Mongolia",
+    "length": 437,
+    "duration": 437,
+    "started": 1726512325,
+    "type": "track",
+    "track_id": 2912998,
+    "release": "Tea",
+    "art_url": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Yesterdays and Todays",
+    "display_title": "Yesterdays and Todays",
+    "track": "Zhang Wei-Liang - Yesterdays and Todays",
+    "length": 418,
+    "duration": 418,
+    "started": 1726512759,
+    "type": "track",
+    "track_id": 2913090,
+    "release": "Poetics of Tea",
+    "art_url": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Tea Plucking Girls",
+    "display_title": "Tea Plucking Girls",
+    "track": "Zhang Fu-Quan & Hao Han - Tea Plucking Girls",
+    "length": 300,
+    "duration": 300,
+    "started": 1726513176,
+    "type": "track",
+    "track_id": 2913064,
+    "release": "Chinese Tea Ballads",
+    "art_url": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Fu Na & Huang Jiang Qin",
+    "display_artist": "Fu Na & Huang Jiang Qin",
+    "title": "Chrysanthemum stage",
+    "display_title": "Chrysanthemum stage",
+    "track": "Fu Na & Huang Jiang Qin - Chrysanthemum stage",
+    "length": 312,
+    "duration": 312,
+    "started": 1726513891,
+    "type": "track",
+    "track_id": 3097315,
+    "release": "Face To Face 2 (Guzheng VS Erhu)",
+    "art_url": "//cdn-images.audioaddict.com/7/0/b/6/4/9/70b649a1067368ca68ebc35f0498a425.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/b/6/4/9/70b649a1067368ca68ebc35f0498a425.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "A-Thousand-Eye-and-a-Thousand-Hand Bodhisattva Kuan Yin",
+    "display_title": "A-Thousand-Eye-and-a-Thousand-Hand Bodhisattva Kuan Yin",
+    "track": "Shi Zhi-You - A-Thousand-Eye-and-a-Thousand-Hand Bodhisattva Kuan Yin",
+    "length": 453,
+    "duration": 453,
+    "started": 1726514201,
+    "type": "track",
+    "track_id": 2913023,
+    "release": "Treasured Paintings of Ancient China",
+    "art_url": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Intertwining Shadow (The Twin Waterlily)",
+    "display_title": "Intertwining Shadow (The Twin Waterlily)",
+    "track": "Shi Zhi-You - Intertwining Shadow (The Twin Waterlily)",
+    "length": 492,
+    "duration": 492,
+    "started": 1726514648,
+    "type": "track",
+    "track_id": 2913160,
+    "release": "Waterlily",
+    "art_url": "//cdn-images.audioaddict.com/6/6/a/8/9/f/66a89fcd94fb52b1ba4cda81ec10a993.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/a/8/9/f/66a89fcd94fb52b1ba4cda81ec10a993.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Feng-huang-dan-cong",
+    "display_title": "Feng-huang-dan-cong",
+    "track": "Zhang Fu-Quan - Feng-huang-dan-cong",
+    "length": 432,
+    "duration": 432,
+    "started": 1726515141,
+    "type": "track",
+    "track_id": 2912975,
+    "release": "Oolong Tea",
+    "art_url": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Pingju",
+    "display_title": "Pingju",
+    "track": "Huang Jiang Qin - Pingju",
+    "length": 209,
+    "duration": 209,
+    "started": 1726515968,
+    "type": "track",
+    "track_id": 2923062,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Pomegranate Blossom (Zhong Kui)",
+    "display_title": "Pomegranate Blossom (Zhong Kui)",
+    "track": "Shi Zhi-You - Pomegranate Blossom (Zhong Kui)",
+    "length": 529,
+    "duration": 529,
+    "started": 1726516914,
+    "type": "track",
+    "track_id": 2913154,
+    "release": "Flower Goddess I",
+    "art_url": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Spring upon the Lake (Qing Dynasty)",
+    "display_title": "Spring upon the Lake (Qing Dynasty)",
+    "track": "Shi Zhi-You - Spring upon the Lake (Qing Dynasty)",
+    "length": 424,
+    "duration": 424,
+    "started": 1726517440,
+    "type": "track",
+    "track_id": 2912973,
+    "release": "Colors of Seasons",
+    "art_url": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Ambrosial Dew",
+    "display_title": "Ambrosial Dew",
+    "track": "Dan Gibson, Daniel May - Ambrosial Dew",
+    "length": 444,
+    "duration": 444,
+    "started": 1726517954,
+    "type": "track",
+    "track_id": 2915038,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "Forgotten in the Lake",
+    "display_title": "Forgotten in the Lake",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - Forgotten in the Lake",
+    "length": 349,
+    "duration": 349,
+    "started": 1726518399,
+    "type": "track",
+    "track_id": 2913104,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/d/c/4/0/6/a/dc406a73184ad36c7465af3551b919d6.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/c/4/0/6/a/dc406a73184ad36c7465af3551b919d6.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Flowers Of Nobility-Chiya-Suxin Orchids",
+    "display_title": "Flowers Of Nobility-Chiya-Suxin Orchids",
+    "track": "Yang Chun-Lin - Flowers Of Nobility-Chiya-Suxin Orchids",
+    "length": 570,
+    "duration": 570,
+    "started": 1726518747,
+    "type": "track",
+    "track_id": 2913133,
+    "release": "Orchid",
+    "art_url": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/b/d/2/5/2/6bd252fb129897de9ec42ab650dd86ea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates",
+    "display_artist": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates",
+    "title": "First Dawn",
+    "display_title": "First Dawn",
+    "track": "James Nyoraku Schlefer, Margot Reisinger, Tome Bates - First Dawn",
+    "length": 261,
+    "duration": 261,
+    "started": 1726519318,
+    "type": "track",
+    "track_id": 2930483,
+    "release": "Buddha and Bonsai Volume 4",
+    "art_url": "//cdn-images.audioaddict.com/5/9/9/f/5/2/599f528f44fd94533308e80510106c4a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/9/9/f/5/2/599f528f44fd94533308e80510106c4a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Laurel Blossom (Lady Xu Hui)",
+    "display_title": "Laurel Blossom (Lady Xu Hui)",
+    "track": "Yang Chun-Lin - Laurel Blossom (Lady Xu Hui)",
+    "length": 536,
+    "duration": 536,
+    "started": 1726519578,
+    "type": "track",
+    "track_id": 2913127,
+    "release": "Flower Goddess II",
+    "art_url": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/3/8/0/b/7/8380b76d63b560df4e3cf9bc77d7da48.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Maharani",
+    "display_artist": "Maharani",
+    "title": "The Tireless Sea",
+    "display_title": "The Tireless Sea",
+    "track": "Maharani - The Tireless Sea",
+    "length": 329,
+    "duration": 329,
+    "started": 1726520941,
+    "type": "track",
+    "track_id": 2930731,
+    "release": "Oceans Of Tranquality",
+    "art_url": "//cdn-images.audioaddict.com/0/6/e/7/8/1/06e781fa8cc230f2c37e666d58dce706.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/e/7/8/1/06e781fa8cc230f2c37e666d58dce706.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ren Yun",
+    "display_artist": "Ren Yun",
+    "title": "Purity",
+    "display_title": "Purity",
+    "track": "Ren Yun - Purity",
+    "length": 561,
+    "duration": 561,
+    "started": 1726521271,
+    "type": "track",
+    "track_id": 2912980,
+    "release": "Cha Tao The Way Of Tea",
+    "art_url": "//cdn-images.audioaddict.com/e/0/3/f/b/e/e03fbef007f0dc4ca30d09851431d2fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/3/f/b/e/e03fbef007f0dc4ca30d09851431d2fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Rain and Tea",
+    "display_title": "Rain and Tea",
+    "track": "Zhang Wei-Liang - Rain and Tea",
+    "length": 346,
+    "duration": 346,
+    "started": 1726521830,
+    "type": "track",
+    "track_id": 2912981,
+    "release": "Tea Drops",
+    "art_url": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Mao-feng Tea, in Hwang Shan",
+    "display_title": "Mao-feng Tea, in Hwang Shan",
+    "track": "Zhang Fu-Quan - Mao-feng Tea, in Hwang Shan",
+    "length": 514,
+    "duration": 514,
+    "started": 1726522489,
+    "type": "track",
+    "track_id": 2913080,
+    "release": "Tea Travel",
+    "art_url": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Wang, Jian-Yuan",
+    "display_artist": "Wang, Jian-Yuan",
+    "title": "Tranquillity",
+    "display_title": "Tranquillity",
+    "track": "Wang, Jian-Yuan - Tranquillity",
+    "length": 483,
+    "duration": 483,
+    "started": 1726523004,
+    "type": "track",
+    "track_id": 2923075,
+    "release": "Asian Zen Spa - 25 Relaxing Tracks",
+    "art_url": "//cdn-images.audioaddict.com/e/a/4/c/4/f/ea4c4f35fc3d96d1ad3737eb08a19c6d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/a/4/c/4/f/ea4c4f35fc3d96d1ad3737eb08a19c6d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "display_artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "title": "Shadow In The Bamboo Woods",
+    "display_title": "Shadow In The Bamboo Woods",
+    "track": "Shi Zhi-You & Yang Chun-Lin & Hao Han - Shadow In The Bamboo Woods",
+    "length": 416,
+    "duration": 416,
+    "started": 1726523831,
+    "type": "track",
+    "track_id": 2913138,
+    "release": "Bamboo In The Wind",
+    "art_url": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Fu Na & Huang Jiang Qin",
+    "display_artist": "Fu Na & Huang Jiang Qin",
+    "title": "Red rose",
+    "display_title": "Red rose",
+    "track": "Fu Na & Huang Jiang Qin - Red rose",
+    "length": 243,
+    "duration": 243,
+    "started": 1726524597,
+    "type": "track",
+    "track_id": 3097316,
+    "release": "Face To Face 2 (Guzheng VS Erhu)",
+    "art_url": "//cdn-images.audioaddict.com/7/0/b/6/4/9/70b649a1067368ca68ebc35f0498a425.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/b/6/4/9/70b649a1067368ca68ebc35f0498a425.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Fu Na & Huang Jiang Qin",
+    "display_artist": "Fu Na & Huang Jiang Qin",
+    "title": "Gewei and quan yei cha",
+    "display_title": "Gewei and quan yei cha",
+    "track": "Fu Na & Huang Jiang Qin - Gewei and quan yei cha",
+    "length": 217,
+    "duration": 217,
+    "started": 1726524834,
+    "type": "track",
+    "track_id": 3097314,
+    "release": "Face To Face 2 (Guzheng VS Erhu)",
+    "art_url": "//cdn-images.audioaddict.com/7/0/b/6/4/9/70b649a1067368ca68ebc35f0498a425.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/b/6/4/9/70b649a1067368ca68ebc35f0498a425.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Rose Green Tea",
+    "display_title": "Rose Green Tea",
+    "track": "Zhang Fu-Quan - Rose Green Tea",
+    "length": 364,
+    "duration": 364,
+    "started": 1726525418,
+    "type": "track",
+    "track_id": 2913034,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Both are Forgotten",
+    "display_title": "Both are Forgotten",
+    "track": "Zhang Wei-Liang - Both are Forgotten",
+    "length": 356,
+    "duration": 356,
+    "started": 1726525780,
+    "type": "track",
+    "track_id": 2913039,
+    "release": "Taste Zen in Tea",
+    "art_url": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "A Tea Ballad",
+    "display_title": "A Tea Ballad",
+    "track": "Zhang Fu-Quan & Hao Han - A Tea Ballad",
+    "length": 377,
+    "duration": 377,
+    "started": 1726526138,
+    "type": "track",
+    "track_id": 2913022,
+    "release": "Chinese Tea Ballads",
+    "art_url": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Azure skies",
+    "display_title": "Azure skies",
+    "track": "Dan Gibson, Daniel May - Azure skies",
+    "length": 359,
+    "duration": 359,
+    "started": 1726526510,
+    "type": "track",
+    "track_id": 2915039,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Suddenly Love",
+    "display_title": "Suddenly Love",
+    "track": "Huang Jiang Qin - Suddenly Love",
+    "length": 286,
+    "duration": 286,
+    "started": 1726526869,
+    "type": "track",
+    "track_id": 2923067,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Is Regrettable",
+    "display_title": "Is Regrettable",
+    "track": "Huang Jiang Qin - Is Regrettable",
+    "length": 234,
+    "duration": 234,
+    "started": 1726527152,
+    "type": "track",
+    "track_id": 2923060,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Flying Rain",
+    "display_title": "Flying Rain",
+    "track": "Zhang Wei-Liang - Flying Rain",
+    "length": 361,
+    "duration": 361,
+    "started": 1726527387,
+    "type": "track",
+    "track_id": 2913032,
+    "release": "Poetics of Tea",
+    "art_url": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "display_artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "title": "In Deep Clouds",
+    "display_title": "In Deep Clouds",
+    "track": "Ping Yuan & Yang Chun-Lin & Hao Han - In Deep Clouds",
+    "length": 339,
+    "duration": 339,
+    "started": 1726527744,
+    "type": "track",
+    "track_id": 2913134,
+    "release": "Waves Of Pine",
+    "art_url": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Apricot Blossom (Lady Yang Gui-Fei)",
+    "display_title": "Apricot Blossom (Lady Yang Gui-Fei)",
+    "track": "Shi Zhi-You - Apricot Blossom (Lady Yang Gui-Fei)",
+    "length": 421,
+    "duration": 421,
+    "started": 1726528079,
+    "type": "track",
+    "track_id": 2913122,
+    "release": "Flower Goddess I",
+    "art_url": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Morning Glory in Spring",
+    "display_title": "Morning Glory in Spring",
+    "track": "Shi Zhi-You - Morning Glory in Spring",
+    "length": 283,
+    "duration": 283,
+    "started": 1726528498,
+    "type": "track",
+    "track_id": 2913060,
+    "release": "Riverside Towns, Misty Rain",
+    "art_url": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "The Realm of the Wise",
+    "display_title": "The Realm of the Wise",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - The Realm of the Wise",
+    "length": 208,
+    "duration": 208,
+    "started": 1726528777,
+    "type": "track",
+    "track_id": 2913102,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Bai-hao-oolong",
+    "display_title": "Bai-hao-oolong",
+    "track": "Zhang Fu-Quan - Bai-hao-oolong",
+    "length": 484,
+    "duration": 484,
+    "started": 1726528985,
+    "type": "track",
+    "track_id": 2913013,
+    "release": "Oolong Tea",
+    "art_url": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Fu Na & Huang Jiang Qin",
+    "display_artist": "Fu Na & Huang Jiang Qin",
+    "title": "I hope my family members convalesce soon",
+    "display_title": "I hope my family members convalesce soon",
+    "track": "Fu Na & Huang Jiang Qin - I hope my family members convalesce soon",
+    "length": 273,
+    "duration": 273,
+    "started": 1726529469,
+    "type": "track",
+    "track_id": 3097317,
+    "release": "Face To Face 2 (Guzheng VS Erhu)",
+    "art_url": "//cdn-images.audioaddict.com/7/0/b/6/4/9/70b649a1067368ca68ebc35f0498a425.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/b/6/4/9/70b649a1067368ca68ebc35f0498a425.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "A water Separated From The End Of The World",
+    "display_title": "A water Separated From The End Of The World",
+    "track": "Huang Jiang Qin - A water Separated From The End Of The World",
+    "length": 279,
+    "duration": 279,
+    "started": 1726530307,
+    "type": "track",
+    "track_id": 2923054,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "display_artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "title": "Bamboo Beat",
+    "display_title": "Bamboo Beat",
+    "track": "Shi Zhi-You & Yang Chun-Lin & Hao Han - Bamboo Beat",
+    "length": 383,
+    "duration": 383,
+    "started": 1726530913,
+    "type": "track",
+    "track_id": 2913139,
+    "release": "Bamboo In The Wind",
+    "art_url": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Pin Yuan & Hou Mu-Ren",
+    "display_artist": "Pin Yuan & Hou Mu-Ren",
+    "title": "Please Have Tea",
+    "display_title": "Please Have Tea",
+    "track": "Pin Yuan & Hou Mu-Ren - Please Have Tea",
+    "length": 306,
+    "duration": 306,
+    "started": 1726531292,
+    "type": "track",
+    "track_id": 2912999,
+    "release": "Drunk in Tea",
+    "art_url": "//cdn-images.audioaddict.com/9/3/8/1/f/9/9381f906ca982670edb22045536f28ec.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/3/8/1/f/9/9381f906ca982670edb22045536f28ec.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "After the Spring Rain (Southern Song Dynasty)",
+    "display_title": "After the Spring Rain (Southern Song Dynasty)",
+    "track": "Shi Zhi-You - After the Spring Rain (Southern Song Dynasty)",
+    "length": 367,
+    "duration": 367,
+    "started": 1726531870,
+    "type": "track",
+    "track_id": 2913004,
+    "release": "Colors of Seasons",
+    "art_url": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "High on the Summer Mountain (Yuan Dynasty)",
+    "display_title": "High on the Summer Mountain (Yuan Dynasty)",
+    "track": "Shi Zhi-You - High on the Summer Mountain (Yuan Dynasty)",
+    "length": 300,
+    "duration": 300,
+    "started": 1726532233,
+    "type": "track",
+    "track_id": 2913079,
+    "release": "Colors of Seasons",
+    "art_url": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "display_artist": "Tsai Chih-chung & Music Inspired by Zhuang Zi",
+    "title": "Chuang Zi Drumming a Tune",
+    "display_title": "Chuang Zi Drumming a Tune",
+    "track": "Tsai Chih-chung & Music Inspired by Zhuang Zi - Chuang Zi Drumming a Tune",
+    "length": 202,
+    "duration": 202,
+    "started": 1726532528,
+    "type": "track",
+    "track_id": 2912986,
+    "release": "Heaven and Earth",
+    "art_url": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/c/7/8/0/b/2c780bd0977a4f1892315da9fe8fa54b.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Tin Road",
+    "display_title": "Tin Road",
+    "track": "Huang Jiang Qin - Tin Road",
+    "length": 256,
+    "duration": 256,
+    "started": 1726532730,
+    "type": "track",
+    "track_id": 2923070,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/4/a/d/c/4/04adc4a5788605fdde4db81efae028dd.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/4/a/d/c/4/04adc4a5788605fdde4db81efae028dd.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Daylight",
+    "display_title": "Daylight",
+    "track": "Masakazu Yoshizawa - Daylight",
+    "length": 426,
+    "duration": 426,
+    "started": 1726533623,
+    "type": "track",
+    "track_id": 2913042,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin & Mu Yi & Hao Han",
+    "display_artist": "Yang Chun-Lin & Mu Yi & Hao Han",
+    "title": "A Pool Of Cool Freshness",
+    "display_title": "A Pool Of Cool Freshness",
+    "track": "Yang Chun-Lin & Mu Yi & Hao Han - A Pool Of Cool Freshness",
+    "length": 373,
+    "duration": 373,
+    "started": 1726534046,
+    "type": "track",
+    "track_id": 2913149,
+    "release": "Bamboo Dreams",
+    "art_url": "//cdn-images.audioaddict.com/a/d/9/6/b/d/ad96bdb5fd349e8334968b43f726f3c9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/9/6/b/d/ad96bdb5fd349e8334968b43f726f3c9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dragon Orchestra",
+    "display_artist": "Dragon Orchestra",
+    "title": "Harmony of Life",
+    "display_title": "Harmony of Life",
+    "track": "Dragon Orchestra - Harmony of Life",
+    "length": 241,
+    "duration": 241,
+    "started": 1726534416,
+    "type": "track",
+    "track_id": 2923050,
+    "release": "A Day at the Spa: Tai Chi (Chinese Garden)",
+    "art_url": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "display_artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "title": "Bamboo In The Wind",
+    "display_title": "Bamboo In The Wind",
+    "track": "Shi Zhi-You & Yang Chun-Lin & Hao Han - Bamboo In The Wind",
+    "length": 370,
+    "duration": 370,
+    "started": 1726535049,
+    "type": "track",
+    "track_id": 2913123,
+    "release": "Bamboo In The Wind",
+    "art_url": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "六月茉莉",
+    "display_title": "六月茉莉",
+    "track": "Huang Jiang Qin - 六月茉莉",
+    "length": 212,
+    "duration": 212,
+    "started": 1726535890,
+    "type": "track",
+    "track_id": 3097318,
+    "release": "Charm Flowers Passes",
+    "art_url": "//cdn-images.audioaddict.com/b/e/9/6/5/b/be965bea7a475da993212fbb6accfd87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/9/6/5/b/be965bea7a475da993212fbb6accfd87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Wrapped Tea, in Taiwan",
+    "display_title": "Wrapped Tea, in Taiwan",
+    "track": "Zhang Fu-Quan - Wrapped Tea, in Taiwan",
+    "length": 447,
+    "duration": 447,
+    "started": 1726536587,
+    "type": "track",
+    "track_id": 2913047,
+    "release": "Tea Travel",
+    "art_url": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Gong-fu Black Tea, in Southern Fukien",
+    "display_title": "Gong-fu Black Tea, in Southern Fukien",
+    "track": "Zhang Fu-Quan - Gong-fu Black Tea, in Southern Fukien",
+    "length": 360,
+    "duration": 360,
+    "started": 1726539365,
+    "type": "track",
+    "track_id": 2913084,
+    "release": "Tea",
+    "art_url": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/2/b/f/2/372bf2d87fb7316ba570777474c14d89.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan",
+    "display_artist": "Ping Yuan",
+    "title": "A Cloud Named Looking-for-You",
+    "display_title": "A Cloud Named Looking-for-You",
+    "track": "Ping Yuan - A Cloud Named Looking-for-You",
+    "length": 401,
+    "duration": 401,
+    "started": 1726539725,
+    "type": "track",
+    "track_id": 3097323,
+    "release": "Sound from the Cloudland",
+    "art_url": "//cdn-images.audioaddict.com/b/9/3/8/5/3/b938531c470e66231b8ffb16f7f6d594.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/9/3/8/5/3/b938531c470e66231b8ffb16f7f6d594.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Birds",
+    "display_title": "Birds",
+    "track": "Masakazu Yoshizawa - Birds",
+    "length": 345,
+    "duration": 345,
+    "started": 1726540126,
+    "type": "track",
+    "track_id": 2913101,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Fine Tea Is Like a Beauty",
+    "display_title": "Fine Tea Is Like a Beauty",
+    "track": "Zhang Wei-Liang - Fine Tea Is Like a Beauty",
+    "length": 428,
+    "duration": 428,
+    "started": 1726540849,
+    "type": "track",
+    "track_id": 2912976,
+    "release": "Poetics of Tea",
+    "art_url": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Wang Meng",
+    "display_title": "Wang Meng",
+    "track": "Shi Zhi-You - Wang Meng",
+    "length": 344,
+    "duration": 344,
+    "started": 1726542068,
+    "type": "track",
+    "track_id": 2913097,
+    "release": "Colors of Seasons",
+    "art_url": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Imitation of DONG Bei-yuan`s Landscape",
+    "display_title": "Imitation of DONG Bei-yuan`s Landscape",
+    "track": "Shi Zhi-You - Imitation of DONG Bei-yuan`s Landscape",
+    "length": 365,
+    "duration": 365,
+    "started": 1726542411,
+    "type": "track",
+    "track_id": 2913026,
+    "release": "Zen Landscape",
+    "art_url": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Green Fragrance",
+    "display_title": "Green Fragrance",
+    "track": "Zhang Wei-Liang - Green Fragrance",
+    "length": 333,
+    "duration": 333,
+    "started": 1726542773,
+    "type": "track",
+    "track_id": 2913051,
+    "release": "Tea Drops",
+    "art_url": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "青花瓷",
+    "display_title": "青花瓷",
+    "track": "Huang Jiang Qin - 青花瓷",
+    "length": 261,
+    "duration": 261,
+    "started": 1726543103,
+    "type": "track",
+    "track_id": 3097319,
+    "release": "Charm Flowers Passes",
+    "art_url": "//cdn-images.audioaddict.com/b/e/9/6/5/b/be965bea7a475da993212fbb6accfd87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/9/6/5/b/be965bea7a475da993212fbb6accfd87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Tie-luo-han",
+    "display_title": "Tie-luo-han",
+    "track": "Zhang Fu-Quan - Tie-luo-han",
+    "length": 365,
+    "duration": 365,
+    "started": 1726543357,
+    "type": "track",
+    "track_id": 2913071,
+    "release": "Oolong Tea",
+    "art_url": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Love and devotion",
+    "display_title": "Love and devotion",
+    "track": "Dan Gibson, Daniel May - Love and devotion",
+    "length": 371,
+    "duration": 371,
+    "started": 1726543722,
+    "type": "track",
+    "track_id": 2915041,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Wu Li",
+    "display_title": "Wu Li",
+    "track": "Shi Zhi-You - Wu Li",
+    "length": 347,
+    "duration": 347,
+    "started": 1726544995,
+    "type": "track",
+    "track_id": 2912993,
+    "release": "Colors of Seasons",
+    "art_url": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Beauty From Water (The Red Waterlily Of West Lake)",
+    "display_title": "Beauty From Water (The Red Waterlily Of West Lake)",
+    "track": "Shi Zhi-You - Beauty From Water (The Red Waterlily Of West Lake)",
+    "length": 544,
+    "duration": 544,
+    "started": 1726545338,
+    "type": "track",
+    "track_id": 2913150,
+    "release": "Waterlily",
+    "art_url": "//cdn-images.audioaddict.com/6/6/a/8/9/f/66a89fcd94fb52b1ba4cda81ec10a993.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/a/8/9/f/66a89fcd94fb52b1ba4cda81ec10a993.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "The sacred shrine",
+    "display_title": "The sacred shrine",
+    "track": "Dan Gibson, Daniel May - The sacred shrine",
+    "length": 360,
+    "duration": 360,
+    "started": 1726545882,
+    "type": "track",
+    "track_id": 2915045,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Shepherd's Song",
+    "display_title": "Shepherd's Song",
+    "track": "Huang Jiang Qin - Shepherd's Song",
+    "length": 319,
+    "duration": 319,
+    "started": 1726546242,
+    "type": "track",
+    "track_id": 2923065,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "The gateless gate",
+    "display_title": "The gateless gate",
+    "track": "Dan Gibson, Daniel May - The gateless gate",
+    "length": 126,
+    "duration": 126,
+    "started": 1726546653,
+    "type": "track",
+    "track_id": 2915048,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "display_artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "title": "Bamboo Fairy",
+    "display_title": "Bamboo Fairy",
+    "track": "Shi Zhi-You & Yang Chun-Lin & Hao Han - Bamboo Fairy",
+    "length": 382,
+    "duration": 382,
+    "started": 1726546774,
+    "type": "track",
+    "track_id": 2913167,
+    "release": "Bamboo In The Wind",
+    "art_url": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "The Buddha's Tea, in Mt. Puto",
+    "display_title": "The Buddha's Tea, in Mt. Puto",
+    "track": "Zhang Fu-Quan - The Buddha's Tea, in Mt. Puto",
+    "length": 426,
+    "duration": 426,
+    "started": 1726547680,
+    "type": "track",
+    "track_id": 2912990,
+    "release": "Tea Travel",
+    "art_url": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Snow",
+    "display_title": "Snow",
+    "track": "Masakazu Yoshizawa - Snow",
+    "length": 361,
+    "duration": 361,
+    "started": 1726548106,
+    "type": "track",
+    "track_id": 2913081,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Reading In Library At Night",
+    "display_title": "Reading In Library At Night",
+    "track": "Huang Jiang Qin - Reading In Library At Night",
+    "length": 261,
+    "duration": 261,
+    "started": 1726548463,
+    "type": "track",
+    "track_id": 2923063,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/f/7/4/c/41f74c213bb61988d236433be9f586f7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Tie-guan-yin",
+    "display_title": "Tie-guan-yin",
+    "track": "Zhang Fu-Quan - Tie-guan-yin",
+    "length": 426,
+    "duration": 426,
+    "started": 1726550211,
+    "type": "track",
+    "track_id": 2912964,
+    "release": "Oolong Tea",
+    "art_url": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/e/c/5/d/c8ec5d4e6884079d4742fc6d71a2914f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Maharani",
+    "display_artist": "Maharani",
+    "title": "Bellbirds",
+    "display_title": "Bellbirds",
+    "track": "Maharani - Bellbirds",
+    "length": 357,
+    "duration": 357,
+    "started": 1726550638,
+    "type": "track",
+    "track_id": 2930738,
+    "release": "Oceans Of Tranquality",
+    "art_url": "//cdn-images.audioaddict.com/0/6/e/7/8/1/06e781fa8cc230f2c37e666d58dce706.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/6/e/7/8/1/06e781fa8cc230f2c37e666d58dce706.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "A Tea Party Beside Xihu Lake",
+    "display_title": "A Tea Party Beside Xihu Lake",
+    "track": "Zhang Fu-Quan & Hao Han - A Tea Party Beside Xihu Lake",
+    "length": 419,
+    "duration": 419,
+    "started": 1726550995,
+    "type": "track",
+    "track_id": 2913075,
+    "release": "Chinese Tea Ballads",
+    "art_url": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "display_artist": "Ping Yuan & Yang Chun-Lin & Hao Han",
+    "title": "Tea Under A Pine",
+    "display_title": "Tea Under A Pine",
+    "track": "Ping Yuan & Yang Chun-Lin & Hao Han - Tea Under A Pine",
+    "length": 353,
+    "duration": 353,
+    "started": 1726551413,
+    "type": "track",
+    "track_id": 2913118,
+    "release": "Waves Of Pine",
+    "art_url": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/8/c/0/2/f/c8c02fd6314f73cd83bd7a0131085887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "Hometown",
+    "display_title": "Hometown",
+    "track": "Huang Jiang Qin - Hometown",
+    "length": 260,
+    "duration": 260,
+    "started": 1726551762,
+    "type": "track",
+    "track_id": 2923058,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/2/c/1/6/282c16ebaf9696e848f9e5060bb79c29.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Twin Beauties (Two-Colored Chrysanthemum)",
+    "display_title": "Twin Beauties (Two-Colored Chrysanthemum)",
+    "track": "Yang Chun-Lin - Twin Beauties (Two-Colored Chrysanthemum)",
+    "length": 596,
+    "duration": 596,
+    "started": 1726552022,
+    "type": "track",
+    "track_id": 2913147,
+    "release": "Chrysanthemum",
+    "art_url": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "San-p'ao Tai Tea, in Kansu",
+    "display_title": "San-p'ao Tai Tea, in Kansu",
+    "track": "Zhang Fu-Quan - San-p'ao Tai Tea, in Kansu",
+    "length": 469,
+    "duration": 469,
+    "started": 1726553034,
+    "type": "track",
+    "track_id": 2913009,
+    "release": "Tea Travel",
+    "art_url": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/1/2/0/3/d/01203d975d4a11b146b392e104144022.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Cold And Elegant (Peach-Blossom Chrysanthemum)",
+    "display_title": "Cold And Elegant (Peach-Blossom Chrysanthemum)",
+    "track": "Yang Chun-Lin - Cold And Elegant (Peach-Blossom Chrysanthemum)",
+    "length": 496,
+    "duration": 496,
+    "started": 1726554099,
+    "type": "track",
+    "track_id": 2913124,
+    "release": "Chrysanthemum",
+    "art_url": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Fragrance of Water",
+    "display_title": "Fragrance of Water",
+    "track": "Zhang Wei-Liang - Fragrance of Water",
+    "length": 360,
+    "duration": 360,
+    "started": 1726554589,
+    "type": "track",
+    "track_id": 2912958,
+    "release": "Poetics of Tea",
+    "art_url": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/d/4/3/2/8/bd4328ed6b30181e5ed039da44dee606.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Ren Yun",
+    "display_artist": "Ren Yun",
+    "title": "Elegance",
+    "display_title": "Elegance",
+    "track": "Ren Yun - Elegance",
+    "length": 1305,
+    "duration": 1305,
+    "started": 1726554945,
+    "type": "track",
+    "track_id": 2912957,
+    "release": "Cha Tao The Way Of Tea",
+    "art_url": "//cdn-images.audioaddict.com/e/0/3/f/b/e/e03fbef007f0dc4ca30d09851431d2fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/0/3/f/b/e/e03fbef007f0dc4ca30d09851431d2fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Taste of Rurality",
+    "display_title": "Taste of Rurality",
+    "track": "Zhang Fu-Quan & Hao Han - Taste of Rurality",
+    "length": 565,
+    "duration": 565,
+    "started": 1726556245,
+    "type": "track",
+    "track_id": 2913055,
+    "release": "Tea & Pot",
+    "art_url": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/3/0/d/6/3b30d623eddbf1b72bb8a542c418030d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Dancing Fairy (The White Waterliily Of East Lake)",
+    "display_title": "Dancing Fairy (The White Waterliily Of East Lake)",
+    "track": "Shi Zhi-You - Dancing Fairy (The White Waterliily Of East Lake)",
+    "length": 552,
+    "duration": 552,
+    "started": 1726556811,
+    "type": "track",
+    "track_id": 2913112,
+    "release": "Waterlily",
+    "art_url": "//cdn-images.audioaddict.com/6/6/a/8/9/f/66a89fcd94fb52b1ba4cda81ec10a993.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/6/a/8/9/f/66a89fcd94fb52b1ba4cda81ec10a993.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "The Luminous Landscape",
+    "display_title": "The Luminous Landscape",
+    "track": "Shi Zhi-You - The Luminous Landscape",
+    "length": 453,
+    "duration": 453,
+    "started": 1726557363,
+    "type": "track",
+    "track_id": 2913082,
+    "release": "Riverside Towns, Misty Rain",
+    "art_url": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Huang Jiang Qin",
+    "display_artist": "Huang Jiang Qin",
+    "title": "针线情",
+    "display_title": "针线情",
+    "track": "Huang Jiang Qin - 针线情",
+    "length": 260,
+    "duration": 260,
+    "started": 1726557812,
+    "type": "track",
+    "track_id": 3097321,
+    "release": "Charm Flowers Passes",
+    "art_url": "//cdn-images.audioaddict.com/b/e/9/6/5/b/be965bea7a475da993212fbb6accfd87.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/9/6/5/b/be965bea7a475da993212fbb6accfd87.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "Nightly Fragrance In The Air (Wintry Chrysanthemum)",
+    "display_title": "Nightly Fragrance In The Air (Wintry Chrysanthemum)",
+    "track": "Yang Chun-Lin - Nightly Fragrance In The Air (Wintry Chrysanthemum)",
+    "length": 472,
+    "duration": 472,
+    "started": 1726558131,
+    "type": "track",
+    "track_id": 2913162,
+    "release": "Chrysanthemum",
+    "art_url": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Peach Blossom (Lady Xi)",
+    "display_title": "Peach Blossom (Lady Xi)",
+    "track": "Shi Zhi-You - Peach Blossom (Lady Xi)",
+    "length": 458,
+    "duration": 458,
+    "started": 1726559141,
+    "type": "track",
+    "track_id": 2913136,
+    "release": "Flower Goddess I",
+    "art_url": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Fairy Of Delicacy (The Blossom Of Aged Plum Tree)",
+    "display_title": "Fairy Of Delicacy (The Blossom Of Aged Plum Tree)",
+    "track": "Shi Zhi-You - Fairy Of Delicacy (The Blossom Of Aged Plum Tree)",
+    "length": 495,
+    "duration": 495,
+    "started": 1726559596,
+    "type": "track",
+    "track_id": 2913152,
+    "release": "Plum Blossom",
+    "art_url": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/2/c/f/7/0/42cf708acf5680407fe1262ac757df45.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan",
+    "display_artist": "Zhang Fu-Quan",
+    "title": "Plum-blossom Chimen Red Tea",
+    "display_title": "Plum-blossom Chimen Red Tea",
+    "track": "Zhang Fu-Quan - Plum-blossom Chimen Red Tea",
+    "length": 380,
+    "duration": 380,
+    "started": 1726560558,
+    "type": "track",
+    "track_id": 2912979,
+    "release": "Tea with Flower Fragrance",
+    "art_url": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/3/9/d/8/b/c39d8b727869a7f8302c93247651344f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dragon Orchestra",
+    "display_artist": "Dragon Orchestra",
+    "title": "Tai Chi",
+    "display_title": "Tai Chi",
+    "track": "Dragon Orchestra - Tai Chi",
+    "length": 417,
+    "duration": 417,
+    "started": 1726560939,
+    "type": "track",
+    "track_id": 187771,
+    "release": "A Day at the Spa: Tai Chi (Chinese Garden)",
+    "art_url": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/f/9/3/e/f6f93eff55f9286a8a747626dced69ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Fu-Quan & Hao Han",
+    "display_artist": "Zhang Fu-Quan & Hao Han",
+    "title": "Tea Song of Shu Mountain",
+    "display_title": "Tea Song of Shu Mountain",
+    "track": "Zhang Fu-Quan & Hao Han - Tea Song of Shu Mountain",
+    "length": 350,
+    "duration": 350,
+    "started": 1726561732,
+    "type": "track",
+    "track_id": 2913011,
+    "release": "Chinese Tea Ballads",
+    "art_url": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/9/2/f/2/6/c92f26f2756ab7aafb8e9afa30225912.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "The Songbird",
+    "display_title": "The Songbird",
+    "track": "Dan Gibson, Daniel May - The Songbird",
+    "length": 63,
+    "duration": 63,
+    "started": 1726562500,
+    "type": "track",
+    "track_id": 2915040,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Path to enlightenment",
+    "display_title": "Path to enlightenment",
+    "track": "Dan Gibson, Daniel May - Path to enlightenment",
+    "length": 385,
+    "duration": 385,
+    "started": 1726562564,
+    "type": "track",
+    "track_id": 2915037,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": " Waves of Willows",
+    "display_title": " Waves of Willows",
+    "track": "Zhang Wei-Liang -  Waves of Willows",
+    "length": 496,
+    "duration": 496,
+    "started": 1726565902,
+    "type": "track",
+    "track_id": 2913072,
+    "release": "Tea Drops",
+    "art_url": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/7/a/3/1/f/d7a31f2c9d3683579ce08bfba8397a6a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Overlooking Mingling Waves in the Moonlight",
+    "display_title": "Overlooking Mingling Waves in the Moonlight",
+    "track": "Shi Zhi-You - Overlooking Mingling Waves in the Moonlight",
+    "length": 476,
+    "duration": 476,
+    "started": 1726570309,
+    "type": "track",
+    "track_id": 2912972,
+    "release": "Riverside Towns, Misty Rain",
+    "art_url": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/3/0/9/a/f/0309af906a798dc918186a525d987f76.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Happy for the Rain in the Pavilion",
+    "display_title": "Happy for the Rain in the Pavilion",
+    "track": "Shi Zhi-You - Happy for the Rain in the Pavilion",
+    "length": 361,
+    "duration": 361,
+    "started": 1726570782,
+    "type": "track",
+    "track_id": 2913006,
+    "release": "Zen Landscape",
+    "art_url": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Zhang Wei-Liang",
+    "display_artist": "Zhang Wei-Liang",
+    "title": "Taste Zen in Tea",
+    "display_title": "Taste Zen in Tea",
+    "track": "Zhang Wei-Liang - Taste Zen in Tea",
+    "length": 495,
+    "duration": 495,
+    "started": 1726577754,
+    "type": "track",
+    "track_id": 2913056,
+    "release": "Taste Zen in Tea",
+    "art_url": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/2/0/6/f/f/8206ff5efe6c75067dc7a6aaadf4fe1e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Rocks",
+    "display_title": "Rocks",
+    "track": "Shi Zhi-You - Rocks",
+    "length": 278,
+    "duration": 278,
+    "started": 1726583690,
+    "type": "track",
+    "track_id": 2913095,
+    "release": "Zen Landscape",
+    "art_url": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/9/b/d/c/e/79bdceb98853a0b5ded31063c10128d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Summer Leaves of Banana (Ming Dynasty)",
+    "display_title": "Summer Leaves of Banana (Ming Dynasty)",
+    "track": "Shi Zhi-You - Summer Leaves of Banana (Ming Dynasty)",
+    "length": 302,
+    "duration": 302,
+    "started": 1726583967,
+    "type": "track",
+    "track_id": 2913044,
+    "release": "Colors of Seasons",
+    "art_url": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/b/3/7/b/c/4b37bc4f98b66ce1fe4b2727f9cadac0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Whispering Pines in the Mountains",
+    "display_title": "Whispering Pines in the Mountains",
+    "track": "Shi Zhi-You - Whispering Pines in the Mountains",
+    "length": 428,
+    "duration": 428,
+    "started": 1726586658,
+    "type": "track",
+    "track_id": 2913098,
+    "release": "Treasured Paintings of Ancient China",
+    "art_url": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Plum Blossom (Princess Shoyang)",
+    "display_title": "Plum Blossom (Princess Shoyang)",
+    "track": "Shi Zhi-You - Plum Blossom (Princess Shoyang)",
+    "length": 468,
+    "duration": 468,
+    "started": 1726587086,
+    "type": "track",
+    "track_id": 2913117,
+    "release": "Flower Goddess I",
+    "art_url": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Autumn Colors on the Que and Hua Mountains",
+    "display_title": "Autumn Colors on the Que and Hua Mountains",
+    "track": "Shi Zhi-You - Autumn Colors on the Que and Hua Mountains",
+    "length": 324,
+    "duration": 324,
+    "started": 1726601260,
+    "type": "track",
+    "track_id": 2913041,
+    "release": "Treasured Paintings of Ancient China",
+    "art_url": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "display_artist": "Shi Zhi-You & Yang Chun-Lin & Hao Han",
+    "title": "Winds Of Emotion",
+    "display_title": "Winds Of Emotion",
+    "track": "Shi Zhi-You & Yang Chun-Lin & Hao Han - Winds Of Emotion",
+    "length": 452,
+    "duration": 452,
+    "started": 1726602056,
+    "type": "track",
+    "track_id": 2913165,
+    "release": "Bamboo In The Wind",
+    "art_url": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/5/3/b/5/8753b578b35475b8334253fb895b5b28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Dwelling in the Fuchun Mountains",
+    "display_title": "Dwelling in the Fuchun Mountains",
+    "track": "Shi Zhi-You - Dwelling in the Fuchun Mountains",
+    "length": 340,
+    "duration": 340,
+    "started": 1726642638,
+    "type": "track",
+    "track_id": 2912968,
+    "release": "Treasured Paintings of Ancient China",
+    "art_url": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Answered by silence",
+    "display_title": "Answered by silence",
+    "track": "Dan Gibson, Daniel May - Answered by silence",
+    "length": 79,
+    "duration": 79,
+    "started": 1726645774,
+    "type": "track",
+    "track_id": 2915042,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Yang Chun-Lin",
+    "display_artist": "Yang Chun-Lin",
+    "title": "A Beauty From A Distance (Cliff-Like Chrysanthemum)",
+    "display_title": "A Beauty From A Distance (Cliff-Like Chrysanthemum)",
+    "track": "Yang Chun-Lin - A Beauty From A Distance (Cliff-Like Chrysanthemum)",
+    "length": 521,
+    "duration": 521,
+    "started": 1726652384,
+    "type": "track",
+    "track_id": 2913130,
+    "release": "Chrysanthemum",
+    "art_url": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/1/9/e/c/4119ec5a9e8d858aa1308447ebaf19d3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Flower Goddess I",
+    "display_title": "Flower Goddess I",
+    "track": "Shi Zhi-You - Flower Goddess I",
+    "length": 380,
+    "duration": 380,
+    "started": 1726657348,
+    "type": "track",
+    "track_id": 2913161,
+    "release": "Flower Goddess I",
+    "art_url": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/a/b/0/6/55ab0696ac469ac029384cc9ac449970.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Shi Zhi-You",
+    "display_artist": "Shi Zhi-You",
+    "title": "Travelers on a Mountain Path",
+    "display_title": "Travelers on a Mountain Path",
+    "track": "Shi Zhi-You - Travelers on a Mountain Path",
+    "length": 501,
+    "duration": 501,
+    "started": 1726668706,
+    "type": "track",
+    "track_id": 2912992,
+    "release": "Treasured Paintings of Ancient China",
+    "art_url": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/c/a/6/4/a6ca6440999015867784e90c2f52cc05.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Dawn",
+    "display_title": "Dawn",
+    "track": "Masakazu Yoshizawa - Dawn",
+    "length": 61,
+    "duration": 61,
+    "started": 1726672868,
+    "type": "track",
+    "track_id": 2912967,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Masakazu Yoshizawa",
+    "display_artist": "Masakazu Yoshizawa",
+    "title": "Wind",
+    "display_title": "Wind",
+    "track": "Masakazu Yoshizawa - Wind",
+    "length": 93,
+    "duration": 93,
+    "started": 1726724816,
+    "type": "track",
+    "track_id": 2913105,
+    "release": "Zen Garden",
+    "art_url": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/4/7/9/7/c/44797c0efe5ac4e5a111662ab1956cee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Zazen",
+    "display_title": "Zazen",
+    "track": "Dan Gibson, Daniel May - Zazen",
+    "length": 92,
+    "duration": 92,
+    "started": 1726727682,
+    "type": "track",
+    "track_id": 2915036,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/1/6/a/3/b/1/16a3b10c98822892ab0b1041446c09ab.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/a/3/b/1/16a3b10c98822892ab0b1041446c09ab.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 478,
+    "artist": "Dan Gibson, Daniel May",
+    "display_artist": "Dan Gibson, Daniel May",
+    "title": "Satori",
+    "display_title": "Satori",
+    "track": "Dan Gibson, Daniel May - Satori",
+    "length": 95,
+    "duration": 95,
+    "started": 1726926501,
+    "type": "track",
+    "track_id": 2915044,
+    "release": "Solitudes: Zen Escape",
+    "art_url": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/f/6/2/0/c/0f620c34e24ad39c679716cbf8c598a9.png{?size,height,width,quality,pad}"
+    }
+  }
+]

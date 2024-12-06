@@ -1,0 +1,4258 @@
+[
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Study & Focus Music 161",
+    "display_title": "Study & Focus Music 161",
+    "track": "Yellow Brick Cinema - Study & Focus Music 161",
+    "length": 3570,
+    "duration": 3570,
+    "started": 1726220510,
+    "type": "track",
+    "track_id": 1058502,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/b/a/8/2/f/0ba82f0a253110173e83a088c4307923.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/a/8/2/f/0ba82f0a253110173e83a088c4307923.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "The Monk By The Sea",
+    "display_artist": "The Monk By The Sea",
+    "title": "The Stars Are Falling",
+    "display_title": "The Stars Are Falling",
+    "track": "The Monk By The Sea - The Stars Are Falling",
+    "length": 1037,
+    "duration": 1037,
+    "started": 1726224081,
+    "type": "track",
+    "track_id": 3070371,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/2/a/2/a/1/02a2a1937a5ed7ffa9fc9deb29570253.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/2/a/2/a/1/02a2a1937a5ed7ffa9fc9deb29570253.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Prabin Dangol",
+    "display_artist": "Prabin Dangol",
+    "title": "Peace of Mind",
+    "display_title": "Peace of Mind",
+    "track": "Prabin Dangol - Peace of Mind",
+    "length": 3619,
+    "duration": 3619,
+    "started": 1726225116,
+    "type": "track",
+    "track_id": 2931118,
+    "release": "Meditation & Healing: Inner Peace",
+    "art_url": "//cdn-images.audioaddict.com/6/c/7/6/b/f/6c76bf45aeab279a5cd44d0a2f85871a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/7/6/b/f/6c76bf45aeab279a5cd44d0a2f85871a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Dear Gravity",
+    "display_artist": "Dear Gravity",
+    "title": "Nodland (Deep Contentration)",
+    "display_title": "Nodland (Deep Contentration)",
+    "track": "Dear Gravity - Nodland (Deep Contentration)",
+    "length": 1623,
+    "duration": 1623,
+    "started": 1726451716,
+    "type": "track",
+    "track_id": 3070160,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/0/6/9/6/f/b0696fff6e69fcf0b37dd9816da831aa.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/6/9/6/f/b0696fff6e69fcf0b37dd9816da831aa.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Moments of Clarity",
+    "display_artist": "Moments of Clarity",
+    "title": "Consciousness (Deep Contentration Version)",
+    "display_title": "Consciousness (Deep Contentration Version)",
+    "track": "Moments of Clarity - Consciousness (Deep Contentration Version)",
+    "length": 894,
+    "duration": 894,
+    "started": 1726453337,
+    "type": "track",
+    "track_id": 3070164,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/6/7/0/4/4/a67044b637fa152cca145f90d42264ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/7/0/4/4/a67044b637fa152cca145f90d42264ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Relieves Pain & Stress",
+    "display_title": "Relieves Pain & Stress",
+    "track": "MindfulMed - Relieves Pain & Stress",
+    "length": 778,
+    "duration": 778,
+    "started": 1726454229,
+    "type": "track",
+    "track_id": 3091314,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "285 Hz - Rejuvenated Energy Fields",
+    "display_title": "285 Hz - Rejuvenated Energy Fields",
+    "track": "Kev Thompson - 285 Hz - Rejuvenated Energy Fields",
+    "length": 398,
+    "duration": 398,
+    "started": 1726455008,
+    "type": "track",
+    "track_id": 2931107,
+    "release": "Sollfeggio Frequencies: Healing Musical Soundscapes for Meditation, Spa, Massage, Yoga & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/c/7/b/0/b/b/c7b0bbb0340c114ab74a664766c610f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/7/b/0/b/b/c7b0bbb0340c114ab74a664766c610f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Myosotis",
+    "display_artist": "Myosotis",
+    "title": "A Moment Illuminating Eternity",
+    "display_title": "A Moment Illuminating Eternity",
+    "track": "Myosotis - A Moment Illuminating Eternity",
+    "length": 223,
+    "duration": 223,
+    "started": 1726455404,
+    "type": "track",
+    "track_id": 368735,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/e/2/1/2/6/1e2126d422661f3d9c60c98b39a511f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/2/1/2/6/1e2126d422661f3d9c60c98b39a511f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Tranquil Music Sound of Nature",
+    "display_artist": "Tranquil Music Sound of Nature",
+    "title": "Serenity - Soundscape with Nature Sound",
+    "display_title": "Serenity - Soundscape with Nature Sound",
+    "track": "Tranquil Music Sound of Nature - Serenity - Soundscape with Nature Sound",
+    "length": 518,
+    "duration": 518,
+    "started": 1726455615,
+    "type": "track",
+    "track_id": 2931123,
+    "release": "Soundscapes - Music for Deep Meditation. Soothing Relaxing Music with Nature Sounds for Relaxation and Meditation",
+    "art_url": "//cdn-images.audioaddict.com/0/8/a/7/4/b/08a74bc31e6ef5fce8f15d48b6b2f547.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/a/7/4/b/08a74bc31e6ef5fce8f15d48b6b2f547.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Be Still the Earth",
+    "display_artist": "Be Still the Earth",
+    "title": "Lulled",
+    "display_title": "Lulled",
+    "track": "Be Still the Earth - Lulled",
+    "length": 247,
+    "duration": 247,
+    "started": 1726456133,
+    "type": "track",
+    "track_id": 3079666,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/f/5/8/b/a/ef58badd6bfbbe2dd3de5561e9999f55.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/5/8/b/a/ef58badd6bfbbe2dd3de5561e9999f55.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Moonlight Colors",
+    "display_title": "Moonlight Colors",
+    "track": "Yellow Brick Cinema - Moonlight Colors",
+    "length": 3566,
+    "duration": 3566,
+    "started": 1726456379,
+    "type": "track",
+    "track_id": 3015341,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/f/b/1/9/70fb19651562bfb1bbf90d554c79070a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Sound Bath & Adam Bokesch",
+    "display_artist": "Sound Bath & Adam Bokesch",
+    "title": "Dawn",
+    "display_title": "Dawn",
+    "track": "Sound Bath & Adam Bokesch - Dawn",
+    "length": 180,
+    "duration": 180,
+    "started": 1726459944,
+    "type": "track",
+    "track_id": 3097605,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/b/7/1/7/6cb7177991e2a5463de3b025ae1ddecc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/b/7/1/7/6cb7177991e2a5463de3b025ae1ddecc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Detoxifies Cells & Organs",
+    "display_title": "Detoxifies Cells & Organs",
+    "track": "MindfulMed - Detoxifies Cells & Organs",
+    "length": 778,
+    "duration": 778,
+    "started": 1726460123,
+    "type": "track",
+    "track_id": 3095898,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Shiroishi",
+    "display_artist": "Shiroishi",
+    "title": "Going Home",
+    "display_title": "Going Home",
+    "track": "Shiroishi - Going Home",
+    "length": 216,
+    "duration": 216,
+    "started": 1726460901,
+    "type": "track",
+    "track_id": 2936822,
+    "release": "Home - Single",
+    "art_url": "//cdn-images.audioaddict.com/c/d/9/8/e/c/cd98ecb9cd94caeb01dc7282bcba8374.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/d/9/8/e/c/cd98ecb9cd94caeb01dc7282bcba8374.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lux",
+    "display_artist": "Lux",
+    "title": "Apartment Relax",
+    "display_title": "Apartment Relax",
+    "track": "Lux - Apartment Relax",
+    "length": 2624,
+    "duration": 2624,
+    "started": 1726461115,
+    "type": "track",
+    "track_id": 3070367,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/b/0/7/8/8/fb078816e211b3e05ead75cd5bb48fe8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/b/0/7/8/8/fb078816e211b3e05ead75cd5bb48fe8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Planes",
+    "display_title": "Planes",
+    "track": "Eternell - Planes",
+    "length": 693,
+    "duration": 693,
+    "started": 1726463739,
+    "type": "track",
+    "track_id": 2977068,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/e/9/a/b/d/be9abddc278778cd718b7f7528236d15.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/9/a/b/d/be9abddc278778cd718b7f7528236d15.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Piotr Janeczek (Ashaneen)",
+    "display_artist": "Piotr Janeczek (Ashaneen)",
+    "title": "Sunrise Meditation (Special Anniversary Mix)",
+    "display_title": "Sunrise Meditation (Special Anniversary Mix)",
+    "track": "Piotr Janeczek (Ashaneen) - Sunrise Meditation (Special Anniversary Mix)",
+    "length": 2013,
+    "duration": 2013,
+    "started": 1726464426,
+    "type": "track",
+    "track_id": 2931115,
+    "release": "Sunrise Meditation (Special Anniversary Edition)",
+    "art_url": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Vyanah",
+    "display_artist": "Vyanah",
+    "title": "Pain Relief & Full Body Healing (Deep Contentration Version)",
+    "display_title": "Pain Relief & Full Body Healing (Deep Contentration Version)",
+    "track": "Vyanah - Pain Relief & Full Body Healing (Deep Contentration Version)",
+    "length": 2218,
+    "duration": 2218,
+    "started": 1726466437,
+    "type": "track",
+    "track_id": 3070166,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/1/9/8/d/2/3198d2cbb28c522a46598468fe228db1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/9/8/d/2/3198d2cbb28c522a46598468fe228db1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Matt Borghi",
+    "display_artist": "Matt Borghi",
+    "title": "Haze",
+    "display_title": "Haze",
+    "track": "Matt Borghi - Haze",
+    "length": 192,
+    "duration": 192,
+    "started": 1726468652,
+    "type": "track",
+    "track_id": 3097603,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/3/e/5/5/9a3e55547c16f71324d3b81c7b277da1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/3/e/5/5/9a3e55547c16f71324d3b81c7b277da1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves & Binaural Beats Library",
+    "display_artist": "Alpha Brain Waves & Binaural Beats Library",
+    "title": "Memory Enhancement",
+    "display_title": "Memory Enhancement",
+    "track": "Alpha Brain Waves & Binaural Beats Library - Memory Enhancement",
+    "length": 1061,
+    "duration": 1061,
+    "started": 1726468845,
+    "type": "track",
+    "track_id": 3083907,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/f/e/9/7/4/5fe9740e557372051830b7c31747dde6.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/f/e/9/7/4/5fe9740e557372051830b7c31747dde6.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Alpha Waves-Uplifting Hope",
+    "display_title": "Alpha Waves-Uplifting Hope",
+    "track": "Mrm Team - Alpha Waves-Uplifting Hope",
+    "length": 2711,
+    "duration": 2711,
+    "started": 1726469904,
+    "type": "track",
+    "track_id": 1058481,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/2/c/e/f/0/02cef0e7a450336dc837b44e28bdc5ad.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/2/c/e/f/0/02cef0e7a450336dc837b44e28bdc5ad.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Matt Borghi",
+    "display_artist": "Matt Borghi",
+    "title": "Good Passage",
+    "display_title": "Good Passage",
+    "track": "Matt Borghi - Good Passage",
+    "length": 215,
+    "duration": 215,
+    "started": 1726472616,
+    "type": "track",
+    "track_id": 3084176,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/a/3/e/5/5/9a3e55547c16f71324d3b81c7b277da1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/a/3/e/5/5/9a3e55547c16f71324d3b81c7b277da1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Prabin Dangol",
+    "display_artist": "Prabin Dangol",
+    "title": "Spiritual Awakening",
+    "display_title": "Spiritual Awakening",
+    "track": "Prabin Dangol - Spiritual Awakening",
+    "length": 3616,
+    "duration": 3616,
+    "started": 1726472831,
+    "type": "track",
+    "track_id": 2931119,
+    "release": "Divine Penetration",
+    "art_url": "//cdn-images.audioaddict.com/a/6/a/0/a/4/a6a0a4a78ddacbedf6292c33e9d38cf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/6/a/0/a/4/a6a0a4a78ddacbedf6292c33e9d38cf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Echo-ES & SandSpace",
+    "display_artist": "Echo-ES & SandSpace",
+    "title": "Memories (Album Part I-V)",
+    "display_title": "Memories (Album Part I-V)",
+    "track": "Echo-ES & SandSpace - Memories (Album Part I-V)",
+    "length": 2487,
+    "duration": 2487,
+    "started": 1726476447,
+    "type": "track",
+    "track_id": 767948,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/9/e/a/f/f/89eaff1dff15af75d2b9375388e0be44.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/e/a/f/f/89eaff1dff15af75d2b9375388e0be44.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Meditation and Focus (Deep Contentration Version)",
+    "display_title": "Meditation and Focus (Deep Contentration Version)",
+    "track": "Alpha Brain Waves - Meditation and Focus (Deep Contentration Version)",
+    "length": 1221,
+    "duration": 1221,
+    "started": 1726478934,
+    "type": "track",
+    "track_id": 3070155,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/8/2/3/9/4/6823946e4f3748bc203dd7f56b34ceb0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/8/2/3/9/4/6823946e4f3748bc203dd7f56b34ceb0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternal Depth",
+    "display_artist": "Eternal Depth",
+    "title": "Dreams",
+    "display_title": "Dreams",
+    "track": "Eternal Depth - Dreams",
+    "length": 489,
+    "duration": 489,
+    "started": 1726480154,
+    "type": "track",
+    "track_id": 3086911,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/3/2/8/0/f/33280f3271e5d7b1a66eabff1511ac3b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/2/8/0/f/33280f3271e5d7b1a66eabff1511ac3b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Endless Journey",
+    "display_title": "Endless Journey",
+    "track": "Mrm Team - Endless Journey",
+    "length": 664,
+    "duration": 664,
+    "started": 1726480643,
+    "type": "track",
+    "track_id": 2909580,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/0/c/8/2/2/10c8227c7b516462dc2efa911043b272.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/0/c/8/2/2/10c8227c7b516462dc2efa911043b272.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Inner Lotus Music",
+    "display_artist": "Inner Lotus Music",
+    "title": "Gate to Oneness (963Hz - extended album edit)",
+    "display_title": "Gate to Oneness (963Hz - extended album edit)",
+    "track": "Inner Lotus Music - Gate to Oneness (963Hz - extended album edit)",
+    "length": 696,
+    "duration": 696,
+    "started": 1726481307,
+    "type": "track",
+    "track_id": 3073129,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/1/7/9/1/7/a1791792de66a90c1dc47cdceb822956.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/7/9/1/7/a1791792de66a90c1dc47cdceb822956.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Vyanah",
+    "display_artist": "Vyanah",
+    "title": "Optimal Health & Well Being (Energy)",
+    "display_title": "Optimal Health & Well Being (Energy)",
+    "track": "Vyanah - Optimal Health & Well Being (Energy)",
+    "length": 586,
+    "duration": 586,
+    "started": 1726481999,
+    "type": "track",
+    "track_id": 3064336,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/4/0/2/8/e/84028e72391459747f63c3636126dc16.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/0/2/8/e/84028e72391459747f63c3636126dc16.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Moments of Clarity",
+    "display_artist": "Moments of Clarity",
+    "title": "Consciousness",
+    "display_title": "Consciousness",
+    "track": "Moments of Clarity - Consciousness",
+    "length": 242,
+    "duration": 242,
+    "started": 1726482585,
+    "type": "track",
+    "track_id": 3062256,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/1/f/f/1/8/61ff18a9a8f3824fa42ff11277943dd2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/1/f/f/1/8/61ff18a9a8f3824fa42ff11277943dd2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Poemme",
+    "display_artist": "Poemme",
+    "title": "Forest Hymn",
+    "display_title": "Forest Hymn",
+    "track": "Poemme - Forest Hymn",
+    "length": 379,
+    "duration": 379,
+    "started": 1726483589,
+    "type": "track",
+    "track_id": 3013495,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/1/0/b/d/5/310bd52079362ad8680b85b73821216d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/0/b/d/5/310bd52079362ad8680b85b73821216d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Study Music (Concentrate) Deep Concentration",
+    "display_title": "Study Music (Concentrate) Deep Concentration",
+    "track": "Alpha Brain Waves - Study Music (Concentrate) Deep Concentration",
+    "length": 2657,
+    "duration": 2657,
+    "started": 1726483963,
+    "type": "track",
+    "track_id": 3015338,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/c/1/c/b/a/7c1cba04a2ccaf9e30bdf98823c4382c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/c/1/c/b/a/7c1cba04a2ccaf9e30bdf98823c4382c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Forrest Fang",
+    "display_artist": "Forrest Fang",
+    "title": "Receding Pool",
+    "display_title": "Receding Pool",
+    "track": "Forrest Fang - Receding Pool",
+    "length": 311,
+    "duration": 311,
+    "started": 1726486614,
+    "type": "track",
+    "track_id": 3064238,
+    "release": "Following the Ether Sun",
+    "art_url": "//cdn-images.audioaddict.com/c/6/0/4/4/9/c60449caf5868b64cfc53da596cded85.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/6/0/4/4/9/c60449caf5868b64cfc53da596cded85.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Piotr Janeczek",
+    "display_artist": "Piotr Janeczek",
+    "title": "Different Mind",
+    "display_title": "Different Mind",
+    "track": "Piotr Janeczek - Different Mind",
+    "length": 610,
+    "duration": 610,
+    "started": 1726486918,
+    "type": "track",
+    "track_id": 3085171,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/5/c/b/9/7/c5cb9762eda2adf29f9b277b1a629e78.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/5/c/b/9/7/c5cb9762eda2adf29f9b277b1a629e78.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Between Dreams",
+    "display_title": "Between Dreams",
+    "track": "Blue Wave Studio - Between Dreams",
+    "length": 541,
+    "duration": 541,
+    "started": 1726487529,
+    "type": "track",
+    "track_id": 3062177,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/a/6/3/7/0/3a63702efc3b835bc5ab165f19deccf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/6/3/7/0/3a63702efc3b835bc5ab165f19deccf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Binaural Landscapes",
+    "display_artist": "Binaural Landscapes",
+    "title": "One With You",
+    "display_title": "One With You",
+    "track": "Binaural Landscapes - One With You",
+    "length": 223,
+    "duration": 223,
+    "started": 1726488070,
+    "type": "track",
+    "track_id": 3064099,
+    "release": "Relaxing Delta - EP",
+    "art_url": "//cdn-images.audioaddict.com/6/4/b/2/c/8/64b2c86b4819f25b6956973461956086.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/b/2/c/8/64b2c86b4819f25b6956973461956086.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Gray Havens",
+    "display_title": "Gray Havens",
+    "track": "Eternell - Gray Havens",
+    "length": 1716,
+    "duration": 1716,
+    "started": 1726488293,
+    "type": "track",
+    "track_id": 772860,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/9/d/6/5/7/89d65793df1eefc6caeac46ee908b4eb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/d/6/5/7/89d65793df1eefc6caeac46ee908b4eb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "SpacewaveCR",
+    "display_artist": "SpacewaveCR",
+    "title": "Hope",
+    "display_title": "Hope",
+    "track": "SpacewaveCR - Hope",
+    "length": 3382,
+    "duration": 3382,
+    "started": 1726489988,
+    "type": "track",
+    "track_id": 3101074,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/a/f/b/1/1/bafb11842f3bc284093b8bdeafe4c4e5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/f/b/1/1/bafb11842f3bc284093b8bdeafe4c4e5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "528 Hz - Love & Miracles (Dna Repair)",
+    "display_title": "528 Hz - Love & Miracles (Dna Repair)",
+    "track": "Kev Thompson - 528 Hz - Love & Miracles (Dna Repair)",
+    "length": 420,
+    "duration": 420,
+    "started": 1726494404,
+    "type": "track",
+    "track_id": 3070380,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/7/b/0/b/b/c7b0bbb0340c114ab74a664766c610f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/7/b/0/b/b/c7b0bbb0340c114ab74a664766c610f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Meditation and Focus",
+    "display_title": "Meditation and Focus",
+    "track": "Alpha Brain Waves - Meditation and Focus",
+    "length": 155,
+    "duration": 155,
+    "started": 1726494823,
+    "type": "track",
+    "track_id": 3064095,
+    "release": "Study and Focus for Deep Concentration and Enhanced Creativity",
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves & Binaural Beats Library",
+    "display_artist": "Alpha Brain Waves & Binaural Beats Library",
+    "title": "Deep Concentration",
+    "display_title": "Deep Concentration",
+    "track": "Alpha Brain Waves & Binaural Beats Library - Deep Concentration",
+    "length": 1641,
+    "duration": 1641,
+    "started": 1726494977,
+    "type": "track",
+    "track_id": 3070376,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/e/2/a/3/b/ee2a3b0d4871b1c1779c7c5963860277.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/e/2/a/3/b/ee2a3b0d4871b1c1779c7c5963860277.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "First Light Circus",
+    "display_artist": "First Light Circus",
+    "title": "Somnambulant (Deep Contentration Version)",
+    "display_title": "Somnambulant (Deep Contentration Version)",
+    "track": "First Light Circus - Somnambulant (Deep Contentration Version)",
+    "length": 765,
+    "duration": 765,
+    "started": 1726497677,
+    "type": "track",
+    "track_id": 3083912,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/8/d/1/8/e/28d18e54fb63e8b9f17c2c6fe73d3357.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/8/d/1/8/e/28d18e54fb63e8b9f17c2c6fe73d3357.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Levete",
+    "display_artist": "Levete",
+    "title": "Solus",
+    "display_title": "Solus",
+    "track": "Levete - Solus",
+    "length": 368,
+    "duration": 368,
+    "started": 1726498441,
+    "type": "track",
+    "track_id": 2885724,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/a/8/4/2/1/8a8421848af66663a8a9197880358a81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/8/4/2/1/8a8421848af66663a8a9197880358a81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Deep Focus",
+    "display_title": "Deep Focus",
+    "track": "Alpha Brain Waves - Deep Focus",
+    "length": 1935,
+    "duration": 1935,
+    "started": 1726498812,
+    "type": "track",
+    "track_id": 3083908,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Tranquil Cove",
+    "display_artist": "Tranquil Cove",
+    "title": "Twin Peaks Theme",
+    "display_title": "Twin Peaks Theme",
+    "track": "Tranquil Cove - Twin Peaks Theme",
+    "length": 211,
+    "duration": 211,
+    "started": 1726500741,
+    "type": "track",
+    "track_id": 2943156,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/7/9/5/0/4/879504e5a016b9c1de407a4d4b81315f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/7/9/5/0/4/879504e5a016b9c1de407a4d4b81315f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Brain Food",
+    "display_artist": "Brain Food",
+    "title": "Deep Concentration",
+    "display_title": "Deep Concentration",
+    "track": "Brain Food - Deep Concentration",
+    "length": 567,
+    "duration": 567,
+    "started": 1726501144,
+    "type": "track",
+    "track_id": 3085168,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/b/b/3/a/c/abb3ac96bf3770d0c8ad286796fab0f4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/b/3/a/c/abb3ac96bf3770d0c8ad286796fab0f4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "(LUX)",
+    "display_artist": "(LUX)",
+    "title": "Deckard Meditating in the Lake",
+    "display_title": "Deckard Meditating in the Lake",
+    "track": "(LUX) - Deckard Meditating in the Lake",
+    "length": 1204,
+    "duration": 1204,
+    "started": 1726501709,
+    "type": "track",
+    "track_id": 3085166,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/3/2/0/2/8/132028ad785d71a5b46a28ee429a79ce.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/2/0/2/8/132028ad785d71a5b46a28ee429a79ce.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Music for Concentration 082",
+    "display_title": "Music for Concentration 082",
+    "track": "Yellow Brick Cinema - Music for Concentration 082",
+    "length": 3610,
+    "duration": 3610,
+    "started": 1726502913,
+    "type": "track",
+    "track_id": 2931125,
+    "release": "Study Focus",
+    "art_url": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Music Makes You Smarter",
+    "display_title": "Music Makes You Smarter",
+    "track": "Alpha Brain Waves - Music Makes You Smarter",
+    "length": 159,
+    "duration": 159,
+    "started": 1726506523,
+    "type": "track",
+    "track_id": 3064096,
+    "release": "Study and Focus for Deep Concentration and Enhanced Creativity",
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Sound Bath & Adam Bokesch",
+    "display_artist": "Sound Bath & Adam Bokesch",
+    "title": "Grass Winds (285 Hz)",
+    "display_title": "Grass Winds (285 Hz)",
+    "track": "Sound Bath & Adam Bokesch - Grass Winds (285 Hz)",
+    "length": 166,
+    "duration": 166,
+    "started": 1726506927,
+    "type": "track",
+    "track_id": 3097606,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/b/7/1/7/6cb7177991e2a5463de3b025ae1ddecc.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/b/7/1/7/6cb7177991e2a5463de3b025ae1ddecc.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "(LUX)",
+    "display_artist": "(LUX)",
+    "title": "Cyber Car Interlude",
+    "display_title": "Cyber Car Interlude",
+    "track": "(LUX) - Cyber Car Interlude",
+    "length": 465,
+    "duration": 465,
+    "started": 1726507092,
+    "type": "track",
+    "track_id": 3085165,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/c/9/6/1/7/4c9617ca1d6002d105d8a0bfe5067074.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/c/9/6/1/7/4c9617ca1d6002d105d8a0bfe5067074.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Levete",
+    "display_artist": "Levete",
+    "title": "Halo",
+    "display_title": "Halo",
+    "track": "Levete - Halo",
+    "length": 412,
+    "duration": 412,
+    "started": 1726507555,
+    "type": "track",
+    "track_id": 2885723,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/a/8/4/2/1/8a8421848af66663a8a9197880358a81.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/a/8/4/2/1/8a8421848af66663a8a9197880358a81.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Binaural Landscapes",
+    "display_artist": "Binaural Landscapes",
+    "title": "Polar Drone (Deep Contentration Version)",
+    "display_title": "Polar Drone (Deep Contentration Version)",
+    "track": "Binaural Landscapes - Polar Drone (Deep Contentration Version)",
+    "length": 1185,
+    "duration": 1185,
+    "started": 1726507958,
+    "type": "track",
+    "track_id": 3070158,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/2/0/a/7/e920a7b7bab983f697767f2eff8f6784.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/2/0/a/7/e920a7b7bab983f697767f2eff8f6784.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Quiet Quest",
+    "display_artist": "Quiet Quest",
+    "title": "Intangible (Extended version)",
+    "display_title": "Intangible (Extended version)",
+    "track": "Quiet Quest - Intangible (Extended version)",
+    "length": 806,
+    "duration": 806,
+    "started": 1726509138,
+    "type": "track",
+    "track_id": 3070375,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/2/8/1/8/8/5281882722d660f10cecbf99b3af6f8d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/2/8/1/8/8/5281882722d660f10cecbf99b3af6f8d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Study Music (Concentrate)",
+    "display_title": "Study Music (Concentrate)",
+    "track": "Alpha Brain Waves - Study Music (Concentrate)",
+    "length": 684,
+    "duration": 684,
+    "started": 1726509944,
+    "type": "track",
+    "track_id": 2996269,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/8/f/9/3/1/58f931501bcf4f6d01e6ce0f7e7428d5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/8/f/9/3/1/58f931501bcf4f6d01e6ce0f7e7428d5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "417 Hz - Undoing Emotional Patterns",
+    "display_title": "417 Hz - Undoing Emotional Patterns",
+    "track": "Kev Thompson - 417 Hz - Undoing Emotional Patterns",
+    "length": 440,
+    "duration": 440,
+    "started": 1726510626,
+    "type": "track",
+    "track_id": 2931108,
+    "release": "Sollfeggio Frequencies: Healing Musical Soundscapes for Meditation, Spa, Massage, Yoga & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/c/7/b/0/b/b/c7b0bbb0340c114ab74a664766c610f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/7/b/0/b/b/c7b0bbb0340c114ab74a664766c610f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "528 Hz - Love & Miracles (Dna Repair) Vol. 2",
+    "display_title": "528 Hz - Love & Miracles (Dna Repair) Vol. 2",
+    "track": "Kev Thompson - 528 Hz - Love & Miracles (Dna Repair) Vol. 2",
+    "length": 470,
+    "duration": 470,
+    "started": 1726511064,
+    "type": "track",
+    "track_id": 2931109,
+    "release": "Solfeggio Frequencies: Vol. 2, Healing Musical Soundscapes for Meditation, Spa, Yoga & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/f/8/f/d/3/0/f8fd30eeb0df0197d667c50134aa7fe9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/f/d/3/0/f8fd30eeb0df0197d667c50134aa7fe9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Tranquil Music Sound of Nature",
+    "display_artist": "Tranquil Music Sound of Nature",
+    "title": "Out of the Mist for Deep Meditation",
+    "display_title": "Out of the Mist for Deep Meditation",
+    "track": "Tranquil Music Sound of Nature - Out of the Mist for Deep Meditation",
+    "length": 522,
+    "duration": 522,
+    "started": 1726511534,
+    "type": "track",
+    "track_id": 2931121,
+    "release": "Soundscapes - Music for Deep Meditation. Soothing Relaxing Music with Nature Sounds for Relaxation and Meditation",
+    "art_url": "//cdn-images.audioaddict.com/0/8/a/7/4/b/08a74bc31e6ef5fce8f15d48b6b2f547.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/a/7/4/b/08a74bc31e6ef5fce8f15d48b6b2f547.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Eliminates Fear",
+    "display_title": "Eliminates Fear",
+    "track": "MindfulMed - Eliminates Fear",
+    "length": 778,
+    "duration": 778,
+    "started": 1726515672,
+    "type": "track",
+    "track_id": 3091917,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Zen Life Relax",
+    "display_artist": "Zen Life Relax",
+    "title": "Waves of Abundance & Fullfillment",
+    "display_title": "Waves of Abundance & Fullfillment",
+    "track": "Zen Life Relax - Waves of Abundance & Fullfillment",
+    "length": 3601,
+    "duration": 3601,
+    "started": 1726516450,
+    "type": "track",
+    "track_id": 2931128,
+    "release": "432hz: The Deepest Healing to Let Go of All Negative Energy",
+    "art_url": "//cdn-images.audioaddict.com/2/5/7/b/b/9/257bb92dd1d873f1dd2be5239a9b1b82.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/7/b/b/9/257bb92dd1d873f1dd2be5239a9b1b82.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Relaxing Meditation Music 630",
+    "display_title": "Relaxing Meditation Music 630",
+    "track": "Yellow Brick Cinema - Relaxing Meditation Music 630",
+    "length": 3570,
+    "duration": 3570,
+    "started": 1726520050,
+    "type": "track",
+    "track_id": 3063431,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/b/a/8/2/f/0ba82f0a253110173e83a088c4307923.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/a/8/2/f/0ba82f0a253110173e83a088c4307923.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Dark Night (Transcendence)",
+    "display_title": "Dark Night (Transcendence)",
+    "track": "Eternell - Dark Night (Transcendence)",
+    "length": 1200,
+    "duration": 1200,
+    "started": 1726523619,
+    "type": "track",
+    "track_id": 3064232,
+    "release": "Portals (Meditation)",
+    "art_url": "//cdn-images.audioaddict.com/2/a/2/2/f/3/2a22f3a4f64e9b429b169f35a8f89446.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/2/2/f/3/2a22f3a4f64e9b429b169f35a8f89446.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Brain Therapy",
+    "display_title": "Brain Therapy",
+    "track": "Alpha Brain Waves - Brain Therapy",
+    "length": 150,
+    "duration": 150,
+    "started": 1726524820,
+    "type": "track",
+    "track_id": 3097601,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Echo-ES & SandSpace",
+    "display_artist": "Echo-ES & SandSpace",
+    "title": "Memories (Part I)",
+    "display_title": "Memories (Part I)",
+    "track": "Echo-ES & SandSpace - Memories (Part I)",
+    "length": 603,
+    "duration": 603,
+    "started": 1726524969,
+    "type": "track",
+    "track_id": 770254,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/9/e/a/f/f/89eaff1dff15af75d2b9375388e0be44.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/e/a/f/f/89eaff1dff15af75d2b9375388e0be44.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Erik Wollo & Steve Roach",
+    "display_artist": "Erik Wollo & Steve Roach",
+    "title": "Night Strands (Long Version)",
+    "display_title": "Night Strands (Long Version)",
+    "track": "Erik Wollo & Steve Roach - Night Strands (Long Version)",
+    "length": 1137,
+    "duration": 1137,
+    "started": 1726525567,
+    "type": "track",
+    "track_id": 2931103,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/6/5/4/9/5/e654957a9b011077779acd0b1273758b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/6/5/4/9/5/e654957a9b011077779acd0b1273758b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Helios",
+    "display_artist": "Helios",
+    "title": "Equal Ourselves (Long Version)",
+    "display_title": "Equal Ourselves (Long Version)",
+    "track": "Helios - Equal Ourselves (Long Version)",
+    "length": 845,
+    "duration": 845,
+    "started": 1726526371,
+    "type": "track",
+    "track_id": 2931104,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/f/d/4/e/0/1fd4e0437fa9ff33807636fa253c3727.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/f/d/4/e/0/1fd4e0437fa9ff33807636fa253c3727.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Ashaneen & Piotr Janeczek",
+    "display_artist": "Ashaneen & Piotr Janeczek",
+    "title": "Tranquility",
+    "display_title": "Tranquility",
+    "track": "Ashaneen & Piotr Janeczek - Tranquility",
+    "length": 874,
+    "duration": 874,
+    "started": 1726527216,
+    "type": "track",
+    "track_id": 887918,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/c/3/2/a/1/8c32a12fc0e3f0acabba3f23c377939d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/3/2/a/1/8c32a12fc0e3f0acabba3f23c377939d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Myosotis",
+    "display_artist": "Myosotis",
+    "title": "Dimensions (Long Version)",
+    "display_title": "Dimensions (Long Version)",
+    "track": "Myosotis - Dimensions (Long Version)",
+    "length": 838,
+    "duration": 838,
+    "started": 1726528088,
+    "type": "track",
+    "track_id": 2931114,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/6/7/3/8/1/9673816a9ffc45f559ce40a7d5a9a43a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/6/7/3/8/1/9673816a9ffc45f559ce40a7d5a9a43a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Better Performance",
+    "display_title": "Better Performance",
+    "track": "Alpha Brain Waves - Better Performance",
+    "length": 3431,
+    "duration": 3431,
+    "started": 1726528887,
+    "type": "track",
+    "track_id": 2931101,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/e/2/3/1/f/be231fcc13148861e553f558e61a1505.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/2/3/1/f/be231fcc13148861e553f558e61a1505.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Study & Focus Music 465",
+    "display_title": "Study & Focus Music 465",
+    "track": "Yellow Brick Cinema - Study & Focus Music 465",
+    "length": 3570,
+    "duration": 3570,
+    "started": 1726532316,
+    "type": "track",
+    "track_id": 1058503,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/b/a/8/2/f/0ba82f0a253110173e83a088c4307923.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/a/8/2/f/0ba82f0a253110173e83a088c4307923.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Connects to Higher Self",
+    "display_title": "Connects to Higher Self",
+    "track": "MindfulMed - Connects to Higher Self",
+    "length": 778,
+    "duration": 778,
+    "started": 1726535886,
+    "type": "track",
+    "track_id": 3097460,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "SpacewaveCR",
+    "display_artist": "SpacewaveCR",
+    "title": "Zzzleep",
+    "display_title": "Zzzleep",
+    "track": "SpacewaveCR - Zzzleep",
+    "length": 1902,
+    "duration": 1902,
+    "started": 1726536664,
+    "type": "track",
+    "track_id": 3072741,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/e/8/5/9/f/9e859f89719f1ba2418da32528ec7b3c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/8/5/9/f/9e859f89719f1ba2418da32528ec7b3c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Minute of Forever (Extended version)",
+    "display_title": "Minute of Forever (Extended version)",
+    "track": "Blue Wave Studio - Minute of Forever (Extended version)",
+    "length": 1859,
+    "duration": 1859,
+    "started": 1726538997,
+    "type": "track",
+    "track_id": 3070378,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/4/4/6/b/e/8446beeca939ad445123901e1c947b9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/4/6/b/e/8446beeca939ad445123901e1c947b9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Auryn (Meditation)",
+    "display_title": "Auryn (Meditation)",
+    "track": "Eternell - Auryn (Meditation)",
+    "length": 660,
+    "duration": 660,
+    "started": 1726540855,
+    "type": "track",
+    "track_id": 3064231,
+    "release": "Portals (Meditation)",
+    "art_url": "//cdn-images.audioaddict.com/2/a/2/2/f/3/2a22f3a4f64e9b429b169f35a8f89446.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/2/2/f/3/2a22f3a4f64e9b429b169f35a8f89446.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "(LUX)",
+    "display_artist": "(LUX)",
+    "title": "Lonely Blues (Extended)",
+    "display_title": "Lonely Blues (Extended)",
+    "track": "(LUX) - Lonely Blues (Extended)",
+    "length": 1276,
+    "duration": 1276,
+    "started": 1726541510,
+    "type": "track",
+    "track_id": 3101070,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/7/c/f/b/1/07cfb16635e21765b7ca59948c571fd5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/7/c/f/b/1/07cfb16635e21765b7ca59948c571fd5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Inner Lotus Music",
+    "display_artist": "Inner Lotus Music",
+    "title": "Realm of the Butterfly (528Hz - album edit)",
+    "display_title": "Realm of the Butterfly (528Hz - album edit)",
+    "track": "Inner Lotus Music - Realm of the Butterfly (528Hz - album edit)",
+    "length": 653,
+    "duration": 653,
+    "started": 1726542785,
+    "type": "track",
+    "track_id": 3073132,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/1/7/9/1/7/a1791792de66a90c1dc47cdceb822956.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/7/9/1/7/a1791792de66a90c1dc47cdceb822956.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Activate Your Brain",
+    "display_title": "Activate Your Brain",
+    "track": "Alpha Brain Waves - Activate Your Brain",
+    "length": 3552,
+    "duration": 3552,
+    "started": 1726543435,
+    "type": "track",
+    "track_id": 2931099,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/e/2/3/1/f/be231fcc13148861e553f558e61a1505.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/2/3/1/f/be231fcc13148861e553f558e61a1505.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "36",
+    "display_artist": "36",
+    "title": "Sad Generation With Happy Pictures",
+    "display_title": "Sad Generation With Happy Pictures",
+    "track": "36 - Sad Generation With Happy Pictures",
+    "length": 312,
+    "duration": 312,
+    "started": 1726546953,
+    "type": "track",
+    "track_id": 3064089,
+    "release": "Music For Isolation (Suite)",
+    "art_url": "//cdn-images.audioaddict.com/0/c/b/0/2/1/0cb021cfe0c9aa7c4a7516582ae9ca3c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/c/b/0/2/1/0cb021cfe0c9aa7c4a7516582ae9ca3c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Super Learning Music 194",
+    "display_title": "Super Learning Music 194",
+    "track": "Yellow Brick Cinema - Super Learning Music 194",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1726547265,
+    "type": "track",
+    "track_id": 2931127,
+    "release": "Study Focus",
+    "art_url": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "State Azure",
+    "display_artist": "State Azure",
+    "title": "Cadwell's Reach",
+    "display_title": "Cadwell's Reach",
+    "track": "State Azure - Cadwell's Reach",
+    "length": 6342,
+    "duration": 6342,
+    "started": 1726550872,
+    "type": "track",
+    "track_id": 3074908,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/3/e/0/0/8/b3e0089d3dedcebaf78a0e23b7c865c0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/3/e/0/0/8/b3e0089d3dedcebaf78a0e23b7c865c0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Relaxing Music for Concentration 2444",
+    "display_title": "Relaxing Music for Concentration 2444",
+    "track": "Yellow Brick Cinema - Relaxing Music for Concentration 2444",
+    "length": 3604,
+    "duration": 3604,
+    "started": 1726557215,
+    "type": "track",
+    "track_id": 2931126,
+    "release": "Study Focus",
+    "art_url": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "(LUX)",
+    "display_artist": "(LUX)",
+    "title": "Blade in Blues (1 Hour)",
+    "display_title": "Blade in Blues (1 Hour)",
+    "track": "(LUX) - Blade in Blues (1 Hour)",
+    "length": 3612,
+    "duration": 3612,
+    "started": 1726560819,
+    "type": "track",
+    "track_id": 3097599,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/4/d/2/9/6/f4d2967b3ecc02cfcaf38574c74f7c2f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/4/d/2/9/6/f4d2967b3ecc02cfcaf38574c74f7c2f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Norvik",
+    "display_artist": "Norvik",
+    "title": "Raindots",
+    "display_title": "Raindots",
+    "track": "Norvik - Raindots",
+    "length": 575,
+    "duration": 575,
+    "started": 1726564430,
+    "type": "track",
+    "track_id": 3070372,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/1/e/e/0/5/41ee05c2a091f271e84118b675487a33.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/1/e/e/0/5/41ee05c2a091f271e84118b675487a33.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Cove (Underwater Expanse)",
+    "display_title": "Cove (Underwater Expanse)",
+    "track": "Eternell - Cove (Underwater Expanse)",
+    "length": 3962,
+    "duration": 3962,
+    "started": 1726565005,
+    "type": "track",
+    "track_id": 3062200,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/4/9/2/b/6/9492b6ab0ea0b894a72a0724844d752d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/4/9/2/b/6/9492b6ab0ea0b894a72a0724844d752d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Quiet Quest",
+    "display_artist": "Quiet Quest",
+    "title": "Converging",
+    "display_title": "Converging",
+    "track": "Quiet Quest - Converging",
+    "length": 448,
+    "duration": 448,
+    "started": 1726568960,
+    "type": "track",
+    "track_id": 3091918,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/a/9/0/f/1/ba90f1da8b04f02f60eeaf0f11a1e8ee.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/9/0/f/1/ba90f1da8b04f02f60eeaf0f11a1e8ee.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Cove (Meditation)",
+    "display_title": "Cove (Meditation)",
+    "track": "Eternell - Cove (Meditation)",
+    "length": 1066,
+    "duration": 1066,
+    "started": 1726573025,
+    "type": "track",
+    "track_id": 3063420,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/d/8/3/3/91d833e54eb95c9fba5a6f4162099f75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/d/8/3/3/91d833e54eb95c9fba5a6f4162099f75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Joseph Beg",
+    "display_artist": "Joseph Beg",
+    "title": "Terminal Shutdown (Extended version)",
+    "display_title": "Terminal Shutdown (Extended version)",
+    "track": "Joseph Beg - Terminal Shutdown (Extended version)",
+    "length": 765,
+    "duration": 765,
+    "started": 1726575455,
+    "type": "track",
+    "track_id": 3083913,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/4/2/6/0/c/d4260c471fd1dc09266aafadf7235887.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/4/2/6/0/c/d4260c471fd1dc09266aafadf7235887.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Deep Relaxing Study Music 465",
+    "display_title": "Deep Relaxing Study Music 465",
+    "track": "Yellow Brick Cinema - Deep Relaxing Study Music 465",
+    "length": 3604,
+    "duration": 3604,
+    "started": 1726576595,
+    "type": "track",
+    "track_id": 2859774,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Are Morica & Le Code",
+    "display_artist": "Are Morica & Le Code",
+    "title": "Winterspell",
+    "display_title": "Winterspell",
+    "track": "Are Morica & Le Code - Winterspell",
+    "length": 243,
+    "duration": 243,
+    "started": 1726580198,
+    "type": "track",
+    "track_id": 3044645,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/5/b/8/3/8/55b838b96d230d91e75a429533c387be.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/5/b/8/3/8/55b838b96d230d91e75a429533c387be.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Skylight+",
+    "display_artist": "Skylight+",
+    "title": "Powerful Support",
+    "display_title": "Powerful Support",
+    "track": "Skylight+ - Powerful Support",
+    "length": 920,
+    "duration": 920,
+    "started": 1726580441,
+    "type": "track",
+    "track_id": 3085173,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/b/4/2/b/2/1b42b21ddf324cde7f2313262719807f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/4/2/b/2/1b42b21ddf324cde7f2313262719807f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "852 Hz - Unconditional Love, Returning to Spiritual Order Vol. 2",
+    "display_title": "852 Hz - Unconditional Love, Returning to Spiritual Order Vol. 2",
+    "track": "Kev Thompson - 852 Hz - Unconditional Love, Returning to Spiritual Order Vol. 2",
+    "length": 454,
+    "duration": 454,
+    "started": 1726581360,
+    "type": "track",
+    "track_id": 2931110,
+    "release": "Solfeggio Frequencies: Vol. 2, Healing Musical Soundscapes for Meditation, Spa, Yoga & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/f/8/f/d/3/0/f8fd30eeb0df0197d667c50134aa7fe9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/f/d/3/0/f8fd30eeb0df0197d667c50134aa7fe9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Echo-ES & SandSpace",
+    "display_artist": "Echo-ES & SandSpace",
+    "title": "Memories (Part V)",
+    "display_title": "Memories (Part V)",
+    "track": "Echo-ES & SandSpace - Memories (Part V)",
+    "length": 697,
+    "duration": 697,
+    "started": 1726581812,
+    "type": "track",
+    "track_id": 768762,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/9/e/a/f/f/89eaff1dff15af75d2b9375388e0be44.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/e/a/f/f/89eaff1dff15af75d2b9375388e0be44.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Brings Love & Compassion in Life",
+    "display_title": "Brings Love & Compassion in Life",
+    "track": "MindfulMed - Brings Love & Compassion in Life",
+    "length": 778,
+    "duration": 778,
+    "started": 1726582506,
+    "type": "track",
+    "track_id": 3091916,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "SpacewaveCR",
+    "display_artist": "SpacewaveCR",
+    "title": "Bliss",
+    "display_title": "Bliss",
+    "track": "SpacewaveCR - Bliss",
+    "length": 1634,
+    "duration": 1634,
+    "started": 1726583284,
+    "type": "track",
+    "track_id": 3072964,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/1/c/9/f/a41c9f3f191865994c8bedda9811f933.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/4/1/c/9/f/a41c9f3f191865994c8bedda9811f933.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Minute of Forever",
+    "display_title": "Minute of Forever",
+    "track": "Blue Wave Studio - Minute of Forever",
+    "length": 630,
+    "duration": 630,
+    "started": 1726584918,
+    "type": "track",
+    "track_id": 3063024,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/a/c/b/3/7/facb376072a4593209bd2f9cb38f8b2a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/a/c/b/3/7/facb376072a4593209bd2f9cb38f8b2a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "State Azure",
+    "display_artist": "State Azure",
+    "title": "Nova Sonus",
+    "display_title": "Nova Sonus",
+    "track": "State Azure - Nova Sonus",
+    "length": 6810,
+    "duration": 6810,
+    "started": 1726585549,
+    "type": "track",
+    "track_id": 3083471,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/b/3/9/f/2/9b39f2777c105eae09fae8dbc6d9912c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/b/3/9/f/2/9b39f2777c105eae09fae8dbc6d9912c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Binaural Landscapes",
+    "display_artist": "Binaural Landscapes",
+    "title": "Polar Drone",
+    "display_title": "Polar Drone",
+    "track": "Binaural Landscapes - Polar Drone",
+    "length": 215,
+    "duration": 215,
+    "started": 1726592515,
+    "type": "track",
+    "track_id": 3064100,
+    "release": "Drones - EP",
+    "art_url": "//cdn-images.audioaddict.com/8/9/a/d/6/b/89ad6b693522f24cb0748fe4670ae01f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/a/d/6/b/89ad6b693522f24cb0748fe4670ae01f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Inner Lotus Music",
+    "display_artist": "Inner Lotus Music",
+    "title": "Embrace Stillness",
+    "display_title": "Embrace Stillness",
+    "track": "Inner Lotus Music - Embrace Stillness",
+    "length": 631,
+    "duration": 631,
+    "started": 1726592728,
+    "type": "track",
+    "track_id": 3101071,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/7/c/0/5/e/37c05e3c209898071be36652e0100109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/c/0/5/e/37c05e3c209898071be36652e0100109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Atmoswaves",
+    "display_artist": "Atmoswaves",
+    "title": "Distant Horizons",
+    "display_title": "Distant Horizons",
+    "track": "Atmoswaves - Distant Horizons",
+    "length": 182,
+    "duration": 182,
+    "started": 1726593507,
+    "type": "track",
+    "track_id": 3097293,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/6/f/d/7/1/d6fd71134b4936bf8a1b75a87c436885.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/6/f/d/7/1/d6fd71134b4936bf8a1b75a87c436885.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Healthy Sleep",
+    "display_title": "Healthy Sleep",
+    "track": "Alpha Brain Waves - Healthy Sleep",
+    "length": 150,
+    "duration": 150,
+    "started": 1726593690,
+    "type": "track",
+    "track_id": 3064094,
+    "release": "Study and Focus for Deep Concentration and Enhanced Creativity",
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Brain Food",
+    "display_artist": "Brain Food",
+    "title": "Concentration",
+    "display_title": "Concentration",
+    "track": "Brain Food - Concentration",
+    "length": 748,
+    "duration": 748,
+    "started": 1726593838,
+    "type": "track",
+    "track_id": 3085167,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/8/8/1/b/c/8881bca30b8b0acdc05a3f3e08fa3e26.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/8/8/1/b/c/8881bca30b8b0acdc05a3f3e08fa3e26.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Inner Lotus Music",
+    "display_artist": "Inner Lotus Music",
+    "title": "Healing Waters (741Hz - album edit)",
+    "display_title": "Healing Waters (741Hz - album edit)",
+    "track": "Inner Lotus Music - Healing Waters (741Hz - album edit)",
+    "length": 587,
+    "duration": 587,
+    "started": 1726594584,
+    "type": "track",
+    "track_id": 3082347,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/1/7/9/1/7/a1791792de66a90c1dc47cdceb822956.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/7/9/1/7/a1791792de66a90c1dc47cdceb822956.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "SpacewaveCR",
+    "display_artist": "SpacewaveCR",
+    "title": "Dreaming",
+    "display_title": "Dreaming",
+    "track": "SpacewaveCR - Dreaming",
+    "length": 1803,
+    "duration": 1803,
+    "started": 1726595167,
+    "type": "track",
+    "track_id": 3072456,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/5/9/0/5/2/6590524b698d00195d9e76ae88951501.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/5/9/0/5/2/6590524b698d00195d9e76ae88951501.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Joseph Beg",
+    "display_artist": "Joseph Beg",
+    "title": "Lucid Space (Extended version)",
+    "display_title": "Lucid Space (Extended version)",
+    "track": "Joseph Beg - Lucid Space (Extended version)",
+    "length": 1656,
+    "duration": 1656,
+    "started": 1726596970,
+    "type": "track",
+    "track_id": 3070163,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/3/b/1/5/1/d3b151e4c86abb182b0d8ebd8e7e18e4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/3/b/1/5/1/d3b151e4c86abb182b0d8ebd8e7e18e4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Quiet Quest",
+    "display_artist": "Quiet Quest",
+    "title": "Nebulous",
+    "display_title": "Nebulous",
+    "track": "Quiet Quest - Nebulous",
+    "length": 294,
+    "duration": 294,
+    "started": 1726599432,
+    "type": "track",
+    "track_id": 3079671,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/f/0/f/3/d/8f0f3dbec535fdd434dff8ffb33cdce3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/0/f/3/d/8f0f3dbec535fdd434dff8ffb33cdce3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lauge, Matt Tondut & Antarctic Wastelands",
+    "display_artist": "Lauge, Matt Tondut & Antarctic Wastelands",
+    "title": "Before You Wake (Deep Concentration)",
+    "display_title": "Before You Wake (Deep Concentration)",
+    "track": "Lauge, Matt Tondut & Antarctic Wastelands - Before You Wake (Deep Concentration)",
+    "length": 1734,
+    "duration": 1734,
+    "started": 1726599726,
+    "type": "track",
+    "track_id": 3015339,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/0/c/7/5/c/70c75c4e44164ee1db09dd992631a2c4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/0/c/7/5/c/70c75c4e44164ee1db09dd992631a2c4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Be Still the Earth & Antarctic Wastelands",
+    "display_artist": "Be Still the Earth & Antarctic Wastelands",
+    "title": "Floating Threads",
+    "display_title": "Floating Threads",
+    "track": "Be Still the Earth & Antarctic Wastelands - Floating Threads",
+    "length": 226,
+    "duration": 226,
+    "started": 1726601456,
+    "type": "track",
+    "track_id": 3068863,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/f/5/8/b/a/ef58badd6bfbbe2dd3de5561e9999f55.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/5/8/b/a/ef58badd6bfbbe2dd3de5561e9999f55.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternal Depth",
+    "display_artist": "Eternal Depth",
+    "title": "Underwater",
+    "display_title": "Underwater",
+    "track": "Eternal Depth - Underwater",
+    "length": 813,
+    "duration": 813,
+    "started": 1726601681,
+    "type": "track",
+    "track_id": 3094121,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/3/2/8/0/f/33280f3271e5d7b1a66eabff1511ac3b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/3/2/8/0/f/33280f3271e5d7b1a66eabff1511ac3b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lux",
+    "display_artist": "Lux",
+    "title": "Ethereal",
+    "display_title": "Ethereal",
+    "track": "Lux - Ethereal",
+    "length": 756,
+    "duration": 756,
+    "started": 1726602494,
+    "type": "track",
+    "track_id": 3079668,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/9/1/3/9/2/291392a2e9f75edecabdf74bec3c056e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/1/3/9/2/291392a2e9f75edecabdf74bec3c056e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Astral Journey",
+    "display_title": "Astral Journey",
+    "track": "Blue Wave Studio - Astral Journey",
+    "length": 593,
+    "duration": 593,
+    "started": 1726603249,
+    "type": "track",
+    "track_id": 3076851,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/2/9/8/3/c/22983ca67359a8cf760b1a86c0d05d64.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/9/8/3/c/22983ca67359a8cf760b1a86c0d05d64.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Study Music, Sounds, Study Alpha Waves, Binaural Beats Study Music",
+    "display_artist": "Study Music, Sounds, Study Alpha Waves, Binaural Beats Study Music",
+    "title": "Ambient Music for Focus and Concentration",
+    "display_title": "Ambient Music for Focus and Concentration",
+    "track": "Study Music, Sounds, Study Alpha Waves, Binaural Beats Study Music - Ambient Music for Focus and Concentration",
+    "length": 519,
+    "duration": 519,
+    "started": 1726603841,
+    "type": "track",
+    "track_id": 3083914,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/b/6/f/c/6/3b6fc6eff2da5c1ef21dc12a914ee4d8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/b/6/f/c/6/3b6fc6eff2da5c1ef21dc12a914ee4d8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Hammock",
+    "display_artist": "Hammock",
+    "title": "North",
+    "display_title": "North",
+    "track": "Hammock - North",
+    "length": 476,
+    "duration": 476,
+    "started": 1726604361,
+    "type": "track",
+    "track_id": 93876,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/9/e/c/2/7/39ec279af4217ea27e2f59817d3dc831.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/9/e/c/2/7/39ec279af4217ea27e2f59817d3dc831.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Jason Stephenson",
+    "display_artist": "Jason Stephenson",
+    "title": "Miracle Pathway",
+    "display_title": "Miracle Pathway",
+    "track": "Jason Stephenson - Miracle Pathway",
+    "length": 4200,
+    "duration": 4200,
+    "started": 1726604833,
+    "type": "track",
+    "track_id": 3063423,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/d/a/0/9/0/ada090f9369c8d195c9d5b9ea5ac7bea.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/d/a/0/9/0/ada090f9369c8d195c9d5b9ea5ac7bea.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Ashaneen & Piotr Janeczek",
+    "display_artist": "Ashaneen & Piotr Janeczek",
+    "title": "Dream",
+    "display_title": "Dream",
+    "track": "Ashaneen & Piotr Janeczek - Dream",
+    "length": 1099,
+    "duration": 1099,
+    "started": 1726609033,
+    "type": "track",
+    "track_id": 887911,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/d/1/e/c/0/4d1ec029f0ba75b116aae0c332e62ff3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/d/1/e/c/0/4d1ec029f0ba75b116aae0c332e62ff3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Awakens Intuition, Raises Energy at Cellular Level",
+    "display_title": "Awakens Intuition, Raises Energy at Cellular Level",
+    "track": "MindfulMed - Awakens Intuition, Raises Energy at Cellular Level",
+    "length": 778,
+    "duration": 778,
+    "started": 1726613981,
+    "type": "track",
+    "track_id": 3091915,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Vyanah",
+    "display_artist": "Vyanah",
+    "title": "Detox Your Body & Solving Problems",
+    "display_title": "Detox Your Body & Solving Problems",
+    "track": "Vyanah - Detox Your Body & Solving Problems",
+    "length": 603,
+    "duration": 603,
+    "started": 1726614759,
+    "type": "track",
+    "track_id": 3064335,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/2/c/b/4/b/22cb4b99be997afcd1438ecbab052eac.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/2/c/b/4/b/22cb4b99be997afcd1438ecbab052eac.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "285 Hz - Rejuvinated Energy Fields Vol. 2",
+    "display_title": "285 Hz - Rejuvinated Energy Fields Vol. 2",
+    "track": "Kev Thompson - 285 Hz - Rejuvinated Energy Fields Vol. 2",
+    "length": 536,
+    "duration": 536,
+    "started": 1726616126,
+    "type": "track",
+    "track_id": 3070379,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/8/f/d/3/0/f8fd30eeb0df0197d667c50134aa7fe9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/f/d/3/0/f8fd30eeb0df0197d667c50134aa7fe9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lux",
+    "display_artist": "Lux",
+    "title": "Blade Runner Ambience",
+    "display_title": "Blade Runner Ambience",
+    "track": "Lux - Blade Runner Ambience",
+    "length": 1610,
+    "duration": 1610,
+    "started": 1726616657,
+    "type": "track",
+    "track_id": 3070365,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/d/7/f/2/e/3d7f2ed878d1179876be73ca6e486530.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/d/7/f/2/e/3d7f2ed878d1179876be73ca6e486530.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Harmonic One",
+    "display_artist": "Harmonic One",
+    "title": "Meditation Music I-20",
+    "display_title": "Meditation Music I-20",
+    "track": "Harmonic One - Meditation Music I-20",
+    "length": 1200,
+    "duration": 1200,
+    "started": 1726618266,
+    "type": "track",
+    "track_id": 2966648,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/3/9/a/3/f/439a3ffc5cb2feefd821b0fdaefda17d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/9/a/3/f/439a3ffc5cb2feefd821b0fdaefda17d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Alpha Waves",
+    "display_title": "Alpha Waves",
+    "track": "Alpha Brain Waves - Alpha Waves",
+    "length": 3449,
+    "duration": 3449,
+    "started": 1726621017,
+    "type": "track",
+    "track_id": 2931100,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/f/5/1/7/8/9f5178def1fda72005bc2a2eb215684f.png",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/f/5/1/7/8/9f5178def1fda72005bc2a2eb215684f.png{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Delta Waves: Sounds of Universe",
+    "display_title": "Delta Waves: Sounds of Universe",
+    "track": "Mrm Team - Delta Waves: Sounds of Universe",
+    "length": 2916,
+    "duration": 2916,
+    "started": 1726634610,
+    "type": "track",
+    "track_id": 2909579,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/e/7/0/7/f/8e707f51ddeb3e036172e7361e5a85d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/7/0/7/f/8e707f51ddeb3e036172e7361e5a85d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Spacecraft",
+    "display_artist": "Spacecraft",
+    "title": "Sirius (Drone Edit)",
+    "display_title": "Sirius (Drone Edit)",
+    "track": "Spacecraft - Sirius (Drone Edit)",
+    "length": 219,
+    "duration": 219,
+    "started": 1726641097,
+    "type": "track",
+    "track_id": 3075171,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/1/1/3/a/f/e113af57e7bb05cb4434ab95e26918be.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/1/1/3/a/f/e113af57e7bb05cb4434ab95e26918be.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternal Depth",
+    "display_artist": "Eternal Depth",
+    "title": "Exoplanet",
+    "display_title": "Exoplanet",
+    "track": "Eternal Depth - Exoplanet",
+    "length": 522,
+    "duration": 522,
+    "started": 1726641315,
+    "type": "track",
+    "track_id": 3097352,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/d/d/b/b/b/fddbbbbe42982ea641a297ccbfc4f7db.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/d/b/b/b/fddbbbbe42982ea641a297ccbfc4f7db.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Good Weather For An Airstrike",
+    "display_artist": "Good Weather For An Airstrike",
+    "title": "Take Care of Yourself (Deep Contentration)",
+    "display_title": "Take Care of Yourself (Deep Contentration)",
+    "track": "Good Weather For An Airstrike - Take Care of Yourself (Deep Contentration)",
+    "length": 932,
+    "duration": 932,
+    "started": 1726641837,
+    "type": "track",
+    "track_id": 3085169,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/7/f/c/7/d/c7fc7df9192d407842770e22f8529637.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/7/f/c/7/d/c7fc7df9192d407842770e22f8529637.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Erik Wollo & Bernhard Wostheinrich",
+    "display_artist": "Erik Wollo & Bernhard Wostheinrich",
+    "title": "White Sea",
+    "display_title": "White Sea",
+    "track": "Erik Wollo & Bernhard Wostheinrich - White Sea",
+    "length": 188,
+    "duration": 188,
+    "started": 1726643290,
+    "type": "track",
+    "track_id": 333069,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/e/6/1/c/0/7e61c0042513834ca7fb5ca4157dfec0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/e/6/1/c/0/7e61c0042513834ca7fb5ca4157dfec0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Deep Relaxation and Focus",
+    "display_title": "Deep Relaxation and Focus",
+    "track": "Alpha Brain Waves - Deep Relaxation and Focus",
+    "length": 165,
+    "duration": 165,
+    "started": 1726644239,
+    "type": "track",
+    "track_id": 3064092,
+    "release": "Study and Focus for Deep Concentration and Enhanced Creativity",
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Call of My Dreams",
+    "display_title": "Call of My Dreams",
+    "track": "Blue Wave Studio - Call of My Dreams",
+    "length": 774,
+    "duration": 774,
+    "started": 1726644403,
+    "type": "track",
+    "track_id": 3063020,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/d/e/0/b/a/9de0bada96c454f49788a44d54f70675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/d/e/0/b/a/9de0bada96c454f49788a44d54f70675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Tranquil Music Sound of Nature",
+    "display_artist": "Tranquil Music Sound of Nature",
+    "title": "Sound of the Earth",
+    "display_title": "Sound of the Earth",
+    "track": "Tranquil Music Sound of Nature - Sound of the Earth",
+    "length": 512,
+    "duration": 512,
+    "started": 1726650496,
+    "type": "track",
+    "track_id": 2931124,
+    "release": "Soundscapes - Music for Deep Meditation. Soothing Relaxing Music with Nature Sounds for Relaxation and Meditation",
+    "art_url": "//cdn-images.audioaddict.com/0/8/a/7/4/b/08a74bc31e6ef5fce8f15d48b6b2f547.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/8/a/7/4/b/08a74bc31e6ef5fce8f15d48b6b2f547.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Jon Hopkins",
+    "display_artist": "Jon Hopkins",
+    "title": "Cold Out There",
+    "display_title": "Cold Out There",
+    "track": "Jon Hopkins - Cold Out There",
+    "length": 234,
+    "duration": 234,
+    "started": 1726651007,
+    "type": "track",
+    "track_id": 32378,
+    "release": "Opalescent",
+    "art_url": "//cdn-images.audioaddict.com/8/d/2/4/c/9/8d24c9fc4eb1ad0d8344497c67f2b89d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/2/4/c/9/8d24c9fc4eb1ad0d8344497c67f2b89d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alma Meris",
+    "display_artist": "Alma Meris",
+    "title": "Shut Eye (Deep Concentration)",
+    "display_title": "Shut Eye (Deep Concentration)",
+    "track": "Alma Meris - Shut Eye (Deep Concentration)",
+    "length": 1045,
+    "duration": 1045,
+    "started": 1726651238,
+    "type": "track",
+    "track_id": 3064090,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/9/2/d/2/0/092d2088005e93fbe33651493f31fced.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/9/2/d/2/0/092d2088005e93fbe33651493f31fced.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lux",
+    "display_artist": "Lux",
+    "title": "Replicant's Dream",
+    "display_title": "Replicant's Dream",
+    "track": "Lux - Replicant's Dream",
+    "length": 572,
+    "duration": 572,
+    "started": 1726652281,
+    "type": "track",
+    "track_id": 3081102,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/7/7/0/4/7/277047bf2a8ec7f8e8a7572f3b187464.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/7/0/4/7/277047bf2a8ec7f8e8a7572f3b187464.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Cove (Underwater)",
+    "display_title": "Cove (Underwater)",
+    "track": "Eternell - Cove (Underwater)",
+    "length": 1448,
+    "duration": 1448,
+    "started": 1726656282,
+    "type": "track",
+    "track_id": 3074933,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/d/8/3/3/91d833e54eb95c9fba5a6f4162099f75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/d/8/3/3/91d833e54eb95c9fba5a6f4162099f75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Vyanah",
+    "display_artist": "Vyanah",
+    "title": "Deep Theta Beats (Release Stress) Deep Concentration",
+    "display_title": "Deep Theta Beats (Release Stress) Deep Concentration",
+    "track": "Vyanah - Deep Theta Beats (Release Stress) Deep Concentration",
+    "length": 1742,
+    "duration": 1742,
+    "started": 1726657722,
+    "type": "track",
+    "track_id": 3015340,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/7/2/a/5/6/a72a56e4b069da2fc53d04ce9b0294ba.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/7/2/a/5/6/a72a56e4b069da2fc53d04ce9b0294ba.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Joseph Beg",
+    "display_artist": "Joseph Beg",
+    "title": "Soporificata",
+    "display_title": "Soporificata",
+    "track": "Joseph Beg - Soporificata",
+    "length": 180,
+    "duration": 180,
+    "started": 1726659462,
+    "type": "track",
+    "track_id": 3076941,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/e/1/b/4/c/4e1b4c900377ead810f0a83650d73fa8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/e/1/b/4/c/4e1b4c900377ead810f0a83650d73fa8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lauge",
+    "display_artist": "Lauge",
+    "title": "Frazil Ice",
+    "display_title": "Frazil Ice",
+    "track": "Lauge - Frazil Ice",
+    "length": 314,
+    "duration": 314,
+    "started": 1726661113,
+    "type": "track",
+    "track_id": 3011869,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/8/e/2/6/d/18e26d9b2875868e7e929369fc4fd2ff.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/8/e/2/6/d/18e26d9b2875868e7e929369fc4fd2ff.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "oh, the joy.",
+    "display_artist": "oh, the joy.",
+    "title": "Time Traveling",
+    "display_title": "Time Traveling",
+    "track": "oh, the joy. - Time Traveling",
+    "length": 206,
+    "duration": 206,
+    "started": 1726661426,
+    "type": "track",
+    "track_id": 3062235,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/3/3/c/3/3/133c33bb3ccabeda1c5f2d2933d7a7cf.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/3/3/c/3/3/133c33bb3ccabeda1c5f2d2933d7a7cf.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Focus and Achievement",
+    "display_title": "Focus and Achievement",
+    "track": "Alpha Brain Waves - Focus and Achievement",
+    "length": 1840,
+    "duration": 1840,
+    "started": 1726661631,
+    "type": "track",
+    "track_id": 3083909,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/e/8/2/4/7/1e82473287fda3aeb5a72069ba3faadb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/8/2/4/7/1e82473287fda3aeb5a72069ba3faadb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Quiet Quest",
+    "display_artist": "Quiet Quest",
+    "title": "Tenuous",
+    "display_title": "Tenuous",
+    "track": "Quiet Quest - Tenuous",
+    "length": 322,
+    "duration": 322,
+    "started": 1726667560,
+    "type": "track",
+    "track_id": 3091919,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/f/0/f/3/d/8f0f3dbec535fdd434dff8ffb33cdce3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/0/f/3/d/8f0f3dbec535fdd434dff8ffb33cdce3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Forest Dream (Long Version)",
+    "display_title": "Forest Dream (Long Version)",
+    "track": "Mrm Team - Forest Dream (Long Version)",
+    "length": 1694,
+    "duration": 1694,
+    "started": 1726669328,
+    "type": "track",
+    "track_id": 2931113,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/1/4/9/5/1/d14951242e551b13bd4429054e067b7a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/1/4/9/5/1/d14951242e551b13bd4429054e067b7a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "State Azure",
+    "display_artist": "State Azure",
+    "title": "A Memento for Blade Runners",
+    "display_title": "A Memento for Blade Runners",
+    "track": "State Azure - A Memento for Blade Runners",
+    "length": 700,
+    "duration": 700,
+    "started": 1726671161,
+    "type": "track",
+    "track_id": 3078620,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/5/a/d/9/b/75ad9be301dd6fe6bf00d5c35d098476.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/a/d/9/b/75ad9be301dd6fe6bf00d5c35d098476.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "BodyMindZone",
+    "display_artist": "BodyMindZone",
+    "title": "Inner Peace Journey",
+    "display_title": "Inner Peace Journey",
+    "track": "BodyMindZone - Inner Peace Journey",
+    "length": 3870,
+    "duration": 3870,
+    "started": 1726671859,
+    "type": "track",
+    "track_id": 3063413,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/c/a/5/8/e/aca58e707557b0581bcf44632fe53133.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/c/a/5/8/e/aca58e707557b0581bcf44632fe53133.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lux",
+    "display_artist": "Lux",
+    "title": "Blade Runner Ambience, Pt. 1",
+    "display_title": "Blade Runner Ambience, Pt. 1",
+    "track": "Lux - Blade Runner Ambience, Pt. 1",
+    "length": 500,
+    "duration": 500,
+    "started": 1726676123,
+    "type": "track",
+    "track_id": 3072960,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/1/5/0/3/a/31503a396c96fa2574dc06a6b5537803.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/5/0/3/a/31503a396c96fa2574dc06a6b5537803.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lauge",
+    "display_artist": "Lauge",
+    "title": "Still Frame",
+    "display_title": "Still Frame",
+    "track": "Lauge - Still Frame",
+    "length": 404,
+    "duration": 404,
+    "started": 1726676623,
+    "type": "track",
+    "track_id": 3013491,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/9/a/0/a/869a0adff7079aed206e4305c48f9d9a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/9/a/0/a/869a0adff7079aed206e4305c48f9d9a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Piotr Janeczek",
+    "display_artist": "Piotr Janeczek",
+    "title": "Aeon",
+    "display_title": "Aeon",
+    "track": "Piotr Janeczek - Aeon",
+    "length": 473,
+    "duration": 473,
+    "started": 1726677025,
+    "type": "track",
+    "track_id": 903028,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/b/f/c/6/3/bbfc6306931583c243cdc0a022012db1.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/b/f/c/6/3/bbfc6306931583c243cdc0a022012db1.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "741 Hz - Intuition, Problem Solving Vol. 2",
+    "display_title": "741 Hz - Intuition, Problem Solving Vol. 2",
+    "track": "Kev Thompson - 741 Hz - Intuition, Problem Solving Vol. 2",
+    "length": 416,
+    "duration": 416,
+    "started": 1726677498,
+    "type": "track",
+    "track_id": 3064241,
+    "release": "Solfeggio Frequencies: Vol. 2, Healing Musical Soundscapes for Meditation, Spa, Yoga & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/f/8/f/d/3/0/f8fd30eeb0df0197d667c50134aa7fe9.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/8/f/d/3/0/f8fd30eeb0df0197d667c50134aa7fe9.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "SpacewaveCR",
+    "display_artist": "SpacewaveCR",
+    "title": "Epic Heights",
+    "display_title": "Epic Heights",
+    "track": "SpacewaveCR - Epic Heights",
+    "length": 1774,
+    "duration": 1774,
+    "started": 1726677913,
+    "type": "track",
+    "track_id": 3101073,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/a/f/b/1/1/bafb11842f3bc284093b8bdeafe4c4e5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/f/b/1/1/bafb11842f3bc284093b8bdeafe4c4e5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Be Still the Earth",
+    "display_artist": "Be Still the Earth",
+    "title": "A Blanket of Stars",
+    "display_title": "A Blanket of Stars",
+    "track": "Be Still the Earth - A Blanket of Stars",
+    "length": 329,
+    "duration": 329,
+    "started": 1726679686,
+    "type": "track",
+    "track_id": 3079665,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/f/5/8/b/a/ef58badd6bfbbe2dd3de5561e9999f55.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/5/8/b/a/ef58badd6bfbbe2dd3de5561e9999f55.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "State Azure",
+    "display_artist": "State Azure",
+    "title": "Navigating a Latent Space (The Deep Void Mix)",
+    "display_title": "Navigating a Latent Space (The Deep Void Mix)",
+    "track": "State Azure - Navigating a Latent Space (The Deep Void Mix)",
+    "length": 5912,
+    "duration": 5912,
+    "started": 1726683630,
+    "type": "track",
+    "track_id": 3097607,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/1/c/d/1/f/11cd1ff9cac1fc3122eb76de0bf37d59.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/1/c/d/1/f/11cd1ff9cac1fc3122eb76de0bf37d59.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Vyanah",
+    "display_artist": "Vyanah",
+    "title": "Pain Relief & Full Body Healing",
+    "display_title": "Pain Relief & Full Body Healing",
+    "track": "Vyanah - Pain Relief & Full Body Healing",
+    "length": 574,
+    "duration": 574,
+    "started": 1726689543,
+    "type": "track",
+    "track_id": 3064337,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/4/0/2/8/e/84028e72391459747f63c3636126dc16.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/4/0/2/8/e/84028e72391459747f63c3636126dc16.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Binaural Landscapes",
+    "display_artist": "Binaural Landscapes",
+    "title": "Monaural (Deep Contentration Version)",
+    "display_title": "Monaural (Deep Contentration Version)",
+    "track": "Binaural Landscapes - Monaural (Deep Contentration Version)",
+    "length": 1302,
+    "duration": 1302,
+    "started": 1726690116,
+    "type": "track",
+    "track_id": 3070157,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/2/0/a/7/e920a7b7bab983f697767f2eff8f6784.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/2/0/a/7/e920a7b7bab983f697767f2eff8f6784.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Zoniacs",
+    "display_artist": "Zoniacs",
+    "title": "Cygnus",
+    "display_title": "Cygnus",
+    "track": "Zoniacs - Cygnus",
+    "length": 264,
+    "duration": 264,
+    "started": 1726691412,
+    "type": "track",
+    "track_id": 3064242,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/b/7/8/4/9/cb7849d9d6476a63ae97370da813608d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/b/7/8/4/9/cb7849d9d6476a63ae97370da813608d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Alpha Brain Waves",
+    "display_title": "Alpha Brain Waves",
+    "track": "Alpha Brain Waves - Alpha Brain Waves",
+    "length": 1153,
+    "duration": 1153,
+    "started": 1726691676,
+    "type": "track",
+    "track_id": 3083906,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/e/8/2/4/7/1e82473287fda3aeb5a72069ba3faadb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/e/8/2/4/7/1e82473287fda3aeb5a72069ba3faadb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "(LUX)",
+    "display_artist": "(LUX)",
+    "title": "Blade Runner Ambience (1 Hour)",
+    "display_title": "Blade Runner Ambience (1 Hour)",
+    "track": "(LUX) - Blade Runner Ambience (1 Hour)",
+    "length": 3652,
+    "duration": 3652,
+    "started": 1726692828,
+    "type": "track",
+    "track_id": 3101069,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/4/d/2/9/6/f4d2967b3ecc02cfcaf38574c74f7c2f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/4/d/2/9/6/f4d2967b3ecc02cfcaf38574c74f7c2f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "174 Hz - Pain Reduction Vol.2",
+    "display_title": "174 Hz - Pain Reduction Vol.2",
+    "track": "Kev Thompson - 174 Hz - Pain Reduction Vol.2",
+    "length": 1636,
+    "duration": 1636,
+    "started": 1726696476,
+    "type": "track",
+    "track_id": 2931106,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/1/b/0/7/9/51b0794941524c36ea3528bce47b698f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/1/b/0/7/9/51b0794941524c36ea3528bce47b698f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Piotr Janeczek",
+    "display_artist": "Piotr Janeczek",
+    "title": "Sanctuary",
+    "display_title": "Sanctuary",
+    "track": "Piotr Janeczek - Sanctuary",
+    "length": 684,
+    "duration": 684,
+    "started": 1726698011,
+    "type": "track",
+    "track_id": 888189,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/c/3/2/a/1/8c32a12fc0e3f0acabba3f23c377939d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/3/2/a/1/8c32a12fc0e3f0acabba3f23c377939d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Echo-ES & SandSpace",
+    "display_artist": "Echo-ES & SandSpace",
+    "title": "Memories (Part II)",
+    "display_title": "Memories (Part II)",
+    "track": "Echo-ES & SandSpace - Memories (Part II)",
+    "length": 410,
+    "duration": 410,
+    "started": 1726699472,
+    "type": "track",
+    "track_id": 770228,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/9/e/a/f/f/89eaff1dff15af75d2b9375388e0be44.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/9/e/a/f/f/89eaff1dff15af75d2b9375388e0be44.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Zoniacs",
+    "display_artist": "Zoniacs",
+    "title": "Cygnus (Extended version)",
+    "display_title": "Cygnus (Extended version)",
+    "track": "Zoniacs - Cygnus (Extended version)",
+    "length": 631,
+    "duration": 631,
+    "started": 1726712344,
+    "type": "track",
+    "track_id": 3069146,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/c/9/2/5/a/6c925a4327f1cd567fbafe73336ec26a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/c/9/2/5/a/6c925a4327f1cd567fbafe73336ec26a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Prabin Dangol",
+    "display_artist": "Prabin Dangol",
+    "title": "Boost Positive Energy",
+    "display_title": "Boost Positive Energy",
+    "track": "Prabin Dangol - Boost Positive Energy",
+    "length": 3658,
+    "duration": 3658,
+    "started": 1726712974,
+    "type": "track",
+    "track_id": 2931117,
+    "release": "Divine Penetration",
+    "art_url": "//cdn-images.audioaddict.com/c/0/9/e/0/4/c09e04e41a73a716dc06e3c614631d68.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/0/9/e/0/4/c09e04e41a73a716dc06e3c614631d68.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Space Relax Music Channel",
+    "display_artist": "Space Relax Music Channel",
+    "title": "Garlerin",
+    "display_title": "Garlerin",
+    "track": "Space Relax Music Channel - Garlerin",
+    "length": 792,
+    "duration": 792,
+    "started": 1726716633,
+    "type": "track",
+    "track_id": 3091921,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/9/3/d/a/2/e93da2d9bd5772dfb5f331a5a25ed81c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/9/3/d/a/2/e93da2d9bd5772dfb5f331a5a25ed81c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Michael Stearns",
+    "display_artist": "Michael Stearns",
+    "title": "Villages and Freeways (Deep Contentration)",
+    "display_title": "Villages and Freeways (Deep Contentration)",
+    "track": "Michael Stearns - Villages and Freeways (Deep Contentration)",
+    "length": 837,
+    "duration": 837,
+    "started": 1726719112,
+    "type": "track",
+    "track_id": 3079669,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/0/4/5/0/1/b04501e0d1109ef24feb6c5d14670a84.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/0/4/5/0/1/b04501e0d1109ef24feb6c5d14670a84.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Harmonic One",
+    "display_artist": "Harmonic One",
+    "title": "Meditation Music I (30 minutes)",
+    "display_title": "Meditation Music I (30 minutes)",
+    "track": "Harmonic One - Meditation Music I (30 minutes)",
+    "length": 1800,
+    "duration": 1800,
+    "started": 1726720179,
+    "type": "track",
+    "track_id": 2943914,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/3/9/a/3/f/439a3ffc5cb2feefd821b0fdaefda17d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/3/9/a/3/f/439a3ffc5cb2feefd821b0fdaefda17d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Echo-ES",
+    "display_artist": "Echo-ES",
+    "title": "Autumn Sun",
+    "display_title": "Autumn Sun",
+    "track": "Echo-ES - Autumn Sun",
+    "length": 722,
+    "duration": 722,
+    "started": 1726721977,
+    "type": "track",
+    "track_id": 2994965,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/5/6/b/f/5b56bf35e39b1e58541e90726f01223b.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/5/6/b/f/5b56bf35e39b1e58541e90726f01223b.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "SpacewaveCR",
+    "display_artist": "SpacewaveCR",
+    "title": "Neon Nights (Deep Contentration)",
+    "display_title": "Neon Nights (Deep Contentration)",
+    "track": "SpacewaveCR - Neon Nights (Deep Contentration)",
+    "length": 3422,
+    "duration": 3422,
+    "started": 1726722697,
+    "type": "track",
+    "track_id": 3070165,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/0/5/3/2/e/00532edfae160990add5a4bcc487572f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/0/5/3/2/e/00532edfae160990add5a4bcc487572f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Piotr Janeczek (Ashaneen)",
+    "display_artist": "Piotr Janeczek (Ashaneen)",
+    "title": "Sunrise Meditation (Special Anniversary Ocean Mix)",
+    "display_title": "Sunrise Meditation (Special Anniversary Ocean Mix)",
+    "track": "Piotr Janeczek (Ashaneen) - Sunrise Meditation (Special Anniversary Ocean Mix)",
+    "length": 2101,
+    "duration": 2101,
+    "started": 1726727921,
+    "type": "track",
+    "track_id": 2931116,
+    "release": "Sunrise Meditation (Special Anniversary Edition)",
+    "art_url": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/7/a/4/0/8/27a4080d1fdb309672713c4d7acb9800.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Zen Life Relax",
+    "display_artist": "Zen Life Relax",
+    "title": "Raindrops Cleansing It All",
+    "display_title": "Raindrops Cleansing It All",
+    "track": "Zen Life Relax - Raindrops Cleansing It All",
+    "length": 3601,
+    "duration": 3601,
+    "started": 1726732340,
+    "type": "track",
+    "track_id": 3085175,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/5/7/b/b/9/257bb92dd1d873f1dd2be5239a9b1b82.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/5/7/b/b/9/257bb92dd1d873f1dd2be5239a9b1b82.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Jon Hopkins",
+    "display_artist": "Jon Hopkins",
+    "title": "Apparition",
+    "display_title": "Apparition",
+    "track": "Jon Hopkins - Apparition",
+    "length": 122,
+    "duration": 122,
+    "started": 1726744487,
+    "type": "track",
+    "track_id": 75557,
+    "release": "Opalescent",
+    "art_url": "//cdn-images.audioaddict.com/8/d/2/4/c/9/8d24c9fc4eb1ad0d8344497c67f2b89d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/d/2/4/c/9/8d24c9fc4eb1ad0d8344497c67f2b89d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Still Light",
+    "display_title": "Still Light",
+    "track": "Eternell - Still Light",
+    "length": 1880,
+    "duration": 1880,
+    "started": 1726746618,
+    "type": "track",
+    "track_id": 3064234,
+    "release": "Still Light",
+    "art_url": "//cdn-images.audioaddict.com/5/c/9/0/d/2/5c90d2f55b3e678b2e95da844a1b8175.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/9/0/d/2/5c90d2f55b3e678b2e95da844a1b8175.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "(LUX)",
+    "display_artist": "(LUX)",
+    "title": "Frozen",
+    "display_title": "Frozen",
+    "track": "(LUX) - Frozen",
+    "length": 3608,
+    "duration": 3608,
+    "started": 1726748646,
+    "type": "track",
+    "track_id": 3080521,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/c/9/f/d/8/8c9fd80d5146d932fff96ef02116ee1d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/c/9/f/d/8/8c9fd80d5146d932fff96ef02116ee1d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Helios",
+    "display_artist": "Helios",
+    "title": "First Dream Called Ocean (Long Version)",
+    "display_title": "First Dream Called Ocean (Long Version)",
+    "track": "Helios - First Dream Called Ocean (Long Version)",
+    "length": 1014,
+    "duration": 1014,
+    "started": 1726752253,
+    "type": "track",
+    "track_id": 2931105,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/4/5/1/8/9/e45189d0c676dee094c1edc8e932363d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/4/5/1/8/9/e45189d0c676dee094c1edc8e932363d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Binaural Landscapes",
+    "display_artist": "Binaural Landscapes",
+    "title": "Sond",
+    "display_title": "Sond",
+    "track": "Binaural Landscapes - Sond",
+    "length": 208,
+    "duration": 208,
+    "started": 1726757093,
+    "type": "track",
+    "track_id": 3064101,
+    "release": "Relaxing Delta - EP",
+    "art_url": "//cdn-images.audioaddict.com/6/4/b/2/c/8/64b2c86b4819f25b6956973461956086.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/b/2/c/8/64b2c86b4819f25b6956973461956086.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Quiet Quest",
+    "display_artist": "Quiet Quest",
+    "title": "Amorphous",
+    "display_title": "Amorphous",
+    "track": "Quiet Quest - Amorphous",
+    "length": 324,
+    "duration": 324,
+    "started": 1726757300,
+    "type": "track",
+    "track_id": 3079670,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/f/0/f/3/d/8f0f3dbec535fdd434dff8ffb33cdce3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/0/f/3/d/8f0f3dbec535fdd434dff8ffb33cdce3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Cove (Meditation)(Extended version)",
+    "display_title": "Cove (Meditation)(Extended version)",
+    "track": "Eternell - Cove (Meditation)(Extended version)",
+    "length": 3833,
+    "duration": 3833,
+    "started": 1726757625,
+    "type": "track",
+    "track_id": 3070161,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/1/d/8/3/3/91d833e54eb95c9fba5a6f4162099f75.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/1/d/8/3/3/91d833e54eb95c9fba5a6f4162099f75.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Skylight+",
+    "display_artist": "Skylight+",
+    "title": "888 Abundance Pyramid",
+    "display_title": "888 Abundance Pyramid",
+    "track": "Skylight+ - 888 Abundance Pyramid",
+    "length": 806,
+    "duration": 806,
+    "started": 1726761456,
+    "type": "track",
+    "track_id": 3085172,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/b/4/2/b/2/1b42b21ddf324cde7f2313262719807f.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/b/4/2/b/2/1b42b21ddf324cde7f2313262719807f.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Sleeping Stars",
+    "display_title": "Sleeping Stars",
+    "track": "Blue Wave Studio - Sleeping Stars",
+    "length": 662,
+    "duration": 662,
+    "started": 1726762671,
+    "type": "track",
+    "track_id": 3044799,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/6/c/b/0/d/86cb0dd77544b902e823b447350bf3a0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/6/c/b/0/d/86cb0dd77544b902e823b447350bf3a0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "First Light Circus",
+    "display_artist": "First Light Circus",
+    "title": "Somnambulant",
+    "display_title": "Somnambulant",
+    "track": "First Light Circus - Somnambulant",
+    "length": 204,
+    "duration": 204,
+    "started": 1726771705,
+    "type": "track",
+    "track_id": 3044665,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/3/d/a/3/7/f3da376f5b33c0c2e8fb6cf68ac7ee86.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/3/d/a/3/7/f3da376f5b33c0c2e8fb6cf68ac7ee86.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Healing Brain Waves",
+    "display_title": "Healing Brain Waves",
+    "track": "Alpha Brain Waves - Healing Brain Waves",
+    "length": 157,
+    "duration": 157,
+    "started": 1726771908,
+    "type": "track",
+    "track_id": 3064093,
+    "release": "Study and Focus for Deep Concentration and Enhanced Creativity",
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Forrest Fang",
+    "display_artist": "Forrest Fang",
+    "title": "Not Forgotten",
+    "display_title": "Not Forgotten",
+    "track": "Forrest Fang - Not Forgotten",
+    "length": 665,
+    "duration": 665,
+    "started": 1726772877,
+    "type": "track",
+    "track_id": 3063032,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/b/d/9/3/c/ebd93cbe2f24599454b4cf80ae74c048.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/b/d/9/3/c/ebd93cbe2f24599454b4cf80ae74c048.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lux",
+    "display_artist": "Lux",
+    "title": "Blade in Blues (Extended)",
+    "display_title": "Blade in Blues (Extended)",
+    "track": "Lux - Blade in Blues (Extended)",
+    "length": 1312,
+    "duration": 1312,
+    "started": 1726774148,
+    "type": "track",
+    "track_id": 3070366,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/9/1/3/9/2/291392a2e9f75edecabdf74bec3c056e.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/9/1/3/9/2/291392a2e9f75edecabdf74bec3c056e.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "State Azure",
+    "display_artist": "State Azure",
+    "title": "Wasteland",
+    "display_title": "Wasteland",
+    "track": "State Azure - Wasteland",
+    "length": 2220,
+    "duration": 2220,
+    "started": 1726781450,
+    "type": "track",
+    "track_id": 3080520,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/7/b/4/4/e/37b44e459954b5e6b001464e53e8fd85.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/b/4/4/e/37b44e459954b5e6b001464e53e8fd85.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Dreamstate Logic",
+    "display_artist": "Dreamstate Logic",
+    "title": "Invisible Landscapes",
+    "display_title": "Invisible Landscapes",
+    "track": "Dreamstate Logic - Invisible Landscapes",
+    "length": 572,
+    "duration": 572,
+    "started": 1726788836,
+    "type": "track",
+    "track_id": 3074931,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/5/4/1/d/e/7541dec56fde3c03d23baab25221e31d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/5/4/1/d/e/7541dec56fde3c03d23baab25221e31d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Brainwave Power Music",
+    "display_artist": "Brainwave Power Music",
+    "title": "Mother's Cradle - Gentle Sleep Music Part 1",
+    "display_title": "Mother's Cradle - Gentle Sleep Music Part 1",
+    "track": "Brainwave Power Music - Mother's Cradle - Gentle Sleep Music Part 1",
+    "length": 5402,
+    "duration": 5402,
+    "started": 1726789409,
+    "type": "track",
+    "track_id": 3063028,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/2/e/e/8/d/12ee8dc52672e33d2b0617a121029b5a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/2/e/e/8/d/12ee8dc52672e33d2b0617a121029b5a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Kev Thompson",
+    "display_artist": "Kev Thompson",
+    "title": "639 Hz - Harmonious Relationships",
+    "display_title": "639 Hz - Harmonious Relationships",
+    "track": "Kev Thompson - 639 Hz - Harmonious Relationships",
+    "length": 588,
+    "duration": 588,
+    "started": 1726802760,
+    "type": "track",
+    "track_id": 3064240,
+    "release": "Sollfeggio Frequencies: Healing Musical Soundscapes for Meditation, Spa, Massage, Yoga & Deep Relaxation",
+    "art_url": "//cdn-images.audioaddict.com/c/7/b/0/b/b/c7b0bbb0340c114ab74a664766c610f8.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/7/b/0/b/b/c7b0bbb0340c114ab74a664766c610f8.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Sound Bath & Adam Bokesch",
+    "display_artist": "Sound Bath & Adam Bokesch",
+    "title": "Gemini",
+    "display_title": "Gemini",
+    "track": "Sound Bath & Adam Bokesch - Gemini",
+    "length": 212,
+    "duration": 212,
+    "started": 1726803346,
+    "type": "track",
+    "track_id": 3076950,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/d/4/1/1/5/cd4115858109cec688d2d52eee261d97.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/d/4/1/1/5/cd4115858109cec688d2d52eee261d97.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Juni Tinley",
+    "display_artist": "Juni Tinley",
+    "title": "Head in the Clouds Long",
+    "display_title": "Head in the Clouds Long",
+    "track": "Juni Tinley - Head in the Clouds Long",
+    "length": 465,
+    "duration": 465,
+    "started": 1726803556,
+    "type": "track",
+    "track_id": 3070373,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/e/6/d/a/6/9e6da66bf057711c11134e9435851d28.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/e/6/d/a/6/9e6da66bf057711c11134e9435851d28.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Silent Rhythm",
+    "display_artist": "Silent Rhythm",
+    "title": "Interstellar Wanderer (Deep Sleep Music)",
+    "display_title": "Interstellar Wanderer (Deep Sleep Music)",
+    "track": "Silent Rhythm - Interstellar Wanderer (Deep Sleep Music)",
+    "length": 4125,
+    "duration": 4125,
+    "started": 1726805230,
+    "type": "track",
+    "track_id": 3084229,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/a/8/f/3/b/0a8f3b33cfd9bb47398ab13b32a5527a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/a/8/f/3/b/0a8f3b33cfd9bb47398ab13b32a5527a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Inner Lotus Music",
+    "display_artist": "Inner Lotus Music",
+    "title": "Serenity (174Hz - album edit)",
+    "display_title": "Serenity (174Hz - album edit)",
+    "track": "Inner Lotus Music - Serenity (174Hz - album edit)",
+    "length": 631,
+    "duration": 631,
+    "started": 1726819740,
+    "type": "track",
+    "track_id": 3082348,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/1/7/9/1/7/a1791792de66a90c1dc47cdceb822956.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/1/7/9/1/7/a1791792de66a90c1dc47cdceb822956.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "State Azure",
+    "display_artist": "State Azure",
+    "title": "Navigating a Latent Space",
+    "display_title": "Navigating a Latent Space",
+    "track": "State Azure - Navigating a Latent Space",
+    "length": 5949,
+    "duration": 5949,
+    "started": 1726820367,
+    "type": "track",
+    "track_id": 3097608,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/7/1/4/3/5/f7143506ed660f07c3137282d37fe06a.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/7/1/4/3/5/f7143506ed660f07c3137282d37fe06a.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Zen Life Relax",
+    "display_artist": "Zen Life Relax",
+    "title": "Deep Sleep Delta Waves",
+    "display_title": "Deep Sleep Delta Waves",
+    "track": "Zen Life Relax - Deep Sleep Delta Waves",
+    "length": 3601,
+    "duration": 3601,
+    "started": 1726826308,
+    "type": "track",
+    "track_id": 3064339,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/c/c/4/b/c2cc4b547140ce0c030fd261bfb4e33d.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/c/c/4/b/c2cc4b547140ce0c030fd261bfb4e33d.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Delta Waves-Inner Space",
+    "display_title": "Delta Waves-Inner Space",
+    "track": "Mrm Team - Delta Waves-Inner Space",
+    "length": 2890,
+    "duration": 2890,
+    "started": 1726834263,
+    "type": "track",
+    "track_id": 1058483,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/8/f/8/0/f/d8f80f99539d9193834f4d7e04fc7ffb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/8/f/8/0/f/d8f80f99539d9193834f4d7e04fc7ffb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Lux",
+    "display_artist": "Lux",
+    "title": "Blade Runner Ambience, Pt. 2",
+    "display_title": "Blade Runner Ambience, Pt. 2",
+    "track": "Lux - Blade Runner Ambience, Pt. 2",
+    "length": 344,
+    "duration": 344,
+    "started": 1726837154,
+    "type": "track",
+    "track_id": 3072961,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/1/5/0/3/a/31503a396c96fa2574dc06a6b5537803.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/1/5/0/3/a/31503a396c96fa2574dc06a6b5537803.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Golden Dreams",
+    "display_title": "Golden Dreams",
+    "track": "Blue Wave Studio - Golden Dreams",
+    "length": 630,
+    "duration": 630,
+    "started": 1726837495,
+    "type": "track",
+    "track_id": 3076854,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/d/e/0/b/a/9de0bada96c454f49788a44d54f70675.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/9/d/e/0/b/a/9de0bada96c454f49788a44d54f70675.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Binaural Landscapes",
+    "display_artist": "Binaural Landscapes",
+    "title": "Angel Gamma Choir",
+    "display_title": "Angel Gamma Choir",
+    "track": "Binaural Landscapes - Angel Gamma Choir",
+    "length": 226,
+    "duration": 226,
+    "started": 1726838124,
+    "type": "track",
+    "track_id": 3064097,
+    "release": "Relaxing Delta - EP",
+    "art_url": "//cdn-images.audioaddict.com/6/4/b/2/c/8/64b2c86b4819f25b6956973461956086.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/4/b/2/c/8/64b2c86b4819f25b6956973461956086.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Floating",
+    "display_title": "Floating",
+    "track": "Eternell - Floating",
+    "length": 1200,
+    "duration": 1200,
+    "started": 1726841997,
+    "type": "track",
+    "track_id": 3070162,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/e/9/a/b/d/be9abddc278778cd718b7f7528236d15.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/e/9/a/b/d/be9abddc278778cd718b7f7528236d15.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Inner Lotus Music",
+    "display_artist": "Inner Lotus Music",
+    "title": "Healing Calm",
+    "display_title": "Healing Calm",
+    "track": "Inner Lotus Music - Healing Calm",
+    "length": 781,
+    "duration": 781,
+    "started": 1726843187,
+    "type": "track",
+    "track_id": 3101072,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/7/c/0/5/e/37c05e3c209898071be36652e0100109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/c/0/5/e/37c05e3c209898071be36652e0100109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Shrine (Meditation)",
+    "display_title": "Shrine (Meditation)",
+    "track": "Eternell - Shrine (Meditation)",
+    "length": 900,
+    "duration": 900,
+    "started": 1726843965,
+    "type": "track",
+    "track_id": 3063421,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/a/2/2/f/3/2a22f3a4f64e9b429b169f35a8f89446.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/a/2/2/f/3/2a22f3a4f64e9b429b169f35a8f89446.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Mira",
+    "display_title": "Mira",
+    "track": "Eternell - Mira",
+    "length": 1088,
+    "duration": 1088,
+    "started": 1726844861,
+    "type": "track",
+    "track_id": 3044664,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/6/d/e/d/1/e/6ded1e61dd913772c0dfe9e966a422b2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/6/d/e/d/1/e/6ded1e61dd913772c0dfe9e966a422b2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Silent Rhythm",
+    "display_artist": "Silent Rhythm",
+    "title": "Pure Deep Sleep",
+    "display_title": "Pure Deep Sleep",
+    "track": "Silent Rhythm - Pure Deep Sleep",
+    "length": 1807,
+    "duration": 1807,
+    "started": 1726849187,
+    "type": "track",
+    "track_id": 3097464,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/b/f/6/de4bf653ed968bb00dda547b4bef4b61.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/e/4/b/f/6/de4bf653ed968bb00dda547b4bef4b61.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Healing Tree Music",
+    "display_artist": "Healing Tree Music",
+    "title": "Ocean waves relaxing sleep music #1 (30min)",
+    "display_title": "Ocean waves relaxing sleep music #1 (30min)",
+    "track": "Healing Tree Music - Ocean waves relaxing sleep music #1 (30min)",
+    "length": 1861,
+    "duration": 1861,
+    "started": 1726855034,
+    "type": "track",
+    "track_id": 2929970,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/6/3/0/1/3/163013f96e2163fa0d1a0fcb1ab6b7d2.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/1/6/3/0/1/3/163013f96e2163fa0d1a0fcb1ab6b7d2.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Mrm Team",
+    "display_artist": "Mrm Team",
+    "title": "Delta Waves: Across the Galaxies",
+    "display_title": "Delta Waves: Across the Galaxies",
+    "track": "Mrm Team - Delta Waves: Across the Galaxies",
+    "length": 3147,
+    "duration": 3147,
+    "started": 1726872064,
+    "type": "track",
+    "track_id": 2909577,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/e/7/0/7/f/8e707f51ddeb3e036172e7361e5a85d0.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/e/7/0/7/f/8e707f51ddeb3e036172e7361e5a85d0.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves & Binaural Beats Library",
+    "display_artist": "Alpha Brain Waves & Binaural Beats Library",
+    "title": "Music for Your Brain",
+    "display_title": "Music for Your Brain",
+    "track": "Alpha Brain Waves & Binaural Beats Library - Music for Your Brain",
+    "length": 148,
+    "duration": 148,
+    "started": 1726882086,
+    "type": "track",
+    "track_id": 3097600,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/6/f/6/3/7/76f6371f13628ae33b6f2931d83b943c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/7/6/f/6/3/7/76f6371f13628ae33b6f2931d83b943c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Be Still the Earth",
+    "display_artist": "Be Still the Earth",
+    "title": "Moon Balloon",
+    "display_title": "Moon Balloon",
+    "track": "Be Still the Earth - Moon Balloon",
+    "length": 253,
+    "duration": 253,
+    "started": 1726944045,
+    "type": "track",
+    "track_id": 3097602,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/f/5/8/b/a/ef58badd6bfbbe2dd3de5561e9999f55.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/f/5/8/b/a/ef58badd6bfbbe2dd3de5561e9999f55.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Alpha Brain Waves",
+    "display_artist": "Alpha Brain Waves",
+    "title": "Brain Enhancement",
+    "display_title": "Brain Enhancement",
+    "track": "Alpha Brain Waves - Brain Enhancement",
+    "length": 152,
+    "duration": 152,
+    "started": 1726984771,
+    "type": "track",
+    "track_id": 3064091,
+    "release": "Study and Focus for Deep Concentration and Enhanced Creativity",
+    "art_url": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/4/9/a/1/e/c/49a1ecf693c085e1768bc2ba66701a66.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Yellow Brick Cinema",
+    "display_artist": "Yellow Brick Cinema",
+    "title": "Meditation Music for Studying 176",
+    "display_title": "Meditation Music for Studying 176",
+    "track": "Yellow Brick Cinema - Meditation Music for Studying 176",
+    "length": 3611,
+    "duration": 3611,
+    "started": 1727037091,
+    "type": "track",
+    "track_id": 2859775,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/d/0/6/2/6/5/d0626575f3f8db0b9ded588fb7a7d534.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Piotr Janeczek",
+    "display_artist": "Piotr Janeczek",
+    "title": "Deep Focusing",
+    "display_title": "Deep Focusing",
+    "track": "Piotr Janeczek - Deep Focusing",
+    "length": 519,
+    "duration": 519,
+    "started": 1727040700,
+    "type": "track",
+    "track_id": 898749,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/b/5/c/6/3/0b5c63d59ffa2cdb599eed86399d8e98.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/0/b/5/c/6/3/0b5c63d59ffa2cdb599eed86399d8e98.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Quiet Quest",
+    "display_artist": "Quiet Quest",
+    "title": "Rarefied",
+    "display_title": "Rarefied",
+    "track": "Quiet Quest - Rarefied",
+    "length": 318,
+    "duration": 318,
+    "started": 1727097221,
+    "type": "track",
+    "track_id": 3097604,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/f/0/f/3/d/8f0f3dbec535fdd434dff8ffb33cdce3.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/8/f/0/f/3/d/8f0f3dbec535fdd434dff8ffb33cdce3.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternell",
+    "display_artist": "Eternell",
+    "title": "Resting on the Surface of a Stream",
+    "display_title": "Resting on the Surface of a Stream",
+    "track": "Eternell - Resting on the Surface of a Stream",
+    "length": 1400,
+    "duration": 1400,
+    "started": 1727182087,
+    "type": "track",
+    "track_id": 3064233,
+    "release": "Still Light",
+    "art_url": "//cdn-images.audioaddict.com/5/c/9/0/d/2/5c90d2f55b3e678b2e95da844a1b8175.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/c/9/0/d/2/5c90d2f55b3e678b2e95da844a1b8175.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Binaural Landscapes",
+    "display_artist": "Binaural Landscapes",
+    "title": "One With You (Deep Contentration Version)",
+    "display_title": "One With You (Deep Contentration Version)",
+    "track": "Binaural Landscapes - One With You (Deep Contentration Version)",
+    "length": 859,
+    "duration": 859,
+    "started": 1727183486,
+    "type": "track",
+    "track_id": 3083910,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/7/b/7/f/c/57b7fcd3776a5101388d3ffcfcfb2da7.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/7/b/7/f/c/57b7fcd3776a5101388d3ffcfcfb2da7.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternal Depth",
+    "display_artist": "Eternal Depth",
+    "title": "Lifeforms",
+    "display_title": "Lifeforms",
+    "track": "Eternal Depth - Lifeforms",
+    "length": 524,
+    "duration": 524,
+    "started": 1727723407,
+    "type": "track",
+    "track_id": 3097278,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/d/d/b/b/b/fddbbbbe42982ea641a297ccbfc4f7db.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/d/b/b/b/fddbbbbe42982ea641a297ccbfc4f7db.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "SpacewaveCR",
+    "display_artist": "SpacewaveCR",
+    "title": "Titan",
+    "display_title": "Titan",
+    "track": "SpacewaveCR - Titan",
+    "length": 6282,
+    "duration": 6282,
+    "started": 1727724542,
+    "type": "track",
+    "track_id": 3102747,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/a/f/b/1/1/bafb11842f3bc284093b8bdeafe4c4e5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/f/b/1/1/bafb11842f3bc284093b8bdeafe4c4e5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Warmth",
+    "display_artist": "Warmth",
+    "title": "Concave (Reflection)",
+    "display_title": "Concave (Reflection)",
+    "track": "Warmth - Concave (Reflection)",
+    "length": 400,
+    "duration": 400,
+    "started": 1727730824,
+    "type": "track",
+    "track_id": 3102750,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/3/4/1/a/a/e341aabfd2ce01170ee350ba831a0f35.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/4/1/a/a/e341aabfd2ce01170ee350ba831a0f35.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Inner Lotus Music",
+    "display_artist": "Inner Lotus Music",
+    "title": "Inner Reflection",
+    "display_title": "Inner Reflection",
+    "track": "Inner Lotus Music - Inner Reflection",
+    "length": 816,
+    "duration": 816,
+    "started": 1727731219,
+    "type": "track",
+    "track_id": 3102744,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/7/c/0/5/e/37c05e3c209898071be36652e0100109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/c/0/5/e/37c05e3c209898071be36652e0100109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Heals Tissues & Organs",
+    "display_title": "Heals Tissues & Organs",
+    "track": "MindfulMed - Heals Tissues & Organs",
+    "length": 778,
+    "duration": 778,
+    "started": 1727735680,
+    "type": "track",
+    "track_id": 3099431,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Repairs DNA, Brings Positive Transformation",
+    "display_title": "Repairs DNA, Brings Positive Transformation",
+    "track": "MindfulMed - Repairs DNA, Brings Positive Transformation",
+    "length": 778,
+    "duration": 778,
+    "started": 1727736458,
+    "type": "track",
+    "track_id": 3091315,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Meditative Mind",
+    "display_artist": "Meditative Mind",
+    "title": "777Hz - Harmony of Angels (Slowed & Reverbed)",
+    "display_title": "777Hz - Harmony of Angels (Slowed & Reverbed)",
+    "track": "Meditative Mind - 777Hz - Harmony of Angels (Slowed & Reverbed)",
+    "length": 280,
+    "duration": 280,
+    "started": 1727737236,
+    "type": "track",
+    "track_id": 3099430,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/f/9/6/e/9/2f96e9013e07652bec4c52c76723e2bb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/2/f/9/6/e/9/2f96e9013e07652bec4c52c76723e2bb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Jeff Pearce",
+    "display_artist": "Jeff Pearce",
+    "title": "Nightstream",
+    "display_title": "Nightstream",
+    "track": "Jeff Pearce - Nightstream",
+    "length": 580,
+    "duration": 580,
+    "started": 1727737516,
+    "type": "track",
+    "track_id": 3101017,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/b/e/8/0/7/5be807bb92b75183bb3e9542f230b6fb.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/5/b/e/8/0/7/5be807bb92b75183bb3e9542f230b6fb.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Warmth",
+    "display_artist": "Warmth",
+    "title": "Receiver (Reflection)",
+    "display_title": "Receiver (Reflection)",
+    "track": "Warmth - Receiver (Reflection)",
+    "length": 411,
+    "duration": 411,
+    "started": 1727738096,
+    "type": "track",
+    "track_id": 3102751,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/3/4/1/a/a/e341aabfd2ce01170ee350ba831a0f35.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/e/3/4/1/a/a/e341aabfd2ce01170ee350ba831a0f35.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "SpacewaveCR",
+    "display_artist": "SpacewaveCR",
+    "title": "Night Streets",
+    "display_title": "Night Streets",
+    "track": "SpacewaveCR - Night Streets",
+    "length": 2056,
+    "duration": 2056,
+    "started": 1727738502,
+    "type": "track",
+    "track_id": 3102746,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/b/a/f/b/1/1/bafb11842f3bc284093b8bdeafe4c4e5.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/b/a/f/b/1/1/bafb11842f3bc284093b8bdeafe4c4e5.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Inner Lotus Music",
+    "display_artist": "Inner Lotus Music",
+    "title": "Circle of Stillness",
+    "display_title": "Circle of Stillness",
+    "track": "Inner Lotus Music - Circle of Stillness",
+    "length": 876,
+    "duration": 876,
+    "started": 1727740839,
+    "type": "track",
+    "track_id": 3102752,
+    "release": "Inner Reflection",
+    "art_url": "//cdn-images.audioaddict.com/3/7/c/0/5/e/37c05e3c209898071be36652e0100109.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/7/c/0/5/e/37c05e3c209898071be36652e0100109.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Blue Wave Studio",
+    "display_artist": "Blue Wave Studio",
+    "title": "Time for Midnight",
+    "display_title": "Time for Midnight",
+    "track": "Blue Wave Studio - Time for Midnight",
+    "length": 613,
+    "duration": 613,
+    "started": 1727742812,
+    "type": "track",
+    "track_id": 3062187,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/a/6/3/7/0/3a63702efc3b835bc5ab165f19deccf4.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/a/6/3/7/0/3a63702efc3b835bc5ab165f19deccf4.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "MindfulMed",
+    "display_artist": "MindfulMed",
+    "title": "Wipes out Negativity",
+    "display_title": "Wipes out Negativity",
+    "track": "MindfulMed - Wipes out Negativity",
+    "length": 778,
+    "duration": 778,
+    "started": 1727744113,
+    "type": "track",
+    "track_id": 3099432,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/c/2/b/b/5/2/c2bb521c9b36adaac29f6fc904154e9c.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Isostatic",
+    "display_artist": "Isostatic",
+    "title": "Red Sprites (Radio Edit)",
+    "display_title": "Red Sprites (Radio Edit)",
+    "track": "Isostatic - Red Sprites (Radio Edit)",
+    "length": 420,
+    "duration": 420,
+    "started": 1727744892,
+    "type": "track",
+    "track_id": 3102745,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/6/4/a/c/6/f64ac66492988bf3d93bfdc9c0e10d27.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/6/4/a/c/6/f64ac66492988bf3d93bfdc9c0e10d27.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "Eternal Depth",
+    "display_artist": "Eternal Depth",
+    "title": "Horizon",
+    "display_title": "Horizon",
+    "track": "Eternal Depth - Horizon",
+    "length": 631,
+    "duration": 631,
+    "started": 1727745309,
+    "type": "track",
+    "track_id": 3097277,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/d/d/b/b/b/fddbbbbe42982ea641a297ccbfc4f7db.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/f/d/d/b/b/b/fddbbbbe42982ea641a297ccbfc4f7db.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "State Azure",
+    "display_artist": "State Azure",
+    "title": "Hadley's Hope - LV-426",
+    "display_title": "Hadley's Hope - LV-426",
+    "track": "State Azure - Hadley's Hope - LV-426",
+    "length": 6360,
+    "duration": 6360,
+    "started": 1727745940,
+    "type": "track",
+    "track_id": 3102749,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/b/5/0/f/8/ab50f8b3d5ab62c418286c5e799f5994.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/a/b/5/0/f/8/ab50f8b3d5ab62c418286c5e799f5994.jpg{?size,height,width,quality,pad}"
+    }
+  },
+  {
+    "network_id": 16,
+    "channel_id": 481,
+    "artist": "State Azure",
+    "display_artist": "State Azure",
+    "title": "Artemis Station",
+    "display_title": "Artemis Station",
+    "track": "State Azure - Artemis Station",
+    "length": 6460,
+    "duration": 6460,
+    "started": 1727753081,
+    "type": "track",
+    "track_id": 3102748,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/3/c/8/6/7/a/3c867a76dd1303b25606bf3ef554effe.jpg",
+    "images": {
+      "default": "//cdn-images.audioaddict.com/3/c/8/6/7/a/3c867a76dd1303b25606bf3ef554effe.jpg{?size,height,width,quality,pad}"
+    }
+  }
+]
